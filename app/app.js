@@ -343,6 +343,7 @@ ACOES.conferir = () => {
   const certo = r.marcada === q.g;
   if (!q.anulada) { registrar(id, certo); S.feitas++; if (certo) S.ok++; salvar(); }
   telas.sessao();
+  const fb = $('.feedback'); if (fb) fb.scrollIntoView({ behavior: 'smooth', block: 'center' });
 };
 ACOES.pular = () => { S.i++; telas.sessao(); };
 ACOES.proxima = () => { S.i++; telas.sessao(); };

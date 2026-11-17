@@ -28,7 +28,7 @@ const out = process.argv[3] || '/tmp';
   await page.click('[data-acao=comecar]');
   for (let i = 0; i < 3; i++) {
     await page.click('.alt[data-i="1"] .txt');
-    if (i === 0) await page.click('.alt[data-i="3"] .riscar');
+    if (i === 0) await page.click('.alt[data-i="0"] .riscar');
     await page.click('[data-acao=conferir]');
     if (i === 0) await shot('03-questao-corrigida');
     await page.click('[data-acao=proxima]');
