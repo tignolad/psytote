@@ -736,5 +736,16 @@ function importarCronograma(txt) {
   try { await carregarBanco(); }
   catch (ex) { tela.innerHTML = `<div class="cartao"><h2>Ops</h2><p>Não consegui carregar o banco de questões. Verifique a internet na primeira abertura.</p><p class="suave pequeno">${esc(ex.message)}</p></div>`; return; }
   render();
-  if ('serviceWorker' in navigator && location.protocol !== 'file:') navigator.serviceWorker.register('sw.js').catch(() => {});
+  if ('serviceWorker' in navigator && location.protocol !== 'file:') {
+    const tinhaControle = !!navigator.serviceWorker.controller;
+    let recarregou = false;
+    // Versão nova instalada: recarrega para mostrar já (exceto no meio de uma sessão de questões).
+    navigator.serviceWorker.addEventListener('controllerchange', () => {
+      if (!tinhaControle || recarregou) return;
+      const rota = location.hash.slice(1).split('/')[0];
+      if (rota === 'sessao') return;
+      recarregou = true; location.reload();
+    });
+    navigator.serviceWorker.register('sw.js', { updateViaCache: 'none' }).then(r => r.update()).catch(() => {});
+  }
 })();
