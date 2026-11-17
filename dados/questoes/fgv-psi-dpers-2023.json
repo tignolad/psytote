@@ -1,0 +1,842 @@
+[
+ {
+  "id": "fgv-dpers-2023-psi-41",
+  "disciplina": "especificos",
+  "assunto": "esp-praticas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "DPE-RS",
+   "ano": 2023,
+   "cargo": "Analista – Apoio Especializado – Saúde – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-area-de-apoio-especializado-saude-psicologiaanaapoespsaudepsicologia-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/dpe-rs-gabaritos-definitivos-analistas.pdf",
+   "questao_original": 41,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Durante um mutirão de atendimento para superendividados, o setor de Psicologia da Defensoria Pública ofereceu aos assistidos a oportunidade de participar de rodas de conversa com o objetivo de proporcionar-lhes acolhimento e orientação no processo. Embora não se trate de uma terapia de grupo, é possível identificar nessas reuniões, como um fator terapêutico o(a):",
+  "alternativas": [
+   "formação reativa;",
+   "aprendizagem interpessoal;",
+   "identificação projetiva;",
+   "condicionamento operante;",
+   "compreensão da singularidade do problema."
+  ],
+  "gabarito": 1,
+  "comentario": "Entre os fatores terapêuticos de grupo descritos por Yalom está a aprendizagem interpessoal: na troca com os outros, o participante aprende sobre si, sobre suas formas de se relacionar e sobre novas maneiras de lidar com o problema. Esse fator pode aparecer em rodas de conversa, mesmo que não sejam psicoterapia de grupo. Formação reativa e identificação projetiva (A, C) são mecanismos de defesa, e não fatores terapêuticos. Condicionamento operante (D) é um princípio de aprendizagem behaviorista. A E inverte o fator da 'universalidade', que consiste em perceber que o próprio problema não é único.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-dpers-2023-psi-42",
+  "disciplina": "legislacao",
+  "assunto": "leg-lei13140",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "DPE-RS",
+   "ano": 2023,
+   "cargo": "Analista – Apoio Especializado – Saúde – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-area-de-apoio-especializado-saude-psicologiaanaapoespsaudepsicologia-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/dpe-rs-gabaritos-definitivos-analistas.pdf",
+   "questao_original": 42,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "O Centro de Referência em Mediação e Conciliação da Defensoria Pública do Estado do Rio Grande do Sul (CRMC-DPE/RS) é pioneiro no Brasil e disponibiliza Câmaras de Mediação para solucionar litígios e conflitos em diferentes contextos. A opção pela mediação nos conflitos de família é vantajosa para os assistidos porque:\nI. a autocomposição facilitada por um mediador busca métodos efetivos para restaurar o diálogo;\nII. a mediação permite o ajuizamento de ações com trâmite mais célere nas Varas de Família;\nIII. a solução consensual de conflitos é importante ferramenta de pacificação do ambiente familiar.\nEstá correto o que se afirma em:",
+  "alternativas": [
+   "somente II;",
+   "somente I e II;",
+   "somente I e III;",
+   "somente II e III;",
+   "I, II e III."
+  ],
+  "gabarito": 2,
+  "comentario": "A mediação é um meio de autocomposição em que um terceiro imparcial facilita o diálogo para que as próprias partes construam a solução (I). Nos conflitos familiares, a solução consensual contribui para pacificar as relações, que continuam após o conflito (III). A afirmativa II é falsa porque a mediação busca justamente evitar ou encerrar a judicialização, e não facilitar o ajuizamento de ações nas Varas de Família.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-dpers-2023-psi-43",
+  "disciplina": "especificos",
+  "assunto": "esp-avaliacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "DPE-RS",
+   "ano": 2023,
+   "cargo": "Analista – Apoio Especializado – Saúde – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-area-de-apoio-especializado-saude-psicologiaanaapoespsaudepsicologia-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/dpe-rs-gabaritos-definitivos-analistas.pdf",
+   "questao_original": 43,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "A entrevista psicológica é uma técnica utilizada pelos profissionais da psicologia em diferentes contextos, como clínico, organizacional, escolar, forense, entre outros. A escolha da técnica de entrevista depende do objetivo da entrevista e do contexto em que ela está inserida. Em pesquisas científicas, nas quais se procura padronizar a coleta de dados, o tipo comumente utilizado é a entrevista:",
+  "alternativas": [
+   "devolutiva;",
+   "semidirigida;",
+   "livre;",
+   "estruturada;",
+   "diagnóstica."
+  ],
+  "gabarito": 3,
+  "comentario": "Em pesquisas que precisam padronizar a coleta de dados, usa-se a entrevista estruturada: as perguntas são previamente definidas e feitas na mesma ordem e forma a todos os participantes, o que permite comparar e quantificar as respostas. A entrevista livre (C) e a semidirigida (B) dão mais flexibilidade e são menos padronizadas. Devolutiva (A) e diagnóstica (E) designam a finalidade da entrevista, e não seu grau de estruturação.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-dpers-2023-psi-44",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "DPE-RS",
+   "ano": 2023,
+   "cargo": "Analista – Apoio Especializado – Saúde – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-area-de-apoio-especializado-saude-psicologiaanaapoespsaudepsicologia-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/dpe-rs-gabaritos-definitivos-analistas.pdf",
+   "questao_original": 44,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "A Dependência de Videogames (DV) passou a ser considerada oficialmente uma doença no CID-11. No DSM-5 igualmente foi reconhecido o Transtorno de Jogo pela Internet. É critério para o diagnóstico desse transtorno:",
+  "alternativas": [
+   "colocar em risco ou perder um relacionamento, emprego ou oportunidade educacional ou de carreira significativa devido à participação em jogos pela internet;",
+   "aumentar o interesse por passatempos e divertimentos anteriores em consequência dos jogos pela internet;",
+   "fazer uso de jogos pela internet de forma recreativa, sem prejuízo de relações sociais, familiares, laborativas e escolares;",
+   "fazer uso de jogos pela internet para evitar ou aliviar o humor negativo, diminuindo progressivamente a tolerância;",
+   "apresentar sintomas de abstinência ao enganar membros da família, terapeutas ou outros em relação à quantidade do jogo pela internet."
+  ],
+  "gabarito": 0,
+  "comentario": "Entre os critérios propostos pelo DSM-5 para o Transtorno do Jogo pela Internet está pôr em risco ou perder relacionamento, emprego ou oportunidade educacional ou de carreira significativa por causa do jogo (A). O critério real é a perda de interesse por hobbies anteriores, e não o aumento (B). O uso recreativo sem prejuízo (C) não é patológico. Jogar para aliviar humor negativo é um critério, mas a D o mistura com uma 'diminuição da tolerância', quando a tolerância se refere à necessidade de jogar cada vez mais. Enganar familiares e terapeutas é um critério próprio, distinto da abstinência (E).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-dpers-2023-psi-45",
+  "disciplina": "especificos",
+  "assunto": "esp-trabalho",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "DPE-RS",
+   "ano": 2023,
+   "cargo": "Analista – Apoio Especializado – Saúde – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-area-de-apoio-especializado-saude-psicologiaanaapoespsaudepsicologia-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/dpe-rs-gabaritos-definitivos-analistas.pdf",
+   "questao_original": 45,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "A Psicologia tem oferecido uma relevante contribuição para a compreensão da subjetividade do trabalhador, sobretudo no que concerne às vivências de sofrimento no trabalho e às patologias dele decorrentes. Aspectos da organização do trabalho merecem atenção, pois podem gerar efeitos deletérios sobre a saúde mental dos trabalhadores e repercutir na qualidade da vida familiar e social do trabalhador. Dentre esses aspectos que podem contribuir para doenças laborais, NÃO se enquadra(m):",
+  "alternativas": [
+   "a sobrecarga de trabalho;",
+   "o excesso de horas extras;",
+   "as práticas de assédio moral;",
+   "a pressão por resultados;",
+   "o absenteísmo injustificado."
+  ],
+  "gabarito": 4,
+  "comentario": "Sobrecarga de trabalho, excesso de horas extras, assédio moral e pressão por resultados são aspectos da organização do trabalho reconhecidos como fatores de adoecimento psíquico. O absenteísmo não é um fator causal da organização do trabalho. Ele costuma ser uma consequência ou um indicador do sofrimento e do adoecimento dos trabalhadores, por isso não se enquadra na lista.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-dpers-2023-psi-46",
+  "disciplina": "legislacao",
+  "assunto": "leg-idoso-pcd",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "DPE-RS",
+   "ano": 2023,
+   "cargo": "Analista – Apoio Especializado – Saúde – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-area-de-apoio-especializado-saude-psicologiaanaapoespsaudepsicologia-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/dpe-rs-gabaritos-definitivos-analistas.pdf",
+   "questao_original": 46,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Sara, 85 anos, professora aposentada, mora sozinha desde que ficou viúva há cinco anos. Ela gosta de assistir a novelas e noticiários pela televisão, faz suas compras em uma mercearia ao lado de sua casa, recebe a visita de seus filhos e cuida de seu gato. Considerando as condições de Sara, é correto afirmar que:",
+  "alternativas": [
+   "Sara é uma anciã, logo tem perdas cognitivas e deve ser levada para uma instituição asilar onde possa receber cuidados;",
+   "os filhos podem ser denunciados e responsabilizados pelo abandono material e afetivo da mãe idosa;",
+   "Sara tem o direito de morar em sua própria casa desacompanhada de seus familiares, se assim o desejar;",
+   "graças ao etarismo, verifica-se um aumento na expectativa de vida da pessoa idosa com saúde e qualidade de vida;",
+   "é possível identificar um quadro depressivo na idosa, que se manifesta pela opção pelo isolamento social."
+  ],
+  "gabarito": 2,
+  "comentario": "O Estatuto da Pessoa Idosa assegura moradia digna no seio da família natural ou substituta, ou desacompanhada de seus familiares, quando assim o desejar. Sara é autônoma e tem vínculos, então tem o direito de morar sozinha. A é etarista ao presumir perda cognitiva e propor institucionalização. Não há abandono, pois os filhos a visitam (B). O etarismo é preconceito por idade e não explica o aumento da expectativa de vida (D). Morar só, com rotina e vínculos, não indica depressão (E).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-dpers-2023-psi-47",
+  "disciplina": "legislacao",
+  "assunto": "leg-codigo-etica",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "DPE-RS",
+   "ano": 2023,
+   "cargo": "Analista – Apoio Especializado – Saúde – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-area-de-apoio-especializado-saude-psicologiaanaapoespsaudepsicologia-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/dpe-rs-gabaritos-definitivos-analistas.pdf",
+   "questao_original": 47,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "André divulga seus serviços profissionais como psicólogo tarólogo e, após jogar cartas para sua cliente Vera, recomendou-lhe um tratamento de limpeza energética e indicou para isso um centro de determinada orientação religiosa. Considerando o disposto no Código de Ética Profissional do Psicólogo, é correto afirmar que:",
+  "alternativas": [
+   "é vedado ao psicólogo prestar serviços ou vincular o título de psicólogo a serviços de atendimento psicológico cujos procedimentos, técnicas e meios não estejam regulamentados ou reconhecidos pela profissão;",
+   "é permitido ao psicólogo orientar seu cliente em práticas e convicções políticas, filosóficas, morais, ideológicas ou religiosas quando do exercício de suas funções profissionais;",
+   "é autorizado ao psicólogo divulgar, ensinar, ceder, emprestar ou vender a leigos instrumentos e técnicas psicológicas que permitam ou facilitem o exercício legal da profissão;",
+   "é recomendado ao psicólogo introduzir a seu critério novas técnicas e saberes em sua atuação, contribuindo para o desenvolvimento da Psicologia como campo científico de conhecimento e de prática;",
+   "é proibido ao psicólogo abdicar de responsabilidades profissionais por atividades para as quais esteja capacitado espiritual, pessoal, teórica e tecnicamente."
+  ],
+  "gabarito": 0,
+  "comentario": "O Código de Ética Profissional do Psicólogo veda prestar serviços ou vincular o título de psicólogo a serviços cujos procedimentos, técnicas e meios não sejam regulamentados ou reconhecidos pela profissão, como o tarô (A). O Código também veda induzir convicções religiosas, filosóficas, morais ou ideológicas (B) e veda divulgar, ceder ou vender instrumentos e técnicas psicológicas a leigos (C). O psicólogo deve usar técnicas reconhecidas, e não introduzi-las 'a seu critério' (D). O dever é assumir responsabilidades apenas por atividades para as quais esteja capacitado pessoal, teórica e tecnicamente, sem menção a 'espiritual' (E).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-dpers-2023-psi-48",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "DPE-RS",
+   "ano": 2023,
+   "cargo": "Analista – Apoio Especializado – Saúde – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-area-de-apoio-especializado-saude-psicologiaanaapoespsaudepsicologia-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/dpe-rs-gabaritos-definitivos-analistas.pdf",
+   "questao_original": 48,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "De acordo com Art. 5º do Estatuto da Criança e do Adolescente, nenhuma criança ou adolescente será objeto de qualquer forma de negligência, discriminação, exploração, violência, crueldade e opressão, punido na forma da lei qualquer atentado, por ação ou omissão, aos seus direitos fundamentais. Considera-se como negligência dos pais com relação aos filhos:",
+  "alternativas": [
+   "o trabalho de crianças em condições insalubres;",
+   "o descumprimento da obrigação de matricular na escola;",
+   "a falta ou a carência de recursos materiais para a nutrição adequada;",
+   "a aplicação de castigos físicos imoderados;",
+   "o acolhimento institucional de crianças ou adolescentes."
+  ],
+  "gabarito": 1,
+  "comentario": "Negligência é a omissão dos responsáveis em prover cuidados básicos e direitos, como saúde, alimentação e educação. O ECA obriga os pais a matricular os filhos na rede regular de ensino, e descumprir essa obrigação é exemplo típico de negligência (B). O trabalho insalubre (A) é exploração, e os castigos físicos imoderados (D) são violência física. O ECA estabelece que a falta ou carência de recursos materiais, por si só, não autoriza a perda ou suspensão do poder familiar, então pobreza não equivale a negligência (C). O acolhimento institucional (E) é medida de proteção.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-dpers-2023-psi-49",
+  "disciplina": "especificos",
+  "assunto": "esp-praticas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "DPE-RS",
+   "ano": 2023,
+   "cargo": "Analista – Apoio Especializado – Saúde – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-area-de-apoio-especializado-saude-psicologiaanaapoespsaudepsicologia-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/dpe-rs-gabaritos-definitivos-analistas.pdf",
+   "questao_original": 49,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "O tabagismo é considerado pela Organização Mundial da Saúde (OMS) a principal causa de morte evitável no mundo. A psicologia pode exercer um papel fundamental na prevenção primária ao tabagismo através:",
+  "alternativas": [
+   "da terapia cognitiva-comportamental para a identificação dos gatilhos emocionais e comportamentais relacionados ao tabagismo;",
+   "da aplicação de técnicas de condicionamento aversivo e recompensas para evitar as recaídas;",
+   "da realização de entrevistas motivacionais para estimular o reconhecimento da dependência e a mudança de comportamento;",
+   "de palestras informativas em escolas voltadas para o público adolescente, visando evitar a iniciação no hábito de fumar;",
+   "do emprego de técnicas de relaxamento e controle de estresse em pacientes com DPOC e câncer pulmonar."
+  ],
+  "gabarito": 3,
+  "comentario": "A prevenção primária atua antes que o problema se instale, buscando impedir o início do hábito. Palestras informativas em escolas para evitar que adolescentes comecem a fumar são o exemplo clássico. TCC para gatilhos (A), entrevista motivacional (C) e técnicas para evitar recaídas (B) visam pessoas que já fumam, ou seja, prevenção secundária ou tratamento. O manejo de estresse em pacientes com DPOC ou câncer (E) é prevenção terciária.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-dpers-2023-psi-50",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "DPE-RS",
+   "ano": 2023,
+   "cargo": "Analista – Apoio Especializado – Saúde – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-area-de-apoio-especializado-saude-psicologiaanaapoespsaudepsicologia-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/dpe-rs-gabaritos-definitivos-analistas.pdf",
+   "questao_original": 50,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Os pais de Arthur, 10 anos, faleceram vítimas de um acidente automobilístico, e ele foi morar na casa de seu irmão paterno Julio, 28 anos, que, para se tornar seu responsável legal, deverá propor a ação de:",
+  "alternativas": [
+   "adoção de Arthur;",
+   "curatela de Arthur;",
+   "tutela de Arthur;",
+   "guarda provisória de Arthur;",
+   "paternidade socioafetiva."
+  ],
+  "gabarito": 2,
+  "comentario": "Com o falecimento dos pais, o filho menor é posto sob tutela (Código Civil e ECA). A tutela confere ao tutor a representação legal e implica a guarda. Por isso Julio deve propor a ação de tutela. Curatela (B) se destina a adultos com restrição de capacidade. A adoção (A) não é necessária, e o ECA veda a adoção por irmãos. A guarda provisória (D) não confere sozinha a representação legal plena. Paternidade socioafetiva (E) não se aplica a um irmão.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-dpers-2023-psi-51",
+  "disciplina": "especificos",
+  "assunto": "esp-direitos-humanos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "DPE-RS",
+   "ano": 2023,
+   "cargo": "Analista – Apoio Especializado – Saúde – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-area-de-apoio-especializado-saude-psicologiaanaapoespsaudepsicologia-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/dpe-rs-gabaritos-definitivos-analistas.pdf",
+   "questao_original": 51,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Sílvia é diretora de escola municipal em Porto Alegre e propôs uma semana de apresentações e palestras sobre a equidade de gênero e raça e também sobre o problema da violência doméstica e familiar contra a mulher nos níveis de ensino fundamental I e II. Os pais de alguns estudantes se manifestaram contrários a essa ideia pedagógica. Considerando o exposto, é correto afirmar que:",
+  "alternativas": [
+   "Sílvia deve solicitar a aprovação dos pais dos alunos do nível fundamental I antes de implementar essa iniciativa;",
+   "os estudantes do ensino fundamental II devem ser inquiridos se desejam participar dessa iniciativa antes que Sílvia proponha essa ideia na escola;",
+   "os responsáveis dos estudantes do ensino fundamental II necessitam ser consultados sobre essa proposta pedagógica antes de sua execução;",
+   "a proposta pedagógica da diretora encontra eco na ideia de promover e destacar conteúdos que disseminem valores éticos de irrestrito respeito à dignidade humana;",
+   "o Conselho Tutelar deve esclarecer se essa temática é adequada para alunos do ensino fundamental I."
+  ],
+  "gabarito": 3,
+  "comentario": "A Lei Maria da Penha prevê, entre as medidas integradas de prevenção, programas educacionais que disseminem valores éticos de irrestrito respeito à dignidade da pessoa humana com perspectiva de gênero e raça. Prevê também o destaque, nos currículos escolares de todos os níveis, de conteúdos sobre direitos humanos, equidade de gênero e raça e violência doméstica contra a mulher. A proposta da diretora está, portanto, amparada na lei (D). As demais alternativas condicionam a ação a consultas a pais, alunos ou Conselho Tutelar que a lei não exige.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-dpers-2023-psi-52",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "DPE-RS",
+   "ano": 2023,
+   "cargo": "Analista – Apoio Especializado – Saúde – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-area-de-apoio-especializado-saude-psicologiaanaapoespsaudepsicologia-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/dpe-rs-gabaritos-definitivos-analistas.pdf",
+   "questao_original": 52,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Gustavo e Ana se casaram há 12 anos e não tiveram filhos biológicos, mas ela era viúva de Mateus e levou sua filha Maria para viver com o casal. Recentemente, o casal decidiu se divorciar, e Maria, que atualmente tem 16 anos, disse que quer morar com Gustavo, que considera sua figura paterna. Considerando o exposto, é correto afirmar que:",
+  "alternativas": [
+   "Maria não pode ficar com o padrasto porque não possui vínculo consanguíneo com Gustavo;",
+   "Ana deve buscar a anuência dos pais de Mateus para que a menina permaneça com o padrasto;",
+   "a mãe biológica não pode permitir que a filha fique com Gustavo pois implicaria a perda do poder familiar sobre ela;",
+   "Gustavo deve, necessariamente, adotar a enteada para poder permanecer com a sua guarda;",
+   "Gustavo se configura como pai afetivo da adolescente e pode assumir a guarda da filha."
+  ],
+  "gabarito": 4,
+  "comentario": "O direito de família reconhece a parentalidade socioafetiva, baseada no vínculo de afeto e no exercício da função parental, e não só no vínculo biológico. Gustavo, que criou Maria por 12 anos e é reconhecido por ela como pai, pode assumir sua guarda, especialmente considerando a vontade da adolescente de 16 anos e seu melhor interesse. A erra ao exigir consanguinidade. Não há necessidade de anuência dos avós paternos (B), e a guarda com o padrasto não implica perda do poder familiar da mãe (C). A adoção não é condição para a guarda (D).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-dpers-2023-psi-53",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "DPE-RS",
+   "ano": 2023,
+   "cargo": "Analista – Apoio Especializado – Saúde – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-area-de-apoio-especializado-saude-psicologiaanaapoespsaudepsicologia-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/dpe-rs-gabaritos-definitivos-analistas.pdf",
+   "questao_original": 53,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Amarila sempre viveu com a mãe, Gisela, que morreu abruptamente há alguns meses. Mãe e filha eram muito unidas e, desde a morte de Gisela, Amarila passou a apresentar crises de ansiedade repentina e intensa, com forte sensação de medo ou mal-estar, sintomas de palpitação e dores torácicas, sensações de asfixia, tonturas e sentimentos de despersonalização. Ela também relata que está com muito medo de morrer. Em função dessa sintomatologia, Amarila buscou por emergência médica três vezes, mas não foi encontrado nada físico que justificasse os sintomas. Sugeriu-se então que ela procurasse ajuda em ambulatório psiquiátrico. Os sintomas de Amarila são sugestivos de:",
+  "alternativas": [
+   "transtorno de pânico;",
+   "transtorno afetivo bipolar;",
+   "esquizofrenia;",
+   "transtorno esquizoafetivo;",
+   "agorafobia."
+  ],
+  "gabarito": 0,
+  "comentario": "Ataques de ansiedade súbitos e intensos, com palpitações, dor torácica, sensação de asfixia, tontura, despersonalização e medo de morrer, sem causa orgânica, caracterizam ataques de pânico. Sendo recorrentes e acompanhados de preocupação com novos ataques, sugerem transtorno de pânico. A agorafobia (E) é o medo e a evitação de situações das quais seria difícil escapar, o que não é descrito. Bipolaridade, esquizofrenia e transtorno esquizoafetivo (B, C, D) envolvem alterações de humor ou sintomas psicóticos que estão ausentes no caso.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-dpers-2023-psi-54",
+  "disciplina": "especificos",
+  "assunto": "esp-praticas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "DPE-RS",
+   "ano": 2023,
+   "cargo": "Analista – Apoio Especializado – Saúde – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-area-de-apoio-especializado-saude-psicologiaanaapoespsaudepsicologia-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/dpe-rs-gabaritos-definitivos-analistas.pdf",
+   "questao_original": 54,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Jacob Levy Moreno dedicou sua vida ao trabalho com grupos. Ele estruturou um método que tem o objetivo de aumentar o envolvimento das pessoas na sociedade e ampliar a consciência, promovendo assim a inclusão social. O sociodrama desenvolvido por Moreno se apresenta como:",
+  "alternativas": [
+   "uma abordagem psicoterapêutica que considera que as cognições ou interpretações de uma pessoa determinam seus comportamentos e emoções;",
+   "um método de ação profundo que trata as relações intergrupais e as ideologias coletivas;",
+   "uma abordagem psicoterápica que se orienta para o espírito, através da exploração da experiência imediata, visando a liberdade e o encontro do sentido da vida;",
+   "uma ferramenta que provoca transformações profundas no indivíduo, suas relações, convicções pessoais e ideologias onde se apoia;",
+   "um método terapêutico que interpreta os conteúdos inconscientes de palavras e ações de um indivíduo a partir das associações livres e da transferência com o analista."
+  ],
+  "gabarito": 1,
+  "comentario": "Na obra de Moreno, o psicodrama trabalha as relações interpessoais e o mundo privado do protagonista, e o sociodrama é o método de ação profundo voltado às relações intergrupais e às ideologias coletivas, em que o protagonista é o próprio grupo. A descreve a terapia cognitiva, e C descreve a logoterapia ou abordagens existenciais. E descreve a psicanálise. D foca o indivíduo, o que não corresponde à especificidade grupal do sociodrama.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-dpers-2023-psi-55",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "DPE-RS",
+   "ano": 2023,
+   "cargo": "Analista – Apoio Especializado – Saúde – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-area-de-apoio-especializado-saude-psicologiaanaapoespsaudepsicologia-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/dpe-rs-gabaritos-definitivos-analistas.pdf",
+   "questao_original": 55,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "De acordo com as proposições desenvolvimentistas do psicólogo francês Henri Wallon, é correto afirmar que:",
+  "alternativas": [
+   "nos primeiros meses de vida do bebê, a mãe suficientemente boa desempenha, dentre outras, a função de holding;",
+   "a zona de desenvolvimento proximal define funções que ainda não amadureceram, mas estão em processo para tal;",
+   "a consciência de si surge, inicialmente, por meio da emoção;",
+   "a separação da figura do apego tornaria o bebê inseguro;",
+   "o crescimento cognitivo da criança se dá por assimilação e acomodação."
+  ],
+  "gabarito": 2,
+  "comentario": "Para Henri Wallon, a emoção tem papel central no desenvolvimento: é a primeira forma de comunicação e de vínculo com o meio social, e é por meio dela que se inicia a diferenciação entre o eu e o outro, ou seja, a consciência de si. Os distratores trazem conceitos de outros autores: holding e mãe suficientemente boa (A) são de Winnicott, e a zona de desenvolvimento proximal (B) é de Vygotsky. A insegurança pela separação da figura de apego (D) remete a Bowlby, e assimilação e acomodação (E) são de Piaget.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-dpers-2023-psi-56",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "DPE-RS",
+   "ano": 2023,
+   "cargo": "Analista – Apoio Especializado – Saúde – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-area-de-apoio-especializado-saude-psicologiaanaapoespsaudepsicologia-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/dpe-rs-gabaritos-definitivos-analistas.pdf",
+   "questao_original": 56,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "O transtorno caracterizado por impulsos repetitivos de compra ou ajuntamento de itens que resultam no amontoamento de objetos, diante da dificuldade em descartar bens, é chamado:",
+  "alternativas": [
+   "acumulação;",
+   "ansiedade;",
+   "borderline;",
+   "antissocial;",
+   "histriônico."
+  ],
+  "gabarito": 0,
+  "comentario": "O transtorno de acumulação, reconhecido no DSM-5 e na CID-11 no grupo do espectro obsessivo-compulsivo, caracteriza-se pela dificuldade persistente de descartar bens. Pode vir acompanhado de aquisição excessiva, o que leva ao amontoamento de objetos e compromete os espaços de vida. Ansiedade (B) é um termo genérico. Borderline, antissocial e histriônico (C, D, E) são transtornos de personalidade sem relação com esse quadro.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-dpers-2023-psi-57",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "DPE-RS",
+   "ano": 2023,
+   "cargo": "Analista – Apoio Especializado – Saúde – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-area-de-apoio-especializado-saude-psicologiaanaapoespsaudepsicologia-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/dpe-rs-gabaritos-definitivos-analistas.pdf",
+   "questao_original": 57,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "João, 12 anos, foi pego em flagrante furtando uma caixa de bombons para presentear sua mãe, que fazia aniversário. De acordo com as disposições do Estatuto da Criança e do Adolescente, é correto afirmar que:",
+  "alternativas": [
+   "antes de iniciado o processo judicial, o Ministério Público pode conceder a remissão como forma de exclusão do processo;",
+   "a polícia deve aplicar a medida socioeducativa de internação em estabelecimento educacional, considerando o flagrante de ato infracional do adolescente;",
+   "o Conselho Tutelar deve ser chamado para a aplicação de medida protetiva, pois João é considerado criança pela lei;",
+   "iniciado o procedimento judicial, a autoridade judiciária não pode conceder remissão ao adolescente em função da comprovação de responsabilidade no flagrante;",
+   "o Ministério Público é o responsável por aplicar medida socioeducativa nesse caso, tendo em vista que João já é adolescente."
+  ],
+  "gabarito": 0,
+  "comentario": "Pelo ECA, adolescente é a pessoa entre 12 e 18 anos, então João, com 12 anos, já é adolescente, o que torna C errada. Antes de iniciado o procedimento judicial, o Ministério Público pode conceder remissão como forma de exclusão do processo, considerando as circunstâncias do fato e a personalidade do adolescente (A). Depois de iniciado o procedimento, o juiz pode conceder remissão como suspensão ou extinção do processo (D errada). A polícia não aplica medidas socioeducativas (B), e a aplicação delas cabe à autoridade judiciária, não ao MP (E).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-dpers-2023-psi-58",
+  "disciplina": "legislacao",
+  "assunto": "leg-idoso-pcd",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "DPE-RS",
+   "ano": 2023,
+   "cargo": "Analista – Apoio Especializado – Saúde – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-area-de-apoio-especializado-saude-psicologiaanaapoespsaudepsicologia-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/dpe-rs-gabaritos-definitivos-analistas.pdf",
+   "questao_original": 58,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Com relação às normativas trazidas pelo Estatuto do Idoso, analise as afirmativas a seguir.\nI. O envelhecimento é um direito personalíssimo, e a sua proteção, um direito social.\nII. O direito à liberdade do idoso compreende a prática de esportes e de diversões.\nIII.\nÉ vedada a discriminação do idoso nos planos de saúde pela cobrança de valores diferenciados em razão da idade. Está correto o que se afirma em:",
+  "alternativas": [
+   "somente I;",
+   "somente II;",
+   "somente III;",
+   "somente I e II;",
+   "I, II e III."
+  ],
+  "gabarito": 4,
+  "comentario": "As três afirmativas reproduzem o Estatuto da Pessoa Idosa. O envelhecimento é direito personalíssimo e sua proteção é direito social (I). O direito à liberdade compreende, entre outros aspectos, a prática de esportes e de diversões (II). É vedada a discriminação da pessoa idosa nos planos de saúde pela cobrança de valores diferenciados em razão da idade (III).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-dpers-2023-psi-59",
+  "disciplina": "especificos",
+  "assunto": "esp-direitos-humanos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "DPE-RS",
+   "ano": 2023,
+   "cargo": "Analista – Apoio Especializado – Saúde – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-area-de-apoio-especializado-saude-psicologiaanaapoespsaudepsicologia-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/dpe-rs-gabaritos-definitivos-analistas.pdf",
+   "questao_original": 59,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "No Brasil, a violência contra mulheres e crianças ainda é uma triste realidade, e uma das formas de combate e diminuição dessas violências é compreender como se atribuem sentidos às relações tecidas entre homens, mulheres, crianças, travestis, transgêneros, transexuais. Judith Butler define gênero como:",
+  "alternativas": [
+   "expressão ou compreensão da essência biológica, pois as diferenças anatômicas entre os sexos resultam em desigualdades psicológicas, sociais e comportamentais;",
+   "ato performativo de nomeação (representações e comportamentos) que produz a diferença anatômica/sexual e as possibilidades de relações entre os seres;",
+   "resultado das pressões ambientais onde a biologia diferencial dos corpos é o parâmetro de inteligibilidade e de organização das relações entre homens e mulheres;",
+   "efeito de uma estrutura simbólica que oprime homens e mulheres igualmente, pois os homens também são conformados em determinados papéis sociais e sexuais;",
+   "objetivo de dominação social das relações entre homens e mulheres fundada na realidade biológica que distingue masculino e feminino."
+  ],
+  "gabarito": 1,
+  "comentario": "Para Judith Butler, o gênero é performativo: atos reiterados de nomeação e de comportamento produzem o efeito de uma identidade e até da própria diferença sexual, que parecia natural e anterior ao discurso. Assim, o gênero não expressa uma essência biológica (A, E) nem é mero produto de pressões ambientais sobre corpos biologicamente dados (C). D aproxima-se de leituras estruturalistas e iguala as opressões de homens e mulheres, o que não corresponde à tese da autora.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-dpers-2023-psi-60",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "DPE-RS",
+   "ano": 2023,
+   "cargo": "Analista – Apoio Especializado – Saúde – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-area-de-apoio-especializado-saude-psicologiaanaapoespsaudepsicologia-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/dpe-rs-gabaritos-definitivos-analistas.pdf",
+   "questao_original": 60,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "O mecanismo de defesa do ego que transfere traços de personalidade e sentimentos que não são aceitos como parte de si para outros indivíduos, atribuindo-lhes aspectos de sua própria personalidade é a:",
+  "alternativas": [
+   "negação;",
+   "projeção;",
+   "repressão;",
+   "regressão;",
+   "sublimação."
+  ],
+  "gabarito": 1,
+  "comentario": "Na projeção, o sujeito atribui a outras pessoas sentimentos, desejos ou traços que não aceita em si mesmo. Negação (A) é recusar uma percepção da realidade. Repressão (C) é afastar conteúdos da consciência. Regressão (D) é retornar a modos de funcionamento anteriores. Sublimação (E) é desviar a pulsão para alvos socialmente valorizados.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-dpers-2023-psi-61",
+  "disciplina": "legislacao",
+  "assunto": "leg-nt01-2022",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "DPE-RS",
+   "ano": 2023,
+   "cargo": "Analista – Apoio Especializado – Saúde – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-area-de-apoio-especializado-saude-psicologiaanaapoespsaudepsicologia-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/dpe-rs-gabaritos-definitivos-analistas.pdf",
+   "questao_original": 61,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Em relação à Nota Técnica CFP nº 1/2022, que versa sobre o Uso Profissional das Redes Sociais: Publicidade e Cuidados Éticos, é correto afirmar que:",
+  "alternativas": [
+   "é vedado ao psicólogo o uso do nome social ao promover publicamente os seus serviços nas redes sociais;",
+   "o psicólogo deve consultar o Conselho de Classe antes de escolher os meios de divulgação de sua atividade profissional;",
+   "ao realizar a publicidade profissional, o psicólogo deverá seguir o disposto no Código de Proteção e Defesa do Consumidor;",
+   "o psicólogo pode influenciar pessoa ou organização a recorrer a seus serviços, bem como pleitear ou receber comissões, empréstimos e doações;",
+   "ao divulgar os serviços, o psicólogo pode utilizar termos como atendimento social ou valor acessível como forma de propaganda, sendo vedados outros, como desconto ou pacote promocional."
+  ],
+  "gabarito": 2,
+  "comentario": "A Nota Técnica CFP 01/2022 orienta que a publicidade profissional observe, além do Código de Ética, as normas de proteção ao consumidor, como a vedação de publicidade enganosa ou abusiva (C). O uso do nome social é permitido e deve ser respeitado (A). Não há exigência de consultar o Conselho antes de escolher os meios de divulgação (B). O Código de Ética veda influenciar pessoas a recorrer aos serviços e pleitear comissões, empréstimos ou doações (D). A E inventa uma lista de termos 'permitidos' e 'vedados' que não corresponde à orientação da Nota.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-dpers-2023-psi-62",
+  "disciplina": "legislacao",
+  "assunto": "leg-res13-2022",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "DPE-RS",
+   "ano": 2023,
+   "cargo": "Analista – Apoio Especializado – Saúde – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-area-de-apoio-especializado-saude-psicologiaanaapoespsaudepsicologia-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/dpe-rs-gabaritos-definitivos-analistas.pdf",
+   "questao_original": 62,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Com base na Resolução CFP nº 13, de 15 de junho de 2022, que dispõe sobre diretrizes e deveres para o exercício da psicoterapia por psicóloga e por psicólogo, analise as afirmativas a seguir quanto à obrigatoriedade do profissional na prestação dos serviços de psicoterapia:\nI. Estabelecer contrato, verbal ou escrito, com a pessoa atendida ou responsável legal, que evidencie informação de que os serviços psicoterapêuticos prestados devem ser registrados.\nII. Disponibilizar o Código de Ética Profissional do Psicólogo, por meio físico ou virtual.\nIII. Proceder ao registro do serviço prestado de modo a descrever a demanda do paciente, a sintomatologia, a hipótese diagnóstica e o prognóstico.\nEstá correto o que se afirma em:",
+  "alternativas": [
+   "somente I;",
+   "somente II;",
+   "somente III;",
+   "somente I e II;",
+   "I, II e III."
+  ],
+  "gabarito": 3,
+  "comentario": "A Resolução CFP 13/2022 inclui entre os deveres do psicoterapeuta estabelecer contrato, verbal ou escrito, com a pessoa atendida ou seu responsável, que informe que os serviços serão registrados (I). Também exige disponibilizar o Código de Ética, por meio físico ou virtual (II). A afirmativa III é falsa porque o registro deve seguir as normas do CFP sobre registro documental, que não obrigam a registrar hipótese diagnóstica e prognóstico como conteúdo mínimo. Fixar esses elementos como obrigatórios contraria a diversidade de abordagens que a resolução respeita.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-dpers-2023-psi-63",
+  "disciplina": "legislacao",
+  "assunto": "leg-res06-2019",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "DPE-RS",
+   "ano": 2023,
+   "cargo": "Analista – Apoio Especializado – Saúde – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-area-de-apoio-especializado-saude-psicologiaanaapoespsaudepsicologia-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/dpe-rs-gabaritos-definitivos-analistas.pdf",
+   "questao_original": 63,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "A Resolução CFP nº 6, de 29 de março de 2019 institui regras para a elaboração de documentos escritos produzidos pela(o) psicóloga(o) no exercício profissional. Com base nela, é correto afirmar que:",
+  "alternativas": [
+   "diferentemente da declaração, o atestado psicológico resulta de uma avaliação psicológica;",
+   "a descrição da demanda é um requisito que a(o) psicóloga(o) pode dispensar a depender do caso avaliado;",
+   "o parecer psicológico resulta de um processo de avaliação psicológica ou de intervenção psicológica;",
+   "a declaração psicológica deve fazer o registro de sintomas, situações ou estados psicológicos da pessoa atendida;",
+   "o relatório visa a comunicar a atuação profissional da(o) psicóloga(o) em diferentes processos de trabalho, tendo como finalidade produzir diagnóstico psicológico."
+  ],
+  "gabarito": 0,
+  "comentario": "Pela Resolução CFP 06/2019, o atestado psicológico se fundamenta em diagnóstico psicológico, ou seja, resulta de avaliação, enquanto a declaração apenas informa a ocorrência de fatos ou situações objetivas do atendimento (A). A declaração não deve registrar sintomas ou estados psicológicos (D). A descrição da demanda é item obrigatório dos documentos, e o psicólogo não pode dispensá-la (B). O parecer é uma análise técnica de uma questão-problema ou de documentos questionados, e não resulta de avaliação ou intervenção (C). O relatório não tem como finalidade produzir diagnóstico (E).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-dpers-2023-psi-64",
+  "disciplina": "legislacao",
+  "assunto": "leg-res01-2009",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "DPE-RS",
+   "ano": 2023,
+   "cargo": "Analista – Apoio Especializado – Saúde – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-area-de-apoio-especializado-saude-psicologiaanaapoespsaudepsicologia-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/dpe-rs-gabaritos-definitivos-analistas.pdf",
+   "questao_original": 64,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Em face da obrigatoriedade do registro documental decorrente da prestação de serviços psicológicos, é correto afirmar que:",
+  "alternativas": [
+   "é vedado ao usuário ou representante legal o acesso integral às informações registradas, pelo psicólogo, em seu prontuário;",
+   "é obrigatório agrupar documentos de registro do trabalho realizado que contemple o conteúdo abordado em cada sessão e/ou entrevista psicológica;",
+   "a guarda do registro documental é de responsabilidade da autoridade administrativa à qual o psicólogo está diretamente subordinado;",
+   "na hipótese de o registro documental ser feito na forma de prontuário, o registro deve ser realizado em prontuários distintos quando em serviço multiprofissional;",
+   "o registro documental deve ser mantido em local que garanta sigilo e privacidade e mantenha-se à disposição dos Conselhos de Psicologia para orientação e fiscalização."
+  ],
+  "gabarito": 4,
+  "comentario": "A Resolução CFP 01/2009 (alterada pela 05/2010) torna obrigatório o registro documental e determina que ele seja mantido em local que garanta sigilo e privacidade, à disposição dos Conselhos de Psicologia para orientação e fiscalização (E). O usuário ou seu representante tem direito de acesso às informações do registro (A). A guarda é de responsabilidade do psicólogo e/ou da instituição, e não da chefia administrativa (C). Em serviço multiprofissional, o registro é feito em prontuário único, com o psicólogo registrando apenas as informações necessárias ao trabalho (D). B cria uma exigência de transcrever o conteúdo de cada sessão que a norma não estabelece.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-dpers-2023-psi-65",
+  "disciplina": "especificos",
+  "assunto": "esp-avaliacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "DPE-RS",
+   "ano": 2023,
+   "cargo": "Analista – Apoio Especializado – Saúde – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-area-de-apoio-especializado-saude-psicologiaanaapoespsaudepsicologia-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/dpe-rs-gabaritos-definitivos-analistas.pdf",
+   "questao_original": 65,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Com base na Resolução CFP nº 9, de 25 de abril de 2018, que estabelece diretrizes para a realização de Avaliação Psicológica no exercício profissional da(o) psicóloga(o) e regulamenta o Sistema de Avaliação de Testes Psicológicos (Satepsi), analise as afirmativas a seguir.\nI. Avaliação Psicológica é definida como um processo estruturado de investigação de fenômenos psicológicos, composto de métodos, técnicas e instrumentos, com o objetivo de prover informações à tomada de decisão, no âmbito individual, grupal ou institucional, com base em demandas, condições e finalidades específicas.\nII. Na realização da Avaliação Psicológica, consideram-se os registros de observação de comportamentos obtidos por meio de processo grupal e/ou técnicas de grupo, como sendo fonte complementar de informação.\nIII. Um teste psicológico tem por objetivo identificar, descrever, qualificar e mensurar características psicológicas, por meio de procedimentos sistemáticos de observação e descrição do comportamento humano, nas suas diversas formas de expressão, acordados pela comunidade científica.\nEstá correto o que se afirma em:",
+  "alternativas": [
+   "somente I;",
+   "somente II;",
+   "somente III;",
+   "somente I e III;",
+   "I, II e III."
+  ],
+  "gabarito": 3,
+  "comentario": "Na Resolução CFP 09/2018, a avaliação psicológica é definida como processo estruturado de investigação de fenômenos psicológicos, composto de métodos, técnicas e instrumentos, para prover informações à tomada de decisão (I), e o teste psicológico é definido nos termos da afirmativa III. A afirmativa II é falsa porque as entrevistas, a anamnese e os registros de observação de comportamentos, inclusive os obtidos em processos e técnicas de grupo, são fontes fundamentais de informação, e não complementares. Fontes complementares são, por exemplo, técnicas não psicológicas e documentos técnicos. Obs.: a Resolução 09/2018 foi revogada e substituída pela Resolução CFP 31/2022, que mantém essa estrutura geral.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-dpers-2023-psi-66",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "DPE-RS",
+   "ano": 2023,
+   "cargo": "Analista – Apoio Especializado – Saúde – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-area-de-apoio-especializado-saude-psicologiaanaapoespsaudepsicologia-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/dpe-rs-gabaritos-definitivos-analistas.pdf",
+   "questao_original": 66,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "A família transformou-se vertiginosamente nas últimas décadas, podendo ser ressaltada a substituição do pátrio poder pelo princípio de coparentalidade, no qual a autoridade deve ser compartilhada entre o pai e a mãe no que se refere à educação e aos cuidados do filho. Para adaptar-se a essas transformações, o direito de família também procura se atualizar, como em algumas leis que impactam diretamente a prática do psicólogo jurídico, por exemplo, a lei da guarda compartilhada (Lei nº 13.058, de 22 de dezembro de 2014). Sobre o tema, analise as afirmativas a seguir, considerando V para a(s) verdadeira(s) e F para a(s) falsa(s).\n( ) Na guarda compartilhada, o tempo de convívio com os filhos deve ser dividido de forma idêntica com a mãe e com o pai, sempre tendo em vista as melhores condições socioeconômicas e os interesses dos filhos.\n( ) Se o juiz verificar que o filho não deve permanecer sob a guarda do pai ou da mãe, deferirá a guarda à pessoa que revele compatibilidade com a natureza da medida, considerados, de preferência, o grau de parentesco e as relações de afinidade e afetividade.\n( ) Para estabelecer as atribuições do pai e da mãe e os períodos de convivência sob guarda compartilhada, o juiz, de ofício ou a requerimento do Ministério Público, poderá basear-se em orientação técnico-profissional ou de equipe interdisciplinar, que deverá visar à divisão equilibrada do tempo com o pai e com a mãe.\nA sequência correta é:",
+  "alternativas": [
+   "V – F – V;",
+   "F – V – V;",
+   "V – F – F;",
+   "F – V – F;",
+   "F – F – F."
+  ],
+  "gabarito": 1,
+  "comentario": "A 1ª afirmativa é F: o Código Civil, com a redação dada pela Lei 13.058/2014, determina divisão equilibrada do tempo de convívio, e não idêntica, e o critério não são as melhores condições socioeconômicas. A 2ª é V: se o filho não deve permanecer com o pai ou a mãe, o juiz defere a guarda a quem revele compatibilidade com a medida, considerando de preferência parentesco, afinidade e afetividade. A 3ª é V: o juiz, de ofício ou a requerimento do MP, pode basear-se em orientação técnico-profissional ou de equipe interdisciplinar, visando à divisão equilibrada do tempo. A sequência é F, V, V.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-dpers-2023-psi-67",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "DPE-RS",
+   "ano": 2023,
+   "cargo": "Analista – Apoio Especializado – Saúde – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-area-de-apoio-especializado-saude-psicologiaanaapoespsaudepsicologia-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/dpe-rs-gabaritos-definitivos-analistas.pdf",
+   "questao_original": 67,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "A figura do delinquente ou do anormal corresponde às práticas de constituição do sujeito, cujos modos de subjetivação estão ligados, segundo Michel Foucault, ao exercício do poder. De importância inegável para a psicologia, especialmente a psicologia jurídica, a analítica dos poderes é, para esse autor, o modo de abordar o tema do sujeito. De acordo com M. Foucault, é correto afirmar que o poder:",
+  "alternativas": [
+   "constitui o desejo humano através do interdito do incesto;",
+   "é repressor e se impõe de forma vertical a partir do Estado;",
+   "impõe-se sobre o sujeito que a priori possui uma essência natural;",
+   "tem caráter de positividade na medida em que produz individualidades;",
+   "é objetificado pelas classes burguesas para explorar a mão de obra proletária."
+  ],
+  "gabarito": 3,
+  "comentario": "Para Foucault, o poder não é apenas repressivo nem emana verticalmente do Estado (B). Ele circula em rede, por microfísicas, e é sobretudo produtivo: produz saberes, discursos e individualidades, como o 'delinquente' e o 'anormal'. Por isso a D está correta. A remete à leitura psicanalítica e estruturalista do interdito do incesto. C pressupõe uma essência natural prévia do sujeito, que Foucault recusa, já que o sujeito é efeito de práticas de poder-saber. E é uma leitura marxista clássica da dominação de classe.",
+  "dificuldade": 3,
+  "anulada": false
+ },
+ {
+  "id": "fgv-dpers-2023-psi-68",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "DPE-RS",
+   "ano": 2023,
+   "cargo": "Analista – Apoio Especializado – Saúde – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-area-de-apoio-especializado-saude-psicologiaanaapoespsaudepsicologia-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/dpe-rs-gabaritos-definitivos-analistas.pdf",
+   "questao_original": 68,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "O bebê nasce prematuro e depende de outrem para satisfazer às suas necessidades, sendo impotente para realizar a ação específica adequada para colocar fim à tensão interna. Tal estado é o protótipo da situação traumática geradora de angústia para o adulto, denominada por Freud:",
+  "alternativas": [
+   "recalque;",
+   "desamparo;",
+   "narcisismo;",
+   "castração;",
+   "desalento."
+  ],
+  "gabarito": 1,
+  "comentario": "Freud chama de desamparo (Hilflosigkeit) o estado do recém-nascido, que não consegue realizar sozinho a 'ação específica' para pôr fim à tensão interna e depende de outra pessoa. Esse estado é o protótipo da situação traumática geradora de angústia. Recalque (A) é um mecanismo de defesa. Narcisismo (C) refere-se ao investimento libidinal do eu, e castração (D) ao complexo de Édipo. 'Desalento' (E) não é o termo freudiano para esse estado.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-dpers-2023-psi-69",
+  "disciplina": "especificos",
+  "assunto": "esp-direitos-humanos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "DPE-RS",
+   "ano": 2023,
+   "cargo": "Analista – Apoio Especializado – Saúde – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-area-de-apoio-especializado-saude-psicologiaanaapoespsaudepsicologia-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/dpe-rs-gabaritos-definitivos-analistas.pdf",
+   "questao_original": 69,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "As chamadas “minorias” sexuais são hoje em dia muito mais visíveis do que outrora, de modo que o embate entre elas e os grupos conservadores torna-se ainda mais acirrado. Nesse contexto histórico e político de movimentos sociais, algumas teorias de gênero ganharam destaque, entre as quais a teoria queer, marcadamente pós-identitária e inspirada pelo pós-estruturalismo francês. Para uma das figuras teóricas de maior importância, Judith Butler, a linguagem que se refere ao sexo tem caráter performativo, pois produz os corpos e os sujeitos no instante mesmo da nomeação. O alvo central da teoria queer é:",
+  "alternativas": [
+   "a aceitação e a integração de homossexuais no sistema social;",
+   "a consideração da sexualidade humana como algo originariamente natural;",
+   "o reconhecimento de gays e lésbicas como pessoas normais com suas sexualidades singulares;",
+   "a crítica do binarismo hetero/homossexual como categoria de organização das práticas sociais e do conhecimento;",
+   "a confirmação da descoberta de Freud sobre a perversão polimorfa que caracteriza a sexualidade humana."
+  ],
+  "gabarito": 3,
+  "comentario": "A teoria queer, pós-identitária, tem como alvo central a crítica ao binarismo hétero/homossexual (e à heteronormatividade) como princípio organizador das práticas sociais e do conhecimento. A e C correspondem a uma agenda de integração e normalização de identidades, justamente o que a perspectiva queer critica. B naturaliza a sexualidade, contra a ideia de performatividade. E reduz a teoria a uma confirmação da psicanálise freudiana.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-dpers-2023-psi-70",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "DPE-RS",
+   "ano": 2023,
+   "cargo": "Analista – Apoio Especializado – Saúde – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-area-de-apoio-especializado-saude-psicologiaanaapoespsaudepsicologia-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/dpe-rs-gabaritos-definitivos-analistas.pdf",
+   "questao_original": 70,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "O Édipo é visto por Lacan a partir da antropologia estrutural, portanto, concebido como uma passagem do estado de natureza para a cultura. Se a sociedade humana é dominada pelo primado da linguagem, o Pai corresponde para Lacan:",
+  "alternativas": [
+   "ao guardião legal;",
+   "à socioafetividade;",
+   "a uma função simbólica;",
+   "ao ideal imaginário da criança;",
+   "à execução dos papéis sociais paternos."
+  ],
+  "gabarito": 2,
+  "comentario": "Em Lacan, a leitura do Édipo apoiada na antropologia estrutural de Lévi-Strauss faz do Pai uma função simbólica, o Nome-do-Pai. É o significante que representa a lei e a interdição e inscreve o sujeito na ordem da linguagem e da cultura. Não se trata do pai real ou legal (A), do vínculo socioafetivo (B), de uma imagem idealizada no registro imaginário (D) ou do desempenho de papéis sociais paternos (E).",
+  "dificuldade": 2,
+  "anulada": false
+ }
+]

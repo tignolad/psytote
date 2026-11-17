@@ -1,0 +1,662 @@
+[
+  {
+    "id": "aut-esp-fundamentos-001",
+    "disciplina": "especificos",
+    "assunto": "esp-fundamentos",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Bock, Furtado & Teixeira, Psicologias: uma introdução ao estudo de psicologia (Saraiva)"
+    },
+    "enunciado": "Toda vez que Lucas, de 6 anos, faz birra na hora de arrumar os brinquedos, a mãe desiste da exigência e arruma ela mesma. Com o tempo, as birras nessa situação ficaram mais frequentes. Na perspectiva da análise do comportamento, o processo que melhor descreve o aumento das birras é",
+    "alternativas": [
+      "reforçamento negativo, pois a birra é seguida da remoção de um estímulo aversivo (a tarefa), o que aumenta sua probabilidade.",
+      "punição negativa, pois a mãe retira algo que a criança valoriza (sua atenção e aprovação), o que, por contraste, aumenta a frequência da birra.",
+      "reforçamento positivo, pois a remoção da tarefa equivale à apresentação de um estímulo aversivo.",
+      "extinção, pois a mãe deixa de reforçar a arrumação dos brinquedos.",
+      "condicionamento respondente, pois a tarefa de arrumar passou a eliciar a birra de forma reflexa por pareamento repetido com a presença da mãe."
+    ],
+    "gabarito": 0,
+    "comentario": "Em Skinner, reforço é toda consequência que aumenta a frequência da resposta; é negativo quando consiste na retirada ou evitação de um estímulo aversivo — aqui, a tarefa de arrumar. Punição (positiva ou negativa) diminui a frequência da resposta, o que não ocorreu. Extinção é a suspensão do reforço de uma resposta antes reforçada, o que levaria à redução, e não ao aumento, da birra. Não se trata de comportamento respondente, eliciado por estímulo antecedente, mas de operante controlado por suas consequências.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-fundamentos-002",
+    "disciplina": "especificos",
+    "assunto": "esp-fundamentos",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Bock, Furtado & Teixeira, Psicologias: uma introdução ao estudo de psicologia (Saraiva)"
+    },
+    "enunciado": "Uma paciente em quimioterapia passou a sentir náuseas ao simplesmente avistar a fachada do hospital, mesmo em dias sem medicação. À luz do condicionamento clássico (pavloviano), é correto afirmar que",
+    "alternativas": [
+      "a náusea é um comportamento operante, mantido pelo reforço social (atenção e cuidado) que a paciente recebe da equipe de enfermagem ao relatar o mal-estar.",
+      "a quimioterapia é o estímulo condicionado e a fachada do hospital é o estímulo incondicionado.",
+      "trata-se de aprendizagem por modelação, pois a paciente observou outros pacientes nauseados.",
+      "o fenômeno descrito é uma habituação, em que a exposição repetida ao mesmo estímulo intensifica progressivamente a resposta, até que ela se generalize a outros contextos.",
+      "a fachada, antes neutra, tornou-se estímulo condicionado que elicia náusea (resposta condicionada) por ter sido pareada com a quimioterapia (estímulo incondicionado)."
+    ],
+    "gabarito": 4,
+    "comentario": "No condicionamento respondente, um estímulo neutro (fachada) pareado repetidamente a um estímulo incondicionado (quimioterapia, que elicia náusea de forma reflexa) passa a eliciar sozinho uma resposta semelhante — a resposta condicionada. A alternativa que inverte os papéis dos estímulos está errada. Não há indício de controle por consequências (operante) nem de aprendizagem por observação. Habituação é a diminuição da resposta pela exposição repetida, o oposto do que se descreve.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-fundamentos-003",
+    "disciplina": "especificos",
+    "assunto": "esp-fundamentos",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Bock, Furtado & Teixeira, Psicologias: uma introdução ao estudo de psicologia (Saraiva)"
+    },
+    "enunciado": "Máquinas caça-níqueis liberam prêmios após um número imprevisível de jogadas. Segundo a análise experimental do comportamento, esse esquema de reforçamento tende a produzir",
+    "alternativas": [
+      "respostas concentradas logo antes do momento previsível do reforço, típicas do esquema de intervalo fixo.",
+      "taxas de resposta altas e estáveis e grande resistência à extinção, típicas do esquema de razão variável.",
+      "pausas longas após cada reforço e baixa resistência à extinção, típicas do esquema de reforçamento contínuo.",
+      "taxas baixas de resposta, pois o reforço intermitente enfraquece o comportamento em comparação com o contínuo.",
+      "extinção rápida assim que os prêmios cessam, por ser um esquema de intervalo variável."
+    ],
+    "gabarito": 1,
+    "comentario": "O prêmio depende do número de respostas, que varia de forma imprevisível: é um esquema de razão variável, conhecido por gerar altas taxas de resposta sem pausas e forte resistência à extinção (por isso o jogo persiste mesmo após longas sequências sem ganho). O padrão em “festão” (aceleração perto do reforço) caracteriza o intervalo fixo. O reforçamento contínuo produz aquisição rápida, mas extinção também rápida. Esquemas intermitentes, ao contrário do que diz um dos distratores, aumentam a resistência à extinção.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-fundamentos-004",
+    "disciplina": "especificos",
+    "assunto": "esp-fundamentos",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Bock, Furtado & Teixeira, Psicologias: uma introdução ao estudo de psicologia (Saraiva)"
+    },
+    "enunciado": "Na segunda tópica freudiana, a instância psíquica considerada herdeira do complexo de Édipo, que se forma pela internalização das proibições e ideais parentais e exerce funções de consciência moral e de ideal, é o(a)",
+    "alternativas": [
+      "isso (id).",
+      "supereu (superego).",
+      "eu (ego).",
+      "pré-consciente.",
+      "princípio do prazer."
+    ],
+    "gabarito": 1,
+    "comentario": "Freud, em O ego e o id (1923), descreve o supereu como herdeiro do complexo de Édipo: formado pela identificação com as instâncias parentais, assume as funções de consciência moral, auto-observação e ideal. O isso é o polo pulsional, regido pelo princípio do prazer. O eu media as exigências do isso, do supereu e da realidade. O pré-consciente pertence à primeira tópica (sistemas Ics/Pcs/Cs), e princípio do prazer é um princípio de funcionamento, não uma instância.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-fundamentos-005",
+    "disciplina": "especificos",
+    "assunto": "esp-fundamentos",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Freud, A interpretação dos sonhos e textos metapsicológicos; Laplanche & Pontalis, Vocabulário da Psicanálise"
+    },
+    "enunciado": "Após ser humilhado pelo chefe numa reunião, Carlos não reage. Ao chegar em casa, grita com o filho por um motivo banal. O mecanismo de defesa que melhor descreve essa conduta denomina-se",
+    "alternativas": [
+      "projeção, em que o sujeito atribui a outrem desejos e sentimentos que não reconhece em si.",
+      "formação reativa, em que o sujeito adota atitude oposta ao impulso recalcado.",
+      "sublimação, em que a pulsão é desviada para alvos socialmente valorizados.",
+      "racionalização, em que o sujeito apresenta justificativas lógicas para um comportamento cujos motivos reais desconhece.",
+      "deslocamento, em que o afeto é transferido de seu objeto original para outro, menos ameaçador."
+    ],
+    "gabarito": 4,
+    "comentario": "No deslocamento, a carga afetiva ligada a uma representação (o chefe) desliga-se dela e passa a outra (o filho), que oferece menos risco. Na projeção, o sujeito expulsa de si e localiza no outro o que recusa em si. A formação reativa produz atitude contrária ao desejo (ex.: excesso de cuidado para encobrir hostilidade). A sublimação orienta a pulsão para fins socialmente valorizados, e a racionalização é uma justificativa intelectual a posteriori, o que não é o núcleo do caso.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-fundamentos-006",
+    "disciplina": "especificos",
+    "assunto": "esp-fundamentos",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Winnicott, O brincar e a realidade (1971)"
+    },
+    "enunciado": "Uma mãe relata que o filho de 1 ano não dorme sem um paninho específico, que leva a todos os lugares e não aceita que seja lavado. Na teoria de Winnicott, esse paninho é compreendido como",
+    "alternativas": [
+      "objeto parcial mau, alvo dos ataques sádicos e das projeções do bebê na posição esquizoparanoide, que ele tenta controlar de modo onipotente.",
+      "fetiche, substituto do falo materno, que indica estruturação perversa precoce.",
+      "sintoma de falha grave do holding materno, que exige intervenção imediata para retirar gradualmente o objeto e evitar dependência patológica.",
+      "estímulo condicionado, que adquiriu valor reforçador por pareamento com a alimentação.",
+      "objeto transicional, primeira possessão “não-eu”, numa área intermediária entre a realidade interna e a externa."
+    ],
+    "gabarito": 4,
+    "comentario": "Winnicott descreve o objeto transicional como a primeira possessão “não-eu” da criança, que pertence a uma área intermediária de experiência — nem totalmente interna nem externa — e é fenômeno normal do desenvolvimento, base do brincar e da experiência cultural. Objeto parcial mau e posição esquizoparanoide são conceitos kleinianos. Não se trata de fetiche nem de sinal patológico: retirar o objeto seria contrário à proposta winnicottiana. A explicação por condicionamento é estranha ao referencial pedido.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-fundamentos-007",
+    "disciplina": "especificos",
+    "assunto": "esp-fundamentos",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Klein, Notas sobre alguns mecanismos esquizoides (1946); Segal, Introdução à obra de Melanie Klein"
+    },
+    "enunciado": "Para Melanie Klein, a passagem da posição esquizoparanoide para a posição depressiva caracteriza-se, sobretudo, pela",
+    "alternativas": [
+      "intensificação da cisão entre objeto bom e objeto mau, com predomínio de ansiedades persecutórias e de defesas como a idealização e a negação.",
+      "resolução definitiva do complexo de Édipo, que em Klein ocorre apenas por volta dos cinco anos, após a consolidação do supereu herdado dos pais.",
+      "instalação de um quadro clínico de depressão, considerado patológico em qualquer idade.",
+      "integração do objeto, percebido como total (bom e mau), com surgimento da ambivalência, da culpa e de tendências reparadoras.",
+      "substituição das fantasias inconscientes por pensamento lógico-formal."
+    ],
+    "gabarito": 3,
+    "comentario": "Na posição depressiva, o bebê passa a relacionar-se com a mãe como objeto total, reconhecendo que o objeto amado e o odiado são o mesmo; surgem ambivalência, ansiedade depressiva (medo de ter danificado o objeto), culpa e desejo de reparação. A cisão e a ansiedade persecutória são marcas da posição esquizoparanoide. Klein situa o Édipo precocemente, no primeiro ano. “Posição depressiva” não é diagnóstico de depressão, e as fantasias inconscientes não desaparecem.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-fundamentos-008",
+    "disciplina": "especificos",
+    "assunto": "esp-fundamentos",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Lacan, O estádio do espelho como formador da função do eu (Escritos, 1949)"
+    },
+    "enunciado": "Em Lacan, o estádio do espelho, observado aproximadamente entre os 6 e os 18 meses, é relevante porque",
+    "alternativas": [
+      "marca a entrada da criança no registro do Real, no qual o sujeito passa a dominar plenamente a linguagem e a lei simbólica transmitida pelo pai.",
+      "corresponde à resolução do complexo de Édipo pela via da castração simbólica.",
+      "a criança se identifica com a imagem unificada de seu corpo, o que funda o eu como instância imaginária, por uma identificação alienante.",
+      "demonstra que o eu é a sede da verdade do sujeito e da autonomia frente ao desejo do Outro, consolidando uma identidade estável e não alienada.",
+      "descreve a aquisição da permanência do objeto, conforme a teoria de Piaget."
+    ],
+    "gabarito": 2,
+    "comentario": "Lacan propõe que a criança, ainda em imaturidade motora, antecipa uma unidade corporal ao reconhecer-se na imagem especular, assumida jubilosamente; o eu nasce dessa identificação com uma imagem externa, sendo, portanto, imaginário e alienado. O Real não é o registro da linguagem (que é o Simbólico). O estádio do espelho é anterior e distinto da resolução edípica. Lacan critica justamente a ideia de um eu autônomo e sede da verdade, e permanência do objeto é conceito piagetiano.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-fundamentos-009",
+    "disciplina": "especificos",
+    "assunto": "esp-fundamentos",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Rogers, Tornar-se pessoa; Bock et al., Psicologias"
+    },
+    "enunciado": "Uma psicóloga de orientação rogeriana acolhe o relato de uma cliente que confessa ter traído o marido, sem demonstrar reprovação, aceitando-a como pessoa digna de respeito independentemente do comportamento relatado. Essa atitude corresponde à",
+    "alternativas": [
+      "interpretação da transferência.",
+      "dessensibilização sistemática.",
+      "consideração positiva incondicional.",
+      "neutralidade técnica com abstinência.",
+      "confrontação paradoxal."
+    ],
+    "gabarito": 2,
+    "comentario": "Rogers aponta três condições facilitadoras da mudança terapêutica: congruência (autenticidade), compreensão empática e consideração positiva incondicional — aceitação calorosa da pessoa sem condicioná-la a comportamentos. Interpretar a transferência e manter neutralidade/abstinência são recursos da técnica psicanalítica. Dessensibilização sistemática é técnica comportamental de Wolpe. Confrontação paradoxal não é atitude da abordagem centrada na pessoa.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-fundamentos-010",
+    "disciplina": "especificos",
+    "assunto": "esp-fundamentos",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Bock, Furtado & Teixeira, Psicologias: uma introdução ao estudo de psicologia (Saraiva)"
+    },
+    "enunciado": "Ao observar uma figura formada por segmentos de um círculo com pequenas interrupções, a maioria das pessoas afirma ver “um círculo”. Segundo a psicologia da Gestalt, esse fenômeno ilustra a lei do(a)",
+    "alternativas": [
+      "fechamento, pela qual tendemos a completar perceptivamente formas incompletas.",
+      "proximidade, pela qual elementos próximos são agrupados.",
+      "semelhança, pela qual elementos parecidos em cor ou forma são agrupados.",
+      "constância perceptiva, pela qual o tamanho percebido não varia com a distância.",
+      "figura-fundo, pela qual o fundo é sempre percebido com mais nitidez que a figura."
+    ],
+    "gabarito": 0,
+    "comentario": "A lei do fechamento (ou clausura) descreve a tendência a perceber formas como completas, preenchendo lacunas — expressão do princípio geral da boa forma (pregnância). Proximidade e semelhança referem-se a critérios de agrupamento de elementos, não de completamento. Constância perceptiva é fenômeno distinto (estabilidade de tamanho, forma ou cor). Na relação figura-fundo, é a figura, e não o fundo, que se destaca.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-fundamentos-011",
+    "disciplina": "especificos",
+    "assunto": "esp-fundamentos",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Beck et al., Terapia cognitiva da depressão; Judith Beck, Terapia cognitivo-comportamental: teoria e prática"
+    },
+    "enunciado": "Segundo Aaron Beck, a depressão caracteriza-se por uma tríade cognitiva, que consiste em",
+    "alternativas": [
+      "visão negativa de si mesmo, do mundo (experiências) e do futuro.",
+      "déficit de memória, de atenção e de linguagem.",
+      "pensamentos automáticos positivos, crenças intermediárias neutras e esquemas adaptativos.",
+      "conflito entre id, ego e superego.",
+      "ausência de reforçadores, punição excessiva e extinção de respostas."
+    ],
+    "gabarito": 0,
+    "comentario": "Beck descreve a tríade cognitiva da depressão como a visão negativa do self (“sou incapaz”), do mundo/experiências (“nada dá certo”) e do futuro (“sempre será assim”), sustentada por distorções cognitivas e crenças disfuncionais. Déficits neuropsicológicos não definem a tríade. A alternativa sobre pensamentos positivos inverte o modelo. O conflito entre instâncias é referencial psicanalítico, e a explicação por perda de reforçadores é comportamental (Lewinsohn), não a tríade de Beck.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-fundamentos-012",
+    "disciplina": "especificos",
+    "assunto": "esp-fundamentos",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Ellis, Razão e emoção em psicoterapia; Knapp et al., Terapia cognitivo-comportamental na prática psiquiátrica"
+    },
+    "enunciado": "No modelo ABC de Albert Ellis (Terapia Racional-Emotiva Comportamental), um paciente reprovado em uma prova (A) sente intenso desespero (C). Para o modelo, a intervenção terapêutica deve focar principalmente",
+    "alternativas": [
+      "nas crenças irracionais (B) sobre o evento, principais responsáveis pela consequência emocional, por meio de seu questionamento (disputa).",
+      "no evento ativador (A), que determina diretamente a consequência emocional, cabendo ao terapeuta ajudar o paciente a evitar novas situações de avaliação.",
+      "na consequência emocional (C), que deve ser extinta por exposição prolongada ao desespero, sem discutir o modo como o paciente interpreta o evento.",
+      "nos conflitos inconscientes infantis que se repetem na relação transferencial.",
+      "no reforçamento positivo do choro, que mantém o desespero."
+    ],
+    "gabarito": 0,
+    "comentario": "Para Ellis, não é o acontecimento (A) que causa diretamente a emoção (C), mas as crenças (B) — sobretudo as irracionais, rígidas e absolutistas (“eu devo sempre ter sucesso”). A intervenção central é o questionamento/disputa (D) dessas crenças para produzir novas crenças mais funcionais (E). Atribuir causalidade direta a A contraria o modelo. Exposição, transferência e reforçamento são recursos de outros referenciais.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-fundamentos-013",
+    "disciplina": "especificos",
+    "assunto": "esp-fundamentos",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Vigotski, A formação social da mente; Bock et al., Psicologias"
+    },
+    "enunciado": "Uma professora observa que Ana, sozinha, ainda não consegue resolver problemas de adição com reserva, mas os resolve corretamente quando a professora faz perguntas que orientam os passos. Na teoria de Vigotski, essa distância entre o que a criança faz sozinha e o que faz com ajuda de alguém mais experiente é denominada",
+    "alternativas": [
+      "estágio operatório concreto.",
+      "período crítico de aprendizagem.",
+      "equilibração majorante.",
+      "zona de desenvolvimento proximal (iminente).",
+      "aprendizagem por ensaio e erro."
+    ],
+    "gabarito": 3,
+    "comentario": "Vigotski define a zona de desenvolvimento proximal como a distância entre o nível de desenvolvimento real (o que a criança resolve de forma independente) e o nível de desenvolvimento potencial (o que resolve sob orientação de um adulto ou par mais capaz). Para ele, o bom ensino incide nessa zona. Estágio operatório concreto e equilibração são conceitos piagetianos. Período crítico é noção etológica, e ensaio e erro remete a Thorndike.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-fundamentos-014",
+    "disciplina": "especificos",
+    "assunto": "esp-fundamentos",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Vigotski, A formação social da mente; Rego, Vygotsky: uma perspectiva histórico-cultural da educação"
+    },
+    "enunciado": "Na perspectiva histórico-cultural de Vigotski, as funções psicológicas superiores (atenção voluntária, memória lógica, pensamento verbal)",
+    "alternativas": [
+      "são inatas e amadurecem espontaneamente, independentemente das interações sociais.",
+      "resultam exclusivamente da maturação biológica do córtex pré-frontal, sem participação da linguagem ou dos instrumentos culturais em seu desenvolvimento.",
+      "surgem primeiro no plano individual, como produto da atividade solitária da criança, e só depois são compartilhadas socialmente por meio da linguagem.",
+      "são idênticas às funções elementares de outros animais, diferindo apenas em grau.",
+      "aparecem primeiro no plano interpsicológico (relações sociais) e depois no intrapsicológico, mediadas por signos culturalmente construídos."
+    ],
+    "gabarito": 4,
+    "comentario": "A lei genética geral do desenvolvimento cultural afirma que toda função aparece duas vezes: primeiro entre pessoas (interpsicológica) e depois no interior da criança (intrapsicológica). Essa internalização é mediada por instrumentos e, sobretudo, por signos (como a linguagem). Vigotski rejeita a explicação puramente inatista ou maturacional, inverte a ordem proposta por um dos distratores e distingue qualitativamente as funções superiores, de origem sócio-histórica, das elementares.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-fundamentos-015",
+    "disciplina": "especificos",
+    "assunto": "esp-fundamentos",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Piaget & Inhelder, A psicologia da criança; Bock et al., Psicologias"
+    },
+    "enunciado": "Um menino de 5 anos vê a mesma quantidade de suco ser passada de um copo largo e baixo para um copo estreito e alto e afirma que agora “tem mais suco”. Segundo Piaget, essa resposta é característica do estágio",
+    "alternativas": [
+      "pré-operatório, em que a criança ainda não domina a conservação, centrando-se em um só aspecto perceptivo (a altura).",
+      "sensório-motor, em que a criança ainda não adquiriu a permanência do objeto e, por isso, julga as quantidades apenas pela ação imediata.",
+      "operatório concreto, em que a criança já raciocina com base na reversibilidade e na compensação entre altura e largura dos recipientes.",
+      "operatório formal, em que a criança formula hipóteses abstratas.",
+      "de latência, em que as pulsões sexuais ficam adormecidas."
+    ],
+    "gabarito": 0,
+    "comentario": "A falta de conservação de líquidos, explicada pela centração e pela ausência de reversibilidade, é típica do estágio pré-operatório (cerca de 2 a 7 anos). No sensório-motor (0–2 anos) o problema central é outro, como a construção do objeto permanente. No operatório concreto a criança já conserva, justamente por usar a reversibilidade. O pensamento hipotético-dedutivo é do operatório formal. Latência é conceito freudiano.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-fundamentos-016",
+    "disciplina": "especificos",
+    "assunto": "esp-fundamentos",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Piaget, O nascimento da inteligência na criança; Bock et al., Psicologias"
+    },
+    "enunciado": "Uma criança que conhece apenas cães chama de “au-au” a primeira vaca que vê. Depois, ao ser corrigida e perceber diferenças, cria uma nova categoria para “vaca”. Em termos piagetianos, os dois momentos correspondem, respectivamente, a",
+    "alternativas": [
+      "acomodação e assimilação.",
+      "reforçamento e extinção.",
+      "imitação e modelação.",
+      "assimilação e acomodação.",
+      "egocentrismo e animismo."
+    ],
+    "gabarito": 3,
+    "comentario": "Na assimilação, o sujeito incorpora um elemento novo a esquemas já existentes (a vaca é tratada como “au-au”). Na acomodação, os esquemas se modificam para dar conta das particularidades do objeto (cria-se a categoria “vaca”). O equilíbrio entre esses dois processos é a equilibração. A ordem invertida torna errada a alternativa “acomodação e assimilação”. Reforçamento e modelação pertencem a outros referenciais, e egocentrismo/animismo são características do pensamento pré-operatório, não esses mecanismos.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-fundamentos-017",
+    "disciplina": "especificos",
+    "assunto": "esp-fundamentos",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Erikson, Infância e sociedade; Papalia & Feldman, Desenvolvimento humano"
+    },
+    "enunciado": "Márcio, 48 anos, relata sentir que sua vida “não deixou nada”, mostra desinteresse pelos mais jovens e preocupação excessiva consigo mesmo. Na teoria psicossocial de Erik Erikson, ele vivencia de modo desfavorável a crise de",
+    "alternativas": [
+      "identidade versus confusão de papéis.",
+      "intimidade versus isolamento.",
+      "generatividade versus estagnação.",
+      "integridade versus desespero.",
+      "iniciativa versus culpa."
+    ],
+    "gabarito": 2,
+    "comentario": "Na vida adulta intermediária, Erikson situa a crise de generatividade versus estagnação: a resolução favorável envolve cuidado com as próximas gerações, produtividade e criatividade; a desfavorável, autoabsorção e sensação de estagnação. Identidade versus confusão é crise da adolescência; intimidade versus isolamento, do adulto jovem; integridade versus desespero, da velhice; e iniciativa versus culpa, da idade pré-escolar.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-fundamentos-018",
+    "disciplina": "especificos",
+    "assunto": "esp-fundamentos",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Ainsworth et al., Patterns of attachment (1978); Bowlby, Apego"
+    },
+    "enunciado": "No procedimento da Situação Estranha, de Mary Ainsworth, um bebê de 12 meses explora o ambiente sem buscar a mãe, demonstra pouca angústia quando ela sai e, no reencontro, a evita ativamente, desviando o olhar. Esse padrão é classificado como apego",
+    "alternativas": [
+      "seguro.",
+      "inseguro-evitativo.",
+      "inseguro-ambivalente (resistente).",
+      "desorganizado.",
+      "monotrópico secundário."
+    ],
+    "gabarito": 1,
+    "comentario": "No apego evitativo, o bebê mostra pouca angústia na separação e evita a figura de apego no reencontro, o que se associa a cuidados pouco responsivos. O bebê seguro protesta na separação e busca conforto e se acalma no reencontro, usando a mãe como base segura. O ambivalente fica muito angustiado e, no reencontro, alterna busca de contato e raiva/resistência. O desorganizado (Main & Solomon) mostra comportamentos contraditórios ou de medo. “Monotrópico secundário” não é categoria do procedimento.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-fundamentos-019",
+    "disciplina": "especificos",
+    "assunto": "esp-fundamentos",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Baddeley, Eysenck & Anderson, Memória; Sternberg, Psicologia cognitiva"
+    },
+    "enunciado": "Um paciente com amnésia anterógrada grave aprende, ao longo de vários dias, a desenhar figuras olhando-as num espelho, melhorando seu desempenho, embora não se recorde de ter treinado. O caso evidencia que",
+    "alternativas": [
+      "a memória de trabalho é a única responsável pela aprendizagem de habilidades motoras, o que explica a melhora mesmo sem consolidação de longo prazo.",
+      "a memória procedural (implícita) pode estar preservada mesmo com a memória declarativa para novos episódios comprometida.",
+      "toda aprendizagem depende da recordação consciente do episódio de treino.",
+      "a memória semântica é o sistema que armazena habilidades motoras.",
+      "a amnésia anterógrada compromete igualmente todos os sistemas de memória, sendo a melhora explicada apenas por recuperação espontânea da lesão."
+    ],
+    "gabarito": 1,
+    "comentario": "Casos clássicos, como o de H.M., mostraram dissociação entre memória declarativa (explícita: episódica e semântica) e memória não declarativa (implícita), da qual faz parte a memória procedural de habilidades. O paciente melhora na tarefa sem lembrar do treino, o que contraria a ideia de que toda aprendizagem exige recordação consciente e de que a amnésia afeta igualmente todos os sistemas. A memória de trabalho é um sistema de manutenção temporária, e a semântica armazena conhecimentos gerais, não habilidades motoras.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-fundamentos-020",
+    "disciplina": "especificos",
+    "assunto": "esp-fundamentos",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Bandura, Social learning theory; Bock et al., Psicologias"
+    },
+    "enunciado": "Em um experimento, crianças que assistiram a um adulto agredir um boneco e ser elogiado por isso passaram a reproduzir os mesmos golpes quando deixadas sozinhas com o boneco. Segundo Albert Bandura, o fenômeno ilustra",
+    "alternativas": [
+      "o condicionamento respondente, pois o boneco, pareado com o adulto, passou a eliciar a agressão de forma reflexa nas crianças.",
+      "a aprendizagem por insight, característica da psicologia da Gestalt.",
+      "a extinção da agressividade inata por meio da catarse, já que observar o adulto descarregaria a raiva acumulada das crianças.",
+      "a aprendizagem observacional (modelação), favorecida pelo reforço vicário recebido pelo modelo.",
+      "a punição positiva do comportamento agressivo do modelo."
+    ],
+    "gabarito": 3,
+    "comentario": "Bandura demonstrou que comportamentos podem ser aprendidos pela observação de modelos, sem que o observador seja diretamente reforçado; ver o modelo ser recompensado (reforço vicário) aumenta a probabilidade de imitação. Não há reflexo eliciado (respondente), nem reorganização súbita do campo (insight). Os estudos contradisseram a hipótese catártica: observar agressão aumentou, e não diminuiu, a agressão. O modelo foi elogiado, ou seja, reforçado, e não punido.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-fundamentos-021",
+    "disciplina": "especificos",
+    "assunto": "esp-fundamentos",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Deci & Ryan, Intrinsic motivation and self-determination in human behavior; Sternberg, Psicologia cognitiva"
+    },
+    "enunciado": "Crianças que gostavam de desenhar passaram a receber prêmios para cada desenho feito. Quando os prêmios foram suspensos, desenharam menos do que antes do experimento. Segundo a teoria da autodeterminação (Deci e Ryan), esse resultado é explicado pelo fato de que",
+    "alternativas": [
+      "recompensas externas sempre aumentam a motivação intrínseca, de modo que a queda observada se deve à fadiga acumulada ao longo das sessões de desenho.",
+      "a motivação intrínseca depende exclusivamente da satisfação de necessidades fisiológicas.",
+      "o desenho é uma necessidade de autorrealização, que só surge depois de satisfeitas as necessidades de estima, segundo a hierarquia proposta pelos autores.",
+      "a suspensão do prêmio funcionou como reforço negativo do desenhar.",
+      "recompensas externas percebidas como controladoras podem reduzir a motivação intrínseca ao diminuir a percepção de autonomia (superjustificação)."
+    ],
+    "gabarito": 4,
+    "comentario": "Na teoria da autodeterminação, a motivação intrínseca sustenta-se na satisfação das necessidades de autonomia, competência e vínculo. Recompensas tangíveis e esperadas, vividas como controle, podem deslocar o lócus de causalidade para fora, reduzindo o interesse quando retiradas — o efeito de superjustificação. Recompensas não aumentam “sempre” a motivação intrínseca. A hierarquia de necessidades é de Maslow e não explica o dado experimental. Retirar o prêmio não é reforço negativo, que aumentaria a resposta.",
+    "dificuldade": 3,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-fundamentos-022",
+    "disciplina": "especificos",
+    "assunto": "esp-fundamentos",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Myers, Psicologia; Atkinson & Hilgard, Introdução à psicologia"
+    },
+    "enunciado": "Participantes receberam injeção de adrenalina sem saber de seus efeitos e foram colocados ao lado de um ator que agia com euforia ou com raiva; relataram emoções semelhantes às do ator. Esse estudo apoia a teoria da emoção de",
+    "alternativas": [
+      "James-Lange, segundo a qual cada emoção corresponde a um padrão fisiológico específico, percebido diretamente pelo sujeito, sem papel da cognição.",
+      "Cannon-Bard, segundo a qual a ativação fisiológica é irrelevante para a emoção.",
+      "Schachter e Singer (dois fatores), para a qual a emoção resulta da ativação fisiológica somada à interpretação cognitiva do contexto.",
+      "Darwin, segundo a qual as emoções são aprendidas culturalmente e variam entre povos, sem relação com a herança evolutiva da espécie.",
+      "Watson, segundo a qual as emoções são eventos mentais inobserváveis e, portanto, fora do objeto da psicologia."
+    ],
+    "gabarito": 2,
+    "comentario": "No experimento de 1962, a mesma ativação (adrenalina) foi rotulada como euforia ou raiva conforme as pistas contextuais, apoiando a teoria dos dois fatores: ativação inespecífica + rotulação cognitiva. James-Lange afirma que a emoção é a percepção das mudanças corporais, mas o estudo mostra que a ativação sozinha não define a emoção. Cannon-Bard propõe simultaneidade entre ativação e experiência, sem negar a ativação. Darwin enfatizou a universalidade adaptativa das expressões, e Watson estudou emoções como respostas observáveis condicionáveis.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-fundamentos-023",
+    "disciplina": "especificos",
+    "assunto": "esp-fundamentos",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Lane & Codo (orgs.), Psicologia social: o homem em movimento; Bock et al., Psicologias"
+    },
+    "enunciado": "A proposta de psicologia social desenvolvida por Silvia Lane, a partir dos anos 1970, caracteriza-se por",
+    "alternativas": [
+      "a adoção integral do modelo experimental de laboratório como único método válido para estudar o comportamento social, com controle rigoroso de variáveis isoladas.",
+      "a redução dos fenômenos sociais a processos cognitivos individuais de atribuição de causalidade e de formação de impressões, estudados em pequenos grupos.",
+      "a compreensão do indivíduo como ser natural e universal, cujas características psíquicas independem das condições materiais e históricas de vida.",
+      "uma crítica à psicologia social norte-americana positivista e a defesa de uma psicologia sócio-histórica, com categorias como atividade, consciência e identidade.",
+      "o abandono do compromisso social da psicologia em favor de uma ciência neutra."
+    ],
+    "gabarito": 3,
+    "comentario": "Silvia Lane, em O que é psicologia social e em Psicologia social: o homem em movimento, liderou a crítica à psicologia social hegemônica, a-histórica e positivista, propondo uma psicologia social crítica de base materialista histórico-dialética, inspirada em Vigotski e Leontiev, com categorias como atividade, consciência, linguagem e identidade. Os distratores descrevem justamente o que ela criticava: experimentalismo exclusivo, individualismo cognitivista, naturalização do psiquismo e pretensa neutralidade.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-fundamentos-024",
+    "disciplina": "especificos",
+    "assunto": "esp-fundamentos",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Moscovici, Representações sociais: investigações em psicologia social; Jodelet (org.), As representações sociais"
+    },
+    "enunciado": "No início da epidemia de HIV/aids, a doença foi chamada por parte da imprensa de “câncer gay”, aproximando o fenômeno novo de categorias já conhecidas. Na teoria das representações sociais de Serge Moscovici, esse processo é denominado",
+    "alternativas": [
+      "ancoragem.",
+      "objetivação.",
+      "dissonância cognitiva.",
+      "atribuição disposicional.",
+      "conformidade normativa."
+    ],
+    "gabarito": 0,
+    "comentario": "Moscovici identifica dois processos formadores das representações sociais: a ancoragem, que integra o não familiar a categorias e imagens preexistentes, classificando-o e nomeando-o (o novo vira “uma espécie de câncer”), e a objetivação, que torna concreto o abstrato, transformando conceitos em imagens. Dissonância cognitiva (Festinger), atribuição (Heider/Kelley) e conformidade (Asch) são construtos de outras tradições da psicologia social.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-fundamentos-025",
+    "disciplina": "especificos",
+    "assunto": "esp-fundamentos",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Festinger, Teoria da dissonância cognitiva; Rodrigues, Assmar & Jablonski, Psicologia social"
+    },
+    "enunciado": "Em um estudo clássico, participantes que receberam uma quantia pequena para dizer a outra pessoa que uma tarefa monótona era interessante passaram, depois, a avaliá-la como mais agradável do que os que receberam uma quantia alta. O fenômeno é explicado pela teoria",
+    "alternativas": [
+      "do reforço, pois quem recebe mais dinheiro deveria gostar mais da tarefa.",
+      "das representações sociais, pois a tarefa monótona foi ancorada em categorias familiares e objetivada em imagens compartilhadas pelo grupo de participantes.",
+      "da dissonância cognitiva, de Festinger: com justificativa externa insuficiente, o sujeito muda a atitude para reduzir o desconforto entre crença e comportamento.",
+      "da obediência à autoridade, de Milgram, pois os participantes apenas cumpriram as ordens do experimentador e passaram a concordar com ele por deferência ao seu status.",
+      "da facilitação social, pois a presença de outra pessoa melhorou o desempenho."
+    ],
+    "gabarito": 2,
+    "comentario": "Festinger e Carlsmith (1959) mostraram que, quando a recompensa externa é pequena demais para justificar o comportamento contraditório, a pessoa reduz a dissonância modificando a atitude (“a tarefa não era tão chata”). Uma explicação simples por reforço preveria o resultado oposto. Representações sociais, obediência e facilitação social são fenômenos diferentes, que não explicam a inversão observada.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-fundamentos-026",
+    "disciplina": "especificos",
+    "assunto": "esp-fundamentos",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Skinner, Sobre o behaviorismo; Baum, Compreender o behaviorismo"
+    },
+    "enunciado": "Sobre as diferenças entre o behaviorismo metodológico de Watson e o behaviorismo radical de Skinner, é correto afirmar que o behaviorismo radical",
+    "alternativas": [
+      "exclui do objeto da psicologia tudo o que não pode ser observado publicamente por mais de um observador, aceitando apenas o critério de concordância intersubjetiva.",
+      "admite eventos privados (pensamentos, sentimentos) como comportamentos explicados pelas mesmas relações com o ambiente, sem tratá-los como causas mentais.",
+      "explica o comportamento por estados mentais internos que causam as ações.",
+      "restringe-se ao estudo de reflexos condicionados, à maneira de Pavlov, sem considerar as consequências do comportamento na determinação de sua frequência.",
+      "nega qualquer papel da história filogenética na determinação do comportamento."
+    ],
+    "gabarito": 1,
+    "comentario": "Skinner chama seu behaviorismo de radical justamente por não excluir os eventos privados: eles são comportamento, sujeitos às mesmas leis, mas não são tratados como causas autônomas. Quem restringia a psicologia ao publicamente observável era o behaviorismo metodológico. Explicar o comportamento por estados mentais é o mentalismo que Skinner critica. Seu modelo central é o operante, controlado por consequências, e admite seleção em três níveis: filogenético, ontogenético e cultural.",
+    "dificuldade": 3,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-fundamentos-027",
+    "disciplina": "especificos",
+    "assunto": "esp-fundamentos",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Freud, Recomendações aos médicos que exercem a psicanálise (1912); Bock et al., Psicologias"
+    },
+    "enunciado": "No método psicanalítico clássico, a regra fundamental proposta ao paciente e a postura correlata recomendada ao analista são, respectivamente,",
+    "alternativas": [
+      "hipnose e sugestão direta.",
+      "reestruturação cognitiva e registro de pensamentos.",
+      "associação livre e atenção flutuante.",
+      "aceitação incondicional e reflexo de sentimentos.",
+      "exposição com prevenção de resposta e reforçamento diferencial."
+    ],
+    "gabarito": 2,
+    "comentario": "Freud abandonou a hipnose e a sugestão em favor da associação livre: o paciente deve comunicar tudo o que lhe vem à mente, sem seleção. Do lado do analista, a contrapartida é a atenção uniformemente suspensa (flutuante), sem privilegiar de antemão nenhum elemento do discurso. Reestruturação cognitiva é recurso da TCC, aceitação incondicional e reflexo de sentimentos são da abordagem rogeriana, e exposição com prevenção de resposta é técnica comportamental.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-fundamentos-028",
+    "disciplina": "especificos",
+    "assunto": "esp-fundamentos",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Freud, Três ensaios sobre a teoria da sexualidade (1905); Bock et al., Psicologias"
+    },
+    "enunciado": "Na teoria freudiana do desenvolvimento psicossexual, o período que vai aproximadamente dos 6 anos até a puberdade, marcado pela diminuição da atividade sexual manifesta e pelo investimento em atividades escolares e sociais, é denominado",
+    "alternativas": [
+      "fase oral.",
+      "período de latência.",
+      "fase anal.",
+      "fase fálica.",
+      "fase genital."
+    ],
+    "gabarito": 1,
+    "comentario": "Após o declínio do complexo de Édipo, Freud descreve o período de latência, em que as pulsões sexuais são em grande parte recalcadas e sublimadas em atividades intelectuais e sociais, com formação de diques como pudor e moral. As fases oral, anal e fálica antecedem esse período, e a fase genital se inicia com a puberdade.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-fundamentos-029",
+    "disciplina": "especificos",
+    "assunto": "esp-fundamentos",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Resolução CNAS nº 109/2009 (Tipificação Nacional dos Serviços Socioassistenciais); CREPOP/CFP, Referências técnicas para atuação no CREAS"
+    },
+    "enunciado": "Uma família acompanhada por um CRAS revela que a filha adolescente sofre violência sexual intrafamiliar. Considerando a organização do SUAS segundo a Tipificação Nacional dos Serviços Socioassistenciais, o encaminhamento adequado para acompanhamento especializado é o",
+    "alternativas": [
+      "CAPS, por se tratar de proteção social básica voltada à prevenção de situações de risco.",
+      "próprio CRAS, por meio do PAIF, que é o serviço de referência para violações de direitos já instaladas, dispensando encaminhamento a outro equipamento da rede.",
+      "Centro-Dia, que é o serviço de alta complexidade para acolhimento de vítimas de violência, com afastamento temporário do convívio familiar.",
+      "Conselho Tutelar, que substitui o atendimento psicossocial do SUAS nesses casos.",
+      "CREAS, que oferta o PAEFI (Serviço de Proteção e Atendimento Especializado a Famílias e Indivíduos), da proteção social especial de média complexidade."
+    ],
+    "gabarito": 4,
+    "comentario": "Na Tipificação Nacional (Res. CNAS 109/2009), o PAIF, no CRAS, integra a proteção social básica, voltada à prevenção e ao fortalecimento de vínculos; situações de direitos violados, como violência sexual, demandam o PAEFI, ofertado no CREAS (proteção especial de média complexidade). O CAPS é equipamento da saúde (RAPS), não da assistência. Centro-Dia é serviço para pessoas com deficiência, e a alta complexidade refere-se ao acolhimento. O Conselho Tutelar deve ser acionado, mas não substitui o acompanhamento psicossocial.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-fundamentos-030",
+    "disciplina": "especificos",
+    "assunto": "esp-fundamentos",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Leontiev, Uma contribuição à teoria do desenvolvimento da psique infantil; Elkonin, Sobre o problema da periodização do desenvolvimento psíquico na infância"
+    },
+    "enunciado": "Na psicologia histórico-cultural, autores como Leontiev e Elkonin propõem que cada período do desenvolvimento é marcado por uma atividade dominante (ou principal), que orienta as principais transformações psíquicas. Na idade pré-escolar, essa atividade é",
+    "alternativas": [
+      "o estudo formal, com assimilação sistemática de conceitos científicos sob orientação do professor em sala de aula.",
+      "a comunicação emocional direta com o adulto.",
+      "a atividade profissional e de estudo, voltada à construção de projetos de vida e à escolha de uma ocupação futura.",
+      "o jogo de papéis (faz de conta), no qual a criança reproduz relações sociais e funções dos adultos.",
+      "a comunicação íntima pessoal com os pares."
+    ],
+    "gabarito": 3,
+    "comentario": "Para Leontiev e Elkonin, a atividade dominante é aquela que gera as principais neoformações de cada período. Na periodização de Elkonin, a comunicação emocional direta predomina no primeiro ano; a atividade objetal-manipulatória, na primeira infância; o jogo de papéis, na idade pré-escolar; a atividade de estudo, na idade escolar; a comunicação íntima pessoal, na adolescência inicial; e a atividade profissional/de estudo, na adolescência posterior. As demais alternativas trazem atividades de outros períodos.",
+    "dificuldade": 3,
+    "anulada": false
+  }
+]

@@ -1,0 +1,4 @@
+.venv/
+.libs/
+dados/brutos/
+__pycache__/

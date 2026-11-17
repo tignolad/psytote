@@ -1,0 +1,842 @@
+[
+ {
+  "id": "fgv-trt24-2024-psi-31",
+  "disciplina": "especificos",
+  "assunto": "esp-direitos-humanos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TRT-24",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Apoio Especializado – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/area-apoio-especializado-psicologiacns108-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabaritodefinitivo_trt24-analista.pdf",
+   "questao_original": 31,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Edson, 30 anos, foi diagnosticado com Transtorno do Espectro Autista (TEA) nível 1 de suporte. Ele foi aprovado no concurso para servidor do TRT utilizando a cota destinada a pessoas com deficiência. Sobre essa situação, assinale a afirmativa correta.",
+  "alternativas": [
+   "Embora o TEA seja um transtorno neurocognitivo, há indivíduos autistas que se destacam pelo desempenho intelectual acima da média.",
+   "Classificar o TEA como um transtorno do neurodesenvolvimento é uma forma de capacitismo e exclusão de pessoas com capacidades cognitivas normais.",
+   "O TEA nível 1 de suporte não é considerado uma doença ou deficiência, na medida em que é apenas uma neurodiversidade que dispensa qualquer intervenção terapêutica.",
+   "Edson fez uso indevido da política afirmativa para pessoas neurodivergentes, a qual é reservada a pessoas com o TEA nível 2 e 3 de suporte, entre outras patologias.",
+   "A legislação que garante direitos a pessoas com deficiência abrange o TEA nível 1 de suporte e garante o acesso de pessoas com diagnóstico de TEA a políticas de inclusão."
+  ],
+  "gabarito": 4,
+  "comentario": "A Lei 12.764/2012 considera a pessoa com Transtorno do Espectro Autista pessoa com deficiência para todos os efeitos legais, sem distinguir níveis de suporte. Assim, Edson, com TEA nível 1, tem direito às políticas de inclusão, como as cotas em concurso (E). A erra ao chamar o TEA de transtorno 'neurocognitivo': no DSM-5 ele é um transtorno do neurodesenvolvimento. B e C negam a classificação diagnóstica e o direito ao suporte. D cria uma restrição a níveis 2 e 3 que a lei não faz.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-trt24-2024-psi-32",
+  "disciplina": "especificos",
+  "assunto": "esp-trabalho",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TRT-24",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Apoio Especializado – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/area-apoio-especializado-psicologiacns108-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabaritodefinitivo_trt24-analista.pdf",
+   "questao_original": 32,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Mesmo com o expressivo crescimento da presença feminina no mercado de trabalho, persistem desigualdades nas condições de trabalho e o preconceito direcionado às mulheres. As opções a seguir apresentam exemplos dessa situação, à exceção de uma. Assinale-a.",
+  "alternativas": [
+   "A disparidade salarial entre homens e mulheres.",
+   "A desigualdade na promoção de mulheres a cargos de chefia e liderança.",
+   "As restrições na contratação de mulheres em idade reprodutiva ou com filhos pequenos.",
+   "O questionamento sobre a vocação das mulheres para funções ligadas à assistência, à saúde e à educação.",
+   "A sobrecarga da dupla jornada devido aos afazeres domésticos, historicamente atribuídos às mulheres."
+  ],
+  "gabarito": 3,
+  "comentario": "Disparidade salarial (A), menor acesso a cargos de liderança (B), restrições à contratação de mulheres em idade reprodutiva ou com filhos (C) e dupla jornada (E) são expressões clássicas da desigualdade de gênero no trabalho. A exceção é D, porque o estereótipo de gênero consiste em atribuir às mulheres uma 'vocação natural' para o cuidado, a saúde e a educação, e não em questioná-la. Questionar essa suposta vocação é, ao contrário, uma postura crítica ao preconceito.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-trt24-2024-psi-33",
+  "disciplina": "especificos",
+  "assunto": "esp-trabalho",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TRT-24",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Apoio Especializado – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/area-apoio-especializado-psicologiacns108-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabaritodefinitivo_trt24-analista.pdf",
+   "questao_original": 33,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Na instituição em que Eduardo atua como psicólogo organizacional, a avaliação de desempenho dos colaboradores é uma prática regular. Eduardo propôs à equipe a realização da avaliação de desempenho 360, que consiste em",
+  "alternativas": [
+   "analisar o desempenho com base em competências técnicas e comportamentais essenciais para a função, permitindo um alinhamento com os objetivos da instituição.",
+   "medir o desempenho de acordo com metas previamente estabelecidas, com foco nos resultados alcançados e na contribuição para os objetivos da organização.",
+   "cada colaborador avaliar o próprio desempenho, analisando as conquistas, as dificuldades e os pontos de melhoria, de modo a incentivar a autorreflexão e o autodesenvolvimento.",
+   "receber feedback de múltiplas fontes, incluindo superiores, colegas, subordinados e até usuários, proporcionando uma visão mais completa e imparcial sobre o desempenho do avaliado.",
+   "registrar situações específicas em que o colaborador teve um desempenho excepcionalmente positivo ou negativo, permitindo uma análise qualitativa baseada em eventos concretos."
+  ],
+  "gabarito": 3,
+  "comentario": "A avaliação 360 graus reúne feedback de múltiplas fontes ao redor do avaliado (superiores, pares, subordinados, clientes ou usuários e, em geral, a autoavaliação), oferecendo uma visão mais ampla e menos enviesada do desempenho (D). A descreve a avaliação por competências, B a avaliação por resultados ou metas, C a autoavaliação e E o método dos incidentes críticos.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-trt24-2024-psi-34",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TRT-24",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Apoio Especializado – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/area-apoio-especializado-psicologiacns108-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabaritodefinitivo_trt24-analista.pdf",
+   "questao_original": 34,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Considerada um problema de saúde pública, a obesidade é uma doença de causalidade multifatorial cujo tratamento é complexo e multidisciplinar. Por esse motivo, a prevenção primária da obesidade ocupa um lugar estratégico na política pública de saúde. Entre as medidas de prevenção primária à obesidade, consta",
+  "alternativas": [
+   "o tratamento farmacológico para o controle da hipertensão, da diabetes e das taxas elevadas de colesterol.",
+   "o incentivo à prática de exercícios físicos para reduzir o sedentarismo e aumentar o gasto calórico diário.",
+   "a educação nutricional voltada à população de maior renda, na qual se observa maior incidência de obesidade mórbida.",
+   "o aumento do acesso da população a cirurgias bariátricas na rede pública de saúde.",
+   "a mudança nos padrões estéticos, os quais incentivam um ideal de magreza inatingível para a maioria das pessoas."
+  ],
+  "gabarito": 1,
+  "comentario": "A prevenção primária atua antes da instalação da doença, sobre fatores de risco, por meio de promoção da saúde e proteção específica. Estimular a atividade física para reduzir o sedentarismo é exemplo típico (B). Tratar hipertensão, diabetes e colesterol (A) e fazer cirurgia bariátrica (D) são ações sobre condições já instaladas. C erra porque a obesidade não é mais incidente nas faixas de maior renda, e restringir a educação nutricional a esse grupo não faz sentido. E trata de padrões estéticos de magreza, mais relacionados à prevenção de transtornos alimentares do que da obesidade.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-trt24-2024-psi-35",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TRT-24",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Apoio Especializado – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/area-apoio-especializado-psicologiacns108-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabaritodefinitivo_trt24-analista.pdf",
+   "questao_original": 35,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "O DSM-5 (Manual Diagnóstico e Estatístico de Transtornos Mentais) identifica determinados transtornos alimentares que estão diretamente relacionados ao desenvolvimento da obesidade. Entre eles, destaca-se",
+  "alternativas": [
+   "o hipotireoidismo.",
+   "a anorexia nervosa.",
+   "a bulimia nervosa.",
+   "o transtorno dismórfico corporal.",
+   "o transtorno de compulsão alimentar."
+  ],
+  "gabarito": 4,
+  "comentario": "O transtorno de compulsão alimentar (DSM-5) se caracteriza por episódios recorrentes de ingestão de grande quantidade de comida com sensação de perda de controle, sem comportamentos compensatórios regulares. Por isso está fortemente associado à obesidade (E). O hipotireoidismo é uma doença endócrina, não um transtorno mental (A). Na anorexia (B) há baixo peso, e na bulimia (C) os comportamentos compensatórios tendem a manter o peso próximo do normal. O transtorno dismórfico corporal (D) não é transtorno alimentar.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-trt24-2024-psi-36",
+  "disciplina": "especificos",
+  "assunto": "esp-trabalho",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TRT-24",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Apoio Especializado – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/area-apoio-especializado-psicologiacns108-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabaritodefinitivo_trt24-analista.pdf",
+   "questao_original": 36,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "João, motorista de uma empresa, foi vítima de um assalto à mão armada durante o exercício de sua função, ocasião em que o caminhão foi levado. Após o ocorrido, passou a apresentar sintomas como pesadelos, hipervigilância, crises de pânico e evitação de situações associadas ao evento. Em razão desses sintomas, recebeu diagnóstico de Transtorno de Estresse Pós- Traumático (TEPT), diretamente relacionado ao trauma vivenciado no ambiente de trabalho. Entre as medidas institucionais que podem ser adotadas em favor de João, destaca-se a",
+  "alternativas": [
+   "licença para tratamento de reabilitação psicológica.",
+   "realocação para perícia médica e psicossocial.",
+   "preparação para a aposentadoria por invalidez.",
+   "readaptação à função de motorista.",
+   "reintegração ao emprego."
+  ],
+  "gabarito": 0,
+  "comentario": "TEPT decorrente de assalto durante o trabalho é um adoecimento relacionado ao trabalho, equiparável a acidente de trabalho. A medida institucional adequada é o afastamento, por licença, para tratamento e reabilitação, com acompanhamento psicológico (A). Aposentadoria por invalidez é medida extrema e prematura diante de um quadro tratável (C). Voltar à função de motorista, ligada ao trauma, pode agravar a evitação e os sintomas (D). 'Reintegração' se aplica a quem foi desligado, o que não é o caso (E). B não descreve uma medida institucional coerente.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-trt24-2024-psi-37",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TRT-24",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Apoio Especializado – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/area-apoio-especializado-psicologiacns108-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabaritodefinitivo_trt24-analista.pdf",
+   "questao_original": 37,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Marcela, 31 anos, usuária de álcool e outras drogas, deixou a filha Teresa de 1 ano sozinha em casa e só retornou no dia seguinte. Os vizinhos chamaram o Conselho Tutelar, alertados pelo choro da criança. O Conselho Tutelar conseguiu localizar Gilberto, o avô de Teresa, e entregou para ele a criança na sede do órgão. A psicóloga do Conselho Tutelar deu as orientações cabíveis naquele momento. Diante dessa situação e considerando as medidas possíveis no melhor interesse de Marcela e de Teresa, é correto afirmar que",
+  "alternativas": [
+   "Gilberto pode requerer judicialmente a interdição de Marcela e a curatela de Teresa.",
+   "Marcela deve ser internada em um serviço residencial terapêutico para um tratamento de redução de danos.",
+   "Teresa deve ser encaminhada para uma instituição de acolhimento onde permanecerá até ser adotada por uma família sem vícios.",
+   "Marcela é inimputável por sua condição de dependente química, portanto, não será detida por abandono de incapaz e poderá cuidar de Teresa.",
+   "Marcela pode ser acolhida em um dos serviços da Rede de Atenção Psicossocial, sendo o Centro de Atenção Psicossocial Álcool e Drogas (CAPS AD) uma das principais portas de entrada para o seu atendimento."
+  ],
+  "gabarito": 4,
+  "comentario": "A situação pede cuidado em saúde para Marcela na RAPS. O CAPS AD é o serviço especializado de referência para pessoas com sofrimento decorrente do uso de álcool e outras drogas, na lógica da redução de danos e do cuidado em liberdade (E). A erra porque não cabe 'curatela' de criança, e a dependência química não leva automaticamente à interdição. O Serviço Residencial Terapêutico (B) é destinado a egressos de longas internações psiquiátricas. C contraria o direito à convivência familiar e a prioridade da família extensa, que aqui é o avô. D é falso porque a dependência química não gera inimputabilidade automática.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-trt24-2024-psi-38",
+  "disciplina": "especificos",
+  "assunto": "esp-trabalho",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TRT-24",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Apoio Especializado – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/area-apoio-especializado-psicologiacns108-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabaritodefinitivo_trt24-analista.pdf",
+   "questao_original": 38,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "O assédio moral organizacional é um processo que compromete a saúde física e mental dos trabalhadores. No caso de Suzana, bancária, o modelo de gestão adotado pelo banco — baseado em ameaças de demissão e descontos salariais diante do não cumprimento de metas de produtividade — resultou no desenvolvimento da Síndrome de Burnout. Assinale a opção que identifica corretamente o modelo de gestão a que Suzana esteve submetida.",
+  "alternativas": [
+   "A gestão pelo medo.",
+   "O gaslighting institucional.",
+   "O mansplaining organizacional.",
+   "A precarização da mão de obra.",
+   "O sexismo nas relações de trabalho."
+  ],
+  "gabarito": 0,
+  "comentario": "A gestão por injúria ou pelo medo usa ameaças de demissão, humilhações e punições como forma de pressionar por metas. É uma forma típica de assédio moral organizacional, comum no setor bancário e associada ao adoecimento, como o burnout de Suzana (A). Gaslighting é a manipulação que leva a vítima a duvidar da própria percepção (B). Mansplaining é o homem explicar de modo condescendente algo a uma mulher (C). Precarização (D) e sexismo (E) não descrevem o modelo de gestão relatado.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-trt24-2024-psi-39",
+  "disciplina": "especificos",
+  "assunto": "esp-praticas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TRT-24",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Apoio Especializado – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/area-apoio-especializado-psicologiacns108-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabaritodefinitivo_trt24-analista.pdf",
+   "questao_original": 39,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Emergências e desastres impactam de forma trágica indivíduos e comunidades, não apenas no plano material, mas também no emocional. Entre as abordagens utilizadas na intervenção em crises, destacam-se aquelas voltadas à reestruturação de pensamentos disfuncionais e ao desenvolvimento de estratégias de enfrentamento mais saudáveis. Essas intervenções têm como referencial técnico",
+  "alternativas": [
+   "a psicologia fenomenológica de E. Husserl.",
+   "a terapia cognitivo-comportamental de Aaron Beck.",
+   "a psicologia positiva de Martin Seligman.",
+   "a psicologia humanista de Carl Rogers.",
+   "a análise transacional de Eric Berne."
+  ],
+  "gabarito": 1,
+  "comentario": "A reestruturação de pensamentos disfuncionais (reestruturação cognitiva) e o treino de estratégias de enfrentamento são técnicas centrais da terapia cognitivo-comportamental de Aaron Beck, muito usadas em intervenções em crise e após desastres (B). A fenomenologia de Husserl, a psicologia positiva de Seligman, a Abordagem Centrada na Pessoa de Rogers e a análise transacional de Berne não têm a reestruturação cognitiva como referencial técnico.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-trt24-2024-psi-40",
+  "disciplina": "especificos",
+  "assunto": "esp-praticas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TRT-24",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Apoio Especializado – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/area-apoio-especializado-psicologiacns108-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabaritodefinitivo_trt24-analista.pdf",
+   "questao_original": 40,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Erika, psicóloga hospitalar, foi acionada para acompanhar Henrique, de 75 anos, internado devido à piora de uma doença degenerativa. Henrique expressou o desejo de receber alta para poder “morrer com dignidade” em sua residência, junto de seus familiares e animais de estimação. Considerando esse quadro, é possível deduzir que",
+  "alternativas": [
+   "O hospital incorre em crime de responsabilidade se der a alta hospitalar, privando o paciente das estratégias de suporte artificial da vida.",
+   "Henrique apresenta um quadro de negação da gravidade de suas condições de saúde e deve ser mantido em ambiente hospitalar.",
+   "Henrique apresenta plena posse de suas faculdades mentais e, diante disso, pode optar por receber cuidados paliativos em sua residência.",
+   "A família de Henrique deve ser chamada para manifestar sua concordância com a morte assistida por se tratar de paciente idoso.",
+   "Henrique é um paciente terminal que se encontra na fase de depressão profunda, e seria uma forma de maleficência submetê-lo à ortotanásia."
+  ],
+  "gabarito": 2,
+  "comentario": "Pelo princípio da autonomia, o paciente com capacidade de decisão preservada pode recusar medidas que só prolongam artificialmente a vida e optar por cuidados paliativos em casa. Essa é a ortotanásia, admitida no Brasil e reconhecida pelo CFM (C). A erra porque não há crime em respeitar a escolha por cuidados paliativos. B e E patologizam o desejo do paciente sem base no caso. D confunde cuidados paliativos com 'morte assistida' (eutanásia ou suicídio assistido), que não é permitida no Brasil, e retira do idoso capaz o direito de decidir.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-trt24-2024-psi-41",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TRT-24",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Apoio Especializado – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/area-apoio-especializado-psicologiacns108-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabaritodefinitivo_trt24-analista.pdf",
+   "questao_original": 41,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "A partir das suas próprias experiências como prisioneiro em um campo de concentração, Victor Frankl considera que o encontro do sentido da vida funciona como a maior força motivadora das pessoas. Ele preceitua que a criação ou o desenvolvimento de manifestações artísticas pode ajudar nesse processo de autoconhecimento. A proposta teórica de Frankl é conhecida como",
+  "alternativas": [
+   "logoterapia.",
+   "psicanálise.",
+   "psicologia dos complexos.",
+   "psicologia analítica.",
+   "orgonoterapia."
+  ],
+  "gabarito": 0,
+  "comentario": "Viktor Frankl, sobrevivente de campos de concentração e autor de 'Em busca de sentido', criou a logoterapia (A), a chamada 'terceira escola vienense de psicoterapia'. Para ele, a vontade de sentido é a motivação humana primária. O sentido pode ser encontrado por valores de criação (obras, como as manifestações artísticas), de vivência e de atitude diante do sofrimento inevitável. Psicologia dos complexos e psicologia analítica (C, D) são nomes da teoria de Jung, e a orgonoterapia (E) é de Wilhelm Reich.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-trt24-2024-psi-42",
+  "disciplina": "especificos",
+  "assunto": "esp-direitos-humanos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TRT-24",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Apoio Especializado – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/area-apoio-especializado-psicologiacns108-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabaritodefinitivo_trt24-analista.pdf",
+   "questao_original": 42,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "A violência doméstica e familiar contra a mulher é um problema crescente que tem recebido mais atenção e registrado maior número de notificações, especialmente após a promulgação da Lei Maria da Penha, em 2006. As afirmativas a seguir descrevem corretamente aspectos relacionados à violência doméstica e familiar contra a mulher, à exceção de uma. Assinale-a.",
+  "alternativas": [
+   "A maior parte das mulheres agredidas sofreu violências praticadas pelo marido ou companheiro.",
+   "A forma mais recorrente de violência contra a mulher é a psicológica.",
+   "As situações de crise - separação do casal, desemprego, morte, migração - podem ser fatores para eclosão da violência.",
+   "As mulheres vítimas de agressão recorrem à família e a instituições de apoio, como igrejas e delegacias.",
+   "A maior parte das vítimas vivencia a primeira agressão na maturidade."
+  ],
+  "gabarito": 4,
+  "comentario": "A questão pede a afirmativa incorreta. Pesquisas sobre violência doméstica indicam que os agressores são, na maioria, maridos, companheiros ou ex-companheiros (A). A violência psicológica é a forma mais frequente e costuma acompanhar as demais (B). Crises como separação, desemprego, luto e migração podem desencadear ou agravar a violência (C). As mulheres costumam buscar apoio na família, em igrejas e em delegacias (D). E é a incorreta: a primeira agressão tende a ocorrer cedo, na juventude e nos primeiros anos do relacionamento, e não na maturidade.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-trt24-2024-psi-43",
+  "disciplina": "especificos",
+  "assunto": "esp-avaliacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TRT-24",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Apoio Especializado – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/area-apoio-especializado-psicologiacns108-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabaritodefinitivo_trt24-analista.pdf",
+   "questao_original": 43,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "A psicóloga Olívia é perita em Vara de Família e está atuando em um processo de disputa de guarda do menino Adolfo, de 8 anos, junto da assistente social Edith. No mesmo processo foi contratada a psicóloga Rita, para atuar como assistente técnica de Bonifácio, pai de Adolfo. Com relação à situação descrita, é correto afirmar que",
+  "alternativas": [
+   "Olívia poderá elaborar quesitos que deverão ser respondidos por Rita.",
+   "Rita e Olívia deverão escutar conjuntamente Adolfo para elaboração de relatório comum.",
+   "Olívia pode realizar visita domiciliar junto da assistente social Edith como parte do processo avaliativo.",
+   "Olívia deve decidir sobre a concessão da guarda do menino ao genitor que for mais protetivo.",
+   "é recomendável que a perita formalize seu trabalho mediante Termo de Compromisso com os pais do menino."
+  ],
+  "gabarito": 2,
+  "comentario": "Segundo a Resolução CFP 08/2010, o perito tem autonomia para escolher seus métodos e pode atuar em conjunto com outros profissionais, como a assistente social, inclusive em visitas domiciliares (C). A inverte os papéis: quem formula quesitos é o assistente técnico, por meio da parte, e o perito os responde. B erra porque perito e assistente técnico não devem estar presentes nos procedimentos um do outro nem elaborar relatório comum. D erra porque a decisão sobre a guarda é do juiz, e o perito apenas o subsidia. E erra porque o perito é nomeado pelo juízo e se vincula a ele, não às partes.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-trt24-2024-psi-44",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TRT-24",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Apoio Especializado – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/area-apoio-especializado-psicologiacns108-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabaritodefinitivo_trt24-analista.pdf",
+   "questao_original": 44,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Sobre a atuação dos psicólogos nas políticas públicas e em programas sociais, avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.\n( ) O(A) psicólogo(a) deve abandonar visões que patologizam as famílias e/ou as suas relações, construindo saberes e fazeres diante da emergência das vulnerabilidades familiares.\n( ) O(A) psicólogo(a) deve atuar na promoção das potencialidades das famílias atendidas, contribuindo também para o desenvolvimento da política pública.\n( ) O(A) psicólogo(a) pode contribuir para a compreensão e potencialização de práticas de cuidado de famílias atendidas na Proteção Social Básica do Sistema Único de Assistência Social (SUAS).\n( ) O(A) psicólogo(a) deve considerar o padrão familiar como o da família nuclear, composta por pais e filhos, unidos especialmente pela responsabilidade compartilhada na manutenção financeira dos seus membros.\nAs afirmativas são, respectivamente,",
+  "alternativas": [
+   "V – V – V – V.",
+   "V – V – V – F.",
+   "V – V – F – F.",
+   "V – F – F – F.",
+   "F – F – F – F."
+  ],
+  "gabarito": 1,
+  "comentario": "As referências técnicas do CFP/CREPOP para atuação no SUAS orientam o psicólogo a superar visões patologizantes das famílias (1ª V), a fortalecer suas potencialidades e contribuir para a própria política (2ª V) e a potencializar práticas de cuidado na Proteção Social Básica, como no PAIF/CRAS (3ª V). A 4ª afirmativa é falsa porque a política reconhece a diversidade de arranjos familiares e não toma a família nuclear como padrão normativo. Sequência V–V–V–F (B).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-trt24-2024-psi-45",
+  "disciplina": "especificos",
+  "assunto": "esp-trabalho",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TRT-24",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Apoio Especializado – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/area-apoio-especializado-psicologiacns108-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabaritodefinitivo_trt24-analista.pdf",
+   "questao_original": 45,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Nos estudos sobre estresse desenvolvidos por Lazarus e Folkman, o coping é definido como um",
+  "alternativas": [
+   "agente estressor extra organizacional, tal como problemas econômicos e familiares e distância do trabalho / transporte.",
+   "agente estressor organizacional, tal como problemas de relacionamento ou comunicação e sobrecarga de trabalho.",
+   "processo sistemático de capacitação de recursos humanos para desenvolver habilidades específicas dos funcionários.",
+   "processo sistemático de análise do desempenho e funcionamento de uma empresa ou grupo.",
+   "tipo de processo adaptativo desenvolvido pelas pessoas para lidar com exigências internas e externas estressantes."
+  ],
+  "gabarito": 4,
+  "comentario": "Para Lazarus e Folkman, coping é o conjunto de esforços cognitivos e comportamentais, em constante mudança, para lidar com demandas internas ou externas avaliadas como excedendo os recursos da pessoa. É um processo adaptativo, que pode ser focado no problema ou na emoção (E). A e B descrevem estressores, e não formas de enfrentá-los. C descreve treinamento e desenvolvimento de pessoas, e D, diagnóstico ou avaliação organizacional.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-trt24-2024-psi-46",
+  "disciplina": "especificos",
+  "assunto": "esp-trabalho",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TRT-24",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Apoio Especializado – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/area-apoio-especializado-psicologiacns108-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabaritodefinitivo_trt24-analista.pdf",
+   "questao_original": 46,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Luana foi recentemente contratada como gestora na empresa Ambiente Alegre, ocupando um cargo anteriormente almejado por Elvira, que agora atua como sua subordinada. Inconformada com a contratação, Elvira passou a adotar comportamentos hostis, como lançar indiretas diante dos colegas e boicotar as orientações da nova gestora, gerando situações de constrangimento para Luana no ambiente organizacional. Com base na situação descrita, assinale a opção que caracteriza corretamente a conduta de Elvira.",
+  "alternativas": [
+   "Assédio moral interpessoal misto.",
+   "Assédio moral interpessoal descendente.",
+   "Assédio moral interpessoal ascendente.",
+   "Assédio moral institucional horizontal.",
+   "Assédio moral interpessoal horizontal."
+  ],
+  "gabarito": 2,
+  "comentario": "O assédio moral é classificado pela direção da relação hierárquica. É descendente quando parte do superior para o subordinado, horizontal quando ocorre entre colegas do mesmo nível, ascendente quando parte do subordinado (ou de um grupo deles) contra o superior, e misto quando combina direções. Elvira, subordinada, hostiliza e boicota a nova gestora, o que caracteriza assédio moral interpessoal ascendente (C). Também não se trata de assédio institucional, que decorre das políticas e práticas da própria organização.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-trt24-2024-psi-47",
+  "disciplina": "especificos",
+  "assunto": "esp-trabalho",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TRT-24",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Apoio Especializado – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/area-apoio-especializado-psicologiacns108-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabaritodefinitivo_trt24-analista.pdf",
+   "questao_original": 47,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "O estudo do clima organizacional vem se revelando um valioso mecanismo de gestão de recursos humanos, de melhoria da produtividade e da qualidade de vida no trabalho e nas organizações. A noção de “clima organizacional” refere-se",
+  "alternativas": [
+   "a valores, crenças e comportamentos compartilhados dentro de uma empresa, definindo sua identidade e orientando o comportamento dos colaboradores.",
+   "à percepção que os funcionários têm do ambiente de trabalho, influenciada por fatores como relações interpessoais, liderança e processos.",
+   "ao conjunto de estratégias e ações motivadoras que guiam uma equipe e uma organização para alcançar resultados e criar um ambiente de trabalho positivo.",
+   "aos fatores que impulsionam e direcionam o comportamento dos colaboradores em uma organização, para aumentar a produtividade, o desempenho e o engajamento.",
+   "à realocação profissional motivada pela manifestação de alguma limitação física ou mental do colaborador de forma a preservar o vínculo laboral."
+  ],
+  "gabarito": 1,
+  "comentario": "Clima organizacional é a percepção compartilhada dos trabalhadores sobre o ambiente de trabalho: relações, liderança, processos, condições e reconhecimento. É mais mutável e conjuntural (B). A descreve a cultura organizacional, que reúne valores, crenças e pressupostos que formam a identidade da organização e são mais estáveis. C e D aproximam-se das noções de liderança e motivação, e E descreve readaptação funcional.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-trt24-2024-psi-48",
+  "disciplina": "especificos",
+  "assunto": "esp-trabalho",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TRT-24",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Apoio Especializado – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/area-apoio-especializado-psicologiacns108-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabaritodefinitivo_trt24-analista.pdf",
+   "questao_original": 48,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "As Lesões por Esforço Repetitivo/Distúrbios Osteomusculares Relacionados ao Trabalho (LER/DORT) provocam sequelas irreversíveis aos trabalhadores e, dentre seus fatores psicossociais, constam",
+  "alternativas": [
+   "repetitividade de movimentos, posturas estáticas e falta de pausas.",
+   "predisposições orgânicas diante da forma de funcionamento laborativo, inadequação do ambiente e esgotamento físico.",
+   "sobrecarga de trabalho, posturas inadequadas e esforço repetitivo.",
+   "insatisfação com o emprego, alta pressão mental, problemas na relação com colegas e estresse.",
+   "ritmo intenso de trabalho, sobrecarga de grupos musculares por posturas ruins e ausência de controle sobre o trabalho."
+  ],
+  "gabarito": 3,
+  "comentario": "Na gênese das LER/DORT há fatores biomecânicos e organizacionais, como repetitividade, posturas estáticas ou inadequadas, sobrecarga muscular, ritmo intenso e falta de pausas. Também há fatores psicossociais, como insatisfação no trabalho, alta pressão e exigência mental, relações conflituosas e estresse. A pergunta pede os fatores psicossociais, que estão listados em D. A, B, C e E misturam ou se limitam a fatores biomecânicos, ergonômicos e orgânicos.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-trt24-2024-psi-49",
+  "disciplina": "especificos",
+  "assunto": "esp-trabalho",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TRT-24",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Apoio Especializado – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/area-apoio-especializado-psicologiacns108-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabaritodefinitivo_trt24-analista.pdf",
+   "questao_original": 49,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Da mesma forma que a motivação dos funcionários é um componente importante para o sucesso global da organização, a desmotivação pode implicar em muitos problemas organizacionais. Assinale a afirmativa que indica comportamentos sugestivos da desmotivação laboral.",
+  "alternativas": [
+   "Queda na produtividade, falta de pontualidade e assiduidade, comentários negativos sobre a empresa, funções ou pessoas.",
+   "Falta de interação entre os funcionários, baixos índices de turnover e absenteísmo.",
+   "Desinteresse pelas tarefas, bom relacionamento no trabalho, resistência a mudanças.",
+   "Procrastinação na execução de tarefas, engajamento na comunicação com os pares e bom feedback.",
+   "Falta de entusiasmo pelo trabalho, desejo de contribuir na tarefa, busca por conhecimento e aprimoramento."
+  ],
+  "gabarito": 0,
+  "comentario": "Queda de produtividade, atrasos e faltas e comentários negativos sobre a empresa, as funções ou as pessoas são sinais típicos de desmotivação (A). As demais alternativas misturam sinais de desmotivação com indicadores positivos ou contraditórios. Baixo turnover e baixo absenteísmo sugerem estabilidade (B). Bom relacionamento (C), engajamento na comunicação e bom feedback (D), desejo de contribuir e busca por aprimoramento (E) também não indicam desmotivação.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-trt24-2024-psi-50",
+  "disciplina": "especificos",
+  "assunto": "esp-trabalho",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TRT-24",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Apoio Especializado – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/area-apoio-especializado-psicologiacns108-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabaritodefinitivo_trt24-analista.pdf",
+   "questao_original": 50,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Atualmente, têm sido desenvolvidas estratégias organizacionais com o objetivo de tornar o processo de aposentadoria mais positivo para os trabalhadores. Nesse sentido, os programas de preparação para a aposentadoria podem contribuir significativamente na I. identificação de novas habilidades e interesses;\nII. reconstrução da identidade social;\nIII. aceleração do desligamento do funcionário que não deseja se aposentar.\nEstá correto o que se afirma em",
+  "alternativas": [
+   "I, apenas.",
+   "II, apenas.",
+   "III, apenas.",
+   "I e II, apenas.",
+   "I, II e III."
+  ],
+  "gabarito": 3,
+  "comentario": "Os programas de preparação para a aposentadoria ajudam o trabalhador a planejar a transição. Isso envolve descobrir novos interesses e habilidades (I) e reconstruir uma identidade social que não dependa só do papel profissional (II). Acelerar o desligamento de quem não quer se aposentar (III) contraria a finalidade desses programas, que é apoiar uma decisão e uma transição saudáveis, e não forçar a saída. Resposta: I e II (D).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-trt24-2024-psi-51",
+  "disciplina": "legislacao",
+  "assunto": "leg-res06-2019",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TRT-24",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Apoio Especializado – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/area-apoio-especializado-psicologiacns108-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabaritodefinitivo_trt24-analista.pdf",
+   "questao_original": 51,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Camila atua como assistente técnica e foi demandada a apresentar uma análise sobre um documento psicológico produzido por uma perita, tendo sido ele questionado em juízo. De acordo com a RESOLUÇÃO CFP 06/2019, o documento confeccionado por Camila com tal escopo denomina-se:",
+  "alternativas": [
+   "prontuário, uma vez que se trata do resultado de um processo de avaliação psicológica.",
+   "laudo, por ter como objetivo responder a uma questão-problema do campo psicológico.",
+   "relatório, pois visa certificar uma determinada situação, estado ou funcionamento psicológico sem produzir diagnóstico.",
+   "parecer, por se tratar de pronunciamento por escrito com finalidade de apresentar uma análise técnica sobre um documento psicológico questionado.",
+   "declaração, haja vista apresentar informações técnicas dos fenômenos psicológicos, considerando os condicionantes históricos e sociais da pessoa, grupo ou instituição atendida."
+  ],
+  "gabarito": 3,
+  "comentario": "Pela Resolução CFP 06/2019, o parecer psicológico é um pronunciamento por escrito que apresenta uma análise técnica, respondendo a uma questão-problema do campo psicológico ou a documentos psicológicos questionados. É o documento próprio para a assistente técnica que analisa o laudo da perita (D). O prontuário é registro documental, e não documento resultante de avaliação (A). O laudo é o resultado de uma avaliação psicológica (B). C traz a finalidade do atestado, e não do relatório. A declaração apenas registra informações objetivas, como comparecimento e horários, sem conteúdo técnico sobre fenômenos psicológicos (E).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-trt24-2024-psi-52",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TRT-24",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Apoio Especializado – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/area-apoio-especializado-psicologiacns108-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabaritodefinitivo_trt24-analista.pdf",
+   "questao_original": 52,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "O psicanalista húngaro Sándor Ferenczi teve papel fundamental no desenvolvimento da psicanálise, destacando-se por sua originalidade técnica. Entre suas contribuições, propôs uma abordagem na qual o analista, além de interpretar, deveria intervir diretamente durante as sessões por meio de ordens e proibições. Tal procedimento ficou conhecido como",
+  "alternativas": [
+   "holding.",
+   "técnica ativa.",
+   "tempo lógico.",
+   "associação livre.",
+   "atenção flutuante."
+  ],
+  "gabarito": 1,
+  "comentario": "Ferenczi propôs a 'técnica ativa', em que o analista, além de interpretar, faz injunções e proibições ao paciente, como abster-se de certas satisfações, para mobilizar material reprimido e vencer estagnações da análise (B). Holding é conceito de Winnicott (A), e tempo lógico é de Lacan (C). Associação livre e atenção flutuante (D, E) são as regras fundamentais da técnica freudiana, do paciente e do analista, respectivamente.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-trt24-2024-psi-53",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TRT-24",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Apoio Especializado – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/area-apoio-especializado-psicologiacns108-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabaritodefinitivo_trt24-analista.pdf",
+   "questao_original": 53,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "A conferência de Estela Scheinvar no Seminário Nacional de Psicologia e Políticas Públicas foi sobre “O trabalho com a população de rua: deslocamentos do paradigma da garantia de direitos” (2022). Em sua abordagem, Estela Scheinvar, destaca a relevância de determinadas abordagens da prática psi no Brasil no enfrentamento das desigualdades sociais, na luta contra a criminalização da população em situação de rua e no combate aos olhares discriminatórios dirigidos àqueles que vivem fora dos modelos sociais normativos — seja por falta de recursos, seja por recusá-los. Com base em autores como Michel Foucault e Félix Guattari, a autora desenvolve uma análise crítica da atuação psi nesse contexto. A esse respeito, avalie as afirmativas a seguir.\nI. A dimensão coletiva e a ordem política que produz as relações de rua ficam invisibilizadas em muitas das rotinas de atendimento, sendo vistas como se fossem somente de ordem pessoal e familiar.\nII. O governo da população circunscrito à lógica do direito é endereçado às práticas de julgamento disseminadas em suas múltiplas modalidades, cujo horizonte é a prática penal.\nIII. A referência ao direito como mecanismo central de socialização tem trazido efeitos de fortalecimento das relações liberais-capitalistas.\nEstá correto o que se afirma em",
+  "alternativas": [
+   "I, apenas.",
+   "II, apenas.",
+   "III, apenas.",
+   "I e II, apenas.",
+   "I, II e III."
+  ],
+  "gabarito": null,
+  "comentario": "A questão cobra a conferência de Estela Scheinvar (2022), que critica, a partir de Foucault e Guattari, o paradigma da 'garantia de direitos' no trabalho com a população em situação de rua. A autora aponta a individualização e familiarização de problemas que são coletivos e políticos, e o governo da população pela lógica jurídica e penal. A questão foi anulada no gabarito definitivo. O motivo exato não pode ser afirmado aqui, mas ela dependia da reprodução fiel das teses de um único texto, o que costuma gerar controvérsia sobre quais afirmativas estariam corretas.",
+  "dificuldade": 3,
+  "anulada": true
+ },
+ {
+  "id": "fgv-trt24-2024-psi-54",
+  "disciplina": "especificos",
+  "assunto": "esp-avaliacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TRT-24",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Apoio Especializado – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/area-apoio-especializado-psicologiacns108-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabaritodefinitivo_trt24-analista.pdf",
+   "questao_original": 54,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Maiara exerce a atividade profissional de perita psicológica, prestando assessoramento ao sistema de Justiça. Por isso, foi designada para realizar a avaliação de um caso de litígio familiar que envolve aspectos relacionados à insegurança alimentar e à saúde mental. A respeito do processo avaliativo realizado por Maiara, assinale a afirmativa correta.",
+  "alternativas": [
+   "O uso de testes psicológicos tem como único objetivo conferir legitimidade ao laudo psicológico.",
+   "Em atendimentos com finalidade jurídica, é comum que as pessoas verbalizem espontaneamente seus pensamentos sem censurá-los.",
+   "Maiara pode dispensar a escuta de uma das partes da lide se dispor de provas documentais a seu respeito, formulando assim, conclusões psicológicas relativas a ela.",
+   "Cabe a Maiara entrevistar ambas as partes do processo e conduzir a avaliação com imparcialidade, mesmo atuando como assistente técnica e não como perita.",
+   "Pode ser necessário encaminhar as famílias para a inclusão em políticas sociais específicas, sendo também atribuição da(o) psicóloga(o) jurídica(o) contribuir na composição da rede pública de assistência e de saúde."
+  ],
+  "gabarito": 4,
+  "comentario": "Na avaliação psicológica no contexto jurídico, o psicólogo pode identificar necessidades das famílias, como insegurança alimentar e sofrimento mental, e encaminhá-las à rede de assistência social e de saúde, contribuindo para a articulação dessa rede (E). Os testes são instrumentos técnicos de coleta de dados, e não um meio de 'dar legitimidade' ao laudo (A). Em contexto judicial as pessoas tendem a controlar e editar o que dizem, por causa das consequências do processo (B). O psicólogo não deve concluir sobre alguém que não avaliou (C). Imparcialidade em relação às duas partes é dever do perito, enquanto o assistente técnico é de confiança de uma das partes (D).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-trt24-2024-psi-55",
+  "disciplina": "especificos",
+  "assunto": "esp-direitos-humanos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TRT-24",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Apoio Especializado – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/area-apoio-especializado-psicologiacns108-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabaritodefinitivo_trt24-analista.pdf",
+   "questao_original": 55,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "De acordo com a Organização Mundial da Saúde (OMS), a violência representa um grave problema de saúde pública, sendo as violências sexuais contra crianças e adolescentes especialmente preocupantes, por impactarem de forma profunda o desenvolvimento dessa faixa etária. A respeito desse tipo de violência e da atuação de psicólogas(os) na rede de proteção às crianças e adolescentes, assinale a afirmativa correta.",
+  "alternativas": [
+   "A atuação psicológica na rede de proteção deve ser operacionalizada com foco na cessação da periculosidade e na punição do agressor.",
+   "Mesmo que a violência possa ser considerada multicausal e multifacetada, o modelo mais indicado para a intervenção psicológica é o da clínica individual.",
+   "A lógica da Proteção Integral, ao mesmo tempo que reconhece a criança como sujeito de direitos, também a reconhece em sua condição de menor em situação irregular.",
+   "As condições institucionais e sociais do contexto em que os profissionais atuam influenciam a compreensão e a forma de agir perante as situações de violência sexual.",
+   "Os profissionais que atuam nas entidades de saúde integrantes do Sistema Único de Saúde são obrigados a notificar os casos de violência contra crianças e adolescentes somente quando confirmados."
+  ],
+  "gabarito": 3,
+  "comentario": "A compreensão e o manejo da violência sexual pelos profissionais são atravessados pelas condições institucionais e sociais em que atuam: recursos da rede, fluxos, valores, preconceitos e sobrecarga (D). A atuação psicológica na rede de proteção visa à proteção integral e ao cuidado, e não à punição do agressor, que é função do sistema de justiça (A). Sendo um fenômeno multicausal, a violência exige intervenção intersetorial e não apenas clínica individual (B). 'Menor em situação irregular' é a doutrina do antigo Código de Menores, superada pela Proteção Integral (C). O ECA (art. 13) obriga a notificar também os casos suspeitos, e não só os confirmados (E).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-trt24-2024-psi-56",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TRT-24",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Apoio Especializado – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/area-apoio-especializado-psicologiacns108-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabaritodefinitivo_trt24-analista.pdf",
+   "questao_original": 56,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Elaborado por Gastão Wagner Campos na década de 1990, o matriciamento tem servido como base para a construção de um modelo de cuidado colaborativo entre a saúde mental e a atenção primária no Brasil. Com relação ao matriciamento, assinale a afirmativa correta.",
+  "alternativas": [
+   "Refere-se a uma intervenção psicossocial coletiva realizada apenas pelo profissional de saúde mental.",
+   "Trata-se de uma prática que se define de forma precisa dentro dos limites de cada disciplina ou profissão, com o objetivo de promover o cuidado colaborativo.",
+   "É análogo à supervisão clínico-institucional, pois o matriciador não pode participar ativamente do projeto terapêutico.",
+   "Consiste em um processo de trabalho interdisciplinar por natureza, com práticas que envolvem intercâmbio e construção do conhecimento.",
+   "Funciona por meio da articulação entre equipes, com o objetivo de encaminhar os usuários ao especialista, que será responsável pelo atendimento individual na área de saúde mental."
+  ],
+  "gabarito": 3,
+  "comentario": "O apoio matricial, proposto por Gastão Wagner de Sousa Campos, é um arranjo de trabalho interdisciplinar em que a equipe de referência e a equipe de apoio especializado compartilham casos e saberes. Isso se faz por discussões, consultas e intervenções conjuntas e construção de projetos terapêuticos, produzindo intercâmbio e construção de conhecimento (D). Não é tarefa exclusiva do profissional de saúde mental (A) nem se restringe aos limites de cada disciplina (B). O matriciador pode participar ativamente do projeto terapêutico (C). O objetivo é justamente evitar a lógica do encaminhamento e da desresponsabilização (E).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-trt24-2024-psi-57",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TRT-24",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Apoio Especializado – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/area-apoio-especializado-psicologiacns108-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabaritodefinitivo_trt24-analista.pdf",
+   "questao_original": 57,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Com base na Atenção Primária à Saúde, assinale a opção correta sobre os cuidados prestados nesse nível de atenção",
+  "alternativas": [
+   "Profissionais de saúde da Atenção Primária, quando comparados com especialistas, lidam com uma variedade menor de problemas.",
+   "A Atenção Primária envolve o manejo de pacientes que, geralmente, têm múltiplos diagnósticos e queixas confusas as quais não podem ser encaixadas em diagnósticos conhecidos.",
+   "No nível da Atenção Primária considera-se que a saúde de um indivíduo ou de uma população é determinada principalmente por sua combinação genética, e não pelo ambiente social e físico.",
+   "A prevenção e promoção da saúde na Atenção primária transcendem as enfermidades específicas, considerando unicamente o contexto direto de convivência do indivíduo, isto é, sua família.",
+   "A Atenção primária foca no tratamento de enfermidades, incluindo as condições de saúde raras, dispensando a necessidade de coordenação do cuidado."
+  ],
+  "gabarito": 1,
+  "comentario": "Na formulação clássica de Barbara Starfield, a Atenção Primária é o primeiro contato, longitudinal, integral e coordenadora do cuidado. Ela lida com grande variedade de problemas, muitas vezes indiferenciados, com múltiplas queixas e diagnósticos que não se encaixam em categorias definidas (B). A inverte isso, já que o especialista é quem lida com menor variedade. C ignora os determinantes sociais da saúde. D erra ao restringir o contexto 'unicamente' à família, deixando de lado a comunidade e o território. E nega a coordenação do cuidado e a vocação da APS para os problemas mais comuns.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-trt24-2024-psi-58",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TRT-24",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Apoio Especializado – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/area-apoio-especializado-psicologiacns108-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabaritodefinitivo_trt24-analista.pdf",
+   "questao_original": 58,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "No Brasil, a atenção psicossocial configura um campo capaz de congregar e nomear todo o conjunto de práticas substitutivas ao paradigma asilar. Com relação à atenção psicossocial, assinale a afirmativa correta.",
+  "alternativas": [
+   "É despida de uma dimensão propriamente política, a despeito de ofertar atendimento individual e coletivo aos usuários.",
+   "Visa a produção de subjetividade singularizada, tanto nas relações imediatas com o usuário quanto nas relações com o território.",
+   "Constitui serviços de reabilitação social para pacientes graves e crônicos, que utilizam grupos em detrimento de técnicas clínicas.",
+   "Consolida-se como nível especializado, no que diz respeito às formas de organização das relações intrainstitucionais, preconizando a verticalização.",
+   "Possui, como um de seus pontos críticos, a conformação de um modelo assistencial que vem progressivamente excluindo o médico psiquiatra da assistência ao doente mental."
+  ],
+  "gabarito": 1,
+  "comentario": "Na formulação de Abílio da Costa-Rosa, o 'modo psicossocial' se opõe ao modo asilar. Ele busca a produção de subjetividade singularizada, tanto na relação com o usuário quanto na relação com o território, com horizontalidade institucional e implicação do sujeito (B). A atenção psicossocial tem dimensão política constitutiva, o que torna A errada. Ela não se reduz à reabilitação de pacientes crônicos nem opõe grupos à clínica (C). Preconiza a horizontalização, e não a verticalização (D). Não se caracteriza por excluir o psiquiatra, mas pelo trabalho em equipe interdisciplinar (E).",
+  "dificuldade": 3,
+  "anulada": false
+ },
+ {
+  "id": "fgv-trt24-2024-psi-59",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TRT-24",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Apoio Especializado – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/area-apoio-especializado-psicologiacns108-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabaritodefinitivo_trt24-analista.pdf",
+   "questao_original": 59,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "O Manual Diagnóstico e Estatístico de Transtornos Mentais, 5ª Edição (DSM-V), ao tratar do uso de substâncias psicoativas,",
+  "alternativas": [
+   "enfatiza a dimensão da compulsividade, que passa a ser central na caracterização do uso de substâncias como comportamento patológico.",
+   "ressalta os transtornos mentais orgânicos, separando o psíquico do físico na construção dos critérios diagnósticos no campo de drogas.",
+   "considera como padrão problemático o uso de substâncias quando há comprometimento ou sofrimento significativo durante um período de dois meses.",
+   "menciona a tolerância ao uso da substância, haja vista a necessidade de quantidades progressivamente menores para atingir a intoxicação ou o efeito desejado.",
+   "inclui a fissura como um dos critérios diagnósticos, em que a substância é consumida em maiores quantidades ou por um período mais longo do que o pretendido."
+  ],
+  "gabarito": 0,
+  "comentario": "No DSM-5, os transtornos por uso de substâncias são caracterizados por um padrão de uso que persiste apesar dos prejuízos. O núcleo dos critérios é a perda de controle sobre o uso e seu caráter compulsivo, ideia que a banca considerou central (A). C erra o período, que é de 12 meses, e não de dois. D inverte a tolerância, que é a necessidade de quantidades progressivamente maiores. E dá à fissura (craving, critério incluído no DSM-5) a definição de outro critério, o uso em quantidades maiores ou por mais tempo do que o pretendido. 'Transtornos mentais orgânicos' (B) é uma nomenclatura da CID-10, e o DSM-5 não se organiza pela separação psíquico/físico.",
+  "dificuldade": 3,
+  "anulada": false
+ },
+ {
+  "id": "fgv-trt24-2024-psi-60",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TRT-24",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Apoio Especializado – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/area-apoio-especializado-psicologiacns108-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabaritodefinitivo_trt24-analista.pdf",
+   "questao_original": 60,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Sobre a atuação do psicólogo na abordagem da saúde mental no contexto da Atenção Básica à Saúde, assinale a afirmativa correta.",
+  "alternativas": [
+   "Considera a interdependência do sofrimento de pessoas, famílias, comunidades e territórios.",
+   "Enfatiza a doença e os sintomas de sofrimento do sujeito, em detrimento do contexto em que estes aparecem.",
+   "Mantém a objetividade pertinente à cientificidade da área, para não afetar o processo de cuidado em saúde mental.",
+   "Privilegia a clínica individual, enquanto estratégia de cuidado considerada como intervenção em saúde mental.",
+   "Fundamenta a produção de diagnósticos a fim de encaminhar os usuários para a atenção psicossocial especializada."
+  ],
+  "gabarito": 0,
+  "comentario": "Na Atenção Básica, o cuidado em saúde mental é territorial e considera o sofrimento como fenômeno que envolve pessoas, famílias, comunidades e territórios de forma interdependente (A). As demais alternativas expressam o modelo biomédico e especializado que a Atenção Básica busca superar: foco na doença em vez do contexto (B), neutralidade objetivista que nega o vínculo (C), privilégio da clínica individual (D) e diagnóstico voltado ao encaminhamento (E).",
+  "dificuldade": 1,
+  "anulada": false
+ }
+]

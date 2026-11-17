@@ -1,0 +1,127 @@
+[
+ {
+  "id": "fgv-semusni-2025-fis-1",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "SEMUS-Nova Iguaçu",
+   "ano": 2025,
+   "cargo": "Fiscal Sanitário – Enfermagem",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/fiscal-sanitario-enfermagem-cns010-tipo-1.pdf"
+  },
+  "enunciado": "Na frase “A arte existe porque a vida não basta”, só não é possível afirmar que",
+  "alternativas": [
+   "a vida é insuficiente.",
+   "a arte complementa a vida.",
+   "arte e vida independem uma da outra.",
+   "existe um ponto de vista sobre o que é arte.",
+   "a vida não bastar é a razão de a arte existir."
+  ],
+  "gabarito": 2,
+  "comentario": "A frase estabelece relação de causa entre vida e arte: a arte existe PORQUE a vida não basta. Logo, não se pode afirmar que arte e vida independem uma da outra (C). As demais são inferências compatíveis: a vida é insuficiente (A), a arte a complementa (B), há um ponto de vista sobre a arte (D) e a insuficiência da vida é a razão de a arte existir (E).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-semusni-2025-fis-2",
+  "disciplina": "portugues",
+  "assunto": "pt-sintaxe",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "SEMUS-Nova Iguaçu",
+   "ano": 2025,
+   "cargo": "Fiscal Sanitário – Enfermagem",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/fiscal-sanitario-enfermagem-cns010-tipo-1.pdf"
+  },
+  "enunciado": "Sobre a propaganda “Se beber, não dirija”, avalie as sentenças a seguir.\nI. A oração subordinada veicula ideia de condição.\nII. É possível trocar a ordem das orações, subordinada e principal, sem que haja alteração de sentido.\nIII. A pontuação se justifica pela inversão da ordem da oração principal.\nIV. O conectivo poderia ser substituído, sem alteração de sentido, por “desde que”.\nEstá correto o que se afirma em",
+  "alternativas": [
+   "I e II, apenas.",
+   "I e IV, apenas.",
+   "II e III, apenas.",
+   "II e IV, apenas.",
+   "I, II, III e IV."
+  ],
+  "gabarito": 4,
+  "comentario": "I: “Se beber” é oração subordinada adverbial condicional. II: “Não dirija, se beber” mantém o sentido. III: a vírgula se justifica porque a oração subordinada está anteposta à principal (ordem inversa). IV: “desde que” também exprime condição (“Desde que beba, não dirija”). Como as quatro afirmativas estão corretas, a resposta é E.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-semusni-2025-fis-3",
+  "disciplina": "portugues",
+  "assunto": "pt-semantica",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "SEMUS-Nova Iguaçu",
+   "ano": 2025,
+   "cargo": "Fiscal Sanitário – Enfermagem",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/fiscal-sanitario-enfermagem-cns010-tipo-1.pdf"
+  },
+  "enunciado": "Na frase: “Maria disse à Joana que ela seria selecionada para a vaga”, a ambiguidade é causada em função",
+  "alternativas": [
+   "da polissemia de um termo.",
+   "da imprecisão do referente.",
+   "do uso incorreto do hiperônimo.",
+   "do conectivo generalizante.",
+   "da abrangência do termo resumitivo."
+  ],
+  "gabarito": 1,
+  "comentario": "O pronome “ela” pode retomar tanto “Maria” quanto “Joana”: a ambiguidade decorre da imprecisão do referente (B). Não há palavra polissêmica (A), hiperônimo (C), conectivo generalizante (D) nem termo resumitivo (E) envolvidos.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-semusni-2025-fis-4",
+  "disciplina": "portugues",
+  "assunto": "pt-morfologia",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "SEMUS-Nova Iguaçu",
+   "ano": 2025,
+   "cargo": "Fiscal Sanitário – Enfermagem",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/fiscal-sanitario-enfermagem-cns010-tipo-1.pdf"
+  },
+  "enunciado": "Assinale a opção em que a retirada do artigo em destaque implica alteração de sentido na frase.",
+  "alternativas": [
+   "Trabalhamos todo [o] dia.",
+   "[O] seu vizinho é muito silencioso.",
+   "[A] Argentina possui muitos pontos turísticos.",
+   "Fomos visitar [a] Maria, porque ela não estava bem.",
+   "Encontramos [o] nosso cachorro perdido na rua."
+  ],
+  "gabarito": 0,
+  "comentario": "“Trabalhamos todo o dia” significa o dia inteiro; sem o artigo, “trabalhamos todo dia” passa a significar diariamente, havendo mudança de sentido (A). Nas demais, o artigo é facultativo ou expressivo: antes de possessivo (B, E), antes de nome próprio de pessoa (D) e antes do nome do país (C), sem alteração do sentido básico.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-semusni-2025-fis-5",
+  "disciplina": "portugues",
+  "assunto": "pt-vocabulario",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "SEMUS-Nova Iguaçu",
+   "ano": 2025,
+   "cargo": "Fiscal Sanitário – Enfermagem",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/fiscal-sanitario-enfermagem-cns010-tipo-1.pdf"
+  },
+  "enunciado": "Assinale a opção gramaticalmente correta.",
+  "alternativas": [
+   "Os professores não aderiram à paralização.",
+   "Este é um exemplo de mal uso do dinheiro público.",
+   "Há muita sujeira em baixo da mesa.",
+   "A última seção do filme já vai começar.",
+   "Comeu bastantes salgadinhos na festa da prima."
+  ],
+  "gabarito": 4,
+  "comentario": "Em E, “bastantes” é adjetivo (= muitos) e concorda com “salgadinhos”, estando correto. As demais têm erros: “paralisação” se escreve com s (A); o correto é “mau uso”, pois “mau” é adjetivo oposto a “bom” (B); “embaixo” se escreve junto (C); e a parte de um espetáculo de cinema é “sessão”, não “seção” (D).",
+  "dificuldade": 2,
+  "anulada": false
+ }
+]

@@ -1,0 +1,662 @@
+[
+  {
+    "id": "aut-esp-politicas-publicas-001",
+    "disciplina": "especificos",
+    "assunto": "esp-politicas-publicas",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Lei nº 8.080/1990 – https://www.planalto.gov.br/ccivil_03/leis/l8080.htm"
+    },
+    "enunciado": "Um usuário do SUS com diabetes é acompanhado pela equipe de Saúde da Família, mas, ao apresentar sofrimento psíquico intenso, é informado de que \"ali só se cuida do corpo\". Essa resposta contraria diretamente o princípio do SUS definido na Lei nº 8.080/1990 como",
+    "alternativas": [
+      "universalidade de acesso, entendida como garantia de atendimento a brasileiros e estrangeiros.",
+      "descentralização político-administrativa, com direção única em cada esfera de governo.",
+      "integralidade de assistência, entendida como conjunto articulado e contínuo de ações e serviços preventivos e curativos, individuais e coletivos, em todos os níveis de complexidade.",
+      "participação da comunidade, exercida por meio dos conselhos de saúde.",
+      "regionalização e hierarquização da rede de serviços de saúde."
+    ],
+    "gabarito": 2,
+    "comentario": "O art. 7º, II, da Lei 8.080/90 define integralidade como conjunto articulado e contínuo das ações e serviços preventivos e curativos, individuais e coletivos, exigidos para cada caso em todos os níveis de complexidade. Fragmentar o cuidado e negar atenção ao sofrimento psíquico viola esse princípio. O usuário teve acesso ao serviço, o que afasta a universalidade como foco do problema.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-politicas-publicas-002",
+    "disciplina": "especificos",
+    "assunto": "esp-politicas-publicas",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Lei nº 8.142/1990 – https://www.planalto.gov.br/ccivil_03/leis/l8142.htm"
+    },
+    "enunciado": "Sobre as instâncias colegiadas do SUS previstas na Lei nº 8.142/1990, é correto afirmar que",
+    "alternativas": [
+      "a Conferência de Saúde reúne-se anualmente e o Conselho de Saúde tem caráter apenas consultivo.",
+      "o Conselho de Saúde é composto apenas por gestores e profissionais de saúde, cabendo aos usuários a Conferência.",
+      "a Conferência de Saúde tem caráter permanente e o Conselho reúne-se a cada quatro anos.",
+      "os usuários têm metade dos assentos da Conferência, mas no Conselho a composição é livremente definida pelo gestor.",
+      "a Conferência de Saúde reúne-se a cada quatro anos e o Conselho de Saúde tem caráter permanente e deliberativo, com representação paritária dos usuários em relação ao conjunto dos demais segmentos."
+    ],
+    "gabarito": 4,
+    "comentario": "O art. 1º da Lei 8.142/90 prevê a Conferência de Saúde a cada quatro anos, para avaliar a situação de saúde e propor diretrizes, e o Conselho de Saúde em caráter permanente e deliberativo. O Conselho reúne governo, prestadores, profissionais e usuários (§2º). O §4º garante representação paritária dos usuários em relação ao conjunto dos demais segmentos nos dois colegiados.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-politicas-publicas-003",
+    "disciplina": "especificos",
+    "assunto": "esp-politicas-publicas",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Lei nº 8.080/1990 – https://www.planalto.gov.br/ccivil_03/leis/l8080.htm"
+    },
+    "enunciado": "Segundo a Lei nº 8.080/1990, os níveis de saúde da população expressam a organização social e econômica do país e têm como determinantes e condicionantes, entre outros, alimentação, moradia, saneamento, meio ambiente, trabalho, renda, educação, transporte e lazer. Essa formulação expressa",
+    "alternativas": [
+      "a concepção biomédica de saúde como ausência de doença.",
+      "a restrição da responsabilidade estatal ao atendimento hospitalar.",
+      "a prioridade das ações curativas sobre as preventivas.",
+      "a vinculação do direito à saúde à contribuição previdenciária.",
+      "a concepção ampliada de saúde, que articula o setor saúde a políticas econômicas e sociais e fundamenta a ação intersetorial."
+    ],
+    "gabarito": 4,
+    "comentario": "O art. 3º da Lei 8.080/90 lista determinantes e condicionantes sociais da saúde, expressão de uma concepção ampliada. O art. 2º afirma a saúde como direito fundamental, garantido por políticas econômicas e sociais que reduzam riscos de doenças. Essa visão fundamenta a intersetorialidade, central na atuação da Psicologia em políticas públicas.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-politicas-publicas-004",
+    "disciplina": "especificos",
+    "assunto": "esp-politicas-publicas",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Portaria GM/MS nº 3.088/2011 (RAPS) – https://bvsms.saude.gov.br/bvs/saudelegis/gm/2011/prt3088_23_12_2011_rep.html"
+    },
+    "enunciado": "Na Rede de Atenção Psicossocial (Portaria GM/MS nº 3.088/2011), os Serviços Residenciais Terapêuticos integram o componente",
+    "alternativas": [
+      "atenção residencial de caráter transitório.",
+      "atenção psicossocial especializada.",
+      "atenção hospitalar.",
+      "estratégias de desinstitucionalização.",
+      "reabilitação psicossocial."
+    ],
+    "gabarito": 3,
+    "comentario": "O art. 5º da Portaria 3.088/2011 organiza a RAPS em sete componentes. Os Serviços Residenciais Terapêuticos estão nas estratégias de desinstitucionalização (inciso VI). A atenção residencial de caráter transitório abrange a Unidade de Acolhimento e os serviços em regime residencial. A reabilitação psicossocial reúne iniciativas de trabalho e renda e cooperativas sociais.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-politicas-publicas-005",
+    "disciplina": "especificos",
+    "assunto": "esp-politicas-publicas",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Portaria GM/MS nº 3.088/2011 (RAPS) – https://bvsms.saude.gov.br/bvs/saudelegis/gm/2011/prt3088_23_12_2011_rep.html"
+    },
+    "enunciado": "Um município planeja implantar um CAPS que funcione 24 horas, inclusive em feriados e fins de semana, com acolhimento noturno para pessoas com transtornos mentais graves e persistentes. Segundo a Portaria GM/MS nº 3.088/2011, trata-se do",
+    "alternativas": [
+      "CAPS III.",
+      "CAPS I.",
+      "CAPS II.",
+      "CAPS i.",
+      "CAPS AD."
+    ],
+    "gabarito": 0,
+    "comentario": "A Portaria 3.088/2011 (art. 7º) descreve o CAPS III como serviço de atenção contínua, com funcionamento 24 horas, incluindo feriados e fins de semana, e oferta de acolhimento noturno e retaguarda clínica. Os CAPS I e II não têm funcionamento 24 horas. O CAPS i atende crianças e adolescentes, e o CAPS AD atende necessidades decorrentes do uso de álcool e outras drogas; a versão 24 horas deste é o CAPS AD III.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-politicas-publicas-006",
+    "disciplina": "especificos",
+    "assunto": "esp-politicas-publicas",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Portaria GM/MS nº 3.088/2011 (RAPS) – https://bvsms.saude.gov.br/bvs/saudelegis/gm/2011/prt3088_23_12_2011_rep.html"
+    },
+    "enunciado": "Na RAPS, a Unidade de Acolhimento oferece cuidados contínuos, em ambiente residencial, a pessoas com necessidades decorrentes do uso de crack, álcool e outras drogas, em situação de vulnerabilidade social e/ou familiar. Segundo a Portaria GM/MS nº 3.088/2011, o tempo de permanência é de",
+    "alternativas": [
+      "até seis meses.",
+      "até trinta dias.",
+      "até nove meses.",
+      "até dois anos.",
+      "tempo indeterminado, conforme o projeto terapêutico."
+    ],
+    "gabarito": 0,
+    "comentario": "A Portaria 3.088/2011 (art. 9º) fixa a permanência na Unidade de Acolhimento em até seis meses, com modalidades adulta e infantojuvenil. Os Serviços de Atenção em Regime Residencial, que incluem as comunidades terapêuticas, têm permanência de até nove meses. Os dois pertencem ao componente de atenção residencial de caráter transitório.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-politicas-publicas-007",
+    "disciplina": "especificos",
+    "assunto": "esp-politicas-publicas",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Portaria GM/MS nº 3.088/2011 (RAPS) – https://bvsms.saude.gov.br/bvs/saudelegis/gm/2011/prt3088_23_12_2011_rep.html"
+    },
+    "enunciado": "Os Serviços Residenciais Terapêuticos, segundo a Portaria GM/MS nº 3.088/2011, são moradias inseridas na comunidade destinadas a acolher pessoas",
+    "alternativas": [
+      "em situação de rua com uso abusivo de álcool e outras drogas, pelo prazo de até seis meses.",
+      "egressas de internação de longa permanência (dois anos ou mais ininterruptos), de hospitais psiquiátricos e hospitais de custódia, entre outros.",
+      "em crise aguda, como alternativa à internação em hospital geral.",
+      "com transtorno mental leve que optaram por deixar o convívio familiar.",
+      "idosas em situação de abandono, independentemente de histórico de internação."
+    ],
+    "gabarito": 1,
+    "comentario": "O art. 11 da Portaria 3.088/2011 define os SRT como moradias na comunidade para egressos de internação de longa permanência, de dois anos ou mais ininterruptos, de hospitais psiquiátricos, hospitais de custódia e outros. Eles concretizam a desinstitucionalização prevista no art. 5º da Lei 10.216/2001. Pessoas que usam drogas e estão em vulnerabilidade são público da Unidade de Acolhimento.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-politicas-publicas-008",
+    "disciplina": "especificos",
+    "assunto": "esp-politicas-publicas",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Lei nº 10.708/2003 (Programa de Volta para Casa) – https://www.planalto.gov.br/ccivil_03/leis/2003/l10.708.htm"
+    },
+    "enunciado": "O Programa de Volta para Casa, instituído pela Lei nº 10.708/2003, tem como principal instrumento",
+    "alternativas": [
+      "a construção de hospitais psiquiátricos de pequeno porte próximos às famílias.",
+      "o auxílio-reabilitação psicossocial pago a pessoas egressas de longas internações psiquiátricas.",
+      "o financiamento de comunidades terapêuticas para egressos do sistema prisional.",
+      "o benefício de prestação continuada a todas as pessoas com transtorno mental.",
+      "a internação domiciliar compulsória de pessoas com transtorno mental grave."
+    ],
+    "gabarito": 1,
+    "comentario": "A Lei 10.708/2003 institui o auxílio-reabilitação psicossocial para pacientes acometidos de transtornos mentais egressos de internações de longa permanência, integrando o Programa de Volta para Casa. A Portaria 3.088/2011 (art. 11, §3º) articula o programa aos Serviços Residenciais Terapêuticos. Seu objetivo é a reinserção social, não a criação de novos leitos.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-politicas-publicas-009",
+    "disciplina": "especificos",
+    "assunto": "esp-politicas-publicas",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Portaria GM/MS nº 3.088/2011 (RAPS) – https://bvsms.saude.gov.br/bvs/saudelegis/gm/2011/prt3088_23_12_2011_rep.html"
+    },
+    "enunciado": "Entre as diretrizes da Rede de Atenção Psicossocial previstas na Portaria GM/MS nº 3.088/2011, inclui-se",
+    "alternativas": [
+      "o desenvolvimento de estratégias de redução de danos e o projeto terapêutico singular como eixo central do cuidado.",
+      "a abstinência como condição prévia para o acesso aos serviços.",
+      "a centralidade do hospital psiquiátrico na organização da rede.",
+      "a separação entre os cuidados em saúde mental e as ações intersetoriais.",
+      "a prioridade da internação de longa permanência para casos graves."
+    ],
+    "gabarito": 0,
+    "comentario": "O art. 2º da Portaria 3.088/2011 elenca como diretrizes, entre outras, respeito aos direitos humanos, combate a estigmas, serviços de base territorial e comunitária, redução de danos, ações intersetoriais e o projeto terapêutico singular como eixo central. Exigir abstinência prévia contraria a redução de danos. A centralidade hospitalar contraria a lógica da Lei 10.216/2001.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-politicas-publicas-010",
+    "disciplina": "especificos",
+    "assunto": "esp-politicas-publicas",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Lei nº 10.216/2001 – https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10216.htm"
+    },
+    "enunciado": "Segundo a Lei nº 10.216/2001, a internação psiquiátrica que se dá sem o consentimento do usuário e a pedido de terceiro denomina-se",
+    "alternativas": [
+      "compulsória.",
+      "involuntária.",
+      "voluntária.",
+      "judicial.",
+      "sanitária."
+    ],
+    "gabarito": 1,
+    "comentario": "O art. 6º, parágrafo único, da Lei 10.216/2001 prevê três tipos de internação, todas dependentes de laudo médico circunstanciado. A voluntária ocorre com o consentimento do usuário. A involuntária ocorre sem o consentimento e a pedido de terceiro. A compulsória é determinada pela Justiça.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-politicas-publicas-011",
+    "disciplina": "especificos",
+    "assunto": "esp-politicas-publicas",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Lei nº 10.216/2001 – https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10216.htm"
+    },
+    "enunciado": "Um hospital realiza a internação involuntária de um jovem em crise. Nos termos da Lei nº 10.216/2001,",
+    "alternativas": [
+      "a internação deve ser comunicada à Defensoria Pública em 24 horas pela família do paciente.",
+      "a internação depende de autorização judicial prévia, sem a qual não pode ocorrer.",
+      "a internação deve ser comunicada ao Ministério Público Estadual, no prazo de 72 horas, pelo responsável técnico do estabelecimento, procedimento também exigido na alta.",
+      "a comunicação ao Ministério Público é dispensada se houver laudo médico.",
+      "a internação só termina por decisão do Ministério Público."
+    ],
+    "gabarito": 2,
+    "comentario": "O art. 8º, §1º, da Lei 10.216/2001 exige que a internação involuntária seja comunicada ao Ministério Público Estadual em até 72 horas pelo responsável técnico do estabelecimento, e o mesmo procedimento vale na alta. A autorização judicial é própria da internação compulsória (art. 9º). O término da involuntária ocorre por solicitação escrita de familiar ou responsável legal, ou quando o especialista responsável o determinar (§2º).",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-politicas-publicas-012",
+    "disciplina": "especificos",
+    "assunto": "esp-politicas-publicas",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Lei nº 10.216/2001 – https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10216.htm"
+    },
+    "enunciado": "Analise as afirmativas sobre a Lei nº 10.216/2001.\nI. A internação, em qualquer de suas modalidades, só será indicada quando os recursos extra-hospitalares se mostrarem insuficientes.\nII. É vedada a internação de pacientes portadores de transtornos mentais em instituições com características asilares.\nIII. O tratamento visará, como finalidade permanente, a reinserção social do paciente em seu meio.\nEstá correto o que se afirma em",
+    "alternativas": [
+      "I, apenas.",
+      "II, apenas.",
+      "I e II, apenas.",
+      "II e III, apenas.",
+      "I, II e III."
+    ],
+    "gabarito": 4,
+    "comentario": "As três afirmativas reproduzem o art. 4º da Lei 10.216/2001. O caput põe a internação como último recurso, o §1º fixa a reinserção social como finalidade permanente e o §3º veda a internação em instituições com características asilares. Essas são as instituições sem a assistência integral do §2º e sem os direitos do art. 2º.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-politicas-publicas-013",
+    "disciplina": "especificos",
+    "assunto": "esp-politicas-publicas",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Lei nº 10.216/2001 – https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10216.htm"
+    },
+    "enunciado": "Entre os direitos da pessoa com transtorno mental listados no art. 2º da Lei nº 10.216/2001, NÃO se inclui",
+    "alternativas": [
+      "ser tratada preferencialmente em hospital psiquiátrico especializado, por oferecer maior proteção.",
+      "ter acesso ao melhor tratamento do sistema de saúde, consentâneo às suas necessidades.",
+      "ser tratada em ambiente terapêutico pelos meios menos invasivos possíveis.",
+      "ter garantia de sigilo nas informações prestadas.",
+      "ter livre acesso aos meios de comunicação disponíveis."
+    ],
+    "gabarito": 0,
+    "comentario": "O art. 2º, parágrafo único, da Lei 10.216/2001 garante, entre outros, acesso ao melhor tratamento, sigilo, livre acesso aos meios de comunicação e tratamento pelos meios menos invasivos possíveis. O inciso IX estabelece preferência por serviços comunitários de saúde mental, o oposto da preferência pelo hospital psiquiátrico. Essa é a lógica de substituição do modelo asilar.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-politicas-publicas-014",
+    "disciplina": "especificos",
+    "assunto": "esp-politicas-publicas",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "AMARANTE, P. Saúde mental e atenção psicossocial. Rio de Janeiro: Fiocruz, 2007; Carta de Bauru (1987)"
+    },
+    "enunciado": "O Manifesto de Bauru (1987), marco da Reforma Psiquiátrica brasileira, ficou associado ao lema",
+    "alternativas": [
+      "\"Saúde é democracia\", que deu origem à VIII Conferência Nacional de Saúde.",
+      "\"Nada sobre nós sem nós\", que deu origem à Convenção sobre os Direitos das Pessoas com Deficiência.",
+      "\"Trancar não é tratar\", que deu origem à Lei Paulo Delgado em 1989.",
+      "\"Por uma sociedade sem manicômios\", que deu origem ao Dia Nacional da Luta Antimanicomial, em 18 de maio.",
+      "\"Saúde mental é direito de todos\", que deu origem à criação do SUS."
+    ],
+    "gabarito": 3,
+    "comentario": "O II Congresso Nacional dos Trabalhadores em Saúde Mental, em Bauru (1987), adotou o lema \"Por uma sociedade sem manicômios\" e instituiu o 18 de maio como Dia Nacional da Luta Antimanicomial. O movimento aproximou trabalhadores, usuários e familiares em torno da desinstitucionalização. O projeto Paulo Delgado, de 1989, só foi aprovado em versão substitutiva como Lei 10.216/2001.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-politicas-publicas-015",
+    "disciplina": "especificos",
+    "assunto": "esp-politicas-publicas",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "PNAS/2004 e Tipificação Nacional dos Serviços Socioassistenciais (Res. CNAS 109/2009) – https://www.mds.gov.br/webarquivos/publicacao/assistencia_social/Normativas/PNAS2004.pdf"
+    },
+    "enunciado": "Na Política Nacional de Assistência Social (PNAS/2004), a proteção social básica tem como objetivo",
+    "alternativas": [
+      "atender famílias e indivíduos cujos direitos já foram violados, como em casos de violência física e sexual.",
+      "garantir acolhimento integral a indivíduos sem referência familiar ou que precisem ser retirados do núcleo familiar.",
+      "prevenir situações de risco por meio do desenvolvimento de potencialidades e aquisições e do fortalecimento de vínculos familiares e comunitários.",
+      "executar as medidas socioeducativas de internação de adolescentes.",
+      "prestar assistência médica e psicológica gratuita à população em vulnerabilidade."
+    ],
+    "gabarito": 2,
+    "comentario": "A PNAS/2004 define a proteção social básica como voltada a prevenir situações de risco, desenvolvendo potencialidades e aquisições e fortalecendo vínculos familiares e comunitários, com o CRAS como unidade de referência. Atender violações de direitos já instaladas cabe à proteção especial de média complexidade, no CREAS. O acolhimento integral fora da família é próprio da alta complexidade.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-politicas-publicas-016",
+    "disciplina": "especificos",
+    "assunto": "esp-politicas-publicas",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "PNAS/2004 e Tipificação Nacional dos Serviços Socioassistenciais (Res. CNAS 109/2009) – https://www.mds.gov.br/webarquivos/publicacao/assistencia_social/Normativas/PNAS2004.pdf"
+    },
+    "enunciado": "O Serviço de Proteção e Atendimento Integral à Família (PAIF), segundo a Tipificação Nacional dos Serviços Socioassistenciais, é",
+    "alternativas": [
+      "ofertado exclusivamente no CRAS e consiste no trabalho social continuado com famílias, para fortalecer sua função protetiva e prevenir a ruptura de vínculos.",
+      "ofertado no CREAS para famílias com membros em situação de violação de direitos.",
+      "ofertado em CAPS para famílias de usuários com transtorno mental grave.",
+      "um serviço de psicoterapia familiar gratuita, ofertado por psicólogos da assistência social.",
+      "um benefício eventual em dinheiro, pago a famílias em situação de calamidade."
+    ],
+    "gabarito": 0,
+    "comentario": "A Tipificação (Res. CNAS 109/2009) descreve o PAIF como trabalho social com famílias, de caráter continuado, que busca fortalecer a função protetiva, prevenir a ruptura de vínculos, promover acesso a direitos e melhorar a qualidade de vida. É ofertado exclusivamente no CRAS (Lei 8.742/93, art. 24-A). O atendimento a violações de direitos cabe ao PAEFI, no CREAS. O PAIF não é serviço de psicoterapia.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-politicas-publicas-017",
+    "disciplina": "especificos",
+    "assunto": "esp-politicas-publicas",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "PNAS/2004 e Tipificação Nacional dos Serviços Socioassistenciais (Res. CNAS 109/2009) – https://www.mds.gov.br/webarquivos/publicacao/assistencia_social/Normativas/PNAS2004.pdf"
+    },
+    "enunciado": "Uma idosa é vítima de violência patrimonial e psicológica praticada por um filho. O Conselho da Pessoa Idosa a encaminha para acompanhamento socioassistencial especializado. No SUAS, o serviço indicado é o",
+    "alternativas": [
+      "PAIF, ofertado no CRAS.",
+      "Serviço de Convivência e Fortalecimento de Vínculos, ofertado em centro de convivência.",
+      "Serviço de Acolhimento Institucional, ofertado em unidade de alta complexidade, em qualquer caso.",
+      "Benefício de Prestação Continuada, operacionalizado pelo INSS.",
+      "PAEFI, ofertado no CREAS."
+    ],
+    "gabarito": 4,
+    "comentario": "O PAEFI (Serviço de Proteção e Atendimento Especializado a Famílias e Indivíduos) oferece apoio, orientação e acompanhamento a famílias com membros em situação de ameaça ou violação de direitos. É ofertado obrigatoriamente no CREAS, na proteção social especial de média complexidade. O acolhimento institucional só se justifica quando é necessário afastar a pessoa do núcleo familiar.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-politicas-publicas-018",
+    "disciplina": "especificos",
+    "assunto": "esp-politicas-publicas",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "CREPOP/CFP – Referências técnicas – https://crepop.cfp.org.br/"
+    },
+    "enunciado": "Uma psicóloga recém-contratada por um CRAS organiza sua agenda com atendimentos psicoterápicos individuais semanais aos usuários. À luz das referências técnicas do CREPOP para atuação no CRAS/SUAS, essa organização é",
+    "alternativas": [
+      "inadequada, pois a atuação no CRAS se orienta pelo trabalho social com famílias e pela dimensão comunitária e preventiva, não pela psicoterapia, que deve ser buscada na rede de saúde quando necessária.",
+      "adequada, pois a psicoterapia é a principal atribuição do psicólogo em qualquer política pública.",
+      "adequada, desde que os atendimentos não ultrapassem doze sessões por usuário.",
+      "inadequada, pois o psicólogo no CRAS deve limitar-se a atividades administrativas de cadastro.",
+      "inadequada, pois no CRAS o psicólogo só pode atuar em grupo, vedado qualquer atendimento individual."
+    ],
+    "gabarito": 0,
+    "comentario": "As referências do CREPOP para o CRAS/SUAS orientam uma atuação voltada ao trabalho social com famílias, ao fortalecimento de vínculos e à prevenção no território, em equipe interdisciplinar. O CRAS não é espaço de psicoterapia. Demandas clínicas devem ser encaminhadas à rede de saúde, em articulação intersetorial. Isso não exclui atendimentos individuais de acolhimento e acompanhamento familiar, nem reduz a psicóloga a tarefas administrativas.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-politicas-publicas-019",
+    "disciplina": "especificos",
+    "assunto": "esp-politicas-publicas",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "PNAS/2004 e Tipificação Nacional dos Serviços Socioassistenciais (Res. CNAS 109/2009) – https://www.mds.gov.br/webarquivos/publicacao/assistencia_social/Normativas/PNAS2004.pdf"
+    },
+    "enunciado": "No SUAS, o acompanhamento de adolescentes em cumprimento de medidas socioeducativas de Liberdade Assistida (LA) e de Prestação de Serviços à Comunidade (PSC) é ofertado",
+    "alternativas": [
+      "no CRAS, na proteção social básica.",
+      "em unidades de internação, na alta complexidade.",
+      "no CREAS, na proteção social especial de média complexidade.",
+      "nos CAPS i, por se tratar de adolescentes.",
+      "exclusivamente pelo Poder Judiciário, sem participação do SUAS."
+    ],
+    "gabarito": 2,
+    "comentario": "A Tipificação Nacional prevê o Serviço de Proteção Social a Adolescentes em Cumprimento de Medida Socioeducativa de LA e PSC na proteção social especial de média complexidade, ofertado no CREAS. As medidas de internação e semiliberdade são executadas pelo sistema socioeducativo estadual, não pelo SUAS. O CRAS atua na prevenção.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-politicas-publicas-020",
+    "disciplina": "especificos",
+    "assunto": "esp-politicas-publicas",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "PNAS/2004 e Tipificação Nacional dos Serviços Socioassistenciais (Res. CNAS 109/2009) – https://www.mds.gov.br/webarquivos/publicacao/assistencia_social/Normativas/PNAS2004.pdf"
+    },
+    "enunciado": "Serviços de acolhimento institucional para crianças e adolescentes afastados do convívio familiar por medida protetiva integram, no SUAS, a",
+    "alternativas": [
+      "proteção social básica.",
+      "proteção social especial de média complexidade.",
+      "vigilância socioassistencial.",
+      "rede de atenção psicossocial.",
+      "proteção social especial de alta complexidade."
+    ],
+    "gabarito": 4,
+    "comentario": "A PNAS/2004 define a alta complexidade como os serviços que garantem proteção integral (moradia, alimentação, higienização e trabalho protegido) a quem precisa ser retirado do núcleo familiar ou comunitário ou não tem referência. Os serviços de acolhimento institucional estão nesse nível. A média complexidade atende violações sem rompimento dos vínculos familiares.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-politicas-publicas-021",
+    "disciplina": "especificos",
+    "assunto": "esp-politicas-publicas",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Res. CNAS nº 17/2011 (ratifica a NOB-RH/SUAS) – https://www.normasbrasil.com.br/norma/resolucao-17-2011_115112.html"
+    },
+    "enunciado": "A Resolução CNAS nº 17/2011, que ratifica a equipe de referência da NOB-RH/SUAS, reconhece como categorias profissionais de nível superior obrigatórias nas equipes de referência da proteção social especial de média complexidade:",
+    "alternativas": [
+      "assistente social e psicólogo, apenas.",
+      "assistente social, psicólogo e pedagogo.",
+      "psicólogo, médico e assistente social.",
+      "assistente social, psicólogo e advogado.",
+      "assistente social, apenas, sendo os demais profissionais facultativos."
+    ],
+    "gabarito": 3,
+    "comentario": "A Res. CNAS 17/2011 estabelece como obrigatórios na proteção social básica o assistente social e o psicólogo, e na proteção social especial de média complexidade o assistente social, o psicólogo e o advogado. Na alta complexidade, são obrigatórios o assistente social e o psicólogo. Outras categorias podem compor as equipes conforme as especificidades dos serviços.",
+    "dificuldade": 3,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-politicas-publicas-022",
+    "disciplina": "especificos",
+    "assunto": "esp-politicas-publicas",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Lei nº 13.935/2019 – https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13935.htm"
+    },
+    "enunciado": "A Lei nº 13.935/2019 dispõe que as redes públicas de educação básica contarão com serviços de psicologia e de serviço social. Segundo essa lei,",
+    "alternativas": [
+      "os psicólogos atuarão individualmente em cada escola, com foco no diagnóstico clínico de alunos com dificuldades de aprendizagem.",
+      "os serviços serão prestados exclusivamente pela rede de saúde, mediante encaminhamento das escolas.",
+      "as redes de ensino terão cinco anos para se adequar, contados da publicação.",
+      "esses serviços serão prestados por equipes multiprofissionais, que desenvolverão ações para a melhoria da qualidade do processo de ensino-aprendizagem, com participação da comunidade escolar e considerando o projeto político-pedagógico.",
+      "a contratação de psicólogos é facultativa, cabendo a cada escola decidir conforme sua demanda."
+    ],
+    "gabarito": 3,
+    "comentario": "O art. 1º da Lei 13.935/2019 prevê equipes multiprofissionais para atender às necessidades e prioridades das políticas de educação. O §1º manda essas equipes desenvolver ações para melhorar a qualidade do processo de ensino-aprendizagem, com participação da comunidade escolar e atuando na mediação das relações sociais e institucionais. O §2º manda considerar o projeto político-pedagógico. O art. 2º deu um ano de prazo aos sistemas de ensino.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-politicas-publicas-023",
+    "disciplina": "especificos",
+    "assunto": "esp-politicas-publicas",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "CREPOP/CFP – Referências técnicas – https://crepop.cfp.org.br/"
+    },
+    "enunciado": "Uma escola municipal solicita à psicóloga da rede que \"faça diagnósticos\" dos alunos que não aprendem a ler, para encaminhá-los à neurologia. À luz das referências do CREPOP para a atuação na educação básica, a postura mais adequada da psicóloga é",
+    "alternativas": [
+      "aplicar testes de inteligência em todos os alunos indicados e emitir laudos para os encaminhamentos.",
+      "problematizar a queixa escolar, analisando junto à comunidade escolar as dimensões institucionais, pedagógicas e sociais do processo de escolarização, evitando a medicalização e a patologização dos estudantes.",
+      "recusar qualquer participação, por não ser atribuição da Psicologia atuar com dificuldades de aprendizagem.",
+      "encaminhar diretamente todos os alunos à rede de saúde, que é a responsável pelo fracasso escolar.",
+      "atender individualmente cada aluno em psicoterapia na própria escola."
+    ],
+    "gabarito": 1,
+    "comentario": "As referências do CREPOP para a educação básica partem de uma perspectiva crítica e institucional da queixa escolar. Elas orientam a compreender o fracasso escolar como produção que envolve escola, práticas pedagógicas, políticas e condições sociais, e não como problema individual do aluno. Medicalizar e patologizar estudantes é criticado. A atuação privilegia o trabalho com professores, gestão, famílias e rede.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-politicas-publicas-024",
+    "disciplina": "especificos",
+    "assunto": "esp-politicas-publicas",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Lei nº 13.431/2017 – https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13431.htm"
+    },
+    "enunciado": "Segundo a Lei nº 13.431/2017, que estabelece o sistema de garantia de direitos da criança e do adolescente vítima ou testemunha de violência, a escuta especializada é",
+    "alternativas": [
+      "o procedimento de oitiva da criança perante autoridade policial ou judiciária, com finalidade de produção de prova.",
+      "o procedimento de entrevista sobre a situação de violência perante órgão da rede de proteção, limitado o relato ao estritamente necessário para o cumprimento de sua finalidade.",
+      "a psicoterapia obrigatória oferecida a toda criança vítima de violência.",
+      "a perícia psicológica realizada por psicólogo nomeado pelo juiz.",
+      "a entrevista conduzida pelo Conselho Tutelar com a família do agressor."
+    ],
+    "gabarito": 1,
+    "comentario": "O art. 7º da Lei 13.431/2017 define a escuta especializada como entrevista sobre a situação de violência perante órgão da rede de proteção, limitado o relato ao estritamente necessário. O depoimento especial (art. 8º) é a oitiva perante autoridade policial ou judiciária. A distinção visa evitar a revitimização decorrente de múltiplos relatos.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-politicas-publicas-025",
+    "disciplina": "especificos",
+    "assunto": "esp-politicas-publicas",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "ECA (Lei nº 8.069/1990) e SINASE (Lei nº 12.594/2012) – https://www.planalto.gov.br/ccivil_03/leis/l8069.htm"
+    },
+    "enunciado": "Uma adolescente cumpre medida socioeducativa de internação. Nos termos do ECA e da Lei do SINASE, é correto afirmar que",
+    "alternativas": [
+      "a medida tem prazo fixo definido na sentença, sem reavaliação periódica.",
+      "a medida deve ser reavaliada anualmente e pode durar até cinco anos.",
+      "a medida pode ser cumprida em estabelecimento prisional adulto quando faltar vaga.",
+      "o PIA é elaborado pelo juiz e dispensa a participação da adolescente e da família.",
+      "a medida não comporta prazo determinado, deve ser reavaliada no máximo a cada seis meses e não pode exceder três anos, sendo o acompanhamento orientado pelo Plano Individual de Atendimento (PIA)."
+    ],
+    "gabarito": 4,
+    "comentario": "O art. 121 do ECA estabelece que a internação não comporta prazo determinado, deve ser reavaliada no máximo a cada seis meses (§2º) e não excede três anos (§3º). A Lei 12.594/2012 (SINASE) prevê o Plano Individual de Atendimento, elaborado pela equipe técnica com participação do adolescente e da família. A internação em estabelecimento prisional é vedada.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-politicas-publicas-026",
+    "disciplina": "especificos",
+    "assunto": "esp-politicas-publicas",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Res. CFP nº 08/2010 – https://site.cfp.org.br/wp-content/uploads/2010/07/resolucao2010_008.pdf"
+    },
+    "enunciado": "Em processo de disputa de guarda, um psicólogo é contratado por uma das partes como assistente técnico. De acordo com a Resolução CFP nº 08/2010, ele",
+    "alternativas": [
+      "deve acompanhar todas as entrevistas do perito, para garantir o contraditório.",
+      "deve realizar nova avaliação completa de todos os envolvidos, substituindo a perícia.",
+      "não deve estar presente durante os procedimentos realizados pelo perito, podendo formular quesitos e analisar criticamente o estudo pericial.",
+      "pode aplicar testes nas crianças durante as sessões do perito, para comparar resultados.",
+      "fica subordinado tecnicamente ao perito nomeado pelo juiz."
+    ],
+    "gabarito": 2,
+    "comentario": "O art. 2º da Res. 08/2010 determina que o assistente técnico não esteja presente nos procedimentos do perito, e vice-versa, para evitar interferência. O parágrafo único permite ao assistente técnico formular quesitos. O art. 8º restringe sua análise ao estudo psicológico resultante da perícia, podendo ouvir pessoas e solicitar documentos. Cada profissional mantém autonomia técnica.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-politicas-publicas-027",
+    "disciplina": "especificos",
+    "assunto": "esp-politicas-publicas",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "CREPOP/CFP – Referências técnicas – https://crepop.cfp.org.br/"
+    },
+    "enunciado": "O Centro de Referência Técnica em Psicologia e Políticas Públicas (CREPOP), do Sistema Conselhos de Psicologia, tem como finalidade principal",
+    "alternativas": [
+      "fiscalizar o exercício profissional de psicólogos que atuam em órgãos públicos.",
+      "julgar processos éticos envolvendo psicólogos servidores públicos.",
+      "credenciar psicólogos para atuação em concursos e perícias oficiais.",
+      "sistematizar e difundir conhecimentos sobre a prática psicológica em políticas públicas, produzindo referências técnicas a partir de pesquisas com a categoria e consultas públicas.",
+      "avaliar testes psicológicos para uso em políticas públicas."
+    ],
+    "gabarito": 3,
+    "comentario": "O CREPOP foi criado em 2006 para sistematizar e difundir o conhecimento sobre a atuação da Psicologia em políticas públicas, produzindo referências técnicas. Sua metodologia combina pesquisa nacional com psicólogas(os) dos serviços, elaboração de documento por comissão de especialistas e consulta pública. A fiscalização cabe às COFs, os processos éticos às comissões de ética e a avaliação de testes ao SATEPSI.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-politicas-publicas-028",
+    "disciplina": "especificos",
+    "assunto": "esp-politicas-publicas",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "CAMPOS, G. W. S.; DOMITTI, A. C. Apoio matricial e equipe de referência: uma metodologia para gestão do trabalho interdisciplinar em saúde. Cadernos de Saúde Pública, v. 23, n. 2, 2007"
+    },
+    "enunciado": "Na proposta de apoio matricial em saúde (Campos e Domitti), uma psicóloga especialista em saúde mental passa a discutir casos e realizar atendimentos conjuntos com equipes de Saúde da Família. Essa estratégia caracteriza-se por",
+    "alternativas": [
+      "transferir integralmente o caso para o especialista, que passa a ser o único responsável.",
+      "substituir o encaminhamento por triagem burocrática centralizada na secretaria de saúde.",
+      "hierarquizar a relação entre especialista e generalista, cabendo a este apenas executar prescrições.",
+      "oferecer retaguarda assistencial e suporte técnico-pedagógico às equipes de referência, compartilhando a responsabilidade pelo cuidado.",
+      "restringir a atuação da psicóloga a atendimentos individuais em consultório."
+    ],
+    "gabarito": 3,
+    "comentario": "Campos e Domitti definem o apoio matricial como retaguarda especializada às equipes de referência, nas dimensões assistencial e técnico-pedagógica. A responsabilidade pelo caso é compartilhada, sem transferência ao especialista. A estratégia supera a lógica do encaminhamento e da hierarquia rígida, com discussões de caso, atendimentos e visitas conjuntas e construção de projetos terapêuticos singulares.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-politicas-publicas-029",
+    "disciplina": "especificos",
+    "assunto": "esp-politicas-publicas",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Portaria GM/MS nº 3.088/2011 (RAPS) – https://bvsms.saude.gov.br/bvs/saudelegis/gm/2011/prt3088_23_12_2011_rep.html"
+    },
+    "enunciado": "Na RAPS (Portaria GM/MS nº 3.088/2011), as equipes de Consultório na Rua, que atuam junto à população em situação de rua de forma itinerante, integram o componente",
+    "alternativas": [
+      "atenção psicossocial especializada.",
+      "atenção básica em saúde.",
+      "atenção de urgência e emergência.",
+      "atenção residencial de caráter transitório.",
+      "estratégias de desinstitucionalização."
+    ],
+    "gabarito": 1,
+    "comentario": "O art. 5º, I, da Portaria 3.088/2011 inclui no componente atenção básica a Unidade Básica de Saúde, as equipes de atenção básica para populações específicas (Consultório na Rua e equipe de apoio aos serviços residenciais transitórios) e os Centros de Convivência. A atenção psicossocial especializada é formada pelos CAPS. Por isso a atenção básica é porta de entrada também para o cuidado em saúde mental.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-politicas-publicas-030",
+    "disciplina": "especificos",
+    "assunto": "esp-politicas-publicas",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "CREPOP/CFP – Referências técnicas – https://crepop.cfp.org.br/"
+    },
+    "enunciado": "Uma psicóloga do CREAS acompanha uma adolescente vítima de exploração sexual e articula ações com a escola, a UBS, o CAPS i, o Conselho Tutelar e a Vara da Infância, construindo um plano de acompanhamento compartilhado. Essa forma de atuação expressa principalmente o princípio da",
+    "alternativas": [
+      "hierarquização, que define que o caso pertence exclusivamente ao serviço de maior complexidade.",
+      "especialização, que exige que cada setor atue de forma independente para evitar sobreposição.",
+      "intersetorialidade, que articula políticas e saberes diversos para responder a demandas complexas que nenhum setor resolve isoladamente.",
+      "centralização, que concentra as decisões sobre o caso no Poder Judiciário.",
+      "focalização, que restringe o atendimento aos casos mais graves de cada território."
+    ],
+    "gabarito": 2,
+    "comentario": "A intersetorialidade, presente na Lei 8.080/90, na PNAS e nas diretrizes da RAPS, articula políticas setoriais (assistência, saúde, educação, justiça) diante de situações complexas como a violência sexual. As referências do CREPOP enfatizam o trabalho em rede e a corresponsabilização. A atuação fragmentada ou centralizada em um só ator tende a revitimizar e a gerar descontinuidade.",
+    "dificuldade": 1,
+    "anulada": false
+  }
+]

@@ -1,0 +1,332 @@
+[
+  {
+    "id": "aut-leg-res16-2019-001",
+    "disciplina": "legislacao",
+    "assunto": "leg-res16-2019",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.in.gov.br/en/web/dou/-/resolucao-n-16-de-21-de-agosto-de-2019-214562656"
+    },
+    "enunciado": "A clínica Mente Viva Ltda., cuja atividade principal é a prestação de serviços de Psicologia, está regularmente registrada no CRP-05 (Rio de Janeiro). Seus sócios decidem abrir uma filial em São Paulo. De acordo com a Resolução CFP nº 16/2019, a filial",
+    "alternativas": [
+      "está dispensada de qualquer providência, pois o registro da matriz no CRP-05 tem validade nacional.",
+      "deve proceder ao cadastramento no CRP de São Paulo, uma vez que, para a filial, a Psicologia passa a ser atividade secundária, subordinada ao registro da matriz no CRP-05.",
+      "deve requerer o seu próprio registro no CRP da região em que pretende iniciar a atividade e indicar psicóloga(o) Responsável Técnica(o) naquele local.",
+      "deve ser registrada no CRP-05, que comunicará o fato ao CRP de São Paulo para fins de fiscalização.",
+      "precisa apenas indicar Responsável Técnica(o) ao CRP-05, sem necessidade de registro próprio."
+    ],
+    "gabarito": 2,
+    "comentario": "Pelo art. 2º da Res. CFP 16/2019, a agência, filial ou sucursal com sede em jurisdição distinta deve requerer o seu próprio registro no CRP da região em que pretende iniciar a atividade; e o parágrafo único exige a indicação de RT naquele local. O registro não tem validade nacional (A), a natureza da atividade não muda por ser filial (B), a competência é do CRP da nova região (D) e a indicação de RT não substitui o registro (E).",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res16-2019-002",
+    "disciplina": "legislacao",
+    "assunto": "leg-res16-2019",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.in.gov.br/en/web/dou/-/resolucao-n-16-de-21-de-agosto-de-2019-214562656"
+    },
+    "enunciado": "Uma pessoa jurídica teve indeferido pelo Conselho Regional de Psicologia o seu pedido de registro. Segundo a Resolução CFP nº 16/2019, contra essa decisão cabe",
+    "alternativas": [
+      "recurso ao próprio Conselho Regional, em trinta dias úteis da notificação do indeferimento; mantida a decisão, recurso ao Conselho Federal, também em trinta dias úteis.",
+      "recurso direto ao Conselho Federal de Psicologia, no prazo de quinze dias corridos a contar da notificação do indeferimento.",
+      "pedido de reconsideração ao próprio Conselho Regional, no prazo de dez dias úteis, sendo irrecorrível a decisão que o mantiver.",
+      "recurso ao Conselho Federal de Psicologia, no prazo de trinta dias corridos, com efeito suspensivo automático.",
+      "pedido de recurso ao próprio Conselho Regional, no prazo de sessenta dias úteis a contar da notificação do indeferimento, cabendo à Assembleia Geral do Regional a decisão final, sem recurso ao CFP."
+    ],
+    "gabarito": 0,
+    "comentario": "O art. 3º, §§ 1º e 2º, prevê duas etapas: primeiro, recurso ao próprio CRP em trinta dias úteis da notificação do indeferimento; mantida a decisão, recurso ao CFP em trinta dias úteis da notificação. As demais alternativas trocam a instância (B, D), o prazo (B, C, D, E) ou suprimem a via recursal ao CFP (C, E).",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res16-2019-003",
+    "disciplina": "legislacao",
+    "assunto": "leg-res16-2019",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.in.gov.br/en/web/dou/-/resolucao-n-16-de-21-de-agosto-de-2019-214562656"
+    },
+    "enunciado": "Deferido o registro de pessoa jurídica, o Conselho Regional de Psicologia emite o Certificado de Registro. Conforme a Resolução CFP nº 16/2019, esse certificado",
+    "alternativas": [
+      "tem validade de cinco anos e sua renovação deve ser requerida com antecedência mínima de trinta dias do vencimento.",
+      "tem validade indeterminada, enquanto a empresa mantiver Responsável Técnica(o) com inscrição ativa.",
+      "tem validade de um ano, renovável automaticamente mediante o pagamento da anuidade.",
+      "tem validade de três anos em toda a jurisdição do CRP, deve ser afixado em local visível ao público e sua renovação deve ser requerida com no mínimo sessenta dias de antecedência.",
+      "tem validade de três anos em todo o território nacional e deve ser mantido em arquivo, sendo exibido apenas quando solicitado pela fiscalização, com renovação requerida até trinta dias antes do vencimento."
+    ],
+    "gabarito": 3,
+    "comentario": "O art. 5º fixa a validade de três anos em toda a área da jurisdição do CRP, com afixação em local visível ao público; o § 1º exige que a renovação seja requerida antes do vencimento, com antecedência mínima de sessenta dias. As outras alternativas alteram a validade (A, B, C), o prazo de renovação (A), o alcance territorial ou a exigência de afixação (E).",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res16-2019-004",
+    "disciplina": "legislacao",
+    "assunto": "leg-res16-2019",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.in.gov.br/en/web/dou/-/resolucao-n-16-de-21-de-agosto-de-2019-214562656"
+    },
+    "enunciado": "Uma empresa de engenharia mantém, como atividade secundária, um serviço de Psicologia voltado a seus colaboradores e clientes. À luz da Resolução CFP nº 16/2019, essa pessoa jurídica",
+    "alternativas": [
+      "deve registrar-se no CRP e recolher anuidade de pessoa jurídica, pois presta serviços de Psicologia.",
+      "deve proceder ao cadastramento no CRP, ficando dispensada do pagamento de anuidades, e indicar Responsável Técnica(o) com inscrição ativa e vínculo comprovado.",
+      "está dispensada de qualquer inscrição no CRP, pois o dever de registro recai apenas sobre a(o) psicóloga(o) pessoa física.",
+      "deve proceder ao cadastramento no CRP e fica isenta, por força da própria resolução, de quaisquer taxas e emolumentos, bastando indicar psicóloga(o) com inscrição ativa.",
+      "deve proceder ao cadastramento, mas está dispensada de indicar Responsável Técnica(o), exigência restrita às pessoas jurídicas registradas."
+    ],
+    "gabarito": 1,
+    "comentario": "Quando a Psicologia é atividade secundária, a PJ deve proceder ao cadastramento (art. 9º), ficando dispensada de anuidades (art. 11), e o cadastramento exige a indicação de RT com inscrição ativa e comprovação de vínculo (art. 12, II). O registro com anuidade é para atividade principal (A); a isenção automática de taxas alcança apenas entidades públicas, serviços-escola e entidades beneficiadas por lei, cabendo aos CRPs, em Assembleia, versar sobre taxas (D); e o art. 13 exige RT também das cadastradas (E).",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res16-2019-005",
+    "disciplina": "legislacao",
+    "assunto": "leg-res16-2019",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.in.gov.br/en/web/dou/-/resolucao-n-16-de-21-de-agosto-de-2019-214562656"
+    },
+    "enunciado": "A psicóloga que atuava como Responsável Técnica de uma clínica registrada no CRP desligou-se da empresa. Segundo a Resolução CFP nº 16/2019, a pessoa jurídica",
+    "alternativas": [
+      "deve comunicar a substituição ao CRP em até sessenta dias corridos, podendo manter os serviços de Psicologia nesse período.",
+      "deve comunicar a substituição ao CRP em até quinze dias úteis, sob pena de cancelamento automático do registro.",
+      "pode continuar prestando serviços de Psicologia normalmente, desde que conte com outras(os) psicólogas(os) inscritas(os), dispensada nova indicação até a próxima renovação do Certificado de Registro.",
+      "deve comunicar a substituição no momento da renovação do Certificado de Registro.",
+      "deve comunicar a substituição ao CRP em até trinta dias úteis do desligamento e fica proibida de executar serviços de Psicologia enquanto não promover a substituição."
+    ],
+    "gabarito": 4,
+    "comentario": "O art. 14 impõe à PJ comunicar a substituição do RT ao CRP no prazo máximo de trinta dias úteis a contar do desligamento do anterior, e seu parágrafo único proíbe a execução de serviços de Psicologia enquanto não houver a substituição. As demais alternativas alteram o prazo (A, B, D) ou permitem a continuidade dos serviços sem RT (A, C), o que a norma veda.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res16-2019-006",
+    "disciplina": "legislacao",
+    "assunto": "leg-res16-2019",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.in.gov.br/en/web/dou/-/resolucao-n-16-de-21-de-agosto-de-2019-214562656"
+    },
+    "enunciado": "Considere as afirmativas sobre a(o) Responsável Técnica(o) (RT), nos termos da Resolução CFP nº 16/2019.\nI. A(O) RT obriga-se a acompanhar frequentemente os serviços de Psicologia prestados e a comunicar ao CRP as situações de possíveis faltas éticas.\nII. A(O) RT deve comunicar formalmente ao CRP o seu desligamento da função ou o seu afastamento da pessoa jurídica.\nIII. A(O) RT responde pelos deveres éticos individuais de cada psicóloga(o) da pessoa jurídica, ainda que prove não ter havido negligência na sua função.\nEstá correto o que se afirma em",
+    "alternativas": [
+      "I e II, apenas.",
+      "I, apenas.",
+      "II e III, apenas.",
+      "III, apenas.",
+      "I, II e III."
+    ],
+    "gabarito": 0,
+    "comentario": "As afirmativas I e II reproduzem obrigações do art. 13, § 1º, incisos I, III e IV. A III está errada: o § 2º do art. 13 exclui da Responsabilidade Técnica os deveres éticos individuais, desde que se prove não ter havido negligência na função de RT.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res16-2019-007",
+    "disciplina": "legislacao",
+    "assunto": "leg-res16-2019",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.in.gov.br/en/web/dou/-/resolucao-n-16-de-21-de-agosto-de-2019-214562656"
+    },
+    "enunciado": "Constatado o descumprimento da Resolução CFP nº 16/2019, pode ser aberto Processo Disciplinar Ordinário. Quanto à penalidade de multa, a resolução estabelece valores de",
+    "alternativas": [
+      "uma a dez anuidades, tanto para pessoa natural quanto para pessoa jurídica.",
+      "uma a três anuidades para pessoa natural e de uma a cinco anuidades para pessoa jurídica.",
+      "uma a cinco anuidades para pessoa natural e de uma a dez anuidades para pessoa jurídica, tendo como referência a anuidade do exercício em que a multa for imposta.",
+      "uma a cinco anuidades para pessoa jurídica e de uma a dez anuidades para pessoa natural, pela maior gravidade da falta individual, com referência na anuidade do exercício da imposição.",
+      "uma a dez anuidades no caso de pessoa jurídica, tendo como referência o valor da anuidade vigente na data da infração."
+    ],
+    "gabarito": 2,
+    "comentario": "O art. 19, alínea b, prevê multa de uma a cinco anuidades para infração de pessoa natural e de uma a dez anuidades para pessoa jurídica, com referência no valor da anuidade do exercício em que a multa vier a ser imposta. As demais alternativas igualam os limites (A), reduzem-nos (B), invertem-nos (D) ou trocam o marco de referência para a data da infração (E).",
+    "dificuldade": 3,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res16-2019-008",
+    "disciplina": "legislacao",
+    "assunto": "leg-res16-2019",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.in.gov.br/en/web/dou/-/resolucao-n-16-de-21-de-agosto-de-2019-214562656"
+    },
+    "enunciado": "Sobre as ações de orientação e fiscalização junto às pessoas jurídicas, a Resolução CFP nº 16/2019 determina que",
+    "alternativas": [
+      "a primeira ação de fiscalização, tanto na modalidade de registro quanto na de cadastro, ocorrerá em até noventa dias do deferimento.",
+      "a metodologia das ações de orientação e fiscalização é definida exclusivamente pelo Conselho Federal de Psicologia, vedadas adaptações regionais e temáticas pelos Conselhos Regionais.",
+      "a primeira ação de orientação e/ou fiscalização na modalidade de cadastro ocorrerá em até cento e vinte dias do pedido.",
+      "as ações de fiscalização somente ocorrem mediante denúncia formal contra a pessoa jurídica.",
+      "a primeira ação de orientação e/ou fiscalização na modalidade de registro ocorrerá em até cento e vinte dias do ingresso do pedido de registro na COF."
+    ],
+    "gabarito": 4,
+    "comentario": "O art. 16, § 2º, fixa o prazo de até 120 dias, contados do ingresso do pedido de registro na COF, para a primeira ação na modalidade de registro. Para o cadastro, o § 3º remete a resolução do próprio CRP (C e A erram). O § 1º atribui a metodologia ao CRP competente, considerando especificidades temáticas e regionais (B), e a resolução não condiciona a fiscalização a denúncia (D).",
+    "dificuldade": 3,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res16-2019-009",
+    "disciplina": "legislacao",
+    "assunto": "leg-res16-2019",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.in.gov.br/en/web/dou/-/resolucao-n-16-de-21-de-agosto-de-2019-214562656"
+    },
+    "enunciado": "Uma associação que oferece aconselhamento fundamentado em preceitos de determinada crença religiosa pretende cadastrar no CRP um “serviço de Psicologia”, em caráter secundário. Segundo a Resolução CFP nº 16/2019,",
+    "alternativas": [
+      "o cadastramento é obrigatório, bastando a indicação de Responsável Técnica(o) com inscrição ativa.",
+      "é vedado o cadastramento de pessoa jurídica que ofereça serviços baseados em ideias de cunho moral, filosófico ou de crença religiosa, em virtude de sua natureza.",
+      "o cadastramento é possível, desde que a associação recolha anuidade como pessoa jurídica registrada.",
+      "o cadastramento depende apenas de autorização do Conselho Federal de Psicologia, ouvida a comissão de direitos humanos, que verificará se o aconselhamento respeita a laicidade da profissão.",
+      "o cadastramento é permitido se a associação for entidade de caráter filantrópico, hipótese em que fica isenta de qualquer exigência."
+    ],
+    "gabarito": 1,
+    "comentario": "O parágrafo único do art. 9º veda o cadastramento de PJ de área com a qual a(o) psicóloga(o) não possa constituir equipe para cumprir seu objetivo principal, incluindo as que ofereçam serviços baseados em ideias de cunho moral, filosófico ou de crença religiosa. Não há, nesses casos, cadastramento possível mediante RT (A), anuidade (C), autorização do CFP (D) ou natureza filantrópica (E).",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res16-2019-010",
+    "disciplina": "legislacao",
+    "assunto": "leg-res16-2019",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.in.gov.br/en/web/dou/-/resolucao-n-16-de-21-de-agosto-de-2019-214562656"
+    },
+    "enunciado": "Um psicólogo atua como empresário individual prestando serviços de Psicologia. Nos termos da Resolução CFP nº 16/2019, ele",
+    "alternativas": [
+      "está dispensado de registro no CRP como pessoa jurídica, bastando a inscrição como pessoa física.",
+      "deve registrar-se como pessoa jurídica e pagar duas anuidades: uma como pessoa física e outra como pessoa jurídica.",
+      "deve apenas cadastrar-se, por se tratar de atividade secundária, isento de anuidade.",
+      "será registrado no CRP e ficará isento do pagamento como pessoa jurídica, devendo pagar a anuidade como pessoa física.",
+      "deve registrar-se e pagar apenas a anuidade de pessoa jurídica, ficando dispensado da anuidade de pessoa física enquanto mantiver o registro."
+    ],
+    "gabarito": 3,
+    "comentario": "O parágrafo único do art. 6º estabelece que empresárias(os) individuais serão registradas(os) e isentas(os) do pagamento como pessoa jurídica, devendo pagar a anuidade como pessoa física. Há registro (A e C erram) e apenas uma anuidade, a de pessoa física (B e E erram).",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res16-2019-011",
+    "disciplina": "legislacao",
+    "assunto": "leg-res16-2019",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.in.gov.br/en/web/dou/-/resolucao-n-16-de-21-de-agosto-de-2019-214562656"
+    },
+    "enunciado": "Uma pessoa jurídica registrada no CRP-05, com atividade principal em Psicologia, abre uma filial na mesma jurisdição, com Responsável Técnica diversa da matriz. Segundo a Resolução CFP nº 16/2019, a filial",
+    "alternativas": [
+      "deverá requerer o registro, ficando dispensada do pagamento da anuidade.",
+      "está dispensada de registro, por estar na mesma jurisdição da matriz, bastando comunicar o novo endereço.",
+      "deverá requerer o registro e pagar anuidade própria, idêntica à da matriz.",
+      "deverá proceder ao cadastramento, por se tratar de atividade acessória da matriz.",
+      "deverá requerer o registro, mas somente se possuir mais de uma psicóloga em seu quadro."
+    ],
+    "gabarito": 0,
+    "comentario": "O art. 5º, § 2º, dispõe que, se a PJ possuir filial na mesma jurisdição do registro, mas com RT diverso da matriz, a filial deverá requerer o registro, ficando dispensada do pagamento da anuidade. Não há dispensa de registro (B), cobrança de anuidade própria (C), conversão em cadastro (D) ou condição ligada ao número de psicólogas (E).",
+    "dificuldade": 3,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res16-2019-012",
+    "disciplina": "legislacao",
+    "assunto": "leg-res16-2019",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.in.gov.br/en/web/dou/-/resolucao-n-16-de-21-de-agosto-de-2019-214562656"
+    },
+    "enunciado": "Uma clínica de Psicologia registrada no CRP planeja uma campanha de divulgação em redes sociais. De acordo com a Resolução CFP nº 16/2019, toda comunicação veiculada por pessoa jurídica inscrita na modalidade registro deverá conter",
+    "alternativas": [
+      "o nome e o número de CPF de todas(os) as(os) psicólogas(os) da equipe.",
+      "o seu número de inscrição no Conselho Regional de Psicologia, com identificação da região.",
+      "apenas o número do CNPJ e o endereço da sede.",
+      "o número de inscrição do Responsável Técnico, sendo dispensado o número de inscrição da pessoa jurídica.",
+      "a cópia do Certificado de Registro, com a data de validade."
+    ],
+    "gabarito": 1,
+    "comentario": "O art. 8º exige que toda comunicação veiculada por PJ inscrita na modalidade registro contenha seu número de inscrição no CRP, com identificação da região. Os demais elementos (CPF da equipe, CNPJ, apenas o número do RT, cópia do certificado) não correspondem à exigência da norma.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res16-2019-013",
+    "disciplina": "legislacao",
+    "assunto": "leg-res16-2019",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.in.gov.br/en/web/dou/-/resolucao-n-16-de-21-de-agosto-de-2019-214562656"
+    },
+    "enunciado": "Durante diligência, agente de fiscalização do CRP constata o encerramento definitivo do serviço de Psicologia de uma pessoa jurídica registrada, que não pediu baixa. Conforme a Resolução CFP nº 16/2019, o Regional",
+    "alternativas": [
+      "deve aguardar o pedido da própria entidade, pois o cancelamento só ocorre a pedido.",
+      "deve instaurar processo disciplinar ordinário, única via para o cancelamento nessa hipótese.",
+      "procederá ao cancelamento ex officio se não houver manifestação da pessoa jurídica no prazo de trinta dias contados da notificação de cancelamento.",
+      "procederá ao cancelamento imediato, sem notificação, por se tratar de ato vinculado.",
+      "declarará a nulidade da inscrição, por vício insanável, garantido o contraditório, e comunicará o fato ao Ministério Público para apuração de exercício irregular."
+    ],
+    "gabarito": 2,
+    "comentario": "O art. 17, § 3º, prevê o cancelamento ex officio quando há encerramento definitivo do serviço de Psicologia, constatado por agente de fiscalização, sem manifestação da PJ no prazo de trinta dias contados da notificação de cancelamento. O cancelamento não depende apenas de pedido (A) nem exige PDO (B), e há notificação prévia (D). A declaração de nulidade (E) é para vício insanável no registro (§ 4º), hipótese diversa.",
+    "dificuldade": 3,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res16-2019-014",
+    "disciplina": "legislacao",
+    "assunto": "leg-res16-2019",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.in.gov.br/en/web/dou/-/resolucao-n-16-de-21-de-agosto-de-2019-214562656"
+    },
+    "enunciado": "Uma pessoa jurídica foi penalizada pelo Plenário do CRP com censura pública, em processo disciplinar ordinário instaurado com base na Resolução CFP nº 16/2019. Sobre a fase recursal e a dosimetria, é correto afirmar que",
+    "alternativas": [
+      "não cabe recurso das penas de advertência e censura pública, apenas das de suspensão e cancelamento.",
+      "cabe recurso ao Conselho Federal de Psicologia, sem efeito suspensivo, no prazo de cinco dias, nos termos do Código de Processamento Disciplinar e do regimento do CRP.",
+      "a reincidência não pode ser considerada na aplicação da pena, sob pena de dupla punição.",
+      "o recurso deve ser dirigido à Assembleia Geral do próprio CRP, que decide em última instância.",
+      "da imposição de qualquer penalidade cabe recurso ordinário, com efeito suspensivo, ao Conselho Federal, nos termos do Código de Processamento Disciplinar."
+    ],
+    "gabarito": 4,
+    "comentario": "O art. 20 assegura recurso ordinário, com efeito suspensivo, ao CFP contra a imposição de qualquer penalidade, nos termos do CPD. Na aplicação da pena, o art. 21 manda considerar gravidade, individualidade e caráter primário, e seu parágrafo único determina que a reincidência agrava a pena (C). Não há restrição de recurso por espécie de pena (A), o efeito é suspensivo (B) e a instância recursal é o CFP (D).",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res16-2019-015",
+    "disciplina": "legislacao",
+    "assunto": "leg-res16-2019",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.in.gov.br/en/web/dou/-/resolucao-n-16-de-21-de-agosto-de-2019-214562656"
+    },
+    "enunciado": "A Resolução CFP nº 16/2019 tipifica infrações disciplinares para pessoa física e para pessoa jurídica. Constitui infração atribuída à pessoa FÍSICA, segundo o art. 18,",
+    "alternativas": [
+      "contratar ou acobertar pessoa não habilitada para o exercício da profissão.",
+      "não manter ou deixar de indicar Responsável Técnica(o) pelos serviços psicológicos.",
+      "manter psicóloga(o) no exercício profissional durante o cumprimento de pena de suspensão.",
+      "atuar em pessoa jurídica que não atenda à obrigação de registro prevista no art. 1º da resolução.",
+      "celebrar contratos com a iniciativa pública ou privada sem credenciamento no CRP, quando obrigatório o registro."
+    ],
+    "gabarito": 3,
+    "comentario": "O art. 18, I, b, considera infração da pessoa física atuar em PJ que não atenda ao art. 1º (obrigação de registro). As condutas das alternativas A, B, C e E estão no inciso II do art. 18, que trata das infrações da pessoa jurídica.",
+    "dificuldade": 2,
+    "anulada": false
+  }
+]

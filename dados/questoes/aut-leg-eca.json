@@ -1,0 +1,332 @@
+[
+  {
+    "id": "aut-leg-eca-001",
+    "disciplina": "legislacao",
+    "assunto": "leg-eca",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm"
+    },
+    "enunciado": "Uma psicóloga de uma Unidade Básica de Saúde atende um menino de 8 anos que relata apanhar de cinto do padrasto \"quando faz bagunça\". Não há marcas visíveis nem outra prova do fato. À luz do art. 13 do Estatuto da Criança e do Adolescente (ECA), a conduta exigida é",
+    "alternativas": [
+      "comunicar obrigatoriamente o caso ao Conselho Tutelar da respectiva localidade, ainda que se trate apenas de suspeita, sem prejuízo de outras providências legais.",
+      "aguardar a confirmação do castigo físico por exame de corpo de delito antes de comunicar o Conselho Tutelar, para não expor a família indevidamente.",
+      "comunicar o fato exclusivamente ao Ministério Público, a quem cabe decidir se aciona ou não o Conselho Tutelar.",
+      "obter a concordância da mãe, detentora do poder familiar, para só então comunicar o Conselho Tutelar.",
+      "registrar o relato em prontuário e reavaliar o caso em novos atendimentos, pois a comunicação só é obrigatória quando há lesão corporal."
+    ],
+    "gabarito": 0,
+    "comentario": "Gabarito: A. O art. 13 do ECA (redação da Lei 13.010/2014) determina que os casos de SUSPEITA ou confirmação de castigo físico, de tratamento cruel ou degradante e de maus-tratos serão obrigatoriamente comunicados ao Conselho Tutelar da respectiva localidade, sem prejuízo de outras providências legais. Não se exige confirmação, lesão visível nem autorização dos responsáveis, e o destinatário legal da comunicação é o Conselho Tutelar, não apenas o Ministério Público.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-eca-002",
+    "disciplina": "legislacao",
+    "assunto": "leg-eca",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm"
+    },
+    "enunciado": "O art. 245 do ECA tipifica como infração administrativa deixar de comunicar à autoridade competente os casos de que se tenha conhecimento envolvendo suspeita ou confirmação de maus-tratos contra criança ou adolescente. A pena prevista é de",
+    "alternativas": [
+      "detenção de seis meses a dois anos, aumentada de um terço em caso de reincidência.",
+      "multa de R$ 500,00 a R$ 3.000,00, aplicada em dobro em caso de reincidência.",
+      "multa de um a dez salários de referência, sem previsão de agravamento por reincidência.",
+      "multa de três a vinte salários de referência, aplicando-se o dobro em caso de reincidência.",
+      "advertência e, na reincidência, multa de três a vinte salários de referência."
+    ],
+    "gabarito": 3,
+    "comentario": "Gabarito: D. Pelo art. 245 do ECA, a omissão na comunicação de maus-tratos é infração administrativa punida com multa de três a vinte salários de referência, aplicando-se o dobro na reincidência. Detenção é pena de crime, não de infração administrativa; a multa de R$ 500,00 a R$ 3.000,00 é a do art. 57 do Estatuto da Pessoa Idosa; e não há advertência prévia nem a faixa de um a dez salários.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-eca-003",
+    "disciplina": "legislacao",
+    "assunto": "leg-eca",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm"
+    },
+    "enunciado": "Segundo a literalidade do art. 245 do ECA, estão sujeitos à infração administrativa por deixar de comunicar maus-tratos contra criança ou adolescente",
+    "alternativas": [
+      "apenas os servidores públicos das áreas de saúde, educação e assistência social, excluídos os profissionais da rede privada.",
+      "o médico, o professor ou o responsável por estabelecimento de atenção à saúde e de ensino fundamental, pré-escola ou creche.",
+      "o médico, o enfermeiro ou o dirigente de estabelecimento de atenção à saúde de gestante.",
+      "somente os conselheiros tutelares e os dirigentes de entidades de acolhimento institucional.",
+      "qualquer cidadão que tenha testemunhado ou tido conhecimento dos maus-tratos."
+    ],
+    "gabarito": 1,
+    "comentario": "Gabarito: B. O art. 245 do ECA menciona expressamente o médico, o professor ou o responsável por estabelecimento de atenção à saúde e de ensino fundamental, pré-escola ou creche, sem distinguir rede pública e privada. A lista \"médico, enfermeiro ou dirigente de estabelecimento de atenção à saúde de gestante\" é a do art. 258-B (encaminhamento de mãe que deseja entregar filho para adoção). O dever geral de qualquer cidadão comunicar violações aparece no Estatuto da Pessoa Idosa (art. 6º), não no art. 245 do ECA.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-eca-004",
+    "disciplina": "legislacao",
+    "assunto": "leg-eca",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm"
+    },
+    "enunciado": "Conforme o art. 70-B do ECA, com redação da Lei 14.344/2022, as entidades públicas e privadas que atuem nas áreas da saúde e da educação, entre outras, devem contar, em seus quadros, com pessoas capacitadas a reconhecer e a comunicar ao Conselho Tutelar suspeitas ou casos de crimes praticados contra a criança e o adolescente. Quanto às pessoas encarregadas, por razão de cargo, função ou profissão, do cuidado, assistência ou guarda de crianças e adolescentes, o parágrafo único desse artigo estabelece que",
+    "alternativas": [
+      "são igualmente responsáveis pela comunicação, sendo punível apenas a omissão dolosa.",
+      "ficam dispensadas da comunicação quando a entidade já possuir pessoa capacitada designada para esse fim.",
+      "devem comunicar o fato somente à direção da entidade, a quem cabe a comunicação ao Conselho Tutelar.",
+      "só respondem pela omissão se tiverem participado da capacitação oferecida pela entidade.",
+      "são igualmente responsáveis pela comunicação, sendo punível o injustificado retardamento ou omissão, culposos ou dolosos."
+    ],
+    "gabarito": 4,
+    "comentario": "Gabarito: E. O parágrafo único do art. 70-B do ECA torna igualmente responsáveis pela comunicação as pessoas encarregadas, por razão de cargo, função, ofício, ministério, profissão ou ocupação, do cuidado, assistência ou guarda de crianças e adolescentes, e pune o injustificado retardamento ou omissão, tanto culposos quanto dolosos. A existência de pessoa capacitada na entidade não dispensa os demais, e a lei não condiciona a responsabilidade à capacitação nem permite delegar a comunicação à direção.",
+    "dificuldade": 3,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-eca-005",
+    "disciplina": "legislacao",
+    "assunto": "leg-eca",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm"
+    },
+    "enunciado": "Nos termos do art. 17 do ECA, o direito ao respeito da criança e do adolescente consiste na inviolabilidade da integridade física, psíquica e moral, abrangendo a preservação",
+    "alternativas": [
+      "da imagem e da identidade, cabendo aos pais decidir sobre os valores, ideias e crenças até os 16 anos.",
+      "da integridade física e da moral, ficando a integridade psíquica regida pelo direito à saúde.",
+      "da imagem, da identidade, da autonomia, dos valores, ideias e crenças, dos espaços e objetos pessoais.",
+      "da imagem, da identidade e da autonomia, excluídos os espaços e objetos pessoais, sujeitos ao poder familiar.",
+      "do patrimônio, da convivência familiar e comunitária e do acesso à justiça."
+    ],
+    "gabarito": 2,
+    "comentario": "Gabarito: C. O art. 17 do ECA define o direito ao respeito como inviolabilidade da integridade física, psíquica e moral, abrangendo a preservação da imagem, da identidade, da autonomia, dos valores, ideias e crenças, dos espaços e objetos pessoais. As demais alternativas suprimem elementos do rol legal ou trazem conteúdos de outros direitos (convivência familiar, acesso à justiça). Esse dispositivo dá base, por exemplo, à preservação da privacidade de crianças e adolescentes no atendimento.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-eca-006",
+    "disciplina": "legislacao",
+    "assunto": "leg-eca",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm"
+    },
+    "enunciado": "Uma professora humilha publicamente um aluno de 10 anos, ridicularizando-o diante da turma e ameaçando-o gravemente caso volte a errar. De acordo com as definições do art. 18-A do ECA, essa conduta caracteriza",
+    "alternativas": [
+      "castigo físico, pois o conceito legal abrange qualquer ação disciplinar que cause sofrimento.",
+      "conduta lícita, se praticada com finalidade pedagógica e de modo proporcional.",
+      "tratamento cruel ou degradante, ainda que não haja uso de força física.",
+      "maus-tratos apenas se houver reiteração da conduta por mais de uma vez.",
+      "infração disciplinar do servidor, sem enquadramento nas definições do ECA."
+    ],
+    "gabarito": 2,
+    "comentario": "Gabarito: C. O parágrafo único do art. 18-A do ECA distingue: castigo físico é a ação de natureza disciplinar ou punitiva aplicada com uso de força física que resulte em sofrimento físico ou lesão; tratamento cruel ou degradante é a conduta ou forma cruel de tratamento que humilhe, ameace gravemente ou ridicularize. Sem força física, a hipótese é de tratamento cruel ou degradante. O caput do art. 18-A afasta qualquer pretexto de correção, disciplina ou educação, e a lei não exige reiteração.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-eca-007",
+    "disciplina": "legislacao",
+    "assunto": "leg-eca",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm"
+    },
+    "enunciado": "Constatado que um pai utiliza castigo físico como forma de correção do filho, o art. 18-B do ECA prevê medidas a serem aplicadas de acordo com a gravidade do caso. Essas medidas serão aplicadas",
+    "alternativas": [
+      "exclusivamente pelo juiz da Infância e da Juventude, após oitiva do Ministério Público.",
+      "pelo Ministério Público, mediante termo de ajustamento de conduta com a família.",
+      "pelo serviço de saúde que identificou o caso, como parte do plano terapêutico.",
+      "pela autoridade policial, no curso do inquérito instaurado para apurar o fato.",
+      "pelo Conselho Tutelar, sem prejuízo de outras providências legais."
+    ],
+    "gabarito": 4,
+    "comentario": "Gabarito: E. O parágrafo único do art. 18-B do ECA dispõe que as medidas previstas no artigo (encaminhamento a programa de proteção à família, a tratamento psicológico ou psiquiátrico, a cursos ou programas de orientação, obrigação de encaminhar a criança a tratamento especializado, advertência e garantia de tratamento de saúde especializado à vítima) serão aplicadas pelo Conselho Tutelar, sem prejuízo de outras providências legais. Não se trata de competência exclusiva do juiz, do MP, do serviço de saúde ou da polícia.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-eca-008",
+    "disciplina": "legislacao",
+    "assunto": "leg-eca",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm"
+    },
+    "enunciado": "O art. 18-B do ECA lista medidas aplicáveis aos pais, integrantes da família ampliada, responsáveis ou qualquer pessoa encarregada de cuidar de crianças e adolescentes que utilizem castigo físico ou tratamento cruel ou degradante. NÃO figura entre essas medidas",
+    "alternativas": [
+      "a suspensão do poder familiar.",
+      "o encaminhamento a tratamento psicológico ou psiquiátrico.",
+      "o encaminhamento a cursos ou programas de orientação.",
+      "a obrigação de encaminhar a criança a tratamento especializado.",
+      "a advertência."
+    ],
+    "gabarito": 0,
+    "comentario": "Gabarito: A. O art. 18-B do ECA prevê: I – encaminhamento a programa oficial ou comunitário de proteção à família; II – encaminhamento a tratamento psicológico ou psiquiátrico; III – encaminhamento a cursos ou programas de orientação; IV – obrigação de encaminhar a criança a tratamento especializado; V – advertência; VI – garantia de tratamento de saúde especializado à vítima (incluído pela Lei 14.344/2022). A suspensão do poder familiar não está nesse rol: depende de decisão judicial em procedimento próprio.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-eca-009",
+    "disciplina": "legislacao",
+    "assunto": "leg-eca",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm"
+    },
+    "enunciado": "Um portal de notícias local publica reportagem sobre ato infracional atribuído a um adolescente de 15 anos. Para preservar o sigilo, o texto omite o nome do jovem, mas informa suas iniciais, o bairro em que mora e o nome da escola onde estuda. À luz do art. 143 do ECA, é correto afirmar que a reportagem",
+    "alternativas": [
+      "respeitou o ECA, pois a vedação legal se restringe à fotografia e ao nome completo.",
+      "respeitou o ECA, pois a vedação se limita aos atos judiciais, não alcançando a imprensa.",
+      "violou o ECA apenas quanto ao bairro, já que a divulgação de iniciais é expressamente permitida.",
+      "violou o ECA, pois a notícia não pode identificar o adolescente, sendo vedada inclusive a referência às iniciais do nome e sobrenome e à residência.",
+      "seria lícita se o adolescente tivesse mais de 16 anos e houvesse autorização dos pais."
+    ],
+    "gabarito": 3,
+    "comentario": "Gabarito: D. O art. 143 do ECA veda a divulgação de atos judiciais, policiais e administrativos que digam respeito a crianças e adolescentes a que se atribua autoria de ato infracional. Seu parágrafo único (redação da Lei 10.764/2003) estabelece que qualquer notícia a respeito do fato não poderá identificar a criança ou o adolescente, vedando-se fotografia, referência a nome, apelido, filiação, parentesco, residência e, inclusive, iniciais do nome e sobrenome. Não há exceção por idade ou autorização dos pais.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-eca-010",
+    "disciplina": "legislacao",
+    "assunto": "leg-eca",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm"
+    },
+    "enunciado": "Quanto à divulgação de informações sobre criança ou adolescente a quem se atribua ato infracional, o art. 247 do ECA tipifica como infração administrativa divulgar, total ou parcialmente, sem autorização devida, por qualquer meio de comunicação, nome, ato ou documento de procedimento policial, administrativo ou judicial relativo ao caso. Sobre esse dispositivo, assinale a afirmativa correta.",
+    "alternativas": [
+      "A pena é de detenção de seis meses a dois anos, por se tratar de crime contra a honra da criança ou do adolescente.",
+      "Incorre na mesma pena quem exibe ou transmite imagem, vídeo ou corrente de vídeo de criança ou adolescente envolvido em ato infracional ou outro ato ilícito que lhe seja atribuído, de forma a permitir sua identificação.",
+      "A infração somente se configura se a divulgação for feita por órgão de imprensa ou emissora de rádio e televisão.",
+      "A pena é de multa de três a vinte salários de referência, vedada sua aplicação em dobro na reincidência.",
+      "A exibição de imagem só é punida quando se tratar de adolescente, não alcançando a criança."
+    ],
+    "gabarito": 1,
+    "comentario": "Gabarito: B. O art. 247 do ECA prevê multa de três a vinte salários de referência, aplicando-se o dobro em caso de reincidência, e seu § 1º (redação da Lei 14.811/2024) estende a mesma pena a quem exibe ou transmite imagem, vídeo ou corrente de vídeo de criança ou adolescente envolvido em ato infracional ou outro ato ilícito que lhe seja atribuído, de forma a permitir sua identificação. A infração pode ser cometida por qualquer meio de comunicação; o § 2º apenas prevê providências adicionais quando o fato é praticado por órgão de imprensa ou emissora.",
+    "dificuldade": 3,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-eca-011",
+    "disciplina": "legislacao",
+    "assunto": "leg-eca",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm"
+    },
+    "enunciado": "No serviço de saúde onde atua, uma psicóloga recebe uma criança de 3 anos com suspeita de violência. O § 2º do art. 13 do ECA, incluído pela Lei 13.257/2016 (Marco Legal da Primeira Infância), determina que os serviços de saúde, de assistência social e os demais órgãos do Sistema de Garantia de Direitos deverão conferir",
+    "alternativas": [
+      "prioridade apenas às crianças de até 2 anos de idade vítimas de violência sexual, mediante notificação à autoridade sanitária.",
+      "máxima prioridade ao atendimento das crianças na faixa etária da primeira infância com suspeita ou confirmação de violência de qualquer natureza.",
+      "prioridade às crianças da primeira infância, desde que a violência esteja confirmada por laudo pericial.",
+      "atendimento preferencial às crianças da primeira infância, condicionado à prévia comunicação ao Ministério Público.",
+      "máxima prioridade ao atendimento, mas apenas nos casos de violência praticada no ambiente familiar."
+    ],
+    "gabarito": 1,
+    "comentario": "Gabarito: B. O § 2º do art. 13 do ECA prevê que os serviços de saúde em suas diferentes portas de entrada, os serviços de assistência social em seu componente especializado, o CREAS e os demais órgãos do Sistema de Garantia de Direitos deverão conferir máxima prioridade ao atendimento das crianças na faixa etária da primeira infância com suspeita ou confirmação de violência de qualquer natureza. Basta a suspeita, e a regra não se limita a um tipo de violência ou ao ambiente familiar.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-eca-012",
+    "disciplina": "legislacao",
+    "assunto": "leg-eca",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm"
+    },
+    "enunciado": "Durante o pré-natal, uma gestante revela à psicóloga da maternidade que deseja entregar o bebê para adoção. Considerando o art. 13, § 1º, e o art. 258-B do ECA, assinale a afirmativa correta.",
+    "alternativas": [
+      "A gestante deve ser encaminhada ao Conselho Tutelar, que decidirá sobre a entrega da criança a família substituta cadastrada.",
+      "A equipe deve tentar dissuadir a gestante e só encaminhá-la à Justiça se mantiver a decisão após o parto.",
+      "O encaminhamento à Justiça depende de autorização do genitor, por envolver o poder familiar de ambos os pais.",
+      "A omissão no encaminhamento é crime punido com detenção, mas apenas quando praticada por médico.",
+      "A gestante deve ser obrigatoriamente encaminhada, sem constrangimento, à Justiça da Infância e da Juventude, e o médico, enfermeiro ou dirigente do estabelecimento que deixar de efetuar o imediato encaminhamento à autoridade judiciária comete infração administrativa."
+    ],
+    "gabarito": 4,
+    "comentario": "Gabarito: E. O art. 13, § 1º, do ECA dispõe que as gestantes ou mães que manifestem interesse em entregar seus filhos para adoção serão obrigatoriamente encaminhadas, sem constrangimento, à Justiça da Infância e da Juventude. O art. 258-B pune com multa de R$ 1.000,00 a R$ 3.000,00 o médico, enfermeiro ou dirigente de estabelecimento de atenção à saúde de gestante que deixar de efetuar imediato encaminhamento à autoridade judiciária, estendendo a pena (parágrafo único) ao funcionário de programa oficial ou comunitário destinado à garantia do direito à convivência familiar.",
+    "dificuldade": 3,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-eca-013",
+    "disciplina": "legislacao",
+    "assunto": "leg-eca",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm"
+    },
+    "enunciado": "Analise as afirmativas sobre a comunicação de situações envolvendo crianças e adolescentes, segundo o ECA.\nI. Os dirigentes de estabelecimentos de ensino fundamental comunicarão ao Conselho Tutelar os casos de maus-tratos envolvendo seus alunos.\nII. A reiteração de faltas injustificadas e a evasão escolar devem ser comunicadas ao Conselho Tutelar desde a primeira ocorrência, independentemente de providências da escola.\nIII. Os elevados níveis de repetência também estão entre as situações que os dirigentes de ensino fundamental devem comunicar ao Conselho Tutelar.\nEstá correto o que se afirma em",
+    "alternativas": [
+      "I, apenas.",
+      "I e II, apenas.",
+      "II e III, apenas.",
+      "I e III, apenas.",
+      "I, II e III."
+    ],
+    "gabarito": 3,
+    "comentario": "Gabarito: D. O art. 56 do ECA determina que os dirigentes de estabelecimentos de ensino fundamental comunicarão ao Conselho Tutelar os casos de maus-tratos envolvendo seus alunos (I), a reiteração de faltas injustificadas e de evasão escolar, ESGOTADOS os recursos escolares (II), e os elevados níveis de repetência (III). A afirmativa II erra ao dispensar o esgotamento dos recursos escolares.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-eca-014",
+    "disciplina": "legislacao",
+    "assunto": "leg-eca",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm"
+    },
+    "enunciado": "Em um município cujo Conselho Tutelar ainda não foi instalado, uma psicóloga precisa comunicar suspeita de maus-tratos contra uma criança. Nos termos do ECA, enquanto não instalados os Conselhos Tutelares, as atribuições a eles conferidas serão exercidas",
+    "alternativas": [
+      "pela autoridade judiciária.",
+      "pelo Ministério Público.",
+      "pelo Conselho Municipal dos Direitos da Criança e do Adolescente.",
+      "pela Secretaria Municipal de Assistência Social.",
+      "pelo Conselho Tutelar do município mais próximo."
+    ],
+    "gabarito": 0,
+    "comentario": "Gabarito: A. O art. 262 do ECA estabelece que, enquanto não instalados os Conselhos Tutelares, as atribuições a eles conferidas serão exercidas pela autoridade judiciária. Assim, a comunicação prevista no art. 13 deve ser dirigida ao juízo da Infância e da Juventude. Os conselhos de direitos formulam e controlam políticas, não substituem o Conselho Tutelar no atendimento de casos.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-eca-015",
+    "disciplina": "legislacao",
+    "assunto": "leg-eca",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm"
+    },
+    "enunciado": "Analise as afirmativas a respeito do sigilo e da proteção de crianças e adolescentes no ECA.\nI. É dever de todos velar pela dignidade da criança e do adolescente, pondo-os a salvo de qualquer tratamento desumano, violento, aterrorizante, vexatório ou constrangedor.\nII. A comunicação de suspeita de maus-tratos ao Conselho Tutelar afasta a necessidade de outras providências legais, como o atendimento de saúde e a notificação de outros órgãos.\nIII. A expedição de cópia ou certidão de atos judiciais, policiais e administrativos relativos a ato infracional atribuído a criança ou adolescente somente será deferida pela autoridade judiciária competente se demonstrado o interesse e justificada a finalidade.\nEstá correto o que se afirma em",
+    "alternativas": [
+      "I, apenas.",
+      "II, apenas.",
+      "I e III, apenas.",
+      "I e II, apenas.",
+      "II e III, apenas."
+    ],
+    "gabarito": 2,
+    "comentario": "Gabarito: C. A afirmativa I reproduz o art. 18 do ECA. A III corresponde ao art. 144 do ECA, que complementa o sigilo do art. 143. A II está errada: o art. 13 determina a comunicação ao Conselho Tutelar \"sem prejuízo de outras providências legais\", ou seja, a comunicação não substitui as demais medidas cabíveis.",
+    "dificuldade": 3,
+    "anulada": false
+  }
+]

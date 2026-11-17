@@ -1,0 +1,127 @@
+[
+ {
+  "id": "fgv-mpes-2026-psi-11",
+  "disciplina": "rlm",
+  "assunto": "rlm-problemas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-ES",
+   "ano": 2026,
+   "cargo": "Agente Técnico – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/agente-tecnico-psicologo-cns129-tipo-1.pdf"
+  },
+  "enunciado": "Um sistema de criptografia atribuiu valores numéricos às letras do alfabeto. Cada letra recebeu um único valor. Letras distintas têm valores distintos.\nNesse sistema:\n• a soma das letras da palavra NARA é 19;\n• a soma das letras da palavra MARIA é 25;\n• a soma das letras da palavra MAIARA é 27;\n• a soma das letras da palavra MARIANA é 31.\nCom base nessas informações, é correto afirmar que a valor atribuído a R foi",
+  "alternativas": [
+   "10.",
+   "11.",
+   "12.",
+   "13.",
+   "14."
+  ],
+  "gabarito": 1,
+  "comentario": "Escreva as somas: NARA = N + 2A + R = 19; MARIA = M + 2A + R + I = 25; MAIARA = M + 3A + R + I = 27; MARIANA = M + 3A + R + I + N = 31. MAIARA − MARIA: A = 2. MARIANA − MAIARA: N = 4. Em NARA: 4 + 2·2 + R = 19 ⇒ R = 11.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mpes-2026-psi-12",
+  "disciplina": "rlm",
+  "assunto": "rlm-medidas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-ES",
+   "ano": 2026,
+   "cargo": "Agente Técnico – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/agente-tecnico-psicologo-cns129-tipo-1.pdf"
+  },
+  "enunciado": "A figura a seguir ilustra dois retângulos, A e B, dispostos lado a lado de duas formas diferentes.\n[Figura 1: o retângulo A, em pé, à esquerda; o retângulo B, deitado, à direita de A, com as bases alinhadas, formando um L. Figura 2: A em pé à esquerda; B em pé à direita de A, mais baixo que A, com as bases alinhadas.]\nNa Figura 1, o menor lado de B está encostado no maior lado de A, de modo que o maior lado de B, na sua parte inferior, está perfeitamente alinhado com o menor lado de A, na sua parte inferior, formando uma figura em L cujo perímetro é 32 cm.\nNa Figura 2, o maior lado de B está encostado no maior lado de A, de modo que o menor lado de B, na sua parte inferior, está perfeitamente alinhado com o menor lado de A, na sua parte inferior, formando uma nova figura cujo perímetro é 26 cm.\nNo retângulo B, a diferença entre as medidas do maior lado e do menor lado vale",
+  "alternativas": [
+   "7,5 cm.",
+   "6,0 cm.",
+   "4,5 cm.",
+   "3,0 cm.",
+   "1,5 cm."
+  ],
+  "gabarito": 3,
+  "comentario": "Sejam a (largura) e h (altura) os lados de A, e x < y os lados de B. Como as figuras são “em escada”, o perímetro é igual ao do retângulo que as envolve: Figura 1 (B deitado): 2(a + y) + 2h = 32; Figura 2 (B em pé, mais baixo que A): 2(a + x) + 2h = 26. Subtraindo: 2(y − x) = 6 ⇒ y − x = 3,0 cm.",
+  "dificuldade": 3,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mpes-2026-psi-13",
+  "disciplina": "rlm",
+  "assunto": "rlm-problemas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-ES",
+   "ano": 2026,
+   "cargo": "Agente Técnico – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/agente-tecnico-psicologo-cns129-tipo-1.pdf"
+  },
+  "enunciado": "Em um jogo, sorteiam-se ao acaso, sucessivamente e sem reposição, números do conjunto {1,2,3,4,5,6,7,8}. Cada jogador recebe uma cartela com 6 números distintos desse conjunto. Duas cartelas quaisquer nunca têm exatamente os mesmos 6 números.\nA quantidade máxima de cartelas distintas que se pode ter nesse jogo é",
+  "alternativas": [
+   "28.",
+   "36.",
+   "42.",
+   "48.",
+   "56."
+  ],
+  "gabarito": 0,
+  "comentario": "Cada cartela é um subconjunto de 6 números escolhidos entre 8, sem importar a ordem: C(8,6) = C(8,2) = (8 × 7)/2 = 28 cartelas distintas.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mpes-2026-psi-14",
+  "disciplina": "rlm",
+  "assunto": "rlm-proporcao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-ES",
+   "ano": 2026,
+   "cargo": "Agente Técnico – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/agente-tecnico-psicologo-cns129-tipo-1.pdf"
+  },
+  "enunciado": "O \"grau\" do álcool doméstico indica a concentração de etanol presente na mistura com água. No Brasil, essa medida é expressa em INPM. Por exemplo, o álcool 46° INPM possui, a cada 100 gramas de produto, 46 gramas de etanol e 54 gramas de água e outros componentes.\nMisturando-se 200g de álcool 46° INPM com 300 gramas de álcool 70° INPM, produz-se 500g de álcool com concentração INPM igual a",
+  "alternativas": [
+   "59,4°.",
+   "59,6°.",
+   "59,8°.",
+   "60,2°.",
+   "60,4°."
+  ],
+  "gabarito": 4,
+  "comentario": "Etanol em 200 g a 46°: 0,46 × 200 = 92 g. Etanol em 300 g a 70°: 0,70 × 300 = 210 g. Total de etanol: 302 g em 500 g de mistura ⇒ 302/500 = 0,604 = 60,4° INPM.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mpes-2026-psi-15",
+  "disciplina": "rlm",
+  "assunto": "rlm-proposicoes",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-ES",
+   "ano": 2026,
+   "cargo": "Agente Técnico – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/agente-tecnico-psicologo-cns129-tipo-1.pdf"
+  },
+  "enunciado": "Considere a proposição P dada por:\n“Pelo menos um livro da minha biblioteca é sobre Matemática e nenhum dos discos da minha discoteca é importado.”\nAssinale a opção que contém a negação de P.",
+  "alternativas": [
+   "Pelo menos um livro da minha biblioteca não é sobre Matemática e algum disco da minha discoteca é importado.",
+   "Pelo menos um livro da minha biblioteca não é sobre Matemática ou algum disco da minha discoteca é importado.",
+   "Pelo menos um livro da minha biblioteca não é sobre Matemática e todos os discos da minha discoteca são importados.",
+   "Nenhum livro da minha biblioteca é sobre Matemática ou algum disco da minha discoteca é importado.",
+   "Nenhum livro da minha biblioteca é sobre Matemática e algum disco da minha discoteca é importado."
+  ],
+  "gabarito": 3,
+  "comentario": "P é uma conjunção: “pelo menos um livro é sobre Matemática” E “nenhum disco é importado”. Pela lei de De Morgan, ~(p ∧ q) = ~p ∨ ~q. A negação de “pelo menos um livro é sobre Matemática” é “nenhum livro é sobre Matemática”; a de “nenhum disco é importado” é “algum disco é importado”. Logo: “Nenhum livro... é sobre Matemática OU algum disco... é importado”.",
+  "dificuldade": 2,
+  "anulada": false
+ }
+]

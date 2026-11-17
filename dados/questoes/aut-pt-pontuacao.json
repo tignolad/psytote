@@ -1,0 +1,261 @@
+[
+  {
+    "id": "aut-pt-pontuacao-001",
+    "disciplina": "portugues",
+    "assunto": "pt-pontuacao",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "texto": "O cansaço que não tira férias\n\nHá um tipo de cansaço que não passa com o fim de semana. Quem o conhece sabe: a segunda-feira chega e o corpo, embora tenha dormido, continua pesado, como se carregasse a semana anterior inteira. Os especialistas chamam esse estado de esgotamento profissional, e a Organização Mundial da Saúde já o reconhece como fenômeno ligado ao trabalho.\n\nNão se trata, porém, de simples preguiça ou falta de força de vontade. O esgotamento costuma atingir justamente os mais dedicados, aqueles que respondem a mensagens à meia-noite e acreditam que descansar é um luxo. Por isso, a solução não pode ser apenas individual: de nada adianta ensinar técnicas de respiração a quem trabalha doze horas por dia sem pausa.\n\nAs empresas que levam o problema a sério revisam metas, redistribuem tarefas e, sobretudo, respeitam o direito de desconectar. Já as que preferem ignorá-lo pagam a conta mais tarde, em afastamentos, rotatividade e perda de talentos.\n\nTalvez o primeiro passo seja mudar a pergunta. Em vez de indagar por que o trabalhador não aguenta, deveríamos perguntar o que, no trabalho, se tornou insuportável.\n\n(Texto autoral, escrito para fins didáticos.)",
+    "enunciado": "Em \"Não se trata, porém, de simples preguiça\", as vírgulas foram empregadas para",
+    "alternativas": [
+      "isolar um vocativo.",
+      "isolar um aposto explicativo.",
+      "marcar uma oração adjetiva explicativa.",
+      "isolar uma conjunção adversativa deslocada.",
+      "separar termos de uma enumeração."
+    ],
+    "gabarito": 3,
+    "comentario": "'Porém' é conjunção adversativa e, quando aparece no meio da oração (e não no início), fica entre vírgulas. Não há chamamento (vocativo), explicação de um termo (aposto), oração adjetiva nem enumeração.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-pontuacao-002",
+    "disciplina": "portugues",
+    "assunto": "pt-pontuacao",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "texto": "Bancos para pessoas\n\nMoro num bairro onde as praças foram, aos poucos, substituídas por estacionamentos. Ninguém decidiu isso numa reunião; aconteceu como acontecem as coisas nas cidades grandes, sem aviso e sem culpados. Um dia, percebi que já não havia onde sentar.\n\nA psicologia urbana tem um nome para os lugares que nos fazem bem: espaços de convivência. Neles, encontramos desconhecidos sem a obrigação de conversar, mas com a possibilidade de fazê-lo. É ali que o idoso troca duas palavras com o jornaleiro, que a criança aprende a dividir o balanço, que o recém-chegado deixa de ser estranho.\n\nQuando esses espaços somem, a solidão não aparece de repente. Ela se instala devagar, disfarçada de rotina: casa, carro, trabalho, carro, casa. Os vizinhos viram rostos sem nome, e o bairro, um endereço.\n\nNão quero romantizar o passado, que tinha seus próprios problemas. Mas desconfio de que uma cidade se mede menos pela quantidade de vagas que oferece aos automóveis do que pelos bancos que oferece às pessoas.\n\n(Texto autoral, escrito para fins didáticos.)",
+    "enunciado": "Em \"A psicologia urbana tem um nome para os lugares que nos fazem bem: espaços de convivência\", os dois-pontos foram empregados para",
+    "alternativas": [
+      "introduzir a citação direta da fala de um personagem.",
+      "introduzir a especificação do que foi anunciado antes.",
+      "marcar uma conclusão contrária ao que foi dito.",
+      "separar uma oração adverbial anteposta.",
+      "indicar a supressão de um verbo."
+    ],
+    "gabarito": 1,
+    "comentario": "Os dois-pontos anunciam o 'nome' mencionado antes: 'espaços de convivência' esclarece qual é ele (um aposto especificativo). Não há fala de personagem, oposição, oração adverbial nem elipse verbal.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-pontuacao-003",
+    "disciplina": "portugues",
+    "assunto": "pt-pontuacao",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "texto": "Bancos para pessoas\n\nMoro num bairro onde as praças foram, aos poucos, substituídas por estacionamentos. Ninguém decidiu isso numa reunião; aconteceu como acontecem as coisas nas cidades grandes, sem aviso e sem culpados. Um dia, percebi que já não havia onde sentar.\n\nA psicologia urbana tem um nome para os lugares que nos fazem bem: espaços de convivência. Neles, encontramos desconhecidos sem a obrigação de conversar, mas com a possibilidade de fazê-lo. É ali que o idoso troca duas palavras com o jornaleiro, que a criança aprende a dividir o balanço, que o recém-chegado deixa de ser estranho.\n\nQuando esses espaços somem, a solidão não aparece de repente. Ela se instala devagar, disfarçada de rotina: casa, carro, trabalho, carro, casa. Os vizinhos viram rostos sem nome, e o bairro, um endereço.\n\nNão quero romantizar o passado, que tinha seus próprios problemas. Mas desconfio de que uma cidade se mede menos pela quantidade de vagas que oferece aos automóveis do que pelos bancos que oferece às pessoas.\n\n(Texto autoral, escrito para fins didáticos.)",
+    "enunciado": "Em \"as praças foram, aos poucos, substituídas por estacionamentos\", as vírgulas isolam",
+    "alternativas": [
+      "um aposto explicativo.",
+      "um vocativo.",
+      "uma oração adjetiva explicativa.",
+      "o sujeito deslocado da oração.",
+      "um adjunto adverbial intercalado."
+    ],
+    "gabarito": 4,
+    "comentario": "'Aos poucos' é uma locução adverbial de modo inserida no meio da locução verbal 'foram substituídas'. Adjuntos adverbiais intercalados costumam vir entre vírgulas. As outras classificações não cabem: a expressão não explica um termo, não chama ninguém, não é oração e não é sujeito.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-pontuacao-004",
+    "disciplina": "portugues",
+    "assunto": "pt-pontuacao",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "texto": "Elogio da espera\n\nAntigamente, esperar era um tempo morto. Na fila do banco ou no consultório, restava observar as pessoas, ler os avisos na parede ou simplesmente pensar em nada. Hoje, o celular ocupa cada um desses intervalos, e o tédio, que parecia um inimigo, tornou-se quase uma raridade.\n\nPesquisadores da atenção alertam, no entanto, que o tédio cumpre uma função. É nos momentos vazios que a mente divaga, associa ideias distantes e, não raro, encontra soluções que o esforço concentrado não alcançou. Sem eles, vivemos estimulados o tempo todo, mas criamos pouco.\n\nIsso não significa que devamos jogar o aparelho fora. A tecnologia aproxima familiares distantes, facilita o acesso a serviços e, para muitos, é ferramenta de trabalho. O problema não está no objeto, mas no hábito de recorrer a ele sempre que surge um segundo de silêncio.\n\nExperimente, na próxima espera, deixar o telefone no bolso. Os primeiros minutos serão desconfortáveis; depois, talvez você reencontre um velho conhecido: seu próprio pensamento.\n\n(Texto autoral, escrito para fins didáticos.)",
+    "enunciado": "Assinale a frase em que a vírgula foi empregada de forma INCORRETA.",
+    "alternativas": [
+      "Pesquisadores da atenção, alertam que o tédio cumpre uma função.",
+      "Hoje, o celular ocupa cada um desses intervalos.",
+      "Na fila do banco, restava observar as pessoas.",
+      "O tédio, que parecia um inimigo, tornou-se raro.",
+      "A tecnologia aproxima familiares, facilita o acesso a serviços e serve de ferramenta de trabalho."
+    ],
+    "gabarito": 0,
+    "comentario": "Não se separa o sujeito ('Pesquisadores da atenção') do verbo ('alertam') por vírgula. Nas outras frases, a vírgula marca adjunto adverbial anteposto, isola uma oração adjetiva explicativa ou separa orações coordenadas assindéticas, todos usos corretos.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-pontuacao-005",
+    "disciplina": "portugues",
+    "assunto": "pt-pontuacao",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "texto": "Bancos para pessoas\n\nMoro num bairro onde as praças foram, aos poucos, substituídas por estacionamentos. Ninguém decidiu isso numa reunião; aconteceu como acontecem as coisas nas cidades grandes, sem aviso e sem culpados. Um dia, percebi que já não havia onde sentar.\n\nA psicologia urbana tem um nome para os lugares que nos fazem bem: espaços de convivência. Neles, encontramos desconhecidos sem a obrigação de conversar, mas com a possibilidade de fazê-lo. É ali que o idoso troca duas palavras com o jornaleiro, que a criança aprende a dividir o balanço, que o recém-chegado deixa de ser estranho.\n\nQuando esses espaços somem, a solidão não aparece de repente. Ela se instala devagar, disfarçada de rotina: casa, carro, trabalho, carro, casa. Os vizinhos viram rostos sem nome, e o bairro, um endereço.\n\nNão quero romantizar o passado, que tinha seus próprios problemas. Mas desconfio de que uma cidade se mede menos pela quantidade de vagas que oferece aos automóveis do que pelos bancos que oferece às pessoas.\n\n(Texto autoral, escrito para fins didáticos.)",
+    "enunciado": "Em \"Não quero romantizar o passado, que tinha seus próprios problemas\", se a vírgula antes de \"que\" fosse retirada,",
+    "alternativas": [
+      "nada mudaria, pois a vírgula antes de \"que\" é sempre facultativa.",
+      "a frase ficaria gramaticalmente incorreta, pois o pronome relativo exige vírgula.",
+      "a oração passaria a restringir o sentido de \"passado\", como se houvesse outro passado, sem problemas, que o autor poderia romantizar.",
+      "a oração passaria a exprimir causa, e não característica.",
+      "\"que\" passaria a ser conjunção integrante, introduzindo oração substantiva."
+    ],
+    "gabarito": 2,
+    "comentario": "Com vírgula, a oração adjetiva é explicativa: atribui a todo o passado a característica de ter problemas. Sem vírgula, torna-se restritiva e delimita 'um' passado específico entre outros possíveis, o que muda o sentido. A vírgula, portanto, não é facultativa aqui, mas a frase sem ela continuaria gramatical. 'Que' continua pronome relativo, e não surge ideia de causa.",
+    "dificuldade": 3,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-pontuacao-006",
+    "disciplina": "portugues",
+    "assunto": "pt-pontuacao",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Assinale a frase em que a vírgula isola um vocativo.",
+    "alternativas": [
+      "Ana, a psicóloga da unidade, atende às terças.",
+      "Na sala de espera, ninguém conversava.",
+      "Doutora, a senhora pode me atender hoje?",
+      "O paciente chegou cedo, mas esperou duas horas.",
+      "A equipe, cansada, encerrou a reunião."
+    ],
+    "gabarito": 2,
+    "comentario": "Vocativo é o termo usado para chamar o interlocutor: 'Doutora' é a pessoa a quem se dirige a pergunta. Nas outras frases, as vírgulas isolam um aposto ('a psicóloga da unidade'), um adjunto adverbial anteposto, uma oração coordenada adversativa e um predicativo intercalado ('cansada').",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-pontuacao-007",
+    "disciplina": "portugues",
+    "assunto": "pt-pontuacao",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "texto": "Elogio da espera\n\nAntigamente, esperar era um tempo morto. Na fila do banco ou no consultório, restava observar as pessoas, ler os avisos na parede ou simplesmente pensar em nada. Hoje, o celular ocupa cada um desses intervalos, e o tédio, que parecia um inimigo, tornou-se quase uma raridade.\n\nPesquisadores da atenção alertam, no entanto, que o tédio cumpre uma função. É nos momentos vazios que a mente divaga, associa ideias distantes e, não raro, encontra soluções que o esforço concentrado não alcançou. Sem eles, vivemos estimulados o tempo todo, mas criamos pouco.\n\nIsso não significa que devamos jogar o aparelho fora. A tecnologia aproxima familiares distantes, facilita o acesso a serviços e, para muitos, é ferramenta de trabalho. O problema não está no objeto, mas no hábito de recorrer a ele sempre que surge um segundo de silêncio.\n\nExperimente, na próxima espera, deixar o telefone no bolso. Os primeiros minutos serão desconfortáveis; depois, talvez você reencontre um velho conhecido: seu próprio pensamento.\n\n(Texto autoral, escrito para fins didáticos.)",
+    "enunciado": "Em \"Os primeiros minutos serão desconfortáveis; depois, talvez você reencontre um velho conhecido\", o ponto e vírgula foi empregado para",
+    "alternativas": [
+      "introduzir uma enumeração explicativa.",
+      "indicar o fim de um período interrogativo.",
+      "isolar um vocativo.",
+      "marcar a supressão de um verbo.",
+      "separar orações de um mesmo período, com pausa maior que a da vírgula, entre ideias que se sucedem."
+    ],
+    "gabarito": 4,
+    "comentario": "O ponto e vírgula separa duas orações coordenadas do mesmo período (o desconforto inicial e o que vem 'depois') com pausa intermediária entre a vírgula e o ponto. Ele não introduz enumeração (função dos dois-pontos), não encerra pergunta e não isola vocativo nem marca elipse.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-pontuacao-008",
+    "disciplina": "portugues",
+    "assunto": "pt-pontuacao",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Na frase \"O matriciamento — estratégia que aproxima saúde mental e atenção básica — ganhou espaço nos últimos anos\", os travessões poderiam ser substituídos, sem prejuízo gramatical, por",
+    "alternativas": [
+      "vírgulas.",
+      "pontos e vírgulas.",
+      "dois-pontos.",
+      "pontos finais.",
+      "aspas."
+    ],
+    "gabarito": 0,
+    "comentario": "Os travessões isolam um aposto explicativo, que também pode vir entre vírgulas (ou parênteses). Ponto e vírgula, dois-pontos ou ponto final quebrariam a estrutura sujeito–predicado, e aspas não servem para isolar aposto.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-pontuacao-009",
+    "disciplina": "portugues",
+    "assunto": "pt-pontuacao",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Assinale a frase em que o acento grave indicativo de crase foi empregado corretamente.",
+    "alternativas": [
+      "A psicóloga começou à atender mais cedo.",
+      "O atendimento psicológico funciona das 8h às 17h.",
+      "Entregou o relatório à ela no fim do dia.",
+      "Os pacientes foram à pé até a unidade.",
+      "O texto se refere à pessoas em sofrimento."
+    ],
+    "gabarito": 1,
+    "comentario": "Na indicação de horas com 'das... às', ocorre crase (preposição 'a' + artigo 'as'). Não há crase antes de verbo ('atender'), de pronome pessoal ('ela'), de palavra masculina ('pé') nem de palavra no plural precedida de 'a' sem 's' ('à pessoas'), porque nesses casos falta o artigo feminino.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-pontuacao-010",
+    "disciplina": "portugues",
+    "assunto": "pt-pontuacao",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Assinale a frase corretamente pontuada.",
+    "alternativas": [
+      "Os psicólogos que atuam na atenção básica, precisam de apoio constante.",
+      "A unidade de saúde, oferece atendimento psicológico às terças.",
+      "Embora faltem profissionais o serviço, continua funcionando.",
+      "Os psicólogos que atuam na atenção básica precisam de apoio constante.",
+      "O paciente relatou, que não dorme há semanas."
+    ],
+    "gabarito": 3,
+    "comentario": "Na frase correta, a oração adjetiva restritiva ('que atuam na atenção básica') não leva vírgula, e o sujeito não fica separado do verbo. Nas demais há vírgula entre sujeito e verbo, falta de vírgula depois da oração concessiva anteposta (com vírgula em lugar errado) e vírgula entre o verbo e seu objeto direto oracional.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-pontuacao-011",
+    "disciplina": "portugues",
+    "assunto": "pt-pontuacao",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Em \"O médico avaliou a paciente, e a psicóloga conversou com a família\", a vírgula antes de \"e\" justifica-se por",
+    "alternativas": [
+      "separar orações coordenadas com sujeitos diferentes.",
+      "isolar um aposto.",
+      "marcar a omissão de um verbo.",
+      "separar oração subordinada adverbial anteposta.",
+      "isolar um vocativo."
+    ],
+    "gabarito": 0,
+    "comentario": "Antes de 'e', a vírgula costuma ser dispensada, mas é admitida (e recomendada) quando as orações coordenadas têm sujeitos distintos ('O médico' / 'a psicóloga'), para evitar uma leitura equivocada. Não há aposto, elipse, oração subordinada nem vocativo.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-pontuacao-012",
+    "disciplina": "portugues",
+    "assunto": "pt-pontuacao",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "texto": "Bancos para pessoas\n\nMoro num bairro onde as praças foram, aos poucos, substituídas por estacionamentos. Ninguém decidiu isso numa reunião; aconteceu como acontecem as coisas nas cidades grandes, sem aviso e sem culpados. Um dia, percebi que já não havia onde sentar.\n\nA psicologia urbana tem um nome para os lugares que nos fazem bem: espaços de convivência. Neles, encontramos desconhecidos sem a obrigação de conversar, mas com a possibilidade de fazê-lo. É ali que o idoso troca duas palavras com o jornaleiro, que a criança aprende a dividir o balanço, que o recém-chegado deixa de ser estranho.\n\nQuando esses espaços somem, a solidão não aparece de repente. Ela se instala devagar, disfarçada de rotina: casa, carro, trabalho, carro, casa. Os vizinhos viram rostos sem nome, e o bairro, um endereço.\n\nNão quero romantizar o passado, que tinha seus próprios problemas. Mas desconfio de que uma cidade se mede menos pela quantidade de vagas que oferece aos automóveis do que pelos bancos que oferece às pessoas.\n\n(Texto autoral, escrito para fins didáticos.)",
+    "enunciado": "Em \"Quando esses espaços somem, a solidão não aparece de repente\", a vírgula foi empregada para",
+    "alternativas": [
+      "isolar um aposto explicativo.",
+      "separar o sujeito do predicado.",
+      "separar orações coordenadas assindéticas.",
+      "isolar um vocativo.",
+      "marcar a oração subordinada adverbial anteposta à principal."
+    ],
+    "gabarito": 4,
+    "comentario": "'Quando esses espaços somem' é uma oração subordinada adverbial temporal colocada antes da principal ('a solidão não aparece de repente'). Nessa posição, a vírgula é recomendada. Não há aposto nem vocativo, a vírgula não separa sujeito de verbo e as orações não são coordenadas.",
+    "dificuldade": 1,
+    "anulada": false
+  }
+]

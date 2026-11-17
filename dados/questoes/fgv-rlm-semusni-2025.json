@@ -1,0 +1,127 @@
+[
+ {
+  "id": "fgv-semusni-2025-fis-6",
+  "disciplina": "rlm",
+  "assunto": "rlm-proposicoes",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "SEMUS-Nova Iguaçu",
+   "ano": 2025,
+   "cargo": "Fiscal Sanitário – Enfermagem",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/fiscal-sanitario-enfermagem-cns010-tipo-1.pdf"
+  },
+  "enunciado": "Considere a seguinte afirmação:\nTodo restaurante capixaba vende moqueca e caranguejada.\nA negação dessa proposição é logicamente equivalente a",
+  "alternativas": [
+   "Há, pelo menos, um restaurante capixaba que não vende moqueca ou não vende caranguejada.",
+   "Há, pelo menos, um restaurante capixaba que não vende moqueca, nem vende caranguejada.",
+   "Todos os restaurantes capixabas não vendem moqueca ou não vendem caranguejada.",
+   "Todos os restaurantes capixabas não vendem moqueca, nem vendem caranguejada.",
+   "Todo restaurante que não vende moqueca, nem vende caranguejada, não é capixaba."
+  ],
+  "gabarito": 0,
+  "comentario": "A negação de “Todo restaurante capixaba vende moqueca E caranguejada” é “Existe pelo menos um restaurante capixaba que NÃO vende (moqueca e caranguejada)”, e ~(p ∧ q) ≡ ~p ∨ ~q. Logo: “há pelo menos um restaurante capixaba que não vende moqueca OU não vende caranguejada” (A). B usa “nem” (conjunção das negações), C e D trocam o quantificador por “todos”, e E é outra afirmação.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-semusni-2025-fis-7",
+  "disciplina": "rlm",
+  "assunto": "rlm-proporcao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "SEMUS-Nova Iguaçu",
+   "ano": 2025,
+   "cargo": "Fiscal Sanitário – Enfermagem",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/fiscal-sanitario-enfermagem-cns010-tipo-1.pdf"
+  },
+  "enunciado": "A dosagem máxima diária de um medicamento administrável a uma pessoa em tratamento é calculada a partir da proporção de 4 gotas para cada 1,5 kg de sua massa corporal.\nO número de gotas desse medicamento que compõe a dosagem máxima administrável a uma pessoa com 75 kg, é de",
+  "alternativas": [
+   "300.",
+   "200.",
+   "150.",
+   "100.",
+   "50."
+  ],
+  "gabarito": 1,
+  "comentario": "São 4 gotas para cada 1,5 kg. Em 75 kg há 75 ÷ 1,5 = 50 grupos de 1,5 kg. Logo, 50 × 4 = 200 gotas.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-semusni-2025-fis-8",
+  "disciplina": "rlm",
+  "assunto": "rlm-conjuntos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "SEMUS-Nova Iguaçu",
+   "ano": 2025,
+   "cargo": "Fiscal Sanitário – Enfermagem",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/fiscal-sanitario-enfermagem-cns010-tipo-1.pdf"
+  },
+  "enunciado": "Um restaurante self-service oferece pacotes especiais para grupos, com diferentes preços unitários de pratos, conforme a faixa de consumo. A tabela a seguir, por exemplo, apresenta o preço unitário dos pratos sem carne bovina e sem frango, por faixa de consumo.\nNúmero de pratos sem carne bovina e sem frango consumidos pelo grupo | Preço unitário\n1 - 20 | R$25,00\n21 - 30 | R$23,00\n30 - 40 | R$20,00\n40+ | R$18,00\nUm grupo formado por 300 pessoas foi a esse restaurante, e cada pessoa comeu um prato. Ao total, 250 pessoas do grupo comeram carne bovina e 28 comeram frango. Entre essas pessoas, 14 comeram ambos os tipos de carne.\nO total pago pelos pratos sem carne bovina e sem frango foi de",
+  "alternativas": [
+   "R$900,00.",
+   "R$828,00.",
+   "R$782,00.",
+   "R$720,00.",
+   "R$648,00."
+  ],
+  "gabarito": 3,
+  "comentario": "Comeram carne bovina ou frango: 250 + 28 − 14 = 264 pessoas (princípio da inclusão-exclusão). Sem carne bovina e sem frango: 300 − 264 = 36 pratos. Pela tabela, 36 está na faixa 30–40, preço unitário R$ 20,00. Total: 36 × 20 = R$ 720,00.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-semusni-2025-fis-9",
+  "disciplina": "rlm",
+  "assunto": "rlm-sequencias",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "SEMUS-Nova Iguaçu",
+   "ano": 2025,
+   "cargo": "Fiscal Sanitário – Enfermagem",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/fiscal-sanitario-enfermagem-cns010-tipo-1.pdf"
+  },
+  "enunciado": "A representação decimal da fração 3/7 é dada a seguir:\n3/7 = 0,428571428 …\nO primeiro algarismo presente em tal representação, após a vírgula, é 4.\nO milésimo algarismo presente em tal representação, após a vírgula, é",
+  "alternativas": [
+   "8.",
+   "7.",
+   "5.",
+   "4.",
+   "2."
+  ],
+  "gabarito": 2,
+  "comentario": "A dízima 0,428571428571... tem período de 6 algarismos (428571). Dividindo 1000 por 6: 1000 = 6 × 166 + 4. O milésimo algarismo ocupa a 4ª posição do período: 4, 2, 8, 5 → é o 5.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-semusni-2025-fis-10",
+  "disciplina": "rlm",
+  "assunto": "rlm-problemas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "SEMUS-Nova Iguaçu",
+   "ano": 2025,
+   "cargo": "Fiscal Sanitário – Enfermagem",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/fiscal-sanitario-enfermagem-cns010-tipo-1.pdf"
+  },
+  "enunciado": "O setor de Emergência de um hospital monta as suas equipes plantonistas com especialistas nas áreas de Obstetrícia, Pneumologia, Cardiologia e Ortopedia. O quadro de plantonistas conta com 5 especialistas de cada área e as equipes plantonistas são montadas com 2 especialistas de cada área.\nO número máximo de equipes plantonistas distintas, que podem ser montadas, é",
+  "alternativas": [
+   "10 000.",
+   "1 250.",
+   "625.",
+   "40.",
+   "25."
+  ],
+  "gabarito": 0,
+  "comentario": "Em cada área escolhem-se 2 dos 5 especialistas: C(5,2) = 10 modos. Como as 4 áreas são escolhas independentes, pelo princípio multiplicativo: 10 × 10 × 10 × 10 = 10 000 equipes.",
+  "dificuldade": 2,
+  "anulada": false
+ }
+]

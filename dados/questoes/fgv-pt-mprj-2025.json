@@ -1,0 +1,752 @@
+[
+ {
+  "id": "fgv-mprj-2025-ana-1",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-RJ",
+   "ano": 2025,
+   "cargo": "Analista do Ministério Público – Área Administrativa",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-do-ministerio-publico-area-administrativacns101-tipo-1.pdf"
+  },
+  "enunciado": "Uma das marcas do texto argumentativo é a presença de certas estratégias que pretendem modificar as ideias do receptor sobre uma tese.\nAbaixo aparecem algumas dessas estratégias; assinale a opção em que a definição da estratégia apresentada está corretamente aplicada ao seguinte texto:\n“A crise econômica mundial é um problema que preocupa a todos, por exemplo a Europa tem países com uma alta taxa de inflação”.",
+  "alternativas": [
+   "Apresentação de um caso particular que serve de ilustração do ponto de vista do emissor.",
+   "Inclusão do texto de palavras de um especialista no tema para apoiar com maior força a opinião do emissor.",
+   "Presença de uma pergunta cujo objetivo não é a resposta por parte do receptor, mas a provocação de sua reflexão.",
+   "Citação de uma informação numérica real que ilustra uma ideia que se está defendendo.",
+   "Comparação de elementos que se relacionam por sua semelhança."
+  ],
+  "gabarito": 0,
+  "comentario": "O trecho “por exemplo a Europa tem países com uma alta taxa de inflação” apresenta um caso particular que ilustra a tese geral de que a crise preocupa a todos — é a estratégia da exemplificação (A). Não há citação de especialista (B), pergunta retórica (C), dado numérico real (D) — fala-se em “alta taxa”, sem número — nem comparação por semelhança (E).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mprj-2025-ana-2",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-RJ",
+   "ano": 2025,
+   "cargo": "Analista do Ministério Público – Área Administrativa",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-do-ministerio-publico-area-administrativacns101-tipo-1.pdf"
+  },
+  "enunciado": "Leia os seguintes conselhos para uma boa escrita:\n“Deve-se utilizar uma linguagem correta na expressão do conteúdo; não se utilizarem frases feitas ou rebuscadas; não sobrecarregar as orações e evitar as complexidades com muitas subordinadas; dizer o que se quer de uma forma pessoal, clara e simples; recordar que se escreve para os outros e, por isso, facilitar a tarefa, o que inclui a ortografia e a apresentação”. Segundo esses conselhos, assinale o único texto adequado entre os que estão abaixo.",
+  "alternativas": [
+   "Melhor é morar numa região deserta do que com uma companhia desagradável.",
+   "Nem todo cidadão merece os previlégios da lei.",
+   "Qualquer pessoa inteligente que leia um contrato de aluguel e mesmo assim alugue o imóvel, apesar dos problemas, merece todas as consequências que desse contrato advêm.",
+   "Continuo achando o casamento uma ótima experiência, por isso me casei.",
+   "É possível ser um homem bom e um péssimo trabalhador."
+  ],
+  "gabarito": 0,
+  "comentario": "A banca considerou a opção A o único texto adequado aos conselhos: frase curta, clara, correta e sem subordinação excessiva. A opção B tem erro ortográfico (“previlégios”, em vez de “privilégios”); a C sobrecarrega o período com subordinadas e intercalações; a D é incoerente (a conclusão “por isso me casei” não decorre de “continuo achando”). A justificativa da banca para descartar a E não é explícita; possivelmente considerou a frase menos clara/ambígua quanto ao ponto de vista.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mprj-2025-ana-3",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-RJ",
+   "ano": 2025,
+   "cargo": "Analista do Ministério Público – Área Administrativa",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-do-ministerio-publico-area-administrativacns101-tipo-1.pdf"
+  },
+  "enunciado": "Assinale a frase abaixo em que o argumento apresentado está corretamente classificado.",
+  "alternativas": [
+   "O chamado efeito estufa é provocado pelo aquecimento da terra. Isso se deve ao fato de estarmos continuamente maltratando o meio ambiente / relação de causa-efeito.",
+   "Nas rodovias interestaduais, a morte de jovens motociclistas de 18 a 25 anos supera 91% / apelo à intimidação do receptor.",
+   "Segundo um estudo das Nações Unidas aumenta o movimento emigratório nos países em desenvolvimento / apelo a estatísticas.",
+   "Como vamos nomear um diretor que já se afastou da empresa duas vezes? / raciocínio de círculo vicioso.",
+   "Todo mundo está de acordo em que devemos proteger os menores, mas o que fazer com crimes mais graves? / Simplificação exagerada."
+  ],
+  "gabarito": 0,
+  "comentario": "Em A, o texto relaciona o efeito estufa (efeito) a um fato que o provocaria (os maus-tratos ao meio ambiente), configurando argumento de causa-efeito. Em B, o dado numérico é apelo a estatística, não intimidação; em C, cita-se um estudo da ONU, o que é argumento de autoridade, não estatística; em D, não há círculo vicioso, mas um argumento contra a pessoa/baseado em fato anterior; em E, não há simplificação exagerada, mas uma objeção/pergunta retórica.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mprj-2025-ana-4",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-RJ",
+   "ano": 2025,
+   "cargo": "Analista do Ministério Público – Área Administrativa",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-do-ministerio-publico-area-administrativacns101-tipo-1.pdf"
+  },
+  "enunciado": "Assinale a opção que mostre o tipo causal de raciocínio argumentativo.",
+  "alternativas": [
+   "Minha irmã teve más notas na escola, suspira pelos cantos o dia inteiro, só escuta música romântica... Acho que ela está apaixonada.",
+   "Senhores, não há dúvida de que para a construção do novo edifício, são necessárias 30 toneladas de cimento e 20 toneladas de ferro. Os cálculos foram realizados em várias ocasiões e foram ratificados pelo engenheiro cuja experiência em cálculos e medidas é conhecida por todos vocês.",
+   "As estacas ajudam as árvores a crescerem direito. Esse mesmo trabalho tem os pais na educação dos filhos.",
+   "A literatura sobre o amor teve sempre grande sucesso. Referem-se ao tema amoroso, entre outros autores, Cervantes, Kafka, Rabelais, Mann e Homero.",
+   "A guerra entre Ucrânia e Rússia deve terminar breve, pois há um risco enorme de ela transformar-se no estopim de uma nova guerra mundial."
+  ],
+  "gabarito": 0,
+  "comentario": "Para a banca, a opção A mostra o raciocínio causal: a partir de efeitos observados (notas ruins, suspiros, música romântica) infere-se a causa (estar apaixonada). B é argumento de autoridade (o engenheiro); C é analogia (estacas/pais); D é exemplificação/autoridade (lista de autores). A E também traz um “pois”, mas a banca indicou A como o modelo de raciocínio causal (inferência da causa a partir dos efeitos).",
+  "dificuldade": 3,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mprj-2025-ana-5",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-RJ",
+   "ano": 2025,
+   "cargo": "Analista do Ministério Público – Área Administrativa",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-do-ministerio-publico-area-administrativacns101-tipo-1.pdf"
+  },
+  "enunciado": "Entre as opções abaixo, aquela que mostra a falácia do círculo vicioso, é:",
+  "alternativas": [
+   "Esse bairro, no Rio de Janeiro, é muito perigoso, pois ontem me assaltaram lá.",
+   "Pedro Cruz é o responsável por todos os crimes praticados pela mineração ilegal no país, pois ele é o gerente.",
+   "José Navarro vai ganhar a Tour de França este ano porque ele é o melhor ciclista de todos os que competem.",
+   "Se você de verdade ama o Brasil, deveria votar “Sim” no próximo plebiscito.",
+   "A obra de Edgar Allan Poe é de má qualidade, pois ele era um bêbado que se casou com a própria prima."
+  ],
+  "gabarito": 2,
+  "comentario": "Círculo vicioso (petição de princípio) ocorre quando a conclusão é apenas repetida como premissa: “vai ganhar porque é o melhor” equivale a dizer que vencerá porque vencerá (C). A é generalização apressada a partir de um caso; B é atribuição indevida de culpa pelo cargo; D é apelo emocional/patriótico; E é ataque à pessoa (ad hominem).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mprj-2025-ana-6",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-RJ",
+   "ano": 2025,
+   "cargo": "Analista do Ministério Público – Área Administrativa",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-do-ministerio-publico-area-administrativacns101-tipo-1.pdf"
+  },
+  "enunciado": "Observe o seguinte pensamento:\n“A teoria da evolução das espécies é falsa porque isso significaria que os seres humanos são descendentes dos macacos, o que é um absurdo.”\nNesse texto há um erro de raciocínio argumentativo que é corretamente explicado na seguinte opção:",
+  "alternativas": [
+   "Apela para preconceitos e emoções do público em lugar de oferecer argumentos ou evidências.",
+   "Supõe que um evento levará inexoravelmente a outros eventos semelhantes, frequentemente mais radicais.",
+   "Indevidamente repete o argumento com palavras diferentes.",
+   "Supõe que um evento é causa de outro porque os dois estão aparentemente relacionados.",
+   "Modifica ou tergiversa um argumento porque é mais fácil atacar a versão tergiversada que atacar a versão original."
+  ],
+  "gabarito": 4,
+  "comentario": "O argumento deforma a teoria da evolução (que não diz que o homem descende dos macacos atuais, mas que ambos têm ancestral comum) para atacá-la mais facilmente: é a falácia do espantalho, descrita em E. A descreve apelo à emoção; B, a ladeira escorregadia; C, a petição de princípio; D, a falsa causa.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mprj-2025-ana-7",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-RJ",
+   "ano": 2025,
+   "cargo": "Analista do Ministério Público – Área Administrativa",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-do-ministerio-publico-area-administrativacns101-tipo-1.pdf"
+  },
+  "enunciado": "Heródoto conta o episódio da resposta do oráculo de Delfos a uma consulta de Creso, rei da Lídia, antes de cruzar a fronteira para enfrentar o grande exército persa: “Se você for para o Oeste e cruzar o rio Hallis, um poderoso império será destruído”.\nEfectivamente, contra sua confiante interpretação, o império destruído foi o do próprio Creso.\nO texto da previsão do oráculo mostra uma falácia informal ou extra lógica, que é:",
+  "alternativas": [
+   "inferência indevida por extrapolação.",
+   "a possível ambiguidade.",
+   "argumento intimidatório.",
+   "desvio do objeto da discussão para a pessoa.",
+   "substituição da razão por apelos emotivos."
+  ],
+  "gabarito": 1,
+  "comentario": "A previsão do oráculo não diz qual império seria destruído, e Creso a interpretou a seu favor: a falácia está na ambiguidade da formulação (B). Não há extrapolação indevida (A), intimidação (C), ataque à pessoa (D) nem apelo emotivo (E).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mprj-2025-ana-8",
+  "disciplina": "portugues",
+  "assunto": "pt-reescrita",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-RJ",
+   "ano": 2025,
+   "cargo": "Analista do Ministério Público – Área Administrativa",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-do-ministerio-publico-area-administrativacns101-tipo-1.pdf"
+  },
+  "enunciado": "Em todas as opções abaixo há uma frase que foi respectivamente modificada para a forma reduzida e para a forma nominalizada (transformação em substantivo).\nAssinale a opção em que há um erro na modificação.",
+  "alternativas": [
+   "O presidente achou bom que o deputado interviesse na discussão / O presidente achou bom o deputado intervir na discussão / O presidente achou boa a intervenção do deputado na discussão.",
+   "Estaria bem que os acusados devolvessem o dinheiro / Estaria bem os acusados devolverem o dinheiro / Estaria bem a devolução do dinheiro pelos acusados.",
+   "Foi ruim que discordássemos de todos / Foi ruim discordarmos de todos / Foi ruim nossa discordância de todos.",
+   "O pai achou conveniente que provesse a dispensa / O pai achou conveniente provir a dispensa / O pai achou conveniente a provisão da dispensa.",
+   "Será proibido que os deputados entrem sem gravata / Será proibido aos deputados entrarem sem gravata / Será proibida a entrada dos deputados sem gravata."
+  ],
+  "gabarito": 3,
+  "comentario": "Em D há erro: a forma reduzida de “que provesse” é “prover” (verbo prover), e não “provir” (vir de, originar-se); além disso, o termo adequado ao sentido de mantimentos seria “despensa”. Nas demais, as transformações em oração reduzida de infinitivo e em nominalização estão corretas (intervir/intervenção, devolverem/devolução, discordarmos/discordância, entrarem/entrada).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mprj-2025-ana-9",
+  "disciplina": "portugues",
+  "assunto": "pt-sintaxe",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-RJ",
+   "ano": 2025,
+   "cargo": "Analista do Ministério Público – Área Administrativa",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-do-ministerio-publico-area-administrativacns101-tipo-1.pdf"
+  },
+  "enunciado": "As opções abaixo mostram frases que foram colocadas no plural.\nA frase em que houve erro gramatical nesse processo, é:",
+  "alternativas": [
+   "Tem-se obtido bom retorno de nosso investimento / Têm-se obtido bons retornos de nosso investimento.",
+   "Não se necessitará de seu empréstimo / Não se necessitarão de seus empréstimos.",
+   "Espero que se modifique a estrutura do projeto / Espero que se modifiquem as estruturas do projeto.",
+   "Nunca se desobedeceu à regra disciplinar da escola / Nunca se desobedeceu às regras disciplinares da escola.",
+   "Conquistou-se novo freguês para o produto / Conquistaram-se novos fregueses para o produto."
+  ],
+  "gabarito": 1,
+  "comentario": "“Necessitar de” é verbo transitivo indireto; com o “se” índice de indeterminação do sujeito, o verbo fica obrigatoriamente no singular: “Não se necessitará de seus empréstimos”. Por isso B tem erro. Em A, C e E o “se” é pronome apassivador e o verbo concorda com o sujeito paciente no plural; em D, “desobedecer a” é transitivo indireto e o verbo corretamente permanece no singular.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mprj-2025-ana-10",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-RJ",
+   "ano": 2025,
+   "cargo": "Analista do Ministério Público – Área Administrativa",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-do-ministerio-publico-area-administrativacns101-tipo-1.pdf"
+  },
+  "enunciado": "Um livro de lógica afirma o seguinte:\n“Pessoas predispostas a acatar preconceitos raciais, religiosos ou nacionalistas efetuam comumente amplas generalizações, abrangendo todos os elementos de uma classe”.\nEsse processo aparece no seguinte exemplo:",
+  "alternativas": [
+   "Como a maioria dos latinos, os argentinos são muito preguiçosos, o que pode ser comprovado pelo hábito da sesta.",
+   "Os mineiros são como os húngaros: preferem a carne de porco à de boi.",
+   "As mulheres devem receber sempre muito carinho, é o que já dizia Homero na Ilíada.",
+   "Como é possível ser ele o indicado para o cargo, já que agride a mulher com frequência.",
+   "Essas árvores são tais quais mulheres grávidas: depois de nove meses dão frutos."
+  ],
+  "gabarito": 0,
+  "comentario": "A generalização preconceituosa atribui a todos os membros de uma classe uma característica negativa: “como a maioria dos latinos, os argentinos são muito preguiçosos” (A). B e E são comparações/analogias; C é apelo à autoridade (Homero); D é ataque à pessoa.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mprj-2025-ana-11",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-RJ",
+   "ano": 2025,
+   "cargo": "Analista do Ministério Público – Área Administrativa",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-do-ministerio-publico-area-administrativacns101-tipo-1.pdf"
+  },
+  "enunciado": "Observe o seguinte texto:\n“Senhor juiz, eu sei que o senhor tem bom coração. Está certo que meu filho cometeu um crime, mas ele deve ser absolvido. Esse menino está enfrentando problemas terríveis: o pai adoeceu, o irmão está desaparecido, a irmã fugiu de casa, uma tragédia. Se ele for condenado, ficará traumatizado para o resto da vida, senhor juiz”.\nO problema estrutural desse texto é que",
+  "alternativas": [
+   "os argumentos não apoiam a conclusão.",
+   "a analogia realizada não é adequada.",
+   "o apelo ao sentimento do juiz é adequado.",
+   "os argumentos dão autoridade ao pedido.",
+   "a argumentação produz provas falsas."
+  ],
+  "gabarito": 0,
+  "comentario": "Os argumentos apresentados (bom coração do juiz, problemas familiares, trauma futuro) não sustentam a conclusão de que o réu deve ser absolvido, já que se admite que ele cometeu o crime: os argumentos não apoiam a conclusão (A). Não há analogia (B); o apelo ao sentimento é justamente inadequado (C); não há autoridade (D) nem provas falsas (E).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mprj-2025-ana-12",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-RJ",
+   "ano": 2025,
+   "cargo": "Analista do Ministério Público – Área Administrativa",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-do-ministerio-publico-area-administrativacns101-tipo-1.pdf"
+  },
+  "enunciado": "Em um debate, é importante não só saber defender as suas ideias, mas também saber compreender o ponto de vista do outro. Num debate sobre os aspectos positivos e negativos das viagens do homem à lua, não serve de argumento contrário a essas viagens:",
+  "alternativas": [
+   "A Lua não tem minerais valiosos.",
+   "Gasta muito dinheiro em área não tão urgente.",
+   "Não traz muito conhecimento sobre o espaço.",
+   "Representa um estágio para outras viagens.",
+   "Não há possibilidade de vida na Lua."
+  ],
+  "gabarito": 3,
+  "comentario": "Dizer que as viagens à Lua representam um estágio para outras viagens é argumento FAVORÁVEL a elas, logo não serve como argumento contrário (D). As demais (ausência de minerais valiosos, gasto excessivo, pouco conhecimento, impossibilidade de vida) apontam aspectos negativos.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mprj-2025-ana-13",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-RJ",
+   "ano": 2025,
+   "cargo": "Analista do Ministério Público – Área Administrativa",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-do-ministerio-publico-area-administrativacns101-tipo-1.pdf"
+  },
+  "enunciado": "Assinale opção que apresenta um silogismo estruturado de forma adequada.",
+  "alternativas": [
+   "Todos os produtores agrícolas são dedicados / João é dedicado / João é produtor agrícola.",
+   "Todos os homens são mortais / O ministro é mortal / O ministro é um homem.",
+   "Todos os livros são úteis / Dom Casmurro é um livro / Dom Casmurro é útil.",
+   "Meus amigos são revolucionários / Geraldo é um revolucionário / Geraldo é meu amigo.",
+   "Todos os supermercados vendem café / Esta loja vende café / Esta loja é um supermercado."
+  ],
+  "gabarito": 2,
+  "comentario": "Em C, a premissa maior (todos os livros são úteis) e a menor (Dom Casmurro é um livro) levam necessariamente à conclusão (Dom Casmurro é útil): silogismo válido. Nas demais, comete-se a falácia de afirmar o consequente/termo médio não distribuído: ser dedicado, mortal, revolucionário ou vender café não implica pertencer à classe citada.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mprj-2025-ana-14",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-RJ",
+   "ano": 2025,
+   "cargo": "Analista do Ministério Público – Área Administrativa",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-do-ministerio-publico-area-administrativacns101-tipo-1.pdf"
+  },
+  "enunciado": "Um advogado, no tribunal, defendia seu cliente, acusado de roubo, com as seguintes palavras:\n“Senhores jurados, este homem, aqui sentado está sendo julgado por roubo, mas vejam: ele é pai de três filhos, trabalhador responsável, filho carinhoso e diretor de uma organização solidária.”\nNesse caso, o advogado está empregando uma falácia argumentativa, que é",
+  "alternativas": [
+   "produzir uma generalização excessiva, que produz uma conclusão inadequada.",
+   "abandonar a questão principal e tomar um argumento desimportante, fruto de descuido ou de deliberada fuga de assunto.",
+   "criar um estereótipo, abandonando as diferenças individuais.",
+   "apresentar uma estrutura em que a relação de causa e efeito mostra defeitos.",
+   "estabelecer uma falsa analogia em que os elementos comparados são diferentes em algum ponto essencial."
+  ],
+  "gabarito": 1,
+  "comentario": "O advogado desvia o foco da acusação de roubo para qualidades pessoais irrelevantes ao fato (pai, trabalhador, filho carinhoso): abandona a questão principal (B). Não há generalização (A), estereótipo (C), falha de causa-efeito (D) nem analogia (E).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mprj-2025-ana-15",
+  "disciplina": "portugues",
+  "assunto": "pt-sintaxe",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-RJ",
+   "ano": 2025,
+   "cargo": "Analista do Ministério Público – Área Administrativa",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-do-ministerio-publico-area-administrativacns101-tipo-1.pdf"
+  },
+  "enunciado": "Assinale a frase em que o emprego do gerúndio não é recomendável",
+  "alternativas": [
+   "Belo fim consegue quem morre amando.",
+   "Quero que a morte me encontre plantando meus repolhos.",
+   "A vida é o que acontece enquanto você está ocupado fazendo outros planos.",
+   "Ninguém conquistou grandes coisas agindo só com segurança.",
+   "Os cidadãos conscientes votam nas eleições examinando o desempenho dos votados."
+  ],
+  "gabarito": 4,
+  "comentario": "Segundo a banca, o gerúndio de E (“votam nas eleições examinando o desempenho dos votados”) não é recomendável: o exame do desempenho deve ser anterior ao voto, e não simultâneo, e possivelmente por isso a construção ganharia melhor redação com “após examinar” ou “depois de examinarem”. Nas demais, o gerúndio exprime ação simultânea ou modo de forma adequada (morrer amando, encontrar plantando, ocupado fazendo, agindo com segurança).",
+  "dificuldade": 3,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mprj-2025-ana-16",
+  "disciplina": "portugues",
+  "assunto": "pt-morfologia",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-RJ",
+   "ano": 2025,
+   "cargo": "Analista do Ministério Público – Área Administrativa",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-do-ministerio-publico-area-administrativacns101-tipo-1.pdf"
+  },
+  "enunciado": "As preposições, em língua portuguesa, mostram diferentes valores semânticos; assim, na frase “Dos mortos não fale a não ser bem”, a preposição DE mostra o mesmo valor semântico que mostra na seguinte frase:",
+  "alternativas": [
+   "Devemos rir do homem para não precisarmos chorar por ele.",
+   "O prazer da sociedade, sobretudo no interior, consiste em falar mal uns dos outros.",
+   "A primeira metade de nossas vidas é arruinada por nossos pais e a segunda por nossos filhos.",
+   "Não se deve falar do cemitério. É um lugar-comum...",
+   "Eu percebo, sem nenhum terror, a desunião das moléculas de minha existência."
+  ],
+  "gabarito": 3,
+  "comentario": "Em “Dos mortos não fale”, a preposição “de” introduz o assunto (falar a respeito dos mortos). O mesmo valor aparece em D: “falar do cemitério” = falar sobre o cemitério. Em A, “rir do homem” indica o alvo do riso; em B, “da sociedade” indica posse e “uns dos outros” integra a expressão de reciprocidade; em C e E, “de” indica posse/pertencimento. A banca apontou D como o paralelo exato.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mprj-2025-ana-17",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-RJ",
+   "ano": 2025,
+   "cargo": "Analista do Ministério Público – Área Administrativa",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-do-ministerio-publico-area-administrativacns101-tipo-1.pdf"
+  },
+  "enunciado": "Para manter-se a coerência textual, evitar as repetições numerosas e enriquecer o texto, certas palavras ou grupos de palavras servem para retomar certos elementos já mencionados no texto.\nAssinale a frase em que a retomada do termo sublinhado é feita por meio de um hiperônimo.",
+  "alternativas": [
+   "Durante minha viagem visitei alguns [lugares] muito agradáveis, uns em centros urbanos, outros no campo.",
+   "[Escutar os outros] é a melhor maneira de aprender. Isso implica escutar os companheiros de trabalho, os clientes ou fregueses, os membros da família e mesmo os críticos mais violentos.",
+   "Li [muitos livros] na minha vida. Alguns deles me ensinaram quase tudo o que sei.",
+   "A melhor vacina contra o vírus da violência que podemos dar a nossos filhos é nosso [amor] e nossa afeição de pais. »",
+   "Para ser bem-sucedido nesta prova o participante deve ter [coragem] e [determinação]. Essas qualidades ajudarão na vitória."
+  ],
+  "gabarito": 4,
+  "comentario": "Hiperônimo é termo de sentido mais geral que engloba outros: em E, “Essas qualidades” retoma “coragem” e “determinação”, que são espécies de qualidades. Em A e C ocorre retomada por pronomes indefinidos/partitivos (uns, outros, alguns deles); em B, “Isso” é pronome demonstrativo; em D não há retomada do termo sublinhado por hiperônimo.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mprj-2025-ana-18",
+  "disciplina": "portugues",
+  "assunto": "pt-morfologia",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-RJ",
+   "ano": 2025,
+   "cargo": "Analista do Ministério Público – Área Administrativa",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-do-ministerio-publico-area-administrativacns101-tipo-1.pdf"
+  },
+  "enunciado": "As opções abaixo mostram uma forma verbal sublinhada; o emprego dessa forma que não está corretamente caracterizado, é:",
+  "alternativas": [
+   "O presidente chegou [falando] grosso / indica ação que segue cronologicamente a anterior.",
+   "[Tem-se discutido] muito o valor da democracia / indica a continuidade de uma ação.",
+   "[Há] uma ordem misteriosa na natureza / indica um fato permanente.",
+   "Algumas pessoas [vão] à manifestação hoje à noite / ação futura.",
+   "Os professores daquela escola [ensinam] a seus alunos / indica ação habitual."
+  ],
+  "gabarito": 0,
+  "comentario": "Em “chegou falando grosso”, o gerúndio indica ação simultânea à de chegar (modo como chegou), e não ação posterior; por isso a caracterização de A está errada. B (locução com “ter” + particípio = continuidade/repetição), C (presente para fato permanente), D (presente com valor de futuro) e E (presente habitual) estão corretamente caracterizadas.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mprj-2025-ana-19",
+  "disciplina": "portugues",
+  "assunto": "pt-morfologia",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-RJ",
+   "ano": 2025,
+   "cargo": "Analista do Ministério Público – Área Administrativa",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-do-ministerio-publico-area-administrativacns101-tipo-1.pdf"
+  },
+  "enunciado": "Assinale a frase em que a omissão do artigo destacado altera o sentido da frase.",
+  "alternativas": [
+   "Lembro [do] nosso primeiro encontro em São Paulo.",
+   "Apanhou [os] livros que caíram de sua estante.",
+   "Não esqueci [a] minha mãe até hoje.",
+   "Esqueceu-se [do] nosso contrato.",
+   "[O] “Dom Casmurro” é um livro fantástico."
+  ],
+  "gabarito": 1,
+  "comentario": "Em B, “os livros que caíram” refere-se a todos os livros que caíram; sem o artigo (“Apanhou livros que caíram”), passa a indicar apenas alguns, alterando o sentido. Em A, C e D, o artigo diante de possessivo é facultativo e sua omissão não muda o sentido; em E, o artigo antes do título da obra também é facultativo.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mprj-2025-ana-20",
+  "disciplina": "portugues",
+  "assunto": "pt-tipologia",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-RJ",
+   "ano": 2025,
+   "cargo": "Analista do Ministério Público – Área Administrativa",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-do-ministerio-publico-area-administrativacns101-tipo-1.pdf"
+  },
+  "enunciado": "Observe o seguinte texto:\n“Os pesquisadores dos laboratórios Bell (Estados Unidos), onde foi inventado o transistor, o elemento de base dos computadores modernos, já construíram um protótipo de computador óptico. Trata-se de algo ainda rudimentar. Ele só comporta 128 transistores ópticos e ocupa um espaço de 60 cm. Um elefante comparado aos computadores atuais cujos microprocessadores possuem milhões de transistores por centímetro quadrado. Mas transformar um mastodonte em micróbio é só uma questão de tempo: os primeiros computadores ocupavam o espaço de toda uma sala”.\nSobre esse texto, assinale a afirmação correta.",
+  "alternativas": [
+   "Trata-se de um texto publicitário que antecipa as qualidades de um futuro computador.",
+   "Exemplifica um texto didático para um público leitor não especialista no assunto tratado.",
+   "Constitui um texto jornalístico com informações e explicações para um leitor não especializado.",
+   "Texto narrativo que traz as diferentes etapas da construção de um computador.",
+   "Mostra um texto descritivo, com detalhes de elementos componentes de um computador."
+  ],
+  "gabarito": 2,
+  "comentario": "O texto noticia um fato (protótipo de computador óptico nos laboratórios Bell), com informações e explicações acessíveis (comparações com elefante, mastodonte, micróbio) para leitor leigo: é texto jornalístico (C). Não vende produto (A), não tem finalidade de ensino sistemático (B), não narra etapas de construção (D) nem se limita a descrever componentes (E).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mprj-2025-ana-21",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-RJ",
+   "ano": 2025,
+   "cargo": "Analista do Ministério Público – Área Administrativa",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-do-ministerio-publico-area-administrativacns101-tipo-1.pdf"
+  },
+  "enunciado": "Observe o segmento textual abaixo:\n“O procurador da pequena cidade perguntou ao Ministro da Justiça sobre os “meios” para fazer funcionar sua jurisdição e ele pensa que o Ministro está “pronto” para lhe dar tais recursos”.\nNesse texto, as palavras “meios” e “pronto” aparecem entre aspas com a finalidade de",
+  "alternativas": [
+   "reproduzir a fala de quem trata o texto sem se solidarizar com ela.",
+   "produzir um efeito de ironia sobre o que foi expresso, mostrando um lugar-comum.",
+   "indicar uma simples alusão à fala de alguém, sem qualquer implicação de sentido.",
+   "mostrar palavras empregadas num sentido diverso aos sentidos dicionarizados.",
+   "procurar indicar termos de importância para a notícia veiculada."
+  ],
+  "gabarito": 0,
+  "comentario": "As aspas em “meios” e “pronto” indicam que o autor reproduz palavras de outrem (do procurador/do ministro) marcando distância em relação a elas, sem assumi-las como suas (A). Não há propriamente ironia de lugar-comum (B); a alusão tem implicação de sentido (C); as palavras não têm sentido diverso do dicionário (D); e não servem para destacar importância (E).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mprj-2025-ana-22",
+  "disciplina": "portugues",
+  "assunto": "pt-linguagem",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-RJ",
+   "ano": 2025,
+   "cargo": "Analista do Ministério Público – Área Administrativa",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-do-ministerio-publico-area-administrativacns101-tipo-1.pdf"
+  },
+  "enunciado": "Assinale a opção em que o texto transcrito não traz marcas subjetivas de seu autor.",
+  "alternativas": [
+   "Não importa com que roupa você está; se você tiver uma boa caneta e um bom relógio, você está bem-vestido.",
+   "Tenho observado constantemente que para prosperar no mundo é preciso ter aparência de tolo sem ser.",
+   "Tento manter o mesmo penteado por pelo menos trinta dias seguidos.",
+   "A beleza de uma mulher alegra o olhar e excede a todos os desejos do homem.",
+   "A moda é uma tirana a quem os sábios ridicularizam e obedecem."
+  ],
+  "gabarito": 3,
+  "comentario": "Para a banca, a opção D foi considerada o texto sem marcas subjetivas do autor, por estar formulada como afirmação genérica, em terceira pessoa. Nas demais há marcas evidentes: interlocução direta com o leitor (“você”, em A), primeira pessoa (“Tenho observado”, em B; “Tento”, em C) e avaliação pejorativa explícita (“tirana”, “ridicularizam”, em E). Note-se que “beleza” e “alegra” também carregam avaliação, o que torna a questão discutível.",
+  "dificuldade": 3,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mprj-2025-ana-23",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-RJ",
+   "ano": 2025,
+   "cargo": "Analista do Ministério Público – Área Administrativa",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-do-ministerio-publico-area-administrativacns101-tipo-1.pdf"
+  },
+  "enunciado": "O raciocínio indutivo de um texto argumentativo aparece exemplificado na seguinte opção:",
+  "alternativas": [
+   "Como todos os homens trabalham fora de casa, é natural que os parentes dele procurem arranjar-lhe um emprego.",
+   "Os casos de atentados à liberdade de imprensa são bastante comuns; eles confirmam a ideia de que esse é um espaço delicado.",
+   "Alguns estados americanos ainda defendem a pena de morte, assim como fazem outros países.",
+   "Como os trovões da noite assustaram os animais, o fazendeiro decidiu colocar vedações nas portas.",
+   "Do mesmo modo que estudamos bastante matérias científicas, deveríamos também ensinar educação artística."
+  ],
+  "gabarito": 3,
+  "comentario": "A banca indicou D como exemplo de raciocínio indutivo: parte-se de um fato particular observado (os trovões assustaram os animais) para a decisão/generalização prática (colocar vedações). A parte de premissa geral para caso particular (dedução); C e E são comparações/analogias; B apresenta casos confirmando uma ideia, mas não foi considerada pela banca o modelo pedido.",
+  "dificuldade": 3,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mprj-2025-ana-24",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-RJ",
+   "ano": 2025,
+   "cargo": "Analista do Ministério Público – Área Administrativa",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-do-ministerio-publico-area-administrativacns101-tipo-1.pdf"
+  },
+  "enunciado": "Assinale a opção que, em lugar de apresentar um argumento, mostra um exemplo.",
+  "alternativas": [
+   "O conflito de gerações é antes de mais nada a consequência de uma dificuldade de comunicação.",
+   "Se os jovens e os mais velhos têm algumas vezes dificuldades de comunicação, isso se deve a uma diferença de educação.",
+   "Se a comunicação é difícil entre as gerações, isso ocorre porque elas não falam a mesma língua.",
+   "As palavras usadas pelos jovens são importadas da língua inglesa e constituem um dialeto no qual os jovens se reconhecem melhor que os mais idosos.",
+   "Como comunicar-se entre gerações quando os estilos de vida são tão diferentes?"
+  ],
+  "gabarito": 3,
+  "comentario": "Em D, o uso de palavras importadas do inglês pelos jovens é um exemplo concreto que ilustra a dificuldade de comunicação entre gerações. As opções A, B e C apresentam argumentos (explicações causais do conflito), e E é uma pergunta retórica.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mprj-2025-ana-25",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-RJ",
+   "ano": 2025,
+   "cargo": "Analista do Ministério Público – Área Administrativa",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-do-ministerio-publico-area-administrativacns101-tipo-1.pdf"
+  },
+  "enunciado": "Abaixo estão vários exemplos de textos de publicidade ou de propaganda.\nAssinale o texto que apela para a intimidação do leitor e possível cliente, é:",
+  "alternativas": [
+   "Com esta camisa você estará parecendo um astro de Hollywood para seus amigos. Compre e desfrute da fama.",
+   "O azeite de oliva Olivex respeita a tradição e produz algo de máxima qualidade e tradição.",
+   "Tenha cuidado com os produtos ditos caseiros, muitas vezes feitos sem preocupações higiênicas. Compre produtos de qualidade.",
+   "Compre nosso relógio e concorra a uma casa de praia no litoral do Rio de Janeiro.",
+   "Não prenda pássaros. A liberdade é um bem de todos os seres vivos, incluindo você."
+  ],
+  "gabarito": 2,
+  "comentario": "Em C, o anúncio procura convencer pelo medo, alertando para riscos de higiene dos produtos “caseiros”: apelo à intimidação. A apela à vaidade/fama; B, à tradição e qualidade; D, a uma recompensa (sorteio); E, a um valor ético (liberdade).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mprj-2025-ana-26",
+  "disciplina": "portugues",
+  "assunto": "pt-vocabulario",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-RJ",
+   "ano": 2025,
+   "cargo": "Analista do Ministério Público – Área Administrativa",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-do-ministerio-publico-area-administrativacns101-tipo-1.pdf"
+  },
+  "enunciado": "As opções abaixo mostram expressões latinas com seu significado indicado.\nAssinale a expressão cuja significado foi indicado erradamente.",
+  "alternativas": [
+   "Ad hoc – sem intenção.",
+   "Ab irato – estado de ira, de cólera.",
+   "Ad argumentandum tantum – só para argumentar.",
+   "Ad auctoritatem – argumento de autoridade.",
+   "Ad cautelam – por preocupação."
+  ],
+  "gabarito": 0,
+  "comentario": "“Ad hoc” significa “para isto”, “para este fim específico” (ex.: perito ad hoc, nomeado para um caso), e não “sem intenção”; por isso A está errada. As demais estão corretas: ab irato (em estado de ira), ad argumentandum tantum (só para argumentar), ad auctoritatem (argumento de autoridade) e ad cautelam (por precaução).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mprj-2025-ana-27",
+  "disciplina": "portugues",
+  "assunto": "pt-semantica",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-RJ",
+   "ano": 2025,
+   "cargo": "Analista do Ministério Público – Área Administrativa",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-do-ministerio-publico-area-administrativacns101-tipo-1.pdf"
+  },
+  "enunciado": "As opções a seguir apresentam ditados cujos significados são fornecidos a seguir.\nAssinale a opção em que esse significado está indicado corretamente.",
+  "alternativas": [
+   "Mais vale um pássaro na mão que dois voando / é indispensável proteger os bens naturais do que os bens materiais.",
+   "Ninguém pode argumentar com a ignorância da lei / Todas as leis são conhecidas por todos.",
+   "A grama do quintal do vizinho está sempre mais verde / A inveja comanda as nossas reações.",
+   "Mais vale um gosto que três vinténs / conselho de economia doméstica.",
+   "Não deixes para amanhã o que podes fazer hoje / conselho a ser rápido na execução das tarefas, antes que outros o façam."
+  ],
+  "gabarito": 2,
+  "comentario": "“A grama do vizinho está sempre mais verde” expressa a tendência a invejar o que é do outro, achando-o melhor do que o nosso (C). A trata de preferir o certo ao incerto; B significa que ninguém pode alegar desconhecer a lei, não que todos as conheçam; D significa que o prazer vale mais que o dinheiro; E aconselha não procrastinar, sem ideia de concorrência.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mprj-2025-ana-28",
+  "disciplina": "portugues",
+  "assunto": "pt-semantica",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-RJ",
+   "ano": 2025,
+   "cargo": "Analista do Ministério Público – Área Administrativa",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-do-ministerio-publico-area-administrativacns101-tipo-1.pdf"
+  },
+  "enunciado": "As frases abaixo utilizaram a linguagem figurada, em figuras diversas.\nAssinale a opção em que a figura utilizada está corretamente identificada.",
+  "alternativas": [
+   "Bebeu um copo de vinho / metonímia, com a indicação do continente pelo conteúdo.",
+   "A Inglaterra é um navio / metáfora por comparação formal.",
+   "O problema terrível de nada ter a fazer / a antítese entre termos.",
+   "Ele é candidato a Brasília / metonímia, com a indicação da função e não do local.",
+   "Vocês estão dizendo adeus a estes muros que vocês vão deixar / sinédoque, ou seja, o todo pela parte."
+  ],
+  "gabarito": 0,
+  "comentario": "Em “bebeu um copo de vinho”, bebe-se o conteúdo, não o copo: metonímia do continente pelo conteúdo (A). Em B a metáfora não é por comparação formal (não há “como”); em C não há antítese; em D, “Brasília” indica o cargo pelo local (metonímia), e não o contrário; em E, “muros” representa a escola/instituição (parte pelo todo), não o todo pela parte.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mprj-2025-ana-29",
+  "disciplina": "portugues",
+  "assunto": "pt-reescrita",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-RJ",
+   "ano": 2025,
+   "cargo": "Analista do Ministério Público – Área Administrativa",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-do-ministerio-publico-area-administrativacns101-tipo-1.pdf"
+  },
+  "enunciado": "Em todas as frases abaixo foi retirada a palavra “porque”, sendo substituída por construção de mesmo sentido.\nAssinale a frase em que essa substituição traz modificação de sentido.",
+  "alternativas": [
+   "O torcedor foi expulso porque assim quis a torcida / o torcedor foi expulso por protesto da torcida.",
+   "Emprestei-lhe o carro porque confiava nela / emprestei-lhe o carro em confiança.",
+   "Venci porque muitas pessoas me ajudaram / venci graças ao auxílio de muitas pessoas.",
+   "Deixou o palco porque muitas pessoas o vaiavam / deixou o palco pela vaia de muitas pessoas.",
+   "Deixei de viajar porque não tinha dinheiro / deixei de viajar em função de problemas financeiros."
+  ],
+  "gabarito": 0,
+  "comentario": "Em A, “porque assim quis a torcida” indica a vontade da torcida, enquanto “por protesto da torcida” indica um protesto, ideia que não estava no original: há mudança de sentido. Nas demais, as construções equivalem à causa original (confiança, auxílio de pessoas, vaia, falta de dinheiro = problemas financeiros).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mprj-2025-ana-30",
+  "disciplina": "portugues",
+  "assunto": "pt-semantica",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-RJ",
+   "ano": 2025,
+   "cargo": "Analista do Ministério Público – Área Administrativa",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-do-ministerio-publico-area-administrativacns101-tipo-1.pdf"
+  },
+  "enunciado": "Assinale o caso que exemplifica um caso de redundância desnecessária.",
+  "alternativas": [
+   "Cada deputado terá direito a um ingresso para a festa.",
+   "Os funcionários poderão levar as famílias à festa.",
+   "Estará disponível um empréstimo temporário a todos os funcionários da empresa.",
+   "Os funcionários receberão um abono este mês.",
+   "A miséria é sinal de renda mal distribuída."
+  ],
+  "gabarito": 2,
+  "comentario": "Todo empréstimo é, por natureza, temporário (deve ser devolvido), de modo que “empréstimo temporário” é redundância desnecessária (C). As demais frases não repetem desnecessariamente a mesma ideia.",
+  "dificuldade": 1,
+  "anulada": false
+ }
+]

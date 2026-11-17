@@ -1,0 +1,263 @@
+[
+  {
+    "id": "aut-pt-semantica-001",
+    "disciplina": "portugues",
+    "assunto": "pt-semantica",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "texto": "Nunca estivemos tão perto uns dos outros e, ao mesmo tempo, tão sós. Nas grandes cidades, dividimos o elevador, o vagão do metrô e a fila da padaria com dezenas de desconhecidos, mas raramente trocamos mais que um aceno. O vizinho do apartamento ao lado é uma voz abafada atrás da parede, um cheiro de café às sete da manhã, um nome no interfone.\n\nA solidão urbana não é, necessariamente, falta de gente; é falta de vínculo. Pesquisadores distinguem o isolamento social, que pode ser medido pelo número de contatos, da solidão, que é a percepção dolorosa de que esses contatos não bastam. Há quem viva cercado de colegas e se sinta ilhado; há quem more sozinho e se sinta acompanhado.\n\nOs efeitos não são banais. Estudos associam a solidão crônica a maior risco de depressão, de doenças cardiovasculares e de declínio cognitivo. Por isso, alguns países passaram a tratar o tema como questão de saúde pública, criando programas que aproximam idosos, estudantes e voluntários.\n\nTalvez a cidade precise de mais praças do que de viadutos. Ou, no mínimo, de mais bancos onde alguém possa sentar-se ao lado de outro alguém — e, quem sabe, puxar conversa.",
+    "enunciado": "Em \"Há quem viva cercado de colegas e se sinta ilhado\", o vocábulo \"ilhado\" está empregado em sentido:",
+    "alternativas": [
+      "próprio, equivalente a \"cercado de água\".",
+      "figurado, equivalente a \"exausto\".",
+      "figurado, equivalente a \"isolado\".",
+      "próprio, equivalente a \"confinado em casa\".",
+      "figurado, equivalente a \"privilegiado\"."
+    ],
+    "gabarito": 2,
+    "comentario": "No sentido próprio, 'ilhado' é quem está cercado de água; no texto, a palavra é usada figuradamente para quem se sente isolado, sem vínculos, mesmo entre colegas. 'Confinado em casa' não é o sentido próprio da palavra, e 'exausto' e 'privilegiado' não correspondem ao contexto de solidão.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-semantica-002",
+    "disciplina": "portugues",
+    "assunto": "pt-semantica",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "texto": "Nunca estivemos tão perto uns dos outros e, ao mesmo tempo, tão sós. Nas grandes cidades, dividimos o elevador, o vagão do metrô e a fila da padaria com dezenas de desconhecidos, mas raramente trocamos mais que um aceno. O vizinho do apartamento ao lado é uma voz abafada atrás da parede, um cheiro de café às sete da manhã, um nome no interfone.\n\nA solidão urbana não é, necessariamente, falta de gente; é falta de vínculo. Pesquisadores distinguem o isolamento social, que pode ser medido pelo número de contatos, da solidão, que é a percepção dolorosa de que esses contatos não bastam. Há quem viva cercado de colegas e se sinta ilhado; há quem more sozinho e se sinta acompanhado.\n\nOs efeitos não são banais. Estudos associam a solidão crônica a maior risco de depressão, de doenças cardiovasculares e de declínio cognitivo. Por isso, alguns países passaram a tratar o tema como questão de saúde pública, criando programas que aproximam idosos, estudantes e voluntários.\n\nTalvez a cidade precise de mais praças do que de viadutos. Ou, no mínimo, de mais bancos onde alguém possa sentar-se ao lado de outro alguém — e, quem sabe, puxar conversa.",
+    "enunciado": "No período \"Nunca estivemos tão perto uns dos outros e, ao mesmo tempo, tão sós\", a figura de linguagem predominante, baseada na aproximação de ideias opostas, é a:",
+    "alternativas": [
+      "antítese",
+      "metonímia",
+      "hipérbole",
+      "eufemismo",
+      "pleonasmo"
+    ],
+    "gabarito": 0,
+    "comentario": "A antítese aproxima termos ou ideias de sentido oposto — aqui, a proximidade física ('tão perto') e a solidão ('tão sós'). A metonímia troca um termo por outro com que mantém relação de contiguidade; a hipérbole exagera; o eufemismo suaviza; o pleonasmo repete uma ideia já expressa.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-semantica-003",
+    "disciplina": "portugues",
+    "assunto": "pt-semantica",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Assinale o par em que o primeiro termo é hiperônimo do segundo.",
+    "alternativas": [
+      "saudade — sentimento",
+      "rosa — flor",
+      "medo — pavor",
+      "cão — animal",
+      "sentimento — saudade"
+    ],
+    "gabarito": 4,
+    "comentario": "Hiperônimo é o termo de sentido mais geral que abrange outro mais específico (o hipônimo): 'sentimento' abrange 'saudade'. Em 'saudade — sentimento', 'rosa — flor' e 'cão — animal', a ordem está invertida (hipônimo antes do hiperônimo). 'Medo' e 'pavor' são termos de sentido próximo, com diferença de intensidade, sem relação de inclusão.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-semantica-004",
+    "disciplina": "portugues",
+    "assunto": "pt-semantica",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Assinale a opção que preenche corretamente as lacunas da frase:\n\n\"O risco de recaída era ________, e a equipe agiu com ________ para preservar o sigilo da paciente.\"",
+    "alternativas": [
+      "eminente — discrição",
+      "iminente — discrição",
+      "iminente — descrição",
+      "eminente — descrição",
+      "imanente — descrição"
+    ],
+    "gabarito": 1,
+    "comentario": "'Iminente' significa 'prestes a acontecer' (e 'eminente', 'elevado, notável'); 'discrição' significa 'reserva, sigilo' (e 'descrição', 'ato de descrever'). São parônimos: palavras parecidas na forma e na pronúncia, mas de sentidos distintos. 'Imanente' (inerente) também não cabe no contexto.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-semantica-005",
+    "disciplina": "portugues",
+    "assunto": "pt-semantica",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Assinale a frase que apresenta ambiguidade.",
+    "alternativas": [
+      "Os estudantes visitaram os idosos na sexta-feira.",
+      "Maria pediu a João que fechasse a janela.",
+      "O voluntário levou flores ao asilo do bairro.",
+      "O síndico avisou o morador de que seu carro seria guinchado.",
+      "A psicóloga cancelou a sessão de terça-feira."
+    ],
+    "gabarito": 3,
+    "comentario": "Em 'seu carro', o possessivo pode referir-se ao síndico ou ao morador, o que gera duplo sentido; uma reescrita como 'o carro do morador' desfaria a ambiguidade. Nas demais frases, os referentes são claros: em 'Maria pediu a João que fechasse', entende-se que João é quem deve fechar a janela.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-semantica-006",
+    "disciplina": "portugues",
+    "assunto": "pt-semantica",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "texto": "Nunca estivemos tão perto uns dos outros e, ao mesmo tempo, tão sós. Nas grandes cidades, dividimos o elevador, o vagão do metrô e a fila da padaria com dezenas de desconhecidos, mas raramente trocamos mais que um aceno. O vizinho do apartamento ao lado é uma voz abafada atrás da parede, um cheiro de café às sete da manhã, um nome no interfone.\n\nA solidão urbana não é, necessariamente, falta de gente; é falta de vínculo. Pesquisadores distinguem o isolamento social, que pode ser medido pelo número de contatos, da solidão, que é a percepção dolorosa de que esses contatos não bastam. Há quem viva cercado de colegas e se sinta ilhado; há quem more sozinho e se sinta acompanhado.\n\nOs efeitos não são banais. Estudos associam a solidão crônica a maior risco de depressão, de doenças cardiovasculares e de declínio cognitivo. Por isso, alguns países passaram a tratar o tema como questão de saúde pública, criando programas que aproximam idosos, estudantes e voluntários.\n\nTalvez a cidade precise de mais praças do que de viadutos. Ou, no mínimo, de mais bancos onde alguém possa sentar-se ao lado de outro alguém — e, quem sabe, puxar conversa.",
+    "enunciado": "No trecho \"a percepção dolorosa de que esses contatos não bastam\", o verbo \"bastar\" pode ser substituído, sem alteração de sentido, por:",
+    "alternativas": [
+      "ser suficiente",
+      "sobrar",
+      "agradar",
+      "durar",
+      "convir"
+    ],
+    "gabarito": 0,
+    "comentario": "'Bastar' significa 'ser suficiente': os contatos não são suficientes para afastar a solidão. 'Sobrar' indica excesso, o oposto; 'agradar', 'durar' e 'convir' introduzem sentidos que o texto não expressa.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-semantica-007",
+    "disciplina": "portugues",
+    "assunto": "pt-semantica",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "texto": "Nunca estivemos tão perto uns dos outros e, ao mesmo tempo, tão sós. Nas grandes cidades, dividimos o elevador, o vagão do metrô e a fila da padaria com dezenas de desconhecidos, mas raramente trocamos mais que um aceno. O vizinho do apartamento ao lado é uma voz abafada atrás da parede, um cheiro de café às sete da manhã, um nome no interfone.\n\nA solidão urbana não é, necessariamente, falta de gente; é falta de vínculo. Pesquisadores distinguem o isolamento social, que pode ser medido pelo número de contatos, da solidão, que é a percepção dolorosa de que esses contatos não bastam. Há quem viva cercado de colegas e se sinta ilhado; há quem more sozinho e se sinta acompanhado.\n\nOs efeitos não são banais. Estudos associam a solidão crônica a maior risco de depressão, de doenças cardiovasculares e de declínio cognitivo. Por isso, alguns países passaram a tratar o tema como questão de saúde pública, criando programas que aproximam idosos, estudantes e voluntários.\n\nTalvez a cidade precise de mais praças do que de viadutos. Ou, no mínimo, de mais bancos onde alguém possa sentar-se ao lado de outro alguém — e, quem sabe, puxar conversa.",
+    "enunciado": "A frase \"Os efeitos não são banais\" (3º parágrafo) equivale, quanto ao sentido, a:",
+    "alternativas": [
+      "Os efeitos são significativos.",
+      "Os efeitos são raros.",
+      "Os efeitos são previsíveis.",
+      "Os efeitos são recentes.",
+      "Os efeitos são inofensivos."
+    ],
+    "gabarito": 0,
+    "comentario": "A negação de um termo para afirmar o seu contrário caracteriza a litotes: 'não são banais' significa que são relevantes, graves — o que é confirmado pelos riscos citados em seguida. Raridade, previsibilidade e novidade não se relacionam a 'banal', e 'inofensivos' contradiz o sentido do trecho.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-semantica-008",
+    "disciplina": "portugues",
+    "assunto": "pt-semantica",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "texto": "Nunca estivemos tão perto uns dos outros e, ao mesmo tempo, tão sós. Nas grandes cidades, dividimos o elevador, o vagão do metrô e a fila da padaria com dezenas de desconhecidos, mas raramente trocamos mais que um aceno. O vizinho do apartamento ao lado é uma voz abafada atrás da parede, um cheiro de café às sete da manhã, um nome no interfone.\n\nA solidão urbana não é, necessariamente, falta de gente; é falta de vínculo. Pesquisadores distinguem o isolamento social, que pode ser medido pelo número de contatos, da solidão, que é a percepção dolorosa de que esses contatos não bastam. Há quem viva cercado de colegas e se sinta ilhado; há quem more sozinho e se sinta acompanhado.\n\nOs efeitos não são banais. Estudos associam a solidão crônica a maior risco de depressão, de doenças cardiovasculares e de declínio cognitivo. Por isso, alguns países passaram a tratar o tema como questão de saúde pública, criando programas que aproximam idosos, estudantes e voluntários.\n\nTalvez a cidade precise de mais praças do que de viadutos. Ou, no mínimo, de mais bancos onde alguém possa sentar-se ao lado de outro alguém — e, quem sabe, puxar conversa.",
+    "enunciado": "A palavra \"crônica\", em \"solidão crônica\", tem o mesmo sentido que em:",
+    "alternativas": [
+      "Li uma crônica de Rubem Braga no jornal.",
+      "A crônica esportiva comentou a partida.",
+      "Ele sofre de uma dor crônica no joelho.",
+      "As crônicas medievais registravam os feitos dos reis.",
+      "Ela escreveu uma crônica sobre o carnaval."
+    ],
+    "gabarito": 2,
+    "comentario": "No texto, 'crônica' é adjetivo e significa 'de longa duração, persistente', como em 'dor crônica'. Nas demais frases, 'crônica' é substantivo e designa gênero textual ou narrativa histórica. O caso ilustra a polissemia: uma mesma forma com sentidos relacionados, mas distintos.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-semantica-009",
+    "disciplina": "portugues",
+    "assunto": "pt-semantica",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "texto": "Nunca estivemos tão perto uns dos outros e, ao mesmo tempo, tão sós. Nas grandes cidades, dividimos o elevador, o vagão do metrô e a fila da padaria com dezenas de desconhecidos, mas raramente trocamos mais que um aceno. O vizinho do apartamento ao lado é uma voz abafada atrás da parede, um cheiro de café às sete da manhã, um nome no interfone.\n\nA solidão urbana não é, necessariamente, falta de gente; é falta de vínculo. Pesquisadores distinguem o isolamento social, que pode ser medido pelo número de contatos, da solidão, que é a percepção dolorosa de que esses contatos não bastam. Há quem viva cercado de colegas e se sinta ilhado; há quem more sozinho e se sinta acompanhado.\n\nOs efeitos não são banais. Estudos associam a solidão crônica a maior risco de depressão, de doenças cardiovasculares e de declínio cognitivo. Por isso, alguns países passaram a tratar o tema como questão de saúde pública, criando programas que aproximam idosos, estudantes e voluntários.\n\nTalvez a cidade precise de mais praças do que de viadutos. Ou, no mínimo, de mais bancos onde alguém possa sentar-se ao lado de outro alguém — e, quem sabe, puxar conversa.",
+    "enunciado": "Em \"Talvez a cidade precise de mais praças do que de viadutos\", os vocábulos \"praças\" e \"viadutos\" representam, no contexto, respectivamente:",
+    "alternativas": [
+      "espaços de lazer infantil e espaços de comércio.",
+      "obras baratas e obras caras.",
+      "espaços públicos e espaços privados.",
+      "áreas verdes e áreas de risco.",
+      "espaços de convivência e espaços de passagem."
+    ],
+    "gabarito": 4,
+    "comentario": "O texto opõe simbolicamente a praça, lugar onde as pessoas se encontram e podem conversar, ao viaduto, estrutura feita para circular e atravessar a cidade com rapidez. A leitura é confirmada pela menção a bancos onde se pode 'puxar conversa'. O texto não trata de custos, comércio, propriedade ou áreas de risco.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-semantica-010",
+    "disciplina": "portugues",
+    "assunto": "pt-semantica",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "texto": "Nunca estivemos tão perto uns dos outros e, ao mesmo tempo, tão sós. Nas grandes cidades, dividimos o elevador, o vagão do metrô e a fila da padaria com dezenas de desconhecidos, mas raramente trocamos mais que um aceno. O vizinho do apartamento ao lado é uma voz abafada atrás da parede, um cheiro de café às sete da manhã, um nome no interfone.\n\nA solidão urbana não é, necessariamente, falta de gente; é falta de vínculo. Pesquisadores distinguem o isolamento social, que pode ser medido pelo número de contatos, da solidão, que é a percepção dolorosa de que esses contatos não bastam. Há quem viva cercado de colegas e se sinta ilhado; há quem more sozinho e se sinta acompanhado.\n\nOs efeitos não são banais. Estudos associam a solidão crônica a maior risco de depressão, de doenças cardiovasculares e de declínio cognitivo. Por isso, alguns países passaram a tratar o tema como questão de saúde pública, criando programas que aproximam idosos, estudantes e voluntários.\n\nTalvez a cidade precise de mais praças do que de viadutos. Ou, no mínimo, de mais bancos onde alguém possa sentar-se ao lado de outro alguém — e, quem sabe, puxar conversa.",
+    "enunciado": "Em \"O vizinho do apartamento ao lado é uma voz abafada atrás da parede\", um antônimo adequado para \"abafada\", no contexto, é:",
+    "alternativas": [
+      "sufocada",
+      "baixa",
+      "rouca",
+      "nítida",
+      "contida"
+    ],
+    "gabarito": 3,
+    "comentario": "No contexto, 'abafada' significa 'pouco audível, surda, amortecida'; seu antônimo é 'nítida', 'clara'. 'Sufocada' e 'contida' são sinônimos aproximados; 'baixa' tem sentido próximo; e 'rouca' descreve outra qualidade da voz.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-semantica-011",
+    "disciplina": "portugues",
+    "assunto": "pt-semantica",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "texto": "Nunca estivemos tão perto uns dos outros e, ao mesmo tempo, tão sós. Nas grandes cidades, dividimos o elevador, o vagão do metrô e a fila da padaria com dezenas de desconhecidos, mas raramente trocamos mais que um aceno. O vizinho do apartamento ao lado é uma voz abafada atrás da parede, um cheiro de café às sete da manhã, um nome no interfone.\n\nA solidão urbana não é, necessariamente, falta de gente; é falta de vínculo. Pesquisadores distinguem o isolamento social, que pode ser medido pelo número de contatos, da solidão, que é a percepção dolorosa de que esses contatos não bastam. Há quem viva cercado de colegas e se sinta ilhado; há quem more sozinho e se sinta acompanhado.\n\nOs efeitos não são banais. Estudos associam a solidão crônica a maior risco de depressão, de doenças cardiovasculares e de declínio cognitivo. Por isso, alguns países passaram a tratar o tema como questão de saúde pública, criando programas que aproximam idosos, estudantes e voluntários.\n\nTalvez a cidade precise de mais praças do que de viadutos. Ou, no mínimo, de mais bancos onde alguém possa sentar-se ao lado de outro alguém — e, quem sabe, puxar conversa.",
+    "enunciado": "A expressão \"puxar conversa\" (último parágrafo) significa:",
+    "alternativas": [
+      "encerrar uma conversa de forma brusca.",
+      "tomar a iniciativa de começar um diálogo.",
+      "insistir em um assunto desagradável.",
+      "prolongar uma conversa além do necessário.",
+      "interromper a fala de outra pessoa."
+    ],
+    "gabarito": 1,
+    "comentario": "'Puxar conversa' é expressão idiomática, de sentido figurado, que significa iniciar um diálogo, geralmente com alguém pouco conhecido. O verbo 'puxar' não está em sentido próprio (arrastar). Encerrar, insistir, prolongar ou interromper não correspondem ao uso da expressão.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-semantica-012",
+    "disciplina": "portugues",
+    "assunto": "pt-semantica",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "texto": "Nunca estivemos tão perto uns dos outros e, ao mesmo tempo, tão sós. Nas grandes cidades, dividimos o elevador, o vagão do metrô e a fila da padaria com dezenas de desconhecidos, mas raramente trocamos mais que um aceno. O vizinho do apartamento ao lado é uma voz abafada atrás da parede, um cheiro de café às sete da manhã, um nome no interfone.\n\nA solidão urbana não é, necessariamente, falta de gente; é falta de vínculo. Pesquisadores distinguem o isolamento social, que pode ser medido pelo número de contatos, da solidão, que é a percepção dolorosa de que esses contatos não bastam. Há quem viva cercado de colegas e se sinta ilhado; há quem more sozinho e se sinta acompanhado.\n\nOs efeitos não são banais. Estudos associam a solidão crônica a maior risco de depressão, de doenças cardiovasculares e de declínio cognitivo. Por isso, alguns países passaram a tratar o tema como questão de saúde pública, criando programas que aproximam idosos, estudantes e voluntários.\n\nTalvez a cidade precise de mais praças do que de viadutos. Ou, no mínimo, de mais bancos onde alguém possa sentar-se ao lado de outro alguém — e, quem sabe, puxar conversa.",
+    "enunciado": "Em \"Há quem viva cercado de colegas\", o verbo \"haver\" tem o sentido de:",
+    "alternativas": [
+      "possuir",
+      "decorrer (tempo)",
+      "realizar-se",
+      "existir",
+      "dever"
+    ],
+    "gabarito": 3,
+    "comentario": "Em 'Há quem viva', 'haver' é impessoal e equivale a 'existir' ('existe quem viva'). Com o sentido de 'decorrer', aparece em indicações de tempo ('há anos'); como 'realizar-se', em 'houve uma reunião'; e com valor próximo de 'dever', na locução 'haver de'. 'Possuir' não é sentido de 'haver' nesse contexto.",
+    "dificuldade": 2,
+    "anulada": false
+  }
+]

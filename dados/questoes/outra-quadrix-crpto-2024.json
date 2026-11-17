@@ -1,0 +1,314 @@
+[
+ {
+  "id": "outra-quadrix-crpto-2024-23",
+  "disciplina": "legislacao",
+  "assunto": "leg-lei5766",
+  "origem": {
+   "tipo": "outra",
+   "banca": "Quadrix",
+   "orgao": "CRP-TO (23ª Região)",
+   "ano": 2024,
+   "cargo": "Psicóloga(o) Analista em Orientação e Ética / em Orientação e Fiscalização (prova idêntica)",
+   "fonte": "https://anexos.cdn.selecao.net.br/uploads/861/concursos/1081/anexos/d8eb22c7-966c-4666-bc58-b932b8b74147.zip",
+   "fonte_gabarito": "https://arquivos.qconcursos.com/prova/arquivo_gabarito/117134/quadrix-2024-crp-23-regiao-to-assistente-administrativo-gabarito.pdf"
+  },
+  "enunciado": "Os membros do Conselho Regional de Psicologia 23ª Região são eleitos por maioria de votos, em escrutínio secreto, dos profissionais inscritos na respectiva área e jurisdição. Com base nessa informação, assinale a alternativa que apresenta o período do mandato do conselheiro regional.",
+  "alternativas": [
+   "1 ano",
+   "2 anos",
+   "3 anos",
+   "5 anos",
+   "10 anos"
+  ],
+  "gabarito": 2,
+  "comentario": "Alternativa C. O mandato dos conselheiros (federais e regionais) é de três anos, permitida uma reeleição, conforme a Lei 5.766/71 e os regimentos dos CRPs. As demais alternativas não têm base normativa.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "outra-quadrix-crpto-2024-36",
+  "disciplina": "especificos",
+  "assunto": "esp-direitos-humanos",
+  "origem": {
+   "tipo": "outra",
+   "banca": "Quadrix",
+   "orgao": "CRP-TO (23ª Região)",
+   "ano": 2024,
+   "cargo": "Psicóloga(o) Analista em Orientação e Ética / em Orientação e Fiscalização (prova idêntica)",
+   "fonte": "https://anexos.cdn.selecao.net.br/uploads/861/concursos/1081/anexos/d8eb22c7-966c-4666-bc58-b932b8b74147.zip",
+   "fonte_gabarito": "https://arquivos.qconcursos.com/prova/arquivo_gabarito/117134/quadrix-2024-crp-23-regiao-to-assistente-administrativo-gabarito.pdf"
+  },
+  "enunciado": "A Declaração Universal dos Direitos Humanos, adotada e proclamada pela Assembleia Geral das Nações Unidas, tem como objetivo",
+  "alternativas": [
+   "promover a hegemonia de um único país sobre os demais no cenário internacional.",
+   "instituir um sistema de governo mundial único e centralizado.",
+   "estabelecer regras estritas para a censura de meios de comunicação em massa.",
+   "reforçar o uso da força militar para resolver conflitos internacionais.",
+   "promover o respeito aos direitos e às liberdades por meio da educação, e assegurar seu reconhecimento e observância universais por meio de medidas nacionais e internacionais progressivas."
+  ],
+  "gabarito": 4,
+  "comentario": "Alternativa E. É o texto do preâmbulo/proclamação da DUDH: promover, pelo ensino e pela educação, o respeito aos direitos e liberdades e assegurar, por medidas progressivas nacionais e internacionais, seu reconhecimento e observância universais. As demais contrariam os próprios valores da Declaração (igualdade entre nações, liberdade de expressão, paz).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "outra-quadrix-crpto-2024-37",
+  "disciplina": "especificos",
+  "assunto": "esp-direitos-humanos",
+  "origem": {
+   "tipo": "outra",
+   "banca": "Quadrix",
+   "orgao": "CRP-TO (23ª Região)",
+   "ano": 2024,
+   "cargo": "Psicóloga(o) Analista em Orientação e Ética / em Orientação e Fiscalização (prova idêntica)",
+   "fonte": "https://anexos.cdn.selecao.net.br/uploads/861/concursos/1081/anexos/d8eb22c7-966c-4666-bc58-b932b8b74147.zip",
+   "fonte_gabarito": "https://arquivos.qconcursos.com/prova/arquivo_gabarito/117134/quadrix-2024-crp-23-regiao-to-assistente-administrativo-gabarito.pdf"
+  },
+  "enunciado": "De acordo com a Declaração Universal dos Direitos Humanos, todos os seres humanos nascem livres e iguais em dignidade e direitos. Esse princípio é afirmado no artigo",
+  "alternativas": [
+   "1.",
+   "4.",
+   "6.",
+   "9.",
+   "30."
+  ],
+  "gabarito": 0,
+  "comentario": "Alternativa A. O art. 1º da DUDH abre a Declaração com a liberdade e a igualdade em dignidade e direitos. O art. 4º proíbe a escravidão, o 6º trata do reconhecimento como pessoa perante a lei, o 9º veda prisão arbitrária e o 30 impede interpretar a Declaração para destruir direitos.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "outra-quadrix-crpto-2024-38",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "outra",
+   "banca": "Quadrix",
+   "orgao": "CRP-TO (23ª Região)",
+   "ano": 2024,
+   "cargo": "Psicóloga(o) Analista em Orientação e Ética / em Orientação e Fiscalização (prova idêntica)",
+   "fonte": "https://anexos.cdn.selecao.net.br/uploads/861/concursos/1081/anexos/d8eb22c7-966c-4666-bc58-b932b8b74147.zip",
+   "fonte_gabarito": "https://arquivos.qconcursos.com/prova/arquivo_gabarito/117134/quadrix-2024-crp-23-regiao-to-assistente-administrativo-gabarito.pdf"
+  },
+  "enunciado": "O psicólogo clínico atua especificamente na área da saúde, contribuindo para a compreensão dos processos intra e interpessoais. O trabalho desse profissional pode ter um enfoque preventivo ou curativo, e ele pode atuar de forma isolada ou em equipe multiprofissional em instituições formais e informais. Com base nessas informações, assinale a alternativa que apresenta uma das responsabilidades do psicólogo clínico.",
+  "alternativas": [
+   "desenvolver, na esfera de sua competência, estudos e projetos de educação de trânsito",
+   "supervisionar, orientar e executar trabalhos na área de psicologia educacional",
+   "criar, coordenar e acompanhar, individualmente ou em equipe multiprofissional, tecnologias próprias ao treinamento em saúde, particularmente em saúde mental, com o objetivo de qualificar o desempenho de várias equipes",
+   "colaborar na formulação e na implantação das políticas de cidadania e direitos humanos",
+   "realizar atendimento psicológico por meio de trabalho acessível e comprometido com a busca de decisões próprias na organização familiar dos que recorrem às varas de família para a resolução de questões"
+  ],
+  "gabarito": 2,
+  "comentario": "Alternativa C. A descrição de atribuições do psicólogo clínico (catálogo de atribuições do CFP) inclui criar, coordenar e acompanhar tecnologias de treinamento em saúde, sobretudo em saúde mental. A é atribuição do psicólogo do trânsito, a B do escolar/educacional, a D do psicólogo social e a E do psicólogo jurídico.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "outra-quadrix-crpto-2024-39",
+  "disciplina": "especificos",
+  "assunto": "esp-trabalho",
+  "origem": {
+   "tipo": "outra",
+   "banca": "Quadrix",
+   "orgao": "CRP-TO (23ª Região)",
+   "ano": 2024,
+   "cargo": "Psicóloga(o) Analista em Orientação e Ética / em Orientação e Fiscalização (prova idêntica)",
+   "fonte": "https://anexos.cdn.selecao.net.br/uploads/861/concursos/1081/anexos/d8eb22c7-966c-4666-bc58-b932b8b74147.zip",
+   "fonte_gabarito": "https://arquivos.qconcursos.com/prova/arquivo_gabarito/117134/quadrix-2024-crp-23-regiao-to-assistente-administrativo-gabarito.pdf"
+  },
+  "enunciado": "O psicólogo do trabalho atua sozinho ou em equipe multiprofissional em diversas organizações, aplicando conhecimentos de psicologia para entender, intervir e desenvolver relações, considerando as dimensões política, econômica, social e cultural. Com base no contexto organizacional, assinale a alternativa que apresenta uma responsabilidade do psicólogo do trabalho.",
+  "alternativas": [
+   "promover estudos para a identificação das necessidades humanas diante da construção de projetos e de equipamentos de trabalho (ergonomia)",
+   "fornecer consultoria jurídica ou representação legal em questões corporativas",
+   "gerenciar aspectos financeiros ou contábeis da organização",
+   "realizar pesquisas visando à construção e à ampliação do conhecimento teórico e aplicado, no campo da saúde mental",
+   "implementar políticas de segurança ocupacional e gestão de riscos, sem análise psicossocial"
+  ],
+  "gabarito": 0,
+  "comentario": "Alternativa A. Estudos de ergonomia, que identificam necessidades humanas na concepção de projetos e equipamentos de trabalho, estão entre as atribuições do psicólogo do trabalho. B e C são de outras profissões; D descreve atribuição ligada ao psicólogo clínico/pesquisador em saúde mental; E contraria a própria lógica psicossocial da atuação.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "outra-quadrix-crpto-2024-40",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "outra",
+   "banca": "Quadrix",
+   "orgao": "CRP-TO (23ª Região)",
+   "ano": 2024,
+   "cargo": "Psicóloga(o) Analista em Orientação e Ética / em Orientação e Fiscalização (prova idêntica)",
+   "fonte": "https://anexos.cdn.selecao.net.br/uploads/861/concursos/1081/anexos/d8eb22c7-966c-4666-bc58-b932b8b74147.zip",
+   "fonte_gabarito": "https://arquivos.qconcursos.com/prova/arquivo_gabarito/117134/quadrix-2024-crp-23-regiao-to-assistente-administrativo-gabarito.pdf"
+  },
+  "enunciado": "O papel principal do Centro de Referências Técnicas em Psicologia e Políticas Públicas (CREPOP) é",
+  "alternativas": [
+   "promover campanhas de marketing para profissionais de psicologia.",
+   "garantir a formação continuada e qualificação profissional de psicólogos que atuam em políticas públicas.",
+   "desenvolver tecnologias para diagnóstico clínico em psicologia.",
+   "publicar artigos acadêmicos sobre temas diversos da psicologia.",
+   "realizar diagnósticos psicológicos para a população em geral."
+  ],
+  "gabarito": 1,
+  "comentario": "Alternativa B. O CREPOP, do Sistema Conselhos, levanta as práticas e produz referências técnicas para qualificar a atuação de psicólogos nas políticas públicas. Ele não faz marketing, não desenvolve testes nem atende a população, e sua produção são referências técnicas, não artigos acadêmicos diversos.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "outra-quadrix-crpto-2024-41",
+  "disciplina": "especificos",
+  "assunto": "esp-trabalho",
+  "origem": {
+   "tipo": "outra",
+   "banca": "Quadrix",
+   "orgao": "CRP-TO (23ª Região)",
+   "ano": 2024,
+   "cargo": "Psicóloga(o) Analista em Orientação e Ética / em Orientação e Fiscalização (prova idêntica)",
+   "fonte": "https://anexos.cdn.selecao.net.br/uploads/861/concursos/1081/anexos/d8eb22c7-966c-4666-bc58-b932b8b74147.zip",
+   "fonte_gabarito": "https://arquivos.qconcursos.com/prova/arquivo_gabarito/117134/quadrix-2024-crp-23-regiao-to-assistente-administrativo-gabarito.pdf"
+  },
+  "enunciado": "Entre as diversas atribuições do psicólogo no contexto organizacional, uma delas é a utilização da avaliação de desempenho como ferramenta. Com base nessa informação, assinale a alternativa que apresenta o principal objetivo dessa avaliação.",
+  "alternativas": [
+   "promover o desenvolvimento profissional e pessoal dos funcionários, identificando os pontos fortes e as áreas de melhoria",
+   "promover e dar méritos aos funcionários",
+   "identificar os funcionários que devem ser demitidos",
+   "melhorar a comunicação interna da organização por meio de eventos sociais",
+   "implementar um sistema de recompensas fundamentado apenas no tempo de serviço dos funcionários"
+  ],
+  "gabarito": 0,
+  "comentario": "Alternativa A. A avaliação de desempenho visa sobretudo ao desenvolvimento, identificando potencialidades e pontos de melhoria e subsidiando feedback e capacitação. Promoção e desligamento podem ser efeitos secundários, mas não são o objetivo principal; eventos sociais e recompensa apenas por tempo de serviço nada têm a ver com avaliar desempenho.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "outra-quadrix-crpto-2024-42",
+  "disciplina": "especificos",
+  "assunto": "esp-trabalho",
+  "origem": {
+   "tipo": "outra",
+   "banca": "Quadrix",
+   "orgao": "CRP-TO (23ª Região)",
+   "ano": 2024,
+   "cargo": "Psicóloga(o) Analista em Orientação e Ética / em Orientação e Fiscalização (prova idêntica)",
+   "fonte": "https://anexos.cdn.selecao.net.br/uploads/861/concursos/1081/anexos/d8eb22c7-966c-4666-bc58-b932b8b74147.zip",
+   "fonte_gabarito": "https://arquivos.qconcursos.com/prova/arquivo_gabarito/117134/quadrix-2024-crp-23-regiao-to-assistente-administrativo-gabarito.pdf"
+  },
+  "enunciado": "Existem diversos estilos de avaliação de desempenho, que variam conforme a maturidade da empresa e suas necessidades específicas. Um método amplamente utilizado é a avaliação 360°. Acerca desse método, assinale a alternativa que descreve o estilo de avaliação 360°.",
+  "alternativas": [
+   "avaliação realizada, exclusivamente, pelo supervisor direto do funcionário",
+   "avaliação que utiliza apenas métricas de produtividade e resultados financeiros",
+   "avaliação que considera feedback de supervisores, colegas de trabalho, subordinados e autoavaliação do funcionário",
+   "avaliação fundamentada, exclusivamente, em testes padronizados de habilidades técnicas",
+   "avaliação realizada por meio de autoavaliação, ignorando o feedback de colegas e de subordinados"
+  ],
+  "gabarito": 2,
+  "comentario": "Alternativa C. Na avaliação 360°, o avaliado recebe feedback de todos ao seu redor (superiores, pares, subordinados e às vezes clientes), além da autoavaliação. A descreve a avaliação tradicional pela chefia (90°); B e D são métodos restritos; E é só autoavaliação.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "outra-quadrix-crpto-2024-44",
+  "disciplina": "legislacao",
+  "assunto": "leg-lei4119",
+  "origem": {
+   "tipo": "outra",
+   "banca": "Quadrix",
+   "orgao": "CRP-TO (23ª Região)",
+   "ano": 2024,
+   "cargo": "Psicóloga(o) Analista em Orientação e Ética / em Orientação e Fiscalização (prova idêntica)",
+   "fonte": "https://anexos.cdn.selecao.net.br/uploads/861/concursos/1081/anexos/d8eb22c7-966c-4666-bc58-b932b8b74147.zip",
+   "fonte_gabarito": "https://arquivos.qconcursos.com/prova/arquivo_gabarito/117134/quadrix-2024-crp-23-regiao-to-assistente-administrativo-gabarito.pdf"
+  },
+  "enunciado": "De acordo com o artigo 5º da Lei nº 4.119/1962, que dispõe sobre os cursos de formação em psicologia e regulamenta a profissão de psicólogo, assinale a alternativa que apresenta os requisitos básicos para o candidato à matrícula.",
+  "alternativas": [
+   "idade mínima de 18 anos, certificado de conclusão do 2º grau e aprovação em exames vestibulares",
+   "idade mínima de 18 anos e experiência profissional na área de saúde mental",
+   "idade mínima de 18 anos e aprovação em um curso técnico de psicologia",
+   "idade mínima de 21 anos e diploma de qualquer curso superior",
+   "idade mínima de 21 anos e aprovação em um curso preparatório de psicologia"
+  ],
+  "gabarito": 0,
+  "comentario": "Alternativa A. O art. 5º da Lei 4.119/62 exigia do candidato idade mínima de 18 anos, conclusão do curso secundário (2º grau) e aprovação em vestibular. A lei não pedia experiência, curso técnico, diploma superior nem curso preparatório, e a idade não era 21 anos.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "outra-quadrix-crpto-2024-45",
+  "disciplina": "legislacao",
+  "assunto": "leg-lei4119",
+  "origem": {
+   "tipo": "outra",
+   "banca": "Quadrix",
+   "orgao": "CRP-TO (23ª Região)",
+   "ano": 2024,
+   "cargo": "Psicóloga(o) Analista em Orientação e Ética / em Orientação e Fiscalização (prova idêntica)",
+   "fonte": "https://anexos.cdn.selecao.net.br/uploads/861/concursos/1081/anexos/d8eb22c7-966c-4666-bc58-b932b8b74147.zip",
+   "fonte_gabarito": "https://arquivos.qconcursos.com/prova/arquivo_gabarito/117134/quadrix-2024-crp-23-regiao-to-assistente-administrativo-gabarito.pdf"
+  },
+  "enunciado": "Para o exercício profissional do psicólogo, além de cumprir os requisitos de formação estabelecidos pela Lei nº 4.119/1962, é obrigatório o registro dos diplomas em um órgão competente, que garanta a legalidade e o reconhecimento da atuação profissional na área de Psicologia, denominado",
+  "alternativas": [
+   "Ministério da Saúde.",
+   "Ministério da Educação e Cultura.",
+   "Associação Brasileira de Psicologia.",
+   "Ministério do Trabalho.",
+   "Conselho Nacional de Desenvolvimento Científico e Tecnológico."
+  ],
+  "gabarito": 1,
+  "comentario": "Alternativa B. A Lei 4.119/62 exige o registro do diploma no órgão competente do Ministério da Educação e Cultura. Desde a Lei 5.766/71, além disso, é obrigatória a inscrição no CRP. As demais instituições não têm essa atribuição.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "outra-quadrix-crpto-2024-46",
+  "disciplina": "legislacao",
+  "assunto": "leg-lei4119",
+  "origem": {
+   "tipo": "outra",
+   "banca": "Quadrix",
+   "orgao": "CRP-TO (23ª Região)",
+   "ano": 2024,
+   "cargo": "Psicóloga(o) Analista em Orientação e Ética / em Orientação e Fiscalização (prova idêntica)",
+   "fonte": "https://anexos.cdn.selecao.net.br/uploads/861/concursos/1081/anexos/d8eb22c7-966c-4666-bc58-b932b8b74147.zip",
+   "fonte_gabarito": "https://arquivos.qconcursos.com/prova/arquivo_gabarito/117134/quadrix-2024-crp-23-regiao-to-assistente-administrativo-gabarito.pdf"
+  },
+  "enunciado": "De acordo com o Art. 4º da Lei nº 4.119/1962, as funções do psicólogo no uso de métodos e técnicas psicológicas são",
+  "alternativas": [
+   "diagnóstico psicológico, orientação e seleção profissional, orientação psicopedagógica e solução de problemas de ajustamento.",
+   "administração de medicamentos para o tratamento de transtornos mentais.",
+   "desenvolvimento de programas de exercícios físicos para a reabilitação.",
+   "realização de pesquisas científicas em laboratórios de biologia.",
+   "realização de cirurgias para a correção de problemas psicológicos."
+  ],
+  "gabarito": 0,
+  "comentario": "Alternativa A. A lista corresponde à função privativa do psicólogo descrita na Lei 4.119/62 (art. 13, § 1º; a prova cita o art. 4º): diagnóstico psicológico, orientação e seleção profissional, orientação psicopedagógica e solução de problemas de ajustamento. As demais são atos de outras profissões.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "outra-quadrix-crpto-2024-47",
+  "disciplina": "legislacao",
+  "assunto": "leg-res01-2019",
+  "origem": {
+   "tipo": "outra",
+   "banca": "Quadrix",
+   "orgao": "CRP-TO (23ª Região)",
+   "ano": 2024,
+   "cargo": "Psicóloga(o) Analista em Orientação e Ética / em Orientação e Fiscalização (prova idêntica)",
+   "fonte": "https://anexos.cdn.selecao.net.br/uploads/861/concursos/1081/anexos/d8eb22c7-966c-4666-bc58-b932b8b74147.zip",
+   "fonte_gabarito": "https://arquivos.qconcursos.com/prova/arquivo_gabarito/117134/quadrix-2024-crp-23-regiao-to-assistente-administrativo-gabarito.pdf"
+  },
+  "enunciado": "Conforme a resolução do Conselho Federal de Psicologia, que institui normas e procedimentos para a perícia psicológica no contexto do trânsito, assinale a alternativa que apresenta aspectos cognitivos que devem ser avaliados nos candidatos à carteira nacional de habilitação e condutores de veículos automotores.",
+  "alternativas": [
+   "aptidão física, força muscular e coordenação motora",
+   "conhecimento sobre leis de trânsito, regras de estacionamento e manutenção de veículos",
+   "atenção concentrada, atenção dividida, atenção alternada, memória visual e inteligência",
+   "habilidades de navegação, uso de GPS e planejamento de rotas",
+   "conhecimento sobre primeiros socorros, técnicas de resgate e atendimento a acidentes"
+  ],
+  "gabarito": 2,
+  "comentario": "Alternativa C. A Res. CFP 1/2019 (perícia psicológica no trânsito) prevê a avaliação de processos psicológicos como atenção (concentrada, dividida, alternada), memória e inteligência, além de traços de personalidade. Aptidão física é do exame médico; leis de trânsito e primeiros socorros são do exame teórico/curso; navegação por GPS não é critério.",
+  "dificuldade": 1,
+  "anulada": false
+ }
+]

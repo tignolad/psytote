@@ -1,0 +1,310 @@
+[
+  {
+    "id": "aut-leg-regimento-cfp-001",
+    "disciplina": "legislacao",
+    "assunto": "leg-regimento-cfp",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2000/12/resolucao2000_17.pdf"
+    },
+    "enunciado": "Segundo o Regimento Interno do Conselho Federal de Psicologia (Resolução CFP nº 17/2000), o CFP, juntamente com os Conselhos Regionais de Psicologia,",
+    "alternativas": [
+      "constitui uma confederação de entidades privadas, com personalidade jurídica de direito privado e isenção parcial de tributos.",
+      "constitui uma entidade única, com os mesmos objetivos, agindo por delegação do poder público e gozando de imunidade tributária total em relação a seus bens, rendas e serviços.",
+      "constitui entidades autônomas e independentes, sem relação hierárquica ou de unidade institucional.",
+      "integra a administração direta da União, subordinado ao Ministério da Saúde.",
+      "constitui uma entidade única, mas sujeita ao recolhimento de tributos sobre as anuidades arrecadadas."
+    ],
+    "gabarito": 1,
+    "comentario": "Art. 1º, § 1º, do Regimento Interno do CFP (aprovado pela Resolução CFP nº 17/2000): o CFP, juntamente com os CRPs, constitui uma entidade única, com os mesmos objetivos, agindo por delegação do poder público, mediante autorização legislativa, e, por constituírem serviço público, gozam de imunidade tributária total. O § 2º acrescenta que o CFP tem sede e foro no Distrito Federal e jurisdição nacional.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-regimento-cfp-002",
+    "disciplina": "legislacao",
+    "assunto": "leg-regimento-cfp",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2000/12/resolucao2000_17.pdf"
+    },
+    "enunciado": "De acordo com o Regimento Interno do Conselho Federal de Psicologia (Resolução CFP nº 17/2000), são órgãos do CFP:",
+    "alternativas": [
+      "Plenário, Diretoria, Secretarias, Assembleia das Políticas Administrativas e Financeiras e Congresso Nacional da Psicologia.",
+      "Plenário, Diretoria, Comissão de Ética, Comissão de Orientação e Fiscalização e Assembleia Geral.",
+      "Plenário, Presidência, Corregedoria, Ouvidoria e Assembleia dos Delegados Regionais.",
+      "Diretoria, Conselho Fiscal, Secretarias e Congresso Nacional da Psicologia, sendo o Plenário órgão consultivo.",
+      "Plenário, Diretoria, Comissões Permanentes, Subsedes e Congresso Regional de Psicologia."
+    ],
+    "gabarito": 0,
+    "comentario": "Art. 4º do Regimento Interno do CFP (aprovado pela Resolução CFP nº 17/2000): o CFP é composto por Plenário, Diretoria, Secretarias, APAF e Congresso Nacional da Psicologia; Grupos de Trabalho podem ser constituídos quando necessário. Comissões de Ética e de Orientação e Fiscalização, Subsedes e Congresso Regional são estruturas dos Conselhos Regionais; e o Plenário é o órgão deliberativo (art. 5º), não consultivo.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-regimento-cfp-003",
+    "disciplina": "legislacao",
+    "assunto": "leg-regimento-cfp",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2000/12/resolucao2000_17.pdf"
+    },
+    "enunciado": "Conforme o Regimento Interno do Conselho Federal de Psicologia (Resolução CFP nº 17/2000), a Diretoria do CFP, órgão responsável pela operacionalização de diretrizes e decisões do Plenário, é constituída de",
+    "alternativas": [
+      "Presidente, Vice-Presidente, Secretário-Geral e Tesoureiro, eleitos pela Assembleia dos Delegados Regionais para mandato de 3 anos.",
+      "Presidente, Vice-Presidente e Tesoureiro, eleitos pela APAF a cada 2 anos.",
+      "Presidente, Vice-Presidente, Secretário-Geral e Tesoureiro, eleitos pelo Plenário na primeira reunião ordinária de cada ano.",
+      "Presidente, Secretário de Orientação e Ética e Secretário de Comunicação, eleitos pelo Plenário.",
+      "Presidente e Vice-Presidente, eleitos diretamente pelos psicólogos inscritos, juntamente com os conselheiros."
+    ],
+    "gabarito": 2,
+    "comentario": "Art. 7º do Regimento Interno do CFP (aprovado pela Resolução CFP nº 17/2000): a Diretoria é constituída de Presidente, Vice-Presidente, Secretário-Geral e Tesoureiro, eleitos pelo Plenário na primeira reunião ordinária de cada ano, conforme o art. 39 do Decreto 79.822/77. As alternativas erram o órgão eleitor, a periodicidade ou a composição.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-regimento-cfp-004",
+    "disciplina": "legislacao",
+    "assunto": "leg-regimento-cfp",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2000/12/resolucao2000_17.pdf"
+    },
+    "enunciado": "Durante uma votação no Plenário do Conselho Federal de Psicologia, verificou-se empate. Segundo o Regimento Interno do CFP (Resolução CFP nº 17/2000), entre as atribuições do Presidente está a de",
+    "alternativas": [
+      "submeter a matéria empatada à Assembleia dos Delegados Regionais.",
+      "convocar um conselheiro suplente para desempatar a votação.",
+      "declarar rejeitada a proposta, pois o empate equivale à rejeição.",
+      "exercer o direito do voto de qualidade.",
+      "adiar a matéria para a reunião seguinte, vedado o voto do Presidente."
+    ],
+    "gabarito": 3,
+    "comentario": "Art. 9º, XVI, do Regimento Interno do CFP (aprovado pela Resolução CFP nº 17/2000): é atribuição do Presidente exercer o direito do voto de qualidade. Não há previsão de remessa à ADR, de convocação de suplente para desempate ou de rejeição automática por empate.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-regimento-cfp-005",
+    "disciplina": "legislacao",
+    "assunto": "leg-regimento-cfp",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2000/12/resolucao2000_17.pdf"
+    },
+    "enunciado": "Considere as atribuições abaixo, previstas no Regimento Interno do CFP (Resolução CFP nº 17/2000):\nI. Assinar, conjuntamente com o Tesoureiro, os cheques e demais documentos relativos à receita e às despesas do CFP.\nII. Subscrever os termos de posse e compromisso dos membros do CFP e expedir certidões.\nIII. Coordenar a elaboração da proposta orçamentária anual e dos balancetes mensais e balanços anuais.\nAs atribuições I, II e III cabem, respectivamente, ao",
+    "alternativas": [
+      "Presidente, Secretário-Geral e Tesoureiro.",
+      "Tesoureiro, Presidente e Secretário-Geral.",
+      "Presidente, Vice-Presidente e Secretário-Geral.",
+      "Secretário-Geral, Presidente e Tesoureiro.",
+      "Vice-Presidente, Secretário-Geral e Tesoureiro."
+    ],
+    "gabarito": 0,
+    "comentario": "No Regimento Interno do CFP (aprovado pela Resolução CFP nº 17/2000): o Presidente autoriza despesas e assina, com o Tesoureiro, cheques e documentos de receita e despesa (art. 9º, XII); o Secretário-Geral subscreve os termos de posse e expede certidões (art. 13, I e III); o Tesoureiro coordena a proposta orçamentária e os balancetes e balanços (art. 14, IV e VI).",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-regimento-cfp-006",
+    "disciplina": "legislacao",
+    "assunto": "leg-regimento-cfp",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2000/12/resolucao2000_17.pdf"
+    },
+    "enunciado": "Nos termos do Regimento Interno do CFP (Resolução CFP nº 17/2000), o Plenário do CFP reúne-se ordinariamente uma vez a cada mês. A reunião extraordinária",
+    "alternativas": [
+      "ocorre por iniciativa do Presidente ou por solicitação de, no mínimo, 1/3 dos Conselheiros Efetivos, convocada com antecedência mínima de 10 dias.",
+      "ocorre apenas por solicitação da APAF, convocada com antecedência mínima de 30 dias.",
+      "ocorre por iniciativa do Presidente ou por solicitação de, no mínimo, 2/3 dos Conselheiros Efetivos, com antecedência mínima de 15 dias e pauta livre.",
+      "ocorre por iniciativa do Presidente ou por solicitação de, no mínimo, 2/3 dos Conselheiros Efetivos, convocada com antecedência mínima de 20 dias, limitada a pauta à matéria que a motivou.",
+      "pode ser instalada sem a presença de membros da Diretoria, desde que haja quórum de maioria simples."
+    ],
+    "gabarito": 3,
+    "comentario": "Art. 35 do Regimento Interno do CFP (aprovado pela Resolução CFP nº 17/2000): a extraordinária ocorre por iniciativa do Presidente ou a pedido de no mínimo 2/3 dos Conselheiros Efetivos, com antecedência mínima de 20 dias, pauta limitada à matéria que a motivou; o prazo pode ser reduzido em caso de urgência, desde que comprovada a convocação de todos (§ 1º), e a reunião só se instala com pelo menos 1 membro da Diretoria (§ 2º). Atenção: no Regimento do CRP-RJ a antecedência é de 15 dias.",
+    "dificuldade": 3,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-regimento-cfp-007",
+    "disciplina": "legislacao",
+    "assunto": "leg-regimento-cfp",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2000/12/resolucao2000_17.pdf"
+    },
+    "enunciado": "Conforme o Regimento Interno do CFP (Resolução CFP nº 17/2000), os trabalhos nas sessões e reuniões do Plenário serão principiados com o quórum de, no mínimo,",
+    "alternativas": [
+      "3 conselheiros.",
+      "6 conselheiros.",
+      "5 conselheiros.",
+      "2/3 dos conselheiros efetivos.",
+      "todos os conselheiros efetivos, admitida a substituição por suplentes."
+    ],
+    "gabarito": 2,
+    "comentario": "Art. 54 do Regimento Interno do CFP (aprovado pela Resolução CFP nº 17/2000): os trabalhos serão principiados com o quórum de no mínimo 5 conselheiros — número que corresponde à maioria absoluta dos 9 conselheiros efetivos (art. 3º; Lei 5.766/71, art. 4º). Na falta de quórum, o Presidente adia a abertura, consignando o fato em ata (art. 55, parágrafo único).",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-regimento-cfp-008",
+    "disciplina": "legislacao",
+    "assunto": "leg-regimento-cfp",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2000/12/resolucao2000_17.pdf"
+    },
+    "enunciado": "Durante sessão plenária do Conselho Federal de Psicologia, três conselheiros solicitaram que determinada votação fosse secreta. Segundo o Regimento Interno do CFP (Resolução CFP nº 17/2000),",
+    "alternativas": [
+      "a votação será obrigatoriamente secreta, pois o pedido foi feito pelo número mínimo de conselheiros exigido.",
+      "a votação só será secreta se o pedido for aprovado por 2/3 do Plenário.",
+      "a votação será secreta apenas se o Presidente concordar, pois a decisão é discricionária.",
+      "o pedido é inválido, pois o voto secreto exige solicitação da maioria absoluta dos conselheiros.",
+      "a votação será sempre nominal, vedado o voto secreto nas deliberações do Plenário."
+    ],
+    "gabarito": 0,
+    "comentario": "Art. 63 do Regimento Interno do CFP (aprovado pela Resolução CFP nº 17/2000): a votação será obrigatoriamente secreta quando assim solicitado por um mínimo de 3 conselheiros. Não há necessidade de aprovação pelo Plenário ou pelo Presidente.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-regimento-cfp-009",
+    "disciplina": "legislacao",
+    "assunto": "leg-regimento-cfp",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2000/12/resolucao2000_17.pdf"
+    },
+    "enunciado": "Sobre o Congresso Nacional da Psicologia (CNP), o Regimento Interno do CFP (Resolução CFP nº 17/2000) dispõe que ele",
+    "alternativas": [
+      "é instância consultiva, subordinada à APAF, e ocorre anualmente.",
+      "é a instância máxima de deliberação, mas suas diretrizes valem apenas para o Conselho Federal, e ocorre a cada 2 anos.",
+      "é órgão eleitoral, responsável exclusivamente por eleger os membros do CFP, e ocorre a cada 3 anos.",
+      "é custeado integralmente pelos Conselhos Regionais, inclusive em sua etapa nacional.",
+      "é a instância máxima de deliberação, responsável por estabelecer as diretrizes para a atuação do CFP e dos CRPs no triênio subsequente, e ocorre a cada 3 anos."
+    ],
+    "gabarito": 4,
+    "comentario": "Art. 23 do Regimento Interno do CFP (aprovado pela Resolução CFP nº 17/2000): o CNP é a instância máxima de deliberação, define as diretrizes para CFP e CRPs no triênio subsequente e ocorre a cada 3 anos; a APAF é a instância deliberativa ABAIXO do CNP (art. 27). Pelo art. 26, o CNP é custeado pelo Conselho Federal, e os Congressos Regionais, pelos respectivos Regionais.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-regimento-cfp-010",
+    "disciplina": "legislacao",
+    "assunto": "leg-regimento-cfp",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2000/12/resolucao2000_17.pdf"
+    },
+    "enunciado": "Segundo o Regimento Interno do CFP (Resolução CFP nº 17/2000), NÃO constitui condição de elegibilidade para o Conselho Federal de Psicologia",
+    "alternativas": [
+      "a cidadania brasileira.",
+      "o pleno gozo dos direitos profissionais e civis.",
+      "não ter sofrido penalidade por infração ao Código de Ética Profissional.",
+      "não ter sido condenado criminalmente a pena superior a 2 anos, por sentença transitada em julgado, salvo reabilitação legal.",
+      "possuir título de especialista registrado em Conselho Regional."
+    ],
+    "gabarito": 4,
+    "comentario": "Art. 29 do Regimento Interno do CFP (aprovado pela Resolução CFP nº 17/2000): são condições de elegibilidade a cidadania brasileira; o pleno gozo dos direitos profissionais e civis; não ter condenação criminal superior a 2 anos transitada em julgado, salvo reabilitação; não ter sofrido penalidade ética; e não ser candidato em Regional nem ocupar cargo de Diretoria nos 3 meses anteriores ao pleito. Título de especialista não é exigido.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-regimento-cfp-011",
+    "disciplina": "legislacao",
+    "assunto": "leg-regimento-cfp",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2000/12/resolucao2000_17.pdf"
+    },
+    "enunciado": "Um processo submetido ao Plenário do CFP foi distribuído a um relator. Durante a discussão, uma conselheira pediu vista dos autos. De acordo com o Regimento Interno do CFP (Resolução CFP nº 17/2000),",
+    "alternativas": [
+      "o pedido de vista só pode ser feito pelo relator ou pelo revisor do processo.",
+      "a conselheira poderá devolver o processo na mesma reunião ou, no máximo, até a segunda reunião subsequente, e o pedido de vista tem prioridade sobre qualquer matéria.",
+      "a conselheira terá prazo de 60 dias corridos para devolver o processo, prorrogável uma vez.",
+      "o pedido de vista suspende o processo até a reunião da APAF seguinte.",
+      "a conselheira deverá devolver o processo na reunião seguinte, e o pedido não tem prioridade sobre as demais matérias."
+    ],
+    "gabarito": 1,
+    "comentario": "Art. 79 do Regimento Interno do CFP (aprovado pela Resolução CFP nº 17/2000): durante a discussão, qualquer Conselheiro pode pedir vista, devendo devolver o processo na mesma reunião ou no máximo até a segunda reunião subsequente (§ 1º), e o pedido tem prioridade sobre qualquer matéria (§ 2º). Observação: em processos ético-disciplinares aplica-se o CPD (art. 77 do Regimento), que prevê vista até a reunião plenária seguinte.",
+    "dificuldade": 3,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-regimento-cfp-012",
+    "disciplina": "legislacao",
+    "assunto": "leg-regimento-cfp",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2000/12/resolucao2000_17.pdf"
+    },
+    "enunciado": "Determinada pessoa teve pedido indeferido por decisão do Plenário do Conselho Federal de Psicologia em matéria administrativa e pretende obter nova apreciação no próprio CFP. Nos termos do Regimento Interno do CFP (Resolução CFP nº 17/2000), ela poderá apresentar",
+    "alternativas": [
+      "recurso à Assembleia dos Delegados Regionais, no prazo de 15 dias.",
+      "pedido de reconsideração, no prazo de 10 dias, independentemente de novos fatos ou argumentos.",
+      "pedido de reconsideração, no prazo de 30 dias a contar da notificação da decisão, desde que apresente novos fatos ou argumentos.",
+      "recurso ao Congresso Nacional da Psicologia, instância máxima de deliberação.",
+      "pedido de revisão, a qualquer tempo, dirigido ao Ministério do Trabalho."
+    ],
+    "gabarito": 2,
+    "comentario": "Art. 83, § 1º, do Regimento Interno do CFP (aprovado pela Resolução CFP nº 17/2000): da decisão do CFP cabe pedido de reconsideração pela parte interessada, em 30 dias da notificação, desde que apresentados novos fatos ou argumentos; o pedido é dirigido ao Conselheiro-Presidente e transformado em processo (§ 2º). Em matéria ético-disciplinar, porém, o CPD vigente (Res. CFP 11/2019) não prevê pedido de reconsideração, apenas a revisão (arts. 130 e seguintes).",
+    "dificuldade": 3,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-regimento-cfp-013",
+    "disciplina": "legislacao",
+    "assunto": "leg-regimento-cfp",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2000/12/resolucao2000_17.pdf"
+    },
+    "enunciado": "Conforme o Regimento Interno do CFP (Resolução CFP nº 17/2000), de qualquer decisão dos Conselhos Regionais de Psicologia cabe recurso para o Plenário do CFP no prazo de",
+    "alternativas": [
+      "30 dias, a contar da notificação dos interessados, salvo os recursos em processos eleitorais e éticos, regidos por disposições próprias.",
+      "15 dias, a contar da publicação da decisão, inclusive nos processos éticos.",
+      "30 dias, a contar da notificação dos interessados, inclusive nos processos eleitorais, sem exceção.",
+      "60 dias, a contar da data da sessão em que a decisão foi tomada.",
+      "10 dias úteis, a contar da ciência, apenas nos processos administrativos de inscrição."
+    ],
+    "gabarito": 0,
+    "comentario": "Art. 82 do Regimento Interno do CFP (aprovado pela Resolução CFP nº 17/2000): de qualquer decisão dos CRPs cabe recurso ao Plenário do CFP em 30 dias da notificação, salvo os recursos em processos eleitorais e éticos, regidos por disposições próprias (no caso dos éticos, o CPD — Res. CFP 11/2019, art. 121 — fixa 30 dias ÚTEIS).",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-regimento-cfp-014",
+    "disciplina": "legislacao",
+    "assunto": "leg-regimento-cfp",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2000/12/resolucao2000_17.pdf"
+    },
+    "enunciado": "Considere as afirmativas a respeito do Regimento Interno do CFP (Resolução CFP nº 17/2000).\nI. É vedado ao Conselho Federal de Psicologia realizar manifestações e pronunciamentos de caráter partidário e religioso.\nII. É vedado a Conselheiro ser relator ou revisor, bem como participar de julgamento de processo resultante de decisão da qual tenha participado em instância inferior.\nIII. É permitido o exercício coincidente de mandatos de conselheiro federal e regional, desde que não haja acúmulo de cargos de Diretoria.\nEstá correto o que se afirma em",
+    "alternativas": [
+      "I, apenas.",
+      "II, apenas.",
+      "I e II, apenas.",
+      "I e III, apenas.",
+      "I, II e III."
+    ],
+    "gabarito": 2,
+    "comentario": "I correta: art. 85 do Regimento Interno do CFP (aprovado pela Resolução CFP nº 17/2000). II correta: art. 75, § 2º. III errada: o art. 29, parágrafo único, declara incompatível o exercício coincidente de mandatos em duas esferas da entidade, não sendo possível a posse em uma delas enquanto não houver renúncia à outra.",
+    "dificuldade": 2,
+    "anulada": false
+  }
+]

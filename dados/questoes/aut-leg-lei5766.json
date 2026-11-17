@@ -1,0 +1,332 @@
+[
+  {
+    "id": "aut-leg-lei5766-001",
+    "disciplina": "legislacao",
+    "assunto": "leg-lei5766",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://legis.senado.leg.br/norma/547642/publicacao/15714469"
+    },
+    "enunciado": "De acordo com a Lei nº 5.766/1971, o Conselho Federal e os Conselhos Regionais de Psicologia foram criados como entes dotados de personalidade jurídica de direito público e autonomia administrativa e financeira. Quanto à sua natureza, esses Conselhos constituem, em seu conjunto,",
+    "alternativas": [
+      "uma fundação pública, vinculada ao Ministério da Educação, destinada a registrar diplomas e fiscalizar o ensino de Psicologia.",
+      "autarquias independentes entre si, cada qual com personalidade jurídica de direito privado e competência territorial própria.",
+      "uma associação civil de classe, de filiação facultativa, destinada à defesa dos interesses econômicos dos psicólogos.",
+      "uma autarquia, destinada a orientar, disciplinar e fiscalizar o exercício da profissão de Psicólogo e zelar pela observância dos princípios de ética e disciplina da classe.",
+      "um órgão da administração direta federal, sem autonomia financeira, subordinado ao Ministério do Trabalho."
+    ],
+    "gabarito": 3,
+    "comentario": "Art. 1º da Lei 5.766/71: os Conselhos são dotados de personalidade jurídica de direito público, autonomia administrativa e financeira e constituem, em seu conjunto, UMA autarquia, com a finalidade de orientar, disciplinar e fiscalizar a profissão. Não são fundação, nem associação privada de filiação facultativa, nem órgão da administração direta sem autonomia; tampouco são entes de direito privado.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-lei5766-002",
+    "disciplina": "legislacao",
+    "assunto": "leg-lei5766",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://legis.senado.leg.br/norma/547642/publicacao/15714469"
+    },
+    "enunciado": "Segundo a Lei nº 5.766/1971, o Conselho Federal de Psicologia é constituído de",
+    "alternativas": [
+      "9 membros efetivos e 9 suplentes, eleitos diretamente por todos os psicólogos inscritos, com mandato de 3 anos, vedada a reeleição.",
+      "15 membros efetivos e 15 suplentes, eleitos na Assembleia dos Delegados Regionais, com mandato de 3 anos, permitida uma reeleição.",
+      "9 membros efetivos e 9 suplentes, eleitos na Assembleia Geral do Conselho Regional do Distrito Federal, com mandato de 2 anos.",
+      "9 membros efetivos e 9 suplentes, eleitos na Assembleia dos Delegados Regionais, com mandato de 4 anos, permitida a reeleição uma vez.",
+      "9 membros efetivos e 9 suplentes, brasileiros, eleitos por maioria de votos, em escrutínio secreto, na Assembleia dos Delegados Regionais, com mandato de 3 anos, permitida a reeleição uma vez."
+    ],
+    "gabarito": 4,
+    "comentario": "Art. 3º e parágrafo único da Lei 5.766/71: 9 efetivos e 9 suplentes, brasileiros, eleitos por maioria de votos, em escrutínio secreto, na Assembleia dos Delegados Regionais; mandato de 3 anos, com uma reeleição. Erram as alternativas que trocam o colégio eleitoral (voto direto ou assembleia de um regional), o número de membros (15) ou a duração do mandato (2 ou 4 anos).",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-lei5766-003",
+    "disciplina": "legislacao",
+    "assunto": "leg-lei5766",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://legis.senado.leg.br/norma/547642/publicacao/15714469"
+    },
+    "enunciado": "Determinado conselheiro federal faltou, ao longo de um mesmo ano e sem licença prévia do Conselho, a cinco reuniões do Conselho Federal de Psicologia. Nos termos da Lei nº 5.766/1971, essa conduta acarreta",
+    "alternativas": [
+      "a perda do mandato.",
+      "a aplicação de advertência pela Assembleia dos Delegados Regionais, mantido o mandato.",
+      "a substituição temporária pelo suplente, até que o conselheiro justifique as faltas.",
+      "a suspensão do mandato por 30 dias, ad referendum da Assembleia dos Delegados Regionais.",
+      "nenhuma consequência, pois a perda do mandato exige faltas consecutivas a seis reuniões."
+    ],
+    "gabarito": 0,
+    "comentario": "Art. 4º, § 2º, da Lei 5.766/71: o Conselheiro que faltar, durante o ano, sem licença prévia do Conselho, a 5 reuniões perderá o mandato. A lei não prevê advertência, suspensão do mandato ou substituição provisória para essa hipótese, nem exige seis faltas consecutivas (o Decreto 79.822/77, art. 35, V, ainda esclarece que as faltas podem ser consecutivas ou intercaladas).",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-lei5766-004",
+    "disciplina": "legislacao",
+    "assunto": "leg-lei5766",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://legis.senado.leg.br/norma/547642/publicacao/15714469"
+    },
+    "enunciado": "Nos termos da Lei nº 5.766/1971, o Conselho Federal de Psicologia deve reunir-se, pelo menos, uma vez por mês, só podendo deliberar com a presença da maioria absoluta de seus membros. Algumas deliberações, porém, só têm valor quando aprovadas por 2/3 dos membros do Conselho Federal. Entre essas matérias está a de",
+    "alternativas": [
+      "publicar, anualmente, o relatório de seus trabalhos e a relação de todos os psicólogos registrados.",
+      "servir de órgão consultivo em matéria de Psicologia.",
+      "elaborar a prestação de contas e encaminhá-la ao Tribunal de Contas.",
+      "fixar a composição dos Conselhos Regionais, organizando-os à sua semelhança e promovendo a instalação de tantos Conselhos quantos forem julgados necessários.",
+      "julgar em última instância os recursos das deliberações dos Conselhos Regionais."
+    ],
+    "gabarito": 3,
+    "comentario": "Art. 4º, § 1º, da Lei 5.766/71: exigem 2/3 dos membros do CFP as deliberações sobre as alíneas 'j' (resoluções e instruções para o funcionamento dos Conselhos, inclusive procedimento eleitoral) e 'm' (fixar a composição dos Conselhos Regionais e instalar novos Conselhos) do art. 6º. Publicar relatório (alínea i), servir de órgão consultivo (g), prestar contas (q) e julgar recursos (h) não estão sujeitos a esse quórum qualificado.",
+    "dificuldade": 3,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-lei5766-005",
+    "disciplina": "legislacao",
+    "assunto": "leg-lei5766",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://legis.senado.leg.br/norma/547642/publicacao/15714469"
+    },
+    "enunciado": "Considere as seguintes atribuições previstas na Lei nº 5.766/1971:\nI. Elaborar e aprovar o Código de Ética Profissional do Psicólogo.\nII. Funcionar como tribunal regional de ética profissional.\nIII. Aprovar as anuidades e demais contribuições a serem pagas pelos psicólogos.\nSão atribuições do Conselho Federal de Psicologia o que consta em",
+    "alternativas": [
+      "I, apenas.",
+      "II, apenas.",
+      "I e III, apenas.",
+      "II e III, apenas.",
+      "I, II e III."
+    ],
+    "gabarito": 2,
+    "comentario": "Art. 6º da Lei 5.766/71: compete ao CFP elaborar e aprovar o Código de Ética (alínea e) e aprovar as anuidades e demais contribuições (alínea l) — itens I e III corretos. Funcionar como tribunal REGIONAL de ética é atribuição dos Conselhos Regionais (art. 9º, d); o CFP funciona como tribunal SUPERIOR de ética profissional (art. 6º, f).",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-lei5766-006",
+    "disciplina": "legislacao",
+    "assunto": "leg-lei5766",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://legis.senado.leg.br/norma/547642/publicacao/15714469"
+    },
+    "enunciado": "Conforme a Lei nº 5.766/1971, cada Conselho Regional de Psicologia deve eleger, para a Assembleia dos Delegados Regionais,",
+    "alternativas": [
+      "dois delegados-eleitores.",
+      "um delegado-eleitor por grupo de mil psicólogos inscritos.",
+      "três delegados-eleitores, sendo um deles o Presidente do Conselho Regional.",
+      "um delegado-eleitor, escolhido pela Assembleia Geral.",
+      "tantos delegados quantos forem seus conselheiros efetivos."
+    ],
+    "gabarito": 0,
+    "comentario": "Art. 9º, alínea 'f', da Lei 5.766/71: é atribuição dos Conselhos Regionais eleger DOIS delegados-eleitores para a assembleia referida no art. 3º (Assembleia dos Delegados Regionais). O Decreto 79.822/77 (art. 13, XIII, e art. 16) repete a regra: 2 delegados eleitores, escolhidos dentre os membros do Regional. As demais alternativas inventam critérios proporcionais ou números diversos.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-lei5766-007",
+    "disciplina": "legislacao",
+    "assunto": "leg-lei5766",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://legis.senado.leg.br/norma/547642/publicacao/15714469"
+    },
+    "enunciado": "Uma psicóloga teve seu pedido de inscrição indeferido pelo Conselho Regional de Psicologia. De acordo com a Lei nº 5.766/1971,",
+    "alternativas": [
+      "a decisão do Conselho Regional é irrecorrível na esfera administrativa, restando apenas a via judicial.",
+      "ela pode recorrer à Assembleia Geral do próprio Conselho Regional, no prazo de 10 dias.",
+      "ela tem direito de recorrer ao Conselho Federal, dentro do prazo fixado no Regimento.",
+      "ela deve recorrer ao Ministério do Trabalho, órgão ao qual a autarquia está vinculada.",
+      "ela pode recorrer ao Conselho Federal, mas o recurso não será admitido se houver representação de terceiro contra o registro."
+    ],
+    "gabarito": 2,
+    "comentario": "Art. 13 da Lei 5.766/71: se o Conselho Regional indeferir o pedido de inscrição, o candidato terá direito de recorrer ao Conselho Federal dentro do prazo fixado no Regimento (o Decreto 79.822/77, art. 46, fixa 30 dias da ciência). A lei não prevê recurso à Assembleia Geral nem ao Ministério, e a possibilidade de representação contra o registro (art. 12) não impede o recurso.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-lei5766-008",
+    "disciplina": "legislacao",
+    "assunto": "leg-lei5766",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://legis.senado.leg.br/norma/547642/publicacao/15714469"
+    },
+    "enunciado": "Sobre o exercício da profissão e as inscrições, a Lei nº 5.766/1971 estabelece que",
+    "alternativas": [
+      "os registros serão feitos nas categorias de Psicólogo, Psicólogo Especialista e Psicólogo Pesquisador, sendo a última facultativa.",
+      "apenas outro psicólogo regularmente inscrito poderá representar ao Conselho Regional contra o registro de um candidato.",
+      "a exibição da Carteira de Identidade Profissional só pode ser exigida pelo Conselho Regional ou pela autoridade judicial.",
+      "a Carteira de Identidade Profissional é expedida pelo Conselho Federal, após homologação da inscrição pelo Regional.",
+      "os registros serão feitos nas categorias de Psicólogo e Psicólogo Especialista, e qualquer pessoa ou entidade poderá representar ao Conselho Regional contra o registro de um candidato."
+    ],
+    "gabarito": 4,
+    "comentario": "Arts. 11 e 12 da Lei 5.766/71: os registros são feitos nas categorias de Psicólogo e Psicólogo Especialista, e QUALQUER pessoa ou entidade pode representar contra o registro. A Carteira é expedida pelo Conselho Regional (art. 14) e sua exibição pode ser exigida por qualquer interessado (art. 15). Não existe a categoria 'Psicólogo Pesquisador'.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-lei5766-009",
+    "disciplina": "legislacao",
+    "assunto": "leg-lei5766",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://legis.senado.leg.br/norma/547642/publicacao/15714469"
+    },
+    "enunciado": "Quanto ao patrimônio e à gestão financeira dos Conselhos de Psicologia, a Lei nº 5.766/1971 dispõe que as taxas, anuidades, multas e outras contribuições pagas pelos profissionais devem ser depositadas em contas vinculadas no Banco do Brasil, cabendo ao Conselho Federal",
+    "alternativas": [
+      "1/2 do seu montante.",
+      "1/3 do seu montante.",
+      "2/3 do seu montante.",
+      "1/5 do seu montante.",
+      "apenas as multas, ficando as anuidades integralmente com os Regionais."
+    ],
+    "gabarito": 1,
+    "comentario": "Art. 16, parágrafo único, da Lei 5.766/71: os quantitativos do inciso IV (taxas, anuidades, multas e outras contribuições) são depositados em contas vinculadas no Banco do Brasil, cabendo 1/3 do montante ao Conselho Federal. O Decreto 79.822/77 confirma: 1/3 para o CFP (art. 9º, IV) e 2/3 para os Regionais (art. 15, IV).",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-lei5766-010",
+    "disciplina": "legislacao",
+    "assunto": "leg-lei5766",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://legis.senado.leg.br/norma/547642/publicacao/15714469"
+    },
+    "enunciado": "De acordo com a Lei nº 5.766/1971, a Assembleia Geral de cada Conselho Regional é constituída pelos psicólogos nele inscritos, em pleno gozo de seus direitos e que tenham, na respectiva jurisdição, a sede principal de sua atividade profissional. Sobre essa Assembleia, é correto afirmar que",
+    "alternativas": [
+      "em primeira convocação, pode reunir-se com qualquer número de membros.",
+      "o voto é pessoal e obrigatório, salvo doença ou motivo de força maior devidamente comprovados.",
+      "pode reunir-se extraordinariamente apenas por iniciativa do Presidente do Conselho Federal.",
+      "a destituição do Conselho Regional exige deliberação da maioria simples dos membros presentes.",
+      "o voto é facultativo, mas a abstenção injustificada impede a inscrição em chapas futuras."
+    ],
+    "gabarito": 1,
+    "comentario": "Art. 23, § 4º, da Lei 5.766/71: o voto é pessoal e obrigatório, salvo doença ou força maior comprovados. Em primeira convocação exige-se maioria absoluta (art. 23, caput); a reunião extraordinária pode ocorrer a pedido justificado de 1/3 dos membros ou por iniciativa do Presidente do Conselho REGIONAL (art. 23, § 3º); e a destituição exige pelo menos 2/3 dos presentes (art. 24, e).",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-lei5766-011",
+    "disciplina": "legislacao",
+    "assunto": "leg-lei5766",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://legis.senado.leg.br/norma/547642/publicacao/15714469"
+    },
+    "enunciado": "Um psicólogo deixou, injustificadamente, de comparecer à eleição do Conselho Regional em que está inscrito. Segundo a Lei nº 5.766/1971, ele poderá incorrer em multa de",
+    "alternativas": [
+      "meia anuidade, triplicada na reincidência.",
+      "uma anuidade, sem possibilidade de agravamento na reincidência.",
+      "dois salários-mínimos regionais, substituída por suspensão na reincidência.",
+      "valor fixado livremente pelo Presidente do Conselho Regional, conforme a gravidade.",
+      "um salário-mínimo regional, duplicada na reincidência, sem prejuízo de outras penalidades."
+    ],
+    "gabarito": 4,
+    "comentario": "Art. 25, parágrafo único, da Lei 5.766/71: por falta injustificada à eleição, o membro da Assembleia pode incorrer na multa de um salário-mínimo regional, duplicada na reincidência, sem prejuízo de outras penalidades. (O Decreto 79.822/77, art. 33, parágrafo único, fala em 1 valor de referência regional, também duplicado na reincidência.) As demais alternativas alteram a base de cálculo ou a consequência da reincidência.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-lei5766-012",
+    "disciplina": "legislacao",
+    "assunto": "leg-lei5766",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://legis.senado.leg.br/norma/547642/publicacao/15714469"
+    },
+    "enunciado": "A Lei nº 5.766/1971 enumera condutas que constituem infrações disciplinares. NÃO consta desse rol a conduta de",
+    "alternativas": [
+      "deixar de pagar aos Conselhos, pontualmente, as contribuições a que esteja obrigado.",
+      "recusar-se a atender gratuitamente pessoa em situação de vulnerabilidade econômica.",
+      "facilitar, por qualquer meio, o exercício da profissão aos não inscritos ou impedidos.",
+      "solicitar ou receber de cliente qualquer favor em troca de concessões ilícitas.",
+      "não cumprir, no prazo estabelecido, determinação emanada dos Conselhos, depois de regularmente notificado."
+    ],
+    "gabarito": 1,
+    "comentario": "Art. 26 da Lei 5.766/71: são infrações, além de outras, transgredir o Código de Ética; exercer a profissão quando impedido ou facilitar o exercício a não inscritos; solicitar ou receber favor em troca de concessões ilícitas; praticar ato definido como crime ou contravenção; descumprir determinação dos Conselhos após notificação; e deixar de pagar pontualmente as contribuições. Não há na lei dever de atendimento gratuito, de modo que a recusa descrita não figura no rol.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-lei5766-013",
+    "disciplina": "legislacao",
+    "assunto": "leg-lei5766",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://legis.senado.leg.br/norma/547642/publicacao/15714469"
+    },
+    "enunciado": "Em processo disciplinar, um Conselho Regional de Psicologia aplicou a uma psicóloga a pena de suspensão do exercício profissional. À luz da Lei nº 5.766/1971, assinale a afirmativa correta.",
+    "alternativas": [
+      "A suspensão pode ser fixada em até 90 dias, conforme a gravidade da falta.",
+      "Cabe recurso, sem efeito suspensivo, para o Conselho Federal, no prazo de 15 dias da ciência da punição.",
+      "A aplicação das penalidades compete ao Conselho Federal, cabendo ao Regional apenas instruir o processo.",
+      "Cabe recurso, com efeito suspensivo, para o Conselho Federal, no prazo de 30 dias da ciência da punição.",
+      "A suspensão só pode ser aplicada após prévia advertência, mesmo nos casos de gravidade manifesta."
+    ],
+    "gabarito": 3,
+    "comentario": "Art. 31 da Lei 5.766/71: compete aos Conselhos Regionais aplicar as penalidades, cabendo recurso, COM efeito suspensivo, ao Conselho Federal, no prazo de 30 dias da ciência. A suspensão vai até 30 dias (art. 27, IV), e a gradação das penas pode ser afastada nos casos de gravidade manifesta (art. 28).",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-lei5766-014",
+    "disciplina": "legislacao",
+    "assunto": "leg-lei5766",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://legis.senado.leg.br/norma/547642/publicacao/15714469"
+    },
+    "enunciado": "Considere as afirmativas sobre as penalidades previstas na Lei nº 5.766/1971.\nI. A cassação do exercício profissional é aplicada ad referendum do Conselho Federal.\nII. Para a cominação de pena, consideram-se especialmente graves as faltas diretamente relacionadas com o exercício profissional.\nIII. A falta de pagamento da multa no prazo de 30 dias da notificação acarreta sua cobrança por via executiva, sem prejuízo de outras penalidades.\nEstá correto o que se afirma em",
+    "alternativas": [
+      "I, apenas.",
+      "I e II, apenas.",
+      "I e III, apenas.",
+      "II e III, apenas.",
+      "I, II e III."
+    ],
+    "gabarito": 4,
+    "comentario": "Todas corretas. I: art. 27, V (cassação ad referendum do Conselho Federal). II: art. 28, parágrafo único (faltas diretamente relacionadas ao exercício profissional são especialmente graves). III: art. 29, parágrafo único (multa não paga em 30 dias da notificação é cobrada por via executiva).",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-lei5766-015",
+    "disciplina": "legislacao",
+    "assunto": "leg-lei5766",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://legis.senado.leg.br/norma/547642/publicacao/15714469"
+    },
+    "enunciado": "Um indivíduo sem inscrição em Conselho de Psicologia passa a anunciar, em redes sociais, atendimentos como 'psicólogo'. Nos termos da Lei nº 5.766/1971,",
+    "alternativas": [
+      "o Conselho Regional deve instaurar processo ético-disciplinar e aplicar-lhe a pena de censura.",
+      "a conduta só é punível se houver efetivo atendimento remunerado, não bastando a publicidade.",
+      "ao não inscrito que, mediante qualquer forma de publicidade, se proponha ao exercício da profissão serão aplicadas as penalidades cabíveis pelo exercício ilegal da profissão, e o Presidente do Conselho tem qualidade para agir, inclusive criminalmente.",
+      "apenas o Ministério Público pode adotar providências, pois o Conselho não tem legitimidade para agir criminalmente.",
+      "o Conselho Federal deve aplicar-lhe multa equivalente a cinco anuidades, independentemente de outras medidas."
+    ],
+    "gabarito": 2,
+    "comentario": "Art. 30 da Lei 5.766/71: aos não inscritos que, por qualquer forma de publicidade, se propuserem a exercer a profissão aplicam-se as penalidades do exercício ilegal da profissão; e o art. 32 dá aos Presidentes do CFP e dos CRPs qualidade para agir, mesmo criminalmente, contra quem infringir a lei. O leigo não se submete ao processo ético do Conselho (que alcança inscritos), e a lei não exige atendimento efetivo nem prevê multa de cinco anuidades.",
+    "dificuldade": 3,
+    "anulada": false
+  }
+]

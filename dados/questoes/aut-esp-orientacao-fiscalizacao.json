@@ -1,0 +1,662 @@
+[
+  {
+    "id": "aut-esp-orientacao-fiscalizacao-001",
+    "disciplina": "especificos",
+    "assunto": "esp-orientacao-fiscalizacao",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://transparencia.cfp.org.br/wp-content/uploads/sites/10/2017/07/Resolu%C3%A7%C3%A3o-CFP-010-2017-Politica-de-Orienta%C3%A7%C3%A3o-e-Fiscaliza%C3%A7%C3%A3o-dos-Conselhos.pdf (Res. CFP 10/2017)"
+    },
+    "enunciado": "Segundo a Resolução CFP nº 10/2017, que institui a Política de Orientação e Fiscalização do Sistema Conselhos de Psicologia, o processo de fiscalização",
+    "alternativas": [
+      "terá caráter exclusivamente punitivo, cabendo a orientação a outras comissões.",
+      "só poderá ocorrer mediante denúncia formal e assinada.",
+      "dispensa o registro em documento, bastando relato verbal à COF.",
+      "terá, sempre que possível, caráter orientativo.",
+      "deve ser sempre presencial, vedada a fiscalização à distância."
+    ],
+    "gabarito": 3,
+    "comentario": "O art. 18 da Res. CFP 10/2017 estabelece que o processo de fiscalização, sempre que possível, terá caráter orientativo. O art. 17 define fiscalização como qualquer processo, presencial e/ou à distância, realizado como rotina ou motivado por solicitação ou denúncias — o que afasta as alternativas que exigem denúncia ou presencialidade. O art. 25 determina a lavratura de documentos das fiscalizações, físicos ou digitais.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-orientacao-fiscalizacao-002",
+    "disciplina": "especificos",
+    "assunto": "esp-orientacao-fiscalizacao",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://transparencia.cfp.org.br/wp-content/uploads/sites/10/2017/07/Resolu%C3%A7%C3%A3o-CFP-010-2017-Politica-de-Orienta%C3%A7%C3%A3o-e-Fiscaliza%C3%A7%C3%A3o-dos-Conselhos.pdf (Res. CFP 10/2017)"
+    },
+    "enunciado": "Conforme a Resolução CFP nº 10/2017, fiscalização é",
+    "alternativas": [
+      "o procedimento de apuração de infração ética, conduzido pela Comissão de Ética, que culmina em penalidade.",
+      "a visita presencial realizada exclusivamente em pessoas jurídicas registradas no CRP.",
+      "a atividade de orientação dirigida à sociedade sobre os direitos dos usuários de serviços psicológicos.",
+      "o julgamento, pelo Plenário, de irregularidades constatadas em inspeções.",
+      "qualquer processo, presencial e/ou à distância, que tem por função a verificação do exercício profissional pautado pelas normas vigentes, podendo ser realizado como rotina ou motivado por solicitação ou denúncias."
+    ],
+    "gabarito": 4,
+    "comentario": "A definição está no art. 17 da Res. CFP 10/2017. A fiscalização não se confunde com o processo ético (apuração de infração pela Comissão de Ética, regida pelo Código de Processamento Disciplinar), nem com julgamento pelo Plenário. Não se limita a pessoas jurídicas nem a visitas presenciais. A orientação à sociedade é parte do processo de orientação (art. 16, II), distinto da fiscalização.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-orientacao-fiscalizacao-003",
+    "disciplina": "especificos",
+    "assunto": "esp-orientacao-fiscalizacao",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://transparencia.cfp.org.br/wp-content/uploads/sites/10/2017/07/Resolu%C3%A7%C3%A3o-CFP-010-2017-Politica-de-Orienta%C3%A7%C3%A3o-e-Fiscaliza%C3%A7%C3%A3o-dos-Conselhos.pdf (Res. CFP 10/2017)"
+    },
+    "enunciado": "A Comissão de Ética de um CRP, ao analisar um processo, solicita à Comissão de Orientação e Fiscalização a verificação in loco de fatos específicos relacionados à representação. Segundo a Resolução CFP nº 10/2017, essa modalidade de fiscalização denomina-se",
+    "alternativas": [
+      "averiguação.",
+      "inspeção de pessoa jurídica.",
+      "diligência.",
+      "fiscalização estratégica.",
+      "visita de retorno."
+    ],
+    "gabarito": 2,
+    "comentario": "O art. 19 da Res. CFP 10/2017 prevê como modalidades: inspeção de PJ (motivada pela inscrição), análise de serviços por meios tecnológicos, diligência (para atender solicitação da Comissão de Ética), averiguação (por denúncia, informação ou notícia de irregularidade ou exercício ilegal) e estratégica (a partir de áreas de atuação que demandem aproximação). O art. 30 reforça que a diligência é procedimento pontual e focado, cujos objetivos a COE deve definir com clareza. Visita de retorno é desdobramento de fiscalização com prazo de adequação, não modalidade.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-orientacao-fiscalizacao-004",
+    "disciplina": "especificos",
+    "assunto": "esp-orientacao-fiscalizacao",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://transparencia.cfp.org.br/wp-content/uploads/sites/10/2017/07/Resolu%C3%A7%C3%A3o-CFP-010-2017-Politica-de-Orienta%C3%A7%C3%A3o-e-Fiscaliza%C3%A7%C3%A3o-dos-Conselhos.pdf (Res. CFP 10/2017)"
+    },
+    "enunciado": "O CRP recebe notícia, por meio de postagens em rede social, de que uma pessoa estaria oferecendo “psicoterapia” sem possuir inscrição no Conselho. A modalidade de fiscalização prevista na Resolução CFP nº 10/2017 adequada para verificar o fato é a",
+    "alternativas": [
+      "diligência, que é a modalidade para qualquer situação envolvendo exercício ilegal.",
+      "averiguação, motivada por denúncia, informação ou notícia que pode indicar irregularidade ou exercício ilegal da profissão.",
+      "inspeção de pessoa jurídica, motivada pela inscrição junto ao CRP.",
+      "fiscalização estratégica, restrita a ações coletivas planejadas por área de atuação.",
+      "análise de prestação de serviços à distância, que dispensa qualquer verificação."
+    ],
+    "gabarito": 1,
+    "comentario": "O art. 19, IV, da Res. CFP 10/2017 define a averiguação como a fiscalização motivada por denúncia, informação ou notícia que podem indicar irregularidade ou exercício ilegal da profissão. A diligência atende a solicitação da Comissão de Ética (inciso III). A inspeção de PJ decorre da inscrição (inciso I), e a estratégica parte de áreas de atuação que demandem aproximação do Sistema Conselhos (inciso V).",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-orientacao-fiscalizacao-005",
+    "disciplina": "especificos",
+    "assunto": "esp-orientacao-fiscalizacao",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://transparencia.cfp.org.br/wp-content/uploads/sites/10/2017/07/Resolu%C3%A7%C3%A3o-CFP-010-2017-Politica-de-Orienta%C3%A7%C3%A3o-e-Fiscaliza%C3%A7%C3%A3o-dos-Conselhos.pdf (Res. CFP 10/2017); https://www.in.gov.br/en/web/dou/-/resolucao-n-16-de-21-de-agosto-de-2019-214562656 (Res. CFP 16/2019)"
+    },
+    "enunciado": "Uma clínica de psicologia protocolou pedido de registro como pessoa jurídica no CRP. Considerando as Resoluções CFP nº 10/2017 e nº 16/2019, a primeira ação de orientação e/ou fiscalização nessa modalidade",
+    "alternativas": [
+      "é a diligência, a ser realizada em até 30 dias contados do pagamento da primeira anuidade.",
+      "é dispensada, pois o registro é concedido apenas com base nos documentos apresentados.",
+      "é a averiguação, a ser realizada somente se houver denúncia contra a clínica.",
+      "é a inspeção de pessoa jurídica, motivada pela inscrição, a ser realizada em até 120 dias contados do ingresso do pedido de registro na COF.",
+      "é a inspeção de pessoa jurídica, a ser realizada em até um ano após a emissão do certificado."
+    ],
+    "gabarito": 3,
+    "comentario": "A Res. CFP 10/2017 (art. 19, I) prevê a inspeção de pessoa jurídica motivada pela inscrição no CRP. A Res. CFP 16/2019 (art. 16, § 2º) fixa que a primeira ação de orientação e/ou fiscalização na modalidade registro será realizada em até 120 dias, a contar do ingresso do pedido de registro na COF. Diligência e averiguação têm outras motivações, e a ação não é dispensada.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-orientacao-fiscalizacao-006",
+    "disciplina": "especificos",
+    "assunto": "esp-orientacao-fiscalizacao",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://transparencia.cfp.org.br/wp-content/uploads/sites/10/2017/07/Resolu%C3%A7%C3%A3o-CFP-010-2017-Politica-de-Orienta%C3%A7%C3%A3o-e-Fiscaliza%C3%A7%C3%A3o-dos-Conselhos.pdf (Res. CFP 10/2017)"
+    },
+    "enunciado": "Em visita de fiscalização a um consultório, a psicóloga agente de orientação e fiscalização constata que os prontuários estão guardados em armário sem tranca, em sala compartilhada com outros profissionais — irregularidade passível de adequação. Segundo a Resolução CFP nº 10/2017, deve-se",
+    "alternativas": [
+      "conceder prazo de até 30 dias para que a profissional comprove a regularização junto ao CRP, facultada a visita de retorno.",
+      "encaminhar imediatamente representação à Comissão de Ética, pois toda irregularidade constitui infração.",
+      "apreender todos os prontuários e lacrar o consultório até a regularização.",
+      "aplicar advertência no próprio ato da visita, registrada no termo.",
+      "conceder prazo de até 90 dias, vedada a visita de retorno."
+    ],
+    "gabarito": 0,
+    "comentario": "O art. 26, I, da Res. CFP 10/2017 determina que, constatada irregularidade passível de adequação, dar-se-á prazo de até 30 dias para que o profissional ou a PJ comprove a regularização, facultada a visita de retorno. A representação à Comissão de Ética só ocorre se o constatado não for resolvido (art. 28). O agente de fiscalização não aplica penalidade — que exige processo disciplinar —, e apreensão (art. 24) não é a resposta padrão a irregularidade sanável.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-orientacao-fiscalizacao-007",
+    "disciplina": "especificos",
+    "assunto": "esp-orientacao-fiscalizacao",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://transparencia.cfp.org.br/wp-content/uploads/sites/10/2017/07/Resolu%C3%A7%C3%A3o-CFP-010-2017-Politica-de-Orienta%C3%A7%C3%A3o-e-Fiscaliza%C3%A7%C3%A3o-dos-Conselhos.pdf (Res. CFP 10/2017)"
+    },
+    "enunciado": "Durante fiscalização, constata-se que uma psicóloga realiza, em instituição privada, uma prática que não pode ser regularizada por meio de adequação. De acordo com a Resolução CFP nº 10/2017, a medida imediata prevista é",
+    "alternativas": [
+      "conceder prazo de 30 dias para adequação, com visita de retorno obrigatória.",
+      "aplicar diretamente a pena de suspensão, ad referendum do Conselho Federal.",
+      "arquivar o procedimento, pois só irregularidades sanáveis interessam à COF.",
+      "lacrar o estabelecimento e comunicar o fato à vigilância sanitária.",
+      "orientar a psicóloga ou a instituição, por meio de seu responsável técnico ou representante legal, a interromper as condutas irregulares."
+    ],
+    "gabarito": 4,
+    "comentario": "O art. 26, II, prevê que, não sendo passível a adequação, a psicóloga ou a instituição, por meio de seu responsável técnico ou representante legal, será orientada a interromper as condutas irregulares; o art. 27 manda comunicar as irregularidades à COF, que avaliará as medidas pertinentes. O prazo de 30 dias é para irregularidades sanáveis (inciso I). A fiscalização não aplica penas, e o arquivamento só ocorre quando sanadas as irregularidades (art. 28).",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-orientacao-fiscalizacao-008",
+    "disciplina": "especificos",
+    "assunto": "esp-orientacao-fiscalizacao",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://transparencia.cfp.org.br/wp-content/uploads/sites/10/2017/07/Resolu%C3%A7%C3%A3o-CFP-010-2017-Politica-de-Orienta%C3%A7%C3%A3o-e-Fiscaliza%C3%A7%C3%A3o-dos-Conselhos.pdf (Res. CFP 10/2017)"
+    },
+    "enunciado": "Após visita de fiscalização, a irregularidade constatada não foi sanada no prazo concedido, e as medidas adotadas pela COF não surtiram efeito. Conforme a Resolução CFP nº 10/2017, a COF deverá",
+    "alternativas": [
+      "aplicar multa de uma a cinco anuidades, independentemente de processo.",
+      "arquivar o procedimento, pois a COF não tem competência disciplinar.",
+      "cancelar de ofício a inscrição do profissional no CRP.",
+      "remeter o caso diretamente ao Plenário do Conselho Federal.",
+      "enviar documento à Comissão de Ética, sob forma de representação, anexando o termo de visita."
+    ],
+    "gabarito": 4,
+    "comentario": "O art. 28 da Res. CFP 10/2017 dispõe que, sanadas as irregularidades, lavra-se documento de arquivamento; caso contrário, a COF avaliará as medidas cabíveis e, não resolvido o constatado, enviará documento à Comissão de Ética, sob forma de representação, anexando o termo de visita. A COF não aplica penalidades, que dependem de processo disciplinar regido pelo CPD. Arquivar sem solução, cancelar a inscrição ou remeter ao CFP não são as medidas previstas.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-orientacao-fiscalizacao-009",
+    "disciplina": "especificos",
+    "assunto": "esp-orientacao-fiscalizacao",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://transparencia.cfp.org.br/wp-content/uploads/sites/10/2017/07/Resolu%C3%A7%C3%A3o-CFP-010-2017-Politica-de-Orienta%C3%A7%C3%A3o-e-Fiscaliza%C3%A7%C3%A3o-dos-Conselhos.pdf (Res. CFP 10/2017)"
+    },
+    "enunciado": "Uma usuária telefona para o CRP relatando que sua psicóloga divulgou informações de suas sessões em grupo de mensagens, mas diz não querer “se expor” assinando documento. Conforme a Resolução CFP nº 10/2017, a Comissão de Orientação e Fiscalização deve",
+    "alternativas": [
+      "arquivar o relato, pois denúncias anônimas são vedadas em qualquer hipótese.",
+      "instaurar diretamente processo disciplinar ético contra a psicóloga, com base no telefonema.",
+      "registrar o relato e aplicar advertência confidencial à psicóloga.",
+      "exigir que a usuária registre boletim de ocorrência antes de qualquer providência do CRP.",
+      "orientar a denunciante a formalizar representação por documento escrito e assinado, dirigido ao Presidente do CRP, e, caso ela não queira assumir a denúncia, avaliar se há outro encaminhamento possível."
+    ],
+    "gabarito": 4,
+    "comentario": "O art. 29 da Res. CFP 10/2017 prevê que, diante de denúncias, a COF deve orientar os denunciantes a formalizar representação por documento escrito e assinado, com as informações do Código de Processamento Disciplinar, dirigida ao Presidente do CRP; caso o reclamante não queira assumir a denúncia, a COF avaliará outro encaminhamento possível (como fiscalização ou provocação de ofício). Arquivar automaticamente ou instaurar processo ético diretamente não são os caminhos previstos, e a COF não aplica penalidades.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-orientacao-fiscalizacao-010",
+    "disciplina": "especificos",
+    "assunto": "esp-orientacao-fiscalizacao",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://transparencia.cfp.org.br/wp-content/uploads/sites/10/2017/07/Resolu%C3%A7%C3%A3o-CFP-010-2017-Politica-de-Orienta%C3%A7%C3%A3o-e-Fiscaliza%C3%A7%C3%A3o-dos-Conselhos.pdf (Res. CFP 10/2017)"
+    },
+    "enunciado": "Durante uma diligência solicitada pela Comissão de Ética para verificar fato específico, a psicóloga agente de orientação e fiscalização encontra outras irregularidades, alheias ao objeto da diligência. Segundo a Resolução CFP nº 10/2017,",
+    "alternativas": [
+      "a agente deve ignorar as irregularidades, pois a diligência impede qualquer outra providência.",
+      "a agente adotará os procedimentos definidos pela COF quanto aos elementos que extrapolem o objeto, não se aplicando à diligência as regras gerais de prazo de adequação e comunicação de irregularidades dos arts. 26 e 27.",
+      "a agente deve conceder, na própria diligência, prazo de 30 dias para adequação das novas irregularidades.",
+      "a diligência converte-se automaticamente em processo disciplinar ordinário.",
+      "a agente deve suspender a diligência e aplicar advertência à profissional."
+    ],
+    "gabarito": 1,
+    "comentario": "O art. 30 da Res. CFP 10/2017 define a diligência como procedimento pontual e focado, cujos objetivos a COE deve definir. O § 1º determina que, encontrando elementos que extrapolem o objeto, a agente adotará procedimentos definidos pela COF; o § 2º estabelece que não se aplicam às diligências os arts. 26 e 27 (prazo de adequação e comunicação de irregularidades à COF). Não há conversão automática em processo, nem aplicação de penalidade pela agente.",
+    "dificuldade": 3,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-orientacao-fiscalizacao-011",
+    "disciplina": "especificos",
+    "assunto": "esp-orientacao-fiscalizacao",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://transparencia.cfp.org.br/wp-content/uploads/sites/10/2017/07/Resolu%C3%A7%C3%A3o-CFP-010-2017-Politica-de-Orienta%C3%A7%C3%A3o-e-Fiscaliza%C3%A7%C3%A3o-dos-Conselhos.pdf (Res. CFP 10/2017)"
+    },
+    "enunciado": "De acordo com a Resolução CFP nº 10/2017, a Comissão de Orientação e Fiscalização (COF) dos Conselhos Regionais será constituída por",
+    "alternativas": [
+      "no mínimo três psicólogas(os) indicadas(os) pelo Plenário, presidida por conselheira(o) efetiva(o), podendo os demais ser conselheiras(os) efetivas(os), suplentes ou psicólogas(os) convidadas(os).",
+      "exatamente cinco conselheiras(os) efetivas(os), eleitas(os) pela categoria em assembleia.",
+      "no mínimo três membros, presidida por psicóloga(o) convidada(o), vedada a participação de conselheiros.",
+      "psicólogas(os) fiscais concursadas(os), sem participação de conselheiras(os).",
+      "no mínimo dois membros indicados pelo Conselho Federal, presidida pelo Presidente do CRP."
+    ],
+    "gabarito": 0,
+    "comentario": "O art. 8º da Res. CFP 10/2017 define a composição: no mínimo três psicólogas(os) indicadas(os) pelo Plenário do CRP, presidida por conselheira(o) efetiva(o), podendo os demais ser conselheiros efetivos, suplentes ou psicólogos convidados. Não há número fixo de cinco, eleição em assembleia ou indicação pelo CFP. Os fiscais concursados são agentes de orientação e fiscalização (art. 10, II), coordenados pela COF (art. 9º, IX), e não sua composição obrigatória.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-orientacao-fiscalizacao-012",
+    "disciplina": "especificos",
+    "assunto": "esp-orientacao-fiscalizacao",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://transparencia.cfp.org.br/wp-content/uploads/sites/10/2017/07/Resolu%C3%A7%C3%A3o-CFP-010-2017-Politica-de-Orienta%C3%A7%C3%A3o-e-Fiscaliza%C3%A7%C3%A3o-dos-Conselhos.pdf (Res. CFP 10/2017)"
+    },
+    "enunciado": "Segundo a Resolução CFP nº 10/2017, são psicólogas(os) agentes de orientação e fiscalização, dotados de fé pública,",
+    "alternativas": [
+      "apenas as(os) psicólogas(os) fiscais contratadas(os) por concurso público.",
+      "as(os) conselheiras(os), as(os) psicólogas(os) orientadoras(es) e fiscais contratadas(os) por concurso público, integrantes das comissões gestoras de subsedes e colaboradoras(es) indicadas(os) pelas subsedes, aprovadas(os) pelo Plenário.",
+      "quaisquer psicólogas(os) regularmente inscritas(os) no CRP, independentemente de designação.",
+      "as(os) servidoras(es) administrativas(os) do CRP, ainda que não sejam psicólogas(os), quando designadas(os) pela COF.",
+      "as(os) estagiárias(os) de psicologia vinculadas(os) ao CRP, sob supervisão da COF."
+    ],
+    "gabarito": 1,
+    "comentario": "O art. 10 da Res. CFP 10/2017 enumera os agentes de orientação e fiscalização: I – conselheiras(os); II – psicólogas(os) orientadoras(es) e fiscais contratadas(os) por concurso público; III – psicólogas(os) integrantes das comissões gestoras de subsedes, aprovadas(os) pelo Plenário; IV – psicólogas(os) colaboradoras(es) indicadas(os) pelas subsedes, aprovadas(os) pelo Plenário. Os dos incisos III e IV devem ser designados e orientados pela COF para ações específicas e justificadas. A função não se restringe aos concursados, mas exige ser psicóloga(o) e ter designação; servidores não psicólogos e estagiários não constam do rol.",
+    "dificuldade": 3,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-orientacao-fiscalizacao-013",
+    "disciplina": "especificos",
+    "assunto": "esp-orientacao-fiscalizacao",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://transparencia.cfp.org.br/wp-content/uploads/sites/10/2017/07/Resolu%C3%A7%C3%A3o-CFP-010-2017-Politica-de-Orienta%C3%A7%C3%A3o-e-Fiscaliza%C3%A7%C3%A3o-dos-Conselhos.pdf (Res. CFP 10/2017)"
+    },
+    "enunciado": "Para conduzir o processo de orientação de uma psicóloga que vem cometendo irregularidades sanáveis na divulgação de seus serviços, o CRP deseja formalizar compromissos de adequação, com cláusulas e cominações. Segundo a Resolução CFP nº 10/2017, esse instrumento é o",
+    "alternativas": [
+      "acordo de mediação, homologado pelo Plenário do Conselho Federal.",
+      "auto de apreensão, lavrado na presença de duas testemunhas.",
+      "Termo de Ajustamento de Conduta (TAC), utilizado a critério da Comissão de Orientação e Fiscalização.",
+      "termo de diligência, solicitado pela Comissão de Ética.",
+      "processo disciplinar ordinário, instaurado de ofício pela COF."
+    ],
+    "gabarito": 2,
+    "comentario": "O parágrafo único do art. 16 da Res. CFP 10/2017 prevê que, para conduzir o processo de orientação, os CRPs poderão utilizar o Termo de Ajustamento de Conduta (TAC), a critério da COF; o modelo anexo prevê objeto, cominações (instauração de processo em caso de descumprimento) e fiscalização do cumprimento. A mediação é instituto do Código de Processamento Disciplinar, conduzida pela Câmara de Mediação. Auto de apreensão e termo de diligência têm finalidades diversas, e a COF não instaura processo disciplinar.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-orientacao-fiscalizacao-014",
+    "disciplina": "especificos",
+    "assunto": "esp-orientacao-fiscalizacao",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://transparencia.cfp.org.br/wp-content/uploads/sites/10/2017/07/Resolu%C3%A7%C3%A3o-CFP-010-2017-Politica-de-Orienta%C3%A7%C3%A3o-e-Fiscaliza%C3%A7%C3%A3o-dos-Conselhos.pdf (Res. CFP 10/2017)"
+    },
+    "enunciado": "Em fiscalização, a agente encontra, em uma empresa, testes psicológicos fotocopiados sendo aplicados por profissional não psicólogo. Segundo a Resolução CFP nº 10/2017 e seus anexos, é correto afirmar que",
+    "alternativas": [
+      "a apreensão de material é vedada, devendo a agente apenas fotografar os testes.",
+      "o material deve ser apreendido e entregue à Polícia Federal, que passa a guardá-lo.",
+      "a agente deve incinerar imediatamente o material no local, na presença de testemunhas.",
+      "constatado indício de falta ética ou irregularidade, é possível a apreensão do material, lavrando-se auto de apreensão, e o material apreendido fica sob a posse e guarda do CRP.",
+      "a apreensão só é possível mediante prévia ordem judicial."
+    ],
+    "gabarito": 3,
+    "comentario": "O art. 24 da Res. CFP 10/2017 autoriza a apreensão de documentos quando constatado indício de falta ética ou irregularidade, e o art. 23 faculta o uso de recursos tecnológicos para documentação. O modelo de Auto de Apreensão (Anexo 6) prevê a descrição do material e das irregularidades, assinatura de testemunhas e que o material apreendido fica sob a posse e guarda do CRP. A norma não prevê entrega à Polícia Federal, destruição no local ou exigência de ordem judicial.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-orientacao-fiscalizacao-015",
+    "disciplina": "especificos",
+    "assunto": "esp-orientacao-fiscalizacao",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://transparencia.cfp.org.br/wp-content/uploads/sites/10/2017/07/Resolu%C3%A7%C3%A3o-CFP-010-2017-Politica-de-Orienta%C3%A7%C3%A3o-e-Fiscaliza%C3%A7%C3%A3o-dos-Conselhos.pdf (Res. CFP 10/2017)"
+    },
+    "enunciado": "Um CRP planeja fiscalizar serviços de saúde mental em que atuam psicólogos, enfermeiros e assistentes sociais, com suspeita de violações de direitos humanos. Segundo a Resolução CFP nº 10/2017, é correto afirmar que",
+    "alternativas": [
+      "o CRP deverá contatar os Conselhos Regionais das demais categorias para propor ação conjunta e poderá convidar instituições como Ministério Público, Defensoria Pública e associações.",
+      "o CRP está proibido de atuar, pois serviços multiprofissionais são fiscalizados apenas pelo conselho de medicina.",
+      "o CRP só pode fiscalizar a atuação dos demais profissionais se houver convênio com o Conselho Federal.",
+      "a participação do Ministério Público é vedada, para preservar o sigilo dos usuários.",
+      "o CRP deve fiscalizar a atuação de todos os profissionais do serviço, inclusive dos não psicólogos."
+    ],
+    "gabarito": 0,
+    "comentario": "O art. 21 da Res. CFP 10/2017 determina que, quando necessário em contexto multiprofissional, o CRP entre em contato com os Conselhos Regionais das demais categorias para propor ação conjunta; o art. 22 permite convidar instituições como Ministério Público, Defensoria Pública e associações. O CRP fiscaliza o exercício da psicologia, não o de outras profissões, e não há proibição de atuar em serviços multiprofissionais. O art. 3º, III, reforça a fiscalização com base nos direitos humanos e em parcerias.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-orientacao-fiscalizacao-016",
+    "disciplina": "especificos",
+    "assunto": "esp-orientacao-fiscalizacao",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://transparencia.cfp.org.br/wp-content/uploads/sites/10/2017/07/Resolu%C3%A7%C3%A3o-CFP-010-2017-Politica-de-Orienta%C3%A7%C3%A3o-e-Fiscaliza%C3%A7%C3%A3o-dos-Conselhos.pdf (Res. CFP 10/2017)"
+    },
+    "enunciado": "Entre os objetivos da fiscalização e da orientação da profissão previstos na Resolução CFP nº 10/2017, que as concebe como ferramentas para a garantia e a promoção de direitos humanos, inclui-se",
+    "alternativas": [
+      "priorizar ações repressivas e individuais, motivadas por denúncias.",
+      "substituir o processo ético pela fiscalização em todos os casos.",
+      "restringir a fiscalização ao âmbito das atividades privadas, excluindo as políticas públicas.",
+      "aplicar penalidades sumárias para garantir a celeridade.",
+      "priorizar ações preventivas, coletivas e planejadas."
+    ],
+    "gabarito": 4,
+    "comentario": "O art. 3º da Res. CFP 10/2017 lista os objetivos, entre eles primar pelo diálogo com os profissionais (II), basear-se nos direitos humanos (III) e priorizar ações preventivas, coletivas e planejadas (IX). O caput abrange tanto as políticas públicas quanto as atividades privadas. A norma não prevê substituição do processo ético nem penalidades sumárias, que exigiriam processo disciplinar com contraditório.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-orientacao-fiscalizacao-017",
+    "disciplina": "especificos",
+    "assunto": "esp-orientacao-fiscalizacao",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://transparencia.cfp.org.br/wp-content/uploads/sites/10/2017/07/Resolu%C3%A7%C3%A3o-CFP-010-2017-Politica-de-Orienta%C3%A7%C3%A3o-e-Fiscaliza%C3%A7%C3%A3o-dos-Conselhos.pdf (Res. CFP 10/2017)"
+    },
+    "enunciado": "Conforme a Resolução CFP nº 10/2017, a Secretaria de Orientação e Ética do Conselho Federal de Psicologia",
+    "alternativas": [
+      "executa diretamente todas as fiscalizações nos estados, substituindo as COFs regionais.",
+      "é composta exclusivamente por psicólogas(os) convidadas(os), vedada a participação de conselheiros.",
+      "coordena as atividades de orientação e fiscalização da entidade, visando à unidade das diretrizes, e é instância superior e de recurso no Sistema Conselhos nas funções que lhe competem.",
+      "julga, em primeira instância, todos os processos éticos instaurados nos Regionais.",
+      "tem função apenas consultiva, sem competência recursal."
+    ],
+    "gabarito": 2,
+    "comentario": "Os arts. 4º a 6º da Res. CFP 10/2017 atribuem à Secretaria de Orientação e Ética do CFP a coordenação das atividades de orientação e fiscalização, visando à unidade das diretrizes, sendo instância superior e de recurso (art. 4º, parágrafo único). É composta por no mínimo três membros, coordenada por conselheira(o) efetiva(o) (art. 5º). As COFs regionais coordenam e executam a fiscalização em sua jurisdição (art. 7º), e os processos éticos são julgados em primeira instância pelos CRPs.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-orientacao-fiscalizacao-018",
+    "disciplina": "especificos",
+    "assunto": "esp-orientacao-fiscalizacao",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://transparencia.cfp.org.br/wp-content/uploads/sites/10/2017/07/Resolu%C3%A7%C3%A3o-CFP-010-2017-Politica-de-Orienta%C3%A7%C3%A3o-e-Fiscaliza%C3%A7%C3%A3o-dos-Conselhos.pdf (Res. CFP 10/2017)"
+    },
+    "enunciado": "Segundo a Resolução CFP nº 10/2017, no contexto das atividades de fiscalização, é correto afirmar que",
+    "alternativas": [
+      "a(o) psicóloga(o) fiscalizada(o) não tem direito a cópia do termo de visita.",
+      "os agentes de fiscalização estão dispensados de identificar-se, para não prejudicar a verificação.",
+      "a(o) psicóloga(o) poderá ser convocada(o) para prestar esclarecimentos ao Conselho Regional para fins de fiscalização.",
+      "a fiscalização deve ser sempre anunciada com antecedência mínima de 30 dias.",
+      "a fiscalização só pode ser realizada por conselheiras(os) efetivas(os)."
+    ],
+    "gabarito": 2,
+    "comentario": "O parágrafo único do art. 19 da Res. CFP 10/2017 prevê que o psicólogo poderá ser convocado para prestar esclarecimentos ao CRP para fins de fiscalização. O modelo de Termo de Visita assegura ao fiscalizado o direito a uma cópia, e o art. 11 determina que os agentes portem identificação fornecida pelo CRP, exibida quando solicitada. Não há exigência de aviso com 30 dias, e o rol de agentes (art. 10) vai além dos conselheiros.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-orientacao-fiscalizacao-019",
+    "disciplina": "especificos",
+    "assunto": "esp-orientacao-fiscalizacao",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.in.gov.br/en/web/dou/-/resolucao-n-16-de-21-de-agosto-de-2019-214562656 (Res. CFP 16/2019)"
+    },
+    "enunciado": "Um hospital particular, cuja atividade principal é a assistência médica, mantém serviço de psicologia com quatro psicólogas. Segundo a Resolução CFP nº 16/2019, essa pessoa jurídica está obrigada a",
+    "alternativas": [
+      "proceder ao cadastramento no CRP, por prestar serviços de psicologia em razão de atividade secundária.",
+      "registrar-se no CRP e pagar anuidade, por prestar serviços de psicologia.",
+      "nada fazer, pois apenas as psicólogas, como pessoas físicas, se vinculam ao CRP.",
+      "registrar-se no Conselho Regional de Medicina, que fiscalizará também o serviço de psicologia.",
+      "registrar-se no CRP somente se a psicologia representar mais da metade do faturamento."
+    ],
+    "gabarito": 0,
+    "comentario": "A Res. CFP 16/2019 distingue registro — obrigatório para a PJ que presta serviços de psicologia em razão de sua atividade principal (art. 1º) — de cadastramento — obrigatório para a PJ que presta serviços de psicologia em razão de atividade secundária (art. 9º). O hospital, cuja atividade principal é médica, deve cadastrar-se, ficando dispensado de anuidade (art. 11). O vínculo das psicólogas como pessoas físicas não afasta a obrigação da PJ, e a norma não usa critério de faturamento.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-orientacao-fiscalizacao-020",
+    "disciplina": "especificos",
+    "assunto": "esp-orientacao-fiscalizacao",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.in.gov.br/en/web/dou/-/resolucao-n-16-de-21-de-agosto-de-2019-214562656 (Res. CFP 16/2019)"
+    },
+    "enunciado": "Considerando a Resolução CFP nº 16/2019, sobre anuidades de pessoas jurídicas, é correto afirmar que",
+    "alternativas": [
+      "todas as pessoas jurídicas, registradas ou cadastradas, pagam anuidade em dobro em relação às pessoas físicas.",
+      "as pessoas jurídicas registradas estão isentas de anuidade, que é devida apenas pelas cadastradas.",
+      "as pessoas jurídicas cadastradas estão dispensadas do pagamento de anuidades, enquanto o empresário individual registrado é isento do pagamento como pessoa jurídica, pagando a anuidade como pessoa física.",
+      "o empresário individual paga duas anuidades: uma como pessoa física e outra como pessoa jurídica.",
+      "a anuidade da pessoa jurídica deixa de ser devida a partir da emissão do primeiro certificado de registro."
+    ],
+    "gabarito": 2,
+    "comentario": "Pela Res. CFP 16/2019, concedido o registro, a PJ recolhe uma anuidade a cada exercício (art. 6º), devida até o encerramento das atividades (art. 7º); as(os) empresárias(os) individuais são registradas(os) e isentas(os) do pagamento como PJ, pagando a anuidade como pessoa física (art. 6º, parágrafo único). As cadastradas são dispensadas de anuidades (art. 11), podendo haver taxas e emolumentos definidos regionalmente, com isenção para entidades públicas e serviços-escola (art. 11, § 2º).",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-orientacao-fiscalizacao-021",
+    "disciplina": "especificos",
+    "assunto": "esp-orientacao-fiscalizacao",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.in.gov.br/en/web/dou/-/resolucao-n-16-de-21-de-agosto-de-2019-214562656 (Res. CFP 16/2019)"
+    },
+    "enunciado": "Segundo a Resolução CFP nº 16/2019, deferido o pedido de registro de pessoa jurídica, o CRP emitirá certificado de registro",
+    "alternativas": [
+      "com validade indeterminada, dispensada qualquer renovação.",
+      "com validade de um ano, renovável automaticamente mediante pagamento da anuidade.",
+      "com validade de três anos, que deverá ser afixado em local visível ao público, cuja renovação deve ser requerida com antecedência mínima de sessenta dias do vencimento.",
+      "com validade de cinco anos, que deve ser mantido em arquivo e apresentado apenas à fiscalização.",
+      "com validade de três anos, cuja renovação pode ser requerida até trinta dias após o vencimento."
+    ],
+    "gabarito": 2,
+    "comentario": "O art. 5º da Res. CFP 16/2019 prevê certificado de registro com validade de três anos em toda a área de jurisdição, afixado em local visível ao público durante todo o período de atividades. O § 1º determina que a renovação seja requerida antes do vencimento, com antecedência mínima de sessenta dias, apresentando termo de responsabilidade técnica, carta da empresa, última alteração contratual e eventual registro em outro conselho.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-orientacao-fiscalizacao-022",
+    "disciplina": "especificos",
+    "assunto": "esp-orientacao-fiscalizacao",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.in.gov.br/en/web/dou/-/resolucao-n-16-de-21-de-agosto-de-2019-214562656 (Res. CFP 16/2019)"
+    },
+    "enunciado": "De acordo com a Resolução CFP nº 16/2019, a(o) Responsável Técnica(o) de pessoa jurídica registrada ou cadastrada obriga-se, entre outros deveres, a",
+    "alternativas": [
+      "definir as técnicas que cada psicóloga(o) da equipe deverá utilizar, em nome da padronização do serviço.",
+      "assinar, como corresponsável, todos os documentos psicológicos emitidos pelas(os) demais psicólogas(os).",
+      "permanecer na pessoa jurídica durante todo o horário de funcionamento, vedada carga horária parcial.",
+      "responder pessoalmente por todas as faltas éticas individuais da equipe, ainda que comprove não ter havido negligência.",
+      "comunicar ao Conselho Regional de Psicologia as situações de possíveis faltas éticas."
+    ],
+    "gabarito": 4,
+    "comentario": "O art. 13, § 1º, da Res. CFP 16/2019 obriga o RT a acompanhar frequentemente os serviços, zelar pelo cumprimento das disposições legais e éticas, pela qualidade dos serviços, pela guarda do material e pela adequação do ambiente, comunicar formalmente ao CRP seu desligamento e comunicar as situações de possíveis faltas éticas. A norma garante a autonomia técnica dos psicólogos (art. 4º, II), não exige coassinatura de documentos e manda a empresa definir a carga horária do RT conforme as demandas (§ 3º). O § 2º exclui da RT os deveres éticos individuais quando provada a ausência de negligência.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-orientacao-fiscalizacao-023",
+    "disciplina": "especificos",
+    "assunto": "esp-orientacao-fiscalizacao",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.in.gov.br/en/web/dou/-/resolucao-n-16-de-21-de-agosto-de-2019-214562656 (Res. CFP 16/2019)"
+    },
+    "enunciado": "A psicóloga responsável técnica de uma clínica registrada no CRP pediu desligamento. Segundo a Resolução CFP nº 16/2019, a pessoa jurídica",
+    "alternativas": [
+      "pode continuar prestando serviços de psicologia por até noventa dias sem RT, desde que comunique o CRP.",
+      "deve comunicar a substituição ao CRP no prazo máximo de trinta dias úteis a contar do desligamento, ficando proibida de executar serviços de psicologia enquanto não promover a substituição.",
+      "deve comunicar a substituição em até cinco dias corridos, sob pena de cancelamento automático do registro.",
+      "fica dispensada de nova indicação de RT se tiver mais de três psicólogas no quadro.",
+      "deve aguardar que o CRP indique uma nova responsável técnica."
+    ],
+    "gabarito": 1,
+    "comentario": "O art. 14 da Res. CFP 16/2019 obriga a PJ, quando da substituição do RT, a comunicar o CRP no prazo máximo de trinta dias úteis, contados do desligamento do anterior; o parágrafo único proíbe a PJ de executar serviços de psicologia enquanto não promover a substituição. Toda PJ registrada ou cadastrada deve ter pelo menos um RT por sede, agência, filial ou sucursal (art. 13), indicado pela própria PJ, não pelo CRP. Não há cancelamento automático em cinco dias.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-orientacao-fiscalizacao-024",
+    "disciplina": "especificos",
+    "assunto": "esp-orientacao-fiscalizacao",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.in.gov.br/en/web/dou/-/resolucao-n-16-de-21-de-agosto-de-2019-214562656 (Res. CFP 16/2019)"
+    },
+    "enunciado": "Em uma clínica registrada, uma psicóloga da equipe emite atestado sem fundamentação técnica. A responsável técnica comprova que acompanhava frequentemente os serviços e que adotou as medidas cabíveis assim que soube do fato. À luz da Resolução CFP nº 16/2019, é correto afirmar que",
+    "alternativas": [
+      "a responsável técnica responde objetivamente por qualquer falta cometida pela equipe.",
+      "a responsável técnica e a pessoa jurídica devem ter o registro cancelado de imediato.",
+      "apenas a pessoa jurídica pode responder pela falta, nunca a psicóloga que emitiu o atestado.",
+      "a responsável técnica não responde pelos deveres éticos individuais da colega, desde que se prove não ter havido negligência na sua função.",
+      "a responsável técnica deve ser processada no lugar da colega, que fica isenta."
+    ],
+    "gabarito": 3,
+    "comentario": "O art. 13, § 2º, da Res. CFP 16/2019 exclui da responsabilidade técnica os deveres éticos individuais, desde que se prove não ter havido negligência na função. A responsabilidade do RT, portanto, não é objetiva nem substitui a da psicóloga autora do documento, que responde pessoalmente por sua conduta (art. 2º, g, do Código de Ética). Cancelamento imediato do registro não decorre automaticamente do fato.",
+    "dificuldade": 3,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-orientacao-fiscalizacao-025",
+    "disciplina": "especificos",
+    "assunto": "esp-orientacao-fiscalizacao",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.in.gov.br/en/web/dou/-/resolucao-n-16-de-21-de-agosto-de-2019-214562656 (Res. CFP 16/2019)"
+    },
+    "enunciado": "Uma instituição que oferece “aconselhamento espiritual” baseado em doutrina religiosa pretende cadastrar-se no CRP para incluir psicólogas em seu quadro. Segundo a Resolução CFP nº 16/2019,",
+    "alternativas": [
+      "o cadastramento é obrigatório, pois toda instituição que contrata psicólogas deve cadastrar-se.",
+      "o cadastramento é permitido desde que a instituição pague anuidade como pessoa jurídica registrada.",
+      "o cadastramento é permitido se a responsável técnica for da mesma confissão religiosa.",
+      "é vedado o cadastramento de pessoa jurídica que ofereça serviços baseados em ideias de cunho moral, filosófico ou de crença religiosa, em virtude de sua natureza ou para atender seus objetivos e finalidade.",
+      "o cadastramento depende apenas de autorização do Conselho Federal de Psicologia."
+    ],
+    "gabarito": 3,
+    "comentario": "O parágrafo único do art. 9º da Res. CFP 16/2019 veda o cadastramento de PJ de área profissional com a qual o psicólogo não possa constituir equipe para cumprir seu objetivo principal, incluindo as que ofereçam serviços baseados em ideias de cunho moral, filosófico ou de crença religiosa. A regra dialoga com o princípio da laicidade (Res. CFP 07/2023) e com a vedação de induzir convicções religiosas (art. 2º, b, do Código de Ética). Anuidade, confissão do RT ou autorização do CFP não afastam a vedação.",
+    "dificuldade": 3,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-orientacao-fiscalizacao-026",
+    "disciplina": "especificos",
+    "assunto": "esp-orientacao-fiscalizacao",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2012/07/codigo-de-etica-psicologia.pdf (Res. CFP 10/2005); https://transparencia.cfp.org.br/wp-content/uploads/sites/10/2017/07/Resolu%C3%A7%C3%A3o-CFP-010-2017-Politica-de-Orienta%C3%A7%C3%A3o-e-Fiscaliza%C3%A7%C3%A3o-dos-Conselhos.pdf (Res. CFP 10/2017); https://www.in.gov.br/en/web/dou/-/resolucao-n-16-de-21-de-agosto-de-2019-214562656 (Res. CFP 16/2019)"
+    },
+    "enunciado": "Uma psicóloga, única do setor de psicologia de uma empresa, é desligada e não há substituta contratada. Ela lacra os arquivos confidenciais, lavrando termo de lacre. Considerando o Código de Ética e os modelos de termos de lacre e deslacre do Sistema Conselhos, é correto afirmar que",
+    "alternativas": [
+      "o material lacrado fica sob a responsabilidade de pessoa da instituição indicada no termo, e o lacre só poderá ser rompido pela psicóloga que vier a assumir o setor, com a participação do CRP.",
+      "o material lacrado pode ser aberto pelo gestor de RH sempre que houver necessidade administrativa.",
+      "a psicóloga desligada deve levar o material lacrado consigo, sendo a única autorizada a abri-lo.",
+      "o lacre pode ser rompido por qualquer profissional de saúde contratado pela empresa.",
+      "após o lacre, a empresa deve incinerar o material em trinta dias, comunicando o CRP."
+    ],
+    "gabarito": 0,
+    "comentario": "O art. 15, § 1º, do Código de Ética prevê que, na demissão, o psicólogo repasse o material ao substituto ou o lacre para posterior utilização pelo psicólogo substituto. O modelo de Termo de Lacre (Anexo 7 da Res. CFP 10/2017; anexo da Res. CFP 16/2019) atribui a guarda do material lacrado a pessoa da instituição, que deve comunicar o CRP se sair, e dispõe que o lacre só poderá ser rompido pela psicóloga que vier a assumir o setor, com presença (ou comunicação formal, conforme o modelo da Res. 16/2019) do CRP; o deslacre é registrado em Termo de Deslacre (Anexo 8). Não há previsão de abertura por leigos nem de destruição automática em trinta dias.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-orientacao-fiscalizacao-027",
+    "disciplina": "especificos",
+    "assunto": "esp-orientacao-fiscalizacao",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://abmes.org.br/public/arquivos/legislacoes/Resolucao-CFP-006-2019-03-29.pdf (Res. CFP 06/2019); https://site.cfp.org.br/wp-content/uploads/2012/07/codigo-de-etica-psicologia.pdf (Res. CFP 10/2005)"
+    },
+    "enunciado": "Sobre a guarda de documentos e materiais decorrentes da prestação de serviços psicológicos, e seu destino em caso de interrupção ou extinção do serviço, é correto afirmar que",
+    "alternativas": [
+      "podem ser destruídos pela instituição logo após o desligamento da psicóloga, desde que lacrados.",
+      "devem ser guardados pelo prazo mínimo de cinco anos, sob responsabilidade da psicóloga em conjunto com a instituição, cabendo ao CRP, na extinção do serviço de psicologia, providenciar a destinação dos arquivos confidenciais.",
+      "devem ser guardados por, no máximo, dois anos, após o que a destruição é obrigatória.",
+      "a responsabilidade pela guarda é exclusiva da instituição, independentemente da psicóloga.",
+      "em caso de extinção do serviço, devem ser remetidos ao Conselho Federal de Psicologia."
+    ],
+    "gabarito": 1,
+    "comentario": "A Res. CFP 06/2019, art. 15, determina que documentos e materiais que os fundamentaram sejam guardados pelo prazo mínimo de cinco anos (conforme a Res. CFP 01/2009), prazo que pode ser ampliado por lei, determinação judicial ou circunstâncias específicas; a responsabilidade cabe à psicóloga em conjunto com a instituição (§ 1º), e, na interrupção do trabalho, aplica-se o art. 15 do Código de Ética (§ 3º). Este prevê que, na extinção do serviço, o CRP providenciará a destinação dos arquivos confidenciais. Não há previsão de destruição imediata, prazo máximo de dois anos ou remessa ao CFP.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-orientacao-fiscalizacao-028",
+    "disciplina": "especificos",
+    "assunto": "esp-orientacao-fiscalizacao",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.in.gov.br/en/web/dou/-/resolucao-n-16-de-21-de-agosto-de-2019-214562656 (Res. CFP 16/2019)"
+    },
+    "enunciado": "Em fiscalização, constata-se que uma clínica registrada no CRP mantém em seu quadro, atendendo pacientes como “terapeuta”, pessoa sem formação nem inscrição como psicóloga. Segundo a Resolução CFP nº 16/2019, essa conduta da pessoa jurídica",
+    "alternativas": [
+      "não constitui infração da pessoa jurídica, pois apenas pessoas físicas respondem perante o CRP.",
+      "constitui infração ética da pessoa jurídica, apurada por processo ético com base no Código de Ética.",
+      "gera apenas a obrigação de pagar anuidade em dobro.",
+      "constitui infração disciplinar sujeita a processo disciplinar ordinário, podendo resultar em penalidades que vão de advertência a cancelamento do registro.",
+      "constitui infração funcional, apurada pela Comissão de Instrução do Conselho Federal."
+    ],
+    "gabarito": 3,
+    "comentario": "O art. 18, II, b, da Res. CFP 16/2019 considera infração disciplinar sujeita a processo disciplinar ordinário a PJ contratar ou acobertar pessoa não habilitada ou sem inscrição profissional. O art. 19 prevê como penalidades advertência, multa (de uma a dez anuidades para PJ), censura pública, suspensão e cancelamento do registro ou cadastramento, ad referendum do CFP, com recurso de efeito suspensivo (art. 20). Infração funcional diz respeito a conselheiros no exercício do cargo, e o processo ético apura infrações ao Código de Ética por psicólogas(os).",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-orientacao-fiscalizacao-029",
+    "disciplina": "especificos",
+    "assunto": "esp-orientacao-fiscalizacao",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.in.gov.br/en/web/dou/-/resolucao-n-16-de-21-de-agosto-de-2019-214562656 (Res. CFP 16/2019)"
+    },
+    "enunciado": "Um agente de fiscalização constata o encerramento definitivo do serviço de psicologia de uma pessoa jurídica cadastrada, que não se manifesta após ser notificada. Segundo a Resolução CFP nº 16/2019, o CRP",
+    "alternativas": [
+      "deve aguardar o pedido formal da própria pessoa jurídica, sem o qual o cadastro permanece ativo.",
+      "procederá ao cancelamento ex officio, caso não haja manifestação da pessoa jurídica no prazo de trinta dias contados da notificação de cancelamento.",
+      "deve instaurar processo ético contra a responsável técnica antes de qualquer cancelamento.",
+      "poderá cancelar o cadastro somente após decisão judicial.",
+      "procederá ao cancelamento imediato no ato da fiscalização, sem notificação."
+    ],
+    "gabarito": 1,
+    "comentario": "O art. 17 da Res. CFP 16/2019 admite o cancelamento do registro ou cadastro a pedido, em decorrência de processo disciplinar ordinário ou mediante constatação do encerramento das atividades; o § 3º prevê o cancelamento ex officio quando houver encerramento definitivo do serviço de psicologia constatado por agente de fiscalização, sem manifestação da PJ no prazo de trinta dias contados da notificação de cancelamento. Não se exige pedido da PJ, processo ético prévio ou decisão judicial, e há notificação prévia.",
+    "dificuldade": 3,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-orientacao-fiscalizacao-030",
+    "disciplina": "especificos",
+    "assunto": "esp-orientacao-fiscalizacao",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/leis/l5766.htm (Lei 5.766/1971); https://transparencia.cfp.org.br/wp-content/uploads/sites/10/2017/07/Resolu%C3%A7%C3%A3o-CFP-010-2017-Politica-de-Orienta%C3%A7%C3%A3o-e-Fiscaliza%C3%A7%C3%A3o-dos-Conselhos.pdf (Res. CFP 10/2017)"
+    },
+    "enunciado": "A COF de um CRP identifica uma pessoa que nunca se graduou em psicologia nem se inscreveu no Conselho, mas anuncia em redes sociais serviços de “psicóloga clínica”. Considerando a Lei nº 5.766/1971 e a Resolução CFP nº 10/2017, é correto afirmar que",
+    "alternativas": [
+      "a pessoa não se submete a processo ético no CRP, por não ser inscrita, mas fica sujeita às penalidades cabíveis pelo exercício ilegal da profissão, devendo o Conselho adotar as providências legais, inclusive junto às autoridades competentes.",
+      "o CRP deve instaurar processo ético e aplicar a pena de cassação do exercício profissional.",
+      "o CRP deve aplicar multa administrativa de uma a cinco anuidades, independentemente de processo.",
+      "não há qualquer providência possível, pois a fiscalização alcança apenas psicólogas(os) inscritas(os).",
+      "o CRP deve conceder prazo de 30 dias para que a pessoa regularize sua inscrição."
+    ],
+    "gabarito": 0,
+    "comentario": "O art. 30 da Lei 5.766/1971 dispõe que aos não inscritos que, mediante qualquer forma de publicidade, se propuserem ao exercício da profissão serão aplicadas as penalidades cabíveis pelo exercício ilegal da profissão; o art. 32 confere aos presidentes dos Conselhos qualidade para agir, inclusive criminalmente. Como não é inscrita, a pessoa não responde a processo disciplinar do CRP. A Res. CFP 10/2017 prevê a averiguação de exercício ilegal (art. 19, IV), e a orientação inclui denunciar o exercício ilegal (art. 16, I, i). Não é possível “regularizar” inscrição sem formação.",
+    "dificuldade": 2,
+    "anulada": false
+  }
+]

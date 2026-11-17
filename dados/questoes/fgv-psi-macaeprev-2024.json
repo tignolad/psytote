@@ -1,0 +1,702 @@
+[
+ {
+  "id": "fgv-macaeprev-2024-psi-46",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MacaéPrev",
+   "ano": 2024,
+   "cargo": "Analista Previdenciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-previdenciario-especialidade-psicologiacns203-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/ed.-2-macaeprev2024_recursos_gabarito_definitivo_compilado.pdf",
+   "questao_original": 46,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Jorge, 37 anos, trabalha como motorista em uma repartição pública. Jorge teve o carro roubado e foi amarrado e ameaçado de morte sob a mira de armas. Após esse episódio, Jorge não conseguiu retornar ao trabalho e foi diagnosticado com o transtorno de estresse pós-traumático (TEPT).\nSobre os critérios que permitem o diagnóstico desse transtorno, analise as afirmativas a seguir.\nI. Reações fisiológicas intensas a sinais internos ou externos que evoquem algum aspecto do evento traumático.\nII. Esforços persistentes para reviver recordações e pensamentos associados ao evento traumático.\nIII. Sonhos angustiantes recorrentes nos quais o conteúdo e/ou o sentimento do sonho estão relacionados ao evento traumático.\nEstá correto o que se afirma em",
+  "alternativas": [
+   "I, apenas.",
+   "I e II, apenas.",
+   "I e III, apenas.",
+   "II e III, apenas.",
+   "I, II e III."
+  ],
+  "gabarito": 2,
+  "comentario": "No DSM-5, os sintomas intrusivos do TEPT incluem sonhos angustiantes recorrentes relacionados ao trauma (III) e reações fisiológicas intensas a sinais que lembrem o evento (I). A II inverte o critério de evitação: a pessoa faz esforços para evitar recordações, pensamentos e sentimentos associados ao trauma, e não para revivê-los. As lembranças intrusivas são involuntárias, e não buscadas. Por isso a resposta é I e III.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-macaeprev-2024-psi-47",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MacaéPrev",
+   "ano": 2024,
+   "cargo": "Analista Previdenciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-previdenciario-especialidade-psicologiacns203-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/ed.-2-macaeprev2024_recursos_gabarito_definitivo_compilado.pdf",
+   "questao_original": 47,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Jorge, 37 anos, trabalha como motorista em uma repartição pública. Jorge teve o carro roubado e foi amarrado e ameaçado de morte sob a mira de armas. Após esse episódio, Jorge não conseguiu retornar ao trabalho e foi diagnosticado com o transtorno de estresse pós-traumático (TEPT).\nConsiderando a nova lógica assistencial em saúde mental e a Rede de Atendimento Psicossocial (RAPS), Jorge poderá fazer seu acompanhamento",
+  "alternativas": [
+   "em regime de internação psiquiátrica.",
+   "em uma comunidade terapêutica.",
+   "no CAPS que atende seu território.",
+   "em um serviço residencial terapêutico.",
+   "por meio de matriciamento no CAPS AD."
+  ],
+  "gabarito": 2,
+  "comentario": "Na lógica da Reforma Psiquiátrica (Lei 10.216/2001) e da RAPS, o cuidado é comunitário e territorial, e o CAPS de referência do território é o serviço indicado para acompanhar um transtorno mental grave e persistente como o TEPT incapacitante de Jorge. A internação psiquiátrica (A) é excepcional, e a comunidade terapêutica (B) se destina a pessoas com necessidades ligadas ao uso de álcool e outras drogas, assim como o CAPS AD (E). O serviço residencial terapêutico (D) acolhe egressos de longas internações sem suporte familiar.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-macaeprev-2024-psi-48",
+  "disciplina": "especificos",
+  "assunto": "esp-trabalho",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MacaéPrev",
+   "ano": 2024,
+   "cargo": "Analista Previdenciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-previdenciario-especialidade-psicologiacns203-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/ed.-2-macaeprev2024_recursos_gabarito_definitivo_compilado.pdf",
+   "questao_original": 48,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "A portaria do Ministério da Saúde que atualizou a lista de doenças relacionadas ao trabalho, reconhece agentes e fatores de risco psicossociais que respondem por doenças relacionadas ao trabalho. No caso dos transtornos mentais e comportamentais decorrentes do uso de álcool, assinale a opção que apresenta um fator de risco.",
+  "alternativas": [
+   "A lesão por esforço repetido.",
+   "As avaliações de desempenho profissional.",
+   "O trabalho em horário diurno em turnos fixos.",
+   "O uso obrigatório dos equipamentos de proteção individual.",
+   "A deficiência das interações no trabalho em equipe."
+  ],
+  "gabarito": 4,
+  "comentario": "A lista de doenças relacionadas ao trabalho atualizada pelo Ministério da Saúde em 2023 associa os transtornos mentais e comportamentais devidos ao uso de álcool a fatores de risco psicossociais da organização do trabalho, entre eles a deficiência nas interações e no suporte no trabalho em equipe, como diz a E. A LER/DORT (A) é um agravo, não um fator de risco psicossocial. Avaliações de desempenho, trabalho diurno em turno fixo e uso obrigatório de EPI não aparecem como fatores de risco para o uso de álcool.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-macaeprev-2024-psi-49",
+  "disciplina": "legislacao",
+  "assunto": "leg-res31-2022",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MacaéPrev",
+   "ano": 2024,
+   "cargo": "Analista Previdenciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-previdenciario-especialidade-psicologiacns203-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/ed.-2-macaeprev2024_recursos_gabarito_definitivo_compilado.pdf",
+   "questao_original": 49,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Sobre a avaliação psicológica em processos seletivos no contexto do trabalho, assinale a afirmativa correta.",
+  "alternativas": [
+   "É obrigatório o uso de testes projetivos de personalidade.",
+   "É compulsório o uso de construtos para avaliação de habilidades.",
+   "A entrevista devolutiva é fonte fundamental de informação.",
+   "É vedado o uso de testes não aprovados pelo SATEPSI do CFP.",
+   "É permitido o uso de testes não aprovados desde que como fonte complementar de informação."
+  ],
+  "gabarito": 3,
+  "comentario": "Pela Res. CFP 31/2022, só podem ser usados como fonte fundamental de informação na avaliação psicológica os testes com parecer favorável no SATEPSI, e testes desfavoráveis ou não avaliados não devem ser utilizados. Por isso a D está correta e a E errada. Nenhuma norma obriga o uso de testes projetivos (A) ou de determinados construtos (B), e a escolha dos instrumentos depende do perfil do cargo e dos objetivos da seleção. A entrevista devolutiva comunica resultados, não é fonte de informação para a avaliação (C).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-macaeprev-2024-psi-50",
+  "disciplina": "especificos",
+  "assunto": "esp-direitos-humanos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MacaéPrev",
+   "ano": 2024,
+   "cargo": "Analista Previdenciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-previdenciario-especialidade-psicologiacns203-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/ed.-2-macaeprev2024_recursos_gabarito_definitivo_compilado.pdf",
+   "questao_original": 50,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Márcio tinha 60 anos quando passou em um concurso público para trabalhar em uma secretaria. Os outros aprovados têm, em média, 30 anos de idade. Assinale a opção que apresenta uma barreira atitudinal que pode atrapalhar a plena integração de Márcio à sua equipe de trabalho.",
+  "alternativas": [
+   "O etarismo.",
+   "O capacitismo.",
+   "A acessibilidade.",
+   "A exclusão digital.",
+   "A misoginia."
+  ],
+  "gabarito": 0,
+  "comentario": "O etarismo (ou idadismo) é o preconceito e a discriminação baseados na idade, uma barreira atitudinal que pode isolar Márcio numa equipe bem mais jovem. Capacitismo é a discriminação contra pessoas com deficiência, e misoginia é a aversão às mulheres. A acessibilidade não é uma barreira, e sim o que as elimina. A exclusão digital é uma barreira tecnológica, não atitudinal, e não pode ser presumida pela idade.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-macaeprev-2024-psi-51",
+  "disciplina": "especificos",
+  "assunto": "esp-praticas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MacaéPrev",
+   "ano": 2024,
+   "cargo": "Analista Previdenciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-previdenciario-especialidade-psicologiacns203-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/ed.-2-macaeprev2024_recursos_gabarito_definitivo_compilado.pdf",
+   "questao_original": 51,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "O psicólogo deve prestar atendimento em situações de calamidade, sem visar benefício pessoal. Na modalidade de atendimento conhecida por intervenção em crise, são utilizadas técnicas para a abordagem das pessoas atingidas. Assinale a opção que indica uma dessas técnicas.",
+  "alternativas": [
+   "Entrevistas estruturadas.",
+   "Condicionamento operante.",
+   "Técnicas de evitação e distração das lembranças.",
+   "Uso da atenção flutuante pelo analista.",
+   "Escuta ativa para que a pessoa fale de sua experiência."
+  ],
+  "gabarito": 4,
+  "comentario": "Na intervenção em crise e nos primeiros cuidados psicológicos em emergências e desastres, a escuta ativa é técnica central: acolher, permitir que a pessoa narre sua experiência no seu ritmo e validar suas reações. Entrevistas estruturadas (A) são rígidas e próprias da avaliação. O condicionamento operante (B) é técnica comportamental de modelagem, e estimular a evitação das lembranças (C) pode cronificar o sofrimento. A atenção flutuante (D) pertence ao setting psicanalítico, não a uma intervenção breve e focal.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-macaeprev-2024-psi-52",
+  "disciplina": "legislacao",
+  "assunto": "leg-idoso-pcd",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MacaéPrev",
+   "ano": 2024,
+   "cargo": "Analista Previdenciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-previdenciario-especialidade-psicologiacns203-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/ed.-2-macaeprev2024_recursos_gabarito_definitivo_compilado.pdf",
+   "questao_original": 52,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "O último censo demográfico revelou o envelhecimento da população brasileira. Esse fato reforça a necessidade de políticas públicas voltadas para a assistência e para a proteção dessa camada da população. Sobre o tema, assinale a opção que apresenta a negligência que caracteriza uma forma de violência.",
+  "alternativas": [
+   "As agressões e/ou as ameaças à integridade física.",
+   "O uso não consentido de seus recursos financeiros e patrimoniais.",
+   "A impaciência e a intolerância com a perda das capacidades cognitivas.",
+   "A omissão na provisão de cuidados básicos de saúde, higiene e alimentação.",
+   "A observância da prioridade de atendimento médico emergencial."
+  ],
+  "gabarito": 3,
+  "comentario": "A negligência contra a pessoa idosa é a recusa ou omissão de cuidados necessários por parte de quem tem o dever de prestá-los, como saúde, higiene e alimentação, e por isso a D está correta. As agressões ou ameaças à integridade física (A) são violência física, o uso não consentido de recursos (B) é violência financeira/patrimonial e a intolerância com as perdas cognitivas (C) se aproxima da violência psicológica. A prioridade de atendimento (E) é um direito, não uma violência.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-macaeprev-2024-psi-53",
+  "disciplina": "especificos",
+  "assunto": "esp-trabalho",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MacaéPrev",
+   "ano": 2024,
+   "cargo": "Analista Previdenciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-previdenciario-especialidade-psicologiacns203-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/ed.-2-macaeprev2024_recursos_gabarito_definitivo_compilado.pdf",
+   "questao_original": 53,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "A Teoria das Necessidades Humanas foi desenvolvida pelo psicólogo norte-americano Abraham Maslow, uma das mais marcantes autoridades da chamada Psicologia Humanista, área dedicada ao estudo do comportamento humano e das forças que o influenciam. Essa teoria é muito aplicada à área de gestão de pessoas no trabalho. A pirâmide de Maslow, uma representação gráfica da teoria das necessidades humanas, tem, em seu topo, as necessidades",
+  "alternativas": [
+   "sociais.",
+   "de autoestima.",
+   "de autorrealização.",
+   "de segurança.",
+   "fisiológicas."
+  ],
+  "gabarito": 2,
+  "comentario": "Na pirâmide de Maslow, as necessidades vão da base ao topo: fisiológicas, segurança, sociais (afeto e pertencimento), estima e, no topo, autorrealização, que é desenvolver plenamente o próprio potencial. A lógica é que as necessidades mais básicas tendem a ser satisfeitas antes que as superiores motivem o comportamento. As fisiológicas estão na base, não no topo.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-macaeprev-2024-psi-54",
+  "disciplina": "especificos",
+  "assunto": "esp-praticas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MacaéPrev",
+   "ano": 2024,
+   "cargo": "Analista Previdenciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-previdenciario-especialidade-psicologiacns203-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/ed.-2-macaeprev2024_recursos_gabarito_definitivo_compilado.pdf",
+   "questao_original": 54,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Em um esforço para deixar de beber, Edson passou a participar de um grupo de autoajuda dos Alcoólicos Anônimos (AA). Considerando o alcoolismo e seu tratamento, assinale a afirmativa correta.",
+  "alternativas": [
+   "As reuniões do AA promovem a prevenção primária do alcoolismo.",
+   "A codependência alcoólica se dá pelo uso combinado de álcool e outras drogas.",
+   "A tolerância ao álcool leva o dependente a ingerir quantidades cada vez menores de bebida alcoólica.",
+   "Um fator terapêutico dos grupos de autoajuda é o compartilhamento do problema tratado.",
+   "O alcoolismo e a dependência química, de modo geral, devem ser, preferencialmente, tratados pela redução de danos no CREAS."
+  ],
+  "gabarito": 3,
+  "comentario": "Nos grupos de autoajuda como o AA, compartilhar o problema com pares que vivem a mesma situação é um fator terapêutico central (universalidade, identificação, apoio mútuo), e por isso a D está correta. O AA atende quem já tem problema com o álcool, então não faz prevenção primária (A). A codependência é o padrão relacional de familiares em torno do dependente, não o uso combinado de drogas (B). A tolerância leva a doses cada vez maiores, não menores (C), e o CREAS é um serviço da assistência social, não da saúde (E).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-macaeprev-2024-psi-55",
+  "disciplina": "especificos",
+  "assunto": "esp-direitos-humanos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MacaéPrev",
+   "ano": 2024,
+   "cargo": "Analista Previdenciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-previdenciario-especialidade-psicologiacns203-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/ed.-2-macaeprev2024_recursos_gabarito_definitivo_compilado.pdf",
+   "questao_original": 55,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "A Lei nº 14.132/2021 inseriu no Código Penal o crime de perseguição, incriminando condutas conhecidas como stalking. Esse tipo de conduta é identificado em situações de violência doméstica contra a mulher e pode ser classificado como violência",
+  "alternativas": [
+   "física.",
+   "moral.",
+   "sexual.",
+   "patrimonial.",
+   "psicológica."
+  ],
+  "gabarito": 4,
+  "comentario": "A Lei Maria da Penha define a violência psicológica como conduta que cause dano emocional ou que vise controlar ações, comportamentos e decisões da mulher, e o texto do artigo menciona expressamente a vigilância constante e a perseguição contumaz. O stalking, tipificado no Código Penal pela Lei 14.132/2021, enquadra-se portanto como violência psicológica. A violência moral corresponde a calúnia, difamação e injúria, e as formas física, sexual e patrimonial não descrevem a perseguição em si.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-macaeprev-2024-psi-56",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MacaéPrev",
+   "ano": 2024,
+   "cargo": "Analista Previdenciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-previdenciario-especialidade-psicologiacns203-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/ed.-2-macaeprev2024_recursos_gabarito_definitivo_compilado.pdf",
+   "questao_original": 56,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Com relação à Rede de Atenção Psicossocial (RAPS), analise as afirmativas a seguir.\nI. É constituída por um conjunto integrado e articulado de diferentes pontos de atenção para atender pessoas em sofrimento psíquico e com necessidades decorrentes uso prejudicial de álcool e outras drogas.\nII. Funciona por meio de ações intersetoriais para garantir a integralidade do cuidado no âmbito do SUS.\nIII. A assistência em saúde mental no Brasil envolve o Governo Federal, os Estados e os Municípios.\nEstá correto o que se afirma em",
+  "alternativas": [
+   "I, apenas.",
+   "I e II, apenas.",
+   "I e III, apenas.",
+   "II e III, apenas.",
+   "I, II e III."
+  ],
+  "gabarito": 4,
+  "comentario": "As três afirmativas estão corretas. A RAPS (Portaria 3.088/2011) é um conjunto integrado e articulado de pontos de atenção para pessoas em sofrimento psíquico e com necessidades decorrentes do uso de álcool e outras drogas (I). Ela depende de ações intersetoriais para garantir a integralidade do cuidado (II). Como política do SUS, envolve as três esferas de governo, União, estados e municípios, na sua gestão e financiamento (III).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-macaeprev-2024-psi-57",
+  "disciplina": "especificos",
+  "assunto": "esp-praticas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MacaéPrev",
+   "ano": 2024,
+   "cargo": "Analista Previdenciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-previdenciario-especialidade-psicologiacns203-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/ed.-2-macaeprev2024_recursos_gabarito_definitivo_compilado.pdf",
+   "questao_original": 57,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Joana é psicóloga e Marília é assistente social, compondo uma equipe de saúde da família em uma UBS na cidade. O trabalho da equipe caracteriza-se notadamente pela intensidade das trocas entre os especialistas e pelo grau de integração real das disciplinas, chegando, muitas vezes, a negar e a superar as fronteiras disciplinares. Assinale a opção que indica o fenômeno que analisamos nessa equipe.",
+  "alternativas": [
+   "Multidisciplinaridade.",
+   "Interdisciplinaridade.",
+   "Pluridisciplinaridade.",
+   "Intersetorialidade.",
+   "Transversalidade."
+  ],
+  "gabarito": 1,
+  "comentario": "A interdisciplinaridade se caracteriza pela intensidade das trocas entre especialistas e pelo grau de integração real das disciplinas num mesmo projeto, definição clássica de Hilton Japiassu. Na multidisciplinaridade e na pluridisciplinaridade, as disciplinas atuam lado a lado, com pouca ou nenhuma integração. A intersetorialidade articula setores de política pública (saúde, educação, assistência), não disciplinas, e a transversalidade se refere a temas ou eixos que atravessam diferentes áreas.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-macaeprev-2024-psi-58",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MacaéPrev",
+   "ano": 2024,
+   "cargo": "Analista Previdenciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-previdenciario-especialidade-psicologiacns203-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/ed.-2-macaeprev2024_recursos_gabarito_definitivo_compilado.pdf",
+   "questao_original": 58,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Clara é modelo e sua família passou a perceber, nos últimos meses, que ela vem sofrendo muito, desenvolvendo pensamentos obsessivos a respeito de supostos defeitos nas coxas e nos braços, que ela julga estarem muito grossos, agindo compulsivamente para tentar resolver o que entende ser um problema, exagerando em dietas e exercendo atividades desportivas até a exaustão. Sobre os comportamentos de Clara, assinale a opção que indica, corretamente, o diagnóstico psiquiátrico.",
+  "alternativas": [
+   "Bulimia.",
+   "Compulsão Alimentar.",
+   "Transtorno Dismórfico Corporal.",
+   "Neurose Histérica.",
+   "Transtorno De Ansiedade Generalizada."
+  ],
+  "gabarito": 2,
+  "comentario": "O transtorno dismórfico corporal (DSM-5, no grupo do transtorno obsessivo-compulsivo e transtornos relacionados) consiste na preocupação com defeitos percebidos na aparência, imperceptíveis ou mínimos para os outros, acompanhada de comportamentos repetitivos em resposta a ela, com sofrimento significativo. É o quadro de Clara, com pensamentos obsessivos sobre as coxas e os braços e ações compulsivas para 'corrigi-los'. Bulimia e compulsão alimentar envolvem episódios de compulsão alimentar, ausentes no caso. 'Neurose histérica' é nosografia antiga, e o TAG é marcado por preocupação difusa com vários temas.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-macaeprev-2024-psi-59",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MacaéPrev",
+   "ano": 2024,
+   "cargo": "Analista Previdenciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-previdenciario-especialidade-psicologiacns203-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/ed.-2-macaeprev2024_recursos_gabarito_definitivo_compilado.pdf",
+   "questao_original": 59,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "O famoso experimento realizado com o bebê que se tornou conhecido como pequeno Albert, no início dos anos de 1920, buscou avaliar o condicionamento em seres humanos, por meio da indução do medo à criança graças ao pareamento de estímulos aversivos. A experiência, que atualmente é alvo de críticas éticas, foi desenvolvida por",
+  "alternativas": [
+   "Albert Bandura.",
+   "Alfred Adler.",
+   "Karen Horney.",
+   "John B. Watson.",
+   "Aaron Beck."
+  ],
+  "gabarito": 3,
+  "comentario": "O experimento do 'pequeno Albert' (1920) foi conduzido por John B. Watson, fundador do behaviorismo, com Rosalie Rayner. Eles parearam um rato branco a um ruído alto e assustador e mostraram o condicionamento respondente (clássico) do medo e sua generalização para estímulos semelhantes. Bandura é da aprendizagem social, Adler da psicologia individual, Horney da psicanálise culturalista e Beck da terapia cognitiva.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-macaeprev-2024-psi-60",
+  "disciplina": "especificos",
+  "assunto": "esp-direitos-humanos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MacaéPrev",
+   "ano": 2024,
+   "cargo": "Analista Previdenciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-previdenciario-especialidade-psicologiacns203-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/ed.-2-macaeprev2024_recursos_gabarito_definitivo_compilado.pdf",
+   "questao_original": 60,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Gustavo tem 14 anos e vive na rua após sofrer graves maus tratos domésticos pelo pai alcoolista. O adolescente foi institucionalizado em unidade de acolhimento onde teve os tênis furtados, queixando-se sobre isso com um educador. Acontece que, mesmo após o pedido de ajuda, o educador não assumiu nenhuma atitude protetiva, inclusive o humilhou publicamente por ter sido furtado no local. A postura do educador levou o adolescente a se evadir do espaço, pois se sentiu acuado. O relato indica que, no abrigo, Gustavo foi vítima de",
+  "alternativas": [
+   "abuso sexual.",
+   "violência física.",
+   "maus tratos físicos.",
+   "exploração institucional.",
+   "violência psicológica."
+  ],
+  "gabarito": 4,
+  "comentario": "O educador se omitiu diante do pedido de proteção e humilhou publicamente o adolescente. Essas condutas causam dano emocional e configuram violência psicológica, que inclui humilhação, desqualificação e exposição vexatória. Não houve contato sexual nem agressão ao corpo, o que afasta as alternativas A, B e C. 'Exploração institucional' não é a categoria usada para essa situação.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-macaeprev-2024-psi-61",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MacaéPrev",
+   "ano": 2024,
+   "cargo": "Analista Previdenciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-previdenciario-especialidade-psicologiacns203-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/ed.-2-macaeprev2024_recursos_gabarito_definitivo_compilado.pdf",
+   "questao_original": 61,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "A noção de desenvolvimento está associada a um processo evolutivo, ao longo de toda a vida, nos diversos campos da existência, como o afetivo, o cognitivo, o social e o motor. Sobre o tema, segundo a teoria de Lev Vygotsky, assinale a afirmativa correta.",
+  "alternativas": [
+   "Enfatiza o processo histórico-social e o papel da linguagem no desenvolvimento do indivíduo.",
+   "Defende que experiências de cada indivíduo desde antes do nascimento são determinantes no desenvolvimento.",
+   "Entende o desenvolvimento humano a partir de motivações conscientes e inconscientes da criança.",
+   "Acredita que o desenvolvimento acontece de forma inata pois estrutura biológica já é programada para isso.",
+   "Pensa que as crianças são tábulas rasas, que aprendem por processos de imitação, condicionamento e reforço."
+  ],
+  "gabarito": 0,
+  "comentario": "A teoria histórico-cultural de Vygotsky entende que as funções psicológicas superiores se constituem nas relações sociais, mediadas por instrumentos e signos, com papel central da linguagem. Por isso a A está correta. A ênfase em motivações conscientes e inconscientes remete à psicanálise (C), o inatismo/maturacionismo à D e a tábula rasa com condicionamento e reforço ao behaviorismo (E). A B atribui ao desenvolvimento um determinismo de experiências pré-natais estranho a Vygotsky.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-macaeprev-2024-psi-62",
+  "disciplina": "legislacao",
+  "assunto": "leg-res06-2019",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MacaéPrev",
+   "ano": 2024,
+   "cargo": "Analista Previdenciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-previdenciario-especialidade-psicologiacns203-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/ed.-2-macaeprev2024_recursos_gabarito_definitivo_compilado.pdf",
+   "questao_original": 62,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "As opções a seguir apresentam, segundo o Conselho Federal de Psicologia, modalidades de documentos psicológicos, à exceção de uma. Assinale-a.",
+  "alternativas": [
+   "Relatório Multiprofissional.",
+   "Redação Psicológica.",
+   "Atestado Psicológico.",
+   "Laudo Psicológico.",
+   "Parecer Psicológico."
+  ],
+  "gabarito": 1,
+  "comentario": "A Res. CFP 06/2019 reconhece como modalidades de documentos psicológicos a declaração, o atestado psicológico, o relatório (psicológico e multiprofissional), o laudo psicológico e o parecer psicológico. Não existe 'redação psicológica' como modalidade, e por isso a B é a exceção. O relatório multiprofissional (A) é produzido pelo psicólogo junto com outros profissionais da equipe e consta da norma.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-macaeprev-2024-psi-63",
+  "disciplina": "especificos",
+  "assunto": "esp-direitos-humanos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MacaéPrev",
+   "ano": 2024,
+   "cargo": "Analista Previdenciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-previdenciario-especialidade-psicologiacns203-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/ed.-2-macaeprev2024_recursos_gabarito_definitivo_compilado.pdf",
+   "questao_original": 63,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Crianças e adolescentes vítimas de violência intrafamiliar podem ser inseridos em programas de acolhimento institucional ou familiar. Sobre o acolhimento de crianças e adolescentes, assinale a afirmativa correta.",
+  "alternativas": [
+   "A família acolhedora garante o atendimento especializado e individualizado, com afeto, da criança e do adolescente, enquanto a situação da família de origem está sendo reorganizada.",
+   "O acolhimento institucional é preferencial dentro da política de proteção e a criança e adolescente podem permanecer no máximo 24 meses institucionalizados naqueles locais.",
+   "A colocação em família acolhedora implica em colocação em família substituta na modalidade de adoção e deve ser autorizada pela família biológica no momento da inclusão da criança ou adolescente.",
+   "A autoridade responsável pela inclusão e exclusão de crianças e adolescentes em abrigos é o Conselho Tutelar que deve sempre contar com equipe multiprofissional que possa subsidiá-lo.",
+   "Devem ser realizadas audiências em todas as unidades de acolhimento no mínimo cinco vezes ao ano para reavaliação de todos os processos de crianças e adolescentes acolhidos."
+  ],
+  "gabarito": 0,
+  "comentario": "No acolhimento familiar, a criança ou o adolescente fica temporariamente sob cuidados individualizados de uma família cadastrada enquanto se trabalha a reintegração à família de origem, e por isso a A está correta. O ECA dá preferência ao acolhimento familiar sobre o institucional, e a permanência é excepcional e provisória, com prazo máximo legal hoje inferior a 24 meses (B). Família acolhedora não é adoção nem depende de autorização dos pais biológicos (C). O afastamento do convívio familiar é competência da autoridade judiciária, não do Conselho Tutelar (D), e a periodicidade das reavaliações prevista em lei não é a da E.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-macaeprev-2024-psi-64",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MacaéPrev",
+   "ano": 2024,
+   "cargo": "Analista Previdenciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-previdenciario-especialidade-psicologiacns203-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/ed.-2-macaeprev2024_recursos_gabarito_definitivo_compilado.pdf",
+   "questao_original": 64,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Para Pichon-Rivière, o grupo operativo é constituído por pessoas reunidas com um objetivo comum, chamado de \"grupo centrado na tarefa que tem por finalidade aprender a pensar em termos de resolução das dificuldades criadas e manifestadas no campo grupal.\" Segundo o autor citado, o porta-voz é",
+  "alternativas": [
+   "o integrante que explicita o que está implícito, colaborando com a tarefa.",
+   "o componente que explicita algo não tem a aceitação do grupo.",
+   "o integrante que contribui para mudança após aceitação do inconsciente grupal.",
+   "o responsável por problematizar e direcionar o grupo para a tarefa comum.",
+   "quem registra o que ocorre na reunião, resgatando e analisando depois a história do grupo."
+  ],
+  "gabarito": 0,
+  "comentario": "Na teoria de Pichon-Rivière, o porta-voz é o integrante que, em determinado momento, enuncia algo que estava implícito no grupo, as ansiedades e fantasias grupais, tornando-o explícito e permitindo trabalhá-lo a favor da tarefa. Por isso a A está correta. O integrante cuja fala o grupo rejeita se aproxima da figura do bode expiatório (B). A função de problematizar e orientar o grupo para a tarefa é do coordenador (D), e a de registrar e devolver a história do grupo é do observador (E).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-macaeprev-2024-psi-65",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MacaéPrev",
+   "ano": 2024,
+   "cargo": "Analista Previdenciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-previdenciario-especialidade-psicologiacns203-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/ed.-2-macaeprev2024_recursos_gabarito_definitivo_compilado.pdf",
+   "questao_original": 65,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Para Carl Gustav Jung os conjuntos de ideias e imagens, carregadas de afetos, conglomeradas em torno de um núcleo derivado de um ou mais arquétipos, são as(os)",
+  "alternativas": [
+   "defesas do ego.",
+   "complexos.",
+   "temenos.",
+   "conjunções dos opostos.",
+   "Imagos Dei."
+  ],
+  "gabarito": 1,
+  "comentario": "Para Jung, os complexos são conjuntos de ideias e imagens com forte carga afetiva, agrupados em torno de um núcleo arquetípico, que funcionam com relativa autonomia na psique (como o complexo materno). Temenos é o espaço protegido, o 'recinto sagrado' do processo analítico. A conjunção dos opostos (coniunctio) é imagem alquímica da integração de opostos na individuação, e a Imago Dei é a imagem de Deus, associada ao arquétipo do Self. Defesas do ego é conceito da psicanálise freudiana.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-macaeprev-2024-psi-66",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MacaéPrev",
+   "ano": 2024,
+   "cargo": "Analista Previdenciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-previdenciario-especialidade-psicologiacns203-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/ed.-2-macaeprev2024_recursos_gabarito_definitivo_compilado.pdf",
+   "questao_original": 66,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Basaglia (1985) destaca que o discurso antipsiquiátrico não se restringe ao campo de ação da Psiquiatria na medida em que ele é antiespecialístico. Com relação às implicações epistêmicas da reforma psiquiátrica antimanicomial para a Psicologia, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.\n( ) Busca de nexos causais para a compreensão do quadro clínico e psicossocial do paciente, baseados nas definições de normal e patológico.\n( ) Enfatiza as necessidades sociais e de saúde que se inscrevem nas queixas dos usuários dos serviços, levando em consideração a sua territorialidade.\n( ) Considera os mecanismos sociais, raciais, sexistas e as diversas formas de exclusão que operam em nossa sociedade.\nAs afirmativas são, respectivamente,",
+  "alternativas": [
+   "F – V – F.",
+   "F – V – V.",
+   "V – V – F.",
+   "V – F – F.",
+   "V – F – V."
+  ],
+  "gabarito": 1,
+  "comentario": "A sequência é F–V–V. A reforma psiquiátrica antimanicomial desloca o foco da doença para a existência-sofrimento do sujeito em seu contexto. Por isso ela valoriza as necessidades sociais e de saúde inscritas nas queixas, considerando o território (2ª afirmativa), e os mecanismos sociais, raciais, sexistas e outras formas de exclusão (3ª). A primeira é falsa, pois buscar nexos causais a partir da oposição normal/patológico reproduz a lógica do saber psiquiátrico tradicional que Basaglia criticava.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-macaeprev-2024-psi-67",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MacaéPrev",
+   "ano": 2024,
+   "cargo": "Analista Previdenciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-previdenciario-especialidade-psicologiacns203-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/ed.-2-macaeprev2024_recursos_gabarito_definitivo_compilado.pdf",
+   "questao_original": 67,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "No que se refere ao encargo dos Centros de Atenção Psicossocial Infantojuvenis (CAPSi), assinale a afirmativa correta.",
+  "alternativas": [
+   "Objetivam que a atenção básica possa manejar as crises psicossociais de crianças e adolescentes, responsabilizando as famílias.",
+   "Articulam redes colaborativas de cuidados, que usam a institucionalização como o principal mecanismo de gestão da demanda.",
+   "Possuem função terapêutica e gestora na rede de atenção psicossocial, ofertando cuidados territorializados e intersetoriais.",
+   "Capilarizam as ações do Estado para o exercício de práticas disciplinares, que buscam a proteção integral da criança e do adolescente.",
+   "Orientam-se para o atendimento dos casos de maior gravidade, ampliando a demanda para os serviços hospitalares."
+  ],
+  "gabarito": 2,
+  "comentario": "O CAPSi é serviço estratégico da RAPS para crianças e adolescentes com sofrimento psíquico grave. Ele presta o cuidado direto e também ordena a rede (função gestora), com atenção territorializada e intersetorial com educação, assistência e justiça, como diz a C. Ele não transfere o manejo das crises à atenção básica responsabilizando as famílias (A). Não usa a institucionalização como gestão da demanda (B) nem visa práticas disciplinares (D), e busca reduzir, e não ampliar, a demanda hospitalar (E).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-macaeprev-2024-psi-68",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MacaéPrev",
+   "ano": 2024,
+   "cargo": "Analista Previdenciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-previdenciario-especialidade-psicologiacns203-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/ed.-2-macaeprev2024_recursos_gabarito_definitivo_compilado.pdf",
+   "questao_original": 68,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Com relação aos efeitos da medicalização na atenção psicossocial, assinale a afirmativa correta.",
+  "alternativas": [
+   "Visa à produção de diagnósticos para a garantia de direitos, sendo o objetivo do Projeto Terapêutico Singular.",
+   "Fomenta a integralidade assistencial, contribuindo para a produção de demanda para cuidados psicológicos.",
+   "Compreende as manifestações subjetivas para além de questões biológicas.",
+   "Contribui para o esvaziamento da responsabilidade do Estado no enfrentamento das injustiças sociais.",
+   "Gera a patologização do sofrimento psicossocial, possibilitando que os usuários construam uma narrativa própria."
+  ],
+  "gabarito": 3,
+  "comentario": "A medicalização transforma questões sociais, políticas e coletivas (pobreza, violência, desigualdade) em problemas individuais de ordem médica ou biológica. Ao fazer isso, desloca para o indivíduo, e para o remédio ou o diagnóstico, aquilo que exigiria enfrentamento das injustiças sociais pelo Estado, como afirma a D. Ela não é objetivo do PTS (A), não fomenta a integralidade (B) e reduz o sujeito ao biológico, ao contrário do que diz a C. A E começa certa (patologização), mas erra ao dizer que isso favorece uma narrativa própria do usuário, pois a medicalização tende a silenciá-la.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-macaeprev-2024-psi-69",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MacaéPrev",
+   "ano": 2024,
+   "cargo": "Analista Previdenciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-previdenciario-especialidade-psicologiacns203-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/ed.-2-macaeprev2024_recursos_gabarito_definitivo_compilado.pdf",
+   "questao_original": 69,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "No que concerne à relação entre os Centros de Atenção Psicossocial (CAPS) e a Estratégia de Saúde da Família (ESF), analise as afirmativas a seguir.\nI. A lógica de encaminhamentos para os CAPS tornou mais efetiva a construção de redes colaborativas de cuidado junto a ESF.\nII. A noção de referência e contrarreferência na relação CAPS e ESF permite operacionalizar processos de trabalho que visam ao cuidado compartilhado.\nIII. Enquanto porta de entrada obrigatória, a ESF se articula com o CAPS para maior responsabilização das famílias no cuidado psicossocial. Esta correto o que se afirma em",
+  "alternativas": [
+   "I, somente.",
+   "II, somente.",
+   "I e III, somente.",
+   "II e III, somente.",
+   "I, II e III."
+  ],
+  "gabarito": 1,
+  "comentario": "Segundo a banca, só a II está correta: a relação CAPS–ESF, organizada por mecanismos de referência e contrarreferência, permite operacionalizar processos de trabalho voltados ao cuidado compartilhado. A I é falsa porque a mera lógica de encaminhamento tende a fragmentar o cuidado, e é o apoio matricial e a corresponsabilização que fortalecem as redes colaborativas. A III erra porque a atenção básica é porta de entrada preferencial, e não obrigatória, e a articulação busca a corresponsabilização dos serviços, não transferir o cuidado às famílias. Obs.: parte da literatura de saúde mental critica a própria lógica de referência e contrarreferência em favor do matriciamento, o que torna a II discutível, mas o gabarito definitivo a manteve como correta.",
+  "dificuldade": 3,
+  "anulada": false
+ },
+ {
+  "id": "fgv-macaeprev-2024-psi-70",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MacaéPrev",
+   "ano": 2024,
+   "cargo": "Analista Previdenciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-previdenciario-especialidade-psicologiacns203-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/ed.-2-macaeprev2024_recursos_gabarito_definitivo_compilado.pdf",
+   "questao_original": 70,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Considerando os critérios diagnósticos para transtornos do uso de substâncias e o Manual Diagnóstico e Estatístico de Transtornos Mentais (DSM-5, 5ª ed.), assinale a opção que apresenta, corretamente, um critério de evidência de tolerância.",
+  "alternativas": [
+   "O uso da mesma substância psicoativa com a intenção de aliviar ou evitar sintomas físicos ou psicossociais indesejáveis.",
+   "O abandono progressivo de prazeres e interesses alternativos, em favor do uso da substância psicoativa.",
+   "O uso de doses crescentes da substância psicoativa para alcançar efeitos originalmente produzidos por doses mais baixas.",
+   "A persistência no uso da substância, a despeito de evidência clara de consequências manifestamente nocivas.",
+   "A dificuldade em controlar o comportamento de consumir a substância, em termos de início, término e níveis de consumo."
+  ],
+  "gabarito": 2,
+  "comentario": "No DSM-5, a tolerância é definida por necessidade de quantidades progressivamente maiores da substância para obter o efeito desejado, ou por efeito acentuadamente menor com o uso continuado da mesma quantidade. A C descreve exatamente isso. O uso para aliviar ou evitar sintomas (A) relaciona-se à abstinência. O abandono de outras atividades (B), a persistência apesar dos danos (D) e a dificuldade de controle (E) são outros critérios do transtorno por uso de substância, mas não evidenciam tolerância.",
+  "dificuldade": 1,
+  "anulada": false
+ }
+]

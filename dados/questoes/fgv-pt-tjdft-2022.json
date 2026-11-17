@@ -1,0 +1,252 @@
+[
+ {
+  "id": "fgv-tjdft-2022-psi-1",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJDFT",
+   "ano": 2022,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_judiciario_-_psicologians-psc_tipo_1.pdf"
+  },
+  "enunciado": "“Justiça é consciência, não uma consciência pessoal, mas a consciência de toda a humanidade. Aqueles que reconhecem claramente a voz de suas próprias consciências normalmente reconhecem também a voz da justiça.” (Alexander Solzhenitsyn)\nA afirmação que está de acordo com a estruturação e a significação desse pensamento é:",
+  "alternativas": [
+   "a conjunção “mas” mostra uma oposição entre “consciência” e “consciência de toda a humanidade”;",
+   "ao dizer que justiça é a consciência de toda a humanidade, o autor mostra uma marca da justiça: a imparcialidade;",
+   "o segmento “não uma consciência pessoal” corrige o erro do emprego do termo “consciência” no trecho anterior;",
+   "o segundo período amplia a informação do texto, uma espécie de consequência da afirmação anterior;",
+   "o termo “normalmente” indica que o processo de reconhecimento ocorre de forma particular em cada cidadão."
+  ],
+  "gabarito": 3,
+  "comentario": "O segundo período acrescenta uma informação que decorre da definição dada: se justiça é consciência, quem ouve a própria consciência também reconhece a voz da justiça — ampliação com valor de consequência (D). O “mas” opõe “consciência pessoal” a “consciência de toda a humanidade”, não “consciência” a esta (A); o texto não fala em imparcialidade (B); o segmento “não uma consciência pessoal” especifica, não corrige um erro (C); e “normalmente” indica frequência (“em geral”), não particularidade (E).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjdft-2022-psi-2",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJDFT",
+   "ano": 2022,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_judiciario_-_psicologians-psc_tipo_1.pdf"
+  },
+  "enunciado": "“Quando se julga por indução e sem o necessário conhecimento dos fatos, às vezes chega-se a ser injusto até mesmo com os malfeitores.”\nO raciocínio abaixo que deve ser considerado como indutivo é:",
+  "alternativas": [
+   "Os funcionários públicos folgam amanhã, por isso meu marido ficará em casa;",
+   "Todos os juízes procuram julgar corretamente, por isso é o que ele também procura;",
+   "Nos dias de semana os mercados abrem, por isso deixarei para comprar isso amanhã;",
+   "No inverno, chove todos os dias, por isso vou comprar um guarda-chuva;",
+   "Ontem nevou bastante, por isso as estradas devem estar intransitáveis."
+  ],
+  "gabarito": 4,
+  "comentario": "O raciocínio dedutivo parte de uma regra geral para um caso particular; o indutivo parte de fatos/dados particulares para uma conclusão provável. Em A, B, C e D há uma premissa geral (funcionários públicos folgam, todos os juízes, os mercados abrem nos dias de semana, no inverno chove todos os dias) aplicada a um caso — dedução. Em E, parte-se de um fato observado (nevou bastante ontem) para uma conclusão apenas provável (“devem estar intransitáveis”), o que caracteriza a indução.",
+  "dificuldade": 3,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjdft-2022-psi-3",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJDFT",
+   "ano": 2022,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_judiciario_-_psicologians-psc_tipo_1.pdf"
+  },
+  "enunciado": "“Todos aqueles que devem deliberar sobre quaisquer questões devem manter-se imunes ao ódio e à simpatia, à ira e ao sentimentalismo.”\nTratando-se de um pensamento dirigido àqueles que julgam, o seu autor recomenda que eles:",
+  "alternativas": [
+   "pratiquem a caridade em relação ao próximo;",
+   "deixem de lado, no julgamento, questões pessoais;",
+   "não abandonem o sentimento ao julgarem;",
+   "considerem sempre a realidade do próximo;",
+   "privilegiem sempre a verdade."
+  ],
+  "gabarito": 1,
+  "comentario": "Manter-se imune a ódio, simpatia, ira e sentimentalismo significa afastar afetos e questões pessoais do julgamento (B). A caridade (A) e a consideração da realidade do próximo (D) não são mencionadas; C diz o contrário do texto; e, embora a busca da verdade seja desejável, o pensamento trata especificamente da neutralidade emocional (E).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjdft-2022-psi-4",
+  "disciplina": "portugues",
+  "assunto": "pt-morfologia",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJDFT",
+   "ano": 2022,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_judiciario_-_psicologians-psc_tipo_1.pdf"
+  },
+  "enunciado": "Chegaram todos atrasados; além disso, não trouxeram as encomendas.\nNessa frase, aparece o conector “além disso” com valor de adição; a frase abaixo em que NÃO há um conector do mesmo valor aditivo é:",
+  "alternativas": [
+   "Além de usar máscara, os passageiros dos ônibus deviam estar mais separados uns dos outros;",
+   "Ainda por cima, as pessoas parecem considerar que a pandemia já acabou;",
+   "Corria o risco de contrair a doença e mesmo assim não se importava;",
+   "Nem a máscara nem o álcool protegem integralmente contra a Covid;",
+   "Não só a pandemia não terminou, como também novas cepas são esperadas."
+  ],
+  "gabarito": 2,
+  "comentario": "Em C, “mesmo assim” tem valor concessivo (equivale a “apesar disso”), e não aditivo. Os demais conectores somam ideias: “Além de” (A), “Ainda por cima” (B), “Nem... nem” (D, adição de negativas) e “Não só... como também” (E, aditivo correlativo).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjdft-2022-psi-5",
+  "disciplina": "portugues",
+  "assunto": "pt-sintaxe",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJDFT",
+   "ano": 2022,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_judiciario_-_psicologians-psc_tipo_1.pdf"
+  },
+  "enunciado": "“A arte de interrogar não é tão fácil como se pensa. É mais uma arte de mestres do que discípulos; é preciso já ter aprendido muitas coisas para saber perguntar o que não se sabe.”\nA frase abaixo que mostra uma interrogação, ainda que indireta, é:",
+  "alternativas": [
+   "Sei o porquê de ele ter chegado atrasado;",
+   "Vi quando o táxi capotou;",
+   "Desconheço onde ele mora;",
+   "Vi como ela fez isso;",
+   "Queria conhecer todas as respostas."
+  ],
+  "gabarito": 2,
+  "comentario": "Em C, “Desconheço onde ele mora” equivale a uma pergunta indireta (“Onde ele mora?”), introduzida pelo advérbio interrogativo “onde” após verbo que indica desconhecimento. Em A, “o porquê” é substantivo e o falante afirma saber; em B, “quando” introduz circunstância de tempo; em D, o falante relata algo que viu (modo), sem dúvida a ser respondida; em E não há oração interrogativa.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjdft-2022-psi-6",
+  "disciplina": "portugues",
+  "assunto": "pt-morfologia",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJDFT",
+   "ano": 2022,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_judiciario_-_psicologians-psc_tipo_1.pdf"
+  },
+  "enunciado": "“E da minha fidelidade não se deveria duvidar; pois, tendo-a sempre observado, não devo aprender a rompê-la agora; e quem foi fiel e bom por quarenta e três anos, como eu, não deve poder mudar de natureza: da minha fidelidade e da minha bondade é testemunha a minha pobreza.”\nNesse pensamento, o autor utiliza os adjetivos “fiel e bom” e, em seguida, os substantivos correspondentes “fidelidade” e “bondade”.\nA opção abaixo em que os dois adjetivos citados mostram substantivos adequados é:",
+  "alternativas": [
+   "sensato e esperto / sensatez e espertez;",
+   "claro e escuro / clareza e escureza;",
+   "alto e gordo / altura e magrura;",
+   "fundo e profundo / fundeza e profundeza;",
+   "liso e áspero / lisibilidade e asperidade."
+  ],
+  "gabarito": 1,
+  "comentario": "Em B, “clareza” e “escureza” são substantivos registrados para “claro” e “escuro” (este último também tem “escuridão”). Nas demais há formas inadequadas: o substantivo de “esperto” é “esperteza” (A); “magrura” não corresponde a “gordo”, cujo substantivo é “gordura” (C); de “fundo” forma-se “fundura”, não “fundeza” (D); de “liso” e “áspero”, “lisura” e “aspereza” (E).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjdft-2022-psi-7",
+  "disciplina": "portugues",
+  "assunto": "pt-sintaxe",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJDFT",
+   "ano": 2022,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_judiciario_-_psicologians-psc_tipo_1.pdf"
+  },
+  "enunciado": "“Não há nada que demonstre tão bem a grandeza e a potência da inteligência humana, nem a superioridade e a nobreza do homem, como o fato de ele poder conhecer, compreender por completo e sentir fortemente a sua pequenez.”\nOs termos desse pensamento mostram paralelismo perfeito nos seguintes segmentos:",
+  "alternativas": [
+   "“Não há nada” / “como o fato”;",
+   "“que demonstre” / “de ele poder conhecer”;",
+   "“a grandeza e a potência da inteligência humana” / “a superioridade e a nobreza do homem”;",
+   "“poder conhecer” / “compreender por completo”;",
+   "“como o fato de ele poder conhecer” / “compreender por completo e sentir fortemente”."
+  ],
+  "gabarito": 2,
+  "comentario": "Paralelismo é a repetição de estruturas sintáticas equivalentes. Em C, os dois segmentos têm a mesma forma: artigo + substantivo + “e” + artigo + substantivo + adjunto com “de” (“a grandeza e a potência da inteligência humana” / “a superioridade e a nobreza do homem”), ambos objetos de “demonstre”. Nas demais opções, os segmentos têm estruturas e funções diferentes (oração x termo, locução verbal x verbo com adjunto etc.).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjdft-2022-psi-8",
+  "disciplina": "portugues",
+  "assunto": "pt-semantica",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJDFT",
+   "ano": 2022,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_judiciario_-_psicologians-psc_tipo_1.pdf"
+  },
+  "enunciado": "“A liberdade, como a vida, só a merece quem deve conquistá-la a cada dia!”\nEssa frase exemplifica um caso de linguagem figurada que é um(a):",
+  "alternativas": [
+   "pleonasmo, com a repetição da palavra “liberdade” por meio do pronome pessoal em “a merece”;",
+   "hipérbole, com a expressão “deve conquistá-la a cada dia”, já que indica um exagero;",
+   "elipse do termo “liberdade” no segmento “só a merece quem deve conquistá-la”;",
+   "ironia na comparação “como a vida”, igualando duas realidades muito diferentes: a liberdade e a vida;",
+   "anacoluto com o termo inicial “liberdade”, já que ele não mostra continuidade sintática na frase."
+  ],
+  "gabarito": 0,
+  "comentario": "“A liberdade” é objeto direto de “merece”, deslocado para o início e retomado pelo pronome “a” (“só a merece”): é o objeto direto pleonástico, um pleonasmo de reforço (A). Não há exagero (B); “liberdade” não está omitida, mas retomada pelo pronome (C); a comparação não é irônica (D); e não há anacoluto, pois “a liberdade” mantém função sintática (objeto direto) na frase (E).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjdft-2022-psi-9",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJDFT",
+   "ano": 2022,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_judiciario_-_psicologians-psc_tipo_1.pdf"
+  },
+  "enunciado": "“Os regimes que reprimem a liberdade da palavra, por se incomodarem com a liberdade que ela difunde, fazem como as crianças que fecham os olhos para não serem vistas.”\nSobre esse pensamento, é correto afirmar que:",
+  "alternativas": [
+   "o segmento “que reprimem a liberdade da palavra” explica o termo anterior;",
+   "o termo “da palavra” marca o paciente de “liberdade”;",
+   "“por se incomodarem com a liberdade que ela difunde” indica a consequência da repressão da liberdade da palavra;",
+   "a comparação com as crianças marca uma atitude infantil dos regimes citados;",
+   "“que fecham os olhos para não serem vistas” mostra uma ação claramente irracional."
+  ],
+  "gabarito": 4,
+  "comentario": "Fechar os olhos para não ser visto é uma ação ilógica, irracional: o fato de a criança não ver não impede que os outros a vejam — assim também a repressão não elimina a liberdade (E). O segmento “que reprimem...” é restritivo, não explicativo (A); “da palavra” indica quem possui/exerce a liberdade, não o paciente (B); “por se incomodarem...” indica causa, não consequência (C). Quanto a D, a banca entende que a comparação destaca a irracionalidade/ineficácia da atitude, e não a infantilidade em si.",
+  "dificuldade": 3,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjdft-2022-psi-10",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJDFT",
+   "ano": 2022,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_judiciario_-_psicologians-psc_tipo_1.pdf"
+  },
+  "enunciado": "“Também leio livros, muitos livros: mas com eles aprendo menos do que com a vida. Apenas um livro me ensinou muito: o dicionário. Oh, o dicionário, adoro-o. Mas também adoro a estrada, um dicionário muito mais maravilhoso.”\nDepreende-se desse pensamento que seu autor:",
+  "alternativas": [
+   "nada aprende com os livros, com exceção do dicionário;",
+   "deve tudo que conhece ao dicionário;",
+   "adquire conhecimentos com as viagens que realiza;",
+   "conhece o mundo por meio da experiência de vida;",
+   "constatou que os dicionários registram o melhor da vida."
+  ],
+  "gabarito": 3,
+  "comentario": "O autor afirma aprender mais com a vida do que com os livros e chama a estrada de “dicionário muito mais maravilhoso” — a estrada simboliza a experiência de vida (D). Ele aprende com os livros, só que menos (A); não deve tudo ao dicionário (B); “estrada” tem sentido figurado, não se restringe a viagens (C); e o texto não diz que dicionários registram o melhor da vida (E).",
+  "dificuldade": 2,
+  "anulada": false
+ }
+]

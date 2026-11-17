@@ -1,0 +1,288 @@
+[
+  {
+    "id": "aut-leg-lei4119-001",
+    "disciplina": "legislacao",
+    "assunto": "leg-lei4119",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://legis.senado.leg.br/norma/545961/publicacao/15639946"
+    },
+    "enunciado": "A Lei nº 4.119/1962, que dispõe sobre os cursos de formação em Psicologia e regulamenta a profissão, previa originalmente que a formação em Psicologia se faria nas Faculdades de Filosofia, em cursos de",
+    "alternativas": [
+      "bacharelado e Psicólogo, apenas.",
+      "bacharelado, licenciado e Psicólogo.",
+      "licenciatura e especialização em Psicologia Clínica.",
+      "graduação e pós-graduação em Psicologia Aplicada.",
+      "bacharelado, licenciado e Psicologista."
+    ],
+    "gabarito": 1,
+    "comentario": "Art. 1º da Lei 4.119/62: 'A formação em Psicologia far-se-á nas Faculdades de Filosofia, em cursos de bacharelado, licenciado e Psicólogo.' As demais alternativas omitem um dos cursos ou trocam a denominação (o termo 'psicologista' aparece apenas no art. 20, como denominação de cargo público anterior à lei).",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-lei4119-002",
+    "disciplina": "legislacao",
+    "assunto": "leg-lei4119",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://legis.senado.leg.br/norma/545961/publicacao/15639946"
+    },
+    "enunciado": "Conforme o art. 13, § 1º, da Lei nº 4.119/1962, constitui função privativa do Psicólogo a utilização de métodos e técnicas psicológicas com determinados objetivos. NÃO se inclui entre esses objetivos",
+    "alternativas": [
+      "o diagnóstico psicológico.",
+      "a orientação e seleção profissional.",
+      "a prescrição de tratamento medicamentoso para transtornos mentais.",
+      "a orientação psicopedagógica.",
+      "a solução de problemas de ajustamento."
+    ],
+    "gabarito": 2,
+    "comentario": "Art. 13, § 1º, da Lei 4.119/62: constitui função privativa do Psicólogo a utilização de métodos e técnicas psicológicas com os objetivos de diagnóstico psicológico, orientação e seleção profissional, orientação psicopedagógica e solução de problemas de ajustamento. Prescrever medicamentos não é atribuição do psicólogo.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-lei4119-003",
+    "disciplina": "legislacao",
+    "assunto": "leg-lei4119",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://legis.senado.leg.br/norma/545961/publicacao/15639946"
+    },
+    "enunciado": "O art. 13, § 1º, da Lei nº 4.119/1962 teve a palavra 'privativa' vetada pelo Presidente da República. Sobre esse ponto, é correto afirmar que",
+    "alternativas": [
+      "o veto foi rejeitado pelo Congresso Nacional, e o trecho foi promulgado em dezembro de 1962, de modo que as funções ali listadas constituem função privativa do Psicólogo.",
+      "o veto foi mantido, razão pela qual as funções ali listadas podem ser exercidas por qualquer profissional de nível superior.",
+      "o veto foi mantido e a privatividade só foi restabelecida pela Lei nº 5.766/1971.",
+      "a palavra vetada era 'exclusiva', substituída por 'preferencial' pelo Decreto nº 53.464/1964.",
+      "o veto atingiu todo o § 1º, que só voltou a vigorar com a Constituição de 1988."
+    ],
+    "gabarito": 0,
+    "comentario": "O texto publicado da Lei 4.119/62 traz '(VETADO)' no art. 13, § 1º, mas a parte vetada ('privativa') foi mantida pelo Congresso Nacional e promulgada em 14/12/1962. Assim, constitui função PRIVATIVA do Psicólogo a utilização de métodos e técnicas psicológicas para os objetivos ali listados. As demais alternativas descrevem desfechos que não ocorreram.",
+    "dificuldade": 3,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-lei4119-004",
+    "disciplina": "legislacao",
+    "assunto": "leg-lei4119",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://legis.senado.leg.br/norma/545961/publicacao/15639946"
+    },
+    "enunciado": "Segundo a Lei nº 4.119/1962, além das funções privativas previstas no art. 13, § 1º, é da competência do Psicólogo",
+    "alternativas": [
+      "a direção obrigatória de todos os serviços de saúde mental do país.",
+      "a colaboração em assuntos psicológicos ligados a outras ciências.",
+      "a fiscalização do ensino de Psicologia nas Faculdades de Filosofia.",
+      "a emissão de diplomas de Bacharel em Psicologia.",
+      "a coordenação exclusiva de equipes multiprofissionais em hospitais."
+    ],
+    "gabarito": 1,
+    "comentario": "Art. 13, § 2º, da Lei 4.119/62: 'É da competência do Psicólogo a colaboração em assuntos psicológicos ligados a outras ciências.' A lei não atribui ao psicólogo direção obrigatória de serviços, fiscalização do ensino, emissão de diplomas ou coordenação exclusiva de equipes.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-lei4119-005",
+    "disciplina": "legislacao",
+    "assunto": "leg-lei4119",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://legis.senado.leg.br/norma/545961/publicacao/15639946"
+    },
+    "enunciado": "De acordo com a Lei nº 4.119/1962, ao portador do diploma de Bacharel em Psicologia é conferido o direito de",
+    "alternativas": [
+      "exercer a profissão de Psicólogo, inclusive com as funções privativas do art. 13.",
+      "ensinar Psicologia em cursos de grau médio, nos termos da legislação em vigor.",
+      "ensinar Psicologia em todos os cursos de que trata a lei, inclusive no curso de Psicólogo.",
+      "realizar diagnóstico psicológico sob supervisão de Psicólogo.",
+      "inscrever-se no Conselho Regional na categoria de Psicólogo Especialista."
+    ],
+    "gabarito": 1,
+    "comentario": "Art. 11 da Lei 4.119/62: o Bacharel em Psicologia pode ensinar Psicologia em cursos de grau médio. Ensinar nos vários cursos da lei e exercer a profissão de Psicólogo é direito do portador do diploma de PSICÓLOGO (art. 13). O bacharel não recebeu habilitação para o exercício profissional.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-lei4119-006",
+    "disciplina": "legislacao",
+    "assunto": "leg-lei4119",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://legis.senado.leg.br/norma/545961/publicacao/15639946"
+    },
+    "enunciado": "Pela Lei nº 4.119/1962, para a matrícula nos cursos de licenciado e de Psicólogo exigia-se",
+    "alternativas": [
+      "idade mínima de 21 anos e certificado de conclusão do ensino secundário.",
+      "aprovação em exame de seleção aplicado pelo Ministério da Educação e Cultura.",
+      "a apresentação do diploma de Bacharel em Psicologia.",
+      "a apresentação do diploma de Licenciado em Psicologia.",
+      "dois anos de experiência em psicologia aplicada."
+    ],
+    "gabarito": 2,
+    "comentario": "Art. 6º da Lei 4.119/62: do candidato à matrícula nos cursos de licenciado e Psicólogo se exige o diploma de Bacharel em Psicologia. A idade mínima de 18 anos e o certificado do 2º ciclo secundário eram exigidos para o BACHARELADO (art. 5º).",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-lei4119-007",
+    "disciplina": "legislacao",
+    "assunto": "leg-lei4119",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://legis.senado.leg.br/norma/545961/publicacao/15639946"
+    },
+    "enunciado": "A Lei nº 4.119/1962 admitia que alunos fossem dispensados de disciplinas em que já tivessem sido aprovados em cursos superiores anteriores. O limite máximo de dispensa era de",
+    "alternativas": [
+      "seis disciplinas no bacharelado, duas no curso de licenciado e cinco no curso de Psicólogo.",
+      "cinco disciplinas no bacharelado, duas no curso de licenciado e seis no curso de Psicólogo.",
+      "seis disciplinas no bacharelado, cinco no curso de licenciado e duas no curso de Psicólogo.",
+      "três disciplinas em cada um dos cursos.",
+      "metade das disciplinas de cada curso."
+    ],
+    "gabarito": 0,
+    "comentario": "Art. 8º, § 2º, da Lei 4.119/62: a dispensa pode ser de, no máximo, seis disciplinas do bacharelado, duas do curso de licenciado e cinco do curso de Psicólogo. Pelo § 3º, com a dispensa máxima, o aluno poderia cursar o bacharelado em dois anos e, em igual tempo, o curso de Psicólogo.",
+    "dificuldade": 3,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-lei4119-008",
+    "disciplina": "legislacao",
+    "assunto": "leg-lei4119",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://legis.senado.leg.br/norma/545961/publicacao/15639946"
+    },
+    "enunciado": "Nos termos da Lei nº 4.119/1962, para o exercício profissional era obrigatório o registro dos diplomas",
+    "alternativas": [
+      "no órgão competente do Ministério da Educação e Cultura.",
+      "no Conselho Federal de Psicologia.",
+      "no Conselho Regional de Psicologia da jurisdição do diplomado.",
+      "no Ministério do Trabalho e Previdência Social.",
+      "na Faculdade de Filosofia que expediu o diploma, apenas."
+    ],
+    "gabarito": 0,
+    "comentario": "Art. 10 da Lei 4.119/62: para o exercício profissional é obrigatório o registro dos diplomas no órgão competente do Ministério da Educação e Cultura. Os Conselhos de Psicologia só foram criados em 1971 (Lei 5.766/71), quando a inscrição no Conselho Regional passou a ser exigida (art. 10 da Lei 5.766/71).",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-lei4119-009",
+    "disciplina": "legislacao",
+    "assunto": "leg-lei4119",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://legis.senado.leg.br/norma/545961/publicacao/15639946"
+    },
+    "enunciado": "Sobre os serviços que deveriam ser mantidos pelas Faculdades com curso de Psicólogo, a Lei nº 4.119/1962 estabelece que",
+    "alternativas": [
+      "essas Faculdades deverão organizar Serviços Clínicos exclusivamente gratuitos, destinados à população de baixa renda.",
+      "os serviços clínicos serão dirigidos pelo Conselho Regional de Psicologia da localidade.",
+      "os estágios dos alunos deverão ser realizados exclusivamente nos serviços da própria Faculdade.",
+      "essas Faculdades deverão organizar Serviços Clínicos e de aplicação à educação e ao trabalho, orientados e dirigidos pelo Conselho dos Professores do curso, abertos ao público, gratuitos ou remunerados.",
+      "os serviços de aplicação ao trabalho são facultativos e dependem de autorização do Ministério do Trabalho."
+    ],
+    "gabarito": 3,
+    "comentario": "Art. 16 da Lei 4.119/62: as Faculdades com curso de Psicólogo devem organizar Serviços Clínicos e de aplicação à educação e ao trabalho, orientados e dirigidos pelo Conselho dos Professores do curso, abertos ao público, gratuitos ou remunerados. Pelo parágrafo único, estágios e observações práticas podem ocorrer em outras instituições da localidade, a critério dos Professores.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-lei4119-010",
+    "disciplina": "legislacao",
+    "assunto": "leg-lei4119",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://legis.senado.leg.br/norma/545961/publicacao/15639946"
+    },
+    "enunciado": "A Lei nº 4.119/1962 trouxe regras de transição para quem já atuava na área. De acordo com o art. 21, as pessoas que, na data da publicação da lei, viessem exercendo ou tivessem exercido atividades profissionais de psicologia aplicada deveriam requerer registro profissional de Psicólogo no prazo de 180 dias, desde que o exercício tivesse durado",
+    "alternativas": [
+      "mais de dois anos.",
+      "mais de três anos.",
+      "mais de cinco anos.",
+      "mais de dez anos.",
+      "qualquer período, desde que comprovado por trabalhos publicados."
+    ],
+    "gabarito": 2,
+    "comentario": "Art. 21 da Lei 4.119/62: quem já exercesse ou tivesse exercido, por mais de CINCO anos, atividades de psicologia aplicada deveria requerer, em 180 dias, o registro de Psicólogo. O art. 22 exigia a juntada de títulos, comprovantes do exercício e trabalhos publicados, e o art. 23 previa parecer de comissão designada pelo MEC.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-lei4119-011",
+    "disciplina": "legislacao",
+    "assunto": "leg-lei4119",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://legis.senado.leg.br/norma/545961/publicacao/15639946"
+    },
+    "enunciado": "Para opinar sobre os pedidos de registro previstos nas disposições transitórias da Lei nº 4.119/1962, o Ministério da Educação e Cultura designaria uma comissão composta por",
+    "alternativas": [
+      "três membros: um professor universitário, um médico psiquiatra e um representante do Ministério.",
+      "cinco membros: três professores universitários de Psicologia e dois representantes de associações de psicologistas.",
+      "sete membros, todos professores catedráticos de Psicologia.",
+      "cinco membros: dois professores universitários de Psicologia ou Psicologia Educacional e três especialistas em Psicologia Aplicada.",
+      "cinco membros indicados pelo Conselho Federal de Psicologia."
+    ],
+    "gabarito": 3,
+    "comentario": "Art. 23 da Lei 4.119/62: comissão de cinco membros, constituída de dois professores universitários de Psicologia ou Psicologia Educacional e três especialistas em Psicologia Aplicada. O parecer podia concluir pela concessão do registro, pela denegação ou pelo registro condicionado a provas teórico-práticas (parágrafo único). O CFP ainda não existia em 1962.",
+    "dificuldade": 3,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-lei4119-012",
+    "disciplina": "legislacao",
+    "assunto": "leg-lei4119",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://legis.senado.leg.br/norma/545961/publicacao/15639946"
+    },
+    "enunciado": "Considere as afirmativas sobre a Lei nº 4.119/1962.\nI. Fica assegurado aos funcionários públicos efetivos o exercício dos cargos e funções, sob as denominações de Psicólogo, Psicologista ou Psicotécnico, em que tenham sido providos na data de entrada em vigor da lei.\nII. É assegurada, nos termos da legislação em vigor, a revalidação de diplomas expedidos por Faculdades estrangeiras que mantenham cursos equivalentes aos previstos na lei.\nIII. Os cursos de Psicologia então existentes, legalmente autorizados, deveriam adaptar-se às exigências da lei no prazo de cinco anos.\nEstá correto o que se afirma em",
+    "alternativas": [
+      "I, apenas.",
+      "III, apenas.",
+      "I e II, apenas.",
+      "II e III, apenas.",
+      "I, II e III."
+    ],
+    "gabarito": 2,
+    "comentario": "I está correta (art. 20). II está correta (art. 17; cursos não equivalentes podem ser complementados, conforme o parágrafo único). III está errada: o art. 18 fixou o prazo de UM ano após a publicação para a adaptação dos cursos existentes.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-lei4119-013",
+    "disciplina": "legislacao",
+    "assunto": "leg-lei4119",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://legis.senado.leg.br/norma/545961/publicacao/15639946"
+    },
+    "enunciado": "A Lei nº 4.119/1962 assegurou o direito ao registro como Psicólogo aos portadores de diploma ou certificado de especialista em Psicologia, Psicologia Educacional, Psicologia Clínica ou Psicologia Aplicada ao Trabalho, desde que obtidos após",
+    "alternativas": [
+      "estudos em cursos regulares de formação de psicólogos com duração mínima de três anos, devendo o registro ser requerido em 60 dias.",
+      "estudos em cursos de pós-graduação de qualquer duração, devendo o registro ser requerido em um ano.",
+      "estudos em cursos regulares de formação de psicólogos com duração mínima de cinco anos, sem prazo para requerer o registro.",
+      "aprovação em exame nacional aplicado pelo Ministério da Educação e Cultura, devendo o registro ser requerido em 180 dias.",
+      "estudos em cursos regulares de formação de psicólogos com duração mínima de quatro anos ou estudos regulares em cursos de pós-graduação com duração mínima de dois anos, devendo o registro ser requerido em 180 dias."
+    ],
+    "gabarito": 4,
+    "comentario": "Art. 19 e § 1º da Lei 4.119/62: exige-se formação em cursos regulares de formação de psicólogos com duração mínima de 4 anos ou pós-graduação com duração mínima de 2 anos, e o registro devia ser requerido em 180 dias da publicação da lei. Os 60 dias referem-se ao prazo para o MEC expedir as instruções de execução (art. 24).",
+    "dificuldade": 3,
+    "anulada": false
+  }
+]

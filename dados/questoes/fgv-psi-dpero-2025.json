@@ -1,0 +1,842 @@
+[
+ {
+  "id": "fgv-dpero-2025-psi-41",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "DPE-RO",
+   "ano": 2025,
+   "cargo": "Analista em Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-em-psicologia-classe-acns005-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-defintivo-dpe-ro_0.pdf",
+   "questao_original": 41,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "O Sr. Hugo, 75 anos, foi diagnosticado com a doença de Alzheimer e apresenta, entre outros sintomas, episódios de agressividade física e verbal. Em um desses episódios, ele arremessou uma faca sobre sua esposa, D. Hilda, de 70 anos, causando um corte profundo em seu braço. Sobre essa situação é correto afirmar que",
+  "alternativas": [
+   "o Sr. Hugo poderá ser considerado inimputável do ponto de vista penal em razão do diagnóstico de transtorno neurocognitivo.",
+   "o Sr. Hugo será condenado por violência doméstica contra a idosa, mas poderá converter a pena em pagamento de cestas básicas.",
+   "de acordo com a lei antimanicomial, o Sr. Hugo será internado para tratamento em um hospital de custódia.",
+   "o Sr. Hugo é considerado inimputável do ponto de vista penal por ser idoso com mais de 70 anos.",
+   "o Sr. Hugo poderá ser interditado criminalmente pela tentativa de feminicídio contra sua esposa."
+  ],
+  "gabarito": 0,
+  "comentario": "A doença de Alzheimer é um transtorno neurocognitivo maior que pode suprimir a capacidade de entender o caráter ilícito do fato ou de determinar-se de acordo com esse entendimento; nesse caso aplica-se a inimputabilidade por doença mental (art. 26 do Código Penal), a ser verificada em perícia. Por isso a alternativa A usa corretamente o verbo \"poderá\". A idade, por si só, não gera inimputabilidade (D erra); a Lei 10.216/2001 não determina internação em hospital de custódia (C erra); \"interdição criminal\" não existe — a interdição/curatela é instituto civil (E erra); e a B presume condenação de quem pode ser inimputável.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-dpero-2025-psi-42",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "DPE-RO",
+   "ano": 2025,
+   "cargo": "Analista em Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-em-psicologia-classe-acns005-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-defintivo-dpe-ro_0.pdf",
+   "questao_original": 42,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "O psicólogo americano Martins Seligman, conhecido como o pai da Psicologia Positiva, desenvolveu um modelo baseado em cinco elementos essenciais para a promoção do bem-estar subjetivo. De acordo essa abordagem, um elemento fundamental para a conquista desse estado de satisfação é",
+  "alternativas": [
+   "o reconhecimento dos padrões sistêmicos nas dinâmicas familiares.",
+   "a descoberta de um senso de propósito e significado na vida.",
+   "o desenvolvimento da capacidade de estar só na presença do outro.",
+   "a compreensão de que saúde mental consiste na ausência da doença mental.",
+   "o foco na resolução das emoções reprimidas e em crenças limitadoras do passado."
+  ],
+  "gabarito": 1,
+  "comentario": "O modelo PERMA de Seligman reúne cinco elementos do bem-estar: emoções positivas (Positive emotions), engajamento (Engagement), relacionamentos (Relationships), significado/propósito (Meaning) e realização (Accomplishment). A busca de sentido e propósito na vida é, portanto, um dos pilares — alternativa B. Padrões sistêmicos familiares remetem à terapia sistêmica (A), \"estar só na presença do outro\" é conceito de Winnicott (C), a Psicologia Positiva justamente rejeita a ideia de saúde como mera ausência de doença (D), e o foco em emoções reprimidas do passado é típico de abordagens psicodinâmicas (E).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-dpero-2025-psi-43",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "DPE-RO",
+   "ano": 2025,
+   "cargo": "Analista em Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-em-psicologia-classe-acns005-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-defintivo-dpe-ro_0.pdf",
+   "questao_original": 43,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Luana e William são réus em uma ação de Destituição do Poder Familiar sobre sua filha Bianca, 1 ano. Avalie quais das situações abaixo podem fundamentar uma ação desta natureza:\nI. o castigo imoderado\nII. o abandono afetivo e material\nIII. o falecimento dos genitores\nIV. a pobreza extrema\nV. a violência sexual contra a criança\nPodem de fato fundamentar tal ação as situações",
+  "alternativas": [
+   "I, II e V, apenas.",
+   "I, IV e V, apenas.",
+   "II, III e IV, apenas.",
+   "I, II, III e V, apenas.",
+   "II, III, IV e V, apenas."
+  ],
+  "gabarito": 0,
+  "comentario": "A perda/destituição do poder familiar (art. 1.638 do Código Civil e ECA) decorre de condutas graves dos pais, como castigo imoderado, abandono e violência sexual contra o filho — situações I, II e V. O falecimento dos genitores extingue o poder familiar, mas não é fundamento para ação de destituição, que pressupõe réus vivos e conduta culposa (III). A falta ou carência de recursos materiais não constitui motivo suficiente para a perda ou suspensão do poder familiar (art. 23 do ECA), devendo a família ser incluída em programas de apoio (IV).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-dpero-2025-psi-44",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "DPE-RO",
+   "ano": 2025,
+   "cargo": "Analista em Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-em-psicologia-classe-acns005-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-defintivo-dpe-ro_0.pdf",
+   "questao_original": 44,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Bianca está acolhida há 6 meses, ainda sem definição jurídica sobre sua situação. O Marco Legal da Primeira Infância reconhece a importância desse período inicial da vida para o desenvolvimento infantil. De acordo com as teorias que abordam o desenvolvimento emocional e cognitivo dos bebês, assinale a afirmativa correta.",
+  "alternativas": [
+   "D. W. Winnicott destacou a figura da “mãe perfeita”, cuja presença sensível e responsiva é fundamental para o desenvolvimento emocional saudável do bebê.",
+   "John Bowlby criou a Teoria do Apego, defendendo que o vínculo seguro e insubstituível com os genitores é condição indispensável para o desenvolvimento emocional e social do bebê.",
+   "Melanie Klein enfatizou a importância do aleitamento materno no seio bom no primeiro ano de vida para a construção do mundo interno do bebê.",
+   "Jean Piaget Investigou o desenvolvimento cognitivo e apontou o período pré-operatório (0-2 anos) como essencial para a construção do vínculo com o mundo.",
+   "René Spitz pesquisou os efeitos da privação materna e identificou a depressão anaclítica, uma grave regressão emocional e física em bebês privados do contato adequado com a mãe ou substituto."
+  ],
+  "gabarito": 4,
+  "comentario": "René Spitz estudou bebês institucionalizados e separados da mãe, descrevendo a depressão anaclítica (privação afetiva parcial) e o hospitalismo (privação prolongada), com regressão emocional e física — alternativa E. Winnicott falou em \"mãe suficientemente boa\", não \"mãe perfeita\" (A). Bowlby não afirma que o vínculo deve ser exclusivamente com os genitores: o apego pode se estabelecer com cuidadores substitutos (B). Klein trata do seio bom/mau como objetos parciais da fantasia, não de uma prescrição sobre aleitamento (C). Para Piaget, 0–2 anos corresponde ao período sensório-motor; o pré-operatório vai de cerca de 2 a 7 anos (D).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-dpero-2025-psi-45",
+  "disciplina": "especificos",
+  "assunto": "esp-trabalho",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "DPE-RO",
+   "ano": 2025,
+   "cargo": "Analista em Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-em-psicologia-classe-acns005-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-defintivo-dpe-ro_0.pdf",
+   "questao_original": 45,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "A psicodinâmica do trabalho é uma abordagem teórico-técnica desenvolvida pelo psicanalista francês Christophe Dejours, que busca compreender como as demandas do trabalho impactam a saúde mental dos trabalhadores. Dejours introduziu o conceito de “normalidade sofrente” que se refere",
+  "alternativas": [
+   "ao conjunto de doenças mentais decorrentes de condições laborativas desfavoráveis.",
+   "ao estado de satisfação pessoal obtido pelo condicionamento social e pela realização no trabalho.",
+   "à ineficiência das estratégias defensivas adotadas contra o assédio moral no ambiente de trabalho.",
+   "ao resultado alcançado na luta contra a desestabilização psíquica provocada pelas pressões do trabalho.",
+   "à análise das conquistas possíveis quando presente a solidariedade entre os membros do coletivo trabalhador."
+  ],
+  "gabarito": 3,
+  "comentario": "Para Dejours, a \"normalidade\" no trabalho não é ausência de sofrimento, mas um equilíbrio precário: é o resultado da luta do sujeito, com estratégias defensivas individuais e coletivas, contra a desestabilização psíquica provocada pelas pressões do trabalho — daí a expressão \"normalidade sofrente\" (D). Não se trata de doenças mentais (A), nem de satisfação plena (B), nem da falha das defesas (C — a falha levaria à descompensação/adoecimento). A cooperação e a solidariedade do coletivo são outros temas da teoria, não a definição do conceito (E).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-dpero-2025-psi-46",
+  "disciplina": "especificos",
+  "assunto": "esp-direitos-humanos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "DPE-RO",
+   "ano": 2025,
+   "cargo": "Analista em Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-em-psicologia-classe-acns005-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-defintivo-dpe-ro_0.pdf",
+   "questao_original": 46,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Crianças e adolescentes são vítimas frequentes de violência sexual cometida de diversas formas, trazendo prejuízos emocionais prolongados e imensuráveis. Sobre essa forma de violência, é correto afirmar que",
+  "alternativas": [
+   "a exploração sexual se caracteriza pelo uso sexual da criança ou adolescente com ou sem fins comerciais e lucrativos, como no turismo sexual, no aliciamento para a prostituição e na produção de material pornográfico.",
+   "o abuso sexual é definido pela prática de atos sexuais com crianças e/ou adolescentes visando à gratificação sexual do adulto através de relações carnais comprovadas em exame de corpo de delito.",
+   "na maioria dos casos, o abuso sexual ocorre dentro ou perto do ambiente familiar, sendo o abusador alguém próximo da criança/adolescente, pessoa do seu convívio e com quem mantém uma relação de confiança, afeto e subordinação.",
+   "o abusador sexual, também conhecido como pedófilo, é alguém com um diagnóstico psicopatológico caracterizado pelo interesse sexual compulsivo e exclusivo por crianças pré púberes.",
+   "a denúncia do abuso pela criança ou adolescente se torna possível em função do pacto de silêncio familiar e o segredo é mantido também pelo medo da vítima de ser desacreditada e por pressões dentro da própria família."
+  ],
+  "gabarito": 2,
+  "comentario": "A literatura e os dados oficiais mostram que a maior parte do abuso sexual infantojuvenil é intrafamiliar ou cometida por pessoas próximas, numa relação de confiança, afeto e poder sobre a vítima — alternativa C. A exploração sexual caracteriza-se justamente pela finalidade comercial/lucrativa (A erra ao dizer \"com ou sem\"). O abuso não exige conjunção carnal nem comprovação em exame de corpo de delito, incluindo atos libidinosos sem contato físico (B). Nem todo abusador é pedófilo no sentido diagnóstico (D). O pacto de silêncio dificulta — e não possibilita — a revelação (E).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-dpero-2025-psi-47",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "DPE-RO",
+   "ano": 2025,
+   "cargo": "Analista em Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-em-psicologia-classe-acns005-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-defintivo-dpe-ro_0.pdf",
+   "questao_original": 47,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "César, 23 anos, sofre de transtorno depressivo maior, com ideação suicida permanente. César opõe resistência ao tratamento medicamentoso e psicoterápico e recentemente atentou contra a própria vida ingerindo raticida. Em uma situação dessa gravidade e em consonância com os princípios da Lei Antimanicomial:",
+  "alternativas": [
+   "cabe a internação compulsória promovida pela Justiça independentemente de parecer médico.",
+   "César deverá ser encaminhado para tratamento psiquiátrico no CAPS AD em regime ambulatorial.",
+   "César só poderá ser internado se consentir expressamente no tratamento em regime hospitalar.",
+   "um serviço residencial terapêutico pode garantir ao paciente César um ambiente protegido para sua estabilização emocional.",
+   "a internação involuntária a pedido da família pode ser uma medida temporária necessária para a proteção do paciente."
+  ],
+  "gabarito": 4,
+  "comentario": "A Lei 10.216/2001 prevê três modalidades de internação psiquiátrica, todas dependentes de laudo médico circunstanciado: voluntária, involuntária (a pedido de terceiro, sem consentimento do paciente) e compulsória (determinada pela Justiça). Diante de risco grave à vida e recusa do tratamento, a internação involuntária a pedido da família é medida excepcional e temporária de proteção — alternativa E. A compulsória não dispensa laudo médico (A), o CAPS AD é voltado a álcool e drogas (B), a internação não depende apenas do consentimento do paciente (C) e o Serviço Residencial Terapêutico destina-se a egressos de longas internações sem suporte social, não à crise aguda (D).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-dpero-2025-psi-48",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "DPE-RO",
+   "ano": 2025,
+   "cargo": "Analista em Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-em-psicologia-classe-acns005-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-defintivo-dpe-ro_0.pdf",
+   "questao_original": 48,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Davi, 15 anos, foi surpreendido pela Polícia cortando cabos de cobre de telefonia. No depoimento prestado em sede policial na presença de sua mãe, o adolescente relatou que usa drogas desde os 12 anos e que pretendia vender o material furtado para adquirir mais crack para uso próprio. Considerando as medidas de proteção previstas na legislação, é adequada, nesse contexto, a aplicação ao adolescente da medida de",
+  "alternativas": [
+   "liberdade assistida.",
+   "encaminhamento para o CAPSi.",
+   "reparação de danos morais e materiais.",
+   "internação provisória em entidade de acolhimento.",
+   "acolhimento institucional em unidade socioeducativa."
+  ],
+  "gabarito": 1,
+  "comentario": "O enunciado pede uma medida de PROTEÇÃO (art. 101 do ECA), que inclui requisição de tratamento médico/psicológico e inclusão em programa de tratamento para dependência de álcool e drogas. Para um adolescente de 15 anos com uso problemático de crack, o encaminhamento ao CAPSi (ou CAPS AD de referência) da RAPS é a medida adequada — alternativa B. Liberdade assistida e reparação de danos são medidas socioeducativas, não protetivas (A e C). Internação provisória não ocorre em \"entidade de acolhimento\" (D), e acolhimento institucional não se confunde com unidade socioeducativa (E).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-dpero-2025-psi-49",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "DPE-RO",
+   "ano": 2025,
+   "cargo": "Analista em Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-em-psicologia-classe-acns005-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-defintivo-dpe-ro_0.pdf",
+   "questao_original": 49,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Davi cometeu o ato infracional em um estado de craving ou fissura pelo crack. No caso de Davi, esse estado pode ser definido como:",
+  "alternativas": [
+   "um agudo mal estar físico decorrente da síndrome de abstinência da substância depressora.",
+   "um esforço malsucedido no sentido de reduzir a quantidade de droga opioide consumida.",
+   "a necessidade de doses progressivamente maiores para obter o efeito alucinógeno desejado.",
+   "um desejo intenso e incontrolável de fazer uso da substância psicoativa estimulante.",
+   "o surgimento de sintomas de euforia, hipovigilância, ansiedade e paranoia."
+  ],
+  "gabarito": 3,
+  "comentario": "Craving (fissura) é o desejo intenso, urgente e difícil de controlar de usar a substância; no caso, o crack, uma substância estimulante do SNC (cocaína fumada) — alternativa D. O mal-estar físico da retirada é a síndrome de abstinência (A), e o crack não é depressor; a necessidade de doses crescentes é a tolerância (C), e o crack não é alucinógeno nem opioide (B). Euforia e paranoia são efeitos da intoxicação, não definição de fissura, e o estimulante causa hipervigilância, não hipovigilância (E).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-dpero-2025-psi-50",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "DPE-RO",
+   "ano": 2025,
+   "cargo": "Analista em Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-em-psicologia-classe-acns005-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-defintivo-dpe-ro_0.pdf",
+   "questao_original": 50,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "João perdeu seu pai quando tinha 4 anos de idade. Sua mãe, Giovanna, tornou a se casar quando o menino tinha 6 anos e ela e o marido Jorge tiveram uma menina dessa união. João sabe quem foi seu pai e guarda fotos tiradas com ele nos primeiros anos de vida, mas dá a Jorge o tratamento de pai também. Jorge deseja formalizar esse vínculo construído na relação com o enteado e poderá fazê-lo por intermédio da seguinte ação:",
+  "alternativas": [
+   "tutela definitiva.",
+   "investigação de paternidade.",
+   "reconhecimento de paternidade socioafetiva.",
+   "guarda unilateral como família extensa.",
+   "adoção cumulada com suspensão do poder familiar do genitor."
+  ],
+  "gabarito": 2,
+  "comentario": "A paternidade socioafetiva é o vínculo de filiação construído pelo afeto e pela convivência (posse do estado de filho), e pode ser reconhecida judicialmente ou, em certas condições, em cartório. O STF admite a multiparentalidade: o reconhecimento da paternidade socioafetiva não apaga o vínculo biológico, o que preserva a memória do pai falecido de João — alternativa C. Investigação de paternidade busca o vínculo biológico (B); tutela e guarda não estabelecem filiação (A e D); e a adoção romperia o vínculo com o pai biológico, além de o poder familiar do genitor já estar extinto pela morte (E).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-dpero-2025-psi-51",
+  "disciplina": "especificos",
+  "assunto": "esp-documentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "DPE-RO",
+   "ano": 2025,
+   "cargo": "Analista em Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-em-psicologia-classe-acns005-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-defintivo-dpe-ro_0.pdf",
+   "questao_original": 51,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Atenção: o caso a seguir refere-se às duas próximas questões: Patrícia atua como psicóloga em um Tribunal de Justiça e foi indicada como perita do Juízo de Família em uma ação em que Caio e Vera disputavam a guarda do filho Theo, 05 anos. O advogado de Vera questionou as conclusões do documento produzido por Patrícia. Nesse caso o Juiz poderá",
+  "alternativas": [
+   "requerer novo psicodiagnóstico diferencial de Theo com fundamento nos preceitos da Lei de Alienação Parental.",
+   "deferir a guarda de Theo a Vera, já que a Lei prevê o direito prioritário da mãe à guarda dos filhos menores.",
+   "determinar ao advogado de Caio a apresentação de laudo psicológico sobre o documento produzido pela perita do Juízo.",
+   "solicitar ao assistente técnico indicado pelo advogado de Vera um parecer psicológico sobre o documento produzido por Patrícia.",
+   "desconsiderar o atestado psicológico apresentado por Patrícia e determinar a realização de novo estudo técnico."
+  ],
+  "gabarito": 3,
+  "comentario": "Na perícia judicial, as partes podem indicar assistentes técnicos, que acompanham o trabalho e se manifestam sobre o laudo do perito do Juízo. Pela Res. CFP 06/2019, o documento próprio para responder a uma questão técnica sobre outro documento ou procedimento é o parecer psicológico — por isso a alternativa D é a correta. A Lei 12.318/2010 não prevê \"psicodiagnóstico diferencial\" (A); a lei não estabelece prioridade materna na guarda, preferindo a guarda compartilhada (B); quem se manifesta tecnicamente é o assistente técnico, por meio de parecer, não um \"laudo\" apresentado pelo advogado (C); e o documento da perita é um laudo, não um atestado (E).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-dpero-2025-psi-52",
+  "disciplina": "legislacao",
+  "assunto": "leg-res31-2022",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "DPE-RO",
+   "ano": 2025,
+   "cargo": "Analista em Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-em-psicologia-classe-acns005-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-defintivo-dpe-ro_0.pdf",
+   "questao_original": 52,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Patrícia atua como psicóloga em um Tribunal de Justiça e foi indicada como perita do Juízo de Família em uma ação em que Caio e Vera disputavam a guarda do filho Theo, 05 anos.\nDe acordo com a Resolução nº 31/2022 do CFP, avalie se Patrícia pode usar como instrumentos para a avaliação psicológica:\nI. testes psicológicos projetivos aprovados pelo CFP para uso profissional.\nII. entrevistas psicológicas e anamneses com os genitores.\nIII. instrumentos não psicológicos, como tarô, desde que com o consentimento das partes.\nEstá correto o que se afirma em:",
+  "alternativas": [
+   "I e II, apenas.",
+   "I e III, apenas.",
+   "II e III, apenas.",
+   "I, II e III, apenas.",
+   "II, apenas."
+  ],
+  "gabarito": 0,
+  "comentario": "A Res. CFP 31/2022 admite como fontes fundamentais da avaliação psicológica os testes psicológicos com parecer favorável no SATEPSI (inclusive projetivos) e as entrevistas/anamneses, além de protocolos de observação; documentos técnicos e outras fontes podem complementar. Por isso I e II estão corretas (A). O tarô e práticas similares não têm reconhecimento científico na Psicologia e não podem ser utilizados como instrumento de avaliação, mesmo com consentimento das partes, o que torna a III falsa.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-dpero-2025-psi-53",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "DPE-RO",
+   "ano": 2025,
+   "cargo": "Analista em Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-em-psicologia-classe-acns005-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-defintivo-dpe-ro_0.pdf",
+   "questao_original": 53,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Maria Helena, Maria Alice e Maria Lúcia são irmãs, todas na faixa dos 60 anos. Maria Helena é viúva, Maria Alice é divorciada e Maria Lúcia é solteira. Com filhos já criados e independentes, elas resolveram morar juntas no apartamento que pertenceu aos falecidos pais. A esse arranjo familiar dá-se o nome de:",
+  "alternativas": [
+   "família mosaico.",
+   "família paralela.",
+   "família reconstituída.",
+   "família anaparental.",
+   "família monoconjugal."
+  ],
+  "gabarito": 3,
+  "comentario": "Família anaparental é aquela formada sem a presença de pais (ascendentes), por exemplo, por irmãos ou parentes que convivem com objetivo de vida comum — exatamente o caso das três irmãs (D). Família mosaico ou reconstituída (A e C) é formada por casais que trazem filhos de uniões anteriores; família paralela (B) refere-se a uniões simultâneas a um casamento ou união estável; \"monoconjugal\" (E) não é uma categoria usual.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-dpero-2025-psi-54",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "DPE-RO",
+   "ano": 2025,
+   "cargo": "Analista em Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-em-psicologia-classe-acns005-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-defintivo-dpe-ro_0.pdf",
+   "questao_original": 54,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Atualmente muitos adultos têm identificado em si sintomas compatíveis com o diagnóstico de Transtorno de Déficit de Atenção e Hiperatividade (TDAH). Assinale a opção que indica um comportamento sugestivo de TDAH.",
+  "alternativas": [
+   "Fernando tem uma atenção hipertenaz quando assiste a uma partida de futebol de seu time.",
+   "Após ter sofrido um assalto, Débora se tornou hipervigilante com relação a qualquer ruído ou movimentação externa.",
+   "Katia ganhou uma promoção em seu trabalho em reconhecimento à sua rapidez e eficiência na realização das tarefas.",
+   "Julio é inteligente, mas sempre comete erros por descuido na hora de marcar o gabarito das provas e acaba reprovado.",
+   "Marcos não consegue ser produtivo em seu trabalho porque perde muito tempo arrumando e rearrumando suas gavetas."
+  ],
+  "gabarito": 3,
+  "comentario": "Entre os critérios de desatenção do TDAH no DSM-5 está \"frequentemente não presta atenção em detalhes ou comete erros por descuido\" em tarefas escolares ou de trabalho, com prejuízo funcional — como Julio (D). A hiperfocalização em algo de interesse (A) não é, isolada, sugestiva; a hipervigilância após assalto aponta para reação ao trauma (B); rapidez e eficiência são desempenho positivo (C); e arrumar e rearrumar gavetas sugere traços obsessivo-compulsivos (E).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-dpero-2025-psi-55",
+  "disciplina": "especificos",
+  "assunto": "esp-praticas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "DPE-RO",
+   "ano": 2025,
+   "cargo": "Analista em Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-em-psicologia-classe-acns005-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-defintivo-dpe-ro_0.pdf",
+   "questao_original": 55,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "“A meta da psicoterapia é que o cliente possa alcançar um nível de integração suficiente, que lhe permita levar adiante o seu próprio processo de desenvolvimento, ter a custódia sobre seus atos e ampliar sua awareness. Sendo uma abordagem fenomenológica, trabalha com experiências imediatas, o aqui-agora, que constitui a porta de entrada para a realidade. A existência só se dá no presente, este momento presente abrange lembranças do passado e fantasias e expectativas sobre o futuro.” Essa descrição se refere à",
+  "alternativas": [
+   "Análise Transacional.",
+   "Gestalt Terapia.",
+   "Abordagem Centrada na Pessoa.",
+   "Psicologia Existencial.",
+   "Psicoterapia Breve."
+  ],
+  "gabarito": 1,
+  "comentario": "Awareness (tomada de consciência), aqui-e-agora, abordagem fenomenológica e busca de integração/autossuporte são conceitos centrais da Gestalt-terapia de Fritz e Laura Perls (B). A Análise Transacional (Berne) trabalha estados do ego e transações; a Abordagem Centrada na Pessoa (Rogers) enfatiza condições facilitadoras como empatia e aceitação incondicional; a Psicologia Existencial não usa o termo awareness como eixo; e a psicoterapia breve define-se pelo foco e tempo limitado.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-dpero-2025-psi-56",
+  "disciplina": "legislacao",
+  "assunto": "leg-res06-2019",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "DPE-RO",
+   "ano": 2025,
+   "cargo": "Analista em Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-em-psicologia-classe-acns005-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-defintivo-dpe-ro_0.pdf",
+   "questao_original": 56,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Álvaro é psicólogo e Maristela é assistente social. Ambos trabalham juntos na equipe técnica da Defensoria Pública de Rondônia e atuaram em um mesmo processo, realizando entrevistas com a família e discussão sobre as dinâmicas identificadas juntos. Diante do trabalho em comum, decidiram realizar um relatório conjunto. Segundo as disposições trazidas pela Resolução nº 06/2019 do CFP é correto afirmar que",
+  "alternativas": [
+   "o psicólogo não pode apresentar um relatório com uma profissional de outra área de saber.",
+   "Álvaro deve redigir um atestado psicológico e Maristela deve produzir um atestado social separadamente.",
+   "o laudo psicológico pode ser redigido junto da assistente social, desde que conste a inscrição dos CRP e CRESS ao final.",
+   "ambos devem apresentar juntos um parecer psicológico pois o trabalho foi desenvolvido em comum.",
+   "pode ser apresentado um relatório multiprofissional pelo psicólogo e pela assistente social juntos."
+  ],
+  "gabarito": 4,
+  "comentario": "A Res. CFP 06/2019 prevê o relatório multiprofissional, elaborado pelo psicólogo em conjunto com profissionais de outras áreas, preservando-se a autonomia e a ética de cada profissão e identificando-se cada responsável — alternativa E. Assim, o psicólogo pode, sim, redigir relatório com outra área (A erra). Atestado não é o documento adequado para descrever o trabalho conjunto (B), o laudo psicológico é documento privativo do psicólogo (C) e o parecer psicológico responde a questão técnica sobre documento/caso, também sendo próprio do psicólogo (D).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-dpero-2025-psi-57",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "DPE-RO",
+   "ano": 2025,
+   "cargo": "Analista em Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-em-psicologia-classe-acns005-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-defintivo-dpe-ro_0.pdf",
+   "questao_original": 57,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Antônio e Camila são casados há 16 anos, não tendo gerado filhos biológicos desta e nem de outras uniões. Diante das dificuldades em gerarem um filho, decidiram adotar, tendo se habilitado e recebido a menina Eduarda, de 12 anos, na condição de filha. Após três anos, depois de uma discussão em família e do fato da menina ter fugido de casa, o casal decidiu desistir da adoção, alegando que o processo não havia terminado e que eles estariam apenas com a guarda da adolescente. Diante da situação hipotética, é certo afirmar, de acordo com o Estatuto da Criança e do Adolescente (ECA), que",
+  "alternativas": [
+   "Antônio e Camila não podem desistir da guarda para fins de adoção, pois receberam Eduarda como filha no processo.",
+   "Eduarda é a culpada pela devolução pois fugiu de casa, causando preocupação à família.",
+   "o casal não poderá mais adotar outra criança ou permanecer no cadastro de adoção depois da desistência da guarda.",
+   "os adotantes podem adotar uma criança menor, explicando que a Eduarda foi ingrata.",
+   "os adotantes devem pedir para Eduarda ficar no abrigo até os 18 anos, pretendendo assumir a guarda por ela depois disso."
+  ],
+  "gabarito": 2,
+  "comentario": "O ECA, após a Lei 13.509/2017, estabelece que a desistência da guarda para fins de adoção ou a devolução da criança/adolescente depois do trânsito em julgado da adoção implica a exclusão dos cadastros de adoção e a vedação de renovação da habilitação (salvo decisão judicial fundamentada) — base da alternativa C. A desistência durante a guarda é juridicamente possível, embora gere consequências (A erra). Culpabilizar Eduarda (B, D) contraria a doutrina da proteção integral, e a E não tem amparo legal. Obs.: a lei ressalva a possibilidade de decisão judicial fundamentada em sentido contrário, de modo que o \"não poderá mais\" da alternativa C é uma formulação mais absoluta que o texto legal.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-dpero-2025-psi-58",
+  "disciplina": "legislacao",
+  "assunto": "leg-codigo-etica",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "DPE-RO",
+   "ano": 2025,
+   "cargo": "Analista em Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-em-psicologia-classe-acns005-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-defintivo-dpe-ro_0.pdf",
+   "questao_original": 58,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Clarice é psicóloga clínica e muito religiosa. Na escuta de Lucas, um paciente com ideação suicida, a profissional sugeriu que ele passasse a rezar todas as noites. Diante dessa situação hipotética é correto afirmar que",
+  "alternativas": [
+   "a psicóloga agiu corretamente, incorporando sua crença religiosa no atendimento do paciente.",
+   "Lucas deve expressar primeiro sua aquiescência religiosa antes da sugestão da oração.",
+   "Clarice pode sugerir orações e participação em missas como estratégia terapêutica porque Lucas é católico.",
+   "Clarice não deve indicar propostas religiosas sem solicitar formalmente ao CRP primeiro.",
+   "a profissional não pode induzir crenças religiosas no exercício profissional."
+  ],
+  "gabarito": 4,
+  "comentario": "O Código de Ética (art. 2º, b) veda ao psicólogo induzir a convicções religiosas, políticas, morais, filosóficas ou de orientação sexual no exercício da profissão, e a Res. CFP 07/2023 reafirma a laicidade da prática psicológica — alternativa E. A crença pessoal da profissional não pode orientar a intervenção (A), mesmo que o paciente seja católico (C) ou concorde (B). Não existe autorização do CRP para propostas religiosas (D): elas simplesmente não são técnica psicológica.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-dpero-2025-psi-59",
+  "disciplina": "especificos",
+  "assunto": "esp-direitos-humanos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "DPE-RO",
+   "ano": 2025,
+   "cargo": "Analista em Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-em-psicologia-classe-acns005-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-defintivo-dpe-ro_0.pdf",
+   "questao_original": 59,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Frederico é psicólogo e faz parte da equipe técnica de uma unidade de acolhimento de crianças de 0 a 11 anos. Certo dia, o casal de namorados Adriana e Marcelo se dirigiu ao local, demandando informações para serem padrinhos afetivos de uma das crianças. Naquele momento Alberto, diretor da unidade, considerou que teria uma menina “branquinha muito linda” para ser apadrinhada, desconsiderando que na unidade havia crianças de outras etnias também disponíveis para apadrinhamento. Nessa hipótese, é correto afirmar que",
+  "alternativas": [
+   "o diretor agiu corretamente porque se mobilizou pensando no bem-estar da criança;",
+   "o casal precisa se casar ou declarar união estável para apadrinhar uma criança acolhida;",
+   "Frederico não deve pactuar com posicionamentos racistas, falando de todas as outras crianças para o casal;",
+   "Alberto deverá ser atendido clinicamente por Frederico para rever práticas racistas;",
+   "Frederico deve buscar discutir na terapia formas de diminuir seu sofrimento perante o racismo institucional."
+  ],
+  "gabarito": 2,
+  "comentario": "O Código de Ética impõe ao psicólogo contribuir para eliminar quaisquer formas de discriminação e não ser conivente com elas, e a Res. CFP 18/2002 trata especificamente do enfrentamento ao racismo. Frederico deve, portanto, não pactuar com a fala racista do diretor e apresentar ao casal todas as crianças disponíveis — alternativa C. A preferência por uma criança \"branquinha\" não é cuidado com o bem-estar (A); o apadrinhamento afetivo não exige casamento ou união estável (B); e atender clinicamente o colega de trabalho (D) ou apenas tratar o próprio sofrimento em terapia (E) não enfrentam a prática discriminatória.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-dpero-2025-psi-60",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "DPE-RO",
+   "ano": 2025,
+   "cargo": "Analista em Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-em-psicologia-classe-acns005-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-defintivo-dpe-ro_0.pdf",
+   "questao_original": 60,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Mateus tem 11 anos e furtou o celular deixado pela professora na mesa da classe, o que conduziu a diretora da unidade de ensino a chamar o Conselho Tutelar diante da conduta do menino. Nesse caso, é correto afirmar que",
+  "alternativas": [
+   "Mateus deverá cumprir medida socioeducativa determinada pelo juiz da Vara de Infância;",
+   "o Conselho Tutelar escolherá qual a medida protetiva cabível para ser aplicada no menino;",
+   "o Ministério Público deverá determinar a medida protetiva para o adolescente;",
+   "a escola é a responsável por decidir a medida protetiva a ser aplicada a Mateus;",
+   "os pais deverão aplicar uma medida socioeducativa ao filho diante do seu comportamento."
+  ],
+  "gabarito": 1,
+  "comentario": "Mateus tem 11 anos: pelo ECA é criança (até 12 anos incompletos). Ao ato infracional praticado por criança correspondem apenas medidas de proteção do art. 101 (art. 105), e cabe ao Conselho Tutelar atender a criança e aplicar essas medidas (art. 136, I) — alternativa B. Medidas socioeducativas são exclusivas de adolescentes e aplicadas pelo juiz (A e E); Mateus não é adolescente nem cabe ao MP ou à escola decidir a medida (C e D).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-dpero-2025-psi-61",
+  "disciplina": "especificos",
+  "assunto": "esp-direitos-humanos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "DPE-RO",
+   "ano": 2025,
+   "cargo": "Analista em Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-em-psicologia-classe-acns005-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-defintivo-dpe-ro_0.pdf",
+   "questao_original": 61,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Caio e Ludmila viveram relacionamento conjugal por doze anos, tendo gerado filhos gêmeos da união, mas ela rompeu a conjugalidade quando foi fisicamente agredida pelo ex-companheiro. Em função da violência sofrida, Ludmila ingressou com ação no Juizado de Violência Doméstica de sua cidade. Uma vez que seja constatada a violência doméstica o juiz pode aplicar as seguintes medidas protetivas de urgência abaixo relacionadas para Caio, a exceção de uma. Assinale-a:",
+  "alternativas": [
+   "Comparecimento em programas de recuperação e reeducação.",
+   "Atendimento individual e/ou em grupo de apoio do agressor.",
+   "Restrição ou suspensão de visitas aos filhos após avaliação da equipe multidisciplinar.",
+   "Suspensão da posse ou restrição do porte de armas pelo agressor.",
+   "Determinar a matrícula dos filhos em escola mais próxima de casa, independente de vaga."
+  ],
+  "gabarito": 4,
+  "comentario": "A Lei Maria da Penha (Lei 11.340/2006, art. 22) lista medidas protetivas que obrigam o agressor, entre elas suspensão da posse ou restrição do porte de armas, restrição ou suspensão de visitas aos dependentes menores (ouvida a equipe multidisciplinar), comparecimento a programas de recuperação e reeducação e acompanhamento psicossocial por atendimento individual e/ou em grupo de apoio — alternativas A, B, C e D. A matrícula dos filhos em escola próxima (E) não é medida que obriga o agressor; a lei garante à vítima prioridade na matrícula ou transferência dos dependentes, mas não \"independente de vaga\" como medida contra Caio.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-dpero-2025-psi-62",
+  "disciplina": "legislacao",
+  "assunto": "leg-idoso-pcd",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "DPE-RO",
+   "ano": 2025,
+   "cargo": "Analista em Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-em-psicologia-classe-acns005-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-defintivo-dpe-ro_0.pdf",
+   "questao_original": 62,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Eleonora e Anselmo são casados e possuem 69 e 72 anos, respectivamente. O casal ingressou com uma ação contra a empreiteira X que vendeu um apartamento na planta e abandonou a construção. Em meio ao processo, Anselmo faleceu. Nesse caso, segundo o Estatuto da Pessoa Idosa",
+  "alternativas": [
+   "o processo vai ser extinto porque um dos autores morreu.",
+   "o juiz deve dar ganho de causa retroativo à morte de Anselmo para o idoso.",
+   "Eleonora goza de prioridade na tramitação do processo após a morte do marido.",
+   "Eleonora deve iniciar novo processo apenas em seu nome.",
+   "a empreiteira não precisa atender à demanda processual porque o marido faleceu."
+  ],
+  "gabarito": 2,
+  "comentario": "O Estatuto da Pessoa Idosa (Lei 10.741/2003, art. 71) assegura prioridade na tramitação dos processos em que figure como parte pessoa com 60 anos ou mais, e essa prioridade não cessa com a morte do beneficiado, estendendo-se ao cônjuge supérstite ou companheiro com 60 anos ou mais. Eleonora, de 69 anos, mantém (por direito próprio, inclusive) a prioridade — alternativa C. A morte de um dos autores não extingue o processo nem libera a ré (A, E), não exige novo processo (D), e não há \"ganho de causa retroativo\" (B).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-dpero-2025-psi-63",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "DPE-RO",
+   "ano": 2025,
+   "cargo": "Analista em Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-em-psicologia-classe-acns005-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-defintivo-dpe-ro_0.pdf",
+   "questao_original": 63,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Luciana e Elias foram casados por 8 anos e tiveram um filho, Renato, atualmente com 6 anos. Há dez meses, Luciana foi atropelada e faleceu, momento em que a criança foi colocada sob a guarda dos avós maternos, Mauro e Alice, pois o pai não tinha rede de apoio para cuidar do filho. Inicialmente, o convívio entre pai e filho ocorria regularmente e de forma positiva, mas depois que Elias começou a namorar Sophia, os avós passaram a dificultar o contato de Renato com Elias. Segundo as disposições trazidas pela Lei da Alienação Parental, é correto afirmar que",
+  "alternativas": [
+   "a alienação parental pressupõe a interferência psicológica exclusiva de pais diante das mães, para que a criança repudie a figura materna.",
+   "não há que se falar em alienação parental pois Luciana faleceu e a alienação parental só pode ser praticada pela figura materna.",
+   "a mera dificuldade em contatar o filho não caracteriza alienação parental, que só existiria caso houvesse uma campanha difamatória contra o pai.",
+   "o comportamento dos avós pode ser interpretado como alienação parental, pois estão dificultando os encontros entre pai e filho.",
+   "Mauro e Alice estão cuidando de forma exagerada do neto mas não há alienação parental posto que os dois são avós da criança."
+  ],
+  "gabarito": 3,
+  "comentario": "A Lei 12.318/2010 define alienação parental como interferência na formação psicológica da criança promovida ou induzida por um dos genitores, pelos avós ou por quem a tenha sob sua autoridade, guarda ou vigilância, e lista como exemplo dificultar o contato da criança com o genitor. Os avós guardiões que obstruem a convivência de Renato com o pai podem, portanto, praticar alienação parental (D). A lei não restringe o ato a pai ou mãe (A, B, E) nem exige campanha difamatória: esta é apenas uma das formas exemplificativas (C).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-dpero-2025-psi-64",
+  "disciplina": "legislacao",
+  "assunto": "leg-codigo-etica",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "DPE-RO",
+   "ano": 2025,
+   "cargo": "Analista em Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-em-psicologia-classe-acns005-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-defintivo-dpe-ro_0.pdf",
+   "questao_original": 64,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Em processo de regulamentação de visitas em Vara de Família, a psicóloga Patrícia entrevistou o casal Ronald e Alice, bem como os filhos do casal, Mateus e Felipe. No decorrer das entrevistas, a psicóloga teve acesso a informações sobre a família de origem de Ronald, que imigrou clandestinamente para o país, e que não têm qualquer relação com o processo. Nesse caso, de acordo com o Código de Ética Profissional do Psicólogo, é correto afirmar que",
+  "alternativas": [
+   "Patrícia é obrigada por lei a reportar tudo que ouviu no relatório psicológico.",
+   "a informação sobre a imigração pode ser apresentada porque pode ser prova que beneficie à mãe das crianças.",
+   "Patrícia não deve falar sobre as informações a que teve acesso e que não se relacionam ao processo.",
+   "Patrícia pode não falar sobre as informações que ouviu mas recairá em conduta antiética.",
+   "Ronald deve desejar que seu segredo seja revelado pois a fala expressa inconscientemente esse desejo."
+  ],
+  "gabarito": 2,
+  "comentario": "O Código de Ética Profissional do Psicólogo determina que, nos documentos que embasam as atividades em equipe ou atendem a demandas institucionais, o psicólogo registre apenas as informações necessárias para o cumprimento dos objetivos do trabalho, resguardando o sigilo (art. 6º, b, e art. 12). Assim, Patrícia não deve relatar fatos alheios ao processo, como a situação migratória da família de Ronald (C). Não há obrigação de relatar tudo (A), o psicólogo não produz provas para favorecer uma parte (B), silenciar sobre o irrelevante não é antiético (D) e a interpretação \"inconsciente\" da E é descabida.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-dpero-2025-psi-65",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "DPE-RO",
+   "ano": 2025,
+   "cargo": "Analista em Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-em-psicologia-classe-acns005-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-defintivo-dpe-ro_0.pdf",
+   "questao_original": 65,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Mariana deu à luz ao primeiro filho há 3 meses. Na primeira semana, ela apresentou algumas mudanças repentinas de humor, perda do apetite, ansiedade, irritabilidade e sentimento de solidão, mas esses sintomas desapareceram sem novas recidivas na medida em que ela ficou mais confiante na relação com o bebê. Os comportamentos de Mariana parecem ser sugestivos de",
+  "alternativas": [
+   "psicose pós-parto.",
+   "depressão puerperal.",
+   "mania puerperal.",
+   "blues puerperal.",
+   "psicose puerperal."
+  ],
+  "gabarito": 3,
+  "comentario": "O blues puerperal (baby blues) é um quadro transitório e muito comum, que surge nos primeiros dias após o parto com labilidade de humor, choro fácil, ansiedade e irritabilidade, e remite espontaneamente em cerca de duas semanas — como o de Mariana (D). A depressão puerperal é mais intensa e duradoura, com prejuízo funcional (B). A psicose pós-parto/puerperal (A, E) envolve sintomas psicóticos e é emergência psiquiátrica, e a \"mania puerperal\" (C) exigiria episódio maníaco.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-dpero-2025-psi-66",
+  "disciplina": "especificos",
+  "assunto": "esp-praticas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "DPE-RO",
+   "ano": 2025,
+   "cargo": "Analista em Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-em-psicologia-classe-acns005-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-defintivo-dpe-ro_0.pdf",
+   "questao_original": 66,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "O processo de envelhecimento pode se revelar desafiador e a oferta de atendimento psicológico se constitui como estratégia para trazer mais qualidade de vida ao idoso. Sobre o atendimento psicológico à pessoa idosa, avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.\nI. normalmente é direcionado ao desenvolvimento e estimulação cognitivos;\nII. concentra-se em enfatizar o passado, pois o idoso não experiencia novas conquistas e desafios;\nIII. pode objetivar a socialização do idoso através do trabalho em grupo;\nIV. desenvolve intervenções para ajudar a lidar com angústias, medos e alegrias.\nAs afirmativas são, respectivamente,",
+  "alternativas": [
+   "V – F – V – V.",
+   "F – V – V – F.",
+   "V – V – V – V.",
+   "V – F – V – F.",
+   "F – F – F – V."
+  ],
+  "gabarito": 0,
+  "comentario": "O atendimento psicológico à pessoa idosa frequentemente inclui estimulação cognitiva (I – V), pode usar grupos para promover socialização e fortalecer vínculos (III – V) e oferece intervenções para lidar com angústias, medos, lutos e também alegrias desta etapa (IV – V). A afirmativa II é falsa e idadista: a velhice é uma fase de desenvolvimento em que há novos projetos, conquistas e desafios, e o trabalho não se restringe ao passado. Sequência: V – F – V – V (A).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-dpero-2025-psi-67",
+  "disciplina": "especificos",
+  "assunto": "esp-praticas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "DPE-RO",
+   "ano": 2025,
+   "cargo": "Analista em Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-em-psicologia-classe-acns005-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-defintivo-dpe-ro_0.pdf",
+   "questao_original": 67,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "A terapia cognitivo-comportamental desenvolvida por Aaron Beck se revela bastante efetiva na redução de sintomas e taxas de recorrência da depressão, ansiedade e fobias. Entre as técnicas mais comumente usadas na TCC encontra-se",
+  "alternativas": [
+   "a associação livre.",
+   "o registro de pensamentos disfuncionais.",
+   "a atenção flutuante.",
+   "o role-playing.",
+   "o jogo de areia."
+  ],
+  "gabarito": 1,
+  "comentario": "O Registro de Pensamentos Disfuncionais (RPD) é técnica clássica da terapia cognitiva de Beck: o paciente anota situação, pensamentos automáticos, emoções e respostas alternativas, aprendendo a identificar e reestruturar distorções cognitivas (B). Associação livre e atenção flutuante (A, C) são regras técnicas da psicanálise; o jogo de areia (E) vem da tradição junguiana/ludoterapia; o role-playing (D) é usado por várias abordagens (psicodrama, por exemplo) e, embora possa aparecer na TCC, não é a técnica característica cobrada pela banca.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-dpero-2025-psi-68",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "DPE-RO",
+   "ano": 2025,
+   "cargo": "Analista em Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-em-psicologia-classe-acns005-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-defintivo-dpe-ro_0.pdf",
+   "questao_original": 68,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Daniele foi contratada como atendente de telemarketing em uma empresa e estava tendo dificuldades em convencer o público a comprar os produtos porque os achava muito ruins. A partir de um treinamento passou a desenvolver um outro olhar sobre os produtos, passando a considerá-los melhores, o que afetou suas vendas, que subiram desde que ela começou a apresentá-los com mais confiança. O conflito vivenciado por Daniele foi estudado pelo psicólogo Leon Festinger, que buscou entender as divergências pelas quais passa um indivíduo no processo de tomada de decisão e de ação, na consideração de que sempre que o indivíduo faz algo com o que não concorda, sente a necessidade de aliviar a angústia gerada. Nessa situação hipotética, Daniele estava diante de um(a)",
+  "alternativas": [
+   "dissonância cognitiva.",
+   "conformação operante.",
+   "condicionamento respondente.",
+   "desacordo intelectivo.",
+   "ampliação conceitual."
+  ],
+  "gabarito": 0,
+  "comentario": "Leon Festinger propôs a teoria da dissonância cognitiva: quando crenças, atitudes e comportamentos são incoerentes, surge um desconforto psicológico que leva a pessoa a reduzir a inconsistência, muitas vezes mudando a própria atitude. Daniele vendia produtos que considerava ruins e reduziu a tensão passando a vê-los como melhores (A). Condicionamento respondente e operante (B, C) são conceitos behavioristas sem relação com o conflito descrito, e \"desacordo intelectivo\" e \"ampliação conceitual\" (D, E) não são conceitos da teoria.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-dpero-2025-psi-69",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "DPE-RO",
+   "ano": 2025,
+   "cargo": "Analista em Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-em-psicologia-classe-acns005-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-defintivo-dpe-ro_0.pdf",
+   "questao_original": 69,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Com relação ao fenômeno da dependência química, avalie as afirmativas a seguir:\nI. Historicamente os homens são mais afetados pelo alcoolismo no Brasil, embora o consumo de álcool venha crescendo entre mulheres;\nII. A dependência química se caracteriza como um conjunto de fenômenos comportamentais, cognitivos e fisiológicos que se desenvolvem após o uso repetido de determinada substância;\nIII. A dependência a uma ou mais substâncias costuma estar associada a uma somatória de diferentes fatores de riscos com fatores biológicos, comportamentais e biopsicossociais.\nEstá correto o que se afirma em",
+  "alternativas": [
+   "I, apenas.",
+   "II, apenas.",
+   "III apenas.",
+   "I e II, apenas.",
+   "I, II e III."
+  ],
+  "gabarito": 4,
+  "comentario": "As três afirmativas estão corretas (E). Levantamentos brasileiros mostram maior prevalência de uso nocivo e dependência de álcool entre homens, com crescimento do consumo entre mulheres (I). A definição da II segue a CID: a síndrome de dependência é um conjunto de fenômenos comportamentais, cognitivos e fisiológicos que se desenvolvem após uso repetido. E a dependência é multifatorial, resultando da interação de fatores biológicos, psicológicos e sociais (III).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-dpero-2025-psi-70",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "DPE-RO",
+   "ano": 2025,
+   "cargo": "Analista em Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-em-psicologia-classe-acns005-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-defintivo-dpe-ro_0.pdf",
+   "questao_original": 70,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Construída como uma alternativa às formas tradicionais de resolução de conflitos, a justiça restaurativa se caracteriza por",
+  "alternativas": [
+   "defender o sistema retributivo na dimensão penal.",
+   "focar na perspectiva comutativa diante do crime.",
+   "trazer a proposta punitiva frente ao ato criminoso.",
+   "olhar para a vítima e a comunidade, além do ofensor.",
+   "aumentar, de forma colateral, os custos no Judiciário."
+  ],
+  "gabarito": 3,
+  "comentario": "A justiça restaurativa (Res. CNJ 225/2016) propõe uma forma de lidar com o conflito e o crime centrada na reparação dos danos e na responsabilização, envolvendo vítima, ofensor e comunidade em processos dialógicos, como círculos — alternativa D. Ela se contrapõe ao modelo retributivo e punitivo (A, C), não se define pela justiça comutativa (B) e tende a reduzir, e não aumentar, os custos do Judiciário (E).",
+  "dificuldade": 1,
+  "anulada": false
+ }
+]

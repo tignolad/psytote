@@ -1,0 +1,442 @@
+[
+  {
+    "id": "aut-leg-res31-2022-001",
+    "disciplina": "legislacao",
+    "assunto": "leg-res31-2022",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.normasbrasil.com.br/norma/resolucao-31-2022_473938.html"
+    },
+    "enunciado": "Segundo a Resolução CFP nº 31/2022, a Avaliação Psicológica é definida como:",
+    "alternativas": [
+      "a aplicação de testes psicológicos aprovados pelo SATEPSI com a finalidade exclusiva de diagnóstico clínico.",
+      "um processo estruturado de investigação de fenômenos psicológicos, composto de métodos, técnicas e instrumentos, para prover informações à tomada de decisão em âmbito individual, grupal ou institucional.",
+      "um conjunto de procedimentos padronizados destinado a mensurar características de personalidade no âmbito exclusivamente individual.",
+      "um processo de investigação de fenômenos psicológicos restrito ao uso de testes, escalas e inventários aprovados no SATEPSI, voltado à elaboração de laudos e pareceres no âmbito individual, grupal ou institucional.",
+      "a etapa inicial da psicoterapia, destinada à formulação do contrato terapêutico e à anamnese."
+    ],
+    "gabarito": 1,
+    "comentario": "O art. 1º, § 1º, da Res. CFP 31/2022 define a Avaliação Psicológica como 'processo estruturado de investigação de fenômenos psicológicos, composto de métodos, técnicas e instrumentos, com o objetivo de prover informações à tomada de decisão, no âmbito individual, grupal ou institucional, com base em demandas, condições e finalidades específicas'. As demais alternativas restringem indevidamente o conceito ao uso de testes, ao âmbito individual ou a uma finalidade única.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res31-2022-002",
+    "disciplina": "legislacao",
+    "assunto": "leg-res31-2022",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.normasbrasil.com.br/norma/resolucao-31-2022_473938.html"
+    },
+    "enunciado": "Conforme a Resolução CFP nº 31/2022, NÃO constitui fonte fundamental de informação na Avaliação Psicológica:",
+    "alternativas": [
+      "teste psicológico aprovado pelo CFP para uso profissional.",
+      "entrevista psicológica.",
+      "anamnese.",
+      "relatório de equipe multiprofissional.",
+      "protocolo de observação de comportamentos obtido por meio de técnica de grupo."
+    ],
+    "gabarito": 3,
+    "comentario": "O art. 3º da Res. CFP 31/2022 elenca como fontes fundamentais: testes psicológicos aprovados pelo CFP; entrevistas psicológicas e anamneses; e protocolos ou registros de observação de comportamentos, individuais ou por processo grupal/técnicas de grupo. Já os documentos técnicos, 'tais como protocolos ou relatórios de equipes multiprofissionais', são fontes complementares (art. 4º, II).",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res31-2022-003",
+    "disciplina": "legislacao",
+    "assunto": "leg-res31-2022",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.normasbrasil.com.br/norma/resolucao-31-2022_473938.html"
+    },
+    "enunciado": "Em uma avaliação psicológica escolar, a psicóloga pretende utilizar, além de entrevistas, uma escala de rastreio desenvolvida por outra área profissional, com respaldo na literatura científica. Nos termos da Resolução CFP nº 31/2022, esse instrumento:",
+    "alternativas": [
+      "pode ser utilizado como fonte complementar de informação, desde que respeite o Código de Ética e as garantias da legislação da profissão.",
+      "pode ser utilizado como fonte fundamental de informação, por ter respaldo da literatura científica, desde que a psicóloga registre a escolha no prontuário.",
+      "não pode ser utilizado, pois na avaliação psicológica só são admitidos instrumentos com parecer favorável no SATEPSI.",
+      "só pode ser utilizado se previamente autorizado pelo CRP.",
+      "só pode ser utilizado em contexto de pesquisa, nunca na prática profissional."
+    ],
+    "gabarito": 0,
+    "comentario": "O art. 4º, I, da Res. CFP 31/2022 admite, a depender do contexto, procedimentos e recursos auxiliares (fontes complementares), entre eles 'técnicas e instrumentos não psicológicos que possuam respaldo da literatura científica da área, que respeitem o Código de Ética Profissional do Psicólogo e as garantias da legislação da profissão'. Instrumento não psicológico não se torna fonte fundamental (art. 3º) e não há exigência de autorização do CRP.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res31-2022-004",
+    "disciplina": "legislacao",
+    "assunto": "leg-res31-2022",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.normasbrasil.com.br/norma/resolucao-31-2022_473938.html"
+    },
+    "enunciado": "A direção de um hospital determinou que a psicóloga do setor utilize obrigatoriamente determinado instrumento em todas as avaliações, independentemente da demanda. À luz da Resolução CFP nº 31/2022, é correto afirmar que:",
+    "alternativas": [
+      "a escolha dos instrumentos cabe à instituição empregadora, cabendo à psicóloga apenas aplicá-los.",
+      "a escolha dos instrumentos cabe ao CRP, que define listas obrigatórias por área de atuação.",
+      "a psicóloga tem a prerrogativa de decidir quais métodos, técnicas e instrumentos empregar, desde que fundamentados na literatura científica psicológica e nas normas do CFP.",
+      "a psicóloga deve seguir a determinação, desde que o instrumento conste da lista de Instrumentos Não Privativos, cabendo-lhe apenas registrar no laudo que a escolha foi da instituição.",
+      "a decisão sobre os instrumentos deve ser tomada pela equipe multiprofissional, por consenso."
+    ],
+    "gabarito": 2,
+    "comentario": "O art. 5º da Res. CFP 31/2022 dispõe que 'a psicóloga e o psicólogo têm a prerrogativa de decidir quais são os métodos, técnicas e instrumentos empregados na Avaliação Psicológica, desde que fundamentados na literatura científica psicológica e nas normas vigentes do CFP'. Essa prerrogativa não é transferida à instituição, ao CRP ou à equipe multiprofissional.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res31-2022-005",
+    "disciplina": "legislacao",
+    "assunto": "leg-res31-2022",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.normasbrasil.com.br/norma/resolucao-31-2022_473938.html"
+    },
+    "enunciado": "Nos termos do art. 10 da Resolução CFP nº 31/2022, os testes psicológicos abarcam os seguintes instrumentos:",
+    "alternativas": [
+      "testes, escalas, inventários, entrevistas estruturadas e métodos projetivos.",
+      "testes, escalas, anamneses, questionários e métodos projetivos e expressivos.",
+      "testes, inventários, questionários, protocolos de observação e métodos expressivos.",
+      "testes, escalas, inventários, questionários e métodos projetivos e expressivos.",
+      "testes, escalas, inventários, questionários e técnicas de dinâmica de grupo."
+    ],
+    "gabarito": 3,
+    "comentario": "O art. 10 da Res. CFP 31/2022 enumera: I – testes; II – escalas; III – inventários; IV – questionários; V – métodos projetivos e expressivos. Entrevistas, anamneses, protocolos de observação e técnicas de grupo são fontes fundamentais de informação (art. 3º), mas não integram a categoria 'testes psicológicos'.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res31-2022-006",
+    "disciplina": "legislacao",
+    "assunto": "leg-res31-2022",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.normasbrasil.com.br/norma/resolucao-31-2022_473938.html"
+    },
+    "enunciado": "Um professor de um curso de graduação em Psicologia apresentou, em aula sobre a história da avaliação psicológica, um teste que consta com parecer desfavorável no SATEPSI. Considerando a Resolução CFP nº 31/2022, a conduta:",
+    "alternativas": [
+      "configura falta ética, pois o uso de teste com parecer desfavorável é vedado em qualquer contexto, ressalvada apenas a pesquisa aprovada por comitê de ética.",
+      "configura falta ética, salvo se houver autorização prévia da CCAP.",
+      "é permitida apenas se o teste for apresentado em sua versão informatizada.",
+      "é permitida apenas em cursos de pós-graduação stricto sensu.",
+      "não configura falta ética, pois a vedação não se aplica às situações de ensino com objetivo formativo e histórico na Psicologia."
+    ],
+    "gabarito": 4,
+    "comentario": "O art. 12 da Res. CFP 31/2022 considera falta ética o uso de testes com parecer desfavorável ou que constem da lista de Testes Não Avaliados. Contudo, seu parágrafo único dispõe que a previsão 'não se aplica aos casos de pesquisa, amparadas pela legislação vigente, e às situações de ensino com objetivo formativo e histórico na Psicologia'. Não há exigência de autorização da CCAP nem restrição a pós-graduação.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res31-2022-007",
+    "disciplina": "legislacao",
+    "assunto": "leg-res31-2022",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.normasbrasil.com.br/norma/resolucao-31-2022_473938.html"
+    },
+    "enunciado": "Durante uma fiscalização, surgiu dúvida sobre se determinado instrumento comercializado deveria ser classificado como teste psicológico ou instrumento não psicológico. De acordo com a Resolução CFP nº 31/2022, nessa hipótese:",
+    "alternativas": [
+      "o próprio CRP decide a classificação, em caráter definitivo, por sua Comissão de Orientação e Fiscalização.",
+      "os CRPs ficam legitimados a submeter o instrumento à CCAP do CFP, que fará avaliação preliminar e o classificará como \"instrumento não privativo\" ou \"teste psicológico\".",
+      "o instrumento deve ser submetido ao Plenário do CFP, que designará dois pareceristas ad hoc para classificá-lo como teste psicológico ou instrumento não privativo, em decisão irrecorrível.",
+      "o instrumento é automaticamente incluído na lista de Testes Não Avaliados até que o autor solicite a reclassificação.",
+      "o instrumento é considerado não privativo até prova em contrário, podendo ser usado livremente."
+    ],
+    "gabarito": 1,
+    "comentario": "Pelo art. 13 da Res. CFP 31/2022, havendo dúvida sobre a classificação, 'ficam legitimados os CRPs a submeter o respectivo instrumento à CCAP do CFP para apreciação'; o § 1º prevê que a CCAP fará avaliação preliminar e o classificará como 'instrumento não privativo' ou 'teste psicológico'. A inclusão na lista de Testes Não Avaliados ocorre apenas se for classificado como teste (§ 3º). O art. 14 permite ainda que a psicóloga requeira ao CRP essa submissão.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res31-2022-008",
+    "disciplina": "legislacao",
+    "assunto": "leg-res31-2022",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.normasbrasil.com.br/norma/resolucao-31-2022_473938.html"
+    },
+    "enunciado": "Após avaliação preliminar da CCAP, um instrumento foi classificado como \"teste psicológico\". Segundo a Resolução CFP nº 31/2022, esse instrumento:",
+    "alternativas": [
+      "passará a constar da lista de Testes Favoráveis, com validade provisória de cinco anos, até que o responsável técnico apresente os estudos normativos.",
+      "passará a constar da lista de Instrumentos Não Privativos até a avaliação final.",
+      "constará da lista de Testes Não Avaliados do SATEPSI até que seja submetido, pelo responsável técnico, à avaliação final.",
+      "será excluído do SATEPSI e não poderá ser reapresentado.",
+      "poderá ser usado livremente por psicólogos até a decisão do Plenário do CFP."
+    ],
+    "gabarito": 2,
+    "comentario": "O art. 13, § 3º, da Res. CFP 31/2022 dispõe que, 'caso o instrumento seja considerado teste psicológico, este constará na lista de Testes Não Avaliados do SATEPSI até que seja submetido, pelo responsável técnico, à avaliação final'. A lista de Instrumentos Não Privativos é para os classificados como não privativos (§ 2º), e o uso de teste não avaliado é falta ética (art. 12).",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res31-2022-009",
+    "disciplina": "legislacao",
+    "assunto": "leg-res31-2022",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.normasbrasil.com.br/norma/resolucao-31-2022_473938.html"
+    },
+    "enunciado": "Pela Resolução CFP nº 31/2022, a submissão de um novo teste psicológico ao SATEPSI será realizada por psicóloga ou psicólogo com registro ativo, sendo obrigatória a juntada de:",
+    "alternativas": [
+      "indicação de responsável técnico psicólogo com registro ativo e carta de anuência do autor do teste autorizando a submissão.",
+      "indicação de responsável técnico, que pode ser de qualquer área, e contrato de edição com a editora.",
+      "parecer prévio de dois pareceristas ad hoc, emitido antes do protocolo, e carta de anuência do autor do teste autorizando a submissão.",
+      "carta de anuência do CRP da jurisdição do autor e cópia do manual técnico impresso.",
+      "comprovante de pagamento de taxa e declaração da editora de que o teste será comercializado."
+    ],
+    "gabarito": 0,
+    "comentario": "O art. 17, parágrafo único, da Res. CFP 31/2022 exige, na submissão feita por psicóloga ou psicólogo com registro ativo, a juntada de: I – indicação de psicóloga ou psicólogo responsável técnica(o) com registro ativo; e II – carta de anuência do autor do teste autorizando a submissão. Os pareceristas são designados depois, pela CCAP (art. 19, II).",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res31-2022-010",
+    "disciplina": "legislacao",
+    "assunto": "leg-res31-2022",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.normasbrasil.com.br/norma/resolucao-31-2022_473938.html"
+    },
+    "enunciado": "De acordo com a Resolução CFP nº 31/2022, na tramitação de um novo teste psicológico, de estudos de equivalência e de atualização de normas, são designados, respectivamente, para a análise:",
+    "alternativas": [
+      "1 parecerista ad hoc; 2 pareceristas ad hoc; 1 membro da CCAP.",
+      "2 pareceristas ad hoc; 2 pareceristas ad hoc; 1 parecerista ad hoc.",
+      "2 membros da CCAP; 1 parecerista ad hoc; 1 parecerista ad hoc.",
+      "3 pareceristas ad hoc; 1 parecerista ad hoc; 1 membro da CCAP.",
+      "2 pareceristas ad hoc; 1 parecerista ad hoc; 1 membro da CCAP."
+    ],
+    "gabarito": 4,
+    "comentario": "Na Res. CFP 31/2022: para teste novo, designação de 2 (dois) pareceristas ad hoc (art. 19, II); para estudos de equivalência, 1 (um) parecerista ad hoc (art. 26, II); para atualização dos estudos normativos, 1 (um) membro da CCAP (art. 31, II). A atualização de estudos de validade também usa 1 parecerista ad hoc (art. 36, II).",
+    "dificuldade": 3,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res31-2022-011",
+    "disciplina": "legislacao",
+    "assunto": "leg-res31-2022",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.normasbrasil.com.br/norma/resolucao-31-2022_473938.html"
+    },
+    "enunciado": "Durante a análise dos pareceres de um teste submetido ao SATEPSI, a CCAP solicitou informações complementares ao responsável técnico. Segundo a Resolução CFP nº 31/2022, o prazo para resposta e a consequência da ausência de resposta são, respectivamente:",
+    "alternativas": [
+      "15 dias; arquivamento do processo, sem inclusão em lista.",
+      "30 dias; inclusão do teste na lista de Testes Não Avaliados do SATEPSI.",
+      "30 dias; emissão automática de parecer desfavorável.",
+      "60 dias; inclusão do teste na lista de Testes Não Avaliados do SATEPSI.",
+      "20 dias, prorrogáveis por igual período; inclusão do teste na lista de Instrumentos Não Privativos."
+    ],
+    "gabarito": 1,
+    "comentario": "O art. 19, § 3º, da Res. CFP 31/2022 fixa em 30 dias o prazo para envio das informações complementares, e 'a ausência de resposta pela(o) psicóloga ou psicólogo responsável técnica(o) do teste psicológico acarretará sua inclusão na lista de Testes Não Avaliados do SATEPSI'. O prazo de 20 dias prorrogáveis refere-se aos pareceristas (art. 20, II).",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res31-2022-012",
+    "disciplina": "legislacao",
+    "assunto": "leg-res31-2022",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.normasbrasil.com.br/norma/resolucao-31-2022_473938.html"
+    },
+    "enunciado": "Um teste recebeu parecer desfavorável do Plenário do CFP. O responsável técnico pretende recorrer, anexando ao recurso novas análises estatísticas realizadas após a decisão. Conforme a Resolução CFP nº 31/2022:",
+    "alternativas": [
+      "o recurso cabe em 30 dias úteis da comunicação da decisão, mas não se aceitam novas análises estatísticas, que demandam nova avaliação de pareceristas.",
+      "o recurso deve ser apresentado em 15 dias úteis, sendo aceitas novas análises estatísticas.",
+      "o recurso deve ser apresentado em 30 dias corridos da comunicação da decisão, sendo aceitas novas análises estatísticas se acompanhadas de parecer ad hoc favorável.",
+      "não cabe recurso de decisão do Plenário, restando apenas a reapresentação do teste após dois anos.",
+      "o recurso deve ser apresentado em 60 dias úteis, e as novas análises serão encaminhadas à CCAP."
+    ],
+    "gabarito": 0,
+    "comentario": "Pelo art. 20 da Res. CFP 31/2022, os prazos são calculados em dias úteis; o inciso V dá 30 dias, a partir da comunicação da decisão do Plenário, para o requerente recorrer nos casos de parecer desfavorável, e o inciso VI, 'b', dispõe que 'não serão aceitas novas análises estatísticas no recurso, visto que estas demandam nova avaliação de pareceristas'. Além disso, o teste com parecer final desfavorável pode ser reapresentado a qualquer tempo (art. 21).",
+    "dificuldade": 3,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res31-2022-013",
+    "disciplina": "legislacao",
+    "assunto": "leg-res31-2022",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.normasbrasil.com.br/norma/resolucao-31-2022_473938.html"
+    },
+    "enunciado": "Segundo a Resolução CFP nº 31/2022, os testes psicológicos com parecer final desfavorável do CFP:",
+    "alternativas": [
+      "não podem ser reapresentados ao SATEPSI.",
+      "podem ser reapresentados somente após cinco anos da decisão.",
+      "podem ser reapresentados somente uma vez, mediante autorização do Plenário do CFP e apresentação de novos estudos de validade.",
+      "podem ser reapresentados a qualquer tempo, seguindo o trâmite previsto para a avaliação de testes.",
+      "podem ser reapresentados apenas como instrumentos não privativos."
+    ],
+    "gabarito": 3,
+    "comentario": "O art. 21 da Res. CFP 31/2022 estabelece que 'os testes psicológicos com parecer final desfavorável do CFP poderão ser reapresentados a qualquer tempo e seguirão o trâmite previsto no art. 19'. Não há prazo de carência, limite de reapresentações ou reclassificação automática.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res31-2022-014",
+    "disciplina": "legislacao",
+    "assunto": "leg-res31-2022",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.normasbrasil.com.br/norma/resolucao-31-2022_473938.html"
+    },
+    "enunciado": "Um teste psicológico foi aprovado pelo Plenário do CFP em 2024, já na vigência da Resolução CFP nº 31/2022. Segundo essa resolução, seus estudos de validade, precisão e normas terão prazo máximo de:",
+    "alternativas": [
+      "10 anos, a contar da data de publicação do manual técnico.",
+      "15 anos para normas e 20 anos para validade, a contar da aprovação pelo Plenário do CFP.",
+      "20 anos, a contar da data de aprovação pelo Plenário do CFP.",
+      "15 anos, a contar da data da primeira submissão ao SATEPSI.",
+      "15 anos, a contar da data de aprovação do teste psicológico pelo Plenário do CFP."
+    ],
+    "gabarito": 4,
+    "comentario": "O art. 22, caput, da Res. CFP 31/2022 fixa prazo máximo de 15 anos para os estudos de validade, precisão e normas, 'a contar da data da aprovação do teste psicológico pelo Plenário do CFP'. A distinção 20 anos (validade) / 15 anos (normas) aplica-se apenas aos testes com parecer favorável anterior à publicação da resolução (§ 1º).",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res31-2022-015",
+    "disciplina": "legislacao",
+    "assunto": "leg-res31-2022",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.normasbrasil.com.br/norma/resolucao-31-2022_473938.html"
+    },
+    "enunciado": "Uma editora aprovou no SATEPSI a versão lápis e papel de um inventário e agora pretende comercializar uma versão de aplicação informatizada; pretende também oferecer correção por software da versão em papel, seguindo rigorosamente o manual técnico. De acordo com a Resolução CFP nº 31/2022:",
+    "alternativas": [
+      "ambas as mudanças dispensam nova avaliação, desde que o manual seja seguido.",
+      "a aplicação informatizada deve ser submetida à CCAP como versão equivalente; a mudança apenas do formato de correção dispensa nova avaliação, se seguidos rigorosamente os manuais.",
+      "ambas as mudanças exigem submissão à CCAP como estudo de equivalência.",
+      "a mudança no formato de correção exige submissão à CCAP como estudo de equivalência, ainda que seguidos os manuais; já a aplicação informatizada dispensa nova avaliação, por manter os mesmos itens.",
+      "ambas as mudanças exigem submissão do teste como teste novo, com designação de dois pareceristas ad hoc."
+    ],
+    "gabarito": 1,
+    "comentario": "O art. 24 da Res. CFP 31/2022 considera versão equivalente aquela com formato diferente de aplicação, que deve ser submetida à CCAP (§ 1º). Já o § 2º dispõe que os testes com formato de correção diferente do descrito no manual 'não necessitam de nova avaliação, desde que sejam rigorosamente seguidos os procedimentos descritos nos respectivos manuais técnicos'.",
+    "dificuldade": 3,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res31-2022-016",
+    "disciplina": "legislacao",
+    "assunto": "leg-res31-2022",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.normasbrasil.com.br/norma/resolucao-31-2022_473938.html"
+    },
+    "enunciado": "Um laboratório coletou dados de uma amostra de idosos para um teste cujo manual aprovado no SATEPSI contemplava apenas adultos de 18 a 59 anos, e quer submeter o estudo como \"atualização de normas\". Segundo a Resolução CFP nº 31/2022:",
+    "alternativas": [
+      "o estudo é atualização de normas, bastando a análise de um membro da CCAP.",
+      "o estudo é atualização de normas, desde que a amostra contemple distintas regiões geopolíticas do país e seja analisada por um membro da CCAP e um parecerista ad hoc.",
+      "o estudo é estudo de equivalência, devendo ser analisado por um parecerista ad hoc.",
+      "o estudo não é atualização de norma, devendo o material ser submetido a nova avaliação pelo SATEPSI, com novas evidências de validade e estudos de precisão.",
+      "o estudo só pode ser utilizado após o vencimento das normas vigentes do manual."
+    ],
+    "gabarito": 3,
+    "comentario": "O art. 28, § 1º, da Res. CFP 31/2022 dispõe que estudos com amostras de características sociodemográficas diferentes das especificadas no manual aprovado 'não são considerados atualização de norma', e o § 2º determina que o material seja submetido a nova avaliação pelo SATEPSI, incluindo novas evidências de validade e estudos de precisão. A representação de diferentes regiões é apenas preferencial na atualização de normas (art. 29, II).",
+    "dificuldade": 3,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res31-2022-017",
+    "disciplina": "legislacao",
+    "assunto": "leg-res31-2022",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.normasbrasil.com.br/norma/resolucao-31-2022_473938.html"
+    },
+    "enunciado": "Foram aprovadas pelo CFP normas atualizadas de um teste psicológico. Sobre essa situação, a Resolução CFP nº 31/2022 estabelece que:",
+    "alternativas": [
+      "a psicóloga deve deixar de usar imediatamente as tabelas normativas anteriores, sob pena de falta ética.",
+      "os autores e responsáveis técnicos têm 60 dias corridos para disponibilizar as normas atualizadas, cabendo ao CFP definir a forma de disponibilização, e a psicóloga deve abandonar as tabelas anteriores tão logo as novas sejam publicadas.",
+      "os autores e responsáveis técnicos têm 180 dias úteis para disponibilizar as normas atualizadas com o manual, e a psicóloga pode usar as tabelas anteriores até o vencimento dos estudos normativos.",
+      "o CFP disponibilizará as novas tabelas diretamente no site do SATEPSI, no prazo de 180 dias úteis.",
+      "a psicóloga poderá usar as tabelas anteriores por mais 15 anos, independentemente do vencimento dos estudos normativos."
+    ],
+    "gabarito": 2,
+    "comentario": "O art. 33 da Res. CFP 31/2022 determina que as normas atualizadas sejam disponibilizadas com o manual técnico; cabe aos autores, laboratórios, instituições e responsáveis técnicos definir a forma (§ 1º), no prazo de 180 dias úteis a partir da aprovação (§ 2º); e 'a psicóloga e o psicólogo poderão utilizar as tabelas normativas das versões anteriores até a data de vencimento dos estudos normativos' (§ 3º).",
+    "dificuldade": 3,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res31-2022-018",
+    "disciplina": "legislacao",
+    "assunto": "leg-res31-2022",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.normasbrasil.com.br/norma/resolucao-31-2022_473938.html"
+    },
+    "enunciado": "Entre os requisitos mínimos obrigatórios para que um teste psicológico seja reconhecido para uso profissional (art. 15 da Resolução CFP nº 31/2022), há um que comporta exceção expressa para os métodos projetivos ou expressivos. Trata-se da exigência de:",
+    "alternativas": [
+      "apresentar fundamentação teórica, com ênfase na definição do construto.",
+      "apresentar evidências empíricas de validade e estimativas de precisão das interpretações dos resultados.",
+      "apresentar ficha síntese com autor, objetivo, público-alvo e síntese dos estudos psicométricos.",
+      "apresentar, de forma explícita, o processo de aplicação e correção.",
+      "apresentar evidências empíricas sobre as características técnicas dos itens do teste."
+    ],
+    "gabarito": 4,
+    "comentario": "O art. 15, VII, da Res. CFP 31/2022 exige 'apresentar evidências empíricas sobre as características técnicas dos itens do teste psicológico, exceto para os métodos projetivos ou expressivos'. Os demais requisitos (fundamentação teórica, validade e precisão, ficha síntese, processo de aplicação e correção) valem para todos os testes, sem essa exceção.",
+    "dificuldade": 3,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res31-2022-019",
+    "disciplina": "legislacao",
+    "assunto": "leg-res31-2022",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.normasbrasil.com.br/norma/resolucao-31-2022_473938.html"
+    },
+    "enunciado": "Considere as afirmativas sobre a Resolução CFP nº 31/2022.\nI. O uso profissional dos testes psicológicos é privativo da psicóloga e do psicólogo, conforme o art. 13 da Lei nº 4.119/1962.\nII. O teste psicológico e o seu respectivo manual técnico constituem tecnologia profissional da Psicologia.\nIII. Os testes estrangeiros adaptados para uso no Brasil estão dispensados de apresentar estudos com amostras da população brasileira, se já validados no país de origem.\nEstá correto o que se afirma em:",
+    "alternativas": [
+      "I e II, apenas.",
+      "I, apenas.",
+      "II, apenas.",
+      "II e III, apenas.",
+      "I, II e III."
+    ],
+    "gabarito": 0,
+    "comentario": "I reproduz o art. 8º e II, o art. 9º da Res. CFP 31/2022. III está errada: o art. 15, § 1º, exige que os testes estrangeiros adaptados atendam aos requisitos mínimos e apresentem, nos manuais técnicos, 'os estudos científicos realizados com amostras da população brasileira para todos os requisitos apontados'.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res31-2022-020",
+    "disciplina": "legislacao",
+    "assunto": "leg-res31-2022",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.normasbrasil.com.br/norma/resolucao-31-2022_473938.html"
+    },
+    "enunciado": "Sobre as disposições finais e o capítulo de justiça e proteção dos direitos humanos da Resolução CFP nº 31/2022, assinale a afirmativa correta.",
+    "alternativas": [
+      "A resolução entrou em vigor na data de sua publicação e revogou a Resolução CFP nº 02/2003.",
+      "Os casos omissos serão decididos pelos Conselhos Regionais, cada qual em sua jurisdição.",
+      "É vedado às psicólogas elaborar, validar, adaptar, normatizar ou comercializar instrumentos para criar, manter ou reforçar preconceitos, estigmas ou estereótipos.",
+      "As vedações relativas a direitos humanos aplicam-se apenas à aplicação de testes, não à sua produção ou comercialização.",
+      "A manutenção dos registros de atendimentos no processo de avaliação psicológica é facultativa quando houver emissão de laudo, que passa a substituí-los para todos os fins."
+    ],
+    "gabarito": 2,
+    "comentario": "O art. 41 da Res. CFP 31/2022 dispõe que as psicólogas e os psicólogos não poderão elaborar, validar, traduzir, adaptar, normatizar, comercializar e fomentar instrumentos ou técnicas 'para criar, manter ou reforçar preconceitos, estigmas ou estereótipos'; e o art. 40 estende as vedações à produção, validação, normatização e comercialização. A resolução entrou em vigor 60 dias após a publicação e revogou a Res. CFP 09/2018 (arts. 45 e 46); os casos omissos são analisados pela CCAP e deliberados pelo Plenário do CFP (art. 43); e a manutenção dos registros é obrigatória (art. 6º, parágrafo único).",
+    "dificuldade": 2,
+    "anulada": false
+  }
+]

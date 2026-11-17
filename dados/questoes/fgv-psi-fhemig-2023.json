@@ -1,0 +1,702 @@
+[
+ {
+  "id": "fgv-fhemig-2023-psi-21",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "FHEMIG",
+   "ano": 2023,
+   "cargo": "Analista de Gestão e Assistência à Saúde – Psicólogo Clínico",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-de-gestao-e-assistencia-a-saude-agas-psicologo-clinico-nivel-icns118-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-fhemig-retificado-01.11.2023.pdf",
+   "questao_original": 21,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "A respeito dos termos que compõem a expressão Sistema Único de Saúde (SUS), analise as afirmativas a seguir.\nI. O termo sistema indica o somatório das ações assistenciais direcionadas a segmentos populacionais específicos, classificados com base em critérios nosológicos.\nII. O termo único refere-se à universalização do acesso a todas as ações e cuidados da rede assistencial pública e privada contratada e ao comando único em cada esfera de governo.\nIII. O termo saúde é entendido como resultante e condicionante de condições de vida, trabalho e acesso a bens e serviços e, portanto, como componente da cidadania e não apenas como ausência de doença.\nEstá correto o que se afirma em",
+  "alternativas": [
+   "I, apenas.",
+   "II, apenas.",
+   "I e II, apenas.",
+   "II e III, apenas.",
+   "I, II e III."
+  ],
+  "gabarito": 3,
+  "comentario": "\"Sistema\" designa um conjunto de unidades, serviços e ações das três esferas de governo (e do setor privado contratado) que interagem para um fim comum, e não o somatório de ações dirigidas a grupos definidos por critérios nosológicos — por isso a I é falsa. \"Único\" expressa a mesma doutrina e os mesmos princípios em todo o território, com acesso universal e comando único em cada esfera de governo (II, correta). E a saúde é entendida de forma ampliada, como resultante das condições de vida, trabalho e acesso a bens e serviços, direito de cidadania e não mera ausência de doença (III, correta). Resposta: D.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-fhemig-2023-psi-22",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "FHEMIG",
+   "ano": 2023,
+   "cargo": "Analista de Gestão e Assistência à Saúde – Psicólogo Clínico",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-de-gestao-e-assistencia-a-saude-agas-psicologo-clinico-nivel-icns118-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-fhemig-retificado-01.11.2023.pdf",
+   "questao_original": 22,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "O Sistema Único de Saúde (SUS) pauta-se em um conjunto de princípios e diretrizes organizativas, traduzidas corretamente em ações voltadas para",
+  "alternativas": [
+   "o fomento da participação popular direta, mediante a criação de Comissões Intergestores Tripartites e de Secretarias Municipais de Saúde.",
+   "a promoção da integralidade, para superar a situação de desigualdade na assistência à saúde da população e investir mais onde a carência é maior.",
+   "a centralização da prestação dos serviços no nível estadual, de modo a assegurar maior qualidade e garantir o controle e a fiscalização por parte dos cidadãos.",
+   "a obrigatoriedade do atendimento público de qualquer cidadão, com o estabelecimento da cobrança progressiva em dinheiro com base em faixas de renda socioeconômicas.",
+   "a organização dos serviços em níveis crescentes de complexidade, circunscritos a uma determinada área geográfica e planejados a partir de critérios epidemiológicos."
+  ],
+  "gabarito": 4,
+  "comentario": "Regionalização e hierarquização são diretrizes organizativas do SUS: os serviços se organizam em níveis crescentes de complexidade, em área geográfica delimitada e com base em critérios epidemiológicos e na definição da população a ser atendida (E). A B descreve a equidade (investir mais onde a carência é maior), não a integralidade. As Comissões Intergestores são instâncias de pactuação entre gestores, não de participação popular, que se dá por conselhos e conferências (A). O SUS é descentralizado, com ênfase na municipalização (C), e é gratuito, sem cobrança por faixa de renda (D).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-fhemig-2023-psi-23",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "FHEMIG",
+   "ano": 2023,
+   "cargo": "Analista de Gestão e Assistência à Saúde – Psicólogo Clínico",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-de-gestao-e-assistencia-a-saude-agas-psicologo-clinico-nivel-icns118-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-fhemig-retificado-01.11.2023.pdf",
+   "questao_original": 23,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Em relação ao modo como os entes federados devem se articular para formular, implementar e avaliar a política de saúde, considerando a Lei nº 8.080/90, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.\n( ) É atribuição específica dos Municípios definir, coordenar e executar os programas de vigilância epidemiológica e sanitária.\n( ) É uma prerrogativa comum a Estados e Municípios participar do controle dos agravos ao meio ambiente.\n( ) Cabe à União, com recursos próprios, financiar o Subsistema de Atenção à Saúde Indígena.\nAs afirmativas são, na ordem apresentada, respectivamente,",
+  "alternativas": [
+   "V – V – F.",
+   "V – F – V.",
+   "F – V – V.",
+   "F – V – F.",
+   "V – V – V."
+  ],
+  "gabarito": 2,
+  "comentario": "Pela Lei 8.080/1990, definir e coordenar os sistemas de vigilância epidemiológica e sanitária é competência da direção nacional (União); aos Municípios cabe executar esses serviços — por isso a primeira é falsa. Estados e Municípios participam do controle e fiscalização dos agravos/agressões ao meio ambiente que repercutem sobre a saúde, em articulação com os órgãos competentes (segunda, verdadeira). E o art. 19-C, incluído pela Lei 9.836/1999, determina que cabe à União, com recursos próprios, financiar o Subsistema de Atenção à Saúde Indígena (terceira, verdadeira). Sequência F – V – V (C).",
+  "dificuldade": 3,
+  "anulada": false
+ },
+ {
+  "id": "fgv-fhemig-2023-psi-24",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "FHEMIG",
+   "ano": 2023,
+   "cargo": "Analista de Gestão e Assistência à Saúde – Psicólogo Clínico",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-de-gestao-e-assistencia-a-saude-agas-psicologo-clinico-nivel-icns118-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-fhemig-retificado-01.11.2023.pdf",
+   "questao_original": 24,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "O usuário do SUS possui o direito de decidir se seus familiares e acompanhantes deverão ser informados sobre seu estado de saúde, bem como tem o direito de ter acesso à anestesia em todas as situações em que for indicada. Essas garantias constam na Carta dos Direitos dos Usuários do SUS e materializam um dos princípios básicos de cidadania que assegura ao brasileiro o ingresso digno nos sistemas de saúde, seja ele público ou privado. A esse respeito, assinale a opção que indica o princípio básico de cidadania que fundamenta os direitos do usuário do SUS citados no trecho.",
+  "alternativas": [
+   "O acesso ordenado e organizado aos sistemas de saúde.",
+   "O tratamento adequado e efetivo para seu problema.",
+   "O atendimento que respeite a pessoa, os valores e os direitos do cidadão.",
+   "O atendimento humanizado, acolhedor e livre de qualquer discriminação.",
+   "O comprometimento dos gestores de saúde para que os princípios de cidadania do usuário do SUS sejam cumpridos."
+  ],
+  "gabarito": 1,
+  "comentario": "A Carta dos Direitos dos Usuários da Saúde organiza os direitos em princípios básicos de cidadania: acesso ordenado e organizado; tratamento adequado e efetivo para o problema; atendimento humanizado, acolhedor e livre de discriminação; atendimento que respeite a pessoa, seus valores e direitos; responsabilidades do usuário; e comprometimento dos gestores. Segundo o gabarito, o direito de decidir se familiares devem ser informados sobre seu estado de saúde e o acesso à anestesia quando indicada estão vinculados ao princípio do tratamento adequado e efetivo para seu problema (B). A questão exige memorização do detalhamento da Carta, pois as alternativas C e D também soam plausíveis para direitos ligados à autonomia e à dignidade.",
+  "dificuldade": 3,
+  "anulada": false
+ },
+ {
+  "id": "fgv-fhemig-2023-psi-25",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "FHEMIG",
+   "ano": 2023,
+   "cargo": "Analista de Gestão e Assistência à Saúde – Psicólogo Clínico",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-de-gestao-e-assistencia-a-saude-agas-psicologo-clinico-nivel-icns118-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-fhemig-retificado-01.11.2023.pdf",
+   "questao_original": 25,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "A respeito da estrutura e funcionamento das instituições e suas relações com a gestão dos serviços de saúde, assinale a afirmativa que caracteriza corretamente um dos órgãos gestores do SUS.",
+  "alternativas": [
+   "O Conselho Nacional de Secretários de Saúde (Conass) representa os Estados e o Distrito Federal na Comissão Intergestores Tripartite (CIT) para tratar dos principais temas de saúde.",
+   "A Comissão Intergestores Tripartite (CIT) atua como espaço estratégico de reivindicação, formulação, controle e avaliação da execução das políticas públicas de saúde.",
+   "A Secretária Estadual da Saúde (SES) formula, normatiza, coordena e fiscaliza o Sistema Único de Saúde, em articulação com o Conselho Nacional de Saúde, além de coordenar as ações de atendimento de alta complexidade.",
+   "As Comissões de Saúde são fóruns públicos que se reúnem de quatro em quatro anos, para avaliar e propor diretrizes para a formulação da política de saúde, com a participação de segmentos sociais representativos do SUS",
+   "A Comissão Intergestores Bipartite (CIB) é um órgão deliberativo, constituído por um foro de negociação e pactuação entre gestores federais, estaduais e municipais, quanto aos aspectos operacionais do SUS."
+  ],
+  "gabarito": 0,
+  "comentario": "O Conass representa as secretarias estaduais de saúde (Estados e DF), assim como o Conasems representa as municipais, e ambos compõem com o Ministério da Saúde a Comissão Intergestores Tripartite (A). A CIT é instância de negociação e pactuação entre gestores, não de \"reivindicação\" e controle social (B). A formulação e normatização nacional do SUS, em articulação com o Conselho Nacional de Saúde, cabe ao Ministério da Saúde, não à SES (C). Os fóruns quadrienais descritos em D são as Conferências de Saúde. A CIB reúne apenas gestores estaduais e municipais, sem a esfera federal (E).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-fhemig-2023-psi-26",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "FHEMIG",
+   "ano": 2023,
+   "cargo": "Analista de Gestão e Assistência à Saúde – Psicólogo Clínico",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-de-gestao-e-assistencia-a-saude-agas-psicologo-clinico-nivel-icns118-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-fhemig-retificado-01.11.2023.pdf",
+   "questao_original": 26,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Os Conselhos de Saúde são o principal canal de participação popular nas decisões da Administração Pública que envolvem o Sistema Único de Saúde (SUS) e, por isso, devem representar a diversidade social e cultural da sociedade. Por meio dos conselhos, a população pode colaborar de forma participativa do planejamento e da fiscalização das políticas públicas na área da saúde.\nhttps://www.saude.mg.gov.br/ (Adaptado)\nConsiderando o trecho, assinale a opção que caracteriza corretamente o Conselho de Saúde.",
+  "alternativas": [
+   "É um órgão colegiado e paritário do SUS, presente em cada esfera de governo, constituído em situações emergenciais.",
+   "Os conselheiros são representantes do Ministério da Saúde, do Conselho Nacional de Secretários de Saúde e do Conselho Nacional de Secretarias Municipais de Saúde.",
+   "É uma instância deliberativa que analisa e aprova o plano de saúde e analisa e aprova o relatório de gestão.",
+   "Os conselheiros são indicados pelos respectivos gestores executivos da Saúde dos municípios, dos estados e do governo federal.",
+   "É uma instância submetida às secretarias de saúde dos municípios, dos estados e do governo federal."
+  ],
+  "gabarito": 2,
+  "comentario": "Pela Lei 8.142/1990, o Conselho de Saúde é órgão colegiado de caráter permanente e deliberativo, composto por representantes do governo, prestadores de serviço, profissionais de saúde e usuários (estes com representação paritária em relação aos demais), atuando na formulação de estratégias e no controle da execução da política de saúde. Entre suas atribuições está analisar e aprovar o plano de saúde e o relatório de gestão (C). Ele é permanente, não emergencial (A); não é composto só por gestores (B), seus membros não são indicados pelos gestores executivos (D) e não é subordinado às secretarias (E).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-fhemig-2023-psi-27",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "FHEMIG",
+   "ano": 2023,
+   "cargo": "Analista de Gestão e Assistência à Saúde – Psicólogo Clínico",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-de-gestao-e-assistencia-a-saude-agas-psicologo-clinico-nivel-icns118-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-fhemig-retificado-01.11.2023.pdf",
+   "questao_original": 27,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "As afirmativas a seguir indicam corretamente políticas que enfatizam a promoção da equidade em saúde no âmbito do Sistema Único de Saúde, à exceção de uma. Assinale-a.",
+  "alternativas": [
+   "Programa Nacional de Imunizações.",
+   "Política Nacional de Saúde Integral da População Negra.",
+   "Ações e Diretrizes em Saúde para a População em Situação de Rua.",
+   "Política Nacional de Saúde Integral das Populações do Campo e da Floresta.",
+   "Política Nacional de Saúde Integral de Lésbicas, Gays, Bissexuais, Travestis e Transexuais."
+  ],
+  "gabarito": 0,
+  "comentario": "As políticas de promoção da equidade no SUS são dirigidas a populações em situação de maior vulnerabilidade e iniquidade: população negra, população em situação de rua, populações do campo, da floresta e das águas, LGBT, entre outras (B a E). O Programa Nacional de Imunizações (A) é uma política universal de vigilância e prevenção, voltada a toda a população, e não uma política específica de equidade — por isso é a exceção.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-fhemig-2023-psi-28",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "FHEMIG",
+   "ano": 2023,
+   "cargo": "Analista de Gestão e Assistência à Saúde – Psicólogo Clínico",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-de-gestao-e-assistencia-a-saude-agas-psicologo-clinico-nivel-icns118-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-fhemig-retificado-01.11.2023.pdf",
+   "questao_original": 28,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "A Política Nacional de Humanização (PNH) está pautada em uma série de diretrizes que expressam métodos adotados para promover a inclusão em saúde. Sobre uma dessas diretrizes, leia a descrição a seguir.\nProcesso constitutivo das práticas de produção e promoção de saúde que implica responsabilização do trabalhador/equipe pelo usuário, desde a sua chegada até a sua saída. Ouvindo sua queixa, considerando suas preocupações e angústias, fazendo uso de uma escuta qualificada que possibilite analisar a demanda e garantir atenção integral, resolutiva e responsável.\nhttps://www.gov.br/saude/pt-br (Adaptado)\nAssinale a opção que indica a diretriz da PNH descrita no trecho acima.",
+  "alternativas": [
+   "Vínculo.",
+   "Co-gestão.",
+   "Participação.",
+   "Acolhimento.",
+   "Atendimento."
+  ],
+  "gabarito": 3,
+  "comentario": "Na Política Nacional de Humanização, o acolhimento é a diretriz que implica responsabilização da equipe pelo usuário desde a chegada até a saída, com escuta qualificada da queixa e das angústias, análise da demanda e garantia de atenção integral, resolutiva e responsável (D). Vínculo é efeito esperado dessa relação, mas não é o nome da diretriz descrita (A); cogestão refere-se à gestão participativa (B); \"participação\" e \"atendimento\" (C, E) não correspondem à definição apresentada.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-fhemig-2023-psi-29",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "FHEMIG",
+   "ano": 2023,
+   "cargo": "Analista de Gestão e Assistência à Saúde – Psicólogo Clínico",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-de-gestao-e-assistencia-a-saude-agas-psicologo-clinico-nivel-icns118-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-fhemig-retificado-01.11.2023.pdf",
+   "questao_original": 29,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Considerando os requisitos de boas práticas de funcionamento para os serviços de saúde, detalhados na Resolução de Diretoria Colegiada RDC 63/2011, assinale a opção que indica o(s) serviço(s) de saúde que, segundo o seu tipo de atividade, documentação e registro, deve(m) se manter disponível(eis).",
+  "alternativas": [
+   "O projeto básico de arquitetura, com aprovação pelo Corpo de Bombeiros da Polícia Militar.",
+   "O controle de saúde ocupacional e o controle de qualidade da água.",
+   "Os contratos de serviços terceirizados e a certificação de qualidade em transparência pública.",
+   "A manutenção dos equipamentos e das condições adequadas para a comercialização de produtos químicos.",
+   "O gerenciamento de resíduos de serviços de saúde e o relatório de impacto ambiental."
+  ],
+  "gabarito": 1,
+  "comentario": "A RDC Anvisa 63/2011 (boas práticas de funcionamento dos serviços de saúde) determina que o serviço mantenha disponíveis, conforme seu tipo de atividade, documentação e registros de itens como controle de saúde ocupacional, controle de qualidade da água, projeto básico de arquitetura aprovado pela vigilância sanitária, manutenção de equipamentos, gerenciamento de resíduos e contratos de terceirizados (B). As demais alternativas misturam um item verdadeiro com um elemento estranho à norma: aprovação pelo Corpo de Bombeiros (A), certificação de \"transparência pública\" (C), comercialização de produtos químicos (D) e relatório de impacto ambiental (E).",
+  "dificuldade": 3,
+  "anulada": false
+ },
+ {
+  "id": "fgv-fhemig-2023-psi-30",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "FHEMIG",
+   "ano": 2023,
+   "cargo": "Analista de Gestão e Assistência à Saúde – Psicólogo Clínico",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-de-gestao-e-assistencia-a-saude-agas-psicologo-clinico-nivel-icns118-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-fhemig-retificado-01.11.2023.pdf",
+   "questao_original": 30,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Para fortalecer a capacidade de resposta do Sistema Único de Saúde a emergências e desastres ocasionados pela seca e estiagem em Minas Gerais, a Secretaria de Saúde de Minas Gerais (SES/MG) elaborou um Plano de Preparação e Resposta (PPR) específico. Em relação às possíveis ações indicadas nesse documento para fazer frente às emergências ocasionadas pela seca e estiagem em Minas Gerais, analise as ações a seguir.\nI. No campo da atenção primária, estabelecer previamente articulação e acordos nas Regiões de Saúde, com outros setores e municípios, para cooperação e garantia de recursos, principalmente humanos, materiais e suprimentos de saúde.\nII. No campo da vigilância em saúde, identificar municípios mineiros atendidos pelo programa Transporte e Distribuição de Água Potável da Defesa Civil/MG e reportar ao Ministério da Saúde a situação do Estado de Minas Gerais no cenário de seca e estiagem.\nIII. No campo da assistência farmacêutica, apoiar a vigilância em saúde no suprimento de hipoclorito de sódio a 2,5% para desinfecção caseira da água para consumo humano, quando necessário.\nSão pertinentes as ações descritas em",
+  "alternativas": [
+   "I, apenas.",
+   "II, apenas.",
+   "I e II, apenas.",
+   "II e III, apenas.",
+   "I, II e III."
+  ],
+  "gabarito": 4,
+  "comentario": "Todas as ações são pertinentes a um Plano de Preparação e Resposta a emergências por seca e estiagem (E). Na atenção primária, pactuar previamente cooperação regional e intersetorial garante recursos humanos e insumos (I). A vigilância em saúde precisa mapear os municípios abastecidos por carro-pipa/distribuição de água potável e informar o Ministério da Saúde sobre o cenário (II). E a assistência farmacêutica apoia a distribuição de hipoclorito de sódio a 2,5% para desinfecção domiciliar da água, medida clássica de prevenção de doenças de veiculação hídrica (III).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-fhemig-2023-psi-31",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "FHEMIG",
+   "ano": 2023,
+   "cargo": "Analista de Gestão e Assistência à Saúde – Psicólogo Clínico",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-de-gestao-e-assistencia-a-saude-agas-psicologo-clinico-nivel-icns118-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-fhemig-retificado-01.11.2023.pdf",
+   "questao_original": 31,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Regina procurou a unidade do Programa de Saúde da Família para obter ajuda para sua filha Bianca. Ela relatou à enfermeira da unidade que sua filha Bianca, de 16 anos, não quer sair do quarto para ir à escola e tem se cortado com gilete. Assinale a opção que indica a forma de apoio matricial proposto.",
+  "alternativas": [
+   "Marcação de consulta individual de Bianca com o psiquiatra do NASF.",
+   "Encaminhamento da adolescente para o CAPS do território.",
+   "Contrarreferência da adolescente e da mãe a um serviço de psicologia aplicada.",
+   "Consulta conjunta com um profissional da equipe de saúde mental do NASF.",
+   "Internação da jovem em leito psiquiátrico em hospital geral."
+  ],
+  "gabarito": null,
+  "comentario": "Questão ANULADA no gabarito definitivo. O tema é o apoio matricial: a equipe de saúde mental (à época, do NASF) oferece retaguarda especializada às equipes de Saúde da Família por meio de consultas e atendimentos conjuntos, discussão de casos e construção de projetos terapêuticos compartilhados, em vez de simples encaminhamento. A alternativa que melhor expressa essa lógica é a consulta conjunta com profissional de saúde mental do NASF (D); encaminhamentos diretos ao CAPS, consulta individual com o psiquiatra ou internação contrariam a proposta. A banca não divulgou aqui o motivo da anulação; possivelmente a formulação do enunciado (que não descreve a avaliação de risco da adolescente) gerou ambiguidade.",
+  "dificuldade": 2,
+  "anulada": true
+ },
+ {
+  "id": "fgv-fhemig-2023-psi-32",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "FHEMIG",
+   "ano": 2023,
+   "cargo": "Analista de Gestão e Assistência à Saúde – Psicólogo Clínico",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-de-gestao-e-assistencia-a-saude-agas-psicologo-clinico-nivel-icns118-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-fhemig-retificado-01.11.2023.pdf",
+   "questao_original": 32,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "A Lei nº 10.216/2001 dispõe sobre a proteção e os direitos das pessoas portadoras de transtornos mentais e redireciona o modelo assistencial em saúde mental. João, 19 anos, está em surto psicótico, com alucinações auditivas e delírios de conteúdo persecutório. Seu pai chamou o SAMU porque João está com uma faca e ameaça os membros da família. De acordo com a referida lei, assinale a afirmativa correta.",
+  "alternativas": [
+   "O SAMU deverá proceder à internação compulsória de João em unidade de pronto atendimento.",
+   "A internação involuntária poderá ser realizada mediante laudo médico circunstanciado, que caracterize os motivos.",
+   "João deverá ser prontamente encaminhado para tratamento ambulatorial no CAPSi de referência.",
+   "A reabilitação psicossocial de João deverá ser conduzida em um serviço residencial terapêutico.",
+   "A internação do paciente em instituição asilar será indicada porque os recursos extra-hospitalares se mostraram insuficientes."
+  ],
+  "gabarito": 1,
+  "comentario": "A Lei 10.216/2001 admite a internação psiquiátrica apenas mediante laudo médico circunstanciado que caracterize seus motivos, nas modalidades voluntária, involuntária (sem consentimento do paciente, a pedido de terceiro) e compulsória (determinada pela Justiça). Num surto com risco aos familiares, a internação involuntária fundamentada em laudo é possível (B). O SAMU não determina internação compulsória, que é judicial (A); o CAPSi atende crianças e adolescentes (C); o Serviço Residencial Terapêutico destina-se a egressos de longas internações (D); e a lei veda a internação em instituições com características asilares (E).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-fhemig-2023-psi-33",
+  "disciplina": "especificos",
+  "assunto": "esp-trabalho",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "FHEMIG",
+   "ano": 2023,
+   "cargo": "Analista de Gestão e Assistência à Saúde – Psicólogo Clínico",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-de-gestao-e-assistencia-a-saude-agas-psicologo-clinico-nivel-icns118-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-fhemig-retificado-01.11.2023.pdf",
+   "questao_original": 33,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Na lista das doenças elaborada pelo Ministério da Saúde e pela Organização Pan-Americana da Saúde no Brasil, o trabalho é posto como um dos fatores psicossociais de risco para os transtornos mentais e do comportamento, inclusive o alcoolismo crônico. As opções a seguir apresentam condições de trabalho adversas que podem favorecer o alcoolismo, à exceção de uma. Assinale-a.",
+  "alternativas": [
+   "A impossibilidade de progressão na carreira.",
+   "As ocupações que envolvem afastamento prolongado do lar.",
+   "A involução nas taxas de acidentes ocupacionais.",
+   "As situações de tensão, estresse ou perigo.",
+   "As exigências excessivas de responsabilidade."
+  ],
+  "gabarito": 2,
+  "comentario": "A Lista de Doenças Relacionadas ao Trabalho (MS/OPAS) aponta, entre os fatores associados ao alcoolismo crônico, ocupações socialmente desprestigiadas ou sem perspectiva de progressão, trabalho com afastamento prolongado do lar, situações de tensão, estresse e perigo, e exigências excessivas de responsabilidade (A, B, D, E). A redução (\"involução\") das taxas de acidentes ocupacionais (C) indica melhora nas condições de segurança, não um fator de risco — por isso é a exceção.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-fhemig-2023-psi-34",
+  "disciplina": "especificos",
+  "assunto": "esp-praticas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "FHEMIG",
+   "ano": 2023,
+   "cargo": "Analista de Gestão e Assistência à Saúde – Psicólogo Clínico",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-de-gestao-e-assistencia-a-saude-agas-psicologo-clinico-nivel-icns118-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-fhemig-retificado-01.11.2023.pdf",
+   "questao_original": 34,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "O trabalho com pequenos grupos é um recurso fundamental nas práticas de saúde desenvolvidas na atenção primária. Da. Neuza, 79 anos, viúva, paciente poliqueixosa, que frequentemente procura a unidade básica de saúde de seu bairro para pedir remédios, foi convidada a participar de um grupo de convivência para mulheres idosas. Assinale a opção que indica, em um grupo dessa natureza, o mecanismo terapêutico para Da. Neuza.",
+  "alternativas": [
+   "A terapia ocupacional para minorar seu declínio cognitivo.",
+   "O favorecimento da adesão ao tratamento medicamentoso.",
+   "A análise das causas infantis de seu comportamento depressivo.",
+   "O tratamento das doenças físicas subjacentes ao mal-estar emocional.",
+   "O desenvolvimento da socialização com mulheres de sua faixa etária."
+  ],
+  "gabarito": 4,
+  "comentario": "Grupos de convivência na atenção primária têm como mecanismo terapêutico central a socialização, o pertencimento e a troca de experiências entre pares, reduzindo isolamento e solidão — algo especialmente relevante para uma idosa viúva e poliqueixosa, cujas queixas frequentemente expressam sofrimento difuso (E). Não se trata de terapia ocupacional para declínio cognitivo (A), de adesão medicamentosa (B), de análise das causas infantis do comportamento (C) nem de tratamento de doenças físicas (D).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-fhemig-2023-psi-35",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "FHEMIG",
+   "ano": 2023,
+   "cargo": "Analista de Gestão e Assistência à Saúde – Psicólogo Clínico",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-de-gestao-e-assistencia-a-saude-agas-psicologo-clinico-nivel-icns118-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-fhemig-retificado-01.11.2023.pdf",
+   "questao_original": 35,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Um objetivo da Rede de Atenção Psicossocial (RAPS) é promover o acesso das pessoas com transtornos mentais e com necessidades decorrentes do uso de crack, álcool e outras drogas e suas famílias aos pontos de atenção. Sobre o CAPS AD IV, cuja implantação é prevista em municípios com população acima de 500.000 habitantes, bem como nas capitais estaduais, analise as afirmativas a seguir.\nI. O CAPS AD IV é um serviço aberto, que fornece atenção contínua aos usuários durante 24 horas e em todos os dias da semana, inclusive finais de semana e feriados.\nII. O CAPS AD IV tem como uma de suas diretrizes funcionar de forma articulada com as equipes de Consultório na Rua, que atuarão junto aos usuários nas cenas de uso.\nIII. O CAPS AD IV não atenderá crianças ou adolescentes com necessidades relacionadas ao consumo de álcool, crack e outras drogas, devendo esses usuários ser encaminhados a outros equipamentos da RAPS.\nAs afirmativas são, na ordem apresentada, respectivamente,",
+  "alternativas": [
+   "V – V – F.",
+   "V – F – V.",
+   "F – V – V.",
+   "V – V – V.",
+   "V – F – F."
+  ],
+  "gabarito": 0,
+  "comentario": "O CAPS AD IV, criado pela Portaria MS 3.588/2017, funciona 24 horas, todos os dias da semana, incluindo finais de semana e feriados (I – V), e deve atuar de forma articulada com as equipes de Consultório na Rua junto às cenas de uso (II – V). A afirmativa III é falsa: o serviço pode atender também crianças e adolescentes com necessidades decorrentes do uso de álcool e outras drogas, observadas as disposições do ECA. Sequência V – V – F (A).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-fhemig-2023-psi-36",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "FHEMIG",
+   "ano": 2023,
+   "cargo": "Analista de Gestão e Assistência à Saúde – Psicólogo Clínico",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-de-gestao-e-assistencia-a-saude-agas-psicologo-clinico-nivel-icns118-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-fhemig-retificado-01.11.2023.pdf",
+   "questao_original": 36,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Durante a década de 1970, muitos profissionais denunciaram as condições degradantes em que os hospitais psiquiátricos funcionavam no país. Em 1979 e 1987 foram criados, respectivamente, o Movimento dos Trabalhadores em Saúde Mental (MTSM) e o Movimento Anti-Manicomial, que expressavam a luta dos profissionais por uma nova psiquiatria. É correto afirmar que o tratamento de pessoas com transtornos mentais, a partir da década de 1960, teve como primeira fonte inspiradora as abordagens e terapias desenvolvidas por",
+  "alternativas": [
+   "Paulo Amarante.",
+   "Franco Basaglia.",
+   "Nise da Silveira.",
+   "Erving Goffman.",
+   "Pedro Gabriel Delgado."
+  ],
+  "gabarito": 1,
+  "comentario": "O psiquiatra italiano Franco Basaglia, a partir dos anos 1960 em Gorizia e depois em Trieste, liderou a desinstitucionalização e a crítica radical ao manicômio, influenciando diretamente o Movimento dos Trabalhadores em Saúde Mental e a Reforma Psiquiátrica brasileira (B). Paulo Amarante e Pedro Gabriel Delgado são protagonistas brasileiros posteriores da reforma (A, E); Nise da Silveira foi pioneira no Brasil com a terapêutica ocupacional e a arte, mas não é a \"primeira fonte\" do movimento referida (C); Goffman, sociólogo, analisou as instituições totais, mas não desenvolveu abordagens terapêuticas (D).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-fhemig-2023-psi-37",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "FHEMIG",
+   "ano": 2023,
+   "cargo": "Analista de Gestão e Assistência à Saúde – Psicólogo Clínico",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-de-gestao-e-assistencia-a-saude-agas-psicologo-clinico-nivel-icns118-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-fhemig-retificado-01.11.2023.pdf",
+   "questao_original": 37,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Com relação aos Núcleos de Apoio à Saúde da Família (NASF), analise as afirmativas a seguir.\nI. Eles devem buscar instituir a plena integralidade do cuidado físico e mental aos usuários do SUS, por intermédio da qualificação e complementaridade do trabalho das Equipes Saúde da Família – ESF.\nII. Eles são a porta de entrada do sistema e devem atuar de forma integrada à rede de serviços de saúde, a partir das demandas identificadas no trabalho conjunto com as equipes Saúde da Família.\nIII. Eles têm o objetivo de ampliar a abrangência, o escopo e a resolutividade das ações da atenção básica.\nEstá correto o que se afirma em",
+  "alternativas": [
+   "I, apenas.",
+   "I e II, apenas.",
+   "I e III, apenas.",
+   "II e III, apenas.",
+   "I, II e III."
+  ],
+  "gabarito": 2,
+  "comentario": "Os NASF (Portaria MS 154/2008) foram criados para ampliar a abrangência, o escopo e a resolutividade das ações da atenção básica, apoiando as equipes de Saúde da Família por meio do apoio matricial e buscando a integralidade do cuidado (I e III corretas — C). A II é falsa porque o NASF não é porta de entrada do sistema: não tem acesso livre para o usuário e atua a partir das demandas das equipes de Saúde da Família, que são a porta de entrada preferencial.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-fhemig-2023-psi-38",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "FHEMIG",
+   "ano": 2023,
+   "cargo": "Analista de Gestão e Assistência à Saúde – Psicólogo Clínico",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-de-gestao-e-assistencia-a-saude-agas-psicologo-clinico-nivel-icns118-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-fhemig-retificado-01.11.2023.pdf",
+   "questao_original": 38,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Valéria ingressou recentemente em uma equipe de trabalho e passou a ter problemas na interação com os colegas, pois descreve-se de forma superior aos demais, exagerando sua importância, acreditando-se merecedora de tratamento especial e atenção. Além disso, Valéria tem apresentado falta de empatia com as dificuldades vividas pelos colegas, ao mesmo tempo em que minimiza suas próprias falhas, não demonstrando arrependimento ainda que reconhecendo os problemas que criou e relatando que tem inveja dos outros, embora fale de forma invejosa de alguns colegas. Com base nesses comportamentos, é correto afirmar que Valéria apresenta um transtorno de personalidade",
+  "alternativas": [
+   "narcisista.",
+   "esquiva.",
+   "paranoide.",
+   "esquizoide.",
+   "esquizotípica."
+  ],
+  "gabarito": 0,
+  "comentario": "Grandiosidade, exagero da própria importância, sentimento de merecer tratamento especial, necessidade de admiração, falta de empatia e inveja são critérios do transtorno da personalidade narcisista no DSM-5 (A). A personalidade esquiva caracteriza-se por inibição social e sentimentos de inadequação (B); a paranoide, por desconfiança generalizada (C); a esquizoide, por distanciamento das relações e restrição afetiva (D); e a esquizotípica, por excentricidades e distorções cognitivas/perceptivas (E).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-fhemig-2023-psi-39",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "FHEMIG",
+   "ano": 2023,
+   "cargo": "Analista de Gestão e Assistência à Saúde – Psicólogo Clínico",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-de-gestao-e-assistencia-a-saude-agas-psicologo-clinico-nivel-icns118-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-fhemig-retificado-01.11.2023.pdf",
+   "questao_original": 39,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "De acordo com o Manual de Diagnóstico e Estatísticas das Perturbações Mentais (DSM), o Transtorno Depressivo Maior (TDM) é a representação clássica dos grupos de transtornos depressivos. Sobre os sintomas do TDM, analise os itens a seguir.\nI. Irritabilidade, ansiedade e angústia.\nII. Diminuição ou incapacidade de sentir alegria e prazer.\nIII. Perda ou aumento do apetite e do peso.\nEstá correto o que se afirma em",
+  "alternativas": [
+   "I, apenas.",
+   "I e II, apenas.",
+   "I e III, apenas.",
+   "II e III, apenas.",
+   "I, II e III."
+  ],
+  "gabarito": 4,
+  "comentario": "Os três itens são compatíveis com o Transtorno Depressivo Maior (E). O DSM-5 inclui a anedonia (diminuição do interesse ou prazer — II) como sintoma central e a alteração significativa de apetite ou peso, para mais ou para menos (III). Irritabilidade pode substituir o humor deprimido em crianças e adolescentes e é frequente em adultos, e ansiedade/angústia aparecem com frequência, inclusive no especificador \"com sintomas ansiosos\" (I).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-fhemig-2023-psi-40",
+  "disciplina": "especificos",
+  "assunto": "esp-direitos-humanos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "FHEMIG",
+   "ano": 2023,
+   "cargo": "Analista de Gestão e Assistência à Saúde – Psicólogo Clínico",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-de-gestao-e-assistencia-a-saude-agas-psicologo-clinico-nivel-icns118-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-fhemig-retificado-01.11.2023.pdf",
+   "questao_original": 40,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "O envelhecimento é um processo multifatorial e singular, pois além de se articular às predisposições genéticas, ao nível de escolaridade, ao trabalho, à renda, ao suporte social, também podemos verificar que cada pessoa envelhece à sua maneira, a partir de suas experiências e estilo de vida. Nas discussões sobre envelhecimento da população, destaca-se o etarismo. Sobre etarismo, assinale a afirmativa correta.",
+  "alternativas": [
+   "É a maior sensibilidade a agressões do ambiente interno e externo por pessoas idosas.",
+   "É a conservação do nível de adaptação do indivíduo de mais de 60 anos ao meio, em comparação com a idade cronológica.",
+   "É a avaliação de como o indivíduo com mais de 60 anos se comporta e desempenha papéis no meio em que se insere.",
+   "É um tipo de discriminação contra pessoas ou grupos, baseado na idade.",
+   "É a capacidade de buscar o sentido da vida, da aprendizagem e do autoconhecimento em pessoas com mais de 60 anos."
+  ],
+  "gabarito": 3,
+  "comentario": "Etarismo (ou idadismo/ageísmo) é o preconceito e a discriminação contra pessoas ou grupos com base na idade, especialmente contra pessoas idosas, manifestando-se em estereótipos, atitudes e práticas institucionais (D). As demais alternativas descrevem outros conceitos do envelhecimento: a vulnerabilidade aumentada a agressões (A, próxima da ideia de senescência/fragilidade), a capacidade funcional e adaptação (B, C) e o desenvolvimento de sentido na velhice (E).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-fhemig-2023-psi-41",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "FHEMIG",
+   "ano": 2023,
+   "cargo": "Analista de Gestão e Assistência à Saúde – Psicólogo Clínico",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-de-gestao-e-assistencia-a-saude-agas-psicologo-clinico-nivel-icns118-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-fhemig-retificado-01.11.2023.pdf",
+   "questao_original": 41,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "O psiquiatra e psicanalista Sandor Ferenczi, admirado por Freud, empenhou-se na elasticidade da técnica psicanalítica, sendo uma de suas principais inovações a técnica que consistia em intervir diretamente no tratamento. Ao perceber o deslocamento libidinal do paciente para fantasias e gratificações corporais inconscientes, a técnica proposta por Ferenczi visa à intervenção do analista durante as sessões por meio de ordens e proibições, em vez de ficar limitado a fazer interpretações. Tal técnica é chamada de",
+  "alternativas": [
+   "ativa.",
+   "catarse.",
+   "contratransferência.",
+   "hipnose e sugestão.",
+   "tempo lógico da sessão."
+  ],
+  "gabarito": 0,
+  "comentario": "Ferenczi propôs a técnica ativa: diante de deslocamentos libidinais para gratificações e fantasias que alimentavam a resistência, o analista passaria a intervir com injunções e proibições (por exemplo, renúncia a certas satisfações), em vez de apenas interpretar (A). A catarse e a hipnose/sugestão (B, D) pertencem à fase pré-psicanalítica de Breuer e Freud; a contratransferência (C) é a resposta emocional do analista ao paciente, tema que Ferenczi também estudou, mas não é o nome dessa técnica; e o \"tempo lógico\" da sessão (E) é proposta de Lacan.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-fhemig-2023-psi-42",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "FHEMIG",
+   "ano": 2023,
+   "cargo": "Analista de Gestão e Assistência à Saúde – Psicólogo Clínico",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-de-gestao-e-assistencia-a-saude-agas-psicologo-clinico-nivel-icns118-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-fhemig-retificado-01.11.2023.pdf",
+   "questao_original": 42,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Sob a influência do estruturalismo, Lacan desenvolveu, na primeira parte de seu ensino, uma teoria norteada pela primazia do simbólico, por meio da qual estabeleceu uma diferença determinante entre as psicoses e as neuroses. O critério fundamental de distinção é a ausência ou a presença do significante do Nome-do-Pai na organização subjetiva. Para tanto, introduz um termo original, tomado de empréstimo do Direito, para designar um mecanismo específico da psicose, diferente da operação de recalque no campo das neuroses. Tal termo chama-se",
+  "alternativas": [
+   "projeção.",
+   "forclusão.",
+   "interdição.",
+   "sublimação.",
+   "denegação."
+  ],
+  "gabarito": 1,
+  "comentario": "Lacan traduziu a Verwerfung freudiana por forclusão (forclusion), termo jurídico que designa a perda de um direito não exercido no prazo. Nas psicoses, o significante do Nome-do-Pai é forcluído (rejeitado do simbólico), diferentemente do recalque, próprio das neuroses (B). Projeção (A) é mecanismo de defesa descrito, por exemplo, na paranoia, mas não é o conceito lacaniano; interdição (C) remete à lei paterna; sublimação (D) é destino da pulsão; e denegação (E, Verneinung) é o mecanismo pelo qual o recalcado aparece sob forma negada.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-fhemig-2023-psi-43",
+  "disciplina": "especificos",
+  "assunto": "esp-direitos-humanos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "FHEMIG",
+   "ano": 2023,
+   "cargo": "Analista de Gestão e Assistência à Saúde – Psicólogo Clínico",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-de-gestao-e-assistencia-a-saude-agas-psicologo-clinico-nivel-icns118-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-fhemig-retificado-01.11.2023.pdf",
+   "questao_original": 43,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Com relação à atuação da(o) psicóloga(o) em situações de violência sexual contra a criança e o adolescente, analise as afirmativas a seguir:\nI. O atendimento à criança ou ao adolescente pode ser individual, grupal e/ou familiar nas dimensões psicoterapêuticas e psicossociais, sendo que nestas situações a abordagem psicossocial é idêntica à da psicoterapia.\nII. No contexto da saúde, sugere-se que o atendimento individual seja utilizado apenas nas entrevistas iniciais, como forma de avaliação preliminar e preparação da criança e do adolescente para a entrada nos grupos, ou quando, a partir dessa avaliação, ficar constatado que o trabalho em grupo não é indicado.\nIII. Na proteção social básica os atendimentos ofertados objetivam fortalecer a capacidade protetiva das famílias e prevenir as situações de violência e de violação de direitos da criança e do adolescente, além de direcioná-los à proteção social especial para o atendimento especializado, quando essas situações forem identificadas.\nEstá correto o que se afirma em",
+  "alternativas": [
+   "I, apenas.",
+   "II, apenas.",
+   "III, apenas.",
+   "I e III, apenas.",
+   "II e III, apenas."
+  ],
+  "gabarito": 4,
+  "comentario": "As referências técnicas do CFP/CREPOP para atuação com crianças e adolescentes em situação de violência sexual distinguem a dimensão psicoterapêutica da psicossocial: o atendimento psicossocial não é idêntico à psicoterapia, envolvendo também a família, a rede de proteção e o acesso a direitos — por isso a I é falsa. A II reproduz a orientação de que, no contexto da saúde, o atendimento individual seja usado nas entrevistas iniciais (avaliação e preparação para o grupo) ou quando o grupo não for indicado. A III descreve corretamente a proteção social básica do SUAS (CRAS/PAIF), que previne violações e encaminha à proteção social especial (CREAS) quando elas são identificadas. Resposta: E.",
+  "dificuldade": 3,
+  "anulada": false
+ },
+ {
+  "id": "fgv-fhemig-2023-psi-44",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "FHEMIG",
+   "ano": 2023,
+   "cargo": "Analista de Gestão e Assistência à Saúde – Psicólogo Clínico",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-de-gestao-e-assistencia-a-saude-agas-psicologo-clinico-nivel-icns118-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-fhemig-retificado-01.11.2023.pdf",
+   "questao_original": 44,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Segundo a teoria de Jean Piaget, comumente chamada de epistemologia genética ou construtivismo, o desenvolvimento humano está dividido em estágios. Em sendo assim, por volta dos dois aos sete anos, a criança experimenta o mundo por meio de representações mentais, desenvolvendo a capacidade de simbolizar objeto ou ação ausente. Nesta fase, não há o princípio da reversibilidade como recurso de pensamento e a fala da criança é de caráter egocêntrico. Tal estágio denomina-se",
+  "alternativas": [
+   "sensório motor.",
+   "pré-operatório.",
+   "operatório formal.",
+   "operatório concreto.",
+   "narcisismo secundário."
+  ],
+  "gabarito": 1,
+  "comentario": "Para Piaget, o estágio pré-operatório (aproximadamente 2 a 7 anos) é marcado pelo surgimento da função simbólica (linguagem, jogo simbólico, imitação diferida), pelo egocentrismo e pela ausência de reversibilidade do pensamento (B). O sensório-motor (0–2 anos) antecede a representação (A); o operatório concreto (7–11/12 anos) traz a reversibilidade e a conservação (D); o operatório formal (a partir de 11/12 anos) permite raciocínio hipotético-dedutivo (C); e narcisismo secundário (E) é conceito psicanalítico, não piagetiano.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-fhemig-2023-psi-45",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "FHEMIG",
+   "ano": 2023,
+   "cargo": "Analista de Gestão e Assistência à Saúde – Psicólogo Clínico",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-de-gestao-e-assistencia-a-saude-agas-psicologo-clinico-nivel-icns118-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-fhemig-retificado-01.11.2023.pdf",
+   "questao_original": 45,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Freud descreve a instância da personalidade resultante da convergência do narcisismo infantil e das identificações com os pais, com os seus substitutos individuais e coletivos. Tal instância é o modelo ao qual o sujeito procura se conformar e serve para explicar a fascinação amorosa e a submissão a líderes por meio da qual se constituem os grupos humanos. Tal instância denomina-se:",
+  "alternativas": [
+   "Id.",
+   "Ego.",
+   "Ideal de Ego.",
+   "Pai totêmico.",
+   "Narcisismo primário."
+  ],
+  "gabarito": 2,
+  "comentario": "O Ideal do Ego, em Freud, resulta da convergência do narcisismo (idealização do próprio eu) com as identificações com os pais, seus substitutos e os ideais coletivos; é o modelo ao qual o sujeito procura se conformar. Em \"Psicologia das massas e análise do eu\" (1921), Freud explica a fascinação amorosa, a hipnose e a submissão ao líder pela colocação de um mesmo objeto no lugar do Ideal do Ego dos membros do grupo (C). Id e Ego (A, B) são outras instâncias; o pai totêmico (D) é figura mítica de \"Totem e tabu\"; e o narcisismo primário (E) é um estado libidinal, não uma instância.",
+  "dificuldade": 2,
+  "anulada": false
+ }
+]

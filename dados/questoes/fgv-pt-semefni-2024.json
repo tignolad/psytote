@@ -1,0 +1,202 @@
+[
+ {
+  "id": "fgv-semefni-2024-ana-1",
+  "disciplina": "portugues",
+  "assunto": "pt-morfologia",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "SEMEF-Nova Iguaçu",
+   "ano": 2024,
+   "cargo": "Analista Tributário do Tesouro Municipal",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-tributario-do-tesouro-municipalcns02-tipo-1.pdf"
+  },
+  "enunciado": "Observe os versos a seguir, de Luís de Camões:\nAmor é fogo que arde sem se ver,\né ferida que dói, [e] não se sente;\né um contentamento descontente,\né dor que desatina sem doer.\nAssinale a alternativa que melhor substitui o conectivo sublinhado. [sublinhado = [ ]]",
+  "alternativas": [
+   "Também.",
+   "Porém.",
+   "Porque.",
+   "Logo.",
+   "Além disso."
+  ],
+  "gabarito": 1,
+  "comentario": "Em \"é ferida que dói, e não se sente\", o \"e\" liga ideias contrastantes (doer × não se sentir), assumindo valor adversativo — equivale a \"porém\" (B). É o mesmo jogo de paradoxos do soneto (\"contentamento descontente\", \"dor que desatina sem doer\"). \"Também\" e \"além disso\" mantêm valor aditivo; \"porque\" é causal; \"logo\" é conclusivo.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-semefni-2024-ana-2",
+  "disciplina": "portugues",
+  "assunto": "pt-sintaxe",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "SEMEF-Nova Iguaçu",
+   "ano": 2024,
+   "cargo": "Analista Tributário do Tesouro Municipal",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-tributario-do-tesouro-municipalcns02-tipo-1.pdf"
+  },
+  "enunciado": "Assinale a alternativa em que a concordância está adequada à norma padrão da língua portuguesa.",
+  "alternativas": [
+   "O envio de comida e de roupa os salvarão.",
+   "Observou-se um pequeno desvio de rota, embora não se previsse os erros.",
+   "Estava incluso no valor todos os impostos exigidos por lei.",
+   "A reflexão feita por intelectuais brasileiros e estrangeiros sobre os avanços científicos podem conduzir a certos erros.",
+   "Couberam ao diretor as análises feitas pelo funcionário da contabilidade."
+  ],
+  "gabarito": 4,
+  "comentario": "Em E, o sujeito posposto é \"as análises\" (plural), e o verbo concorda com ele: \"Couberam\". Em A, o núcleo do sujeito é \"envio\" (singular): \"o envio… os salvará\"; em B, na passiva sintética o verbo concorda com \"os erros\": \"não se previssem os erros\"; em C, sujeito \"todos os impostos\": \"Estavam inclusos\"; em D, o núcleo é \"A reflexão\": \"pode conduzir\".",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-semefni-2024-ana-3",
+  "disciplina": "portugues",
+  "assunto": "pt-tipologia",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "SEMEF-Nova Iguaçu",
+   "ano": 2024,
+   "cargo": "Analista Tributário do Tesouro Municipal",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-tributario-do-tesouro-municipalcns02-tipo-1.pdf"
+  },
+  "enunciado": "Dandara\n“Uma guerreira negra que aprendeu a fabricar espadas e a lutar com elas; uma capoeirista forte e corajosa que planejava ações de combate e liderava seus companheiros na luta pela liberdade – assim sobrevive em relatos e lendas populares a história de Dandara, rainha do Quilombo dos Palmares e companheira de Zumbi”.\n(SOUZA, DP de; CARARO, A. Extraordinárias mulheres que revolucionaram o Brasil. Companhia das letras-Seguinte. 2017).\nNa organização temática do trecho citado, predominam, do ponto de vista linguístico e estrutural, as tipologias textuais",
+  "alternativas": [
+   "descritiva e expositiva, pois o enunciador detalha as ações da guerreira, argumentando sobre sua importância na luta pela liberdade.",
+   "dissertativa e argumentativa, pois o enunciador apresenta seu ponto de vista sobre as ações da guerreira por meio de uma tese clara.",
+   "expositiva e injuntiva, pois o enunciador elenca as ações da guerreira, com o objetivo de convencer o interlocutor acerca da sua relevância na história.",
+   "narrativa e descritiva, pois o enunciador conta a história da guerreira na luta pela liberdade, ao mesmo tempo em que detalha suas ações e características.",
+   "narrativa e injuntiva, pois o enunciador narra as ações da guerreira, detalhando seus passos, a fim de influenciar o interlocutor sobre sua importância."
+  ],
+  "gabarito": 3,
+  "comentario": "O trecho conta a história de Dandara (ações no passado: \"aprendeu\", \"planejava\", \"liderava\") e, ao mesmo tempo, a caracteriza (\"guerreira negra\", \"capoeirista forte e corajosa\", \"rainha do Quilombo dos Palmares\") — narração com descrição (D). Não há tese defendida nem argumentação explícita (A e B), e não há injunção, isto é, ordens ou instruções ao leitor (C e E).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-semefni-2024-ana-4",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "SEMEF-Nova Iguaçu",
+   "ano": 2024,
+   "cargo": "Analista Tributário do Tesouro Municipal",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-tributario-do-tesouro-municipalcns02-tipo-1.pdf"
+  },
+  "enunciado": "Em Soneto da Separação, Vinicius de Moraes escreveu: “Que não seja imortal, posto que é chama / Mas que seja infinito enquanto dure”.\nSobre a interpretação destes versos, pode-se dizer que",
+  "alternativas": [
+   "a ideia de fidelidade ao relacionamento amoroso está expressa na referência à imortalidade.",
+   "a metáfora utilizada para referência ao sentimento (chama) indica permanência e resiliência do sentimento.",
+   "há uma relação de concessividade entre as duas primeiras orações, reforçada pelo conectivo posto que.",
+   "o aparente paradoxo entre infinitude e duração se desfaz quando se observa, em vez do tempo, a intensidade do sentimento.",
+   "a conjunção enquanto reforça uma ideia de proporcionalidade, observando a justa medida do sentimento entre tempo e força."
+  ],
+  "gabarito": 3,
+  "comentario": "\"Infinito enquanto dure\" parece contraditório (o infinito não acaba), mas o \"infinito\" se refere à intensidade, não à duração: o amor pode acabar, mas, enquanto existir, deve ser pleno (D). A erra porque \"imortal\" fala de duração, não de fidelidade; B erra porque a chama sugere justamente algo intenso e efêmero; C erra porque, no poema, \"posto que\" tem valor causal (\"já que é chama\"); E erra porque \"enquanto\" é temporal (\"durante o tempo em que dure\"), não proporcional.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-semefni-2024-ana-5",
+  "disciplina": "portugues",
+  "assunto": "pt-sintaxe",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "SEMEF-Nova Iguaçu",
+   "ano": 2024,
+   "cargo": "Analista Tributário do Tesouro Municipal",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-tributario-do-tesouro-municipalcns02-tipo-1.pdf"
+  },
+  "enunciado": "Assinale a opção em que o elemento destacado não funciona como complemento. [sublinhado = [ ]]",
+  "alternativas": [
+   "Agora peço-[te] em nome da amizade que te consagro, continua a tua obra de generosidade.",
+   "No entanto, ele estava tranquilo, e um só [gemido] não se lhe ouvia.",
+   "O mancebo, antevendo a sua resolução, caiu-lhe [aos pés.]",
+   "Só então notei [que aquela moça estava só], e que a ausência de um pai, de um marido, ou de um irmão, devia me ter feito suspeitar a verdade.",
+   "Pela vez primeira, sentia a necessidade de [uma alma] que compreendesse a sua."
+  ],
+  "gabarito": 2,
+  "comentario": "Em C, \"aos pés\" indica o lugar onde o mancebo caiu: é adjunto adverbial de lugar, e o verbo \"cair\" é intransitivo — não é complemento. Em A, \"te\" é objeto indireto de \"peço\" (pedir algo a alguém); em D, a oração \"que aquela moça estava só\" é objeto direto de \"notei\" (oração subordinada substantiva objetiva direta); em E, \"uma alma\" é complemento nominal de \"necessidade\". Em B, \"gemido\" é o termo sobre o qual recai a ação de \"ouvir\" na construção com \"se\"; a banca o considerou complemento (a rigor, em análise de passiva sintética ele seria sujeito paciente), mantendo C como resposta.",
+  "dificuldade": 3,
+  "anulada": false
+ },
+ {
+  "id": "fgv-semefni-2024-ana-6",
+  "disciplina": "portugues",
+  "assunto": "pt-linguagem",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "SEMEF-Nova Iguaçu",
+   "ano": 2024,
+   "cargo": "Analista Tributário do Tesouro Municipal",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-tributario-do-tesouro-municipalcns02-tipo-1.pdf"
+  },
+  "enunciado": "Na frase “A água ferve a 100° Celsius”, só não se pode afirmar que",
+  "alternativas": [
+   "o verbo na terceira pessoa do singular ajuda a construir a objetividade na sentença.",
+   "o presente do indicativo contribui para o caráter de verdade científica.",
+   "o valor do ponto de ebulição auxilia na criação sentido de realidade.",
+   "o verbo na voz ativa favorece a comprovação de um conhecimento empírico.",
+   "o uso da escala valida a grandeza física tomada como referência."
+  ],
+  "gabarito": 3,
+  "comentario": "A voz ativa não tem relação com a \"comprovação\" de um conhecimento empírico: a frase apenas enuncia um fato; nenhuma escolha gramatical comprova algo (D é a afirmação indevida). As demais são adequadas: a 3ª pessoa (A) afasta o enunciador e confere objetividade; o presente do indicativo (B) é o \"presente atemporal\" das verdades científicas; o dado numérico (C) e a referência à escala Celsius (E) dão precisão e sentido de realidade.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-semefni-2024-ana-7",
+  "disciplina": "portugues",
+  "assunto": "pt-sintaxe",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "SEMEF-Nova Iguaçu",
+   "ano": 2024,
+   "cargo": "Analista Tributário do Tesouro Municipal",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-tributario-do-tesouro-municipalcns02-tipo-1.pdf"
+  },
+  "enunciado": "Analise a estrutura das frases a seguir:\nI. A consulta médica foi marcada pela internet.\nII. Marcou-se a consulta médica pela internet.\nIII. Marcaram a consulta médica pela internet.\nAssinale a afirmação correta sobre a organização sintática das frases.",
+  "alternativas": [
+   "Todas as frases apresentam sujeito indeterminado.",
+   "A expressão preposicionada pela internet assinala o agente da ação na sentença II.",
+   "O sintagma a consulta médica exerce papel de objeto direto nas sentenças II e III.",
+   "A sentença III apresenta um sujeito indeterminado.",
+   "A partícula apassivadora se foi empregada para indeterminar o sujeito na sentença II."
+  ],
+  "gabarito": 3,
+  "comentario": "Em III, o verbo na 3ª pessoa do plural sem referente expresso (\"Marcaram\") indica sujeito indeterminado (D). A erra porque em I e II o sujeito é \"a consulta médica\" (passiva analítica e passiva sintética); B erra porque \"pela internet\" indica meio, e não agente; C erra porque em II \"a consulta médica\" é sujeito paciente (só em III é objeto direto); E erra porque a partícula apassivadora não indetermina o sujeito — ela forma a voz passiva, com sujeito explícito.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-semefni-2024-ana-8",
+  "disciplina": "portugues",
+  "assunto": "pt-morfologia",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "SEMEF-Nova Iguaçu",
+   "ano": 2024,
+   "cargo": "Analista Tributário do Tesouro Municipal",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-tributario-do-tesouro-municipalcns02-tipo-1.pdf"
+  },
+  "enunciado": "“Em meio à pandemia, com empresas fechando postos de trabalho, escolas operando a distância e idosos precisando de cuidados extras, a participação das mulheres no mercado de trabalho alcançou o patamar mais baixo dos últimos 30 anos. Os hábitos e a cultura da sociedade têm impedido muitas mulheres [não só de trabalhar, mas até de procurar emprego”.]\n(https://www.estadao.com.br/infograficos/economia,com-pandemia-participacaodas-mulheres-no-mercado-de-trabalho-e-a-menor-em-30-anos).\nAssinale a alternativa correta sobre o trecho em destaque. [sublinhado = [ ]]",
+  "alternativas": [
+   "O conectivo mas expressa ideia de adversidade, indicando uma contradição em relação à oração anterior.",
+   "O par não só / mas até, em conjunto, atribui valor de adição ao período.",
+   "O uso da vírgula antes do conectivo mas não está de acordo com a norma padrão da língua portuguesa.",
+   "O uso de até, depois de mas, compromete o valor argumentativo do período.",
+   "O uso do advérbio não altera o valor semântico dos demais conectivos."
+  ],
+  "gabarito": 1,
+  "comentario": "A correlação \"não só… mas (também/até)…\" é aditiva: soma duas informações, com ênfase na segunda (B). A erra porque, nesse par, o \"mas\" não é adversativo; C erra porque a vírgula antes de \"mas\" é adequada; D erra porque \"até\" reforça o argumento (indica o ponto mais extremo: nem sequer procurar emprego); E erra porque é justamente o \"não (só)\" que faz o \"mas\" deixar de ser adversativo e ganhar valor aditivo.",
+  "dificuldade": 2,
+  "anulada": false
+ }
+]

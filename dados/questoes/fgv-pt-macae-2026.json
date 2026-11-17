@@ -1,0 +1,388 @@
+[
+ {
+  "id": "fgv-macae-2026-enf-1",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "Prefeitura de Macaé",
+   "ano": 2026,
+   "cargo": "Enfermeiro do Trabalho",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/enfermeiro-do-trabalho-cns301-tipo-1.pdf"
+  },
+  "texto": "“O Brasil enfrenta vários desafios na área da saúde pública que impactam a qualidade e a acessibilidade dos serviços de saúde:\nDesigualdade no Acesso aos Serviços de Saúde. Apesar de ser um sistema de saúde universal, a desigualdade no acesso aos serviços de saúde entre regiões urbanas e rurais, bem como entre diferentes classes sociais, continua a ser um problema significativo.”",
+  "enunciado": "O texto abaixo, retirado do site “Somos Brasileiros”, explora o tema da saúde pública no Brasil. Sobre a estruturação desse texto, assinale a afirmativa correta.",
+  "alternativas": [
+   "O primeiro parágrafo apresenta os problemas que serão desenvolvidos no parágrafo seguinte.",
+   "O segundo parágrafo mostra um problema que se refere à acessibilidade, citada no primeiro parágrafo.",
+   "O texto mostra um dos problemas da saúde pública no Brasil e uma possível resolução para esse problema.",
+   "A frase “Apesar de ser um sistema de saúde universal” indica um aspecto negativo de nosso sistema de saúde.",
+   "A desigualdade no acesso à saúde pública se prende unicamente ao local de moradia do usuário (regiões urbanas e rurais)."
+  ],
+  "gabarito": 1,
+  "comentario": "O segundo parágrafo trata da “desigualdade no acesso aos serviços de saúde”, problema ligado à “acessibilidade” mencionada no primeiro parágrafo, por isso a B está correta. O primeiro parágrafo apenas anuncia que há “vários desafios”, e o segundo desenvolve um só deles (erro da A); o texto não apresenta solução (C). A concessiva “Apesar de ser um sistema de saúde universal” destaca um aspecto positivo do sistema (D), e a desigualdade também se dá entre classes sociais, não só pelo local de moradia (E).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-macae-2026-enf-2",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "Prefeitura de Macaé",
+   "ano": 2026,
+   "cargo": "Enfermeiro do Trabalho",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/enfermeiro-do-trabalho-cns301-tipo-1.pdf"
+  },
+  "texto": "“Financiamento e Recursos. A falta de recursos financeiros adequados e a gestão ineficiente dos fundos destinados à saúde são desafios críticos. Isso afeta a capacidade dos hospitais e centros de saúde em oferecer serviços de qualidade.”",
+  "enunciado": "No mesmo artigo está presente um segundo aspecto de nosso sistema de saúde: Sobre a estruturação ou significação desse texto, assinale a afirmativa correta.",
+  "alternativas": [
+   "O pronome demonstrativo “Isso” se refere a algo que é citado na continuidade do texto.",
+   "O termo “capacidade dos hospitais” alude à capacidade profissional dos funcionários que lá trabalham.",
+   "Os vocábulos – “Financiamento e Recursos” – do início do texto resumem tematicamente o seu conteúdo.",
+   "Ao afirmar que os problemas citados são “desafios críticos”, o texto indica que são problemas que nunca serão resolvidos.",
+   "A falta de recursos adequados e a ineficiência da gestão financeira são críticas dirigidas aos funcionários da área da saúde."
+  ],
+  "gabarito": 2,
+  "comentario": "“Financiamento e Recursos” funciona como um título que resume o tema do trecho: a falta de recursos e a má gestão dos fundos. O pronome “Isso” é anafórico, retomando o que foi dito antes, não o que vem depois (A). “Capacidade dos hospitais” refere-se à capacidade de oferecer serviços, não à competência dos profissionais (B); “desafios críticos” são graves, não insolúveis (D); e o texto não dirige críticas aos funcionários (E).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-macae-2026-enf-3",
+  "disciplina": "portugues",
+  "assunto": "pt-semantica",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "Prefeitura de Macaé",
+   "ano": 2026,
+   "cargo": "Enfermeiro do Trabalho",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/enfermeiro-do-trabalho-cns301-tipo-1.pdf"
+  },
+  "texto": "“O Brasil enfrenta altas taxas de doenças crônicas como diabetes e hipertensão, além de lidar com epidemias recorrentes, como o dengue e a gripe. A gestão dessas condições requer uma abordagem integrada e recursos substanciais.”",
+  "enunciado": "Leia o trecho a seguir. No trecho, há uma série de expressões e vocábulos que necessitam de perfeita compreensão. Assinale a opção que apresenta um significado adequado para o segmento destacado.",
+  "alternativas": [
+   "“doenças crônicas” são as que se repetem todos os anos.",
+   "“epidemias recorrentes” são aquelas que estão presentes em todo o país.",
+   "“o dengue e a gripe” são exemplos de doenças crônicas, citadas anteriormente.",
+   "As “condições” citadas, referem-se às condições financeiras no atendimento do público.",
+   "“abordagem integrada” se refere a uma participação coletiva na solução do problema."
+  ],
+  "gabarito": 4,
+  "comentario": "“Abordagem integrada” indica uma ação conjunta, de vários setores, na solução do problema, o que corresponde à E. Doenças crônicas são as de longa duração, não as que se repetem anualmente (A); epidemias recorrentes são as que voltam periodicamente, não as presentes em todo o país (B). Dengue e gripe exemplificam as epidemias, não as doenças crônicas (C), e “condições” retoma as doenças e epidemias citadas, não condições financeiras (D).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-macae-2026-enf-4",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "Prefeitura de Macaé",
+   "ano": 2026,
+   "cargo": "Enfermeiro do Trabalho",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/enfermeiro-do-trabalho-cns301-tipo-1.pdf"
+  },
+  "texto": "“Apesar dos desafios, o Brasil tem avançado significativamente em várias áreas da saúde pública:\nExpansão da Cobertura de Saúde. A expansão da cobertura de saúde, especialmente com a implementação de programas de saúde da família e a ampliação da rede de unidades básicas de saúde, tem melhorado o acesso aos serviços”.",
+  "enunciado": "Sobre o texto acima, assinale a afirmativa correta.",
+  "alternativas": [
+   "O substantivo “acesso” poderia ser adequadamente substituído por ascender.",
+   "A “Expansão da Cobertura de Saúde” é visto como mais um problema a ser enfrentado.",
+   "O termo “tem melhorado” deveria ser corretamente substituído por “têm melhorado”.",
+   "O texto mostra um lado positivo da área de saúde pública, relacionado à expansão do serviço.",
+   "Após o segmento inicial, que funciona como uma espécie de título, há comentários sobre temas diferentes dos que estão presentes nesse título."
+  ],
+  "gabarito": 3,
+  "comentario": "O trecho apresenta um avanço (“o Brasil tem avançado”), a expansão da cobertura de saúde, ou seja, um lado positivo da saúde pública ligado à ampliação do serviço. “Ascender” significa subir, sendo parônimo de “acesso”, e não sinônimo (A); a expansão é vista como avanço, não como problema (B). “Tem melhorado” concorda com o sujeito singular “A expansão da cobertura de saúde”, logo não deve ir para o plural (C), e o comentário desenvolve exatamente o tema do título (E).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-macae-2026-enf-5",
+  "disciplina": "portugues",
+  "assunto": "pt-semantica",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "Prefeitura de Macaé",
+   "ano": 2026,
+   "cargo": "Enfermeiro do Trabalho",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/enfermeiro-do-trabalho-cns301-tipo-1.pdf"
+  },
+  "texto": "“Não há investimento melhor para qualquer comunidade do que pôr leite em bebês. Cidadãos saudáveis são o maior bem que qualquer país pode ter.”",
+  "enunciado": "Sobre esse pequeno segmento textual, assinale a afirmativa correta.",
+  "alternativas": [
+   "A expressão “pôr leite em bebês” equivale semanticamente a “adotar bebês”.",
+   "O termo “qualquer comunidade” poderia ser, sem alteração semântica, substituída por “uma comunidade qualquer”.",
+   "A expressão “Não há investimento melhor” corresponde semanticamente a “Há investimento pior”.",
+   "O primeiro período mostra um exemplo de grau comparativo de inferioridade.",
+   "O segundo período do texto funciona como uma conclusão do primeiro."
+  ],
+  "gabarito": 2,
+  "comentario": "Para a banca, dizer que “não há investimento melhor” equivale a afirmar que qualquer outro investimento é pior, daí a correspondência com “Há investimento pior” (C). “Pôr leite em bebês” significa alimentá-los/nutri-los, não adotá-los (A). “Qualquer comunidade” (toda e qualquer) muda de sentido em “uma comunidade qualquer” (uma sem importância) (B). Há comparativo de superioridade (“melhor... do que”), não de inferioridade (D), e o segundo período justifica o primeiro, não o conclui (E).",
+  "dificuldade": 3,
+  "anulada": false
+ },
+ {
+  "id": "fgv-macae-2026-enf-6",
+  "disciplina": "portugues",
+  "assunto": "pt-reescrita",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "Prefeitura de Macaé",
+   "ano": 2026,
+   "cargo": "Enfermeiro do Trabalho",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/enfermeiro-do-trabalho-cns301-tipo-1.pdf"
+  },
+  "enunciado": "“A saúde é o estado no qual as funções necessárias se cumprem insensivelmente ou com prazer.” O termo “insensivelmente ou com prazer” poderia ser escrito de forma sintaticamente paralela e correta do seguinte modo:",
+  "alternativas": [
+   "sem sensibilidade ou sem prazer.",
+   "sem sensibilidade ou com prazer.",
+   "com sensibilidade ou com prazer.",
+   "insensivelmente ou prazeirosamente.",
+   "insensivelmente ou prazerentamente."
+  ],
+  "gabarito": 1,
+  "comentario": "“Insensivelmente” significa “sem que se sinta”, isto é, “sem sensibilidade”, e “com prazer” permanece igual; assim, a forma paralela (duas locuções preposicionadas) e de mesmo sentido é “sem sensibilidade ou com prazer”. A e C alteram o sentido de um dos termos (negam o prazer ou afirmam a sensibilidade). D e E mantêm advérbios, mas “prazeirosamente” está grafado de forma incorreta (o correto é “prazerosamente”) e “prazerentamente” não é a forma usual.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-macae-2026-enf-7",
+  "disciplina": "portugues",
+  "assunto": "pt-tipologia",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "Prefeitura de Macaé",
+   "ano": 2026,
+   "cargo": "Enfermeiro do Trabalho",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/enfermeiro-do-trabalho-cns301-tipo-1.pdf"
+  },
+  "texto": "“Quando o assunto é a saúde da tireoide, um nutriente se destaca como o mais essencial: o iodo. Ele é a matéria-prima usada pela glândula para produzir hormônios que controlam o metabolismo, a energia e o funcionamento de praticamente todos os órgãos do corpo. Junto com o selênio, forma a base nutricional que permite à tireoide trabalhar bem. Entender o papel desses nutrientes e suas principais fontes ajuda a manter o equilíbrio hormonal em dia.”\n(Tua Saúde, 15/04/2026)",
+  "enunciado": "Leia o texto a seguir. Assinale a opção que indica a finalidade principal desse texto.",
+  "alternativas": [
+   "Procurar ensinar o leitor sobre o funcionamento de seu corpo.",
+   "Informar o leitor sobre o papel dos nutrientes na saúde da tireoide.",
+   "Ensinar o leitor a como agir para manter o equilíbrio hormonal em dia.",
+   "Mostrar os caminhos práticos de como melhorar a saúde da tireoide.",
+   "Indicar quais os principais nutrientes participantes especificamente da saúde da tireoide."
+  ],
+  "gabarito": 1,
+  "comentario": "O texto tem finalidade informativa: explica o papel do iodo e do selênio na saúde da tireoide. Não se trata de ensinar o funcionamento do corpo em geral (A) nem de dar instruções práticas de como agir (C e D). A E restringe indevidamente (“especificamente”) e não traduz a finalidade principal, que é informar sobre o papel desses nutrientes.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-macae-2026-enf-8",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "Prefeitura de Macaé",
+   "ano": 2026,
+   "cargo": "Enfermeiro do Trabalho",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/enfermeiro-do-trabalho-cns301-tipo-1.pdf"
+  },
+  "texto": "“Quando o assunto é a saúde da tireoide, um nutriente se destaca como o mais essencial: o iodo. Ele é a matéria-prima usada pela glândula para produzir hormônios que controlam o metabolismo, a energia e o funcionamento de praticamente todos os órgãos do corpo.”",
+  "enunciado": "Sobre a estruturação desse segmento, assinale a afirmativa correta.",
+  "alternativas": [
+   "Após o primeiro período, o texto mostra a conclusão da frase anterior.",
+   "O pronome relativo “que” tem por antecedente o substantivo “matéria-prima”.",
+   "A primeira frase – Quando o assunto é a saúde da tireoide – delimita o assunto a ser explorado no texto.",
+   "Ao dizer que o iodo é o nutriente mais essencial, o texto mostra a falta de importância dos demais nutrientes.",
+   "O termo “glândula” está mal-empregado, por não haver informação anterior sobre qual glândula o texto se refere."
+  ],
+  "gabarito": 2,
+  "comentario": "A oração inicial “Quando o assunto é a saúde da tireoide” delimita o tema que será tratado no texto. O segundo período explica o primeiro (diz por que o iodo é essencial), não o conclui (A). O pronome relativo “que” retoma “hormônios” (“hormônios que controlam...”), não “matéria-prima” (B). Dizer que o iodo é o mais essencial não nega a importância dos demais (D), e “glândula” retoma claramente a tireoide, mencionada antes (E).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-macae-2026-enf-9",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "Prefeitura de Macaé",
+   "ano": 2026,
+   "cargo": "Enfermeiro do Trabalho",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/enfermeiro-do-trabalho-cns301-tipo-1.pdf"
+  },
+  "enunciado": "“Entender o papel desses nutrientes e suas principais fontes ajuda a manter o equilíbrio hormonal em dia.” Sobre os termos desse fragmento textual, assinale a afirmativa correta.",
+  "alternativas": [
+   "A forma verbal “ajuda” deveria estar no plural, pois o sujeito é plural.",
+   "A expressão “em dia” pode ser adequadamente substituída por “diariamente”.",
+   "As duas formas verbais “Entender” e “manter” exemplificam a estrutura de voz passiva.",
+   "O demonstrativo “desses” e o possessivo “suas” possuem o mesmo antecedente textual.",
+   "A informação passada ao leitor por esse segmento textual incentiva-o a procurar novas informações sobre o tema."
+  ],
+  "gabarito": 3,
+  "comentario": "Tanto “desses” (desses nutrientes) quanto “suas” (as fontes dos nutrientes) remetem ao mesmo antecedente: os nutrientes citados antes no texto (iodo e selênio). O sujeito de “ajuda” é a oração “Entender o papel...”, que exige verbo no singular (A). “Em dia” significa “em ordem/atualizado”, não “diariamente” (B); “Entender” e “manter” são infinitivos sem estrutura de voz passiva (C); e o trecho informa, sem incentivar nova busca de informações (E).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-macae-2026-enf-10",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "Prefeitura de Macaé",
+   "ano": 2026,
+   "cargo": "Enfermeiro do Trabalho",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/enfermeiro-do-trabalho-cns301-tipo-1.pdf"
+  },
+  "enunciado": "“O Ministério da Saúde registra a ocorrência de 400 mil casos de infarto agudo do miocárdio por ano no Brasil. O índice posiciona a condição como uma das principais causas de óbito no país.\nApesar da alta incidência, a percepção de bem-estar da população permanece vinculada apenas ao peso corporal total, ignorando os indicadores específicos de distribuição de gordura.”\nCatraca Livre, 16/04/2026.",
+  "alternativas": [
+   "O período inicial mostra que o texto foi estruturado a partir da opinião de quem o escreveu.",
+   "A utilização do advérbio “apenas” tem a função de mostrar a única causa da ocorrência de infarto agudo do miocárdio.",
+   "Ao dizer que o infarto é “uma das principais causas de óbito” no Brasil, o texto informa que há outras causas de óbito igualmente importantes.",
+   "Na frase “O índice posiciona a condição como uma das principais causas de óbito no país.”, os termos “índice” e “condição” se referem ao mesmo termo anterior.",
+   "O segmento inicial “O Ministério da Saúde registra a ocorrência de 400 mil casos de infarto agudo do miocárdio por ano no Brasil ” indica, de fato, a conclusão do texto."
+  ],
+  "gabarito": 2,
+  "comentario": "Ao dizer que o infarto é “uma das principais causas de óbito”, o texto pressupõe a existência de outras causas principais, de importância comparável — é a leitura adotada pela banca. O período inicial apresenta dado objetivo do Ministério da Saúde, não opinião (A). “Apenas” restringe a percepção de bem-estar ao peso corporal, não indica a causa única do infarto (B). “Índice” retoma os 400 mil casos e “condição” retoma o infarto, referentes diferentes (D), e o segmento inicial é a introdução, não a conclusão (E). Obs.: a questão não traz comando explícito no caderno.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-macae-2026-enf-11",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "Prefeitura de Macaé",
+   "ano": 2026,
+   "cargo": "Enfermeiro do Trabalho",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/enfermeiro-do-trabalho-cns301-tipo-1.pdf"
+  },
+  "texto": "“Entre as raízes mais estudadas pela ciência moderna, a cúrcuma ganha destaque pela sua ação direta sobre o fígado. Também conhecida como açafrão-da-terra, essa especiaria milenar contém a curcumina, composto com potente ação anti-inflamatória e antioxidante capaz de proteger as células hepáticas, reduzir o acúmulo de gordura e ajudar a equilibrar enzimas como ALT e AST, marcadores importantes de saúde do fígado.”\nAnhanguera Pós-Graduação, 15/4/2026.",
+  "enunciado": "Sobre a estruturação ou a significação desse pequeno texto, assinale a afirmativa correta.",
+  "alternativas": [
+   "Segundo o texto, “açafrão-da-terra” é o nome mais culto dado à cúrcuma.",
+   "“Cúrcuma” e “curcumina” são termos considerados textualmente sinônimos.",
+   "Pelos termos empregados, o texto foi redigido para o público leigo no assunto tratado.",
+   "Como mostra a grafia de “antioxidante”, o termo “anti-inflamatória” deveria ser grafado sem hífen.",
+   "A redução do acúmulo de gordura e o equilíbrio das enzimas são benefícios para o fígado, trazidos pela cúrcuma."
+  ],
+  "gabarito": 4,
+  "comentario": "O texto afirma que a curcumina é capaz de “reduzir o acúmulo de gordura e ajudar a equilibrar enzimas”, benefícios ao fígado trazidos pela cúrcuma. “Açafrão-da-terra” é apenas outro nome, não o mais culto (A); a curcumina é um composto contido na cúrcuma, não seu sinônimo (B). Termos técnicos como ALT, AST e “células hepáticas” não indicam um público totalmente leigo (C), e “anti-inflamatória” leva hífen porque o segundo elemento começa por “i”, ao contrário de “antioxidante” (D).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-macae-2026-enf-12",
+  "disciplina": "portugues",
+  "assunto": "pt-tipologia",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "Prefeitura de Macaé",
+   "ano": 2026,
+   "cargo": "Enfermeiro do Trabalho",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/enfermeiro-do-trabalho-cns301-tipo-1.pdf"
+  },
+  "texto": "“A caminhada regular fortalece o músculo do coração, melhora a circulação do sangue e contribui para a redução da pressão arterial. Com o tempo, o corpo se torna mais eficiente no transporte de oxigênio e nutrientes para os tecidos, o que diminui a sobrecarga sobre todo o sistema cardiovascular.\nPessoas que caminham diariamente apresentam menor risco de infarto, derrame e outras complicações relacionadas ao coração. Esse benefício aparece mesmo em caminhadas de intensidade leve a moderada, sem necessidade de correr ou fazer exercícios de alto impacto.”\nAnhanguera Pós-Graduação, 15/4/2026.",
+  "enunciado": "Leia o texto a seguir. A finalidade principal desse pequeno texto é a de",
+  "alternativas": [
+   "prevenir doenças cardíacas.",
+   "promover a busca pela saúde.",
+   "divulgar a utilidade das academias.",
+   "incentivar o leitor a fazer caminhadas.",
+   "informar sobre métodos terapêuticos."
+  ],
+  "gabarito": 3,
+  "comentario": "O texto enumera benefícios da caminhada regular e destaca que bastam caminhadas leves a moderadas, o que visa incentivar o leitor a caminhar. A prevenção de doenças cardíacas é benefício citado, não a finalidade do texto (A); B é genérica demais. Academias não são mencionadas (C), e a caminhada não é apresentada como método terapêutico (E).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-macae-2026-enf-13",
+  "disciplina": "portugues",
+  "assunto": "pt-sintaxe",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "Prefeitura de Macaé",
+   "ano": 2026,
+   "cargo": "Enfermeiro do Trabalho",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/enfermeiro-do-trabalho-cns301-tipo-1.pdf"
+  },
+  "texto": "“A caminhada regular fortalece o músculo do coração, melhora a circulação do sangue e contribui para a redução da pressão arterial. Com o tempo, o corpo se torna mais eficiente no transporte de oxigênio e nutrientes para os tecidos, o que diminui a sobrecarga sobre todo o sistema cardiovascular.\nPessoas que caminham diariamente apresentam menor risco de infarto, derrame e outras complicações relacionadas ao coração. Esse benefício aparece mesmo em caminhadas de intensidade leve a moderada, sem necessidade de correr ou fazer os exercícios de alto impacto.”\nAnhanguera Pós-Graduação, 15/4/2026.",
+  "enunciado": "Leia o texto a seguir. Assinale a opção em que o termo precedido da preposição de mostra função diferente das demais.",
+  "alternativas": [
+   "o músculo do coração.",
+   "a circulação do sangue.",
+   "a redução da pressão arterial.",
+   "em caminhadas de intensidade leve.",
+   "os exercícios de alto impacto."
+  ],
+  "gabarito": 2,
+  "comentario": "Em “a redução da pressão arterial”, o substantivo abstrato “redução” vem do verbo “reduzir”, e “da pressão arterial” é o alvo da ação (reduz-se a pressão): é complemento nominal. Nas demais, os termos com “de” são adjuntos adnominais: “do coração” indica posse/pertinência, “do sangue” é agente (o sangue circula), e “de intensidade leve” e “de alto impacto” são locuções adjetivas que qualificam o substantivo.",
+  "dificuldade": 3,
+  "anulada": false
+ },
+ {
+  "id": "fgv-macae-2026-enf-14",
+  "disciplina": "portugues",
+  "assunto": "pt-vocabulario",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "Prefeitura de Macaé",
+   "ano": 2026,
+   "cargo": "Enfermeiro do Trabalho",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/enfermeiro-do-trabalho-cns301-tipo-1.pdf"
+  },
+  "texto": "“A imagem da dor no peito como único sinal de um problema cardíaco está ultrapassada. Muitas doenças do coração evoluem de forma silenciosa, sem causar desconforto intenso no tórax, e começam com manifestações discretas que costumam ser atribuídas ao cansaço do dia a dia.\nO cansaço ao subir escadas, a falta de ar leve durante atividades simples e o inchaço nos pés estão entre os primeiros alertas e merecem atenção antes que o quadro evolua.”",
+  "enunciado": "O termo “cardíaco” é um adjetivo culto relacionado a “coração”. Assinale a opção que presenta a frase em que o adjetivo culto está corretamente relacionado a um substantivo anterior.",
+  "alternativas": [
+   "Os meninos traziam marcas na testa; essas marcas cervicais podem ser sinais de maus-tratos.",
+   "Os cabelos fazem parte de nossa apresentação social; por isso os cuidados capilares nunca são exagerados.",
+   "Dores nos rins devem ser imediatamente analisadas; os incômodos hepáticos são sinais de moléstias graves.",
+   "A cera nos ouvidos impede uma perfeita audição; esse cuidado óptico deve fazer parte de nossas preocupações.",
+   "O cuidado com os dentes deve nos acompanhar todos os dias; a preocupação oftalmológica deve ser ensinada desde a infância."
+  ],
+  "gabarito": 1,
+  "comentario": "“Capilar” é o adjetivo culto relacionado a “cabelo”, logo a relação está correta na B. Nas demais há troca: “cervical” refere-se ao pescoço (testa seria “frontal”) (A); “hepático” refere-se ao fígado (rins seria “renal”) (C); “óptico” refere-se aos olhos/visão (ouvido seria “auditivo” ou “ótico”) (D); “oftalmológico” refere-se aos olhos (dentes seria “dentário” ou “odontológico”) (E).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-macae-2026-enf-15",
+  "disciplina": "portugues",
+  "assunto": "pt-tipologia",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "Prefeitura de Macaé",
+   "ano": 2026,
+   "cargo": "Enfermeiro do Trabalho",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/enfermeiro-do-trabalho-cns301-tipo-1.pdf"
+  },
+  "enunciado": "Assinale a opção que apresenta a frase que deve ser incluída entre os textos argumentativos por apresentar a defesa de uma ideia com argumentos.",
+  "alternativas": [
+   "Beber água é fundamental; beber álcool não é fundamental.",
+   "Devemos sempre nos preocupar com nossa visão, assim como com nossa audição.",
+   "Devemos cuidar de nossa saúde, pois uma vida longa traz regularmente mais benefícios.",
+   "A pressão arterial é uma preocupação dos idosos, enquanto a anemia é uma preocupação de todos.",
+   "As atividades físicas devem ser praticadas diariamente, mesmo que sejam caminhadas de pequena extensão."
+  ],
+  "gabarito": 2,
+  "comentario": "Na C há uma tese (“Devemos cuidar de nossa saúde”) sustentada por um argumento introduzido pela conjunção explicativa “pois” (“uma vida longa traz regularmente mais benefícios”). A e D apenas contrapõem afirmações, sem defender ideia; B e E expressam recomendações, mas não apresentam argumento que as justifique (a concessiva em E não é um argumento).",
+  "dificuldade": 2,
+  "anulada": false
+ }
+]

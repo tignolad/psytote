@@ -1,0 +1,486 @@
+[
+  {
+    "id": "aut-leg-cpd-001",
+    "disciplina": "legislacao",
+    "assunto": "leg-cpd",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2020/03/BR84-CFP-CPD-web.pdf"
+    },
+    "enunciado": "O Código de Processamento Disciplinar atualmente em vigor no Sistema Conselhos de Psicologia foi instituído pela",
+    "alternativas": [
+      "Resolução CFP nº 006/2007, ainda vigente, com as alterações da Resolução CFP nº 10/2017.",
+      "Resolução CFP nº 10/2005, que também instituiu o Código de Ética Profissional do Psicólogo.",
+      "Resolução CFP nº 06/2019, que unificou as regras de documentos e de processos disciplinares.",
+      "Lei nº 5.766/1971, que disciplina diretamente o rito dos processos éticos.",
+      "Resolução CFP nº 11/2019, que revogou expressamente a Resolução CFP nº 006/2007."
+    ],
+    "gabarito": 4,
+    "comentario": "A Resolução CFP 11, de 14/06/2019, instituiu o Código de Processamento Disciplinar e, em seu art. 175, revogou expressamente a Res. CFP 006/2007 (o art. 174 traz regra de transição). A Res. 10/2005 é o Código de Ética, a Res. 06/2019 trata de documentos escritos e a Res. 10/2017, da Política de Orientação e Fiscalização.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-cpd-002",
+    "disciplina": "legislacao",
+    "assunto": "leg-cpd",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2020/03/BR84-CFP-CPD-web.pdf"
+    },
+    "enunciado": "Segundo o Código de Processamento Disciplinar (Res. CFP nº 11/2019), as infrações disciplinares praticadas por psicólogas(os) classificam-se em",
+    "alternativas": [
+      "leves, graves e gravíssimas.",
+      "éticas, administrativas e penais.",
+      "ordinárias, extraordinárias e funcionais.",
+      "ordinárias, funcionais e éticas.",
+      "éticas e eleitorais, apenas."
+    ],
+    "gabarito": 3,
+    "comentario": "Art. 1º, § 1º, do CPD (Res. CFP 11/2019): as infrações classificam-se em ordinárias (contra normas administrativas dos Conselhos — art. 74), funcionais (praticadas por conselheiros no exercício do cargo — art. 76) e éticas (contra o Código de Ética — art. 63).",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-cpd-003",
+    "disciplina": "legislacao",
+    "assunto": "leg-cpd",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2020/03/BR84-CFP-CPD-web.pdf"
+    },
+    "enunciado": "Uma psicóloga inscrita no CRP do Rio de Janeiro realizou, durante viagem, atendimento presencial em outro Estado, no qual teria cometido infração ética. Conforme o Código de Processamento Disciplinar (Res. CFP nº 11/2019), é competente para apreciar e julgar a infração",
+    "alternativas": [
+      "o Conselho Regional em que a psicóloga possui inscrição principal, em qualquer hipótese.",
+      "o Conselho Federal de Psicologia, por envolver mais de uma jurisdição.",
+      "o Conselho Regional da jurisdição onde ocorreu o fato, independentemente de a psicóloga possuir inscrição principal ou secundária nele.",
+      "o Conselho Regional escolhido pelo representante.",
+      "o Conselho Regional do domicílio do representante."
+    ],
+    "gabarito": 2,
+    "comentario": "Art. 5º do CPD (Res. CFP 11/2019): compete ao CRP da jurisdição onde ocorreu o fato julgar as infrações éticas e ordinárias, independentemente de inscrição principal ou secundária nele. Só quando não for possível fixar a competência pelo local do fato é que será competente o CRP em que a psicóloga estava inscrita à época (§ 1º). O CFP julga originariamente apenas infrações funcionais de conselheiros federais e recursos (art. 6º).",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-cpd-004",
+    "disciplina": "legislacao",
+    "assunto": "leg-cpd",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2020/03/BR84-CFP-CPD-web.pdf"
+    },
+    "enunciado": "Um psicólogo, ao saber que está sendo investigado pelo CRP, requer o cancelamento de sua inscrição profissional. Em outro caso, uma psicóloga processada pede a transferência de sua inscrição para outro Estado. De acordo com o Código de Processamento Disciplinar (Res. CFP nº 11/2019),",
+    "alternativas": [
+      "não será admitido o cancelamento da inscrição do investigado, e a transferência da psicóloga processada implicará a transformação compulsória de sua inscrição primária em secundária perante o CRP em que tramita o processo.",
+      "o cancelamento será deferido, extinguindo-se o processo investigativo, e a transferência será vedada até o fim do processo.",
+      "ambos os pedidos serão deferidos, sendo os processos remetidos aos Conselhos de destino.",
+      "ambos os pedidos ficarão suspensos até o trânsito em julgado da decisão disciplinar.",
+      "o cancelamento será admitido mediante pagamento das anuidades, e a transferência implicará remessa do processo ao novo Regional."
+    ],
+    "gabarito": 0,
+    "comentario": "Art. 5º, §§ 2º a 4º, do CPD (Res. CFP 11/2019): não se admite o cancelamento da inscrição de quem estiver sendo investigado ou processado; a transferência durante o processo transforma compulsoriamente a inscrição primária em secundária perante o CRP onde tramita o processo, dando-se ciência ao CRP de destino. O processo não é remetido ao novo Regional.",
+    "dificuldade": 3,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-cpd-005",
+    "disciplina": "legislacao",
+    "assunto": "leg-cpd",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2020/03/BR84-CFP-CPD-web.pdf"
+    },
+    "enunciado": "Sobre o sigilo dos processos disciplinares, o Código de Processamento Disciplinar (Res. CFP nº 11/2019) dispõe que",
+    "alternativas": [
+      "os processos são públicos, podendo qualquer interessado ter vista dos autos.",
+      "o sigilo alcança apenas os conselheiros, não se estendendo às testemunhas e às partes.",
+      "o sigilo é absoluto, sendo vedado informar até mesmo a existência do processo.",
+      "o sigilo cessa com a citação do processado, tornando-se públicos os autos a partir de então.",
+      "os processos investigativos e disciplinares terão caráter sigiloso, mas a mera informação sobre a existência de processo, as partes, a fase processual ou o provimento ou não de recurso julgado pelo CFP, sem referência ao conteúdo, não viola o sigilo."
+    ],
+    "gabarito": 4,
+    "comentario": "Art. 15 do CPD (Res. CFP 11/2019): os processos são sigilosos, com vista apenas às partes e procuradores; o dever de sigilo se estende a conselheiros, comissões, mediadores, testemunhas, assessores e servidores (§ 1º), e as partes também devem preservá-lo (§ 3º). Pelo § 5º, a mera informação sobre existência do processo, partes, fase ou resultado de recurso no CFP, sem referência ao conteúdo, não viola o sigilo.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-cpd-006",
+    "disciplina": "legislacao",
+    "assunto": "leg-cpd",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2020/03/BR84-CFP-CPD-web.pdf"
+    },
+    "enunciado": "Em processo disciplinar regido pelo Código de Processamento Disciplinar (Res. CFP nº 11/2019), a Comissão Processante determinou um ato sem fixar prazo, e o Código também é omisso quanto a ele. Nesse caso, o prazo para a prática do ato será de",
+    "alternativas": [
+      "10 dias corridos.",
+      "15 dias úteis.",
+      "5 dias úteis.",
+      "30 dias corridos.",
+      "48 horas."
+    ],
+    "gabarito": 2,
+    "comentario": "Art. 18, § 2º, do CPD (Res. CFP 11/2019): quando não fixado outro prazo pelo Código, pela Comissão Processante ou pelo relator, o prazo será de 5 dias úteis. Na contagem, computam-se somente dias úteis, salvo disposição expressa, excluindo-se o primeiro e incluindo-se o último (art. 20).",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-cpd-007",
+    "disciplina": "legislacao",
+    "assunto": "leg-cpd",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2020/03/BR84-CFP-CPD-web.pdf"
+    },
+    "enunciado": "Uma psicóloga que reside em outro Estado responde a processo disciplinar no CRP-05, que tramita em meio físico (não eletrônico). Conforme o Código de Processamento Disciplinar (Res. CFP nº 11/2019), os prazos dirigidos a ela",
+    "alternativas": [
+      "serão acrescidos de 3 dias úteis.",
+      "serão acrescidos de 10 dias úteis.",
+      "serão contados em dobro.",
+      "não sofrem qualquer acréscimo, pois os prazos são uniformes.",
+      "serão acrescidos de 15 dias corridos."
+    ],
+    "gabarito": 1,
+    "comentario": "Art. 19 do CPD (Res. CFP 11/2019): se o processo não tramitar eletronicamente, acrescem-se 3 dias úteis aos prazos da parte que reside fora da cidade-sede do Conselho; se a residência for em outro Estado, o acréscimo é de 10 dias úteis (parágrafo único).",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-cpd-008",
+    "disciplina": "legislacao",
+    "assunto": "leg-cpd",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2020/03/BR84-CFP-CPD-web.pdf"
+    },
+    "enunciado": "Considere os atos de comunicação previstos no Código de Processamento Disciplinar (Res. CFP nº 11/2019).\nI. Notificação: ato inicial que dá conhecimento ao investigado da existência de processo investigativo, com prazo de 15 dias úteis para manifestação escrita.\nII. Citação: ato que dá conhecimento ao processado da instauração do processo disciplinar, com prazo de 15 dias úteis para defesa.\nIII. Intimação: ato pelo qual se dá ciência a alguém dos atos e termos do processo, para que faça ou deixe de fazer alguma coisa.\nEstá correto o que se afirma em",
+    "alternativas": [
+      "I, apenas.",
+      "II, apenas.",
+      "I e II, apenas.",
+      "II e III, apenas.",
+      "I, II e III."
+    ],
+    "gabarito": 4,
+    "comentario": "Todas corretas. I: arts. 25 e parágrafo único, 'f', do CPD (Res. CFP 11/2019). II: art. 28 (e art. 29, 'g'). III: art. 33.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-cpd-009",
+    "disciplina": "legislacao",
+    "assunto": "leg-cpd",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2020/03/BR84-CFP-CPD-web.pdf"
+    },
+    "enunciado": "Esgotados os meios de localização, um psicólogo processado foi citado por edital, publicado no Diário Oficial da União e em jornal de grande circulação do Estado. De acordo com o Código de Processamento Disciplinar (Res. CFP nº 11/2019), ele será considerado citado",
+    "alternativas": [
+      "após 25 dias úteis da publicação do edital no Diário Oficial da União, iniciando-se então o prazo de 15 dias úteis para defesa.",
+      "na data da publicação do edital, com prazo de 15 dias úteis para defesa.",
+      "após 15 dias úteis da publicação do edital, com prazo de 25 dias úteis para defesa.",
+      "após 30 dias corridos da publicação no jornal de grande circulação, com prazo de 10 dias úteis para defesa.",
+      "somente quando comparecer ao Conselho, ficando o processo suspenso até lá."
+    ],
+    "gabarito": 0,
+    "comentario": "Art. 31, § 1º, 'd' e 'e', do CPD (Res. CFP 11/2019): o processado será considerado citado após 25 dias úteis da publicação do edital no DOU, contando-se daí o prazo de 15 dias úteis para defesa; o edital é publicado no DOU e em jornal de grande circulação do Estado (§ 2º).",
+    "dificuldade": 3,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-cpd-010",
+    "disciplina": "legislacao",
+    "assunto": "leg-cpd",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2020/03/BR84-CFP-CPD-web.pdf"
+    },
+    "enunciado": "Uma psicóloga processada foi regularmente citada, mas não apresentou defesa no prazo. Segundo o Código de Processamento Disciplinar (Res. CFP nº 11/2019),",
+    "alternativas": [
+      "ela será considerada revel, presumindo-se verdadeiros os fatos imputados, com julgamento imediato.",
+      "o processo será arquivado, por ausência de contraditório.",
+      "ela será considerada revel, e a Comissão Processante solicitará à Presidência do Conselho a nomeação de defensor dativo, preferencialmente psicóloga(o), vedada a atuação de conselheiros do respectivo Conselho nessa função.",
+      "ela será considerada revel, e um conselheiro suplente do próprio Conselho atuará como defensor dativo.",
+      "ela será considerada revel e não poderá mais se manifestar no processo em nenhuma fase."
+    ],
+    "gabarito": 2,
+    "comentario": "Arts. 35 a 37 do CPD (Res. CFP 11/2019): é revel quem, citado, não apresenta defesa ou se opõe ao recebimento da citação; a revelia é decretada pela Comissão Processante, que pede a nomeação de defensor dativo, preferencialmente psicólogo; conselheiros efetivos ou suplentes do respectivo Conselho estão impedidos de atuar como dativos. O revel pode intervir em qualquer fase, recebendo o processo no estado em que se encontra.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-cpd-011",
+    "disciplina": "legislacao",
+    "assunto": "leg-cpd",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2020/03/BR84-CFP-CPD-web.pdf"
+    },
+    "enunciado": "Um conselheiro designado relator de processo ético é tio (parente colateral de terceiro grau) da psicóloga processada. Em outro processo, a relatora é amiga íntima do representante. À luz do Código de Processamento Disciplinar (Res. CFP nº 11/2019), as situações configuram, respectivamente,",
+    "alternativas": [
+      "suspeição e impedimento, ambos com presunção absoluta de parcialidade.",
+      "impedimento e suspeição, ambos com presunção relativa de parcialidade.",
+      "situações irrelevantes, pois o parentesco só gera impedimento até o segundo grau e a amizade não gera suspeição.",
+      "impedimento, de ordem objetiva e com presunção absoluta de parcialidade; e suspeição, de ordem subjetiva e com presunção relativa de parcialidade.",
+      "suspeição, que só pode ser alegada pela parte no julgamento, e impedimento, declarável apenas de ofício."
+    ],
+    "gabarito": 3,
+    "comentario": "Arts. 42, 44 e 45 do CPD (Res. CFP 11/2019): parentesco consanguíneo ou afim, em linha reta ou colateral, até o TERCEIRO grau gera impedimento (art. 44, I), fundado em razões objetivas, com presunção absoluta de parcialidade (art. 42, §§ 1º e 2º); amizade íntima gera suspeição (art. 45, I), fundada em razões subjetivas, com presunção relativa (art. 42, §§ 3º e 4º). Ambos podem ser declarados de ofício ou suscitados pela parte em 15 dias úteis (art. 43).",
+    "dificuldade": 3,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-cpd-012",
+    "disciplina": "legislacao",
+    "assunto": "leg-cpd",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2020/03/BR84-CFP-CPD-web.pdf"
+    },
+    "enunciado": "Conforme o Código de Processamento Disciplinar (Res. CFP nº 11/2019), as infrações éticas praticadas por psicólogas(os) prescrevem em",
+    "alternativas": [
+      "2 anos, e as infrações ordinárias e funcionais, em 5 anos, contados da data do fato.",
+      "5 anos, e as infrações ordinárias e funcionais, em 2 anos, contados do conhecimento do fato, presumido quando o fato for de conhecimento público.",
+      "5 anos, e as infrações ordinárias e funcionais, em 3 anos, contados da data do fato.",
+      "10 anos, e as infrações ordinárias e funcionais, em 5 anos, contados do conhecimento do fato.",
+      "3 anos, aplicando-se o mesmo prazo às infrações ordinárias e funcionais."
+    ],
+    "gabarito": 1,
+    "comentario": "Arts. 54 e 55 do CPD (Res. CFP 11/2019): infrações ordinárias e funcionais prescrevem em 2 anos e as éticas em 5 anos, a contar do conhecimento do fato, presumido quando for de conhecimento público. O prazo de 3 anos refere-se à prescrição intercorrente (processo paralisado — art. 56).",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-cpd-013",
+    "disciplina": "legislacao",
+    "assunto": "leg-cpd",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2020/03/BR84-CFP-CPD-web.pdf"
+    },
+    "enunciado": "Um processo disciplinar ficou paralisado por mais de 3 anos, pendente de julgamento, sem qualquer movimentação. De acordo com o Código de Processamento Disciplinar (Res. CFP nº 11/2019),",
+    "alternativas": [
+      "o processo será arquivado de ofício ou a requerimento da parte interessada, consumando-se a prescrição intercorrente, e o Conselho deverá apurar a causa da demora e as responsabilidades.",
+      "o processo prosseguirá normalmente, pois a prescrição só corre antes da instauração.",
+      "o processo só poderá ser arquivado a requerimento do processado, vedada a declaração de ofício.",
+      "o prazo de prescrição recomeça integralmente, sem arquivamento.",
+      "o Conselho poderá relevar a prescrição se a infração for grave."
+    ],
+    "gabarito": 0,
+    "comentario": "Art. 56 do CPD (Res. CFP 11/2019): o processo paralisado há mais de 3 anos, pendente de despacho ou julgamento, é arquivado de ofício ou a requerimento, consumando-se a prescrição intercorrente; o Conselho deve apurar a causa da demora e as responsabilidades (parágrafo único). A prescrição é matéria de ordem pública e não pode ser relevada (art. 57).",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-cpd-014",
+    "disciplina": "legislacao",
+    "assunto": "leg-cpd",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2020/03/BR84-CFP-CPD-web.pdf"
+    },
+    "enunciado": "Em processo ético, o representante desistiu da representação após a instauração do processo disciplinar. Segundo o Código de Processamento Disciplinar (Res. CFP nº 11/2019),",
+    "alternativas": [
+      "a desistência acarreta o arquivamento imediato do processo, por perda de objeto.",
+      "a desistência só é admitida antes da notificação do investigado.",
+      "a desistência não enseja o arquivamento; a Comissão Processante dará prosseguimento ao processo segundo as regras aplicáveis aos processos iniciados por requerimento de ofício, e o representante fica impedido de ter acesso aos autos a partir da desistência.",
+      "a desistência converte o processo ético em processo ordinário.",
+      "a desistência é admitida, mas o representante continua com acesso integral aos autos até o julgamento."
+    ],
+    "gabarito": 2,
+    "comentario": "Art. 59, §§ 2º e 3º, do CPD (Res. CFP 11/2019): o representante pode desistir a qualquer tempo, ficando impedido de acessar os autos a partir de então; a desistência não enseja o arquivamento, e o processo prossegue pelas regras dos processos de ofício.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-cpd-015",
+    "disciplina": "legislacao",
+    "assunto": "leg-cpd",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2020/03/BR84-CFP-CPD-web.pdf"
+    },
+    "enunciado": "A Comissão de Ética de um CRP recebeu representação sem indícios mínimos de autoria e emitiu parecer fundamentado propondo o arquivamento liminar. Conforme o Código de Processamento Disciplinar (Res. CFP nº 11/2019),",
+    "alternativas": [
+      "o arquivamento liminar é decidido pela própria Comissão de Ética, sem necessidade de deliberação do Plenário, e é irrecorrível.",
+      "o parecer será encaminhado ao Plenário do Conselho para homologação, em sessão na qual não se admite sustentação oral, e da decisão que homologar o arquivamento caberá recurso ao Plenário do CFP.",
+      "o parecer será encaminhado ao Plenário, que o apreciará em sessão com sustentação oral obrigatória das partes.",
+      "o parecer será submetido diretamente ao Conselho Federal, a quem cabe homologar arquivamentos.",
+      "da decisão do Plenário que determinar a instauração de processo caberá recurso ao CFP, mas não da que homologar o arquivamento."
+    ],
+    "gabarito": 1,
+    "comentario": "Art. 65, §§ 1º a 3º, do CPD (Res. CFP 11/2019): o parecer de arquivamento liminar vai ao Plenário do Conselho para homologação, sem sustentação oral; da decisão que homologa o arquivamento cabe recurso ao Plenário do CFP; e NÃO cabe recurso da decisão que determina a instauração de processo.",
+    "dificuldade": 3,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-cpd-016",
+    "disciplina": "legislacao",
+    "assunto": "leg-cpd",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2020/03/BR84-CFP-CPD-web.pdf"
+    },
+    "enunciado": "Na instrução de processo disciplinar ético, a psicóloga processada pretende ouvir testemunhas. De acordo com o Código de Processamento Disciplinar (Res. CFP nº 11/2019),",
+    "alternativas": [
+      "cada parte poderá arrolar, no máximo, 3 testemunhas, cabendo à parte levar à audiência a testemunha arrolada, independentemente de intimação.",
+      "cada parte poderá arrolar até 5 testemunhas, todas intimadas pela Comissão Processante.",
+      "cada parte poderá arrolar até 3 testemunhas, inclusive profissionais que tenham participado da mediação entre as partes.",
+      "não há limite de testemunhas, desde que tenham relação direta com os fatos.",
+      "a testemunha que não comparecer será necessariamente reconvocada, sem necessidade de justificativa."
+    ],
+    "gabarito": 0,
+    "comentario": "Art. 96 do CPD (Res. CFP 11/2019): cada parte arrola no máximo 3 testemunhas, com relação direta com os fatos (§ 1º); não podem constar do rol profissionais que participaram da mediação (§ 2º); cabe à parte levar sua testemunha, presumindo-se a desistência se ela não comparecer (§ 4º), salvo pedido justificado de intimação (§ 5º). A testemunha faltosa só é ouvida depois se apresentar justificativa documentada e relevante até a audiência (art. 97).",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-cpd-017",
+    "disciplina": "legislacao",
+    "assunto": "leg-cpd",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2020/03/BR84-CFP-CPD-web.pdf"
+    },
+    "enunciado": "Na sessão de julgamento de processo disciplinar no Plenário do CRP, segundo o Código de Processamento Disciplinar (Res. CFP nº 11/2019),",
+    "alternativas": [
+      "as partes podem fazer sustentação oral por até 30 minutos cada, antes da leitura do relatório, e o empate favorece o processado.",
+      "não há sustentação oral, pois o julgamento é sigiloso e restrito aos conselheiros.",
+      "a sustentação oral é feita apenas pelo representante, e o empate implica novo julgamento na sessão seguinte.",
+      "as partes podem fazer sustentação oral por até 15 minutos cada, após a leitura da parte expositiva do relatório, e, em caso de empate na votação, prevalece o voto de qualidade da(o) Presidente.",
+      "as partes podem fazer sustentação oral por até 15 minutos cada, e o relator pode acrescentar novas infrações identificadas durante o julgamento."
+    ],
+    "gabarito": 3,
+    "comentario": "Arts. 106, 108, 109 e 114, § 8º, do CPD (Res. CFP 11/2019): intimadas com 10 dias corridos de antecedência, as partes podem sustentar oralmente por até 15 minutos cada, após a parte expositiva do relatório; o relator pode suprimir, mas não acrescentar, infrações (art. 108, § 2º); havendo empate, o Presidente tem voto de qualidade, que prevalece.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-cpd-018",
+    "disciplina": "legislacao",
+    "assunto": "leg-cpd",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2020/03/BR84-CFP-CPD-web.pdf"
+    },
+    "enunciado": "Um CRP aplicou a uma psicóloga, por infração ética, a pena de censura pública. Ela pretende recorrer. Nos termos do Código de Processamento Disciplinar (Res. CFP nº 11/2019),",
+    "alternativas": [
+      "cabe recurso ao CFP no prazo de 30 dias úteis da ciência da decisão, com efeito suspensivo, e, sendo o recurso exclusivo da psicóloga, não poderá haver agravamento da penalidade.",
+      "cabe recurso ao CFP no prazo de 15 dias úteis, sem efeito suspensivo.",
+      "cabe pedido de reconsideração ao próprio CRP, no prazo de 30 dias, antes de qualquer recurso ao CFP.",
+      "cabe recurso ao CFP no prazo de 30 dias úteis, podendo o CFP agravar a pena mesmo em recurso exclusivo da psicóloga.",
+      "não cabe recurso, pois a censura pública é penalidade leve, executada imediatamente."
+    ],
+    "gabarito": 0,
+    "comentario": "Arts. 121, 122 e 124, § 2º, do CPD (Res. CFP 11/2019): cabe recurso ao CFP em 30 dias úteis da ciência, com efeito suspensivo; o Regional faz juízo de admissibilidade restrito à tempestividade (art. 123); em recurso interposto pelo apenado não pode haver agravamento (reformatio in pejus), que só é possível por recurso da outra parte. O CPD atual não prevê pedido de reconsideração.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-cpd-019",
+    "disciplina": "legislacao",
+    "assunto": "leg-cpd",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2020/03/BR84-CFP-CPD-web.pdf"
+    },
+    "enunciado": "Um CRP aplicou pena de suspensão do exercício profissional a um psicólogo, e nenhuma das partes recorreu. Conforme o Código de Processamento Disciplinar (Res. CFP nº 11/2019),",
+    "alternativas": [
+      "a decisão transita em julgado e é executada imediatamente, por ausência de recurso.",
+      "a(o) Presidente do CRP determinará, de ofício, o encaminhamento do processo ao CFP para reexame necessário, no prazo de 30 dias corridos após o fim do prazo recursal, não podendo o reexame agravar a penalidade.",
+      "o CFP deverá ser comunicado apenas para registro, sem reexame da decisão.",
+      "o processo será encaminhado ao CFP para reexame necessário, que poderá agravar a pena para cassação.",
+      "o reexame necessário só ocorre nos casos de cassação, não nos de suspensão."
+    ],
+    "gabarito": 1,
+    "comentario": "Art. 126 do CPD (Res. CFP 11/2019): nas penalidades de suspensão ou cassação, não havendo recurso ordinário, o Presidente do Regional encaminha de ofício o processo ao CFP em 30 dias corridos após o prazo recursal (reexame necessário); pelo art. 128, § 2º, do reexame não pode decorrer agravamento. O Decreto 79.822/77 (art. 61, II) já previa recurso ex officio nessas hipóteses.",
+    "dificuldade": 3,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-cpd-020",
+    "disciplina": "legislacao",
+    "assunto": "leg-cpd",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2020/03/BR84-CFP-CPD-web.pdf"
+    },
+    "enunciado": "Considere as afirmativas sobre as penalidades no Código de Processamento Disciplinar (Res. CFP nº 11/2019).\nI. A multa varia de 1 a 5 anuidades para pessoa natural e de 1 a 10 anuidades para pessoa jurídica, e deve ter seu valor dobrado em caso de reincidência.\nII. A penalidade de advertência é aplicada em caráter confidencial.\nIII. Às infrações funcionais aplicam-se advertência, suspensão da função de conselheiro por até 6 meses e destituição da função, que não poderá ser exercida por 1 a 8 anos.\nEstá correto o que se afirma em",
+    "alternativas": [
+      "I, apenas.",
+      "I e II, apenas.",
+      "I e III, apenas.",
+      "II e III, apenas.",
+      "I, II e III."
+    ],
+    "gabarito": 4,
+    "comentario": "Todas corretas. I: art. 139, 'b', e art. 142 do CPD (Res. CFP 11/2019). II: art. 147 (salvo se o apenado não for encontrado e não comparecer após duas convocações, caso em que é tornada pública por edital). III: art. 143.",
+    "dificuldade": 3,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-cpd-021",
+    "disciplina": "legislacao",
+    "assunto": "leg-cpd",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2020/03/BR84-CFP-CPD-web.pdf"
+    },
+    "enunciado": "Um psicólogo teve o exercício profissional cassado por decisão transitada em julgado e deseja voltar a exercer a profissão. Segundo o Código de Processamento Disciplinar (Res. CFP nº 11/2019),",
+    "alternativas": [
+      "a cassação é perpétua e não admite reabilitação.",
+      "ele poderá requerer reabilitação ao Conselho Regional competente depois de decorridos 5 anos do trânsito em julgado da cassação, e, se indeferido, poderá apresentar novo pedido após 3 anos.",
+      "ele poderá requerer reabilitação ao Conselho Federal após 2 anos do trânsito em julgado.",
+      "ele poderá requerer reabilitação a qualquer tempo, desde que apresente certidão de antecedentes criminais.",
+      "ele poderá requerer reabilitação após 5 anos, sendo vedado novo pedido em caso de indeferimento."
+    ],
+    "gabarito": 1,
+    "comentario": "Arts. 150 a 153 do CPD (Res. CFP 11/2019): o pedido de reabilitação é dirigido ao CRP competente, com certidão de antecedentes criminais, após 5 anos do trânsito em julgado da cassação; indeferido, novo pedido pode ser feito após 3 anos; decide o Plenário do CRP, ouvida a Comissão Processante, cabendo recurso ao CFP (art. 158).",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-cpd-022",
+    "disciplina": "legislacao",
+    "assunto": "leg-cpd",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2020/03/BR84-CFP-CPD-web.pdf"
+    },
+    "enunciado": "Sobre a mediação no Código de Processamento Disciplinar (Res. CFP nº 11/2019), assinale a afirmativa correta.",
+    "alternativas": [
+      "As informações reveladas na mediação podem ser usadas como prova no processo disciplinar, caso não haja acordo.",
+      "A realização de acordo na mediação implica assunção de culpa pela psicóloga.",
+      "Encaminhados os autos à Câmara de Mediação, o prazo prescricional continua a correr normalmente.",
+      "Pode ser objeto de mediação o caso que já foi objeto de Termo de Ajustamento de Conduta entre as mesmas partes na COF.",
+      "O procedimento de mediação terá duração de até 90 dias corridos, salvo prorrogação justificada, e o acordo homologado pelo Plenário e assinado por duas pessoas além das partes constitui título executivo extrajudicial."
+    ],
+    "gabarito": 4,
+    "comentario": "Arts. 163, parágrafo único, e 167 do CPD (Res. CFP 11/2019): a mediação dura até 90 dias corridos, salvo prorrogação, e o acordo homologado e assinado por duas testemunhas é título executivo extrajudicial. A mediação é confidencial e não pode servir de prova (art. 164); o acordo não implica assunção de culpa (art. 168); o processo e a prescrição ficam suspensos (art. 162, § 2º); e casos já objeto de TAC na COF não são mediáveis (art. 161, 'a').",
+    "dificuldade": 3,
+    "anulada": false
+  }
+]

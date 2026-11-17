@@ -1,0 +1,102 @@
+[
+ {
+  "id": "fgv-trt24-2025-psi-11",
+  "disciplina": "rlm",
+  "assunto": "rlm-numeros",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TRT-24",
+   "ano": 2025,
+   "cargo": "Analista Judiciário – Apoio Especializado – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/area-apoio-especializado-psicologiacns108-tipo-1.pdf"
+  },
+  "enunciado": "Os achocolatados são misturas compostas por leite desidratado, chocolate em pó, açúcar e aditivos. Em sua composição, o achocolatado X tem 76 gramas de chocolate em pó e 12 gramas de açúcar, que correspondem a 6% da massa total de X. O fabricante do achocolatado X pretende aumentar a massa total do produto acrescentando 50 gramas de leite desidratado e nada mais. Essa modificação na composição do produto fará com que a porcentagem de chocolate em pó, com relação à massa total de X, sofra redução de",
+  "alternativas": [
+   "7,4%.",
+   "7,5%.",
+   "7,6%.",
+   "7,8%.",
+   "8,0%."
+  ],
+  "gabarito": null,
+  "comentario": "A banca anulou esta questão. Pelo enunciado, 12 g de açúcar = 6% da massa, logo a massa total é 12/0,06 = 200 g e o chocolate representa 76/200 = 38%. Com +50 g de leite, a massa passa a 250 g e o chocolate a 76/250 = 30,4%. A redução é de 38% − 30,4% = 7,6 pontos percentuais (o que levaria a (C)), mas em termos relativos é (38 − 30,4)/38 = 20% — essa ambiguidade entre 'pontos percentuais' e 'redução percentual', somada à redação ambígua de 'que correspondem a 6%', provavelmente motivou a anulação.",
+  "dificuldade": 2,
+  "anulada": true
+ },
+ {
+  "id": "fgv-trt24-2025-psi-13",
+  "disciplina": "rlm",
+  "assunto": "rlm-proposicoes",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TRT-24",
+   "ano": 2025,
+   "cargo": "Analista Judiciário – Apoio Especializado – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/area-apoio-especializado-psicologiacns108-tipo-1.pdf"
+  },
+  "enunciado": "Em um Tribunal, está em vigor uma normativa referente ao uso de crachás para identificação dos indivíduos nas suas dependências. Dentro desse Tribunal:\n• juízes podem não portar crachás;\n• advogados devem portar crachás; • não-juízes e não-advogados não podem portar crachá.\nQualquer pessoa, para entrar no Tribunal, é associada a uma única categoria entre as três citadas. Em certo momento, duas pessoas estão paradas, conversando no corredor interno do Tribunal: uma com crachá e, a outra, sem. Sobre essas duas pessoas, é correto afirmar que",
+  "alternativas": [
+   "ambas são juízes.",
+   "uma delas não pode ser juiz.",
+   "pelo menos uma é juiz.",
+   "ambas não são juízes.",
+   "uma delas pode não ser juiz."
+  ],
+  "gabarito": 4,
+  "comentario": "Quem está COM crachá pode ser juiz (juízes podem portar) ou advogado (devem portar); não pode ser 'outro'. Quem está SEM crachá pode ser juiz (podem não portar) ou 'outro'; não pode ser advogado. Combinações possíveis: (juiz, juiz), (juiz, outro), (advogado, juiz), (advogado, outro). Assim, nada obriga que alguma seja juiz (C e A erram), ambas podem ser juízes (B e D erram) e é correto que uma delas pode não ser juiz (E).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-trt24-2025-psi-14",
+  "disciplina": "rlm",
+  "assunto": "rlm-medidas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TRT-24",
+   "ano": 2025,
+   "cargo": "Analista Judiciário – Apoio Especializado – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/area-apoio-especializado-psicologiacns108-tipo-1.pdf"
+  },
+  "enunciado": "Um barco está parado em um ponto A e começa a navegar, em linha reta, até um ponto B, a 20 km de distância, de modo que esse trajeto faz 20°, no sentido horário, com o Norte geográfico. Ao chegar ao ponto B, esse barco para, muda a sua rota e começa a navegar, em linha reta, até um ponto C, a 15 km de distância, de modo que esse trajeto faz 125°, no sentido horário, com o Norte geográfico. O ângulo formado pelos segmentos imaginários AB e BC é de",
+  "alternativas": [
+   "60°.",
+   "65°.",
+   "70°.",
+   "75°.",
+   "85°."
+  ],
+  "gabarito": 3,
+  "comentario": "Direção de A para B: 20° em relação ao Norte; logo, de B olhando de volta para A, a direção é 20° + 180° = 200°. Direção de B para C: 125°. O ângulo em B entre os segmentos BA e BC é a diferença entre essas direções: 200° − 125° = 75°. Resposta: 75° (D).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-trt24-2025-psi-15",
+  "disciplina": "rlm",
+  "assunto": "rlm-numeros",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TRT-24",
+   "ano": 2025,
+   "cargo": "Analista Judiciário – Apoio Especializado – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/area-apoio-especializado-psicologiacns108-tipo-1.pdf"
+  },
+  "enunciado": "Sejam A, B e C números inteiros e positivos tais que A × B = 20 e A × C = 36. A soma A + B + C vale",
+  "alternativas": [
+   "20.",
+   "30.",
+   "40.",
+   "50.",
+   "60."
+  ],
+  "gabarito": 1,
+  "comentario": "A divide 20 e 36, então A divide mdc(20, 36) = 4: A ∈ {1, 2, 4}. A = 1 → B = 20, C = 36, soma 57; A = 2 → B = 10, C = 18, soma 30; A = 4 → B = 5, C = 9, soma 18. Entre as alternativas, só 30 aparece (B).",
+  "dificuldade": 2,
+  "anulada": false
+ }
+]

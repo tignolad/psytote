@@ -1,0 +1,662 @@
+[
+  {
+    "id": "aut-esp-etica-001",
+    "disciplina": "especificos",
+    "assunto": "esp-etica",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2012/07/codigo-de-etica-psicologia.pdf (Código de Ética Profissional do Psicólogo – Res. CFP 10/2005)"
+    },
+    "enunciado": "Durante psicoterapia, uma paciente de 16 anos relata à psicóloga plano detalhado e data marcada para tirar a própria vida, pedindo que nada seja contado aos pais. À luz do Código de Ética Profissional do Psicólogo, a conduta adequada da psicóloga é",
+    "alternativas": [
+      "manter o sigilo absoluto, pois o dever de confidencialidade não admite exceções fora dos casos previstos em lei.",
+      "relatar aos pais o conteúdo integral das sessões, já que a paciente é menor de idade e eles têm direito a todas as informações.",
+      "encerrar o atendimento e encaminhar a paciente a um psiquiatra, sem comunicar ninguém, para não romper o vínculo de confiança.",
+      "decidir pela quebra do sigilo, baseando-se na busca do menor prejuízo, e restringir-se a prestar aos responsáveis as informações estritamente necessárias à proteção da adolescente.",
+      "solicitar autorização por escrito da adolescente antes de qualquer comunicação, sem a qual a quebra de sigilo configura infração ética."
+    ],
+    "gabarito": 3,
+    "comentario": "O art. 10 do Código permite a quebra do sigilo quando houver conflito entre o dever de confidencialidade (art. 9º) e os princípios fundamentais — como a proteção da vida —, decidindo-se pela busca do menor prejuízo; o parágrafo único limita a revelação às informações estritamente necessárias. O sigilo, portanto, não é absoluto. Relatar o conteúdo integral contraria o art. 13, que manda comunicar aos responsáveis apenas o estritamente essencial. Omitir-se diante de risco iminente ou condicionar a proteção à autorização da adolescente desconsidera o dever de proteção.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-etica-002",
+    "disciplina": "especificos",
+    "assunto": "esp-etica",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2012/07/codigo-de-etica-psicologia.pdf (Código de Ética Profissional do Psicólogo – Res. CFP 10/2005)"
+    },
+    "enunciado": "Os pais de Pedro, 9 anos, são divorciados e exercem a guarda compartilhada. A mãe procura uma psicóloga para iniciar psicoterapia do filho; o pai não foi consultado. Segundo o Código de Ética, para realizar atendimento não eventual da criança, a psicóloga deve",
+    "alternativas": [
+      "obter autorização de ao menos um dos responsáveis, observadas as determinações da legislação vigente.",
+      "obter obrigatoriamente a autorização de ambos os responsáveis, sob pena de infração ética.",
+      "obter autorização judicial, uma vez que os pais são divorciados.",
+      "dispensar autorização, pois o atendimento de criança dispensa consentimento quando há guarda compartilhada.",
+      "obter autorização do Conselho Tutelar, que substitui os pais nos casos de divórcio."
+    ],
+    "gabarito": 0,
+    "comentario": "O art. 8º do Código estabelece que, para o atendimento não eventual de criança, adolescente ou interdito, o psicólogo deverá obter autorização de ao menos um de seus responsáveis, observada a legislação vigente. O Código não exige a anuência de ambos nem autorização judicial. Também não há dispensa de autorização, e o Conselho Tutelar não substitui os pais para esse fim. Isso não impede a psicóloga de, tecnicamente, buscar envolver o outro genitor quando pertinente.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-etica-003",
+    "disciplina": "especificos",
+    "assunto": "esp-etica",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2012/07/codigo-de-etica-psicologia.pdf (Código de Ética Profissional do Psicólogo – Res. CFP 10/2005)"
+    },
+    "enunciado": "Uma adolescente de 14 anos chega sozinha a um serviço de psicologia de uma ONG, sem nenhum responsável legal que possa ser localizado, demandando atendimento por sofrer violência. Conforme o Código de Ética, a psicóloga deve",
+    "alternativas": [
+      "efetuar o atendimento e comunicá-lo às autoridades competentes, responsabilizando-se pelos encaminhamentos necessários à proteção integral da adolescente.",
+      "recusar o atendimento até que um responsável legal compareça e o autorize por escrito.",
+      "realizar apenas o primeiro atendimento e arquivar o caso, por ausência de autorização.",
+      "atender a adolescente sem comunicar ninguém, preservando o sigilo absoluto do caso.",
+      "aguardar decisão do Conselho Regional de Psicologia sobre a possibilidade de atendimento."
+    ],
+    "gabarito": 0,
+    "comentario": "O art. 8º, § 1º, determina que, não se apresentando um responsável legal, o atendimento deverá ser efetuado e comunicado às autoridades competentes; o § 2º atribui ao psicólogo a responsabilidade pelos encaminhamentos necessários à proteção integral. Recusar ou interromper o atendimento violaria esse dever, e o silêncio absoluto ignora a comunicação exigida (além das obrigações do ECA em caso de violência). O CRP não autoriza atendimentos caso a caso.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-etica-004",
+    "disciplina": "especificos",
+    "assunto": "esp-etica",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2012/07/codigo-de-etica-psicologia.pdf (Código de Ética Profissional do Psicólogo – Res. CFP 10/2005)"
+    },
+    "enunciado": "A mãe de um adolescente em psicoterapia exige que o psicólogo lhe informe tudo o que o filho fala nas sessões, alegando ser quem paga o tratamento. De acordo com o Código de Ética, o psicólogo deve",
+    "alternativas": [
+      "comunicar aos responsáveis apenas o estritamente essencial para se promoverem medidas em benefício do adolescente.",
+      "relatar todo o conteúdo das sessões, pois a mãe é a contratante do serviço.",
+      "negar qualquer informação à mãe, pois o sigilo em relação aos responsáveis é absoluto.",
+      "entregar à mãe cópia do prontuário, que pertence a quem custeia o atendimento.",
+      "interromper o atendimento, pois o conflito impede a continuidade do trabalho."
+    ],
+    "gabarito": 0,
+    "comentario": "O art. 13 do Código dispõe que, no atendimento à criança, ao adolescente ou ao interdito, deve ser comunicado aos responsáveis o estritamente essencial para se promoverem medidas em seu benefício. Assim, nem tudo deve ser revelado — o pagamento não dá direito ao conteúdo integral —, nem se pode negar toda informação, pois há o dever de comunicar o essencial. O prontuário não “pertence” a quem paga, e a interrupção não é a resposta prevista.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-etica-005",
+    "disciplina": "especificos",
+    "assunto": "esp-etica",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2012/07/codigo-de-etica-psicologia.pdf (Código de Ética Profissional do Psicólogo – Res. CFP 10/2005)"
+    },
+    "enunciado": "Em uma Unidade Básica de Saúde, a psicóloga participa de reuniões de equipe com médicos, enfermeiros e assistentes sociais. Sobre o compartilhamento de informações com esses profissionais, o Código de Ética determina que a psicóloga",
+    "alternativas": [
+      "não compartilhe nenhuma informação, já que profissionais não psicólogos não estão sujeitos a sigilo.",
+      "compartilhe integralmente o conteúdo dos atendimentos, pois a equipe é corresponsável pelo caso.",
+      "compartilhe somente informações relevantes para qualificar o serviço prestado, resguardando o caráter confidencial e assinalando a responsabilidade de quem as recebe de preservar o sigilo.",
+      "compartilhe informações apenas mediante autorização expressa do Conselho Regional de Psicologia.",
+      "compartilhe somente com o médico, que é o responsável técnico por toda a equipe de saúde."
+    ],
+    "gabarito": 2,
+    "comentario": "O art. 6º, b, do Código estabelece que o psicólogo, no relacionamento com profissionais não psicólogos, compartilhará somente informações relevantes para qualificar o serviço prestado, resguardando o caráter confidencial das comunicações e assinalando a responsabilidade, de quem as receber, de preservar o sigilo. Não se trata de vedação total, nem de compartilhamento integral. O CRP não autoriza caso a caso, e não há hierarquia que submeta o sigilo psicológico ao médico.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-etica-006",
+    "disciplina": "especificos",
+    "assunto": "esp-etica",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2012/07/codigo-de-etica-psicologia.pdf (Código de Ética Profissional do Psicólogo – Res. CFP 10/2005)"
+    },
+    "enunciado": "Um psicólogo hospitalar registra seus atendimentos no prontuário único do paciente, acessado por toda a equipe. Segundo o Código de Ética, nesses documentos que embasam atividades em equipe multiprofissional, o psicólogo deve",
+    "alternativas": [
+      "transcrever literalmente as falas do paciente, para garantir a fidedignidade do registro.",
+      "registrar apenas as informações necessárias para o cumprimento dos objetivos do trabalho.",
+      "abster-se de qualquer registro, mantendo anotações apenas em arquivo pessoal.",
+      "registrar o conteúdo integral das sessões, já que o prontuário é sigiloso para quem não integra a equipe.",
+      "registrar somente os resultados de testes psicológicos aplicados, com os respectivos protocolos."
+    ],
+    "gabarito": 1,
+    "comentario": "O art. 12 do Código determina que, nos documentos que embasam as atividades em equipe multiprofissional, o psicólogo registrará apenas as informações necessárias para o cumprimento dos objetivos do trabalho. Transcrições literais ou o conteúdo integral expõem desnecessariamente o paciente. A ausência de registro contraria a obrigatoriedade do registro documental. Protocolos de testes são material privativo e não devem ser expostos ao acesso de toda a equipe.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-etica-007",
+    "disciplina": "especificos",
+    "assunto": "esp-etica",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2012/07/codigo-de-etica-psicologia.pdf (Código de Ética Profissional do Psicólogo – Res. CFP 10/2005)"
+    },
+    "enunciado": "Uma psicóloga clínica é intimada a depor como testemunha em processo judicial que envolve um ex-paciente. À luz do Código de Ética, é correto afirmar que ela",
+    "alternativas": [
+      "poderá prestar informações em juízo, considerando o previsto no Código, isto é, preservando o sigilo naquilo que não for necessário à finalidade do depoimento.",
+      "está obrigada a revelar tudo o que souber, pois a ordem judicial afasta integralmente o sigilo profissional.",
+      "está proibida de comparecer, sob pena de cassação, pois qualquer depoimento viola o sigilo.",
+      "só poderá depor após autorização prévia e expressa do Conselho Federal de Psicologia.",
+      "deverá entregar ao juízo o prontuário completo em substituição ao depoimento."
+    ],
+    "gabarito": 0,
+    "comentario": "O art. 11 do Código dispõe que, quando requisitado a depor em juízo, o psicólogo poderá prestar informações, considerando o previsto no Código — o que inclui o dever de sigilo (art. 9º) e o critério de restringir-se ao estritamente necessário (art. 10, parágrafo único). Assim, a intimação não dissolve o sigilo, nem há proibição absoluta de depor. Não é exigida autorização do CFP, e a entrega do prontuário completo não é a solução prevista.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-etica-008",
+    "disciplina": "especificos",
+    "assunto": "esp-etica",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2012/07/codigo-de-etica-psicologia.pdf (Código de Ética Profissional do Psicólogo – Res. CFP 10/2005)"
+    },
+    "enunciado": "Uma paciente em psicoterapia com a psicóloga A procura a psicóloga B para iniciar outro processo psicoterápico, sem dizer se encerrou o primeiro. Segundo o Código de Ética, a psicóloga B poderá intervir nesse caso, entre outras hipóteses, quando",
+    "alternativas": [
+      "a paciente demonstrar preferência pela abordagem teórica da psicóloga B.",
+      "a psicóloga B oferecer honorários menores que os da psicóloga A.",
+      "a psicóloga B considerar tecnicamente inadequado o trabalho da psicóloga A, mesmo sem contato com ela.",
+      "for informada expressamente, por qualquer uma das partes, da interrupção voluntária e definitiva do serviço anterior.",
+      "transcorridos trinta dias desde a última sessão com a psicóloga A, independentemente de comunicação."
+    ],
+    "gabarito": 3,
+    "comentario": "O art. 7º do Código lista as situações em que o psicólogo pode intervir em serviço prestado por outro profissional: a pedido do profissional responsável; em emergência ou risco ao usuário, dando-lhe imediata ciência; quando informado expressamente, por qualquer das partes, da interrupção voluntária e definitiva do serviço; e em trabalho multiprofissional, quando a intervenção fizer parte da metodologia. Preferência de abordagem, preço menor, avaliação unilateral do trabalho alheio ou decurso de prazo não estão entre essas hipóteses.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-etica-009",
+    "disciplina": "especificos",
+    "assunto": "esp-etica",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2012/07/codigo-de-etica-psicologia.pdf (Código de Ética Profissional do Psicólogo – Res. CFP 10/2005)"
+    },
+    "enunciado": "Uma clínica de psicologia propõe a um psicólogo autônomo que lhe pague 10% do valor das sessões de cada paciente que ele encaminhar a ela. Diante do Código de Ética, a proposta",
+    "alternativas": [
+      "é permitida, desde que o percentual seja informado ao paciente.",
+      "é permitida, desde que a clínica esteja registrada no Conselho Regional de Psicologia.",
+      "é vedada apenas se o percentual ultrapassar o valor de uma sessão.",
+      "é vedada, pois é proibido ao psicólogo receber ou pagar remuneração ou porcentagem por encaminhamento de serviços.",
+      "é permitida, pois se trata de relação comercial entre pessoas jurídicas, fora do alcance do Código."
+    ],
+    "gabarito": 3,
+    "comentario": "O art. 2º, p, do Código veda ao psicólogo receber, pagar remuneração ou porcentagem por encaminhamento de serviços; o art. 2º, o, também proíbe pleitear ou receber comissões ou vantagens além dos honorários contratados. A vedação é absoluta: não é afastada por transparência com o paciente, registro da clínica ou limite de valor. Por envolver a conduta do psicólogo, a situação está, sim, sob o alcance do Código.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-etica-010",
+    "disciplina": "especificos",
+    "assunto": "esp-etica",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2012/07/codigo-de-etica-psicologia.pdf (Código de Ética Profissional do Psicólogo – Res. CFP 10/2005)"
+    },
+    "enunciado": "Um psicólogo inicia relacionamento amoroso com a irmã de um paciente que atende há meses, mantendo o atendimento. À luz do Código de Ética, essa conduta",
+    "alternativas": [
+      "é permitida, pois a vedação de relações pessoais alcança apenas a pessoa atendida.",
+      "é vedada, pois é proibido estabelecer com familiar ou terceiro que tenha vínculo com o atendido relação que possa interferir negativamente nos objetivos do serviço prestado.",
+      "é permitida, desde que o paciente seja informado e concorde por escrito.",
+      "é vedada apenas se o relacionamento resultar em casamento ou união estável.",
+      "só seria infração se o psicólogo cobrasse honorários da irmã do paciente."
+    ],
+    "gabarito": 1,
+    "comentario": "O art. 2º, j, veda ao psicólogo estabelecer com a pessoa atendida, familiar ou terceiro que tenha vínculo com o atendido, relação que possa interferir negativamente nos objetivos do serviço prestado. A vedação, portanto, não se restringe ao próprio paciente nem é afastada pelo consentimento deste. A formalização do vínculo e a cobrança de honorários são irrelevantes para a configuração da conduta vedada.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-etica-011",
+    "disciplina": "especificos",
+    "assunto": "esp-etica",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2012/07/codigo-de-etica-psicologia.pdf (Código de Ética Profissional do Psicólogo – Res. CFP 10/2005)"
+    },
+    "enunciado": "Uma psicóloga atende em psicoterapia, há dois anos, uma mulher envolvida em disputa de guarda. O juiz da Vara de Família a nomeia perita para avaliar o casal e os filhos. Segundo o Código de Ética, a psicóloga deve",
+    "alternativas": [
+      "aceitar a perícia, pois o conhecimento prévio da paciente torna a avaliação mais precisa.",
+      "declinar da função de perita, pois é vedado ser perito em situações nas quais vínculos profissionais atuais ou anteriores possam afetar a qualidade do trabalho ou a fidelidade aos resultados.",
+      "aceitar a perícia, desde que interrompa a psicoterapia antes de iniciar a avaliação.",
+      "aceitar a perícia e utilizar como fonte o conteúdo das sessões de psicoterapia.",
+      "aceitar a perícia somente se o outro genitor concordar por escrito."
+    ],
+    "gabarito": 1,
+    "comentario": "O art. 2º, k, veda ser perito, avaliador ou parecerista em situações nas quais vínculos pessoais ou profissionais, atuais ou anteriores, possam afetar a qualidade do trabalho ou a fidelidade aos resultados. Encerrar a psicoterapia não elimina o vínculo anterior, e o conhecimento prévio é justamente o fator de comprometimento. Usar o material das sessões violaria também o sigilo, e a concordância da outra parte não afasta a vedação.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-etica-012",
+    "disciplina": "especificos",
+    "assunto": "esp-etica",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2012/07/codigo-de-etica-psicologia.pdf (Código de Ética Profissional do Psicólogo – Res. CFP 10/2005)"
+    },
+    "enunciado": "Uma psicóloga de um CAPS sugere a usuários do serviço que continuem o tratamento em seu consultório particular, “onde o atendimento é mais frequente”. Essa conduta",
+    "alternativas": [
+      "é permitida, desde que a psicóloga cobre valores reduzidos no consultório.",
+      "é permitida, desde que o usuário tenha liberdade de escolha.",
+      "é vedada apenas se a psicóloga for servidora concursada.",
+      "configura apenas infração administrativa trabalhista, sem relevância ética.",
+      "é vedada pelo Código de Ética, que proíbe desviar para serviço particular, visando benefício próprio, pessoas atendidas por instituição com a qual se mantenha vínculo profissional."
+    ],
+    "gabarito": 4,
+    "comentario": "O art. 2º, l, do Código veda desviar para serviço particular ou de outra instituição, visando benefício próprio, pessoas ou organizações atendidas por instituição com a qual mantenha qualquer tipo de vínculo profissional. A vedação abrange qualquer vínculo (não só o estatutário) e não é afastada por preço reduzido ou pela suposta liberdade de escolha do usuário. Trata-se de infração ética, sem prejuízo de outras responsabilidades.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-etica-013",
+    "disciplina": "especificos",
+    "assunto": "esp-etica",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2012/07/codigo-de-etica-psicologia.pdf (Código de Ética Profissional do Psicólogo – Res. CFP 10/2005)"
+    },
+    "enunciado": "Uma paciente atingiu os objetivos terapêuticos combinados e manifestou desejo de encerrar a psicoterapia. O psicólogo insiste em manter sessões semanais por tempo indeterminado, sem nova demanda clínica, alegando que “sempre há algo a trabalhar”. Essa conduta contraria o Código de Ética, que veda",
+    "alternativas": [
+      "induzir convicções filosóficas ou morais quando do exercício profissional.",
+      "prolongar, desnecessariamente, a prestação de serviços profissionais.",
+      "intervir na prestação de serviços realizados por outro profissional.",
+      "receber honorários de pacientes em situação de vulnerabilidade.",
+      "atender pacientes por mais de dois anos sem supervisão."
+    ],
+    "gabarito": 1,
+    "comentario": "O art. 2º, n, veda ao psicólogo prolongar, desnecessariamente, a prestação de serviços profissionais. Manter sessões sem justificativa técnica e contra a vontade da paciente também afronta seus direitos como usuária. A indução de convicções (art. 2º, b) e a intervenção no serviço de outro profissional (art. 7º) tratam de situações diferentes. O Código não proíbe cobrar de pessoas vulneráveis (art. 4º manda considerar suas condições) nem fixa limite temporal com supervisão obrigatória.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-etica-014",
+    "disciplina": "especificos",
+    "assunto": "esp-etica",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2012/07/codigo-de-etica-psicologia.pdf (Código de Ética Profissional do Psicólogo – Res. CFP 10/2005)"
+    },
+    "enunciado": "Uma psicóloga propõe a um paciente que sofre com a própria orientação homossexual um “processo de reorientação” fundamentado em valores religiosos que ela professa. À luz do Código de Ética, a conduta",
+    "alternativas": [
+      "é permitida, desde que o paciente solicite expressamente a intervenção.",
+      "é permitida, pois o Código assegura a liberdade de crença da psicóloga.",
+      "é vedada, pois é proibido ao psicólogo induzir a convicções religiosas, morais ou de orientação sexual no exercício de suas funções profissionais.",
+      "é vedada apenas se a psicóloga cobrar pelo atendimento.",
+      "é permitida em consultório particular, sendo vedada apenas em serviços públicos."
+    ],
+    "gabarito": 2,
+    "comentario": "O art. 2º, b, veda induzir a convicções políticas, filosóficas, morais, ideológicas, religiosas, de orientação sexual ou a qualquer tipo de preconceito, quando do exercício profissional; o princípio fundamental II exige contribuir para a eliminação de discriminação. A Res. CFP 01/1999 reforça a vedação de tratamentos de “cura” ou “reorientação” da homossexualidade, e a Res. CFP 07/2023 trata da laicidade da prática psicológica. A liberdade de crença da profissional e o pedido do paciente não autorizam a prática, que é vedada em qualquer contexto.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-etica-015",
+    "disciplina": "especificos",
+    "assunto": "esp-etica",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2012/07/codigo-de-etica-psicologia.pdf (Código de Ética Profissional do Psicólogo – Res. CFP 10/2005)"
+    },
+    "enunciado": "Um psicólogo passa a divulgar e oferecer, como “psicoterapia”, um procedimento que não é reconhecido nem regulamentado pela profissão, apresentando-se com seu título de psicólogo. Essa conduta",
+    "alternativas": [
+      "é vedada pelo Código de Ética, que proíbe prestar serviços ou vincular o título de psicólogo a serviços cujos procedimentos, técnicas e meios não estejam regulamentados ou reconhecidos pela profissão.",
+      "é permitida, pois o psicólogo tem autonomia para escolher seus métodos.",
+      "é permitida, desde que o paciente assine termo de consentimento.",
+      "é vedada apenas se houver dano comprovado ao paciente.",
+      "é permitida, desde que o procedimento seja oferecido gratuitamente."
+    ],
+    "gabarito": 0,
+    "comentario": "O art. 2º, f, veda prestar serviços ou vincular o título de psicólogo a serviços de atendimento psicológico cujos procedimentos, técnicas e meios não estejam regulamentados ou reconhecidos pela profissão; o art. 1º, c, exige técnicas reconhecidamente fundamentadas na ciência psicológica, e o art. 20, c, limita a divulgação a práticas reconhecidas. A autonomia técnica tem esses limites. Consentimento, gratuidade ou ausência de dano não afastam a infração, que é de conduta.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-etica-016",
+    "disciplina": "especificos",
+    "assunto": "esp-etica",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2012/07/codigo-de-etica-psicologia.pdf (Código de Ética Profissional do Psicólogo – Res. CFP 10/2005); Nota Técnica CFP 01/2022"
+    },
+    "enunciado": "Uma psicóloga publica em sua rede social: “Psicoterapia com 50% de desconto este mês! Últimas vagas!”. Considerando as regras do Código de Ética sobre publicidade, a postagem",
+    "alternativas": [
+      "é regular, pois o Código apenas proíbe a omissão do número de inscrição no CRP.",
+      "fere o Código, que veda utilizar o preço do serviço como forma de propaganda.",
+      "é regular, desde que o desconto seja efetivamente concedido a todos os pacientes.",
+      "fere o Código apenas por não informar a abordagem teórica utilizada.",
+      "é regular, pois promoções são permitidas em redes sociais desde 2005."
+    ],
+    "gabarito": 1,
+    "comentario": "O art. 20, d, determina que o psicólogo, ao promover publicamente seus serviços, não utilizará o preço do serviço como forma de propaganda. Além disso, o art. 20, a, exige nome completo, a sigla CRP e o número de registro, mas a ausência dessas informações não é a única irregularidade possível. A veracidade do desconto não torna a postagem regular, e o Código não obriga a informar a abordagem. Não existe autorização de promoções em redes sociais.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-etica-017",
+    "disciplina": "especificos",
+    "assunto": "esp-etica",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2012/07/codigo-de-etica-psicologia.pdf (Código de Ética Profissional do Psicólogo – Res. CFP 10/2005)"
+    },
+    "enunciado": "Ao divulgar seus serviços, um psicólogo publica: “Diferente de outros profissionais que só fazem você perder tempo, aqui você resolve sua ansiedade de verdade!”. À luz do art. 20 do Código de Ética, essa publicidade é irregular sobretudo porque",
+    "alternativas": [
+      "menciona um transtorno mental, o que é proibido em qualquer divulgação.",
+      "não informa o valor da sessão, que deve constar de toda propaganda.",
+      "foi veiculada em meio digital, onde a publicidade de serviços psicológicos é proibida.",
+      "não traz a assinatura do responsável técnico de pessoa jurídica.",
+      "faz autopromoção em detrimento de outros profissionais, o que é vedado."
+    ],
+    "gabarito": 4,
+    "comentario": "O art. 20, f, determina que o psicólogo não fará autopromoção em detrimento de outros profissionais; a frase também beira a previsão taxativa de resultados (alínea e). Mencionar temas de atuação não é proibido. O Código veda usar o preço como propaganda, e não exige que ele conste do anúncio. A publicidade em meios digitais é permitida, observadas as regras. Psicólogo autônomo não precisa de assinatura de responsável técnico.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-etica-018",
+    "disciplina": "especificos",
+    "assunto": "esp-etica",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2012/07/codigo-de-etica-psicologia.pdf (Código de Ética Profissional do Psicólogo – Res. CFP 10/2005)"
+    },
+    "enunciado": "Em um podcast de grande audiência, uma psicóloga comenta o comportamento de uma celebridade e afirma que ela “claramente tem transtorno de personalidade narcisista”. Segundo o Código de Ética, a conduta",
+    "alternativas": [
+      "é permitida, pois a celebridade é figura pública e não é paciente da psicóloga.",
+      "é permitida, desde que a psicóloga se apresente com o número de inscrição no CRP.",
+      "é vedada apenas se a celebridade tiver sido atendida anteriormente pela psicóloga.",
+      "é vedada, pois é proibido realizar diagnósticos ou apresentar resultados de serviços psicológicos em meios de comunicação de forma a expor pessoas.",
+      "é permitida, pois contribui para a universalização do acesso ao conhecimento psicológico."
+    ],
+    "gabarito": 3,
+    "comentario": "O art. 2º, q, veda realizar diagnósticos, divulgar procedimentos ou apresentar resultados de serviços psicológicos em meios de comunicação de forma a expor pessoas, grupos ou organizações. O fato de a pessoa ser pública ou não ser paciente não afasta a vedação; se fosse paciente, haveria ainda quebra de sigilo. Identificar-se com o CRP não legitima a conduta. O art. 19 manda zelar para que a participação na mídia dissemine conhecimento sobre a profissão, o que não inclui diagnosticar terceiros publicamente.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-etica-019",
+    "disciplina": "especificos",
+    "assunto": "esp-etica",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2012/07/codigo-de-etica-psicologia.pdf (Código de Ética Profissional do Psicólogo – Res. CFP 10/2005)"
+    },
+    "enunciado": "Um psicólogo combina com um paciente de baixa renda um valor social, mas passa a atendê-lo em sessões de 20 minutos, enquanto os demais pacientes têm sessões de 50 minutos, justificando que “o valor não cobre mais que isso”. À luz do Código de Ética, a conduta",
+    "alternativas": [
+      "é regular, pois a remuneração deve ser proporcional ao tempo de atendimento.",
+      "é regular, desde que o paciente tenha sido informado previamente da redução.",
+      "fere o Código, pois o psicólogo deve assegurar a qualidade dos serviços oferecidos independentemente do valor acordado.",
+      "fere o Código apenas porque o valor social é vedado aos psicólogos.",
+      "é regular, pois o Código não trata da relação entre honorários e qualidade."
+    ],
+    "gabarito": 2,
+    "comentario": "O art. 4º do Código determina que, ao fixar sua remuneração, o psicólogo levará em conta a justa retribuição e as condições do usuário (alínea a), comunicará o valor antes do início do trabalho (alínea b) e assegurará a qualidade dos serviços independentemente do valor acordado (alínea c). Reduzir a qualidade em razão do preço viola a alínea c, ainda que comunicado. O valor social não é vedado — ao contrário, o Código manda considerar as condições do usuário.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-etica-020",
+    "disciplina": "especificos",
+    "assunto": "esp-etica",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2012/07/codigo-de-etica-psicologia.pdf (Código de Ética Profissional do Psicólogo – Res. CFP 10/2005)"
+    },
+    "enunciado": "Psicólogas de uma rede municipal decidem aderir a uma greve da categoria. Conforme o Código de Ética, ao participar de greves ou paralisações, a psicóloga deve garantir que",
+    "alternativas": [
+      "todos os atendimentos sejam mantidos, pois a greve é vedada aos psicólogos.",
+      "o Conselho Regional de Psicologia autorize previamente a paralisação.",
+      "os prontuários sejam entregues aos usuários durante o período de paralisação.",
+      "os atendimentos de emergência sejam suspensos, desde que comunicados ao gestor.",
+      "as atividades de emergência não sejam interrompidas e que haja prévia comunicação da paralisação aos usuários dos serviços atingidos."
+    ],
+    "gabarito": 4,
+    "comentario": "O art. 5º do Código não proíbe a participação em greves, mas exige que as atividades de emergência não sejam interrompidas (alínea a) e que haja prévia comunicação da paralisação aos usuários ou beneficiários atingidos (alínea b). Não há exigência de autorização do CRP nem de entrega de prontuários. Suspender emergências contraria a alínea a.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-etica-021",
+    "disciplina": "especificos",
+    "assunto": "esp-etica",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2012/07/codigo-de-etica-psicologia.pdf (Código de Ética Profissional do Psicólogo – Res. CFP 10/2005)"
+    },
+    "enunciado": "Em um processo seletivo, a psicóloga aplica testes de personalidade nos candidatos. O gerente de RH solicita os protocolos e a descrição detalhada do perfil de personalidade de cada um. Segundo o Código de Ética, a psicóloga deve",
+    "alternativas": [
+      "informar a quem de direito os resultados, transmitindo somente o que for necessário para a tomada de decisões que afetem o candidato.",
+      "entregar os protocolos e a descrição integral, pois a empresa é a contratante da avaliação.",
+      "recusar-se a fornecer qualquer informação, pois os resultados pertencem apenas ao candidato.",
+      "entregar os protocolos ao gerente, desde que ele assine termo de sigilo.",
+      "divulgar os resultados a todos os candidatos, para garantir a transparência do processo."
+    ],
+    "gabarito": 0,
+    "comentario": "O art. 1º, g, impõe ao psicólogo o dever de informar, a quem de direito, os resultados decorrentes da prestação de serviços, transmitindo somente o que for necessário para a tomada de decisões que afetem o usuário ou beneficiário. Assim, não se entrega descrição integral nem protocolos — material privativo cuja guarda deve observar os princípios do Código (art. 1º, i). Tampouco se nega toda informação à instituição. Divulgar resultados a todos os candidatos expõe os avaliados e viola o sigilo.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-etica-022",
+    "disciplina": "especificos",
+    "assunto": "esp-etica",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2012/07/codigo-de-etica-psicologia.pdf (Código de Ética Profissional do Psicólogo – Res. CFP 10/2005)"
+    },
+    "enunciado": "Uma psicóloga é contratada por uma empresa cuja diretoria passa a exigir que ela utilize técnicas de avaliação para identificar e demitir empregados sindicalizados. Considerando o Código de Ética, é correto afirmar que a psicóloga",
+    "alternativas": [
+      "deve cumprir a determinação, pois o vínculo empregatício subordina a técnica aos interesses do empregador.",
+      "pode cumprir a determinação, desde que não assine os documentos produzidos.",
+      "deve pedir demissão imediatamente, sendo vedada qualquer denúncia por dever de lealdade ao empregador.",
+      "deve consultar os empregados sindicalizados e cumprir a determinação se eles concordarem.",
+      "deve considerar a compatibilidade das práticas da organização com os princípios do Código e, existindo incompatibilidade, recusar-se a prestar os serviços e, se pertinente, apresentar denúncia ao órgão competente."
+    ],
+    "gabarito": 4,
+    "comentario": "O art. 3º do Código determina que o psicólogo, para ingressar, associar-se ou permanecer em uma organização, considerará a missão, a filosofia, as políticas, as normas e as práticas nela vigentes e sua compatibilidade com o Código; o parágrafo único prevê que, havendo incompatibilidade, cabe recusar-se a prestar serviços e, se pertinente, apresentar denúncia. A prática exigida também violaria os arts. 2º, a e c. O vínculo empregatício não afasta os deveres éticos, a ausência de assinatura não legitima a conduta e a denúncia é expressamente admitida.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-etica-023",
+    "disciplina": "especificos",
+    "assunto": "esp-etica",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2012/07/codigo-de-etica-psicologia.pdf (Código de Ética Profissional do Psicólogo – Res. CFP 10/2005)"
+    },
+    "enunciado": "Uma psicóloga em formação deseja gravar em vídeo as sessões de psicoterapia para discuti-las em supervisão. À luz do Código de Ética, a utilização de meios de registro e observação da prática psicológica",
+    "alternativas": [
+      "é vedada em qualquer hipótese, por violar o sigilo profissional.",
+      "é livre, desde que as gravações não sejam divulgadas fora da supervisão.",
+      "depende apenas de autorização do supervisor, dispensando ciência do paciente.",
+      "deve obedecer às normas do Código e à legislação profissional, devendo o usuário ser informado desde o início.",
+      "só é permitida em serviços-escola, mediante autorização do CRP."
+    ],
+    "gabarito": 3,
+    "comentario": "O art. 14 do Código dispõe que a utilização de quaisquer meios de registro e observação da prática psicológica obedecerá às normas do Código e à legislação profissional vigente, devendo o usuário ou beneficiário, desde o início, ser informado. A gravação, portanto, não é vedada, mas também não é livre nem pode prescindir da ciência do paciente. O Código não restringe a prática a serviços-escola nem exige autorização do CRP.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-etica-024",
+    "disciplina": "especificos",
+    "assunto": "esp-etica",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2012/07/codigo-de-etica-psicologia.pdf (Código de Ética Profissional do Psicólogo – Res. CFP 10/2005)"
+    },
+    "enunciado": "Um psicólogo organizacional é demitido de uma empresa onde mantinha arquivos de avaliações psicológicas de empregados. Outro psicólogo será contratado para substituí-lo em algumas semanas. Segundo o Código de Ética, quanto ao material confidencial, o psicólogo demitido deve",
+    "alternativas": [
+      "entregá-lo ao setor de RH, que ficará responsável por sua consulta até a chegada do substituto.",
+      "levá-lo consigo para seu consultório particular, onde ficará guardado por cinco anos.",
+      "destruí-lo imediatamente, para preservar o sigilo dos avaliados.",
+      "entregá-lo a cada empregado avaliado, encerrando a responsabilidade da empresa.",
+      "repassá-lo ao psicólogo que vier a substituí-lo ou lacrá-lo para posterior utilização pelo psicólogo substituto."
+    ],
+    "gabarito": 4,
+    "comentario": "O art. 15 do Código impõe ao psicólogo, em caso de interrupção do trabalho, zelar pelo destino dos arquivos confidenciais; o § 1º determina que, em caso de demissão ou exoneração, deverá repassar todo o material ao psicólogo substituto ou lacrá-lo para posterior utilização por ele. Entregar o material aberto ao RH expõe informações sigilosas a não psicólogos. Levá-lo para o consultório retira o material da instituição, e destruí-lo ou distribuí-lo não é o destino previsto, além de desrespeitar o prazo mínimo de guarda de documentos.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-etica-025",
+    "disciplina": "especificos",
+    "assunto": "esp-etica",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2012/07/codigo-de-etica-psicologia.pdf (Código de Ética Profissional do Psicólogo – Res. CFP 10/2005)"
+    },
+    "enunciado": "Uma prefeitura extingue o serviço de psicologia de um centro comunitário, sem previsão de reabertura. A psicóloga responsável, diante dos arquivos confidenciais existentes, deve, segundo o Código de Ética,",
+    "alternativas": [
+      "incinerar os arquivos imediatamente, lavrando ata com testemunhas da prefeitura.",
+      "informar ao Conselho Regional de Psicologia, que providenciará a destinação dos arquivos confidenciais.",
+      "entregar os arquivos à Secretaria de Assistência Social, que passa a ser a responsável por eles.",
+      "levar os arquivos para casa, mantendo-os sob sua guarda pessoal por tempo indeterminado.",
+      "enviar os arquivos ao Conselho Federal de Psicologia, que os manterá em arquivo nacional."
+    ],
+    "gabarito": 1,
+    "comentario": "O art. 15, § 2º, do Código dispõe que, em caso de extinção do serviço de Psicologia, o psicólogo responsável informará ao Conselho Regional de Psicologia, que providenciará a destinação dos arquivos confidenciais. Não cabe à psicóloga decidir sozinha pela destruição, nem repassar o material a setor administrativo ou mantê-lo em guarda pessoal. A competência é do CRP, e não do CFP.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-etica-026",
+    "disciplina": "especificos",
+    "assunto": "esp-etica",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2012/07/codigo-de-etica-psicologia.pdf (Código de Ética Profissional do Psicólogo – Res. CFP 10/2005)"
+    },
+    "enunciado": "Uma psicóloga conduz uma pesquisa com adolescentes de escolas públicas sobre uso de substâncias. Segundo o Código de Ética, NÃO corresponde a dever da pesquisadora:",
+    "alternativas": [
+      "avaliar os riscos envolvidos, tanto pelos procedimentos quanto pela divulgação dos resultados.",
+      "garantir o caráter voluntário da participação, mediante consentimento livre e esclarecido.",
+      "divulgar os nomes das escolas e dos participantes nos resultados, para garantir a transparência científica.",
+      "garantir o anonimato das pessoas, grupos ou organizações, salvo interesse manifesto destes.",
+      "garantir aos participantes o acesso aos resultados após o encerramento da pesquisa, quando o desejarem."
+    ],
+    "gabarito": 2,
+    "comentario": "O art. 16 do Código impõe ao psicólogo pesquisador avaliar os riscos (a), garantir participação voluntária com consentimento livre e esclarecido (b), garantir o anonimato das pessoas, grupos ou organizações, salvo interesse manifesto destes (c), e garantir o acesso aos resultados após o encerramento (d). Divulgar nomes de escolas e participantes contraria a garantia de anonimato, não sendo dever, mas conduta incompatível com o Código.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-etica-027",
+    "disciplina": "especificos",
+    "assunto": "esp-etica",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2012/07/codigo-de-etica-psicologia.pdf (Código de Ética Profissional do Psicólogo – Res. CFP 10/2005); Res. CFP 31/2022"
+    },
+    "enunciado": "Uma psicóloga oferece um curso pago, voltado a profissionais de RH não psicólogos, ensinando a aplicar e interpretar testes psicológicos de personalidade com parecer favorável no SATEPSI. À luz do Código de Ética, a conduta",
+    "alternativas": [
+      "é permitida, pois os testes têm parecer favorável no SATEPSI.",
+      "é permitida, desde que os participantes recebam certificado assinado por psicólogo.",
+      "é vedada, pois o psicólogo não divulgará, ensinará, cederá, emprestará ou venderá a leigos instrumentos e técnicas psicológicas que permitam ou facilitem o exercício ilegal da profissão.",
+      "é vedada apenas se o curso for gratuito, por configurar concorrência desleal.",
+      "é permitida, pois o uso de testes por profissionais de RH dispensa formação em psicologia."
+    ],
+    "gabarito": 2,
+    "comentario": "O art. 18 do Código veda divulgar, ensinar, ceder, emprestar ou vender a leigos instrumentos e técnicas psicológicas que permitam ou facilitem o exercício ilegal da profissão. O uso de testes psicológicos é privativo do psicólogo (Lei 4.119/62, art. 13, § 1º; Res. CFP 31/2022, art. 8º), de modo que o parecer favorável no SATEPSI não autoriza seu uso por leigos. Certificados não habilitam ninguém, e a gratuidade é irrelevante.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-etica-028",
+    "disciplina": "especificos",
+    "assunto": "esp-etica",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2012/07/codigo-de-etica-psicologia.pdf (Código de Ética Profissional do Psicólogo – Res. CFP 10/2005)"
+    },
+    "enunciado": "Uma psicóloga toma conhecimento de que um colega de sua equipe emite laudos psicológicos para porte de arma sem realizar a avaliação. Considerando o Código de Ética, a psicóloga",
+    "alternativas": [
+      "deve apenas aconselhar o colega, pois denunciar colegas é vedado pelo dever de solidariedade.",
+      "não tem obrigação alguma, pois não participou da emissão dos laudos.",
+      "deve comunicar exclusivamente à Polícia Federal, pois o CRP não tem competência sobre laudos de porte de arma.",
+      "deve levar ao conhecimento das instâncias competentes a transgressão, pois é dever do psicólogo e é vedado ser conivente com faltas éticas praticadas por psicólogos.",
+      "deve aguardar que algum avaliado prejudicado apresente representação."
+    ],
+    "gabarito": 3,
+    "comentario": "O art. 1º, l, estabelece como dever fundamental levar ao conhecimento das instâncias competentes o exercício ilegal ou irregular da profissão e transgressões ao Código, e o art. 2º, e, veda ser conivente com erros, faltas éticas ou violação de direitos praticados por psicólogos. O dever de respeito e solidariedade (art. 1º, j) não abrange encobrir infrações. O CRP é competente para apurar a conduta ética do psicólogo, independentemente de outras comunicações cabíveis, e não é necessário aguardar representação de terceiros.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-etica-029",
+    "disciplina": "especificos",
+    "assunto": "esp-etica",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2012/07/codigo-de-etica-psicologia.pdf (Código de Ética Profissional do Psicólogo – Res. CFP 10/2005)"
+    },
+    "enunciado": "Sobre as disposições gerais do Código de Ética Profissional do Psicólogo (Res. CFP 10/2005), é correto afirmar que",
+    "alternativas": [
+      "as dúvidas e os casos omissos são resolvidos exclusivamente pelo Conselho Federal, sem participação dos Regionais.",
+      "a pena de suspensão do exercício profissional pode chegar a 90 dias, ad referendum do Conselho Federal.",
+      "as dúvidas na observância do Código e os casos omissos serão resolvidos pelos Conselhos Regionais de Psicologia, ad referendum do Conselho Federal de Psicologia.",
+      "a cassação do exercício profissional é aplicada pelo Conselho Regional sem necessidade de referendo do Conselho Federal.",
+      "o Código só pode ser alterado por lei federal, por ter sido instituído pela Lei 5.766/1971."
+    ],
+    "gabarito": 2,
+    "comentario": "O art. 22 do Código atribui aos CRPs a resolução das dúvidas e casos omissos, ad referendum do CFP; o art. 23 confere ao CFP a função de firmar jurisprudência quanto aos omissos. O art. 21 prevê suspensão por até 30 dias e cassação, ambas ad referendum do CFP. O art. 24 estabelece que o Código pode ser alterado pelo próprio CFP, por iniciativa própria ou da categoria, ouvidos os Regionais.",
+    "dificuldade": 3,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-etica-030",
+    "disciplina": "especificos",
+    "assunto": "esp-etica",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2012/07/codigo-de-etica-psicologia.pdf (Código de Ética Profissional do Psicólogo – Res. CFP 10/2005)"
+    },
+    "enunciado": "Em uma unidade de internação socioeducativa, a direção solicita que a psicóloga elabore um programa de isolamento prolongado em quarto escuro para adolescentes “indisciplinados”, com base em princípios de aprendizagem. Segundo o Código de Ética, a psicóloga deve recusar-se, pois",
+    "alternativas": [
+      "o Código veda o uso de qualquer técnica comportamental em instituições públicas.",
+      "somente o Conselho Tutelar pode autorizar medidas disciplinares em unidades socioeducativas.",
+      "a psicóloga não pode atuar em unidades socioeducativas, campo privativo do serviço social.",
+      "programas disciplinares só podem ser elaborados por psicólogos com título de especialista.",
+      "é vedado utilizar ou favorecer o uso de conhecimento e práticas psicológicas como instrumentos de castigo, tortura ou qualquer forma de violência."
+    ],
+    "gabarito": 4,
+    "comentario": "O art. 2º, c, veda utilizar ou favorecer o uso de conhecimento e práticas psicológicas como instrumentos de castigo, tortura ou qualquer forma de violência, e o art. 2º, a, veda ser conivente com atos de crueldade ou opressão; os princípios fundamentais I e II reforçam o compromisso com a dignidade e com os direitos humanos. O Código não proíbe técnicas comportamentais em si, nem condiciona a atuação a título de especialista. O campo socioeducativo não é privativo de outra profissão, e o Conselho Tutelar não “autoriza” castigos.",
+    "dificuldade": 1,
+    "anulada": false
+  }
+]

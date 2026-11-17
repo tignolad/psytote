@@ -1,0 +1,202 @@
+[
+ {
+  "id": "fgv-adab-2024-fis-1",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ADAB",
+   "ano": 2024,
+   "cargo": "Fiscal Estadual Agropecuário",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/fiscal-estadual-agropecuario-defesa-sanitaria-e-inspecao-animalcns001-tipo-1.pdf"
+  },
+  "enunciado": "A interpretação de textos procura decodificar as informações e os sentidos neles presentes. Leia o texto a seguir:\n“As certezas da física crescem em número, mas as suas incertezas crescem mais rapidamente. A experiência da economia durante as seis ou sete gerações em que ela vem sendo seriamente estudada tem sido semelhante, ainda que em menor escala. Adam Smith resolveu muitas obscuridades e incertezas, mas a área de sua incerteza consciente era muito maior que a de seus antecessores”. (Alfred Marshall)\nAssinale a opção que traz uma informação correta sobre o texto.",
+  "alternativas": [
+   "O primeiro período do texto mostra a ausência de crescimento dos conhecimentos na Física;",
+   "A comparação entre a Física e a Economia serve para demonstrar a superioridade daquela sobre esta;",
+   "A semelhança entre a Física e a Economia está em que ambas veem crescer as incertezas em seu domínio de conhecimento;",
+   "A informação básica do texto é a de que mais cresce o desconhecimento, mais cresce o conhecimento;",
+   "A expressão “incerteza consciente” mostra uma contradição interna."
+  ],
+  "gabarito": 2,
+  "comentario": "O texto diz que, na Física, as incertezas crescem mais rápido que as certezas e que a experiência da Economia “tem sido semelhante”: o ponto comum é o crescimento das incertezas em ambos os campos (C). A erra porque as certezas da Física também crescem; B inventa uma hierarquia que o texto não estabelece (diz apenas “em menor escala”); D inverte a relação; E erra porque ter consciência de uma incerteza não é contraditório.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-adab-2024-fis-2",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ADAB",
+   "ano": 2024,
+   "cargo": "Fiscal Estadual Agropecuário",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/fiscal-estadual-agropecuario-defesa-sanitaria-e-inspecao-animalcns001-tipo-1.pdf"
+  },
+  "enunciado": "A compreensão de textos pretende indicar os processos de produção dos significados neles presentes. Leia o texto a seguir:\n“Os muçulmanos têm vários deveres básicos. As orações devem ser feitas cinco vezes ao dia, com os fiéis sempre voltados para Meca (leste, no Brasil). Às sextas-feiras, todos os homens devem assistir a uma cerimônia na mesquita e ouvir o sermão do meio-dia. Durante o ramadã (nono mês do seu calendário), é obrigatório o jejum e a abstinência de bebida, tabaco e relações sexuais. Além disso, os muçulmanos dão 10% de seus bens para a caridade e procuram fazer pelo menos uma peregrinação a Meca na vida”. (O Guia dos Curiosos, Marcelo Duarte)\nMarque a opção que mostra uma observação correta sobre a sua estruturação.",
+  "alternativas": [
+   "A enumeração dos deveres básicos dos muçulmanos tem a intenção de criticar o exagero das cobranças do Islamismo;",
+   "Entre os parênteses, nas duas ocorrências, aparecem as traduções dos termos árabes anteriormente mencionados;",
+   "Por tratar-se de um texto informativo, onde a clareza é importante, todos os períodos do texto se mostram em ordem direta;",
+   "Após o primeiro período, todo o restante do texto destina-se à explicitação dos deveres básicos dos muçulmanos;",
+   "Depreende-se do texto que a peregrinação a Meca é o mais importante de todos os deveres citados."
+  ],
+  "gabarito": 3,
+  "comentario": "O primeiro período apresenta o tópico (“vários deveres básicos”) e todos os períodos seguintes detalham esses deveres: orações, cerimônia de sexta, jejum no ramadã, caridade e peregrinação (D). O texto é informativo, sem crítica (A); os parênteses trazem explicações (direção de Meca no Brasil, o que é o ramadã), não traduções (B); há períodos em ordem inversa, como “Às sextas-feiras, todos os homens devem…” e “Durante o ramadã…, é obrigatório o jejum…” (C); e não há hierarquia entre os deveres (E).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-adab-2024-fis-3",
+  "disciplina": "portugues",
+  "assunto": "pt-tipologia",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ADAB",
+   "ano": 2024,
+   "cargo": "Fiscal Estadual Agropecuário",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/fiscal-estadual-agropecuario-defesa-sanitaria-e-inspecao-animalcns001-tipo-1.pdf"
+  },
+  "enunciado": "Todo texto pertence a um modo de organização discursiva: descrição, narração, exposição, argumentação e injunção.\nAssinale a opção em que o texto está devidamente identificado.",
+  "alternativas": [
+   "“Todos os deputados se aproximavam das urnas enquanto os discursos ocorriam”. / narração.",
+   "“Não deixe para amanhã o que pode fazer depois de amanhã”. / descrição.",
+   "“Os adjetivos são muito importantes na estruturação dos textos literários”. / injunção.",
+   "“Nem todos os homens pertencem à raça humana, bastando observar suas atitudes”. / argumentação.",
+   "“Compre hoje o novo Renault e obtenha um desconto apreciável!”. / exposição."
+  ],
+  "gabarito": 3,
+  "comentario": "Em D há uma tese (“Nem todos os homens pertencem à raça humana”) sustentada por uma justificativa (“bastando observar suas atitudes”): é argumentação. Em A, o imperfeito e a simultaneidade (“se aproximavam… enquanto… ocorriam”) compõem um quadro simultâneo, sem progressão de fatos, mais próximo da descrição que da narração; B é injunção (conselho no imperativo); C é exposição (afirmação informativa); E é injunção (ordem/apelo publicitário).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-adab-2024-fis-4",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ADAB",
+   "ano": 2024,
+   "cargo": "Fiscal Estadual Agropecuário",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/fiscal-estadual-agropecuario-defesa-sanitaria-e-inspecao-animalcns001-tipo-1.pdf"
+  },
+  "enunciado": "Observe as frases a seguir:\n1. O orçamento é uma conta que o governo faz para saber onde vai investir o dinheiro que já gastou;\n2. Se seus pais não tiveram filhos, é bem provável que você não venha a ter;\n3. Encontrei Roma como uma cidade de tijolos e a deixei como uma cidade de mármore.\n[sublinhados: “que” e “onde” na 1; “que” na 2; “a” na 3]\nAssinale a observação correta sobre as frases, no que diz respeito às marcas de textualidade: coesão, coerência e intertextualidade.",
+  "alternativas": [
+   "Todas as frases se mostram incoerentes.",
+   "Os dois termos sublinhados na frase 1 possuem referentes anteriores.",
+   "O antecedente do pronome sublinhado na frase 3 é “cidade”.",
+   "As frases 2 e 3 mostram traços de intertextualidade com outras frases famosas.",
+   "Das duas ocorrências do vocábulo “que” sublinhadas, só a primeira tem referente anterior."
+  ],
+  "gabarito": 4,
+  "comentario": "O “que” da frase 1 é pronome relativo e retoma “conta”; o “que” da frase 2 (“é bem provável que”) é conjunção integrante, sem referente anterior — por isso E está correta. B erra porque “onde”, na frase 1, introduz uma interrogativa indireta (onde investir) e não retoma termo anterior; C erra porque o pronome “a” retoma “Roma”; A erra porque a frase 3 é coerente; D não se sustenta para a frase 2, que é uma piada sem remissão a frase famosa.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-adab-2024-fis-5",
+  "disciplina": "portugues",
+  "assunto": "pt-tipologia",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ADAB",
+   "ano": 2024,
+   "cargo": "Fiscal Estadual Agropecuário",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/fiscal-estadual-agropecuario-defesa-sanitaria-e-inspecao-animalcns001-tipo-1.pdf"
+  },
+  "enunciado": "Os textos injuntivos mostram ordens, conselhos, avisos de alerta etc.\nAssinale a opção em que a injunção traz uma ordem.",
+  "alternativas": [
+   "Amar a Deus sobre todas as coisas!",
+   "Se não vos converterdes e não vos tornardes como crianças, de modo algum entrareis no reino dos céus!",
+   "As crianças não devem receber a religião; têm de pegá-la no meio ambiente, como se pega o sarampo!",
+   "Toma cuidado com o homem cujo Deus está no céu!",
+   "Se não credes quando vos falo das coisas da terra, como ireis crer quando vos falar das coisas do céu?"
+  ],
+  "gabarito": 0,
+  "comentario": "“Amar a Deus sobre todas as coisas!” é um mandamento: o infinitivo com valor imperativo expressa uma ordem (A). B é um aviso condicional (consequência caso não haja conversão); C é uma opinião/conselho sobre educação religiosa; D é um alerta (“Toma cuidado”); E é uma pergunta retórica, não uma injunção.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-adab-2024-fis-6",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ADAB",
+   "ano": 2024,
+   "cargo": "Fiscal Estadual Agropecuário",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/fiscal-estadual-agropecuario-defesa-sanitaria-e-inspecao-animalcns001-tipo-1.pdf"
+  },
+  "enunciado": "Observe o seguinte início de um texto argumentativo: “Não se deve dirigir após ingerir bebida alcoólica...”.\nAssinale a opção em que o argumento apresentado na defesa dessa tese está corretamente identificado.",
+  "alternativas": [
+   "as estatísticas mostram que grande parte das mortes no trânsito são causadas por motoristas bêbedos / argumento apoiado na maioria das pessoas.",
+   "os médicos dizem que a ingestão de bebidas alcoólicas faz com que haja perda de reflexos nos motoristas / argumento apoiado na autoridade profissional dos médicos.",
+   "como se pôde ver no acidente ocorrido no centro da cidade na última semana / argumento apoiado na opinião do enunciador.",
+   "muitas famílias perdem entes queridos e muito importantes para a segurança familiar / argumento apoiado na intimidação dos possíveis motoristas que insistem em beber.",
+   "todo mundo sabe que a bebida deve ser condenada pelos males que causa em todas as áreas / argumento apoiado na evidência de fatos citados."
+  ],
+  "gabarito": 1,
+  "comentario": "Invocar o que “os médicos dizem” é argumento de autoridade, apoiado na competência profissional deles (B). A é argumento baseado em dados estatísticos, não na maioria das pessoas; C é argumento por exemplo (fato concreto), não por opinião; D apela à emoção (comoção), não à intimidação; E (“todo mundo sabe”) é argumento de consenso/senso comum, sem fatos citados.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-adab-2024-fis-7",
+  "disciplina": "portugues",
+  "assunto": "pt-tipologia",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ADAB",
+   "ano": 2024,
+   "cargo": "Fiscal Estadual Agropecuário",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/fiscal-estadual-agropecuario-defesa-sanitaria-e-inspecao-animalcns001-tipo-1.pdf"
+  },
+  "enunciado": "Há uma diferença entre textos publicitários e textos de propaganda.\nAssinale o texto que se enquadra entre as propagandas e não sobre a publicidade.",
+  "alternativas": [
+   "Compre Omo! Lava mais branco!",
+   "Viaje Air France! Tradição e segurança!",
+   "Colabore com a Apae! Todos agradecem!",
+   "Aumente seu capital. Invista em ações!",
+   "Não acredite em boatos. Invista em criptomoedas!"
+  ],
+  "gabarito": 2,
+  "comentario": "Publicidade divulga produtos ou serviços com fim comercial; propaganda divulga ideias, causas ou valores, sem venda direta. “Colabore com a Apae!” promove uma causa social, logo é propaganda (C). As demais incentivam o consumo de produtos ou serviços (sabão, companhia aérea, investimentos), sendo publicidade.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-adab-2024-fis-8",
+  "disciplina": "portugues",
+  "assunto": "pt-linguagem",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ADAB",
+   "ano": 2024,
+   "cargo": "Fiscal Estadual Agropecuário",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/fiscal-estadual-agropecuario-defesa-sanitaria-e-inspecao-animalcns001-tipo-1.pdf"
+  },
+  "enunciado": "Os textos podem ser estruturados em diversos registros de linguagem: erudita, formal, informal etc.\nAssinale a frase que mostra marcas de linguagem informal.",
+  "alternativas": [
+   "Místico é o sujeito que quer gozar com a alma ao invés do corpo.",
+   "Nenhum homem chegou a ser grande senão impelido por divina inspiração.",
+   "Quando o apocalipse vier, Senhor, que eu tenha, pelo menos, escovado os dentes.",
+   "Um devoto é aquele que, sob um rei ateu, seria ateu.",
+   "Não acredito em astrologia. Acho horóscopo uma tremenda bobagem e todos nós de Libra sentimos o mesmo."
+  ],
+  "gabarito": 4,
+  "comentario": "Em E, a expressão coloquial “uma tremenda bobagem”, o tom de conversa e a construção “Acho horóscopo…” (sem artigo) são marcas do registro informal. As demais frases, ainda que humorísticas em alguns casos (C), mantêm vocabulário e construção sintática da norma formal; B, com “impelido por divina inspiração”, é até de registro elevado.",
+  "dificuldade": 1,
+  "anulada": false
+ }
+]

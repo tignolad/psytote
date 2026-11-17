@@ -1,0 +1,332 @@
+[
+  {
+    "id": "aut-leg-res10-2017-001",
+    "disciplina": "legislacao",
+    "assunto": "leg-res10-2017",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://transparencia.cfp.org.br/wp-content/uploads/sites/10/2017/07/Resolu%C3%A7%C3%A3o-CFP-010-2017-Politica-de-Orienta%C3%A7%C3%A3o-e-Fiscaliza%C3%A7%C3%A3o-dos-Conselhos.pdf"
+    },
+    "enunciado": "A Resolução CFP nº 10/2017 instituiu a Política de Orientação e Fiscalização do Sistema Conselhos de Psicologia. Segundo seu art. 1º, essa Política",
+    "alternativas": [
+      "impõe procedimentos rigorosamente idênticos em todos os Conselhos Regionais, vedadas adaptações regionais.",
+      "dispõe sobre as diretrizes e procedimentos da área, proporcionando unidade de procedimentos do Sistema Conselhos em âmbito nacional, mas permitindo também diferenças em função de peculiaridades regionais.",
+      "transfere ao Conselho Federal a execução direta de todas as fiscalizações do país.",
+      "substitui o Código de Ética Profissional do Psicólogo como fundamento das ações fiscalizatórias.",
+      "dispõe exclusivamente sobre a aplicação de penalidades aos psicólogos fiscalizados."
+    ],
+    "gabarito": 1,
+    "comentario": "Art. 1º da Res. CFP 10/2017: a Política dispõe sobre diretrizes e procedimentos, estrutura e funcionamento dos órgãos responsáveis, proporcionando unidade de procedimentos em âmbito nacional, mas permitindo diferenças por peculiaridades regionais. A execução das fiscalizações cabe às COFs dos Regionais (art. 7º), e a Política não trata de aplicação de penas.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res10-2017-002",
+    "disciplina": "legislacao",
+    "assunto": "leg-res10-2017",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://transparencia.cfp.org.br/wp-content/uploads/sites/10/2017/07/Resolu%C3%A7%C3%A3o-CFP-010-2017-Politica-de-Orienta%C3%A7%C3%A3o-e-Fiscaliza%C3%A7%C3%A3o-dos-Conselhos.pdf"
+    },
+    "enunciado": "Entre os objetivos da fiscalização e da orientação da profissão, previstos no art. 3º da Resolução CFP nº 10/2017, NÃO se inclui",
+    "alternativas": [
+      "priorizar ações punitivas, individuais e imediatas, para garantir o efeito pedagógico da sanção.",
+      "primar pelo diálogo com os profissionais, visando à reflexão sobre os aspectos éticos, técnicos e científicos da Psicologia.",
+      "informar à sociedade a respeito dos recursos da Psicologia, dos serviços disponíveis e de seus direitos enquanto usuária.",
+      "fortalecer a identidade profissional do psicólogo nas diversas áreas e campos de atuação.",
+      "pautar-se nas determinações emanadas do Congresso Nacional da Psicologia e da APAF."
+    ],
+    "gabarito": 0,
+    "comentario": "Art. 3º da Res. CFP 10/2017: entre os objetivos estão o diálogo com os profissionais (II), informar a sociedade (VI), fortalecer a identidade profissional (VII) e pautar-se nas determinações do CNP e da APAF (X). O inciso IX determina o oposto do distrator: priorizar ações PREVENTIVAS, COLETIVAS e PLANEJADAS.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res10-2017-003",
+    "disciplina": "legislacao",
+    "assunto": "leg-res10-2017",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://transparencia.cfp.org.br/wp-content/uploads/sites/10/2017/07/Resolu%C3%A7%C3%A3o-CFP-010-2017-Politica-de-Orienta%C3%A7%C3%A3o-e-Fiscaliza%C3%A7%C3%A3o-dos-Conselhos.pdf"
+    },
+    "enunciado": "Segundo a Resolução CFP nº 10/2017, a Secretaria de Orientação e Ética do Conselho Federal de Psicologia",
+    "alternativas": [
+      "é instância superior e de recurso no Sistema Conselhos nas funções que lhe competem e será constituída por, no mínimo, três membros indicados pelo Plenário, coordenada por conselheira(o) efetiva(o).",
+      "é órgão dos Conselhos Regionais responsável por executar as fiscalizações em sua jurisdição.",
+      "é constituída exclusivamente por psicólogas(os) fiscais contratadas(os) por concurso público.",
+      "é instância consultiva, sem competência recursal, coordenada por psicóloga(o) convidada(o).",
+      "é constituída por, no mínimo, cinco membros eleitos pela APAF."
+    ],
+    "gabarito": 0,
+    "comentario": "Arts. 4º e 5º da Res. CFP 10/2017: a Secretaria de Orientação e Ética, órgão do CFP, coordena as atividades de orientação e fiscalização e é instância superior e de recurso nas funções que lhe competem; é constituída por, no mínimo, três membros indicados pelo Plenário, coordenada por conselheira(o) efetiva(o), podendo os demais ser efetivos, suplentes ou convidados.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res10-2017-004",
+    "disciplina": "legislacao",
+    "assunto": "leg-res10-2017",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://transparencia.cfp.org.br/wp-content/uploads/sites/10/2017/07/Resolu%C3%A7%C3%A3o-CFP-010-2017-Politica-de-Orienta%C3%A7%C3%A3o-e-Fiscaliza%C3%A7%C3%A3o-dos-Conselhos.pdf"
+    },
+    "enunciado": "Conforme a Resolução CFP nº 10/2017, as Comissões de Orientação e Fiscalização (COFs) são órgãos",
+    "alternativas": [
+      "do Conselho Federal, com a função de julgar os recursos contra autos de infração lavrados pelos Regionais.",
+      "dos Conselhos Regionais, constituídas exclusivamente por conselheiras(os) efetivas(os), em número mínimo de cinco.",
+      "dos Conselhos Regionais, presididas por psicóloga(o) fiscal concursada(o).",
+      "autônomos em relação ao Plenário do CRP, ao qual não precisam comunicar suas ações.",
+      "dos Conselhos Regionais, com a função de coordenar e executar em sua jurisdição as atividades de orientação e fiscalização, constituídas por, no mínimo, três psicólogas(os) indicadas(os) pelo Plenário e presididas por conselheira(o) efetiva(o)."
+    ],
+    "gabarito": 4,
+    "comentario": "Arts. 7º a 9º da Res. CFP 10/2017: as COFs são órgãos dos CRPs, coordenam e executam a orientação e a fiscalização em sua jurisdição e assistem o Plenário; têm no mínimo três psicólogas(os) indicadas(os) pelo Plenário, presididas por conselheira(o) efetiva(o); entre suas atribuições está comunicar formalmente ao Plenário suas ações (art. 9º, IV).",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res10-2017-005",
+    "disciplina": "legislacao",
+    "assunto": "leg-res10-2017",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://transparencia.cfp.org.br/wp-content/uploads/sites/10/2017/07/Resolu%C3%A7%C3%A3o-CFP-010-2017-Politica-de-Orienta%C3%A7%C3%A3o-e-Fiscaliza%C3%A7%C3%A3o-dos-Conselhos.pdf"
+    },
+    "enunciado": "Considere as categorias abaixo.\nI. Conselheiras(os).\nII. Psicólogas(os) orientadoras(es) e fiscais contratadas(os) por concurso público.\nIII. Psicólogas(os) integrantes das Comissões Gestoras das subsedes, aprovadas(os) pelo Plenário.\nSegundo a Resolução CFP nº 10/2017, são Psicólogas(os) Agentes de Orientação e Fiscalização, dotadas(os) de fé pública,",
+    "alternativas": [
+      "I, apenas.",
+      "II, apenas.",
+      "I e II, apenas.",
+      "II e III, apenas.",
+      "I, II e III."
+    ],
+    "gabarito": 4,
+    "comentario": "Art. 10 da Res. CFP 10/2017: são agentes de orientação e fiscalização, dotados de fé pública, conselheiras(os) (I), orientadoras(es) e fiscais concursadas(os) (II), integrantes das Comissões Gestoras das subsedes aprovadas(os) pelo Plenário (III) e colaboradoras(es) indicadas(os) pelas subsedes e aprovadas(os) pelo Plenário (IV). Os dos incisos III e IV devem ser designados e orientados pela COF para ações específicas e justificadas.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res10-2017-006",
+    "disciplina": "legislacao",
+    "assunto": "leg-res10-2017",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://transparencia.cfp.org.br/wp-content/uploads/sites/10/2017/07/Resolu%C3%A7%C3%A3o-CFP-010-2017-Politica-de-Orienta%C3%A7%C3%A3o-e-Fiscaliza%C3%A7%C3%A3o-dos-Conselhos.pdf"
+    },
+    "enunciado": "De acordo com a Resolução CFP nº 10/2017, antes de iniciar suas atividades, as(os) Psicólogas(os) Agentes de Orientação e Fiscalização deverão",
+    "alternativas": [
+      "ser aprovadas(os) em exame nacional aplicado pela Secretaria de Orientação e Ética do CFP.",
+      "comprovar título de especialista em Psicologia Jurídica.",
+      "comprovar no mínimo cinco anos de inscrição no Conselho Regional.",
+      "ser submetidas(os) a processo de capacitação, de caráter teórico e prático, sobre as normas vigentes e as diretrizes do Sistema Conselhos, cabendo aos CRPs promover sua formação continuada.",
+      "cumprir estágio supervisionado de um ano junto à Comissão de Ética."
+    ],
+    "gabarito": 3,
+    "comentario": "Art. 14 da Res. CFP 10/2017: os agentes devem passar por capacitação teórica e prática antes de iniciar suas atividades, e os CRPs devem prever e promover sua formação continuada, respeitadas as especificidades regionais (parágrafo único). Não há exame nacional, exigência de título de especialista ou tempo mínimo de inscrição.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res10-2017-007",
+    "disciplina": "legislacao",
+    "assunto": "leg-res10-2017",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://transparencia.cfp.org.br/wp-content/uploads/sites/10/2017/07/Resolu%C3%A7%C3%A3o-CFP-010-2017-Politica-de-Orienta%C3%A7%C3%A3o-e-Fiscaliza%C3%A7%C3%A3o-dos-Conselhos.pdf"
+    },
+    "enunciado": "Segundo a Resolução CFP nº 10/2017, o processo de fiscalização",
+    "alternativas": [
+      "é sempre presencial e só pode ser realizado mediante denúncia formal assinada.",
+      "tem caráter exclusivamente punitivo, ficando a orientação a cargo da Comissão de Ética.",
+      "somente pode ser realizado com autorização judicial prévia.",
+      "pode ser presencial e/ou a distância, realizado como rotina ou motivado por solicitação ou denúncias, e terá, sempre que possível, caráter orientativo.",
+      "é realizado exclusivamente a distância, por meio de análise documental."
+    ],
+    "gabarito": 3,
+    "comentario": "Arts. 17 e 18 da Res. CFP 10/2017: fiscalização é qualquer processo, presencial e/ou a distância, de verificação do exercício profissional segundo as normas vigentes, realizado como rotina ou motivado por solicitação ou denúncia; sempre que possível, terá caráter orientativo.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res10-2017-008",
+    "disciplina": "legislacao",
+    "assunto": "leg-res10-2017",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://transparencia.cfp.org.br/wp-content/uploads/sites/10/2017/07/Resolu%C3%A7%C3%A3o-CFP-010-2017-Politica-de-Orienta%C3%A7%C3%A3o-e-Fiscaliza%C3%A7%C3%A3o-dos-Conselhos.pdf"
+    },
+    "enunciado": "A Resolução CFP nº 10/2017 enumera modalidades de fiscalização. Associe corretamente: a fiscalização realizada para atender solicitação da Comissão de Ética denomina-se",
+    "alternativas": [
+      "averiguação.",
+      "diligência.",
+      "inspeção de Pessoa Jurídica.",
+      "fiscalização estratégica.",
+      "auto de orientação."
+    ],
+    "gabarito": 1,
+    "comentario": "Art. 19 da Res. CFP 10/2017: são modalidades a inspeção de Pessoa Jurídica (motivada pela inscrição), a análise de serviços prestados por meios tecnológicos, a DILIGÊNCIA (para atender solicitação da Comissão de Ética), a averiguação (por denúncia, informação ou notícia de irregularidade ou exercício ilegal) e a estratégica (a partir de áreas de atuação que demandem intervenção). 'Auto de orientação' não é modalidade de fiscalização.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res10-2017-009",
+    "disciplina": "legislacao",
+    "assunto": "leg-res10-2017",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://transparencia.cfp.org.br/wp-content/uploads/sites/10/2017/07/Resolu%C3%A7%C3%A3o-CFP-010-2017-Politica-de-Orienta%C3%A7%C3%A3o-e-Fiscaliza%C3%A7%C3%A3o-dos-Conselhos.pdf"
+    },
+    "enunciado": "Durante fiscalização em uma clínica, a agente de orientação e fiscalização constatou irregularidade passível de adequação. Conforme a Resolução CFP nº 10/2017,",
+    "alternativas": [
+      "deverá ser lavrado imediatamente auto de infração, com aplicação de multa.",
+      "será dado prazo de até 90 dias para a regularização, vedada a visita de retorno.",
+      "será dado prazo de até 30 dias para que o profissional ou a Pessoa Jurídica comprove a regularização junto ao CRP, facultada a visita de retorno.",
+      "o caso deverá ser remetido imediatamente à Comissão de Ética, sob forma de representação.",
+      "a clínica será interditada até a regularização, mediante termo de lacre."
+    ],
+    "gabarito": 2,
+    "comentario": "Art. 26 da Res. CFP 10/2017: constatada irregularidade passível de adequação, dá-se prazo de até 30 dias para comprovação da regularização, facultada visita de retorno; se não for passível de adequação, orienta-se a interrupção da conduta. Só se a irregularidade não for resolvida a COF enviará representação à Comissão de Ética (art. 28).",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res10-2017-010",
+    "disciplina": "legislacao",
+    "assunto": "leg-res10-2017",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://transparencia.cfp.org.br/wp-content/uploads/sites/10/2017/07/Resolu%C3%A7%C3%A3o-CFP-010-2017-Politica-de-Orienta%C3%A7%C3%A3o-e-Fiscaliza%C3%A7%C3%A3o-dos-Conselhos.pdf"
+    },
+    "enunciado": "A Comissão de Orientação e Fiscalização de um CRP recebeu denúncia verbal de irregularidade. De acordo com a Resolução CFP nº 10/2017, a COF deverá",
+    "alternativas": [
+      "arquivar a denúncia, pois denúncias verbais não podem gerar nenhuma providência.",
+      "instaurar diretamente processo disciplinar ético contra o profissional denunciado.",
+      "lavrar, de imediato, auto de apreensão dos documentos do profissional denunciado.",
+      "orientar o denunciante a formalizar a representação por documento escrito e assinado, com as informações previstas no Código de Processamento Disciplinar, dirigida ao Presidente do CRP; se o reclamante não quiser assumir a denúncia, a COF avaliará outro encaminhamento possível.",
+      "encaminhar a denúncia ao Conselho Federal, competente para apreciar denúncias anônimas."
+    ],
+    "gabarito": 3,
+    "comentario": "Art. 29 da Res. CFP 10/2017: diante de denúncias, a COF orienta os denunciantes a formalizar a representação por escrito e assinada, nos termos do CPD, dirigida ao Presidente do CRP; caso o reclamante não queira assumir a denúncia, a COF avalia se há outro encaminhamento possível. A COF não instaura processo disciplinar.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res10-2017-011",
+    "disciplina": "legislacao",
+    "assunto": "leg-res10-2017",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://transparencia.cfp.org.br/wp-content/uploads/sites/10/2017/07/Resolu%C3%A7%C3%A3o-CFP-010-2017-Politica-de-Orienta%C3%A7%C3%A3o-e-Fiscaliza%C3%A7%C3%A3o-dos-Conselhos.pdf"
+    },
+    "enunciado": "Considere as afirmativas sobre a Resolução CFP nº 10/2017.\nI. Para conduzir o processo de orientação, os CRPs poderão utilizar o Termo de Ajustamento de Conduta (TAC), a critério da COF.\nII. Sendo constatado indício de falta ética ou irregularidade, é possível a apreensão de documentos.\nIII. É vedado o uso de recursos tecnológicos para fins de documentação no processo de fiscalização.\nEstá correto o que se afirma em",
+    "alternativas": [
+      "I, apenas.",
+      "III, apenas.",
+      "I e II, apenas.",
+      "II e III, apenas.",
+      "I, II e III."
+    ],
+    "gabarito": 2,
+    "comentario": "I correta: art. 16, parágrafo único, da Res. CFP 10/2017. II correta: art. 24. III errada: o art. 23 FACULTA o uso de recursos tecnológicos para fins de documentação.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res10-2017-012",
+    "disciplina": "legislacao",
+    "assunto": "leg-res10-2017",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://transparencia.cfp.org.br/wp-content/uploads/sites/10/2017/07/Resolu%C3%A7%C3%A3o-CFP-010-2017-Politica-de-Orienta%C3%A7%C3%A3o-e-Fiscaliza%C3%A7%C3%A3o-dos-Conselhos.pdf"
+    },
+    "enunciado": "Em uma fiscalização em contexto multiprofissional, o CRP identificou que outros profissionais de saúde atuavam no mesmo serviço. Segundo a Resolução CFP nº 10/2017,",
+    "alternativas": [
+      "o CRP deverá fiscalizar também a atuação dos demais profissionais, aplicando-lhes as normas da Psicologia.",
+      "o CRP está proibido de articular-se com outros Conselhos profissionais, por respeito à autonomia de cada autarquia.",
+      "o CRP deverá suspender a fiscalização até que o Conselho Federal autorize a ação conjunta.",
+      "a fiscalização deverá ser realizada exclusivamente pelo Ministério Público.",
+      "o CRP deverá entrar em contato com os Conselhos Regionais das demais categorias profissionais para propor ação conjunta, podendo também convidar instituições como Ministério Público, Defensoria Pública e Associações."
+    ],
+    "gabarito": 4,
+    "comentario": "Arts. 21 e 22 da Res. CFP 10/2017: quando necessário nas fiscalizações em contexto multiprofissional, o CRP deverá contatar os Conselhos Regionais das demais categorias para propor ação conjunta; e podem ser convidadas outras instituições, como Ministério Público, Defensoria Pública e Associações.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res10-2017-013",
+    "disciplina": "legislacao",
+    "assunto": "leg-res10-2017",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://transparencia.cfp.org.br/wp-content/uploads/sites/10/2017/07/Resolu%C3%A7%C3%A3o-CFP-010-2017-Politica-de-Orienta%C3%A7%C3%A3o-e-Fiscaliza%C3%A7%C3%A3o-dos-Conselhos.pdf"
+    },
+    "enunciado": "Determinada Comissão de Ética solicitou à COF a realização de diligência para apurar fatos de uma representação. Durante a diligência, a agente encontrou elementos que extrapolavam o objeto definido. Conforme a Resolução CFP nº 10/2017,",
+    "alternativas": [
+      "a agente deverá ampliar por conta própria o objeto da diligência e lavrar auto de infração.",
+      "a agente deverá conceder prazo de 30 dias para regularização de todas as irregularidades encontradas.",
+      "a diligência deverá ser anulada, pois não pode haver constatação além do objeto.",
+      "a agente deverá encaminhar os novos elementos diretamente ao Plenário do CFP.",
+      "a agente adotará os procedimentos definidos pela COF, sendo que não se aplicam à diligência as regras de prazo de até 30 dias para regularização e de comunicação das irregularidades à COF previstas para as fiscalizações em geral."
+    ],
+    "gabarito": 4,
+    "comentario": "Art. 30 da Res. CFP 10/2017: na diligência, procedimento pontual focado, a Comissão de Ética deve definir com clareza os objetivos; encontrados elementos que extrapolem o objeto, o agente adota os procedimentos definidos pela COF (§ 1º); e não se aplicam à diligência os arts. 26 e 27 (prazo de regularização e comunicação de irregularidades à COF) (§ 2º).",
+    "dificuldade": 3,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res10-2017-014",
+    "disciplina": "legislacao",
+    "assunto": "leg-res10-2017",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://transparencia.cfp.org.br/wp-content/uploads/sites/10/2017/07/Resolu%C3%A7%C3%A3o-CFP-010-2017-Politica-de-Orienta%C3%A7%C3%A3o-e-Fiscaliza%C3%A7%C3%A3o-dos-Conselhos.pdf"
+    },
+    "enunciado": "Durante uma solenidade de entrega de carteiras, psicólogas(os) recém-inscritas(os) recebem informações sobre o funcionamento do Sistema Conselhos e sobre o Código de Ética. Segundo a Resolução CFP nº 10/2017, essa solenidade inicial de orientação",
+    "alternativas": [
+      "é atribuição exclusiva da Secretaria de Orientação e Ética do CFP.",
+      "é uma das ações da COF para informar as(os) psicólogas(os) de sua jurisdição, sendo presidida por conselheira(o) do Plenário do CRP e/ou membro da Comissão Gestora.",
+      "é facultativa e presidida pelo coordenador do curso de graduação da(o) recém-formada(o).",
+      "substitui a capacitação obrigatória dos agentes de orientação e fiscalização.",
+      "é presidida pelo(a) fiscal concursado(a) mais antigo(a) do Regional."
+    ],
+    "gabarito": 1,
+    "comentario": "Art. 9º, XII, 'f', da Res. CFP 10/2017: cabe à COF informar as(os) psicólogas(os) também por meio de solenidade inicial de orientação com as(os) recém-inscritas(os), com entrega da Carteira de Identidade Profissional, presidida por conselheira(o) do Plenário do CRP e/ou membro da Comissão Gestora.",
+    "dificuldade": 3,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res10-2017-015",
+    "disciplina": "legislacao",
+    "assunto": "leg-res10-2017",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://transparencia.cfp.org.br/wp-content/uploads/sites/10/2017/07/Resolu%C3%A7%C3%A3o-CFP-010-2017-Politica-de-Orienta%C3%A7%C3%A3o-e-Fiscaliza%C3%A7%C3%A3o-dos-Conselhos.pdf"
+    },
+    "enunciado": "Com a edição da Resolução CFP nº 10/2017, ficou expressamente revogada a Resolução CFP nº 019/2000. Esta última instituía",
+    "alternativas": [
+      "o Código de Processamento Disciplinar.",
+      "o Código de Ética Profissional do Psicólogo.",
+      "o Manual Unificado de Orientação e Fiscalização (MUORF).",
+      "o Regimento Interno do Conselho Federal de Psicologia.",
+      "as regras de registro documental dos serviços psicológicos."
+    ],
+    "gabarito": 2,
+    "comentario": "Art. 32 da Res. CFP 10/2017: revogam-se as disposições em contrário, em especial a Res. CFP 019/2000, que instituía o Manual Unificado de Orientação e Fiscalização (MUORF) — referido, por exemplo, no Regimento Interno do CRP-05 (art. 26, XII). O CPD vigente é a Res. 11/2019; o Código de Ética, a Res. 10/2005; o registro documental, a Res. 01/2009.",
+    "dificuldade": 3,
+    "anulada": false
+  }
+]

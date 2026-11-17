@@ -1,0 +1,202 @@
+[
+ {
+  "id": "fgv-mpsc-2022-ana-21",
+  "disciplina": "rlm",
+  "assunto": "rlm-numeros",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-SC",
+   "ano": 2022,
+   "cargo": "Analista de Dados e Pesquisas",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/mp_sc_2022_analista_de_dados_e_pesquisas_tipo_1.pdf"
+  },
+  "enunciado": "Seja A uma matriz 4 x 4 cujo determinante é igual a 2. O determinante da matriz 3A é igual a:",
+  "alternativas": [
+   "6;",
+   "12;",
+   "24;",
+   "64;",
+   "162."
+  ],
+  "gabarito": 4,
+  "comentario": "Multiplicar uma matriz n × n por k multiplica cada uma das n linhas por k, e o determinante fica multiplicado por k^n. Aqui, det(3A) = 3^4 · det(A) = 81 · 2 = 162 (E). Quem faz apenas 3 · 2 = 6 (A) esquece que o fator aparece uma vez por linha.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mpsc-2022-ana-22",
+  "disciplina": "rlm",
+  "assunto": "rlm-numeros",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-SC",
+   "ano": 2022,
+   "cargo": "Analista de Dados e Pesquisas",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/mp_sc_2022_analista_de_dados_e_pesquisas_tipo_1.pdf"
+  },
+  "enunciado": "Uma das raízes do polinômio P(x) = x^3 + 2x^2 − 5x + m é 2. O produto das outras duas raízes desse polinômio é:",
+  "alternativas": [
+   "3;",
+   "−3;",
+   "6;",
+   "−6;",
+   "−4."
+  ],
+  "gabarito": 0,
+  "comentario": "Como 2 é raiz: P(2) = 8 + 8 − 10 + m = 0 → m = −6. Pelas relações de Girard, para x³ + bx² + cx + d, o produto das três raízes é −d = −(−6) = 6. Se uma raiz é 2, o produto das outras duas é 6 ÷ 2 = 3 (A). Conferindo: P(x) = (x − 2)(x² + 4x + 3), e o produto das raízes de x² + 4x + 3 é 3.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mpsc-2022-ana-23",
+  "disciplina": "rlm",
+  "assunto": "rlm-problemas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-SC",
+   "ano": 2022,
+   "cargo": "Analista de Dados e Pesquisas",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/mp_sc_2022_analista_de_dados_e_pesquisas_tipo_1.pdf"
+  },
+  "enunciado": "Duas urnas A e B têm, cada uma, 9 bolas numeradas. Na urna A há 4 bolas com números ímpares e 5 bolas com números pares. Na urna B há 5 bolas com números ímpares e 4 bolas com números pares. Retira-se, aleatoriamente, uma bola de cada urna. A probabilidade de que o produto dos números das bolas retiradas seja par é:",
+  "alternativas": [
+   "1/2;",
+   "4/9;",
+   "5/9;",
+   "20/81;",
+   "61/81."
+  ],
+  "gabarito": 4,
+  "comentario": "O produto só é ímpar se as duas bolas forem ímpares: P(ímpar) = (4/9) × (5/9) = 20/81. Pelo complementar, P(par) = 1 − 20/81 = 61/81 (E). A alternativa D (20/81) é justamente a probabilidade do evento contrário.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mpsc-2022-ana-24",
+  "disciplina": "rlm",
+  "assunto": "rlm-problemas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-SC",
+   "ano": 2022,
+   "cargo": "Analista de Dados e Pesquisas",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/mp_sc_2022_analista_de_dados_e_pesquisas_tipo_1.pdf"
+  },
+  "enunciado": "O número de anagramas da palavra ASSADO que não têm as 2 letras S juntas é:\nOBS.: Anagramas de uma palavra são as permutações das letras dessa palavra.",
+  "alternativas": [
+   "720;",
+   "360;",
+   "120;",
+   "84;",
+   "72."
+  ],
+  "gabarito": 2,
+  "comentario": "ASSADO tem 6 letras com A e S repetidos duas vezes: total = 6!/(2!·2!) = 720/4 = 180 anagramas. Com os dois S juntos, trate “SS” como um bloco: 5 elementos (SS, A, A, D, O), com A repetido: 5!/2! = 60. Sem os S juntos: 180 − 60 = 120 (C).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mpsc-2022-ana-25",
+  "disciplina": "rlm",
+  "assunto": "rlm-numeros",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-SC",
+   "ano": 2022,
+   "cargo": "Analista de Dados e Pesquisas",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/mp_sc_2022_analista_de_dados_e_pesquisas_tipo_1.pdf"
+  },
+  "enunciado": "Dadas as matrizes A = [−1 0; 2 3] e B = [2 −1; 1 2], a soma dos elementos da matriz AB − BA é:",
+  "alternativas": [
+   "0;",
+   "2;",
+   "4;",
+   "6;",
+   "8."
+  ],
+  "gabarito": 4,
+  "comentario": "AB = [(−1)(2)+0(1)  (−1)(−1)+0(2); 2(2)+3(1)  2(−1)+3(2)] = [−2 1; 7 4]. BA = [2(−1)+(−1)(2)  2(0)+(−1)(3); 1(−1)+2(2)  1(0)+2(3)] = [−4 −3; 3 6]. AB − BA = [2 4; 4 −2], cuja soma dos elementos é 2 + 4 + 4 − 2 = 8 (E). Lembre que o produto de matrizes não é comutativo, por isso AB − BA não é nula.",
+  "dificuldade": 3,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mpsc-2022-ana-26",
+  "disciplina": "rlm",
+  "assunto": "rlm-medidas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-SC",
+   "ano": 2022,
+   "cargo": "Analista de Dados e Pesquisas",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/mp_sc_2022_analista_de_dados_e_pesquisas_tipo_1.pdf"
+  },
+  "enunciado": "Em um retângulo, a base é o triplo da altura e x é o menor ângulo formado por suas diagonais. O valor de sen(x) + cos(x) é:\nObs: É dada a fórmula sen(2θ) = 2 ∙ sen(θ) ∙ cos(θ)",
+  "alternativas": [
+   "1,2;",
+   "1,4;",
+   "1,5;",
+   "1,6;",
+   "1,8."
+  ],
+  "gabarito": 1,
+  "comentario": "Seja a altura h e a base 3h. Cada diagonal forma com a base um ângulo θ com tg θ = h/3h = 1/3; a diagonal mede h√10, logo sen θ = 1/√10 e cos θ = 3/√10. O menor ângulo entre as diagonais é x = 2θ. sen x = 2·(1/√10)·(3/√10) = 6/10 = 0,6 e cos x = cos²θ − sen²θ = 9/10 − 1/10 = 0,8. Soma: 0,6 + 0,8 = 1,4 (B).",
+  "dificuldade": 3,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mpsc-2022-ana-27",
+  "disciplina": "rlm",
+  "assunto": "rlm-numeros",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-SC",
+   "ano": 2022,
+   "cargo": "Analista de Dados e Pesquisas",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/mp_sc_2022_analista_de_dados_e_pesquisas_tipo_1.pdf"
+  },
+  "enunciado": "No sistema\n3a + b + c + d = 16\na + 3b + c + d = 6\na + b + 3c + d = 14\na + b + c + 3d = 12\no valor de a é:",
+  "alternativas": [
+   "–1;",
+   "1;",
+   "2;",
+   "3;",
+   "4."
+  ],
+  "gabarito": 4,
+  "comentario": "Somando as quatro equações: 6(a + b + c + d) = 16 + 6 + 14 + 12 = 48, logo a + b + c + d = 8. A primeira equação pode ser escrita como 2a + (a + b + c + d) = 16 → 2a + 8 = 16 → a = 4 (E).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mpsc-2022-ana-28",
+  "disciplina": "rlm",
+  "assunto": "rlm-medidas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-SC",
+   "ano": 2022,
+   "cargo": "Analista de Dados e Pesquisas",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/mp_sc_2022_analista_de_dados_e_pesquisas_tipo_1.pdf"
+  },
+  "enunciado": "A figura a seguir mostra o triângulo retângulo ABC, com catetos de medidas AB = 4 e AC = 2. Uma semicircunferência tem centro sobre o lado AB e é tangente a BC.\n[Figura: triângulo com ângulo reto em A, AB horizontal e AC vertical; a semicircunferência tem o diâmetro sobre AB, começando no vértice A, e toca a hipotenusa BC]\nO raio dessa semicircunferência mede:",
+  "alternativas": [
+   "√2;",
+   "(√3+1)/2;",
+   "2√3/3;",
+   "√5/2;",
+   "√5 − 1."
+  ],
+  "gabarito": 4,
+  "comentario": "Pela figura, a semicircunferência parte de A, então seu centro O está sobre AB a uma distância r de A (e ela é tangente também a AC em A). A hipotenusa mede BC = √(4² + 2²) = 2√5 e OB = 4 − r. A distância de O a BC é r; pela semelhança entre o triângulo formado por O, B e o ponto de tangência e o triângulo ABC: r/(4 − r) = AC/BC = 2/(2√5) = 1/√5. Assim, r√5 = 4 − r → r = 4/(√5 + 1) = 4(√5 − 1)/4 = √5 − 1 (E).",
+  "dificuldade": 3,
+  "anulada": false
+ }
+]

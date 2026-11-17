@@ -1,0 +1,662 @@
+[
+  {
+    "id": "aut-esp-direitos-humanos-001",
+    "disciplina": "especificos",
+    "assunto": "esp-direitos-humanos",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Res. CFP nº 18/2002 – https://crpsp.org/uploads/legislacao/1540/flQplAj-v_rGRaCZ_kfuLhfsLE_1AsBq.pdf"
+    },
+    "enunciado": "Durante uma reunião de equipe em um serviço público, uma psicóloga presencia um colega fazer comentários depreciativos sobre usuários negros e não se manifesta, por considerar que \"não é assunto da Psicologia\". À luz da Resolução CFP nº 18/2002, a conduta da psicóloga",
+    "alternativas": [
+      "é adequada, pois a resolução trata apenas do uso de testes psicológicos.",
+      "é adequada, pois o dever de manifestação só existe quando a vítima solicita apoio.",
+      "é inadequada apenas se a psicóloga for a coordenadora técnica do serviço.",
+      "é adequada, pois a intervenção caberia exclusivamente ao Ministério Público.",
+      "é inadequada, pois os psicólogos, no exercício profissional, não serão coniventes nem se omitirão perante o crime de racismo."
+    ],
+    "gabarito": 4,
+    "comentario": "O art. 3º da Res. CFP 18/2002 determina que os psicólogos, no exercício profissional, não serão coniventes nem se omitirão perante o crime de racismo. O art. 1º impõe contribuir com o conhecimento para a reflexão sobre o preconceito e para a eliminação do racismo. A omissão em contexto profissional, portanto, contraria a norma, independentemente do cargo ocupado.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-direitos-humanos-002",
+    "disciplina": "especificos",
+    "assunto": "esp-direitos-humanos",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Res. CFP nº 18/2002 – https://crpsp.org/uploads/legislacao/1540/flQplAj-v_rGRaCZ_kfuLhfsLE_1AsBq.pdf"
+    },
+    "enunciado": "Convidado para um programa de televisão, um psicólogo afirma que \"certas raças têm, por natureza, menor controle dos impulsos\". Considerando a Resolução CFP nº 18/2002, essa conduta viola a determinação de que os psicólogos",
+    "alternativas": [
+      "não participarão de programas de televisão sem autorização prévia do Conselho Regional.",
+      "não se pronunciarão nem participarão de pronunciamentos públicos nos meios de comunicação de massa de modo a reforçar o preconceito racial.",
+      "só poderão falar publicamente sobre relações raciais se possuírem título de especialista.",
+      "deverão apresentar, em qualquer pronunciamento público, as referências bibliográficas utilizadas.",
+      "não poderão abordar o tema da raça em pronunciamentos públicos, por ser assunto alheio à Psicologia."
+    ],
+    "gabarito": 1,
+    "comentario": "A Res. CFP 18/2002 veda que psicólogos se pronunciem ou participem de pronunciamentos nos meios de comunicação de massa de modo a reforçar o preconceito racial. O art. 4º também proíbe usar instrumentos ou técnicas psicológicas para criar, manter ou reforçar preconceitos, estigmas, estereótipos ou discriminação racial. O tema não é vedado: a Psicologia deve contribuir para a eliminação do racismo.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-direitos-humanos-003",
+    "disciplina": "especificos",
+    "assunto": "esp-direitos-humanos",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "CFP/CREPOP. Relações raciais: referências técnicas para atuação de psicólogas(os), 2017 – https://crepop.cfp.org.br/"
+    },
+    "enunciado": "Em um serviço de saúde, usuárias negras relatam receber menos analgesia, esperar mais pelo atendimento e ter suas queixas desacreditadas, sem que haja norma explícita de discriminação. Segundo as referências técnicas do CREPOP sobre relações raciais, esse fenômeno é melhor descrito como",
+    "alternativas": [
+      "injúria racial, por envolver ofensa individual dirigida à honra da vítima.",
+      "preconceito individual, restrito às atitudes de alguns profissionais isolados.",
+      "racismo institucional, caracterizado pelo fracasso coletivo de uma organização em prover serviço adequado em razão da cor, cultura ou origem étnica, manifestado em normas, práticas e comportamentos cotidianos.",
+      "racismo reverso, pois decorre de políticas de ação afirmativa.",
+      "discriminação positiva, por ser uma diferenciação de tratamento justificada pela demanda."
+    ],
+    "gabarito": 2,
+    "comentario": "As referências do CREPOP (2017), com base na definição usada no Programa de Combate ao Racismo Institucional, descrevem o racismo institucional como fracasso das instituições em prover serviço profissional adequado às pessoas por sua cor, cultura, origem racial ou étnica. Ele se manifesta em normas, práticas e comportamentos discriminatórios do cotidiano de trabalho, mesmo sem regra explícita. A injúria e o preconceito individual não explicam desigualdades sistemáticas no serviço.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-direitos-humanos-004",
+    "disciplina": "especificos",
+    "assunto": "esp-direitos-humanos",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Portaria GM/MS nº 344/2017 (quesito raça/cor) – https://bvsms.saude.gov.br/bvs/saudelegis/gm/2017/prt0344_01_02_2017.html"
+    },
+    "enunciado": "Na ficha de acolhimento de um serviço do SUS, a psicóloga preenche o campo raça/cor do usuário com base em sua própria percepção, sem perguntar. Segundo a Portaria GM/MS nº 344/2017, o correto seria",
+    "alternativas": [
+      "registrar a percepção do profissional, por ser mais objetiva que a do usuário.",
+      "deixar o campo em branco, pois a coleta do quesito raça/cor é facultativa no SUS.",
+      "registrar raça/cor apenas em caso de doenças de prevalência étnica.",
+      "solicitar documento oficial que comprove a raça/cor declarada.",
+      "registrar o quesito raça/cor conforme a autodeclaração do usuário, usando as categorias do IBGE (branca, preta, parda, amarela e indígena)."
+    ],
+    "gabarito": 4,
+    "comentario": "A Portaria GM/MS 344/2017 torna obrigatória a coleta e o preenchimento do quesito raça/cor nos sistemas de informação em saúde, respeitando a autodeclaração do usuário. Ela adota as categorias do IBGE: branca, preta, parda, amarela e indígena. Para pessoas impossibilitadas de se autodeclarar, a declaração cabe a familiar ou responsável. A heteroclassificação pelo profissional contraria a norma.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-direitos-humanos-005",
+    "disciplina": "especificos",
+    "assunto": "esp-direitos-humanos",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Estatuto da Igualdade Racial (Lei nº 12.288/2010) – https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12288.htm"
+    },
+    "enunciado": "Segundo o Estatuto da Igualdade Racial (Lei nº 12.288/2010), a população negra é definida como",
+    "alternativas": [
+      "o conjunto de pessoas que se autodeclaram pretas e pardas, conforme o quesito cor ou raça usado pelo IBGE.",
+      "o conjunto de pessoas que se autodeclaram pretas, excluídas as pardas.",
+      "o conjunto de pessoas com ascendência africana comprovada por documento.",
+      "o conjunto de pessoas pretas, pardas e indígenas.",
+      "o conjunto de pessoas classificadas como negras por comissão de heteroidentificação."
+    ],
+    "gabarito": 0,
+    "comentario": "O art. 1º, parágrafo único, IV, do Estatuto da Igualdade Racial define população negra como o conjunto de pessoas que se autodeclaram pretas e pardas, conforme o quesito cor ou raça do IBGE, ou que adotam autodefinição análoga. Os indígenas são categoria própria. A definição se baseia na autodeclaração, e não em prova documental de ascendência.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-direitos-humanos-006",
+    "disciplina": "especificos",
+    "assunto": "esp-direitos-humanos",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "CFP/CREPOP. Relações raciais: referências técnicas para atuação de psicólogas(os), 2017 – https://crepop.cfp.org.br/"
+    },
+    "enunciado": "Nas referências técnicas do CREPOP sobre relações raciais e em autoras como Maria Aparecida Bento, a noção de branquitude refere-se",
+    "alternativas": [
+      "à identidade cultural de imigrantes europeus no Brasil.",
+      "a um transtorno de identidade racial descrito nos manuais diagnósticos.",
+      "ao lugar social de vantagem estrutural ocupado por pessoas brancas, frequentemente não nomeado e tomado como norma, que sustenta pactos de manutenção de privilégios.",
+      "à política de embranquecimento extinta com a abolição, sem efeitos atuais.",
+      "ao conjunto de pessoas brancas que praticam injúria racial."
+    ],
+    "gabarito": 2,
+    "comentario": "A branquitude designa a posição de privilégio simbólico e material das pessoas brancas em sociedades estruturadas pelo racismo, posição tomada como universal e raramente nomeada. Maria Aparecida Bento descreve o \"pacto narcísico da branquitude\" como acordo silencioso de manutenção desses privilégios. As referências do CREPOP convidam psicólogas(os) brancas(os) a reconhecer esse lugar na sua prática. O conceito é estrutural, não diagnóstico nem restrito a condutas criminosas.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-direitos-humanos-007",
+    "disciplina": "especificos",
+    "assunto": "esp-direitos-humanos",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Lei nº 14.532/2023 – https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14532.htm"
+    },
+    "enunciado": "A Lei nº 14.532/2023 alterou a Lei nº 7.716/1989 (Lei do Racismo) e produziu como efeito principal",
+    "alternativas": [
+      "a tipificação da injúria racial como crime de racismo, sujeito às mesmas consequências desse crime, como a imprescritibilidade e a inafiançabilidade.",
+      "a revogação do crime de injúria racial, substituído por infração administrativa.",
+      "a previsão de que o racismo passe a ser crime de ação penal privada.",
+      "a redução da pena do crime de racismo praticado em ambiente de trabalho.",
+      "a exclusão dos crimes praticados pela internet do alcance da Lei do Racismo."
+    ],
+    "gabarito": 0,
+    "comentario": "A Lei 14.532/2023 inseriu na Lei 7.716/1989 o crime de injuriar alguém em razão de raça, cor, etnia ou procedência nacional. Com isso, a injúria racial foi equiparada ao racismo, que a Constituição define como crime inafiançável e imprescritível (art. 5º, XLII). A lei também prevê aumento de pena em contextos como o recreativo e o de funcionário público no exercício da função.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-direitos-humanos-008",
+    "disciplina": "especificos",
+    "assunto": "esp-direitos-humanos",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Res. CFP nº 01/1999 – https://site.cfp.org.br/wp-content/uploads/1999/03/resolucao1999_1.pdf"
+    },
+    "enunciado": "Uma igreja convida uma psicóloga para coordenar um retiro voltado à \"cura\" de jovens homossexuais. Segundo a Resolução CFP nº 01/1999, a psicóloga",
+    "alternativas": [
+      "não deve colaborar com eventos e serviços que proponham tratamento e cura das homossexualidades.",
+      "pode participar, desde que os jovens sejam maiores de idade e tenham consentido.",
+      "pode participar, desde que não use testes psicológicos durante o evento.",
+      "pode participar apenas como ouvinte, sem conduzir atividades.",
+      "deve participar para garantir que as técnicas usadas sejam científicas."
+    ],
+    "gabarito": 0,
+    "comentario": "O parágrafo único do art. 3º da Res. CFP 01/1999 estabelece que os psicólogos não colaborarão com eventos e serviços que proponham tratamento e cura das homossexualidades. O caput veda ação que favoreça a patologização de comportamentos ou práticas homoeróticas e ação coercitiva para orientar homossexuais a tratamentos não solicitados. Como a homossexualidade não é doença, distúrbio nem perversão, não há o que \"curar\".",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-direitos-humanos-009",
+    "disciplina": "especificos",
+    "assunto": "esp-direitos-humanos",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Res. CFP nº 01/1999 – https://site.cfp.org.br/wp-content/uploads/1999/03/resolucao1999_1.pdf"
+    },
+    "enunciado": "Analise as afirmativas sobre a Resolução CFP nº 01/1999.\nI. Os psicólogos deverão contribuir, com seu conhecimento, para uma reflexão sobre o preconceito e o desaparecimento de discriminações contra quem apresenta comportamentos ou práticas homoeróticas.\nII. Os psicólogos não adotarão ação coercitiva tendente a orientar homossexuais para tratamentos não solicitados.\nIII. Os psicólogos não se pronunciarão, nos meios de comunicação de massa, de modo a reforçar o preconceito em relação aos homossexuais como portadores de qualquer desordem psíquica.\nEstá correto o que se afirma em",
+    "alternativas": [
+      "I, apenas.",
+      "I e II, apenas.",
+      "I e III, apenas.",
+      "II e III, apenas.",
+      "I, II e III."
+    ],
+    "gabarito": 4,
+    "comentario": "As três afirmativas correspondem ao texto da Res. CFP 01/1999. A I está no art. 2º, a II no art. 3º, caput, e a III no art. 4º. A resolução parte da premissa de que a homossexualidade não constitui doença, distúrbio nem perversão.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-direitos-humanos-010",
+    "disciplina": "especificos",
+    "assunto": "esp-direitos-humanos",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Res. CFP nº 01/2018 – https://site.cfp.org.br/wp-content/uploads/2018/01/Resolu%C3%A7%C3%A3o-CFP-01-2018.pdf"
+    },
+    "enunciado": "Uma mulher trans é encaminhada a uma psicóloga por um serviço de saúde para \"avaliar se ela é realmente trans\". À luz da Resolução CFP nº 01/2018, a psicóloga deve",
+    "alternativas": [
+      "aplicar testes de personalidade para confirmar ou refutar a identidade de gênero declarada.",
+      "reconhecer e legitimar a autodeterminação da pessoa em relação à sua identidade de gênero, sem atuar de forma patologizante.",
+      "realizar psicoterapia por no mínimo dois anos antes de reconhecer a identidade de gênero.",
+      "emitir laudo atestando transtorno de identidade de gênero, condição para qualquer atendimento.",
+      "recusar o atendimento, pois a identidade de gênero é matéria exclusivamente médica."
+    ],
+    "gabarito": 1,
+    "comentario": "A Res. CFP 01/2018 veda às psicólogas e aos psicólogos qualquer ação que favoreça a patologização das pessoas transexuais e travestis. Determina, ainda, que reconheçam e legitimem a autodeterminação dessas pessoas quanto à identidade de gênero. Também proíbe usar instrumentos ou técnicas psicológicas para criar, manter ou reforçar preconceitos, estigmas ou discriminação. O acompanhamento psicológico, quando houver, não se presta a \"validar\" a identidade.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-direitos-humanos-011",
+    "disciplina": "especificos",
+    "assunto": "esp-direitos-humanos",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Res. CFP nº 01/2018 – https://site.cfp.org.br/wp-content/uploads/2018/01/Resolu%C3%A7%C3%A3o-CFP-01-2018.pdf"
+    },
+    "enunciado": "A Resolução CFP nº 01/2018, que estabelece normas de atuação em relação às pessoas transexuais e travestis, veda às psicólogas e aos psicólogos",
+    "alternativas": [
+      "atender pessoas transexuais menores de 18 anos.",
+      "emitir qualquer documento psicológico a pessoas transexuais e travestis.",
+      "propor, realizar ou colaborar com eventos ou serviços que visem a terapias de conversão, reversão, readequação ou reorientação de identidade de gênero.",
+      "acompanhar pessoas trans em processos de transição de gênero no SUS.",
+      "abordar questões de identidade de gênero em psicoterapia, salvo a pedido do usuário."
+    ],
+    "gabarito": 2,
+    "comentario": "A Res. CFP 01/2018 veda propor, realizar ou colaborar, sob perspectiva patologizante, com eventos ou serviços privados, públicos, institucionais, comunitários ou promocionais que visem a terapias de conversão, reversão, readequação ou reorientação de identidade de gênero. A resolução não proíbe o atendimento a pessoas trans, inclusive adolescentes, nem a emissão de documentos ou o acompanhamento no processo transexualizador. O que se proíbe é a abordagem patologizante e discriminatória.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-direitos-humanos-012",
+    "disciplina": "especificos",
+    "assunto": "esp-direitos-humanos",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Res. CFP nº 08/2022 – https://abmes.org.br/public/arquivos/legislacoes/Resolucao-CFP-008-2022-05-17.pdf"
+    },
+    "enunciado": "Um paciente bissexual relata ao psicólogo que já ouviu de outros profissionais que sua orientação seria \"uma fase de indecisão\". Segundo a Resolução CFP nº 08/2022, cabe ao psicólogo",
+    "alternativas": [
+      "investigar se a bissexualidade é uma etapa de transição para a homossexualidade.",
+      "considerar a bissexualidade legítima apenas quando acompanhada de relacionamentos com pessoas de ambos os gêneros.",
+      "encaminhar o paciente a psiquiatra para avaliar transtorno de identidade.",
+      "reconhecer as bissexualidades como legítimas, sem vinculá-las às homossexualidades ou às heterossexualidades, e não reproduzir discursos que as associem a indecisão ou confusão.",
+      "abster-se de qualquer posicionamento, pois a resolução trata apenas de pronunciamentos públicos."
+    ],
+    "gabarito": 3,
+    "comentario": "A Res. CFP 08/2022 manda reconhecer as bissexualidades e demais orientações não monossexuais como legítimas, sem vinculá-las às homossexualidades ou às heterossexualidades (art. 3º, IV). Também veda reproduzir discursos estigmatizantes que as tratem como imoralidade, desvio de caráter, indecisão ou confusão (art. 4º, V). O art. 6º proíbe processos de conversão ou reorientação dessas pessoas.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-direitos-humanos-013",
+    "disciplina": "especificos",
+    "assunto": "esp-direitos-humanos",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Res. CFP nº 06/2019 – https://abmes.org.br/public/arquivos/legislacoes/Resolucao-CFP-006-2019-03-29.pdf"
+    },
+    "enunciado": "Ao elaborar um relatório psicológico sobre uma adolescente trans, a psicóloga deve identificá-la, segundo a Resolução CFP nº 06/2019,",
+    "alternativas": [
+      "obrigatoriamente pelo nome civil, por ser documento com efeitos legais.",
+      "pelo nome civil, mencionando o nome social apenas na análise.",
+      "pelas iniciais, para não expor sua identidade de gênero.",
+      "pelo nome social somente se houver retificação de registro civil.",
+      "pelo nome completo ou pelo nome social completo."
+    ],
+    "gabarito": 4,
+    "comentario": "Em todas as modalidades documentais, a Res. 06/2019 prevê a identificação da pessoa atendida pelo nome completo ou nome social completo. O art. 6º, §3º, ancora a linguagem dos documentos na garantia dos direitos humanos e nas Res. CFP 01/1999, 18/2002 e 01/2018. Usar o nome social não depende de retificação civil e reconhece a identidade de gênero.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-direitos-humanos-014",
+    "disciplina": "especificos",
+    "assunto": "esp-direitos-humanos",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Código de Ética Profissional do Psicólogo – https://site.cfp.org.br/wp-content/uploads/2012/07/codigo-de-etica-psicologia.pdf"
+    },
+    "enunciado": "O Código de Ética Profissional do Psicólogo estabelece como princípio fundamental que o psicólogo trabalhará visando promover a saúde e a qualidade de vida das pessoas e das coletividades e contribuirá para a eliminação de quaisquer formas de",
+    "alternativas": [
+      "conflito entre a Psicologia e as demais profissões da saúde.",
+      "concorrência desleal entre profissionais da Psicologia.",
+      "negligência, discriminação, exploração, violência, crueldade e opressão.",
+      "questionamento das instituições públicas pelos usuários.",
+      "intervenção estatal na prática clínica privada."
+    ],
+    "gabarito": 2,
+    "comentario": "O princípio fundamental II do Código de Ética determina que o psicólogo trabalhe para promover a saúde e a qualidade de vida das pessoas e coletividades e contribua para eliminar quaisquer formas de negligência, discriminação, exploração, violência, crueldade e opressão. Esse princípio dá base às resoluções sobre relações raciais, gênero, sexualidade e laicidade. A mesma fórmula aparece no art. 2º da Res. 13/2022.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-direitos-humanos-015",
+    "disciplina": "especificos",
+    "assunto": "esp-direitos-humanos",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "BOCK, A. M. B. (org.). Psicologia e o compromisso social. São Paulo: Cortez, 2003"
+    },
+    "enunciado": "A noção de compromisso social da Psicologia, desenvolvida no Brasil por autoras como Ana Bock a partir dos anos 1980, caracteriza-se por",
+    "alternativas": [
+      "restringir a atuação da Psicologia ao consultório particular, garantindo a neutralidade técnica.",
+      "defender uma Psicologia comprometida com a transformação das condições de vida da maioria da população, crítica à neutralidade e à naturalização dos fenômenos psicológicos.",
+      "substituir o conhecimento científico por ações de militância política partidária.",
+      "afirmar que os fenômenos psicológicos são universais e independentes do contexto histórico.",
+      "transferir para o Estado a responsabilidade exclusiva pelas questões de saúde mental."
+    ],
+    "gabarito": 1,
+    "comentario": "O compromisso social, sistematizado por Bock e outros autores da Psicologia sócio-histórica, critica a Psicologia elitista, voltada às camadas privilegiadas e baseada em uma visão naturalizante do psiquismo. Ele propõe uma profissão engajada com as necessidades da maioria da população e com a transformação social. Essa perspectiva aparece no princípio fundamental III do Código de Ética, que pede análise crítica da realidade política, econômica, social e cultural. Não se confunde com militância partidária.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-direitos-humanos-016",
+    "disciplina": "especificos",
+    "assunto": "esp-direitos-humanos",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "CRENSHAW, K. Documento para o encontro de especialistas em aspectos da discriminação racial relativos ao gênero. Revista Estudos Feministas, 2002"
+    },
+    "enunciado": "Uma psicóloga analisa a situação de uma trabalhadora doméstica negra, lésbica e moradora de periferia, considerando que as opressões de raça, gênero, sexualidade e classe não se somam simplesmente, mas se entrecruzam e produzem experiências específicas. Essa perspectiva corresponde ao conceito de",
+    "alternativas": [
+      "meritocracia.",
+      "multiculturalismo.",
+      "interseccionalidade.",
+      "relativismo cultural.",
+      "democracia racial."
+    ],
+    "gabarito": 2,
+    "comentario": "Interseccionalidade, conceito formulado por Kimberlé Crenshaw, é a análise de como diferentes eixos de subordinação (raça, gênero, classe, sexualidade, entre outros) se cruzam e geram formas específicas de discriminação. A Res. CFP 13/2022 inclui a dimensão interseccional entre os princípios da psicoterapia (art. 2º, V), e a Res. CFP 08/2022 pede reconhecer as intersecções de marcadores sociais (art. 3º, III). A \"democracia racial\" é um mito que nega o racismo.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-direitos-humanos-017",
+    "disciplina": "especificos",
+    "assunto": "esp-direitos-humanos",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Lei Brasileira de Inclusão (Lei nº 13.146/2015) – https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm"
+    },
+    "enunciado": "Segundo a Lei Brasileira de Inclusão (Lei nº 13.146/2015), considera-se pessoa com deficiência aquela que",
+    "alternativas": [
+      "apresenta doença crônica que a incapacita para o trabalho, conforme perícia médica do INSS.",
+      "tem impedimento de longo prazo de natureza física, mental, intelectual ou sensorial, o qual, em interação com uma ou mais barreiras, pode obstruir sua participação plena e efetiva na sociedade em igualdade de condições.",
+      "possui laudo médico com CID que comprove limitação funcional permanente.",
+      "tem limitação física ou sensorial, excluídas as condições mentais e intelectuais.",
+      "apresenta qualquer impedimento, ainda que temporário, independentemente das barreiras do ambiente."
+    ],
+    "gabarito": 1,
+    "comentario": "O art. 2º da LBI adota o modelo social e biopsicossocial: a deficiência resulta da interação entre impedimentos de longo prazo e barreiras. O conceito abrange impedimentos físicos, mentais, intelectuais e sensoriais. A definição não depende só de laudo médico nem de incapacidade para o trabalho.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-direitos-humanos-018",
+    "disciplina": "especificos",
+    "assunto": "esp-direitos-humanos",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Lei Brasileira de Inclusão (Lei nº 13.146/2015) – https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm"
+    },
+    "enunciado": "Nos termos da Lei Brasileira de Inclusão, a avaliação da deficiência, quando necessária, será",
+    "alternativas": [
+      "exclusivamente médica, com base na Classificação Internacional de Doenças.",
+      "biopsicossocial, realizada por equipe multiprofissional e interdisciplinar, considerando impedimentos nas funções e estruturas do corpo, fatores socioambientais, psicológicos e pessoais, limitação no desempenho de atividades e restrição de participação.",
+      "realizada por psicólogo, com aplicação obrigatória de testes de inteligência.",
+      "autodeclaratória, dispensada qualquer avaliação técnica.",
+      "realizada pelo Poder Judiciário, mediante perícia em processo de curatela."
+    ],
+    "gabarito": 1,
+    "comentario": "O art. 2º, §1º, da LBI estabelece que a avaliação da deficiência, quando necessária, será biopsicossocial e feita por equipe multiprofissional e interdisciplinar. Ela considera quatro dimensões: funções e estruturas do corpo, fatores socioambientais, psicológicos e pessoais, limitação no desempenho de atividades e restrição de participação. Essa avaliação supera o modelo exclusivamente biomédico.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-direitos-humanos-019",
+    "disciplina": "especificos",
+    "assunto": "esp-direitos-humanos",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Lei Brasileira de Inclusão (Lei nº 13.146/2015) – https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm"
+    },
+    "enunciado": "Uma jovem com deficiência intelectual deseja casar-se e ter filhos, mas a família pede à equipe do CRAS orientação para \"impedir legalmente\" esses planos. Segundo a Lei Brasileira de Inclusão,",
+    "alternativas": [
+      "a deficiência não afeta a plena capacidade civil da pessoa, inclusive para casar-se, exercer direitos sexuais e reprodutivos e decidir sobre o número de filhos.",
+      "a família pode impedir o casamento, pois a deficiência intelectual gera incapacidade civil absoluta.",
+      "o casamento depende de autorização judicial prévia em todos os casos de deficiência intelectual.",
+      "a esterilização pode ser determinada pela família quando houver risco de gravidez.",
+      "a curatela permite ao curador decidir sobre casamento e sexualidade da curatelada."
+    ],
+    "gabarito": 0,
+    "comentario": "O art. 6º da LBI garante que a deficiência não afeta a plena capacidade civil, inclusive para casar, exercer direitos sexuais e reprodutivos, decidir sobre o número de filhos e conservar a fertilidade, vedada a esterilização compulsória. Mesmo quando há curatela, ela alcança apenas atos patrimoniais e negociais. Ela não abrange o direito ao próprio corpo, à sexualidade e ao matrimônio (art. 85, §1º).",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-direitos-humanos-020",
+    "disciplina": "especificos",
+    "assunto": "esp-direitos-humanos",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Lei Brasileira de Inclusão (Lei nº 13.146/2015) – https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm"
+    },
+    "enunciado": "Sobre a curatela e a tomada de decisão apoiada após a Lei Brasileira de Inclusão, é correto afirmar que",
+    "alternativas": [
+      "a curatela é a regra para pessoas com deficiência mental, devendo ser requerida logo após o diagnóstico.",
+      "a curatela alcança todos os atos da vida civil, inclusive o direito ao voto e ao trabalho.",
+      "na tomada de decisão apoiada, o apoiador substitui a vontade da pessoa apoiada.",
+      "a curatela é medida protetiva extraordinária, proporcional e pelo menor tempo possível, restrita aos atos de natureza patrimonial e negocial; na tomada de decisão apoiada, a pessoa elege ao menos duas pessoas idôneas para apoiá-la.",
+      "a tomada de decisão apoiada é imposta pelo juiz a pedido da família, sem participação da pessoa."
+    ],
+    "gabarito": 3,
+    "comentario": "Os arts. 84 e 85 da LBI tratam a curatela como medida extraordinária, proporcional às necessidades e de menor duração possível, limitada a atos patrimoniais e negociais. Ela não alcança corpo, sexualidade, matrimônio, privacidade, educação, saúde, trabalho e voto. A tomada de decisão apoiada (art. 1.783-A do Código Civil) é requerida pela própria pessoa, que elege pelo menos duas pessoas idôneas de sua confiança para apoiá-la, sem substituição da sua vontade.",
+    "dificuldade": 3,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-direitos-humanos-021",
+    "disciplina": "especificos",
+    "assunto": "esp-direitos-humanos",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Lei Brasileira de Inclusão (Lei nº 13.146/2015) – https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm"
+    },
+    "enunciado": "Uma escola recusa a matrícula de um estudante cego alegando que \"os professores não estão preparados\" e que ele \"ficaria melhor em instituição especializada\". Na classificação da Lei Brasileira de Inclusão, a resistência dos professores e da gestão configura principalmente barreira",
+    "alternativas": [
+      "arquitetônica.",
+      "urbanística.",
+      "tecnológica.",
+      "nos transportes.",
+      "atitudinal."
+    ],
+    "gabarito": 4,
+    "comentario": "O art. 3º, IV, da LBI classifica as barreiras em urbanísticas, arquitetônicas, nos transportes, nas comunicações e na informação, atitudinais e tecnológicas. As barreiras atitudinais são atitudes ou comportamentos que impedem ou prejudicam a participação social da pessoa com deficiência em igualdade de condições. A recusa de matrícula também configura discriminação (art. 4º, §1º) e viola o direito à educação inclusiva.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-direitos-humanos-022",
+    "disciplina": "especificos",
+    "assunto": "esp-direitos-humanos",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Lei Brasileira de Inclusão (Lei nº 13.146/2015) – https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm"
+    },
+    "enunciado": "Uma empresa contrata uma psicóloga surda e se recusa a disponibilizar intérprete de Libras nas reuniões, embora o custo seja proporcional e não excessivo. Segundo a Lei Brasileira de Inclusão, essa conduta",
+    "alternativas": [
+      "configura discriminação em razão da deficiência, pois a recusa de adaptações razoáveis e de tecnologias assistivas está incluída nesse conceito.",
+      "é lícita, pois a empresa cumpriu a cota legal ao contratar a profissional.",
+      "é lícita, pois adaptações razoáveis são mera recomendação.",
+      "configura apenas barreira arquitetônica, sem implicações de discriminação.",
+      "só seria discriminatória se a profissional tivesse sido dispensada."
+    ],
+    "gabarito": 0,
+    "comentario": "O art. 4º, §1º, da LBI considera discriminação toda distinção, restrição ou exclusão, por ação ou omissão, que prejudique ou anule o exercício de direitos, incluída a recusa de adaptações razoáveis e de tecnologias assistivas. Adaptações razoáveis são modificações necessárias que não acarretem ônus desproporcional ou indevido (art. 3º, VI). O intérprete de Libras viabiliza a comunicação e a participação plena.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-direitos-humanos-023",
+    "disciplina": "especificos",
+    "assunto": "esp-direitos-humanos",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "MELLO, A. G. Deficiência, incapacidade e vulnerabilidade: do capacitismo ou a preeminência capacitista e biomédica do Comitê de Ética em Pesquisa da UFSC. Ciência & Saúde Coletiva, 2016"
+    },
+    "enunciado": "O termo capacitismo designa",
+    "alternativas": [
+      "a política de cotas para pessoas com deficiência no mercado de trabalho.",
+      "o conjunto de avaliações que medem a capacidade laboral para fins previdenciários.",
+      "a valorização das habilidades individuais em processos seletivos.",
+      "a discriminação e o preconceito contra pessoas com deficiência, baseados na suposição de que corpos e mentes considerados \"capazes\" são a norma e de que a deficiência seria inferioridade.",
+      "o modelo biopsicossocial de avaliação da deficiência adotado pela LBI."
+    ],
+    "gabarito": 3,
+    "comentario": "Capacitismo é a opressão e a discriminação contra pessoas com deficiência, que toma um padrão corporal e funcional como normal e trata a deficiência como falta, tragédia ou incapacidade. Ele se manifesta em atitudes, linguagem, instituições e políticas, inclusive de forma estrutural. A Res. CFP 07/2023 cita o capacitismo entre as violações de direitos que a psicóloga não pode promover.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-direitos-humanos-024",
+    "disciplina": "especificos",
+    "assunto": "esp-direitos-humanos",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Lei Brasileira de Inclusão (Lei nº 13.146/2015) – https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm"
+    },
+    "enunciado": "Uma psicóloga de um hospital público atende um homem com deficiência física que apresenta sinais de agressões recorrentes praticadas pelo cuidador. Segundo a Lei Brasileira de Inclusão, os casos de suspeita ou confirmação de violência contra pessoa com deficiência",
+    "alternativas": [
+      "serão objeto de notificação compulsória pelos serviços de saúde públicos e privados à autoridade policial e ao Ministério Público, além dos Conselhos dos Direitos da Pessoa com Deficiência.",
+      "só podem ser comunicados se a vítima autorizar expressamente, em qualquer circunstância.",
+      "devem ser comunicados apenas à família, para que esta tome as providências.",
+      "devem ser notificados somente quando confirmados por perícia médica.",
+      "são de comunicação facultativa, cabendo ao profissional avaliar a conveniência."
+    ],
+    "gabarito": 0,
+    "comentario": "O art. 26 da LBI prevê a notificação compulsória, pelos serviços de saúde públicos e privados, dos casos de suspeita ou confirmação de violência contra pessoa com deficiência. A notificação vai à autoridade policial, ao Ministério Público e aos Conselhos dos Direitos da Pessoa com Deficiência. A suspeita basta, sem exigência de confirmação pericial. A comunicação deve se limitar ao estritamente necessário, conforme o Código de Ética.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-direitos-humanos-025",
+    "disciplina": "especificos",
+    "assunto": "esp-direitos-humanos",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Lei Maria da Penha (Lei nº 11.340/2006) – https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm"
+    },
+    "enunciado": "Uma mulher relata à psicóloga que o companheiro controla suas roupas, proíbe contatos com amigas, monitora seu celular e a humilha constantemente, causando-lhe dano emocional. Segundo a Lei Maria da Penha, essas condutas configuram violência",
+    "alternativas": [
+      "moral.",
+      "psicológica.",
+      "patrimonial.",
+      "física.",
+      "institucional."
+    ],
+    "gabarito": 1,
+    "comentario": "O art. 7º, II, da Lei 11.340/2006 define violência psicológica como conduta que cause dano emocional, diminuição da autoestima ou prejuízo ao pleno desenvolvimento, ou que vise degradar ou controlar ações, comportamentos, crenças e decisões. Inclui ameaça, constrangimento, humilhação, manipulação, isolamento, vigilância constante e limitação do direito de ir e vir. A violência moral é calúnia, difamação ou injúria. A patrimonial atinge bens, documentos e recursos.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-direitos-humanos-026",
+    "disciplina": "especificos",
+    "assunto": "esp-direitos-humanos",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Lei nº 10.778/2003 (red. Lei 13.931/2019) – https://www.planalto.gov.br/ccivil_03/leis/2003/l10.778.htm"
+    },
+    "enunciado": "Uma psicóloga de UBS atende uma mulher com indícios de violência doméstica. Segundo a Lei nº 10.778/2003, com a redação da Lei nº 13.931/2019,",
+    "alternativas": [
+      "a notificação só é obrigatória em serviços públicos e quando houver confirmação da violência.",
+      "a comunicação à autoridade policial depende de representação formal da vítima.",
+      "os casos com indícios ou confirmação de violência contra a mulher atendida em serviços de saúde públicos e privados são de notificação compulsória e devem ser comunicados à autoridade policial em até 24 horas.",
+      "a notificação deve ser feita em até 30 dias, apenas para fins estatísticos.",
+      "a notificação é obrigatória apenas para violência física, excluídas as violências psicológica e sexual."
+    ],
+    "gabarito": 2,
+    "comentario": "A Lei 10.778/2003 institui a notificação compulsória dos casos de violência contra a mulher atendida em serviços de saúde públicos e privados. A Lei 13.931/2019 acrescentou que os casos com indícios ou confirmação de violência devem ser comunicados à autoridade policial em até 24 horas, para as providências cabíveis e para fins estatísticos. O conceito abrange violência física, sexual e psicológica, e a psicóloga deve limitar a comunicação ao estritamente necessário.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-direitos-humanos-027",
+    "disciplina": "especificos",
+    "assunto": "esp-direitos-humanos",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "ECA (Lei nº 8.069/1990) – https://www.planalto.gov.br/ccivil_03/leis/l8069.htm | Res. CFP nº 13/2022 – https://abmes.org.br/public/arquivos/legislacoes/Resolucao-CFP-013-2022-06-15.pdf"
+    },
+    "enunciado": "Em psicoterapia, uma adolescente de 13 anos revela à psicóloga que vem sendo abusada sexualmente por um vizinho. Considerando o ECA e a Resolução CFP nº 13/2022, a psicóloga deve",
+    "alternativas": [
+      "manter sigilo absoluto, pois a revelação ocorreu em contexto psicoterápico.",
+      "aguardar que a própria adolescente decida denunciar, respeitando sua autonomia.",
+      "confrontar o vizinho para confirmar a veracidade do relato antes de comunicar.",
+      "preencher o formulário de notificação obrigatória e comunicar o caso ao Conselho Tutelar ou à autoridade competente, prestando apenas as informações estritamente necessárias.",
+      "comunicar apenas aos pais, que decidirão sobre o registro de ocorrência."
+    ],
+    "gabarito": 3,
+    "comentario": "O art. 13 do ECA impõe a comunicação ao Conselho Tutelar dos casos de suspeita ou confirmação de violência contra criança ou adolescente. O art. 13 da Res. CFP 13/2022 determina que, diante de informação sobre violência ou suspeita, o psicoterapeuta preencha o formulário de notificação do Ministério da Saúde e o encaminhe ao Conselho Tutelar ou à autoridade competente. A quebra de sigilo segue o menor prejuízo e o mínimo necessário (art. 10 do Código de Ética e art. 10 da Res. 13/2022).",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-direitos-humanos-028",
+    "disciplina": "especificos",
+    "assunto": "esp-direitos-humanos",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Estatuto da Pessoa Idosa (Lei nº 10.741/2003) – https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741.htm"
+    },
+    "enunciado": "Segundo o Estatuto da Pessoa Idosa (Lei nº 10.741/2003), os casos de suspeita ou confirmação de violência praticada contra pessoas idosas",
+    "alternativas": [
+      "devem ser comunicados apenas quando a pessoa idosa for considerada incapaz.",
+      "dependem de autorização da família para serem comunicados.",
+      "são de comunicação facultativa, exceto em instituições de longa permanência.",
+      "devem ser comunicados exclusivamente ao Conselho Tutelar.",
+      "serão objeto de notificação compulsória pelos serviços de saúde públicos e privados à autoridade sanitária, sendo também comunicados a órgãos como autoridade policial, Ministério Público e Conselhos da Pessoa Idosa."
+    ],
+    "gabarito": 4,
+    "comentario": "O art. 19 do Estatuto da Pessoa Idosa prevê a notificação compulsória, pelos serviços de saúde públicos e privados, dos casos de suspeita ou confirmação de violência contra pessoa idosa. A notificação vai à autoridade sanitária e a comunicação também vai à autoridade policial, ao Ministério Público e aos Conselhos da Pessoa Idosa. A norma não depende de anuência familiar. O Conselho Tutelar atua na proteção de crianças e adolescentes.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-direitos-humanos-029",
+    "disciplina": "especificos",
+    "assunto": "esp-direitos-humanos",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Lei nº 13.431/2017 – https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13431.htm"
+    },
+    "enunciado": "Uma criança vítima de violência sexual é obrigada a relatar os fatos repetidas vezes, em diferentes serviços, sem articulação entre eles, o que lhe causa sofrimento adicional. A Lei nº 13.431/2017 classifica essa situação como violência",
+    "alternativas": [
+      "psicológica, por ser praticada pelos familiares da vítima.",
+      "patrimonial, por gerar custos à família com deslocamentos.",
+      "sexual, por ter relação com o fato originalmente denunciado.",
+      "institucional, praticada por instituição pública ou conveniada, inclusive quando gera revitimização.",
+      "simbólica, sem previsão na legislação de proteção à infância."
+    ],
+    "gabarito": 3,
+    "comentario": "O art. 4º, IV, da Lei 13.431/2017 define violência institucional como a praticada por instituição pública ou conveniada, inclusive quando gerar revitimização. A lei cria a escuta especializada e o depoimento especial e exige integração da rede justamente para evitar relatos repetidos. A Psicologia, nesse contexto, deve atuar de forma articulada e protetiva.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-direitos-humanos-030",
+    "disciplina": "especificos",
+    "assunto": "esp-direitos-humanos",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Res. CFP nº 07/2023 – https://abmes.org.br/arquivos/legislacoes/Resolucao-cfp-007-2023-04-06.pdf"
+    },
+    "enunciado": "Uma psicóloga, adepta de determinada religião, comenta com um usuário praticante do candomblé que sua \"religião atrai coisas ruins\" e sugere que ele \"procure outra fé\". À luz da Resolução CFP nº 07/2023, essa conduta",
+    "alternativas": [
+      "é permitida, por se tratar de liberdade de expressão religiosa da profissional.",
+      "é permitida se feita fora do horário da sessão.",
+      "só seria vedada se a psicóloga cobrasse pela orientação religiosa.",
+      "é vedada, pois a psicóloga não pode induzir a crenças religiosas nem promover ou legitimar práticas de intolerância e racismo religioso contra comunidades de matriz africana.",
+      "é vedada apenas em serviços públicos, por força da laicidade do Estado."
+    ],
+    "gabarito": 3,
+    "comentario": "O art. 3º da Res. CFP 07/2023 veda induzir a crenças religiosas ou a qualquer tipo de preconceito no exercício profissional (inciso II). Também veda exercer ação que promova ou legitime intolerância e racismo religioso contra indivíduos e comunidades de matriz africana, indígenas e tradicionais (inciso VII). A vedação vale em qualquer contexto de exercício profissional, público ou privado.",
+    "dificuldade": 1,
+    "anulada": false
+  }
+]

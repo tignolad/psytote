@@ -1,0 +1,254 @@
+[
+  {
+    "id": "aut-rlm-medidas-001",
+    "disciplina": "rlm",
+    "assunto": "rlm-medidas",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Em uma caminhada, Joana percorreu 2,5 km, depois 340 m e, por fim, 1.600 cm. A distância total percorrida foi de:",
+    "alternativas": [
+      "2.536 m",
+      "2.856 m",
+      "2.996 m",
+      "4.100 m",
+      "4.440 m"
+    ],
+    "gabarito": 1,
+    "comentario": "Convertendo para metros: 2,5 km = 2.500 m; 1.600 cm = 16 m. Total: 2.500 + 340 + 16 = 2.856 m. Erro comum: tomar 1.600 cm como 160 m (daria 3.000 m) ou somar sem converter.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-rlm-medidas-002",
+    "disciplina": "rlm",
+    "assunto": "rlm-medidas",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Uma psicóloga fará 7 atendimentos seguidos de 50 minutos cada, com intervalo de 10 minutos entre um atendimento e o seguinte. Se o primeiro começa às 8h, o último termina às:",
+    "alternativas": [
+      "14h00",
+      "14h10",
+      "14h50",
+      "15h00",
+      "15h10"
+    ],
+    "gabarito": 2,
+    "comentario": "Há 7 atendimentos e apenas 6 intervalos (entre eles). Tempo total: 7 × 50 + 6 × 10 = 350 + 60 = 410 min = 6 h 50 min. 8h + 6h50 = 14h50. Contar 7 intervalos levaria a 15h00.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-rlm-medidas-003",
+    "disciplina": "rlm",
+    "assunto": "rlm-medidas",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Uma sala retangular mede 5 m por 3,6 m. O piso escolhido custa R$ 45,00 por metro quadrado. O custo do piso para cobrir toda a sala será de:",
+    "alternativas": [
+      "R$ 650,00",
+      "R$ 720,00",
+      "R$ 765,00",
+      "R$ 810,00",
+      "R$ 900,00"
+    ],
+    "gabarito": 3,
+    "comentario": "Área: 5 × 3,6 = 18 m². Custo: 18 × 45 = R$ 810,00. Usar o perímetro (17,2 m) no lugar da área é um erro típico.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-rlm-medidas-004",
+    "disciplina": "rlm",
+    "assunto": "rlm-medidas",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Uma caixa-d'água em forma de paralelepípedo tem dimensões internas de 1,2 m, 0,8 m e 0,5 m. Sua capacidade, em litros, é:",
+    "alternativas": [
+      "4,8",
+      "48",
+      "96",
+      "480",
+      "4.800"
+    ],
+    "gabarito": 3,
+    "comentario": "Volume: 1,2 × 0,8 × 0,5 = 0,48 m³. Como 1 m³ = 1.000 L, a capacidade é 0,48 × 1.000 = 480 L.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-rlm-medidas-005",
+    "disciplina": "rlm",
+    "assunto": "rlm-medidas",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Para um evento, foram comprados 3 pacotes de café de 750 g cada e 2 pacotes de açúcar de 1,2 kg cada. A massa total comprada foi de:",
+    "alternativas": [
+      "4,65 kg",
+      "4,95 kg",
+      "5,25 kg",
+      "5,40 kg",
+      "6,00 kg"
+    ],
+    "gabarito": 0,
+    "comentario": "Café: 3 × 750 g = 2.250 g = 2,25 kg. Açúcar: 2 × 1,2 kg = 2,4 kg. Total: 2,25 + 2,4 = 4,65 kg.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-rlm-medidas-006",
+    "disciplina": "rlm",
+    "assunto": "rlm-medidas",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Uma tarefa administrativa durou 2,35 horas. Essa duração corresponde a:",
+    "alternativas": [
+      "2 h 3 min 30 s",
+      "2 h 21 min",
+      "2 h 30 min",
+      "2 h 35 min",
+      "2 h 53 min"
+    ],
+    "gabarito": 1,
+    "comentario": "A parte decimal é fração de hora, não minutos: 0,35 h × 60 = 21 min. Logo, 2,35 h = 2 h 21 min. Ler “2,35 h” como 2 h 35 min é o erro mais comum.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-rlm-medidas-007",
+    "disciplina": "rlm",
+    "assunto": "rlm-medidas",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Um frasco contém 0,25 L de um xarope. A prescrição é de 5 mL, três vezes ao dia. O frasco é suficiente para quantos dias completos de tratamento?",
+    "alternativas": [
+      "10",
+      "12",
+      "15",
+      "16",
+      "17"
+    ],
+    "gabarito": 3,
+    "comentario": "0,25 L = 250 mL. Consumo diário: 3 × 5 = 15 mL. 250/15 ≈ 16,67, ou seja, 16 dias completos (no 17º dia sobra só 10 mL, menos que os 15 mL necessários).",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-rlm-medidas-008",
+    "disciplina": "rlm",
+    "assunto": "rlm-medidas",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Um terreno quadrado tem 144 m² de área. Para cercá-lo, serão dadas 3 voltas completas de arame ao longo de todo o seu contorno. A quantidade de arame necessária é de:",
+    "alternativas": [
+      "12 m",
+      "36 m",
+      "48 m",
+      "96 m",
+      "144 m"
+    ],
+    "gabarito": 4,
+    "comentario": "Lado: √144 = 12 m. Perímetro: 4 × 12 = 48 m. Três voltas: 3 × 48 = 144 m. A coincidência numérica com a área é casual; as grandezas (m² e m) são diferentes.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-rlm-medidas-009",
+    "disciplina": "rlm",
+    "assunto": "rlm-medidas",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Uma pessoa caminhou 4,8 km em 1 hora e 12 minutos. Sua velocidade média, em km/h, foi de:",
+    "alternativas": [
+      "3,2",
+      "3,6",
+      "4,0",
+      "4,5",
+      "4,8"
+    ],
+    "gabarito": 2,
+    "comentario": "1 h 12 min = 1 + 12/60 = 1,2 h. Velocidade média: 4,8/1,2 = 4,0 km/h. Tratar 1 h 12 min como 1,12 h é o erro a evitar.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-rlm-medidas-010",
+    "disciplina": "rlm",
+    "assunto": "rlm-medidas",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Um terreno de 2,5 hectares será dividido em lotes de 500 m² cada, sem sobras. O número de lotes será:",
+    "alternativas": [
+      "50",
+      "125",
+      "250",
+      "500",
+      "5.000"
+    ],
+    "gabarito": 0,
+    "comentario": "1 hectare = 10.000 m², logo 2,5 ha = 25.000 m². Número de lotes: 25.000/500 = 50.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-rlm-medidas-011",
+    "disciplina": "rlm",
+    "assunto": "rlm-medidas",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "A prova do CRP está marcada para 28 de fevereiro de 2027, um domingo. Exatamente 100 dias depois da prova será um(a):",
+    "alternativas": [
+      "segunda-feira",
+      "terça-feira",
+      "quarta-feira",
+      "quinta-feira",
+      "sexta-feira"
+    ],
+    "gabarito": 1,
+    "comentario": "Os dias da semana se repetem a cada 7 dias. 100 = 7 × 14 + 2, ou seja, 100 dias depois equivalem a avançar 2 dias na semana: domingo → segunda → terça. (A data é 8 de junho de 2027.)",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-rlm-medidas-012",
+    "disciplina": "rlm",
+    "assunto": "rlm-medidas",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Um aquário tem a forma de um paralelepípedo com 60 cm de comprimento, 30 cm de largura e 40 cm de altura. Ele foi preenchido com água até 3/4 de sua altura. O volume de água no aquário é de:",
+    "alternativas": [
+      "18 L",
+      "27 L",
+      "36 L",
+      "45 L",
+      "54 L"
+    ],
+    "gabarito": 4,
+    "comentario": "Volume total: 60 × 30 × 40 = 72.000 cm³ = 72 L (1 L = 1.000 cm³). Até 3/4 da altura: 3/4 × 72 = 54 L.",
+    "dificuldade": 1,
+    "anulada": false
+  }
+]

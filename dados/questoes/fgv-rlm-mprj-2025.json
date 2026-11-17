@@ -1,0 +1,252 @@
+[
+ {
+  "id": "fgv-mprj-2025-ana-31",
+  "disciplina": "rlm",
+  "assunto": "rlm-relacoes",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-RJ",
+   "ano": 2025,
+   "cargo": "Analista do Ministério Público – Área Administrativa",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-do-ministerio-publico-area-administrativacns101-tipo-1.pdf"
+  },
+  "enunciado": "Considere cinco bolas iguais numeradas de 1 a 5 e duas caixas A e B. Duas bolas estão na caixa A e as outras três, na caixa B. Sabe-se que:\n• A bola 5 não está na mesma caixa que as bolas 2 e 4.\n• A Bola 1 não está na mesma caixa que as bolas 3 e 4.\nAs bolas da caixa A são as de números:",
+  "alternativas": [
+   "2 e 4.",
+   "2 e 3.",
+   "3 e 5.",
+   "3 e 4.",
+   "1 e 5."
+  ],
+  "gabarito": 4,
+  "comentario": "A caixa A tem 2 bolas. Teste a opção E: A = {1, 5} e B = {2, 3, 4}. A bola 5 não está com 2 nem com 4 (estão em B) ✓; a bola 1 não está com 3 nem com 4 ✓. Nas outras opções alguma restrição falha (ex.: em C, A = {3,5} deixa 1 junto de 4 em B).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mprj-2025-ana-32",
+  "disciplina": "rlm",
+  "assunto": "rlm-proposicoes",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-RJ",
+   "ano": 2025,
+   "cargo": "Analista do Ministério Público – Área Administrativa",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-do-ministerio-publico-area-administrativacns101-tipo-1.pdf"
+  },
+  "enunciado": "Renato disse: “Eu não passei pelo bar e fui para a academia”.\nSua esposa disse: “Eu sei que isso não é verdade”.\nConsiderando que a esposa de Renato está certa, é correto concluir que",
+  "alternativas": [
+   "Renato não passou pelo bar e não foi para a academia.",
+   "Renato passou pelo bar e foi para a academia.",
+   "Renato passou pelo bar e não foi para a academia.",
+   "Renato passou pelo bar ou não foi para a academia.",
+   "Renato passou pelo bar ou foi para a academia."
+  ],
+  "gabarito": 3,
+  "comentario": "A frase de Renato é “~bar ∧ academia”. Se ela é falsa, vale a negação: ~(~bar ∧ academia) ≡ bar ∨ ~academia (De Morgan). Logo, “Renato passou pelo bar ou não foi para a academia” (D). A, B e C afirmam conjunções que não podem ser garantidas.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mprj-2025-ana-33",
+  "disciplina": "rlm",
+  "assunto": "rlm-numeros",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-RJ",
+   "ano": 2025,
+   "cargo": "Analista do Ministério Público – Área Administrativa",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-do-ministerio-publico-area-administrativacns101-tipo-1.pdf"
+  },
+  "enunciado": "Seja N = 64/(3x+1).\nA soma dos valores inteiros de x para os quais o valor de N também é inteiro é",
+  "alternativas": [
+   "18.",
+   "15.",
+   "12.",
+   "10.",
+   "9."
+  ],
+  "gabarito": 2,
+  "comentario": "N é inteiro quando 3x + 1 é divisor (positivo ou negativo) de 64: ±1, ±2, ±4, ±8, ±16, ±32, ±64. Para x ser inteiro, 3x + 1 deve deixar resto 1 na divisão por 3: servem 1, 4, 16, 64, −2, −8, −32. Daí x = 0, 1, 5, 21, −1, −3, −11. Soma: 0 + 1 + 5 + 21 − 1 − 3 − 11 = 12.",
+  "dificuldade": 3,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mprj-2025-ana-34",
+  "disciplina": "rlm",
+  "assunto": "rlm-medidas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-RJ",
+   "ano": 2025,
+   "cargo": "Analista do Ministério Público – Área Administrativa",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-do-ministerio-publico-area-administrativacns101-tipo-1.pdf"
+  },
+  "enunciado": "Considere um quadrado ABCD com lado igual a 10 e um arco de circunferência BD com centro no vértice A do quadrado.\nEsse arco BD divide o quadrado em duas regiões: ABD e CBD.\nA diferença entre os perímetros dessas duas regiões é",
+  "alternativas": [
+   "0.",
+   "5π.",
+   "10π.",
+   "15π.",
+   "20π."
+  ],
+  "gabarito": 0,
+  "comentario": "O arco BD tem raio 10 e é um quarto de circunferência: comprimento = 2π·10/4 = 5π. Região ABD: AB + AD + arco = 10 + 10 + 5π. Região CBD: CB + CD + arco = 10 + 10 + 5π. Os perímetros são iguais, logo a diferença é 0.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mprj-2025-ana-35",
+  "disciplina": "rlm",
+  "assunto": "rlm-sequencias",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-RJ",
+   "ano": 2025,
+   "cargo": "Analista do Ministério Público – Área Administrativa",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-do-ministerio-publico-area-administrativacns101-tipo-1.pdf"
+  },
+  "enunciado": "Considere a sigla MPRJ e as mesmas 4 letras escritas em uma ordem qualquer, por exemplo, RMJP. Dizemos que um par de letras da segunda sequência forma uma inversão em relação à sigla original se esse par estiver na ordem inversa daquela em que aparece na sequência original. Por exemplo, o par RM forma uma inversão, mas o par RJ não forma uma inversão.\nO número total de inversões que a sequência PJRM apresenta em relação à sigla original MPRJ é",
+  "alternativas": [
+   "6.",
+   "5.",
+   "4.",
+   "3.",
+   "2."
+  ],
+  "gabarito": 2,
+  "comentario": "Na sigla original a ordem é M < P < R < J. Na sequência PJRM, analise os 6 pares: PJ (ok), PR (ok), PM (invertido), JR (invertido), JM (invertido), RM (invertido). Total: 4 inversões.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mprj-2025-ana-36",
+  "disciplina": "rlm",
+  "assunto": "rlm-problemas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-RJ",
+   "ano": 2025,
+   "cargo": "Analista do Ministério Público – Área Administrativa",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-do-ministerio-publico-area-administrativacns101-tipo-1.pdf"
+  },
+  "enunciado": "Uma urna contém 7 bolas iguais numeradas de 1 a 7.\nRetiram-se da urna 3 bolas aleatoriamente e em sequência, sem reposição.\nA probabilidade de que a soma dos números das 3 bolas retiradas seja ímpar é",
+  "alternativas": [
+   "24/35",
+   "22/35",
+   "19/35",
+   "18/35",
+   "16/35"
+  ],
+  "gabarito": 4,
+  "comentario": "Há 4 ímpares (1, 3, 5, 7) e 3 pares. Total de trios: C(7,3) = 35. Soma ímpar ocorre com 3 ímpares, C(4,3) = 4, ou com 1 ímpar e 2 pares, 4·C(3,2) = 12. Favoráveis: 16. Probabilidade = 16/35 (a ordem de retirada não altera a soma).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mprj-2025-ana-37",
+  "disciplina": "rlm",
+  "assunto": "rlm-proposicoes",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-RJ",
+   "ano": 2025,
+   "cargo": "Analista do Ministério Público – Área Administrativa",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-do-ministerio-publico-area-administrativacns101-tipo-1.pdf"
+  },
+  "enunciado": "Considere como falsa a sentença “Se Maria é alta, então Pedro é alto ou Laura não é alta”.\nÉ correto concluir que",
+  "alternativas": [
+   "se Maria é alta, então Pedro não é alto e Laura é alta.",
+   "se Pedro não é alto, então Maria não é alta.",
+   "se Pedro não é alto e Laura é alta, então Maria não é alta.",
+   "se Laura é alta, então Pedro é alto.",
+   "se Laura é alta, então Maria não é alta."
+  ],
+  "gabarito": 0,
+  "comentario": "Uma condicional só é falsa com antecedente V e consequente F: Maria é alta (V) e “Pedro é alto ou Laura não é alta” é F, ou seja, Pedro não é alto e Laura é alta. Em A, antecedente V e consequente (Pedro não é alto e Laura é alta) V: a condicional é verdadeira. B, C, D e E têm antecedente verdadeiro e consequente falso, sendo falsas.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mprj-2025-ana-38",
+  "disciplina": "rlm",
+  "assunto": "rlm-numeros",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-RJ",
+   "ano": 2025,
+   "cargo": "Analista do Ministério Público – Área Administrativa",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-do-ministerio-publico-area-administrativacns101-tipo-1.pdf"
+  },
+  "enunciado": "No fim do mês de janeiro de 2025 a Petrobras anunciou que o preço do óleo Diesel vendido no território nacional estava 17% inferior ao preço internacional desse combustível.\nReferência: jornal O Globo de 29/01/2025\nPara tornar o preço do óleo Diesel no Brasil igual ao preço internacional ele deveria sofrer um aumento de:",
+  "alternativas": [
+   "17%.",
+   "18,2%.",
+   "19%.",
+   "19,8%.",
+   "20,5%."
+  ],
+  "gabarito": 4,
+  "comentario": "Se o preço internacional é 100, o nacional é 83. Para passar de 83 a 100, o aumento é 17/83 ≈ 0,2048, ou seja, cerca de 20,5%. O erro comum é responder 17%, esquecendo que a base do aumento é o preço menor (83).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mprj-2025-ana-39",
+  "disciplina": "rlm",
+  "assunto": "rlm-problemas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-RJ",
+   "ano": 2025,
+   "cargo": "Analista do Ministério Público – Área Administrativa",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-do-ministerio-publico-area-administrativacns101-tipo-1.pdf"
+  },
+  "enunciado": "Em volta de uma mesa circular há 6 cadeiras iguais. Uma família composta por pai, mãe e dois filhos deve ocupar quatro dessas cadeiras. O pai e a mãe não devem se sentar em cadeiras vizinhas e duas cadeiras devem permanecer vazias. Uma disposição dos membros da família em volta da mesa é considerada diferente de outra se pelo menos dois deles estiverem em posições relativas diferentes.\nO número de maneiras diferentes de se sentar essa família pode se sentar em volta da mesa é:",
+  "alternativas": [
+   "18.",
+   "24.",
+   "32.",
+   "36.",
+   "72."
+  ],
+  "gabarito": 3,
+  "comentario": "Como só importam as posições relativas, fixe o pai em uma cadeira. A mãe não pode ficar nas 2 cadeiras vizinhas, restando 3 opções. Os dois filhos ocupam 2 das 4 cadeiras restantes, em ordem: 4·3 = 12 modos. Total: 3·12 = 36.",
+  "dificuldade": 3,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mprj-2025-ana-40",
+  "disciplina": "rlm",
+  "assunto": "rlm-problemas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-RJ",
+   "ano": 2025,
+   "cargo": "Analista do Ministério Público – Área Administrativa",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-do-ministerio-publico-area-administrativacns101-tipo-1.pdf"
+  },
+  "enunciado": "Um torneio de futebol foi disputado por 10 times e cada um dos times jogou uma única partida com cada um dos outros.\nA pontuação dos times é a tradicional: para cada partida o time vencedor ganha 3 pontos e o perdedor nada ganha. Em caso de empate, cada time ganha 1 ponto.\nTerminado o torneio, a soma dos pontos ganhos por todos os times foi 122.\nO número de partidas que terminaram empatadas foi",
+  "alternativas": [
+   "11.",
+   "12.",
+   "13.",
+   "14.",
+   "15."
+  ],
+  "gabarito": 2,
+  "comentario": "Número de partidas: C(10,2) = 45. Cada partida com vencedor distribui 3 pontos; cada empate distribui 2. Se e partidas empataram: 3·(45 − e) + 2e = 122 → 135 − e = 122 → e = 13.",
+  "dificuldade": 2,
+  "anulada": false
+ }
+]

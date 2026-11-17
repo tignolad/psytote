@@ -1,0 +1,254 @@
+[
+ {
+  "id": "fgv-trt24-2025-psi-1",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TRT-24",
+   "ano": 2025,
+   "cargo": "Analista Judiciário – Apoio Especializado – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/area-apoio-especializado-psicologiacns108-tipo-1.pdf"
+  },
+  "texto": "O fato de uma opinião ser amplamente compartilhada não é nenhuma evidência de que não seja completamente absurda; de fato, tendo-se em vista a maioria da humanidade, é mais provável que uma opinião difundida seja mais tola do que sensata.\nBertrand Russell. Marriage and Morals. H. Liveright, 1929, p. 53.",
+  "enunciado": "Leia o texto a seguir. Assinale a afirmativa que indica corretamente o significado ou a estruturação do texto citado.",
+  "alternativas": [
+   "O texto se opõe ao pensamento de que um argumento seja considerado verdadeiro porque se apoia no que pensa a maioria das pessoas.",
+   "O autor mostra a vantagem de uma opinião ser amplamente compartilhada a fim de que se torne mais segura.",
+   "O texto é do tipo argumentativo, pois apresenta uma tese, ainda que não acompanhada de argumentos.",
+   "A opinião final do texto é apresentada como certeza a fim de melhor convencer o leitor.",
+   "O texto se estrutura com a apresentação de um contra-argumento seguido da apresentação da opinião contrária."
+  ],
+  "gabarito": 0,
+  "comentario": "Russell afirma que o fato de uma opinião ser amplamente compartilhada não prova que ela seja correta — ele se opõe ao argumento de apelo à maioria (argumentum ad populum), como diz (A). O autor não vê vantagem na opinião majoritária (B); o texto traz argumento (a observação sobre a maioria da humanidade), logo (C) erra; a conclusão é modalizada como probabilidade ('é mais provável'), não certeza (D); e não há estrutura de contra-argumento seguido de opinião contrária (E).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-trt24-2025-psi-2",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TRT-24",
+   "ano": 2025,
+   "cargo": "Analista Judiciário – Apoio Especializado – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/area-apoio-especializado-psicologiacns108-tipo-1.pdf"
+  },
+  "enunciado": "Observe a seguinte frase do escritor italiano Cesare Pavese: É bom escrever porque reúne as duas alegrias: falar sozinho e falar a uma multidão. Assinale a opção que mostra uma afirmação adequada a esse pensamento.",
+  "alternativas": [
+   "“falar sozinho” e “falar a uma multidão” mostra uma incoerência textual.",
+   "Com a expressão “falar sozinho”, o autor da frase se refere à possível ausência de um interlocutor no caso da escrita.",
+   "“falar sozinho” é certamente uma referência a um hábito pessoal do enunciador da frase.",
+   "“falar a uma multidão” é uma referência ao fato de os textos se referirem a muitas realidades do mundo.",
+   "Uma das alegrias referidas no texto é a de conseguir ser compreendido por uma multidão de pessoas."
+  ],
+  "gabarito": 1,
+  "comentario": "Ao escrever, o autor 'fala sozinho' porque não há um interlocutor presente no momento da produção, e 'fala a uma multidão' porque o texto pode ser lido por muitos — por isso (B) está correta. Não há incoerência, e sim um paradoxo aparente (A); 'falar sozinho' não remete a um hábito pessoal (C); 'multidão' refere-se aos leitores, não às realidades do mundo (D); e o texto não fala em ser compreendido (E).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-trt24-2025-psi-3",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TRT-24",
+   "ano": 2025,
+   "cargo": "Analista Judiciário – Apoio Especializado – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/area-apoio-especializado-psicologiacns108-tipo-1.pdf"
+  },
+  "enunciado": "Leia o seguinte trecho do escritor inglês Aldous Huxley. O homem que pretende ser sempre coerente no seu pensamento e nas suas decisões morais ou é uma múmia ambulante ou, se não conseguir sufocar toda a sua vitalidade, um monomaníaco fanático. Sobre o significado ou a estruturação do texto, é correto afirmar que",
+  "alternativas": [
+   "infere-se do pensamento expresso no trecho que o homem é sempre incoerente em seu pensamento e decisões.",
+   "a comparação com uma “múmia ambulante” se justifica pela perda da vida interior.",
+   "a mania única aludida no texto é a de estar sempre à procura de tornar-se incoerente.",
+   "a visão negativa do homem na frase é decorrente de sua vontade deformada de ser incoerente em suas ações.",
+   "segundo o texto, se o homem não conseguir sufocar toda a sua vitalidade, o homem vira uma múmia ambulante."
+  ],
+  "gabarito": 1,
+  "comentario": "Quem busca coerência absoluta ou perde a vitalidade (vira 'múmia ambulante', alguém sem vida interior) ou, se não a sufocar, vira um fanático; a comparação com a múmia se justifica pela perda da vida interior (B). O texto não afirma que o homem é sempre incoerente (A); a 'mania única' é a coerência, não a incoerência (C e D); e, se não sufocar a vitalidade, o homem vira monomaníaco, não múmia (E).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-trt24-2025-psi-4",
+  "disciplina": "portugues",
+  "assunto": "pt-reescrita",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TRT-24",
+   "ano": 2025,
+   "cargo": "Analista Judiciário – Apoio Especializado – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/area-apoio-especializado-psicologiacns108-tipo-1.pdf"
+  },
+  "enunciado": "O pacifista não é uma pessoa que se recusa a combater. É uma pessoa que não quer combater na primeira guerra que aparecer. Que quer escolher a guerra em que irá combater. Assinale a opção que indica uma observação incorreta sobre a significação e a estruturação do texto acima.",
+  "alternativas": [
+   "As expressões “que se recusa a combater” e “não quer combater” expressam a mesma ideia.",
+   "O texto se estrutura na base de uma oposição entre o que “não é” e “é” o pacifista.",
+   "Em lugar da expressão “que não quer combater”, entre os dois últimos períodos do texto, poderia haver adequadamente a forma “ainda que não queira”.",
+   "Um aspecto negativo na construção do texto é a repetição do verbo “combater” em três oportunidades.",
+   "O texto se estrutura em forma de uma definição, diferente da definição clássica, do que seja um pacifista."
+  ],
+  "gabarito": 2,
+  "comentario": "A expressão “ainda que não queira” introduziria uma ideia de concessão, alterando o sentido: o texto diz que o pacifista É alguém que não quer combater na primeira guerra que aparecer, e não algo que ocorre 'apesar de' ele não querer — por isso (C) é a observação incorreta. Segundo a banca, as demais são adequadas: há oposição entre o que o pacifista 'não é' e o que 'é' (B), o texto propõe uma definição não clássica (E), e as observações (A) e (D) foram consideradas corretas pela banca.",
+  "dificuldade": 3,
+  "anulada": false
+ },
+ {
+  "id": "fgv-trt24-2025-psi-5",
+  "disciplina": "portugues",
+  "assunto": "pt-reescrita",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TRT-24",
+   "ano": 2025,
+   "cargo": "Analista Judiciário – Apoio Especializado – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/area-apoio-especializado-psicologiacns108-tipo-1.pdf"
+  },
+  "enunciado": "A paciência torna mais leve o que não é possível remediar. Assinale a opção que indica uma observação correta a respeito da significação e/ou da estruturação da frase acima.",
+  "alternativas": [
+   "A forma verbal “remediar” poderia ser adequadamente substituída por “que se remedie”.",
+   "A oração adjetiva “que não é possível remediar” pode ser substituída adequadamente pelo adjetivo “irremediável”.",
+   "A expressão “não é possível” poderia ser substituída corretamente pelo adjetivo “impossível”.",
+   "A oração “que não é possível remediar” está adjetivando o pronome demonstrativo “o”.",
+   "O adjetivo “leve” representa uma qualidade e está em função de predicativo do sujeito."
+  ],
+  "gabarito": 1,
+  "comentario": "A oração adjetiva “que não é possível remediar” equivale ao adjetivo “irremediável” (o que não é possível remediar = o irremediável), mantendo sentido e correção — opção (B). Na leitura da banca, as demais trazem problemas: “que se remedie” não substitui adequadamente o infinitivo na estrutura (A); as observações sobre “impossível” (C) e sobre o pronome “o” (D) não foram consideradas corretas; e “leve” é predicativo do objeto (“o que não é possível remediar”), não do sujeito (E).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-trt24-2025-psi-6",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TRT-24",
+   "ano": 2025,
+   "cargo": "Analista Judiciário – Apoio Especializado – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/area-apoio-especializado-psicologiacns108-tipo-1.pdf"
+  },
+  "texto": "Ao iniciar um romance, o escritor é semelhante ao capitão de um navio de guerra, partindo de viagem com ordens seladas no bolso. Mas, ao abrir o envelope, já em alto-mar, descobre ele que a mensagem foi escrita com tinta invisível. Não a pode ler. Está, entretanto, consciente do dever a cumprir, pois é comandante de um navio de guerra e não de um barco de recreio. As ordens indecifráveis, porém imperativas, que guarda no bolso, enchem-no com a consciência de sua responsabilidade. Nisso reside a missão do escritor.",
+  "enunciado": "Leia o trecho a seguir. Assinale a opção que não está de acordo com a significação ou a estruturação do texto.",
+  "alternativas": [
+   "O escritor tem uma missão nobre, que deve ser cumprida, independentemente dos obstáculos.",
+   "O texto é estruturado em linguagem figurada, apoiado na analogia de escrever com comandar um navio de guerra.",
+   "O ato de escrever é comandado por Deus, que escreve suas ordens com tinta invisível.",
+   "Escrever não é essencialmente uma tarefa prazerosa (barco de recreio), mas uma tarefa responsável e cheia de obstáculos (navio de guerra).",
+   "No texto, a literatura é vista como uma missão de responsabilidade, ainda que o tipo de responsabilidade referida não esteja explícito."
+  ],
+  "gabarito": 2,
+  "comentario": "O texto não menciona Deus em momento algum; atribuir a ele as ordens escritas com tinta invisível é extrapolação, por isso (C) não está de acordo com o texto. As demais são compatíveis: há uma missão a cumprir apesar dos obstáculos (A), o texto é uma analogia figurada com o capitão de navio de guerra (B), escrever é tarefa de responsabilidade e não de recreio (D), e o conteúdo dessa responsabilidade permanece indecifrável/implícito (E).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-trt24-2025-psi-7",
+  "disciplina": "portugues",
+  "assunto": "pt-tipologia",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TRT-24",
+   "ano": 2025,
+   "cargo": "Analista Judiciário – Apoio Especializado – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/area-apoio-especializado-psicologiacns108-tipo-1.pdf"
+  },
+  "enunciado": "Assinale a opção cujo segmento, retirado do romance Memórias de um Sargento de Milícias, mostra uma mistura de texto narrativo e descritivo.",
+  "alternativas": [
+   "A festa acabou tarde; a madrinha foi a última que saiu, deitando a bênção ao afilhado e pondo-lhe no cinteiro um raminho de arruda.",
+   "Quando saltaram em terra começou a Maria a sentir certos enojos: foram os dois morar juntos: e daí a um mês manifestaram-se claramente os efeitos da pisadela e do beliscão; sete meses depois teve a Maria um filho, formidável menino de quase três palmos de comprido, gordo e vermelho, cabeludo, esperneador e chorão.",
+   "Depois do minuete foi desaparecendo a cerimônia, e a brincadeira aferventou, como se dizia naquele tempo. Chegaram uns rapazes de viola e machete: o Leonardo, instado pelas senhoras, decidiu-se a romper a parte lírica do divertimento.",
+   "Uma das quatro esquinas que formam as ruas do Ouvidor e da Quitanda, cortando-se mutuamente, chamava-se nesse tempo o canto dos meirinhos; e bem lhe assentava o nome, porque era aí o lugar de encontro favorito de todos os indivíduos dessa classe (que gozava então de não pequena consideração).",
+   "Espiar a vida alheia, inquirir dos escravos o que se passava no interior das casas, era naquele tempo coisa tão comum e enraizada nos costumes, que ainda hoje, depois de passados tantos anos, restam grandes vestígios desse belo hábito."
+  ],
+  "gabarito": 1,
+  "comentario": "Em (B), há narração (saltaram em terra, foram morar juntos, sete meses depois nasceu o filho) e descrição do menino (gordo, vermelho, cabeludo, esperneador e chorão), mistura pedida pelo enunciado. (A) e (C) são essencialmente narrativas, sem caracterização descritiva relevante; (D) é predominantemente descritiva/explicativa de um lugar; e (E) é comentário/descrição de costumes da época, sem sequência de ações.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-trt24-2025-psi-8",
+  "disciplina": "portugues",
+  "assunto": "pt-pontuacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TRT-24",
+   "ano": 2025,
+   "cargo": "Analista Judiciário – Apoio Especializado – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/area-apoio-especializado-psicologiacns108-tipo-1.pdf"
+  },
+  "enunciado": "Assinale a frase que deve apresentar uma vírgula.",
+  "alternativas": [
+   "A estrada do excesso conduz ao palácio da sabedoria.",
+   "A moderação é sempre a tática preferível.",
+   "Ao homem sábio são mais úteis os seus inimigos do que ao tolo os seus amigos.",
+   "Em geral na natureza humana existe mais tolice do que sabedoria.",
+   "Um homem sábio viverá tanto nos limites da própria presença de espírito quanto nos da própria renda."
+  ],
+  "gabarito": 3,
+  "comentario": "Em (D), o adjunto adverbial deslocado “Em geral” deve ser seguido de vírgula: 'Em geral, na natureza humana existe mais tolice do que sabedoria'. Nas demais frases, os termos estão em ordem que não exige vírgula (sujeito, verbo e complementos sem intercalações ou deslocamentos que a imponham).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-trt24-2025-psi-9",
+  "disciplina": "portugues",
+  "assunto": "pt-morfologia",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TRT-24",
+   "ano": 2025,
+   "cargo": "Analista Judiciário – Apoio Especializado – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/area-apoio-especializado-psicologiacns108-tipo-1.pdf"
+  },
+  "enunciado": "A frase em que seria mais adequado o emprego do pronome indefinido “mais” em lugar do adjetivo “maior” é:",
+  "alternativas": [
+   "Para ver maiores detalhes, veja o vídeo anexo.",
+   "Se deseja maiores quantias, trabalhe mais.",
+   "Uma estátua de maior tamanho custa muito caro.",
+   "Na fronteira, o rio atinge maior largura.",
+   "Todos almejam maior salário, ao trabalharem."
+  ],
+  "gabarito": 0,
+  "comentario": "“Maiores detalhes” refere-se à quantidade de detalhes, não ao tamanho deles; o adequado é “mais detalhes”, com o indefinido de quantidade (A). Nas outras frases “maior” compara dimensão/valor de algo (quantias maiores, tamanho, largura, salário), uso adequado do adjetivo comparativo.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-trt24-2025-psi-10",
+  "disciplina": "portugues",
+  "assunto": "pt-morfologia",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TRT-24",
+   "ano": 2025,
+   "cargo": "Analista Judiciário – Apoio Especializado – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/area-apoio-especializado-psicologiacns108-tipo-1.pdf"
+  },
+  "enunciado": "A gramática, a mesma árida gramática, transforma-se em algo parecido a uma feitiçaria evocatória; as palavras ressuscitam revestidas de carne e osso, o substantivo em sua majestade substancial, o adjetivo, roupa transparente que o veste e colore como um verniz, e o verbo, anjo do movimento que dá impulso à frase. (Baudelaire) Sobre essa frase, assinale a afirmativa correta.",
+  "alternativas": [
+   "Ao dizer que o verbo é o anjo do movimento, o autor se refere a todos os verbos da classe por meio de sua característica básica.",
+   "Ao usar a metáfora “roupa transparente”, o autor se refere ao fato de o adjetivo determinar o substantivo, dando-lhe qualidades, características ou relações.",
+   "Ao afirmar que o adjetivo veste e colore o substantivo “como um verniz”, Baudelaire se refere à inutilidade semântica do adjetivo.",
+   "Ao dizer que o substantivo mostra “majestade substancial”, o autor aponta para o fato de o substantivo ser a palavra mais simples da frase.",
+   "Ao empregar a metáfora de “feitiçaria” para o trabalho da gramática, o autor cita a propriedade que tem a gramática de mudar as classes das palavras."
+  ],
+  "gabarito": 1,
+  "comentario": "A imagem da “roupa transparente” que veste e colore o substantivo representa a função do adjetivo de determinar o substantivo, atribuindo-lhe qualidades, características ou relações (B). O 'anjo do movimento' não alude a todos os verbos por uma característica básica comum, já que nem todo verbo indica ação (A); o verniz não indica inutilidade, mas realce (C); 'majestade substancial' aponta a importância do substantivo, não sua simplicidade (D); e a 'feitiçaria' é dar vida às palavras, não mudar suas classes (E).",
+  "dificuldade": 2,
+  "anulada": false
+ }
+]

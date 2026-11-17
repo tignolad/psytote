@@ -1,0 +1,662 @@
+[
+  {
+    "id": "aut-esp-trabalho-001",
+    "disciplina": "especificos",
+    "assunto": "esp-trabalho",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "NR-1 (red. Portaria MTE nº 1.419/2024) – https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/inspecao-do-trabalho/seguranca-e-saude-no-trabalho/ctpp-nrs/normas-regulamentadoras-nrs"
+    },
+    "enunciado": "Com a redação dada pela Portaria MTE nº 1.419/2024, a Norma Regulamentadora nº 1 (NR-1) passou a prever expressamente que o gerenciamento de riscos ocupacionais (GRO) deve abranger",
+    "alternativas": [
+      "apenas os transtornos mentais já diagnosticados nos trabalhadores, mediante laudo psiquiátrico.",
+      "a avaliação psicológica individual obrigatória de todos os empregados, com testes aprovados pelo SATEPSI.",
+      "somente os riscos físicos, químicos e biológicos, cabendo os riscos psicossociais à NR-7.",
+      "os fatores de risco psicossociais relacionados ao trabalho, ao lado dos agentes físicos, químicos e biológicos, dos riscos de acidentes e dos fatores ergonômicos.",
+      "os riscos psicossociais apenas em empresas com mais de 500 empregados."
+    ],
+    "gabarito": 3,
+    "comentario": "A Portaria MTE 1.419/2024 alterou o item 1.5.3.1.4 da NR-1 para que o GRO abranja, além dos agentes físicos, químicos e biológicos, dos riscos de acidentes e dos fatores ergonômicos, os fatores de risco psicossociais relacionados ao trabalho. A exigência passou a vigorar em 26/05/2026, depois de adiamentos. O foco está na organização do trabalho, e não em diagnosticar ou testar individualmente os trabalhadores.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-trabalho-002",
+    "disciplina": "especificos",
+    "assunto": "esp-trabalho",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "MTE. Guia de informações sobre os fatores de riscos psicossociais relacionados ao trabalho, 2025 – https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/inspecao-do-trabalho/seguranca-e-saude-no-trabalho/ctpp-nrs/normas-regulamentadoras-nrs"
+    },
+    "enunciado": "Para cumprir a NR-1, uma empresa com altos índices de afastamento por adoecimento mental propõe apenas oficinas de \"resiliência\" e meditação para os empregados, sem alterar metas, jornadas ou práticas de gestão. Do ponto de vista do gerenciamento de riscos psicossociais, essa proposta é",
+    "alternativas": [
+      "insuficiente, pois os fatores de risco psicossociais decorrem sobretudo da concepção, organização e gestão do trabalho, e as medidas devem priorizar a eliminação ou redução dos riscos na fonte.",
+      "suficiente, pois a responsabilidade pela saúde mental é individual do trabalhador.",
+      "suficiente, desde que as oficinas sejam conduzidas por psicólogo registrado no CRP.",
+      "adequada, pois a NR-1 proíbe alterações na organização do trabalho por razões de saúde mental.",
+      "adequada, pois os riscos psicossociais só podem ser enfrentados com intervenções clínicas individuais."
+    ],
+    "gabarito": 0,
+    "comentario": "O guia do MTE sobre fatores de riscos psicossociais os associa a problemas na concepção, organização e gestão do trabalho, como metas excessivas, baixa autonomia, assédio, conflitos de papel e falta de suporte. Pela lógica de hierarquia de medidas do GRO, o controle deve atuar prioritariamente na fonte. Ações individuais de enfrentamento podem complementar, mas não substituem a intervenção organizacional. Responsabilizar só o trabalhador individualiza um problema coletivo.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-trabalho-003",
+    "disciplina": "especificos",
+    "assunto": "esp-trabalho",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "NR-1 (red. Portaria MTE nº 1.419/2024) – https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/inspecao-do-trabalho/seguranca-e-saude-no-trabalho/ctpp-nrs/normas-regulamentadoras-nrs"
+    },
+    "enunciado": "Segundo a NR-1, o Programa de Gerenciamento de Riscos (PGR) deve conter, no mínimo, os seguintes documentos:",
+    "alternativas": [
+      "laudo psicológico de cada trabalhador e atestado de saúde ocupacional.",
+      "inventário de riscos e plano de ação.",
+      "mapa de clima organizacional e pesquisa de engajamento.",
+      "relatório anual da CIPA e lista de afastamentos previdenciários.",
+      "política de cargos e salários e descrição de funções."
+    ],
+    "gabarito": 1,
+    "comentario": "A NR-1 (item 1.5.7.1) estabelece que o PGR deve conter, no mínimo, inventário de riscos e plano de ação. Com a inclusão dos fatores psicossociais no GRO, eles também devem ser identificados, avaliados e registrados no inventário, com medidas no plano de ação. Laudos psicológicos individuais não integram o PGR.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-trabalho-004",
+    "disciplina": "especificos",
+    "assunto": "esp-trabalho",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "OMS. CID-11, QD85 Burnout – https://icd.who.int/browse/2024-01/mms/en#129180281"
+    },
+    "enunciado": "Na CID-11, a síndrome de burnout (QD85) é descrita como",
+    "alternativas": [
+      "um fenômeno ocupacional resultante de estresse crônico no local de trabalho que não foi gerenciado com sucesso, caracterizado por exaustão de energia, distanciamento mental ou cinismo em relação ao trabalho e redução da eficácia profissional.",
+      "um transtorno do humor classificado no capítulo de transtornos mentais, equivalente à depressão maior.",
+      "um quadro de estresse agudo decorrente de qualquer área da vida, inclusive familiar.",
+      "uma doença neurológica caracterizada por fadiga crônica e dor muscular.",
+      "um transtorno de personalidade associado a perfeccionismo."
+    ],
+    "gabarito": 0,
+    "comentario": "A CID-11 inclui o burnout (QD85) no capítulo de fatores que influenciam o estado de saúde ou o contato com serviços de saúde, e não entre os transtornos mentais. Ele é definido como síndrome resultante de estresse crônico no trabalho não gerenciado com sucesso. Suas três dimensões são exaustão de energia, aumento do distanciamento mental, negativismo ou cinismo em relação ao trabalho, e redução da eficácia profissional.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-trabalho-005",
+    "disciplina": "especificos",
+    "assunto": "esp-trabalho",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "OMS. CID-11, QD85 Burnout – https://icd.who.int/browse/2024-01/mms/en#129180281"
+    },
+    "enunciado": "Uma usuária relata exaustão intensa ligada aos cuidados com a mãe idosa e aos conflitos conjugais, sem relação com o trabalho. Segundo a CID-11, o termo burnout",
+    "alternativas": [
+      "não deve ser aplicado, pois se refere especificamente a fenômenos do contexto ocupacional.",
+      "pode ser aplicado, pois abrange qualquer exaustão por sobrecarga de cuidados.",
+      "deve ser aplicado sempre que houver as três dimensões, independentemente do contexto.",
+      "pode ser aplicado desde que a exaustão dure mais de seis meses.",
+      "deve ser substituído por \"burnout familiar\", categoria prevista na CID-11."
+    ],
+    "gabarito": 0,
+    "comentario": "A descrição da CID-11 ressalva que o burnout se refere especificamente a fenômenos do contexto ocupacional e não deve ser aplicado para descrever experiências em outras áreas da vida. Isso não nega o sofrimento da usuária, que deve ser compreendido por outras categorias e referenciais. Não há categoria de \"burnout familiar\" na CID-11.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-trabalho-006",
+    "disciplina": "especificos",
+    "assunto": "esp-trabalho",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "DEJOURS, C. A loucura do trabalho: estudo de psicopatologia do trabalho. São Paulo: Cortez, 1987; DEJOURS, C. O fator humano. Rio de Janeiro: FGV, 1997"
+    },
+    "enunciado": "Na psicodinâmica do trabalho de Christophe Dejours, a distância entre o que é determinado pela organização (normas, procedimentos, metas) e o que efetivamente se exige para realizar a atividade diante dos imprevistos corresponde à distinção entre",
+    "alternativas": [
+      "trabalho manual e trabalho intelectual.",
+      "trabalho formal e trabalho informal.",
+      "trabalho prescrito e trabalho real.",
+      "trabalho produtivo e trabalho improdutivo.",
+      "trabalho abstrato e trabalho concreto."
+    ],
+    "gabarito": 2,
+    "comentario": "Retomando a ergonomia da atividade, Dejours afirma que o trabalho real nunca coincide com o prescrito. Trabalhar é preencher essa lacuna, mobilizando inteligência, engajamento subjetivo e cooperação diante do que escapa à prescrição. O sofrimento aparece justamente no confronto com o real, e pode ser transformado em prazer ou se tornar patogênico, conforme as condições organizacionais.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-trabalho-007",
+    "disciplina": "especificos",
+    "assunto": "esp-trabalho",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "DEJOURS, C. A loucura do trabalho: estudo de psicopatologia do trabalho. São Paulo: Cortez, 1987; DEJOURS, C. O fator humano. Rio de Janeiro: FGV, 1997"
+    },
+    "enunciado": "Em uma equipe de trabalhadores da construção civil exposta a riscos graves, observa-se ostentação de coragem, desprezo pelos equipamentos de proteção e zombaria contra quem demonstra medo. Na psicodinâmica do trabalho, esse padrão é interpretado como",
+    "alternativas": [
+      "traço de personalidade antissocial dos trabalhadores, a ser identificado em seleção.",
+      "falta de informação técnica, resolvida apenas com treinamento sobre normas de segurança.",
+      "estratégia defensiva coletiva, construída pelo grupo para negar o medo e tornar suportável o sofrimento, mas que pode aumentar a exposição ao risco.",
+      "sintoma de transtorno mental individual, a ser tratado por psicoterapia.",
+      "manifestação de prazer no trabalho decorrente do reconhecimento."
+    ],
+    "gabarito": 2,
+    "comentario": "Dejours descreve as estratégias defensivas coletivas como regras construídas pelos trabalhadores para negar ou minimizar a percepção do que os faz sofrer, como o medo do acidente. Na construção civil, a ideologia da virilidade é exemplo clássico. Essas defesas protegem contra o sofrimento, mas podem alienar e expor os trabalhadores a riscos, e não se reduzem a traços individuais ou falta de informação.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-trabalho-008",
+    "disciplina": "especificos",
+    "assunto": "esp-trabalho",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "DEJOURS, C. A loucura do trabalho: estudo de psicopatologia do trabalho. São Paulo: Cortez, 1987; DEJOURS, C. O fator humano. Rio de Janeiro: FGV, 1997"
+    },
+    "enunciado": "Para Dejours, o reconhecimento é central na transformação do sofrimento em prazer no trabalho. Esse reconhecimento envolve dois tipos de julgamento:",
+    "alternativas": [
+      "o julgamento clínico, feito pelo psicólogo, e o julgamento jurídico, feito pela Justiça do Trabalho.",
+      "o julgamento de produtividade, feito pela empresa, e o julgamento salarial, feito pelo sindicato.",
+      "o julgamento moral, feito pela família, e o julgamento religioso, feito pela comunidade.",
+      "o julgamento de utilidade, feito sobretudo pela hierarquia e pelos clientes, e o julgamento de beleza, feito pelos pares, que conhecem as regras do ofício.",
+      "o julgamento de mérito, feito pelos subordinados, e o julgamento de desempenho, feito por indicadores."
+    ],
+    "gabarito": 3,
+    "comentario": "Na psicodinâmica do trabalho, o reconhecimento recai sobre o fazer, não sobre a pessoa. O julgamento de utilidade (técnica, social ou econômica) vem principalmente da hierarquia e dos clientes. O julgamento de beleza vem dos pares, que avaliam a conformidade às regras do ofício e a originalidade do trabalho. Pela retribuição simbólica, o sofrimento pode ganhar sentido e se converter em prazer e construção identitária.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-trabalho-009",
+    "disciplina": "especificos",
+    "assunto": "esp-trabalho",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "DEJOURS, C. A loucura do trabalho: estudo de psicopatologia do trabalho. São Paulo: Cortez, 1987; DEJOURS, C. O fator humano. Rio de Janeiro: FGV, 1997"
+    },
+    "enunciado": "A passagem da \"psicopatologia do trabalho\" para a \"psicodinâmica do trabalho\", na obra de Dejours, marca uma mudança de foco. O enigma central passa a ser",
+    "alternativas": [
+      "a identificação de doenças mentais específicas de cada profissão, para fins de seleção.",
+      "a normalidade, isto é, como a maioria dos trabalhadores consegue manter-se sem adoecer apesar das pressões da organização do trabalho.",
+      "a medição da produtividade individual em função de traços de personalidade.",
+      "a adaptação do trabalhador à máquina, por meio de treinamento comportamental.",
+      "a busca de causas biológicas para o sofrimento no trabalho."
+    ],
+    "gabarito": 1,
+    "comentario": "Dejours percebeu que, apesar de organizações do trabalho nocivas, a maioria dos trabalhadores não desenvolve doença mental descompensada. Por isso, a normalidade, entendida como equilíbrio instável entre sofrimento e defesas, passa a ser o enigma a investigar. A psicodinâmica estuda as relações entre organização do trabalho, sofrimento, prazer e estratégias de mediação.",
+    "dificuldade": 3,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-trabalho-010",
+    "disciplina": "especificos",
+    "assunto": "esp-trabalho",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "HIRIGOYEN, M.-F. Mal-estar no trabalho: redefinindo o assédio moral. Rio de Janeiro: Bertrand Brasil, 2002; TST/CSJT. Cartilha de prevenção ao assédio moral, 2019"
+    },
+    "enunciado": "Uma servidora relata que, há meses, sua chefia a isola das reuniões, retira suas atribuições sem justificativa, critica-a publicamente e ironiza sua capacidade, o que vem lhe causando insônia e crises de choro. Considerando a definição de Marie-France Hirigoyen, a situação caracteriza",
+    "alternativas": [
+      "assédio moral, conduta abusiva, em regra repetitiva e prolongada, que atenta contra a dignidade ou a integridade psíquica da pessoa e degrada o ambiente de trabalho.",
+      "assédio sexual, pois envolve relação hierárquica entre chefia e subordinada.",
+      "conflito interpessoal pontual, inerente às relações de trabalho.",
+      "exercício regular do poder diretivo, pois a chefia pode redistribuir atribuições livremente.",
+      "síndrome de burnout, que dispensa a análise da conduta da chefia."
+    ],
+    "gabarito": 0,
+    "comentario": "Hirigoyen define o assédio moral como conduta abusiva (palavras, atos, gestos, escritos) que, por sua repetição ou sistematização, atenta contra a dignidade ou a integridade psíquica ou física de uma pessoa, ameaçando seu emprego ou degradando o clima de trabalho. Isolamento, esvaziamento de funções, humilhação pública e desqualificação são exemplos típicos. O poder diretivo não autoriza práticas humilhantes, e o adoecimento é consequência, não substituto da análise da conduta.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-trabalho-011",
+    "disciplina": "especificos",
+    "assunto": "esp-trabalho",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "HIRIGOYEN, M.-F. Mal-estar no trabalho: redefinindo o assédio moral. Rio de Janeiro: Bertrand Brasil, 2002; TST/CSJT. Cartilha de prevenção ao assédio moral, 2019"
+    },
+    "enunciado": "Um grupo de subordinados passa a boicotar sistematicamente um novo coordenador, sonegando informações, espalhando boatos e desqualificando-o perante a direção. Essa situação é classificada como assédio moral",
+    "alternativas": [
+      "vertical descendente.",
+      "horizontal.",
+      "organizacional.",
+      "vertical ascendente.",
+      "misto descendente."
+    ],
+    "gabarito": 3,
+    "comentario": "O assédio moral vertical ascendente é praticado por subordinados contra o superior hierárquico, situação menos frequente e mais comum quando o grupo resiste a uma nova chefia. O vertical descendente parte da chefia contra subordinados. O horizontal ocorre entre colegas do mesmo nível. O misto combina agressões horizontais e verticais.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-trabalho-012",
+    "disciplina": "especificos",
+    "assunto": "esp-trabalho",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "HIRIGOYEN, M.-F. Mal-estar no trabalho: redefinindo o assédio moral. Rio de Janeiro: Bertrand Brasil, 2002; TST/CSJT. Cartilha de prevenção ao assédio moral, 2019"
+    },
+    "enunciado": "Em uma central de atendimento, a gestão adota metas inalcançáveis, ranqueamento público com exposição dos \"piores\", controle do tempo de ida ao banheiro e ameaças coletivas de demissão, como política sistemática para aumentar a produtividade. Essa situação caracteriza",
+    "alternativas": [
+      "assédio moral interpessoal horizontal, por atingir todos os colegas de igual nível.",
+      "gestão por desempenho legítima, por se tratar de metas aplicadas indistintamente.",
+      "assédio moral organizacional (ou institucional), em que a violência integra a própria estratégia de gestão da empresa, atingindo coletivamente os trabalhadores.",
+      "assédio sexual por intimidação, por envolver controle do corpo.",
+      "conflito organizacional, sem relevância para a saúde do trabalhador."
+    ],
+    "gabarito": 2,
+    "comentario": "O assédio moral organizacional se caracteriza por práticas abusivas incorporadas à política de gestão, como pressão por metas abusivas, exposição vexatória e controle excessivo, dirigidas à coletividade e não a uma vítima específica. A aplicação indistinta não legitima a prática, ao contrário: evidencia seu caráter institucional. Essas condições são fatores de risco psicossociais que devem ser enfrentados no GRO.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-trabalho-013",
+    "disciplina": "especificos",
+    "assunto": "esp-trabalho",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Código Penal, art. 216-A – https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm"
+    },
+    "enunciado": "O crime de assédio sexual, tal como tipificado no art. 216-A do Código Penal, exige que o agente",
+    "alternativas": [
+      "pratique contato físico de natureza sexual sem consentimento, independentemente de relação de trabalho.",
+      "seja colega de mesmo nível hierárquico da vítima.",
+      "obtenha efetivamente a vantagem sexual pretendida.",
+      "pratique a conduta de forma reiterada, por pelo menos seis meses.",
+      "constranja alguém com o intuito de obter vantagem ou favorecimento sexual, prevalecendo-se de sua condição de superior hierárquico ou de ascendência inerentes ao exercício de emprego, cargo ou função."
+    ],
+    "gabarito": 4,
+    "comentario": "O art. 216-A do Código Penal tipifica como assédio sexual constranger alguém com o intuito de obter vantagem ou favorecimento sexual, prevalecendo-se o agente de sua condição de superior hierárquico ou de ascendência inerentes ao emprego, cargo ou função. O crime não exige a obtenção da vantagem nem reiteração. No campo trabalhista e administrativo, porém, o conceito de assédio sexual é mais amplo e abrange também condutas entre colegas.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-trabalho-014",
+    "disciplina": "especificos",
+    "assunto": "esp-trabalho",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "TST/CSJT. Assédio sexual no trabalho (cartilha) – https://www.tst.jus.br/assedio-sexual; MPT/OIT. Assédio sexual no trabalho: perguntas e respostas, 2017"
+    },
+    "enunciado": "Uma trabalhadora é alvo constante, por parte de colegas do mesmo nível, de piadas de cunho sexual, comentários sobre seu corpo e envio de imagens obscenas, criando ambiente hostil e intimidador, sem que haja chantagem. Nas orientações do TST e do MPT/OIT, essa situação é descrita como",
+    "alternativas": [
+      "situação lícita, pois sem hierarquia não há assédio sexual.",
+      "assédio sexual por chantagem, por envolver condições de trabalho.",
+      "assédio moral ascendente, pois parte de colegas.",
+      "assédio sexual por intimidação (ou ambiental), que pode ocorrer independentemente de hierarquia e deve ser enfrentado pela organização.",
+      "mera brincadeira entre colegas, salvo se houver contato físico."
+    ],
+    "gabarito": 3,
+    "comentario": "As cartilhas do TST e do MPT/OIT distinguem o assédio sexual por chantagem, em que vantagens ou prejuízos no trabalho são condicionados a favores sexuais, em regra com hierarquia, do assédio sexual por intimidação ou ambiental. Este se caracteriza por incitações sexuais inoportunas e manifestações verbais ou não verbais que criam ambiente hostil e intimidador, inclusive entre colegas. Mesmo fora do tipo penal do art. 216-A, essas condutas geram responsabilidade e devem ser prevenidas e apuradas.",
+    "dificuldade": 3,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-trabalho-015",
+    "disciplina": "especificos",
+    "assunto": "esp-trabalho",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Lei nº 14.457/2022 – https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14457.htm"
+    },
+    "enunciado": "A Lei nº 14.457/2022, que instituiu o Programa Emprega + Mulheres, alterou a denominação da CIPA, que passou a se chamar",
+    "alternativas": [
+      "Comissão Interna de Prevenção de Acidentes e de Riscos Psicossociais.",
+      "Comissão Interna de Prevenção de Acidentes e de Assédio.",
+      "Comissão Interna de Saúde Mental e Prevenção de Acidentes.",
+      "Comissão Interna de Equidade de Gênero e Prevenção de Acidentes.",
+      "Comissão Interna de Prevenção da Violência no Trabalho."
+    ],
+    "gabarito": 1,
+    "comentario": "A Lei 14.457/2022 alterou o art. 163 da CLT, e a CIPA passou a se chamar Comissão Interna de Prevenção de Acidentes e de Assédio. A lei também incluiu a prevenção e o combate ao assédio sexual e a outras formas de violência no trabalho entre as atribuições ligadas à comissão. A mudança se articula com a inclusão dos riscos psicossociais na NR-1.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-trabalho-016",
+    "disciplina": "especificos",
+    "assunto": "esp-trabalho",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Lei nº 14.457/2022 – https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14457.htm"
+    },
+    "enunciado": "Nos termos do art. 23 da Lei nº 14.457/2022, as empresas obrigadas a constituir CIPA devem adotar medidas de prevenção e combate ao assédio sexual e a outras formas de violência no trabalho, entre as quais",
+    "alternativas": [
+      "fixar procedimentos para recebimento e acompanhamento de denúncias, apuração dos fatos e aplicação de sanções, garantido o anonimato do denunciante, e realizar ações de capacitação, no mínimo, a cada 12 meses.",
+      "contratar psicólogo exclusivo para atender as vítimas, com sessões semanais custeadas pela empresa.",
+      "submeter os empregados denunciados a avaliação psicológica obrigatória antes de qualquer apuração.",
+      "substituir o procedimento penal cabível pelo procedimento interno de apuração.",
+      "realizar treinamento sobre assédio apenas no momento da admissão de cada empregado."
+    ],
+    "gabarito": 0,
+    "comentario": "O art. 23 da Lei 14.457/2022 exige incluir regras de conduta sobre assédio sexual e outras violências nas normas internas, com ampla divulgação. Também exige procedimentos de denúncia, apuração e sanção com garantia de anonimato, inclusão do tema nas atividades da CIPA e capacitação ao menos a cada 12 meses. O §1º ressalva que o recebimento de denúncias não substitui o procedimento penal. A lei não prevê psicoterapia obrigatória nem avaliação psicológica dos denunciados.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-trabalho-017",
+    "disciplina": "especificos",
+    "assunto": "esp-trabalho",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Lei nº 14.540/2023 – https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14540.htm"
+    },
+    "enunciado": "A Lei nº 14.540/2023 instituiu o Programa de Prevenção e Enfrentamento ao Assédio Sexual e demais Crimes contra a Dignidade Sexual e à Violência Sexual. Esse programa aplica-se",
+    "alternativas": [
+      "exclusivamente às empresas privadas com mais de 100 empregados.",
+      "à administração pública direta e indireta, federal, estadual, distrital e municipal, e também às instituições privadas que prestem serviços públicos por concessão, permissão, autorização ou outra forma de delegação.",
+      "apenas aos órgãos do Poder Executivo federal.",
+      "somente às instituições de ensino superior públicas e privadas.",
+      "apenas às empresas obrigadas a constituir CIPA."
+    ],
+    "gabarito": 1,
+    "comentario": "O art. 1º da Lei 14.540/2023 institui o programa no âmbito da administração pública direta e indireta de todos os entes federativos. O art. 2º, §1º, estende-o às instituições privadas em que haja prestação de serviços públicos por delegação. As empresas com CIPA estão sujeitas às medidas da Lei 14.457/2022, que é outra norma.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-trabalho-018",
+    "disciplina": "especificos",
+    "assunto": "esp-trabalho",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Lei nº 14.540/2023 – https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14540.htm"
+    },
+    "enunciado": "Segundo a Lei nº 14.540/2023, qualquer pessoa que tiver conhecimento da prática de assédio sexual ou demais crimes contra a dignidade sexual nos órgãos e entidades abrangidos",
+    "alternativas": [
+      "só pode denunciá-la mediante autorização expressa da vítima.",
+      "tem o dever legal de denunciá-la e de colaborar com os procedimentos administrativos internos e externos.",
+      "deve aguardar a conclusão do inquérito policial antes de comunicar a chefia.",
+      "deve comunicá-la exclusivamente ao Ministério Público do Trabalho.",
+      "fica dispensada de qualquer providência se não for servidora pública."
+    ],
+    "gabarito": 1,
+    "comentario": "O art. 5º, §1º, da Lei 14.540/2023 estabelece o dever legal de denunciar e de colaborar com os procedimentos administrativos internos e externos para quem tiver conhecimento da prática. O §2º prevê a apuração de retaliações contra vítimas, testemunhas e colaboradores. Entre as diretrizes estão canais de denúncia acessíveis e procedimentos que assegurem sigilo e devido processo.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-trabalho-019",
+    "disciplina": "especificos",
+    "assunto": "esp-trabalho",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "ZANELLI, J. C.; BORGES-ANDRADE, J. E.; BASTOS, A. V. B. (org.). Psicologia, organizações e trabalho no Brasil. 2. ed. Porto Alegre: Artmed, 2014"
+    },
+    "enunciado": "Uma empresa precisa preencher vaga de gerência e opta por recrutamento interno. Em comparação ao recrutamento externo, é uma vantagem típica do recrutamento interno",
+    "alternativas": [
+      "trazer novas ideias e experiências de outras organizações.",
+      "renovar a cultura organizacional com perfis diferentes dos atuais.",
+      "evitar qualquer conflito de interesses entre colegas candidatos.",
+      "ampliar o número de candidatos disponíveis no mercado.",
+      "aproveitar o conhecimento prévio sobre o desempenho do candidato e funcionar como fator de motivação e desenvolvimento de carreira."
+    ],
+    "gabarito": 4,
+    "comentario": "Na literatura de POT, o recrutamento interno aproveita o potencial existente, é mais rápido e econômico, permite usar informações já disponíveis sobre o desempenho e motiva ao sinalizar possibilidades de carreira. Suas desvantagens incluem conflitos entre candidatos e endogamia de ideias. Trazer experiências novas e renovar a cultura são vantagens do recrutamento externo.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-trabalho-020",
+    "disciplina": "especificos",
+    "assunto": "esp-trabalho",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "ZANELLI, J. C.; BORGES-ANDRADE, J. E.; BASTOS, A. V. B. (org.). Psicologia, organizações e trabalho no Brasil. 2. ed. Porto Alegre: Artmed, 2014"
+    },
+    "enunciado": "Em processos seletivos baseados em competências, a competência costuma ser descrita pela sigla CHA, que corresponde a",
+    "alternativas": [
+      "capacidade, hierarquia e autonomia do cargo.",
+      "competitividade, honestidade e assertividade do candidato.",
+      "carreira, histórico e aptidão do profissional.",
+      "controle, harmonia e adaptação ao grupo.",
+      "conhecimentos, habilidades e atitudes mobilizados no desempenho do trabalho."
+    ],
+    "gabarito": 4,
+    "comentario": "O modelo de competências articula conhecimentos (saber), habilidades (saber fazer) e atitudes (querer fazer), mobilizados para gerar desempenho em determinado contexto. Na seleção, o perfil de competências do cargo orienta a escolha das técnicas de avaliação, como entrevistas por competências, dinâmicas e testes. Ele não se confunde com atributos estruturais do cargo nem com traços morais.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-trabalho-021",
+    "disciplina": "especificos",
+    "assunto": "esp-trabalho",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Res. CFP nº 31/2022 (avaliação psicológica e SATEPSI) – https://satepsi.cfp.org.br/"
+    },
+    "enunciado": "Uma psicóloga organizacional pretende usar em seleção um teste de personalidade cujo parecer no SATEPSI é desfavorável, por considerá-lo \"rápido e barato\". À luz da Resolução CFP nº 31/2022, essa conduta é",
+    "alternativas": [
+      "permitida, desde que o candidato assine termo de consentimento.",
+      "vedada, pois só podem ser usados na prática profissional testes psicológicos com parecer favorável do SATEPSI.",
+      "permitida em seleção privada, sendo a restrição aplicável apenas a concursos públicos.",
+      "permitida, se combinada com entrevista estruturada.",
+      "permitida, desde que os resultados não sejam informados ao candidato."
+    ],
+    "gabarito": 1,
+    "comentario": "A Res. CFP 31/2022 regulamenta o SATEPSI e estabelece que, na prática profissional, só podem ser usados testes psicológicos com parecer favorável. Testes com parecer desfavorável não podem ser usados em nenhum contexto, público ou privado, nem mesmo com consentimento do avaliado. A escolha de instrumentos deve se basear em evidências de validade, precisão e normatização adequadas ao contexto.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-trabalho-022",
+    "disciplina": "especificos",
+    "assunto": "esp-trabalho",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Lei nº 9.029/1995 – https://www.planalto.gov.br/ccivil_03/leis/l9029.htm"
+    },
+    "enunciado": "Durante uma seleção, o gestor solicita à psicóloga que inclua exame de gravidez entre os requisitos para candidatas à vaga. Com base na Lei nº 9.029/1995, a psicóloga deve orientar que essa exigência",
+    "alternativas": [
+      "é permitida em vagas que exijam viagens frequentes.",
+      "é permitida, desde que o resultado seja mantido em sigilo pela psicóloga.",
+      "é permitida apenas para cargos de confiança.",
+      "é recomendada para fins de planejamento da força de trabalho.",
+      "é prática discriminatória proibida, que configura crime, na admissão e na manutenção da relação de trabalho."
+    ],
+    "gabarito": 4,
+    "comentario": "A Lei 9.029/1995 proíbe práticas discriminatórias e limitativas no acesso e na manutenção da relação de trabalho por motivo de sexo, origem, raça, cor, estado civil, situação familiar, deficiência, idade, entre outros. O art. 2º tipifica como crime exigir teste, exame, perícia, laudo, atestado ou declaração relativos a esterilização ou estado de gravidez. A psicóloga também se pauta pelo dever ético de não ser conivente com discriminação (Código de Ética, art. 2º, a).",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-trabalho-023",
+    "disciplina": "especificos",
+    "assunto": "esp-trabalho",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Código de Ética Profissional do Psicólogo – https://site.cfp.org.br/wp-content/uploads/2012/07/codigo-de-etica-psicologia.pdf"
+    },
+    "enunciado": "Após um processo seletivo, o gerente pede à psicóloga o relatório completo da avaliação de um candidato aprovado, com todos os dados de personalidade e de história de vida obtidos na entrevista. Segundo o Código de Ética Profissional do Psicólogo, a psicóloga deve",
+    "alternativas": [
+      "entregar o relatório completo, pois a empresa contratou o serviço e é dona das informações.",
+      "recusar-se a informar qualquer resultado ao gerente, por força do sigilo.",
+      "entregar os protocolos dos testes para que o gerente tire suas próprias conclusões.",
+      "informar os resultados apenas ao candidato, nunca à organização.",
+      "informar a quem de direito os resultados da avaliação, transmitindo somente o que for necessário para a tomada de decisão."
+    ],
+    "gabarito": 4,
+    "comentario": "O art. 1º, g, do Código de Ética impõe informar, a quem de direito, os resultados da prestação de serviços psicológicos, transmitindo somente o necessário para a tomada de decisões que afetem o usuário ou beneficiário. O sigilo (art. 9º) protege a intimidade do candidato. O art. 18 veda ceder a leigos instrumentos e técnicas que facilitem o exercício ilegal da profissão, o que impede entregar protocolos.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-trabalho-024",
+    "disciplina": "especificos",
+    "assunto": "esp-trabalho",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Código de Ética Profissional do Psicólogo – https://site.cfp.org.br/wp-content/uploads/2012/07/codigo-de-etica-psicologia.pdf"
+    },
+    "enunciado": "Uma psicóloga de RH é designada para avaliar, em processo de promoção interna, o próprio cunhado. Pelo Código de Ética Profissional do Psicólogo, ela deve",
+    "alternativas": [
+      "realizar a avaliação, desde que use apenas testes com parecer favorável no SATEPSI.",
+      "realizar a avaliação e informar o vínculo somente se o cunhado for aprovado.",
+      "declarar-se impedida, pois é vedado ser perito, avaliador ou parecerista em situações em que vínculos pessoais possam afetar a qualidade do trabalho ou a fidelidade aos resultados.",
+      "realizar a avaliação, pois o impedimento só existe em perícias judiciais.",
+      "delegar a aplicação dos testes a um estagiário e corrigi-los ela mesma."
+    ],
+    "gabarito": 2,
+    "comentario": "O art. 2º, k, do Código de Ética veda ser perito, avaliador ou parecerista quando vínculos pessoais ou profissionais, atuais ou anteriores, possam afetar a qualidade do trabalho ou a fidelidade aos resultados. A regra vale para qualquer contexto de avaliação, inclusive organizacional. Usar testes adequados não supera o conflito de interesses.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-trabalho-025",
+    "disciplina": "especificos",
+    "assunto": "esp-trabalho",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Código de Ética Profissional do Psicólogo – https://site.cfp.org.br/wp-content/uploads/2012/07/codigo-de-etica-psicologia.pdf"
+    },
+    "enunciado": "Uma psicóloga é contratada por uma empresa e descobre que a política interna prevê demissão de empregados que procuram atendimento em saúde mental, cabendo-lhe identificá-los. Segundo o art. 3º do Código de Ética Profissional do Psicólogo,",
+    "alternativas": [
+      "a psicóloga deve cumprir a política, pois o vínculo empregatício impõe subordinação técnica.",
+      "a psicóloga pode cumprir a política se mantiver sigilo sobre os diagnósticos.",
+      "havendo incompatibilidade entre as práticas da organização e os princípios do Código, cabe à psicóloga recusar-se a prestar os serviços e, se pertinente, denunciar ao órgão competente.",
+      "a psicóloga deve comunicar o fato apenas ao Conselho Regional, mantendo suas atividades normalmente.",
+      "a psicóloga fica isenta de responsabilidade ética, que recai apenas sobre a empresa."
+    ],
+    "gabarito": 2,
+    "comentario": "O art. 3º do Código de Ética determina que, para ingressar, associar-se ou permanecer em uma organização, a psicóloga considere a missão, as políticas e as práticas nela vigentes e sua compatibilidade com o Código. O parágrafo único estabelece que, havendo incompatibilidade, cabe recusar-se a prestar serviços e, se pertinente, denunciar ao órgão competente. Colaborar com a política violaria também a vedação de ser conivente com discriminação (art. 2º, a).",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-trabalho-026",
+    "disciplina": "especificos",
+    "assunto": "esp-trabalho",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "ZANELLI, J. C.; BORGES-ANDRADE, J. E.; BASTOS, A. V. B. (org.). Psicologia, organizações e trabalho no Brasil. 2. ed. Porto Alegre: Artmed, 2014"
+    },
+    "enunciado": "Uma organização implanta sistema de avaliação de desempenho em que cada empregado é avaliado por sua chefia, pelos pares, pelos subordinados e por clientes internos, além de realizar autoavaliação. Esse modelo é conhecido como",
+    "alternativas": [
+      "avaliação 360 graus.",
+      "escala gráfica de classificação.",
+      "método de incidentes críticos.",
+      "avaliação por escolha forçada.",
+      "administração por objetivos."
+    ],
+    "gabarito": 0,
+    "comentario": "A avaliação 360 graus reúne múltiplas fontes de feedback (superiores, pares, subordinados, clientes e autoavaliação), ampliando a visão sobre o desempenho e reduzindo o viés de um único avaliador. Exige clima de confiança e cuidados éticos no uso das informações. Escala gráfica, incidentes críticos e escolha forçada são métodos tradicionais centrados no avaliador, e a administração por objetivos foca metas pactuadas.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-trabalho-027",
+    "disciplina": "especificos",
+    "assunto": "esp-trabalho",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "ZANELLI, J. C.; BORGES-ANDRADE, J. E.; BASTOS, A. V. B. (org.). Psicologia, organizações e trabalho no Brasil. 2. ed. Porto Alegre: Artmed, 2014"
+    },
+    "enunciado": "No modelo de Kirkpatrick para avaliação de treinamentos, verificar se os participantes passaram a aplicar no trabalho o que aprenderam corresponde ao nível de",
+    "alternativas": [
+      "reação.",
+      "aprendizagem.",
+      "comportamento.",
+      "resultados.",
+      "satisfação."
+    ],
+    "gabarito": 2,
+    "comentario": "O modelo de Kirkpatrick tem quatro níveis: reação (satisfação dos participantes), aprendizagem (aquisição de conhecimentos e habilidades), comportamento (transferência e aplicação do aprendido ao trabalho) e resultados (impacto organizacional). A transferência para o cargo corresponde ao nível de comportamento. Satisfação não é um nível autônomo: integra a reação.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-trabalho-028",
+    "disciplina": "especificos",
+    "assunto": "esp-trabalho",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "ZANELLI, J. C.; BORGES-ANDRADE, J. E.; BASTOS, A. V. B. (org.). Psicologia, organizações e trabalho no Brasil. 2. ed. Porto Alegre: Artmed, 2014"
+    },
+    "enunciado": "Para Edgar Schein, a cultura organizacional pode ser analisada em três níveis. O nível mais profundo, formado por crenças inconscientes e tidas como certas, que orientam a percepção e o comportamento dos membros, é o dos",
+    "alternativas": [
+      "artefatos visíveis.",
+      "valores e crenças expostos.",
+      "rituais e cerimônias.",
+      "pressupostos básicos subjacentes.",
+      "indicadores de clima."
+    ],
+    "gabarito": 3,
+    "comentario": "Schein distingue artefatos (estruturas e processos visíveis, como arquitetura, linguagem e rituais), valores e crenças expostos (estratégias, metas e filosofias declaradas) e pressupostos básicos subjacentes. Estes são crenças inconscientes, tidas como certas, que constituem a essência da cultura. Rituais são artefatos, e clima é conceito distinto, ligado à percepção compartilhada do ambiente.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-trabalho-029",
+    "disciplina": "especificos",
+    "assunto": "esp-trabalho",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "ZANELLI, J. C.; BORGES-ANDRADE, J. E.; BASTOS, A. V. B. (org.). Psicologia, organizações e trabalho no Brasil. 2. ed. Porto Alegre: Artmed, 2014"
+    },
+    "enunciado": "Os experimentos de Hawthorne, conduzidos por Elton Mayo e colaboradores na década de 1920, contribuíram para a Psicologia Organizacional ao evidenciar",
+    "alternativas": [
+      "que a iluminação é o principal determinante da produtividade industrial.",
+      "a superioridade do pagamento por peça como único fator motivacional.",
+      "a necessidade de eliminar os grupos informais para aumentar a eficiência.",
+      "que a fadiga física explica integralmente as variações de desempenho.",
+      "a influência de fatores sociais e grupais, como normas informais e atenção recebida, sobre o comportamento e a produtividade dos trabalhadores."
+    ],
+    "gabarito": 4,
+    "comentario": "Os estudos de Hawthorne começaram como pesquisa sobre iluminação e produtividade e acabaram revelando o peso dos fatores sociais, das normas informais do grupo e da atenção dada aos trabalhadores. Eles deram origem à Escola de Relações Humanas, em contraponto à visão taylorista do homo economicus. Os resultados contrariaram a ideia de que fatores físicos ou salariais explicariam sozinhos o desempenho.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-trabalho-030",
+    "disciplina": "especificos",
+    "assunto": "esp-trabalho",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Portaria GM/MS nº 1.999/2023 (Lista de Doenças Relacionadas ao Trabalho) – https://bvsms.saude.gov.br/bvs/saudelegis/gm/2023/prt1999_29_11_2023.html"
+    },
+    "enunciado": "A Portaria GM/MS nº 1.999/2023 atualizou a Lista de Doenças Relacionadas ao Trabalho (LDRT). Em relação à saúde mental, essa atualização",
+    "alternativas": [
+      "excluiu os transtornos mentais da lista, por serem de origem multifatorial.",
+      "passou a exigir laudo psicológico para o reconhecimento de qualquer doença ocupacional.",
+      "restringiu o reconhecimento de agravos mentais a acidentes de trabalho típicos.",
+      "incluiu transtornos mentais e comportamentais relacionados ao trabalho, como a síndrome de burnout, reconhecendo-os como agravos que podem ter nexo com a atividade laboral.",
+      "transferiu para o empregador a decisão sobre o nexo causal de transtornos mentais."
+    ],
+    "gabarito": 3,
+    "comentario": "A Portaria GM/MS 1.999/2023 atualizou a LDRT do SUS e ampliou o rol de transtornos mentais e comportamentais relacionados ao trabalho, incluindo a síndrome de burnout, entre outros agravos. A lista orienta a vigilância em saúde do trabalhador e o estabelecimento de nexo com o trabalho. Ela não depende de laudo psicológico nem transfere ao empregador a decisão sobre nexo.",
+    "dificuldade": 2,
+    "anulada": false
+  }
+]

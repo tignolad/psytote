@@ -1,0 +1,982 @@
+[
+ {
+  "id": "fgv-tjrr-2024-psi-36",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-RR",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns109t01-analista-judiciario-psicologia.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjrr_gabarito_definitivo_v3.pdf",
+   "questao_original": 36,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "A atuação do profissional de psicologia integrando as equipes que atuam na assistência social é hoje uma realidade tanto na proteção básica quanto na proteção especial. Considerando a proteção integral que deve ser garantida a crianças e adolescentes no Sistema de Garantia de Direitos, é correto afirmar, em relação às atribuições do psicólogo, que",
+  "alternativas": [
+   "é atribuição do psicólogo no CREAS proporcionar escuta qualificada para a reconstrução de vínculos familiares fragilizados por acolhimentos institucionais prolongados.",
+   "é atribuição do psicólogo na Equipe de Saúde da Família avaliar se os beneficiários atendem aos critérios de elegibilidade para inclusão nos programas de transferência de renda.",
+   "é atribuição do psicólogo no NASF prestar atendimento psicoterápico às famílias assistidas no território de abrangência do equipamento.",
+   "é atribuição do psicólogo no CRAS acompanhar a execução de medidas socioeducativas em meio aberto aplicadas a adolescentes em conflito com a Lei.",
+   "é atribuição do psicólogo no Conselho Tutelar promover a colocação familiar substituta de crianças ou adolescentes afastados de sua família natural."
+  ],
+  "gabarito": null,
+  "comentario": "A questão trata das atribuições do psicólogo na rede socioassistencial e de saúde dentro do Sistema de Garantia de Direitos. A alternativa A descreve uma ação típica do CREAS (PAEFI), que é a escuta qualificada e o trabalho com vínculos familiares fragilizados. As demais trocam serviços e atribuições: elegibilidade para transferência de renda não é tarefa do psicólogo na ESF, o NASF não faz psicoterapia das famílias, as MSE em meio aberto ficam com o CREAS e não com o CRAS, e o Conselho Tutelar não promove colocação em família substituta. A questão foi anulada no gabarito definitivo da FGV.",
+  "dificuldade": 2,
+  "anulada": true
+ },
+ {
+  "id": "fgv-tjrr-2024-psi-37",
+  "disciplina": "legislacao",
+  "assunto": "leg-idoso-pcd",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-RR",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns109t01-analista-judiciario-psicologia.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjrr_gabarito_definitivo_v3.pdf",
+   "questao_original": 37,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Felipe, empresário de 33 anos, ficou em coma na sequência de um grave acidente de carro. Diante da incerteza quanto a sua recuperação, seu irmão e sócio, Fernando, pediu sua curatela para poder dar continuidade aos negócios da empresa. Ao longo do processo de reabilitação, Felipe recuperou a consciência, restando sequelas na área motora que passaram a ser tratadas com fisioterapia. Felipe está namorando Alice, sua fisioterapeuta. Sobre essa situação e de acordo com a legislação que trata dos direitos da pessoa com deficiência, é correto afirmar que",
+  "alternativas": [
+   "Felipe não poderá se casar com Alice em função da interdição judicial.",
+   "a interdição é uma medida irrevogável e definitiva quanto aos efeitos patrimoniais.",
+   "Felipe deverá continuar sob a curatela de Fernando considerando seu capacitismo.",
+   "a curatela de Felipe poderá ser levantada já que ele recuperou sua capacidade de decisão.",
+   "as adaptações razoáveis constituem barreiras à plena readaptação de Felipe ao trabalho."
+  ],
+  "gabarito": 3,
+  "comentario": "Pela Lei Brasileira de Inclusão (Lei nº 13.146/2015), a curatela é medida extraordinária, proporcional às necessidades e de menor duração possível. Ela atinge apenas atos patrimoniais e negociais e não afeta o direito de casar. Se Felipe recuperou a capacidade de decidir, a curatela pode ser levantada. A está errada porque a curatela não impede o casamento, e B porque a medida é revisável. C usa 'capacitismo' de forma errada, já que o termo designa a discriminação contra pessoas com deficiência. E também erra, pois adaptações razoáveis eliminam barreiras em vez de criá-las.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjrr-2024-psi-38",
+  "disciplina": "especificos",
+  "assunto": "esp-praticas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-RR",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns109t01-analista-judiciario-psicologia.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjrr_gabarito_definitivo_v3.pdf",
+   "questao_original": 38,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Em situações de emergência, são esperadas reações emocionais muito intensas e a grande maioria dessas manifestações pode ser considerada como compatível com o momento traumático vivenciado. A abordagem precoce de qualquer problema de saúde mental é a maneira mais efetiva de prevenção de transtornos mais sérios que costumam aparecer, a médio e a longo prazo, após o evento traumático. Os objetivos a seguir são consistentes com os da aplicação do modelo de intervenção em crise, à exceção de um. Assinale-o.",
+  "alternativas": [
+   "Diminuir a ansiedade da pessoa, demonstrando empatia e compreensão para criar um ambiente de confiança.",
+   "Analisar as possíveis soluções e as estratégias de enfrentamento das circunstâncias da nova situação.",
+   "identificar os mecanismos de defesa como negação e racionalização para promover o autoconhecimento.",
+   "ajudar a pessoa a recuperar o nível de funcionamento psicológico que possuía antes do evento desencadeante da crise.",
+   "desenvolver um plano de ação objetivo utilizando os recursos disponíveis para fornecer suporte adicional à pessoa em crise."
+  ],
+  "gabarito": 2,
+  "comentario": "A intervenção em crise é breve e focal. Busca acolher e reduzir a ansiedade, avaliar recursos e estratégias de enfrentamento, montar um plano de ação concreto e recuperar o nível de funcionamento anterior à crise (A, B, D, E). Identificar mecanismos de defesa como negação e racionalização para promover autoconhecimento é objetivo de psicoterapia de insight, de longo prazo. No momento agudo, as defesas podem inclusive ser protetivas e não devem ser confrontadas.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjrr-2024-psi-39",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-RR",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns109t01-analista-judiciario-psicologia.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjrr_gabarito_definitivo_v3.pdf",
+   "questao_original": 39,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Inconformado com a derrota de seu time, Murilo destruiu cadeiras do estádio de futebol, razão pela qual recebeu uma pena alternativa pelo crime de vandalismo. Em relação às alternativas penais, assinale a afirmativa correta.",
+  "alternativas": [
+   "São medidas socioeducativas que visam à reparação de danos.",
+   "São penas que buscam a absolvição no lugar da condenação.",
+   "São intervenções orientadas para a garantia de uma justiça retributiva.",
+   "Substituem as audiências de custódia por círculos de construção da paz.",
+   "Objetivam a intervenção penal mínima, desencarceradora e restaurativa."
+  ],
+  "gabarito": 4,
+  "comentario": "A Política Nacional de Alternativas Penais se orienta pela intervenção penal mínima, desencarceradora e restaurativa, responsabilizando a pessoa sem recorrer à prisão. A erra porque medidas socioeducativas são do ECA, para adolescentes. As alternativas penais também não buscam absolvição (B) nem uma justiça retributiva (C). D erra porque elas não substituem as audiências de custódia, que inclusive podem encaminhar para alternativas penais.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjrr-2024-psi-40",
+  "disciplina": "especificos",
+  "assunto": "esp-direitos-humanos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-RR",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns109t01-analista-judiciario-psicologia.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjrr_gabarito_definitivo_v3.pdf",
+   "questao_original": 40,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "A violência doméstica contra a mulher pode assumir diversas formas. Analise as situações abaixo e assinale aquela que corresponde à violência moral, conforme descrita na Lei nº 11.340/2006.",
+  "alternativas": [
+   "Mesmo sem vontade, Ana mantém relações sexuais com seu marido José porque ele cobra dela o cumprimento de seus deveres conjugais.",
+   "Após a separação conjugal, Paula começou a namorar Júlio. Seu ex-marido, Edson, fala para a família e para os amigos em comum que Paula é prostituta e adúltera.",
+   "Bruno se apropriou do cartão e trocou a senha da conta bancária de Márcia, que agora precisa pedir dinheiro a ele e justificar todos os gastos domésticos que faz.",
+   "Lúcia está grávida de seu quarto filho e deseja fazer uma laqueadura de trompas, mas seu marido Olavo não concorda e não permite o uso de nenhum método contraceptivo.",
+   "Laura conseguiu se separar de seu marido Hugo, mas agora ele a persegue na porta do prédio, em seu local de trabalho, na academia, nas redes sociais e fazendo ligações telefônicas de diferentes números a qualquer hora."
+  ],
+  "gabarito": 1,
+  "comentario": "Pela Lei Maria da Penha (art. 7º, V), violência moral é qualquer conduta que configure calúnia, difamação ou injúria. É o que faz Edson ao chamar Paula publicamente de prostituta e adúltera. A é violência sexual, e C é violência patrimonial (retenção e controle de bens e recursos). D é violência sexual, pois impedir o uso de método contraceptivo está previsto como tal. E, a perseguição, configura violência psicológica e também o crime de perseguição (stalking).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjrr-2024-psi-41",
+  "disciplina": "especificos",
+  "assunto": "esp-direitos-humanos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-RR",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns109t01-analista-judiciario-psicologia.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjrr_gabarito_definitivo_v3.pdf",
+   "questao_original": 41,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "A terminalidade é um fato da vida. No caso das pessoas muito idosas, a idade avançada vem acompanhada de perdas progressivas nas habilidades e capacidades e também causa uma predisposição a doenças incuráveis que degeneram a saúde, o que torna essas pessoas mais vulneráveis em relação à morte. Uma atitude que deve ser tomada para garantir a dignidade da pessoa idosa nesse momento tão delicado do final da vida é",
+  "alternativas": [
+   "priorizar o acolhimento da pessoa idosa em uma entidade de longa permanência para proporcionar a ela convivência social com pares de sua faixa etária.",
+   "respeitar as diretivas antecipadas de vontade da pessoa idosa com relação às intervenções e tratamentos na área da saúde.",
+   "garantir incondicionalmente o prolongamento da vida fazendo uso de todos os recursos disponibilizados pela ciência médica.",
+   "prevenir a depressão evitando que a pessoa idosa fale de suas lembranças do passado e de seus medos e angústias com o futuro.",
+   "assumir a guarda judicial da pessoa idosa a fim de poupá-la de decisões e providências relativas à gestão dos atos da vida civil."
+  ],
+  "gabarito": 1,
+  "comentario": "Garantir dignidade no fim da vida passa por respeitar a autonomia da pessoa idosa, incluindo suas diretivas antecipadas de vontade sobre tratamentos que aceita ou recusa. Priorizar a institucionalização (A) contraria a primazia do convívio familiar. Prolongar a vida a qualquer custo (C) configura obstinação terapêutica (distanásia). Silenciar as angústias da pessoa (D) é inadequado, e retirar sua autonomia civil sem necessidade (E) viola seus direitos.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjrr-2024-psi-42",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-RR",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns109t01-analista-judiciario-psicologia.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjrr_gabarito_definitivo_v3.pdf",
+   "questao_original": 42,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Os irmãos Lucas, 13 anos, e Matheus, 11 anos, foram surpreendidos pela Polícia quando entregavam drogas para usuários a mando de traficantes de seu bairro. Na Delegacia, eles relataram que não estavam estudando porque preferiam “trabalhar”. Considerando as medidas previstas no Estatuto da Criança e do Adolescente, pode ser aplicada a Lucas e Matheus, entre outras,",
+  "alternativas": [
+   "a pena socioeducativa de semiliberdade.",
+   "a medida protetiva de liberdade assistida.",
+   "a medida socioeducativa de acolhimento familiar ou institucional.",
+   "a medida socioeducativa de inclusão em programa oficial ou comunitário de tratamento antidrogas.",
+   "a medida de proteção de matrícula e frequência obrigatórias em estabelecimento oficial de ensino fundamental."
+  ],
+  "gabarito": 4,
+  "comentario": "Lucas, com 13 anos, é adolescente, e Matheus, com 11, é criança. A medida aplicável a ambos é de proteção, como a matrícula e a frequência obrigatórias em escola de ensino fundamental (ECA, art. 101, III). Semiliberdade (A) só se aplica a adolescente, e 'pena' é termo impróprio no ECA. Liberdade assistida (B) é medida socioeducativa, não protetiva. Acolhimento (C) e inclusão em programa de tratamento (D) são medidas de proteção, não socioeducativas.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjrr-2024-psi-43",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-RR",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns109t01-analista-judiciario-psicologia.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjrr_gabarito_definitivo_v3.pdf",
+   "questao_original": 43,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "João foi preso e condenado pelo crime de feminicídio contra Maria, mãe de seu filho Gabriel, de três anos. De acordo com o disposto na legislação,",
+  "alternativas": [
+   "o poder familiar de João ficará suspenso até o cumprimento da pena restritiva de direitos.",
+   "crimes cometidos na relação de conjugalidade não podem afetar a relação de parentalidade.",
+   "após ficar órfão de mãe, Gabriel poderá ser adotado por seus avós maternos.",
+   "o crime cometido por João poderá implicar a destituição do poder familiar com relação a Gabriel.",
+   "durante o cumprimento da medida de detenção, será garantida a convivência de Gabriel com o pai por meio de visitas periódicas."
+  ],
+  "gabarito": 3,
+  "comentario": "O Código Civil (art. 1.638, parágrafo único, incluído pela Lei nº 13.715/2018) prevê a perda do poder familiar por ato judicial de quem pratica feminicídio contra a outra pessoa titular do mesmo poder familiar. Por isso o crime de João pode levar à destituição do poder familiar sobre Gabriel. Feminicídio não gera pena restritiva de direitos (A), e o crime contra a mãe pode sim afetar a parentalidade (B). Os avós não podem adotar o neto (ECA, art. 42, § 1º), cabendo-lhes guarda ou tutela (C). E não há garantia de visitas nesse contexto (E).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjrr-2024-psi-44",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-RR",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns109t01-analista-judiciario-psicologia.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjrr_gabarito_definitivo_v3.pdf",
+   "questao_original": 44,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Denise apresentou um episódio hipomaníaco em seu ambiente de trabalho e foi encaminhada para uma avaliação psiquiátrica. Uma característica diagnóstica típica desse quadro é",
+  "alternativas": [
+   "a ocorrência de crises de ansiedade aguda incapacitante.",
+   "uma perturbação grave na área da percepção e do pensamento.",
+   "uma diminuição acentuada da atividade, da energia e do interesse.",
+   "um período distinto de humor anormal e persistentemente elevado.",
+   "a perda do controle sobre os pensamentos intrusivos e indesejados."
+  ],
+  "gabarito": 3,
+  "comentario": "No DSM-5, o episódio hipomaníaco é um período distinto de humor anormal e persistentemente elevado, expansivo ou irritável, com aumento de energia ou atividade. Dura pelo menos 4 dias e não chega a causar prejuízo grave nem sintomas psicóticos. Perturbação grave de percepção e pensamento (B) indica psicose. Redução de energia e interesse (C) é característica depressiva. Ansiedade aguda (A) e pensamentos intrusivos indesejados (E) remetem a outros quadros, como pânico e TOC.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjrr-2024-psi-45",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-RR",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns109t01-analista-judiciario-psicologia.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjrr_gabarito_definitivo_v3.pdf",
+   "questao_original": 45,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "A abordagem de crianças vítimas de violência sexual requer muito cuidado por parte dos entrevistadores. O objetivo da escuta especializada é",
+  "alternativas": [
+   "garantir a tomada de decisões que possam ensejar proteção social e o provimento de cuidados à criança vítima ou testemunha de violência.",
+   "aplicar técnicas psicológicas que permitam avaliar a vulnerabilidade da criança à sugestão a fim de detectar mentiras e falsas memórias.",
+   "proceder ao levantamento detalhado da história de desenvolvimento da criança para estabelecer relações entre essa história e a queixa apresentada.",
+   "atingir uma maior credibilidade e fidedignidade dos testemunhos prestados pela criança, com vistas a coletar provas para a elucidação do crime de que ela é vítima.",
+   "realizar a oitiva da criança perante a autoridade judiciária com transmissão em tempo real para a sala de audiência de forma a garantir a legalidade do processo criminal."
+  ],
+  "gabarito": 0,
+  "comentario": "Pela Lei nº 13.431/2017, a escuta especializada é a entrevista feita por órgão da rede de proteção (saúde, assistência, educação), limitada ao estritamente necessário. Sua finalidade é garantir proteção e o provimento de cuidados à criança vítima ou testemunha de violência. A produção de prova, com maior credibilidade do testemunho (D), e a oitiva perante autoridade com transmissão em tempo real (E) caracterizam o depoimento especial. Detectar mentiras (B) e levantar toda a história do desenvolvimento (C) não são seus objetivos.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjrr-2024-psi-46",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-RR",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns109t01-analista-judiciario-psicologia.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjrr_gabarito_definitivo_v3.pdf",
+   "questao_original": 46,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "O Conselho Nacional das Direitos da Criança e do Adolescente – CONANDA publicou, em 10/07/2024, uma resolução que dispõe sobre a proibição de acolhimento de crianças e adolescentes em comunidades terapêuticas. A resolução do CONANDA tem como fundamento a legislação sobre a proteção de crianças e adolescentes e a legislação que trata da proteção e os direitos das pessoas com transtornos mentais e redireciona o modelo assistencial em saúde mental, entre outras. De acordo com os princípios dessas leis, avalie as afirmativas a seguir:\nI. A internação em comunidades terapêuticas representa uma ação de privação de liberdade, infringindo os direitos à liberdade, participação e convivência familiar e comunitária das crianças e adolescentes.\nII. As comunidades terapêuticas não se configuram como serviços de caráter transitório, por sua estrutura ser baseada no isolamento, no trabalho voluntário, na abstinência e nas práticas de redução de danos.\nIII. O Estado brasileiro é laico e as Comunidades terapêuticas são instituições que, em sua maioria, não só abarcam questões de espiritualidade, mas também utilizam do fundamentalismo religioso em seus regimentos e operacionalizações.\nEstá correto o que se afirma em",
+  "alternativas": [
+   "I e II, apenas.",
+   "I e III, apenas.",
+   "II e III, apenas.",
+   "I, apenas.",
+   "II, apenas."
+  ],
+  "gabarito": 1,
+  "comentario": "I está correta: o acolhimento em comunidades terapêuticas priva crianças e adolescentes de liberdade e do convívio familiar e comunitário, contrariando o ECA e a Lei nº 10.216/2001. III também está correta, ao apontar a tensão entre a laicidade do Estado e o caráter religioso, por vezes fundamentalista, de muitas dessas instituições. II é falsa porque essas comunidades são estruturadas na abstinência, e não em práticas de redução de danos. Por isso a resposta é I e III.",
+  "dificuldade": 3,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjrr-2024-psi-47",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-RR",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns109t01-analista-judiciario-psicologia.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjrr_gabarito_definitivo_v3.pdf",
+   "questao_original": 47,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "João foi reconhecido legalmente apenas por sua mãe, Letícia, tendo sempre permanecido junto a ela em seu desenvolvimento. Letícia nunca quis revelar o nome do pai ao filho, pois se sentiu magoada pelo fato de o então namorado não tê-la apoiado na gravidez e após o parto da criança. Ocorre que João descobriu, com 24 anos, que seu pai é Adolfo, antigo namorado de Letícia. Diante da hipótese apresentada, é correto afirmar que",
+  "alternativas": [
+   "João pode pedir o reconhecimento da paternidade mesmo após a maioridade.",
+   "João só poderia ser reconhecido pelo pai caso a mãe tivesse proposto ação antes dos 18 anos do filho.",
+   "diante da maioridade do filho, cabe apenas a Adolfo reconhecer voluntariamente a paternidade.",
+   "O filho não pode mais pedir o reconhecimento de paternidade, mas um neto poderá pedir durante sua menoridade.",
+   "Letícia pode peticionar em nome do filho a qualquer tempo pois o direito à filiação não prescreve."
+  ],
+  "gabarito": 0,
+  "comentario": "O reconhecimento do estado de filiação é direito personalíssimo, indisponível e imprescritível (ECA, art. 27). Assim, João pode propor ação de investigação de paternidade mesmo depois de adulto. A ação não depende de iniciativa da mãe antes da maioridade (B, E): depois dos 18 anos, cabe ao próprio filho agir. O reconhecimento voluntário pelo pai, de filho maior, depende do consentimento do filho, portanto não cabe 'apenas' a Adolfo (C).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjrr-2024-psi-48",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-RR",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns109t01-analista-judiciario-psicologia.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjrr_gabarito_definitivo_v3.pdf",
+   "questao_original": 48,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Mauro e Marcela são irmãos e foram acolhidos após graves denúncias de maus tratos e negligência familiar. Diante desse relato, é correto afirmar que",
+  "alternativas": [
+   "os irmãos poderão ficar acolhidos por até 24 meses antes de voltar para a família.",
+   "as crianças precisam ser reintegradas à família nuclear, senão irão para adoção.",
+   "o acolhimento não deve se prolongar por mais de 18 meses, salvo em situações que atendam ao interesse das crianças.",
+   "logo após o acolhimento será acionada família habilitada para adotá-los.",
+   "os irmãos poderão ser adotados por pessoa jurídica caso não sejam reintegrados à família."
+  ],
+  "gabarito": 2,
+  "comentario": "Pelo ECA (art. 19, § 2º, com redação da Lei nº 13.509/2017), a permanência em acolhimento institucional não deve passar de 18 meses, salvo comprovada necessidade que atenda ao superior interesse da criança. O prazo de 24 meses (A) é a regra antiga. A reintegração pode ser também à família extensa (B), e a prioridade é a reintegração, não a adoção imediata (D). Pessoa jurídica não pode adotar (E).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjrr-2024-psi-49",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-RR",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns109t01-analista-judiciario-psicologia.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjrr_gabarito_definitivo_v3.pdf",
+   "questao_original": 49,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Com relação à realização dos exames criminológicos por psicólogos que atuam no sistema prisional, o Conselho Federal de Psicologia",
+  "alternativas": [
+   "define os testes psicológicos mais adequados para avaliação da periculosidade do apenado.",
+   "considera que é uma demanda judiciária que ultrapassa as possibilidades técnicas e éticas da profissão.",
+   "condiciona a progressão da pena à realização do exame criminológico realizado por psicólogo.",
+   "historiciza o progresso da evolução da criminologia no sistema prisional brasileiro.",
+   "defende que os exames criminológicos sejam realizados exclusivamente por psicólogos."
+  ],
+  "gabarito": 1,
+  "comentario": "O CFP tem posição crítica ao exame criminológico. Entende que prever comportamento futuro, reincidência ou 'periculosidade' para subsidiar decisões de progressão de pena é uma demanda que ultrapassa os limites técnicos e éticos da Psicologia. Por isso o Conselho não indica testes para avaliar periculosidade (A), não condiciona a progressão ao exame (C) e não defende sua realização exclusiva por psicólogos (E). A alternativa D não descreve a posição do CFP.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjrr-2024-psi-50",
+  "disciplina": "especificos",
+  "assunto": "esp-direitos-humanos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-RR",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns109t01-analista-judiciario-psicologia.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjrr_gabarito_definitivo_v3.pdf",
+   "questao_original": 50,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Com relação à violência intrafamiliar, avalie as afirmativas a seguir.\nI. Qualquer tipo de violação ou agressão dentro do âmbito familiar, seja física, psicológica ou socioeconômica compreende-se como violência intrafamiliar.\nII. A violência está presente no seio de famílias de todas as classes sociais, acometendo principalmente mulheres e crianças.\nIII. A convivência em ambientes de constante violência por parte dos pais pode ser um fator de perpetuação do comportamento agressivo nos filhos.\nEstá correto o que se afirma em",
+  "alternativas": [
+   "I, apenas.",
+   "II, apenas.",
+   "III, apenas.",
+   "I e II, apenas.",
+   "I, II e III."
+  ],
+  "gabarito": 4,
+  "comentario": "As três afirmativas estão corretas. A violência intrafamiliar abrange violações físicas, psicológicas, sexuais, patrimoniais ou socioeconômicas no âmbito da família. Ela ocorre em todas as classes sociais e atinge sobretudo mulheres e crianças. A exposição contínua à violência dos pais é fator de risco para a reprodução de comportamentos agressivos (transmissão intergeracional).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjrr-2024-psi-51",
+  "disciplina": "legislacao",
+  "assunto": "leg-lei13140",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-RR",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns109t01-analista-judiciario-psicologia.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjrr_gabarito_definitivo_v3.pdf",
+   "questao_original": 51,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Com relação à mediação e à conciliação é correto afirmar que",
+  "alternativas": [
+   "os métodos de autocomposição são formas rápidas de resolver conflitos, necessitando de apresentação de provas e documentos para que o juiz possa decidir equanimemente a solução da disputa.",
+   "na conciliação, o terceiro facilitador da conversa interfere de forma mais direta no litígio e pode chegar a sugerir opções de solução para o conflito; já na mediação, o mediador facilita o diálogo entre as pessoas para que elas proponham as próprias soluções.",
+   "a conciliação é um método de resolução de disputas no qual um terceiro elemento neutro promove a comunicação entre as diferentes organizações envolvidas, enquanto a mediação é mais diretiva, com sugestões de caminhos e solução para o conflito.",
+   "nos conflitos subjetivos, nos quais exista relação entre os envolvidos ou desejo de que tal relacionamento perdure, indica-se a conciliação, enquanto nos conflitos objetivos, mais superficiais, nos quais não existe relacionamento duradouro entre os envolvidos, aconselha-se o uso da mediação.",
+   "se as pessoas não chegarem a um acordo, o juiz pode obrigar a composição pois, ao acionarem o Judiciário, as partes concordam com as regras de funcionamento desse mecanismo de resolução alternativa de litígios."
+  ],
+  "gabarito": 1,
+  "comentario": "Na conciliação, o terceiro atua de forma mais direta e pode sugerir soluções. É indicada para conflitos sem vínculo anterior entre as partes. Na mediação, o mediador facilita o diálogo para que as próprias partes construam a solução, sendo indicada quando há vínculo que tende a continuar (CPC, art. 165; Lei nº 13.140/2015). C e D invertem esses conceitos. A erra porque autocomposição não depende de decisão judicial, e E porque o acordo não pode ser imposto.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjrr-2024-psi-52",
+  "disciplina": "legislacao",
+  "assunto": "leg-idoso-pcd",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-RR",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns109t01-analista-judiciario-psicologia.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjrr_gabarito_definitivo_v3.pdf",
+   "questao_original": 52,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Leonardo, 74 anos, caiu ao tomar banho de chuveiro, tendo fraturado o fêmur. Sua filha Josélia o levou para a emergência ortopédica do hospital particular que atende ao seu plano de saúde, sendo identificado que o idoso precisará ser internado. Leonardo está muito fragilizado com a hipótese da internação, e pede para que a filha permaneça no hospital com ele, mas a unidade hospitalar alega que, como seu plano é de enfermaria, ele não pode contar com acompanhante. Com relação à hipótese em análise, é correto afirmar que",
+  "alternativas": [
+   "Leonardo deve permanecer sozinho durante a internação pois em rede privada a definição de direito de acompanhante é definida por intermédio do contrato do plano.",
+   "a permanência de acompanhante só é regulamentada para idosos acima de 80 anos, não se justificando na situação previamente descrita.",
+   "o idoso tem direito a acompanhante durante todo o período de hospitalização, só sendo cabível recusa diante de hipótese medicamente fundamentada.",
+   "como Leonardo permanecerá em enfermaria não pode contar com acompanhante do sexo feminino, só podendo permanecer com acompanhantes homens.",
+   "Leonardo tem direito a contar com a presença de acompanhante durante toda a internação hospitalar, não sendo cabível recusa em nenhuma hipótese."
+  ],
+  "gabarito": 2,
+  "comentario": "O Estatuto da Pessoa Idosa (art. 16) assegura à pessoa idosa internada ou em observação o direito a acompanhante em tempo integral. Cabe ao profissional de saúde responsável autorizar o acompanhamento ou, se for impossível, justificar por escrito. Logo, a recusa só cabe com fundamentação médica. O direito não depende do tipo de plano (A) nem de ter mais de 80 anos (B), e o estatuto não restringe o sexo do acompanhante (D). E erra ao dizer que nunca cabe recusa.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjrr-2024-psi-53",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-RR",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns109t01-analista-judiciario-psicologia.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjrr_gabarito_definitivo_v3.pdf",
+   "questao_original": 53,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Marília foi assaltada com emprego de violência ao retornar da faculdade. Desde então, passou a apresentar alterações de comportamento, lembra-se insistentemente do ocorrido, tem recorrentes pesadelos e deixou de ter prazer com as atividades de que gostava anteriormente. Diante da descrição, podemos considerar que Marília apresenta traços sugestivos de",
+  "alternativas": [
+   "gaslighting.",
+   "episódio maníaco.",
+   "TEA.",
+   "TDAH.",
+   "transtorno de estresse pós traumático."
+  ],
+  "gabarito": 4,
+  "comentario": "Depois de um evento traumático (assalto com violência), Marília apresenta lembranças intrusivas, pesadelos recorrentes e perda de prazer em atividades. São sintomas de intrusão e de alterações negativas no humor típicos do transtorno de estresse pós-traumático (TEPT). Gaslighting é uma forma de manipulação psicológica, não um diagnóstico. Episódio maníaco, TEA e TDAH não correspondem ao quadro, que tem relação clara com o trauma.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjrr-2024-psi-54",
+  "disciplina": "especificos",
+  "assunto": "esp-direitos-humanos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-RR",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns109t01-analista-judiciario-psicologia.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjrr_gabarito_definitivo_v3.pdf",
+   "questao_original": 54,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Antônia, uma mulher negra, estudou a vida toda em escolas públicas e se formou em medicina pelo sistema de cotas, razão pela qual busca discutir o assunto do racismo estrutural sempre que percebe um incômodo de outras pessoas com sua presença. Sobre o racismo estrutural é correto afirmar que",
+  "alternativas": [
+   "a representatividade implica em mudanças nas estruturas das relações de poder sociais.",
+   "as empresas devem reproduzir o status social, dependendo de políticas públicas para adotar ações antidiscriminatórias.",
+   "o racismo estrutural também afeta pessoas brancas que sofrem discriminação social.",
+   "o racismo estrutural é o racismo que está presente na própria estrutura social.",
+   "o racismo institucional é responsável pelo racismo estrutural e pelo racismo individual."
+  ],
+  "gabarito": 3,
+  "comentario": "Para Silvio Almeida, o racismo é estrutural porque decorre da própria estrutura social, ou seja, do modo 'normal' como funcionam as relações políticas, econômicas e jurídicas. Não é uma anomalia individual ou institucional. Representatividade, sozinha, não muda as estruturas de poder (A). Não existe 'racismo' contra brancos como discriminação estrutural (C). E E inverte a relação: as instituições são racistas porque a sociedade é estruturalmente racista.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjrr-2024-psi-55",
+  "disciplina": "especificos",
+  "assunto": "esp-direitos-humanos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-RR",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns109t01-analista-judiciario-psicologia.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjrr_gabarito_definitivo_v3.pdf",
+   "questao_original": 55,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Wenceslau e Nádia foram casados por três anos. Marcelo nasceu no período, fruto dessa união conjugal. Após a separação, o menino permaneceu com a mãe e o pai sempre assumiu a responsabilidade pelo pagamento da pensão alimentícia, mas parou de visitar o filho e de ter contato com ele. A dinâmica em análise parece ser sugestiva de",
+  "alternativas": [
+   "negligência física.",
+   "abandono emocional.",
+   "maus tratos institucionais.",
+   "abuso físico.",
+   "violência moral."
+  ],
+  "gabarito": 1,
+  "comentario": "O pai cumpre a obrigação material (pensão), mas rompe o vínculo, deixando de visitar e de ter contato com o filho. Isso caracteriza abandono emocional (afetivo). Negligência física envolve falhar em necessidades físicas como alimentação, higiene e saúde. Maus-tratos institucionais, abuso físico e violência moral não descrevem a situação.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjrr-2024-psi-56",
+  "disciplina": "especificos",
+  "assunto": "esp-direitos-humanos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-RR",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns109t01-analista-judiciario-psicologia.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjrr_gabarito_definitivo_v3.pdf",
+   "questao_original": 56,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Susana foi vítima de violência doméstica praticada por seu marido Pedro e saiu da casa comum levando o filho de ambos, Rodrigo. Diante da mudança de domicílio, Rodrigo foi matriculado em escola mais próxima de onde agora reside. De acordo com os dispositivos previstos pela Lei Maria da Penha (Lei nº 11.340/2006), é correto afirmar que",
+  "alternativas": [
+   "Pedro tem o direito de ser informado pessoalmente por Susana sobre a escola onde o filho foi matriculado e estuda.",
+   "Susana deve informar, no processo do Juizado de Violência Doméstica, onde matriculou o filho para ciência de Pedro.",
+   "o juiz não deve falar a Pedro, mas os avós e tios paternos têm que saber onde Rodrigo está matriculado.",
+   "Rodrigo tem que ser ouvido para saber qual o seu desejo acerca da participação do pai em sua vida escolar.",
+   "Susana tem direito a manter a informação da escola do filho sigilosa."
+  ],
+  "gabarito": 4,
+  "comentario": "A Lei Maria da Penha (art. 9º, §§ 7º e 8º, incluídos pela Lei nº 13.882/2019) garante à mulher em situação de violência prioridade para matricular ou transferir os filhos para escola próxima do novo domicílio. Também determina que esses dados sejam sigilosos, com acesso restrito ao juiz, ao Ministério Público e aos órgãos competentes. Por isso Susana pode manter em sigilo a escola do filho, e as alternativas que obrigam a informar Pedro ou parentes dele estão erradas.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjrr-2024-psi-57",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-RR",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns109t01-analista-judiciario-psicologia.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjrr_gabarito_definitivo_v3.pdf",
+   "questao_original": 57,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "A principal característica que une as psicoterapias psicodinâmicas é",
+  "alternativas": [
+   "o reconhecimento de conflitos inconscientes na base do sofrimento psíquico.",
+   "explicar os transtornos mentais pela história do aprendizado individual e interação com o meio.",
+   "a explicação dos transtornos psíquicos como decorrentes da incongruência entre autoimagem e experiência pessoal.",
+   "considerar os transtornos comportamentais como expressão da disfunção comportamental.",
+   "buscar na dimensão transpessoal a origem dos problemas psíquicos."
+  ],
+  "gabarito": 0,
+  "comentario": "O que une as psicoterapias psicodinâmicas, derivadas da psicanálise, é a ideia de que o sofrimento psíquico tem base em conflitos inconscientes. Explicar transtornos pela história de aprendizagem (B, D) é próprio das abordagens comportamentais. A incongruência entre autoimagem e experiência (C) é central na abordagem centrada na pessoa, de Rogers. A dimensão transpessoal (E) caracteriza a psicologia transpessoal.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjrr-2024-psi-58",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-RR",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns109t01-analista-judiciario-psicologia.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjrr_gabarito_definitivo_v3.pdf",
+   "questao_original": 58,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "O famoso psicólogo social Leon Festinger desenvolveu um constructo teórico para explicar os conflitos decorrentes da tomada de decisões frente a dois ou mais elementos cognitivos que não são coerentes entre si. Um exemplo, trazido pelo próprio Festinger, foi o da dona de casa que participava de uma seita que pregava o fim do mundo em 1954. Ao perceberem que o mundo não acabou, os membros da seita desenvolveram a crença de que isso não ocorrera em função de sua fé. Assim, em vez de abandonar o grupo, muitos membros aumentaram sua crença, ignorando os dados da realidade e se convencendo das próprias narrações. Essa teoria é conhecida como",
+  "alternativas": [
+   "conformidade regulatória.",
+   "ação revocatória.",
+   "dissonância cognitiva.",
+   "obediência à autoridade.",
+   "variáveis situacionais comportamentais."
+  ],
+  "gabarito": 2,
+  "comentario": "Leon Festinger propôs a teoria da dissonância cognitiva: o desconforto causado por cognições incoerentes leva a pessoa a reduzi-lo, mudando crenças ou reinterpretando fatos. O exemplo clássico, do livro 'When Prophecy Fails', é o da seita cujos membros reforçaram a fé quando a profecia do fim do mundo falhou. Obediência à autoridade remete a Milgram, e conformidade a Asch. As demais alternativas não são teorias de Festinger.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjrr-2024-psi-59",
+  "disciplina": "especificos",
+  "assunto": "esp-avaliacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-RR",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns109t01-analista-judiciario-psicologia.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjrr_gabarito_definitivo_v3.pdf",
+   "questao_original": 59,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Em 2022, o Conselho Federal de Psicologia emitiu a nota técnica nº 4/2022/GTEC/CG, que versa sobre os impactos da lei nº 12.318/2010, conhecida como Lei da Alienação Parental, na atuação das psicólogas e dos psicólogos. Com relação às recomendações feitas na nota supracitada, analise as afirmativas a seguir.\nI. Em situações nas quais são instados a se manifestar sobre a ocorrência ou não de alienação parental, nos termos da Lei nº 12.318/10, a(o)s psicóloga(o)s fundamentem suas análises e conclusões acerca dos membros do grupo familiar e de suas dinâmicas relacionais com base no ilícito civil, definido nos termos da lei.\nII. Na elaboração de documentos psicológicos, a(o)s psicóloga(o)s restrinjam suas análises e conclusões à comparação entre os comportamentos observados em membros do grupo familiar com as formas exemplificativas do ilícito civil, definido pela Lei nº 12.318/10 como alienação parental.\nIII. No atendimento à criança e adolescente envolvidos em disputa de guarda e convivência familiar, a(o)s psicóloga(o)s incluam a mãe, o pai ou outro responsável no processo terapêutico ou de avaliação psicológica.\nEstá correto o que se afirma em",
+  "alternativas": [
+   "I, apenas.",
+   "III, apenas.",
+   "I e II, apenas.",
+   "II e III, apenas.",
+   "I, II e III."
+  ],
+  "gabarito": 1,
+  "comentario": "A Nota Técnica CFP nº 4/2022 recomenda que psicólogas e psicólogos não fundamentem suas análises no ilícito civil 'alienação parental' da Lei nº 12.318/2010. Também recomenda que não restrinjam suas conclusões a comparar comportamentos com as hipóteses exemplificativas da lei. Os itens I e II dizem exatamente o contrário. O item III está correto: a nota orienta incluir mãe, pai ou outro responsável no processo de avaliação ou terapêutico da criança ou adolescente envolvido na disputa.",
+  "dificuldade": 3,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjrr-2024-psi-60",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-RR",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns109t01-analista-judiciario-psicologia.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjrr_gabarito_definitivo_v3.pdf",
+   "questao_original": 60,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Segundo Freud, o parricídio está na origem da lei universal que funda a civilização, uma vez que tal crime primordial interdita a satisfação incestuosa de gozar de todas as mulheres e abre cada sujeito às identificações que organizam os grupos humanos. É no ato de instauração da lei que se constitui a instância que exerce uma cruel vigilância sobre o eu por intermédio do sentimento de culpa. Trata-se do",
+  "alternativas": [
+   "isso.",
+   "eu ideal.",
+   "supereu.",
+   "eu realidade.",
+   "narcisismo originário."
+  ],
+  "gabarito": 2,
+  "comentario": "Em 'Totem e tabu' e 'O mal-estar na civilização', Freud relaciona o assassinato do pai primevo à instauração da lei, da culpa e da interdição do incesto. A instância que exerce cruel vigilância sobre o eu por meio do sentimento de culpa é o supereu, herdeiro do complexo de Édipo. O isso é o polo pulsional, e o eu ideal e o narcisismo originário se referem à constituição narcísica do eu.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjrr-2024-psi-61",
+  "disciplina": "legislacao",
+  "assunto": "leg-res06-2019",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-RR",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns109t01-analista-judiciario-psicologia.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjrr_gabarito_definitivo_v3.pdf",
+   "questao_original": 61,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "A Resolução CFP 06/2019 normatiza as orientações para a elaboração de documentos escritos produzidos pela(o) psicóloga(o) no exercício profissional. De acordo com a Resolução, é correto afirmar que",
+  "alternativas": [
+   "o Atestado deve constar a descrição da demanda, o procedimento e a conclusão em sua estrutura.",
+   "a Declaração resulta de avaliação psicológica e deve ter o registro de sintomas, situações ou estados psicológicos da pessoa atendida.",
+   "o Parecer deve apresentar os procedimentos e conclusões gerados pelo processo de avaliação psicológica e relatar o diagnóstico, o prognóstico, a evolução do caso, a orientação e/ou sugestão de projeto terapêutico.",
+   "no item Procedimento do Relatório psicológico, cumpre à(ao) psicóloga(o) autora(or) do relatório, citar as pessoas ouvidas no processo de trabalho desenvolvido, as informações objetivas, o número de encontros e o tempo de duração do processo realizado.",
+   "nos casos em que a(o) psicóloga(o) atua em equipes multiprofissionais, mas que há solicitação de um documento decorrente da avaliação, o Laudo psicológico deve ser confeccionado em separado do Relatório Multiprofissional."
+  ],
+  "gabarito": 3,
+  "comentario": "Pela Resolução CFP nº 06/2019, no item 'Procedimento' do relatório psicológico, a psicóloga deve citar as pessoas ouvidas, as informações, o número de encontros e o tempo de duração do processo. A erra porque o atestado não tem estrutura de demanda, procedimento e conclusão. B erra porque a declaração não resulta de avaliação nem registra sintomas ou estados psicológicos. C erra porque o parecer é resposta técnica a uma consulta, e a descrição dada é de laudo. A alternativa E também foi considerada incorreta pela banca.",
+  "dificuldade": 3,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjrr-2024-psi-62",
+  "disciplina": "especificos",
+  "assunto": "esp-avaliacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-RR",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns109t01-analista-judiciario-psicologia.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjrr_gabarito_definitivo_v3.pdf",
+   "questao_original": 62,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "A Resolução CFP 017/2012 dispõe sobre a atuação do psicólogo como Perito nos diversos contextos. De acordo com a referida resolução, é correto afirmar que",
+  "alternativas": [
+   "o trabalho pericial deverá contemplar visitas institucionais quando se tratar de avaliação multiprofissional.",
+   "o periciado deve ser informado acerca dos objetivos, dos referenciais teóricos, datas e local da avaliação pericial psicológica.",
+   "a devolutiva do processo de avaliação deve direcionar-se para os resultados dos instrumentos e técnicas utilizados.",
+   "quando a pessoa atendida for criança, adolescente ou interdito, é necessária a apresentação de consentimento formal a ser dado por ambos os responsáveis legais.",
+   "a recusa do periciado ou de seu dependente em submeter-se às avaliações para fins de perícia psicológica deve ser comunicada ao juiz, preferencialmente em audiência."
+  ],
+  "gabarito": 2,
+  "comentario": "Pelo gabarito oficial, baseado na Resolução CFP nº 17/2012, a devolutiva da perícia deve se dirigir aos resultados dos instrumentos e técnicas utilizados. B erra ao incluir 'referenciais teóricos': o periciado deve ser informado dos motivos, das técnicas, das datas e do local. D erra porque não se exige consentimento formal de ambos os responsáveis. E erra porque a norma não prevê comunicação da recusa 'em audiência'. A também está errada, pois visitas institucionais não são obrigatórias.",
+  "dificuldade": 3,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjrr-2024-psi-63",
+  "disciplina": "especificos",
+  "assunto": "esp-avaliacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-RR",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns109t01-analista-judiciario-psicologia.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjrr_gabarito_definitivo_v3.pdf",
+   "questao_original": 63,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "João Pedro é psicólogo perito e foi chamado a atuar num processo de família, no qual uma das partes designou um assistente técnico. De acordo com a Resolução CFP nº 008/2010, que dispõe sobre a atuação do psicólogo como perito e assistente técnico no Poder Judiciário, é correto afirmar que",
+  "alternativas": [
+   "o psicólogo assistente técnico é de confiança do Juiz e está sujeito a impedimento ou suspeição legais.",
+   "a confidencialidade e o sigilo das comunicações das pessoas atendidas não devem existir entre os psicólogos perito e assistente técnico.",
+   "o psicólogo assistente técnico deve estar presente durante todos os procedimentos metodológicos que norteiam o atendimento do psicólogo perito.",
+   "é vedado ao assistente técnico ouvir pessoas envolvidas ou solicitar documentos em poder das partes, devendo restringir sua análise ao estudo psicológico resultante da perícia.",
+   "o psicólogo perito apresentará indicativos pertinentes à sua investigação que possam diretamente subsidiar o Juiz na solicitação realizada, reconhecendo os limites legais de sua atuação profissional, sem adentrar nas decisões, que são exclusivas às atribuições dos magistrados."
+  ],
+  "gabarito": 4,
+  "comentario": "A Resolução CFP nº 08/2010 determina que o perito apresente indicativos pertinentes à investigação que subsidiem o juiz, reconhecendo os limites de sua atuação e sem entrar nas decisões, que cabem só ao magistrado. A erra porque o assistente técnico é de confiança da parte, não do juiz, e não está sujeito a impedimento ou suspeição. C erra porque perito e assistente técnico não devem estar presentes nos procedimentos um do outro. D erra porque o assistente técnico pode ouvir pessoas e solicitar documentos. B contraria o dever de sigilo.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjrr-2024-psi-64",
+  "disciplina": "legislacao",
+  "assunto": "leg-res01-2009",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-RR",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns109t01-analista-judiciario-psicologia.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjrr_gabarito_definitivo_v3.pdf",
+   "questao_original": 64,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "A Resolução CFP nº 001/2009 dispõe sobre a obrigatoriedade do registro documental decorrente da prestação de serviços psicológicos. Com relação ao estabelecido nessa resolução, analise as afirmativas a seguir.\nI. O registro documental em papel ou informatizado tem caráter sigiloso e constitui-se de um conjunto de informações que tem por objetivo contemplar de forma sucinta o trabalho prestado, a descrição e a evolução da atividade e os procedimentos técnico-científicos adotados.\nII. A guarda do registro documental é de responsabilidade do psicólogo e/ou da instituição em que ocorreu o serviço.\nIII. Quando em serviço multiprofissional, o registro da Psicologia deve ser realizado em prontuário próprio, separado das outras áreas.\nEstá correto o que se afirma em",
+  "alternativas": [
+   "I, II e III.",
+   "I e II, apenas.",
+   "I e III, apenas.",
+   "II e III, apenas.",
+   "II, apenas."
+  ],
+  "gabarito": 1,
+  "comentario": "I e II estão de acordo com a Resolução CFP nº 01/2009. O registro documental é sigiloso e sucinto, abrangendo trabalho prestado, evolução e procedimentos técnico-científicos. Sua guarda é de responsabilidade do psicólogo e/ou da instituição. III é falsa porque, em serviço multiprofissional, o registro da Psicologia é feito no prontuário único da instituição, e não em prontuário separado. Nele o psicólogo registra apenas as informações necessárias ao cumprimento dos objetivos do trabalho.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjrr-2024-psi-65",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-RR",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns109t01-analista-judiciario-psicologia.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjrr_gabarito_definitivo_v3.pdf",
+   "questao_original": 65,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Márcio e Rosane possuem uma filha em comum com atuais doze anos de idade e se separaram de forma litigiosa durante a pandemia de COVID-19. Depois de muitos desacordos em relação à convivência familiar e outros assuntos de interesse da menina, Márcio decidiu ajuizar uma ação de guarda compartilhada com base na lei nº 13.058 de 22/12/2014. Com base nessa lei, é correto afirmar que",
+  "alternativas": [
+   "o juiz não deve aplicar a guarda compartilhada em situação de litígio, e sim quando houver acordo.",
+   "caso ocorra de o pai ou a mãe não deter a guarda, este ou esta estará impedido(a) de supervisionar os interesses da filha.",
+   "o tempo de convivência da prole em comum é dividido de forma idêntica e alternada quando estabelecida a guarda compartilhada.",
+   "se o juiz verificar que a filha não deve permanecer sob a guarda do pai ou da mãe, determinará de imediato o seu acolhimento institucional.",
+   "compete a ambos os pais, qualquer que seja a sua situação conjugal, o pleno exercício do poder familiar de exigir que a filha lhes preste obediência, respeito e os serviços próprios de sua idade e condição."
+  ],
+  "gabarito": 4,
+  "comentario": "A Lei nº 13.058/2014 deu nova redação ao art. 1.634 do Código Civil: compete a ambos os pais, qualquer que seja a situação conjugal, o pleno exercício do poder familiar, inclusive exigir dos filhos obediência, respeito e os serviços próprios de sua idade. A guarda compartilhada é a regra mesmo sem acordo (A errada). O genitor que não detém a guarda deve supervisionar os interesses do filho (B errada). O tempo de convívio é dividido de forma equilibrada, e não idêntica e alternada (C errada). Na falta de condições dos pais, a guarda vai a quem tenha compatibilidade e afinidade, e não para acolhimento imediato (D errada).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjrr-2024-psi-66",
+  "disciplina": "especificos",
+  "assunto": "esp-direitos-humanos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-RR",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns109t01-analista-judiciario-psicologia.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjrr_gabarito_definitivo_v3.pdf",
+   "questao_original": 66,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Juliana é mulher negra e periférica, e mãe de três filhos, dois dos quais assassinados em meio à política de combate e de guerra às drogas. Para refletir sobre tal situação, que se repete em toda extensão nacional, vale citar o pensador negro Achille Mbembe, que cria um conceito-chave para descrever a política de Estado que determina, por meio de ações ou omissões, quem pode permanecer vivo ou deve morrer, nesse último caso, atingindo de sobremaneira as populações mais pobres e minorias raciais. O caso narrado ilustra o conceito de",
+  "alternativas": [
+   "biopoder.",
+   "necropolítica.",
+   "estado de exceção.",
+   "cultura do narcisismo.",
+   "narcisismo das pequenas diferenças."
+  ],
+  "gabarito": 1,
+  "comentario": "Achille Mbembe criou o conceito de necropolítica para descrever o poder soberano de decidir quem pode viver e quem deve morrer. Esse poder recai sobretudo sobre populações negras e pobres, como na 'guerra às drogas'. Biopoder é conceito de Foucault (gestão da vida das populações), que Mbembe retoma e radicaliza. Estado de exceção remete a Agamben, 'cultura do narcisismo' a Lasch, e 'narcisismo das pequenas diferenças' a Freud.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjrr-2024-psi-67",
+  "disciplina": "especificos",
+  "assunto": "esp-direitos-humanos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-RR",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns109t01-analista-judiciario-psicologia.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjrr_gabarito_definitivo_v3.pdf",
+   "questao_original": 67,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "A desigualdade e a hierarquização entre gêneros podem se manifestar sob diversas formas, sobretudo, através de violência. A pessoa cuja identidade de gênero não corresponde a uma matriz heteronormativa está sujeita a sofrer todo tipo de exclusão, podendo culminar em seu extermínio. Para pensar as questões de gênero, vale citar as contribuições de Judith Butler que, em seu conhecido livro Problemas de Gênero, apresenta a ideia central de que",
+  "alternativas": [
+   "a aparência de que o sexo tem caráter natural provém do caráter performativo de gênero.",
+   "o sexo é reprimido pelo poder e deve ser vivido em sua essência e potencialidade.",
+   "a interdição do incesto é condição para realizar a passagem do estado de natureza para a cultura.",
+   "o amor materno foi um mito historicamente criado na antiguidade para controlar o sexo feminino.",
+   "a dicotomia entre sexo e gênero é algo intransponível, de modo que cabe à teoria social abordar somente a segunda."
+  ],
+  "gabarito": 0,
+  "comentario": "Em 'Problemas de gênero', Butler defende que o gênero é performativo, constituído pela repetição de atos regulados por normas. Ela sustenta que a aparência de naturalidade do sexo é efeito dessa performatividade. A ideia de sexo reprimido que deve ser liberado (B) é a hipótese repressiva criticada por Foucault. A interdição do incesto como passagem natureza–cultura (C) é de Lévi-Strauss. O mito do amor materno (D) é de Badinter e se refere à modernidade. E contraria Butler, que desconstrói a dicotomia sexo/gênero.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjrr-2024-psi-68",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-RR",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns109t01-analista-judiciario-psicologia.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjrr_gabarito_definitivo_v3.pdf",
+   "questao_original": 68,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Uma entrevista, seja individual ou coletiva, pode seguir o método cartográfico, cuja perspectiva é inspirada no pensamento de Deleuze e Guattari, de grande importância para a analítica institucional. O método cartográfico considera as linhas de fuga que compõem a experiência, evitando-se, assim, perspectivas totalizantes. Nessa perspectiva, existe um conceito fundamental que corresponde ao entendimento da vida de uma forma mais ampla, considerando a complexidade que lhe são inerentes. Tal conceito faz referência direta à imagem oriunda da botânica, correspondendo a um emaranhado de linhas em que não é possível distinguir início e fim, nem núcleo ou ponto central. Trata-se do conceito de",
+  "alternativas": [
+   "rizoma.",
+   "sinergia.",
+   "nodulação.",
+   "arquétipo.",
+   "profundidade."
+  ],
+  "gabarito": 0,
+  "comentario": "Deleuze e Guattari usam a imagem botânica do rizoma, um caule sem centro, início ou fim, que se conecta em qualquer ponto. Com ela descrevem multiplicidades e conexões não hierárquicas, em oposição ao modelo arborescente. O conceito sustenta o método cartográfico e a análise institucional. Arquétipo é conceito junguiano, e as demais alternativas não são conceitos dessa filosofia.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjrr-2024-psi-69",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-RR",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns109t01-analista-judiciario-psicologia.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjrr_gabarito_definitivo_v3.pdf",
+   "questao_original": 69,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "No Brasil, a População em Situação de Rua (PSR) pode ser definida como grupo heterogêneo, mas possui em comum a pobreza extrema, os vínculos familiares interrompidos ou fragilizados e a falta de moradia (Brasil, 2023). Na perspectiva da garantia dos direitos, a consolidação da rede de serviços socioassistenciais e das demais políticas públicas tem ampliado a atuação do psicólogo junto a PSR. Nessa direção, a dimensão ético-política da atuação do psicólogo junto à PSR é",
+  "alternativas": [
+   "adotar a retirada do sujeito da rua como prerrogativa de trabalho.",
+   "apostar na possibilidade de que alcancem autonomia enquanto sujeitos através da ampliação do acesso a direitos.",
+   "promover iniciativas de orientação médicas e pedagógicas que ajudem os sujeitos a regularem a vida de forma mais saudável.",
+   "buscar uma aliança entre assistência social e filantropia, articulando recursos religiosos e caritativos que possam cuidar desta população.",
+   "identificar os problemas psicopatológicos que atingem boa parte desta população, sobretudo relacionados à dependência de drogas, viabilizando o acesso à rede hospitalar."
+  ],
+  "gabarito": 1,
+  "comentario": "Na perspectiva ético-política e de garantia de direitos, o psicólogo que atua com a população em situação de rua aposta na autonomia dos sujeitos por meio da ampliação do acesso a direitos. Tirar a pessoa da rua como prerrogativa (A) é uma lógica higienista. Normatizar a vida por orientações médicas e pedagógicas (C) é tutelar. Substituir a política pública por filantropia (D) e reduzir a população a psicopatologias e internação (E) contrariam o referencial de direitos.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjrr-2024-psi-70",
+  "disciplina": "especificos",
+  "assunto": "esp-direitos-humanos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-RR",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns109t01-analista-judiciario-psicologia.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjrr_gabarito_definitivo_v3.pdf",
+   "questao_original": 70,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Rose vive uma situação de violência doméstica com seu marido cuja relação, como se sabe, possui dinâmica cíclica e progressiva. Depois de tê-la agredido, Josimar, seu marido, mostra-se arrependido e promete não ser mais violento, dando esperanças a ela que, assim, o perdoa e a faz retornar ao relacionamento. Essa fase é denominada",
+  "alternativas": [
+   "explosão.",
+   "calmaria.",
+   "lua de mel.",
+   "esquecimento.",
+   "aumento de tensão."
+  ],
+  "gabarito": 2,
+  "comentario": "No ciclo da violência descrito por Lenore Walker, há três fases: aumento da tensão, explosão (ato violento) e 'lua de mel' (arrependimento e comportamento carinhoso). Na lua de mel, o agressor pede perdão e promete mudar, o que alimenta a esperança da vítima e a mantém na relação. Depois disso o ciclo recomeça, em geral com intensidade crescente.",
+  "dificuldade": 1,
+  "anulada": false
+ }
+]

@@ -1,0 +1,202 @@
+[
+ {
+  "id": "fgv-semefni-2024-ana-9",
+  "disciplina": "rlm",
+  "assunto": "rlm-numeros",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "SEMEF-Nova Iguaçu",
+   "ano": 2024,
+   "cargo": "Analista Tributário do Tesouro Municipal",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-tributario-do-tesouro-municipalcns02-tipo-1.pdf"
+  },
+  "enunciado": "Na virada do ano, uma empresa demitiu 12 de seus empregados, reduzindo a 92,5% seu quadro de funcionários.\nAntes dessas demissões, a quantidade de empregados dessa empresa correspondia a um número",
+  "alternativas": [
+   "menor que 162.",
+   "entre 162 e 166.",
+   "entre 166 e 172.",
+   "entre 172 e 178.",
+   "maior que 178."
+  ],
+  "gabarito": 0,
+  "comentario": "Se o quadro foi reduzido a 92,5%, os 12 demitidos correspondem a 100% − 92,5% = 7,5% do total. Então N = 12 ÷ 0,075 = 160 empregados, que é menor que 162 (A).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-semefni-2024-ana-10",
+  "disciplina": "rlm",
+  "assunto": "rlm-problemas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "SEMEF-Nova Iguaçu",
+   "ano": 2024,
+   "cargo": "Analista Tributário do Tesouro Municipal",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-tributario-do-tesouro-municipalcns02-tipo-1.pdf"
+  },
+  "enunciado": "No dia em que Diomedes fez 24 anos, seu único filho nasceu. Há 7 anos, sua idade era 5 vezes a idade de seu filho.\nHoje, a idade do filho é um número",
+  "alternativas": [
+   "múltiplo de 2.",
+   "múltiplo de 5.",
+   "primo.",
+   "divisor de 35.",
+   "divisor de 36."
+  ],
+  "gabarito": 2,
+  "comentario": "Seja f a idade atual do filho; Diomedes tem f + 24. Há 7 anos: f + 24 − 7 = 5(f − 7) → f + 17 = 5f − 35 → 4f = 52 → f = 13. Como 13 é primo, a resposta é C (13 não é par, não é múltiplo de 5 e não divide 35 nem 36).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-semefni-2024-ana-11",
+  "disciplina": "rlm",
+  "assunto": "rlm-problemas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "SEMEF-Nova Iguaçu",
+   "ano": 2024,
+   "cargo": "Analista Tributário do Tesouro Municipal",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-tributario-do-tesouro-municipalcns02-tipo-1.pdf"
+  },
+  "enunciado": "Em uma caixa, há exatamente 7 bolas. Alcibíades retira aleatoriamente 3 bolas dessa caixa e verifica que 2 são brancas e 1 é azul. Alcibíades repõe as bolas na caixa e, em seguida, faz nova retirada de 4 bolas ao acaso, verificando que 3 são azuis e 1 é preta.\nPode-se afirmar que, entre as 7 bolas há",
+  "alternativas": [
+   "apenas uma bola preta.",
+   "exatamente duas bolas brancas.",
+   "mais bolas brancas do que pretas.",
+   "mais bolas azuis do que brancas.",
+   "mais bolas azuis do que pretas."
+  ],
+  "gabarito": 4,
+  "comentario": "Com certeza há pelo menos 2 brancas, 3 azuis e 1 preta, ou seja, 6 bolas; a 7ª pode ser de qualquer cor. Teste as possibilidades: se a 7ª for preta, há 2 pretas (A falha) e brancas = pretas (C falha); se for branca, há 3 brancas (B falha) e azuis = brancas (D falha). Em qualquer caso, há no mínimo 3 azuis e no máximo 2 pretas, logo sempre há mais azuis do que pretas (E).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-semefni-2024-ana-12",
+  "disciplina": "rlm",
+  "assunto": "rlm-numeros",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "SEMEF-Nova Iguaçu",
+   "ano": 2024,
+   "cargo": "Analista Tributário do Tesouro Municipal",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-tributario-do-tesouro-municipalcns02-tipo-1.pdf"
+  },
+  "enunciado": "Uma dívida foi contraída com a promessa de ser paga em data futura com 30% de juros. No entanto, o devedor efetuou a quitação alguns dias antes da data acordada. Em função dessa antecipação, o credor deu 10% de desconto sobre o valor a ser pago na tal data futura, de modo que a dívida foi quitada mediante o pagamento de R$ 37.908,00.\nO valor original da dívida é um valor",
+  "alternativas": [
+   "menor que R$ 32.000,00.",
+   "entre R$ 32.000,00 e R$ 32.500,00.",
+   "entre R$ 32.500,00 e R$ 33.000,00.",
+   "entre R$ 33.000,00 e R$ 33.500,00.",
+   "maior que R$ 33.500,00."
+  ],
+  "gabarito": 1,
+  "comentario": "Aumentos e descontos percentuais se aplicam em sequência por multiplicação: D × 1,30 × 0,90 = 37.908 → D × 1,17 = 37.908 → D = 37.908 ÷ 1,17 = 32.400. O valor original, R$ 32.400,00, está entre R$ 32.000,00 e R$ 32.500,00 (B).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-semefni-2024-ana-13",
+  "disciplina": "rlm",
+  "assunto": "rlm-medidas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "SEMEF-Nova Iguaçu",
+   "ano": 2024,
+   "cargo": "Analista Tributário do Tesouro Municipal",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-tributario-do-tesouro-municipalcns02-tipo-1.pdf"
+  },
+  "enunciado": "A figura ilustra um retângulo ABCD com um segmento EF paralelo aos lados AD e BC.\n[Figura: retângulo com A no canto inferior esquerdo, B no inferior direito, C no superior direito e D no superior esquerdo; E está no lado AB e F no lado DC, mais próximos de B e C, formando o retângulo menor BCFE à direita e o retângulo ADFE à esquerda.]\nA medida de BC é o dobro da medida de BE. As medidas dos lados dos retângulos ABCD são proporcionais às medidas dos lados do retângulo BCFE.\nSe a área de BCFE mede 6 dm^2, então a área do retângulo ADFE vale",
+  "alternativas": [
+   "24 dm^2.",
+   "22 dm^2.",
+   "20 dm^2.",
+   "18 dm^2.",
+   "12 dm^2."
+  ],
+  "gabarito": 3,
+  "comentario": "Seja BE = x; então BC = 2x e o retângulo BCFE tem lados x e 2x, com área 2x² = 6 → x² = 3. ABCD é semelhante a BCFE: o lado maior de ABCD (AB) corresponde ao maior de BCFE (BC = 2x) e o menor de ABCD (BC = 2x) corresponde ao menor de BCFE (BE = x). Logo AB/2x = 2x/x → AB = 4x. ADFE tem lados AE = 4x − x = 3x e AD = 2x, área 6x² = 6 × 3 = 18 dm².",
+  "dificuldade": 3,
+  "anulada": false
+ },
+ {
+  "id": "fgv-semefni-2024-ana-14",
+  "disciplina": "rlm",
+  "assunto": "rlm-problemas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "SEMEF-Nova Iguaçu",
+   "ano": 2024,
+   "cargo": "Analista Tributário do Tesouro Municipal",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-tributario-do-tesouro-municipalcns02-tipo-1.pdf"
+  },
+  "enunciado": "Um dado comum tem formato cúbico e suas faces são numeradas de 1 a 6. Por defeito de fabricação, a probabilidade de ocorrência de cada face é proporcional ao número estampado na própria face.\nLançando-se esse dado duas vezes, a probabilidade de que os resultados sejam idênticos é",
+  "alternativas": [
+   "(1^2+2^2+3^2+4^2+5^2+6^2)/21",
+   "(1^2+2^2+3^2+4^2+5^2+6^2)/21^2",
+   "(1^2×2^2×3^2×4^2×5^2×6^2)/21^2",
+   "(1^2×2^2×3^2×4^2×5^2×6^2)/21",
+   "(1+2+3+4+5+6)/21"
+  ],
+  "gabarito": 1,
+  "comentario": "Se P(k) = c·k e as probabilidades somam 1, então c(1+2+…+6) = 21c = 1, logo P(k) = k/21. A chance de dois lançamentos darem o mesmo número k é (k/21)², e somamos para k = 1 a 6 (eventos mutuamente exclusivos): (1² + 2² + … + 6²)/21² (B). As opções com produto multiplicam eventos que não ocorrem juntos, e A/E não elevam o denominador ao quadrado.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-semefni-2024-ana-15",
+  "disciplina": "rlm",
+  "assunto": "rlm-proposicoes",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "SEMEF-Nova Iguaçu",
+   "ano": 2024,
+   "cargo": "Analista Tributário do Tesouro Municipal",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-tributario-do-tesouro-municipalcns02-tipo-1.pdf"
+  },
+  "enunciado": "A proposição lógica “se q ou t, então p e r e s” tem valor lógico verdadeiro.\nDado que o valor lógico de s é falso, conclui-se corretamente que",
+  "alternativas": [
+   "p tem valor lógico falso e r tem valor lógico verdadeiro.",
+   "p tem valor lógico verdadeiro e r tem valor lógico falso.",
+   "q tem valor lógico falso e t tem valor lógico falso.",
+   "q tem valor lógico falso e t tem valor lógico verdadeiro.",
+   "q tem valor lógico verdadeiro e t tem valor lógico falso."
+  ],
+  "gabarito": 2,
+  "comentario": "Como s é falso, a conjunção \"p e r e s\" é falsa. Uma condicional verdadeira com consequente falso exige antecedente falso, então \"q ou t\" é falsa — o que só acontece quando q e t são ambos falsos (C). Sobre p e r nada se pode concluir, por isso A e B não são necessárias; D e E contradizem a falsidade de \"q ou t\".",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-semefni-2024-ana-16",
+  "disciplina": "rlm",
+  "assunto": "rlm-medidas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "SEMEF-Nova Iguaçu",
+   "ano": 2024,
+   "cargo": "Analista Tributário do Tesouro Municipal",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-tributario-do-tesouro-municipalcns02-tipo-1.pdf"
+  },
+  "enunciado": "Em um sistema de coordenadas cartesianas, P, Q e R são pontos tais que P (7; 9), Q (10; 5) e R está sobre o eixo das abscissas (eixo X).\nSe a distância de P a Q é igual à distância de Q a R, então a distância de P a R é um valor entre",
+  "alternativas": [
+   "9 e 10.",
+   "10 e 11.",
+   "11 e 12.",
+   "12 e 13.",
+   "13 e 14."
+  ],
+  "gabarito": 0,
+  "comentario": "PQ = √((10−7)² + (5−9)²) = √(9 + 16) = 5. Com R = (x; 0): QR² = (x − 10)² + 5² = 25 → (x − 10)² = 0 → x = 10, ou seja, R = (10; 0). Então PR = √((10−7)² + (0−9)²) = √(9 + 81) = √90 ≈ 9,49, entre 9 e 10 (A).",
+  "dificuldade": 2,
+  "anulada": false
+ }
+]

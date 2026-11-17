@@ -1,0 +1,842 @@
+[
+ {
+  "id": "fgv-tjrn-2023-psi-41",
+  "disciplina": "legislacao",
+  "assunto": "leg-idoso-pcd",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-RN",
+   "ano": 2023,
+   "cargo": "Analista Judiciário – Apoio Especializado – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-judiciario-apoio-especializado-especialidade-psicologiaaj-esp-psi-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjrn2023_gabarito_definitivo-edital-1.pdf",
+   "questao_original": 41,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "A avaliação biopsicossocial da deficiência é realizada por equipe multiprofissional e interdisciplinar e considera, entre outros fatores, a interação da pessoa com barreiras que podem obstruir sua participação plena e efetiva na sociedade em igualdade de condições com as demais pessoas. A psicóloga Helena ficou tetraplégica após um acidente e se candidatou a uma vaga destinada a pessoas com deficiência em um concurso público do Poder Judiciário. Pode constituir uma barreira na integração de Helena ao trabalho:",
+  "alternativas": [
+   "a oferta de tecnologia assistiva, como softwares de comando por voz;",
+   "o capacitismo dos colegas de trabalho;",
+   "o desconhecimento da linguagem de Libras;",
+   "a disponibilização de acesso por rampas e elevadores;",
+   "o direito ao Benefício de Prestação Continuada."
+  ],
+  "gabarito": 1,
+  "comentario": "Pela Lei Brasileira de Inclusão (Lei nº 13.146/2015), barreira é qualquer entrave, obstáculo, atitude ou comportamento que limite a participação social da pessoa com deficiência, e isso inclui as barreiras atitudinais. O capacitismo, isto é, o preconceito e a discriminação contra pessoas com deficiência, é justamente uma barreira atitudinal que pode dificultar a integração de Helena. Tecnologia assistiva (A) e rampas e elevadores (D) são recursos que eliminam barreiras. O desconhecimento de Libras (C) seria barreira para uma pessoa surda, não para uma pessoa tetraplégica. O BPC (E) é um benefício assistencial e não tem relação com barreira no trabalho.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjrn-2023-psi-42",
+  "disciplina": "especificos",
+  "assunto": "esp-praticas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-RN",
+   "ano": 2023,
+   "cargo": "Analista Judiciário – Apoio Especializado – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-judiciario-apoio-especializado-especialidade-psicologiaaj-esp-psi-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjrn2023_gabarito_definitivo-edital-1.pdf",
+   "questao_original": 42,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "O tabagismo é considerado pela Organização Mundial da Saúde (OMS) a principal causa de morte evitável no mundo. Muitas empresas implantam programas de combate ao tabagismo. A psicologia pode exercer um papel fundamental na prevenção secundária ao tabagismo por meio:",
+  "alternativas": [
+   "do emprego de técnicas de relaxamento e controle de estresse em pacientes com DPOC e câncer pulmonar;",
+   "da terapia cognitivo-comportamental para a identificação dos gatilhos emocionais e comportamentais relacionados ao tabagismo;",
+   "de palestras em escolas voltadas para o público infantil e adolescente, visando evitar a iniciação no hábito de fumar;",
+   "da prescrição de adesivos de nicotina, florais, medicamentos fitoterápicos e técnicas de condicionamento aversivo para evitar as recaídas;",
+   "do estímulo à codependência secundária compartilhada com os familiares do tabagista."
+  ],
+  "gabarito": 1,
+  "comentario": "A prevenção secundária age quando o problema já existe, buscando detecção precoce e intervenção para interromper o hábito antes de agravos maiores. A terapia cognitivo-comportamental voltada a identificar gatilhos emocionais e comportamentais do fumar é uma intervenção típica com fumantes, que é a meta da prevenção secundária. Palestras para evitar a iniciação (C) são prevenção primária. O manejo de estresse em pacientes que já têm DPOC ou câncer (A) é prevenção terciária. Prescrever adesivos e medicamentos (D) não cabe ao psicólogo, e estimular a codependência (E) é contrário ao tratamento.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjrn-2023-psi-43",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-RN",
+   "ano": 2023,
+   "cargo": "Analista Judiciário – Apoio Especializado – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-judiciario-apoio-especializado-especialidade-psicologiaaj-esp-psi-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjrn2023_gabarito_definitivo-edital-1.pdf",
+   "questao_original": 43,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Inconformado com a separação, Jorge ameaçou sua ex-mulher, que fez um registro de ocorrência na Delegacia. O juiz do Juizado de Violência Doméstica determinou a participação de Jorge em um programa de recuperação voltado para homens, coordenado pelo psicólogo do Juizado. Considerando a Política Nacional de Alternativas Penais, é correto afirmar que:",
+  "alternativas": [
+   "Jorge foi absolvido da condenação de violência doméstica por ter praticado crime de menor potencial ofensivo;",
+   "a terapia de grupo foi indicada para Jorge considerando os determinantes psicológicos percebidos na agressão praticada;",
+   "se trata de ação de responsabilização de Jorge pela violência praticada, tendo como objetivo promover a reflexão e a reeducação;",
+   "o objetivo da medida socioeducativa é a promoção da cultura da paz doméstica e a restauração da relação conjugal rompida;",
+   "as técnicas de conciliação utilizadas pelo psicólogo são reconhecidas como práticas de Justiça Terapêutica."
+  ],
+  "gabarito": 2,
+  "comentario": "A participação do autor de violência doméstica em programas de recuperação e reeducação é uma forma de responsabilização prevista na Lei Maria da Penha, e a Política Nacional de Alternativas Penais a entende como intervenção responsabilizante, de caráter reflexivo e pedagógico. Por isso a C está correta. A erra porque o encaminhamento não é absolvição, e os institutos dos crimes de menor potencial ofensivo (Lei 9.099/95) não se aplicam à violência doméstica contra a mulher. B psicologiza a violência, que nesses grupos é tratada como questão de gênero e responsabilização, e não como psicoterapia. Medida socioeducativa (D) é instituto do ECA, para adolescentes. A Justiça Terapêutica (E) se refere a usuários de drogas, não a técnicas de conciliação.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjrn-2023-psi-44",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-RN",
+   "ano": 2023,
+   "cargo": "Analista Judiciário – Apoio Especializado – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-judiciario-apoio-especializado-especialidade-psicologiaaj-esp-psi-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjrn2023_gabarito_definitivo-edital-1.pdf",
+   "questao_original": 44,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "A Lei nº 13.509/2017 alterou o Estatuto da Criança e do Adolescente para possibilitar que crianças e adolescentes acolhidos participem de programas de apadrinhamento. No Rio Grande do Norte, o “Projeto Padrinhos” é coordenado pela Comissão Estadual Judiciária de Adoção Internacional do RN e executado por Grupos de Apoio à Adoção. Sobre os programas de apadrinhamento, é correto afirmar que:",
+  "alternativas": [
+   "a participação em programa de apadrinhamento é requisito na preparação de pretendentes interessados em se habilitar para a adoção de crianças ou adolescentes;",
+   "o programa de apadrinhamento proporciona a oportunidade de convivência familiar e comunitária no estágio de convivência prévio à adoção;",
+   "o programa de apadrinhamento não poderá envolver nenhuma espécie de apoio material ou financeiro à instituição de acolhimento ou aos acolhidos;",
+   "crianças ou adolescentes com remota possibilidade de reinserção familiar ou colocação em família adotiva são o público-alvo dos programas de apadrinhamento;",
+   "o apadrinhamento afetivo é a modalidade preferencial para o atendimento emocional individualizado das crianças acolhidas na primeira infância."
+  ],
+  "gabarito": 3,
+  "comentario": "O apadrinhamento (art. 19-B do ECA, incluído pela Lei 13.509/2017) busca criar vínculos externos à instituição para crianças e adolescentes acolhidos. O ECA prevê prioridade para crianças e adolescentes com remota possibilidade de reinserção familiar ou de colocação em família adotiva, por isso a D está correta. O apadrinhamento não é requisito para a habilitação à adoção (A) e não se confunde com o estágio de convivência (B). Os padrinhos, inclusive, não devem estar inscritos no cadastro de adoção. A lei admite colaboração no aspecto financeiro, o que torna C errada. E também erra, pois o apadrinhamento afetivo não é modalidade de atendimento terapêutico.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjrn-2023-psi-45",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-RN",
+   "ano": 2023,
+   "cargo": "Analista Judiciário – Apoio Especializado – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-judiciario-apoio-especializado-especialidade-psicologiaaj-esp-psi-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjrn2023_gabarito_definitivo-edital-1.pdf",
+   "questao_original": 45,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Considerando as estratégias existentes para lidar com o grande desafio que é a dependência do crack, é correto afirmar que:",
+  "alternativas": [
+   "os Caps AD oferecem tratamento ambulatorial para os usuários de crack de acordo com o projeto terapêutico singular construído com o paciente;",
+   "a internação compulsória é feita após o convencimento do dependente a aderir ao tratamento na modalidade manicomial;",
+   "as comunidades terapêuticas trabalham com a filosofia da redução de danos, admitindo a substituição do crack por drogas menos danosas;",
+   "a assistência social é a abordagem mais indicada, já que o crack é uma droga de uso exclusivo por pessoas em situação de vulnerabilidade socioeconômica sem vínculos familiares;",
+   "os consultórios na rua oferecem leitos de curta permanência para os usuários de crack em situação de rua com agravos de ordem clínica."
+  ],
+  "gabarito": 0,
+  "comentario": "Na RAPS, o CAPS AD é o serviço de base comunitária para pessoas com problemas relacionados a álcool e outras drogas. Ele oferece cuidado conforme um Projeto Terapêutico Singular construído com o usuário. A internação compulsória (B) é determinada judicialmente, independe do convencimento do usuário e não deve seguir o modelo manicomial. As comunidades terapêuticas costumam se orientar pela abstinência e não pela redução de danos (C). O crack não é de uso exclusivo de pessoas vulneráveis (D). O Consultório na Rua faz atenção itinerante e não oferece leitos (E).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjrn-2023-psi-46",
+  "disciplina": "especificos",
+  "assunto": "esp-trabalho",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-RN",
+   "ano": 2023,
+   "cargo": "Analista Judiciário – Apoio Especializado – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-judiciario-apoio-especializado-especialidade-psicologiaaj-esp-psi-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjrn2023_gabarito_definitivo-edital-1.pdf",
+   "questao_original": 46,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Joana requereu a licença-maternidade após adotar José, um menino de 6 anos. Ao retornar da licença, Joana percebeu que os colegas dispensavam a ela um tratamento diferente, mal lhe dirigiam a palavra, paravam de conversar quando ela se aproximava, eram agressivos e debochados. Joana descobriu casualmente que vinha sendo criticada pela licença \"desnecessária\", já que tinha adotado uma criança mais velha, e que os colegas diziam que o trabalho dela tinha sobrado para eles e que ela não fazia falta. Identifica-se na situação descrita acima:",
+  "alternativas": [
+   "a síndrome de Burnout;",
+   "o preconceito contra a adoção;",
+   "a exigência profissional de desempenho;",
+   "o bullying vertical;",
+   "o assédio moral horizontal."
+  ],
+  "gabarito": 4,
+  "comentario": "O assédio moral é a exposição repetida a condutas hostis e humilhantes no trabalho, como isolamento, deboche, agressividade e desqualificação. Quando parte de colegas de mesmo nível hierárquico, é chamado de horizontal, que é o caso de Joana. Não há quadro de esgotamento profissional descrito (A). A hostilidade se dirige à pessoa e ao uso da licença, não à adoção em si (B). Também não se trata de exigência legítima de desempenho (C). 'Bullying vertical' (D) não é a categoria adequada, pois a violência não vem da chefia.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjrn-2023-psi-47",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-RN",
+   "ano": 2023,
+   "cargo": "Analista Judiciário – Apoio Especializado – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-judiciario-apoio-especializado-especialidade-psicologiaaj-esp-psi-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjrn2023_gabarito_definitivo-edital-1.pdf",
+   "questao_original": 47,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "João, 16 anos, foi apreendido enquanto pichava o muro da escola. O juiz da Vara da Infância e da Juventude poderá aplicar ao adolescente:",
+  "alternativas": [
+   "medida protetiva de prestação de serviço comunitário;",
+   "pena de liberdade assistida;",
+   "medida socioeducativa de matrícula escolar;",
+   "pena restaurativa de direitos;",
+   "medida socioeducativa de reparação do dano."
+  ],
+  "gabarito": 4,
+  "comentario": "Pichar o muro é ato infracional praticado por adolescente, ao qual o juiz pode aplicar as medidas socioeducativas do art. 112 do ECA. Entre elas estão a advertência, a obrigação de reparar o dano, a prestação de serviços à comunidade, a liberdade assistida, a semiliberdade e a internação. A obrigação de reparar o dano é especialmente adequada a atos com reflexos patrimoniais, como a pichação. A, B e D erram ao chamar as medidas de 'pena' ou 'medida protetiva', e a prestação de serviços é medida socioeducativa. A matrícula escolar (C) é medida protetiva, não socioeducativa.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjrn-2023-psi-48",
+  "disciplina": "especificos",
+  "assunto": "esp-direitos-humanos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-RN",
+   "ano": 2023,
+   "cargo": "Analista Judiciário – Apoio Especializado – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-judiciario-apoio-especializado-especialidade-psicologiaaj-esp-psi-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjrn2023_gabarito_definitivo-edital-1.pdf",
+   "questao_original": 48,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "A Lei nº 13.431/2017 estabelece o sistema de garantias de direitos da criança ou do adolescente vítima ou testemunha de violência. Daniela, 8 anos, leu um livro infantil que tratava da prevenção do abuso sexual de crianças e contou para a mãe que, quando ela tinha 5 anos, um vizinho a molestava, chamando seus atos de “brincadeiras”, e pedia segredo. Sobre os procedimentos e direitos previstos nesta Lei, pode-se apontar:",
+  "alternativas": [
+   "a garantia de prestação do testemunho na presença do suposto autor ou acusado da violência;",
+   "a garantia de retorno aos depoimentos especiais até trazer todas as lembranças referentes ao fato;",
+   "o direito de prestação da escuta especializada diretamente ao juiz durante a audiência;",
+   "o direito de ser ouvido e expressar seus desejos e opiniões, assim como permanecer em silêncio;",
+   "a garantia de sigilo mediante a proibição de transmissão do depoimento para a sala de audiência."
+  ],
+  "gabarito": 3,
+  "comentario": "A Lei 13.431/2017 assegura à criança e ao adolescente vítima ou testemunha de violência o direito de ser ouvido e expressar seus desejos e opiniões, assim como o de permanecer em silêncio (D). A lei prevê resguardo de qualquer contato, mesmo visual, com o suposto autor (A errada). O depoimento especial deve ser feito, sempre que possível, uma única vez, para evitar a revitimização (B errada). A escuta especializada ocorre na rede de proteção, enquanto o depoimento especial é colhido por profissional especializado e transmitido à sala de audiência, não 'diretamente ao juiz' (C). A transmissão em tempo real é justamente prevista, o que torna E errada.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjrn-2023-psi-49",
+  "disciplina": "especificos",
+  "assunto": "esp-direitos-humanos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-RN",
+   "ano": 2023,
+   "cargo": "Analista Judiciário – Apoio Especializado – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-judiciario-apoio-especializado-especialidade-psicologiaaj-esp-psi-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjrn2023_gabarito_definitivo-edital-1.pdf",
+   "questao_original": 49,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Soraya, 7 anos, é oriunda de uma comunidade de etnia cigana. De acordo com a legislação brasileira:",
+  "alternativas": [
+   "é facultativa a matrícula escolar nesse caso, uma vez que Soraya não é considerada cidadã brasileira para efeito de garantia de direitos;",
+   "é negada a matrícula escolar em função do nomadismo próprio da comunidade cigana, que impede a frequência regular e a conclusão do ano letivo;",
+   "é direito da criança de povos tradicionais a escolarização, sendo considerada e respeitada sua identidade social e cultural, seus costumes e suas tradições;",
+   "é obrigatória a matrícula escolar, devendo a escola concorrer para a inclusão e assimilação cultural através do currículo único para todas as crianças;",
+   "não é possível a escolarização porque as crianças ciganas se comunicam no dialeto nativo da respectiva etnia cigana."
+  ],
+  "gabarito": 2,
+  "comentario": "Os povos ciganos são reconhecidos como povos e comunidades tradicionais, e a criança cigana, como qualquer criança, tem direito à educação, com respeito à sua identidade social e cultural, costumes e tradições. A e E negam a cidadania ou o direito à escola. B usa o nomadismo como pretexto para negar a matrícula, o que é discriminatório. D erra ao falar em 'assimilação cultural' por meio de currículo único, ideia oposta ao respeito à diversidade.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjrn-2023-psi-50",
+  "disciplina": "especificos",
+  "assunto": "esp-praticas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-RN",
+   "ano": 2023,
+   "cargo": "Analista Judiciário – Apoio Especializado – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-judiciario-apoio-especializado-especialidade-psicologiaaj-esp-psi-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjrn2023_gabarito_definitivo-edital-1.pdf",
+   "questao_original": 50,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Camila e Hugo comemoraram muito a notícia da gravidez de seu primeiro filho, mas a alegria foi interrompida quando Camila sofreu uma perda gestacional súbita em torno do quarto mês de gestação. Nessa situação, uma intervenção psicológica em crise:\nI. empregará a escuta ativa e a validação dos sentimentos de dor pela perda;\nII. informará sobre as reações emocionais esperadas, como o luto e a frustração;\nIII. ajudará o casal a distrair sua dor pela perda, evitando comunicações sobre o ocorrido.\nEstá correto somente o que se afirma em:",
+  "alternativas": [
+   "I;",
+   "III;",
+   "I e II;",
+   "I e III;",
+   "II e III."
+  ],
+  "gabarito": 2,
+  "comentario": "Na intervenção em crise após perda gestacional, o psicólogo acolhe com escuta ativa e valida a dor da perda (I). Também oferece psicoeducação sobre as reações esperadas, como luto, tristeza e frustração (II). A afirmativa III está errada porque estimular a distração e evitar falar do ocorrido favorece a negação e pode complicar o luto. O luto perinatal precisa ser reconhecido e elaborado, e não silenciado.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjrn-2023-psi-51",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-RN",
+   "ano": 2023,
+   "cargo": "Analista Judiciário – Apoio Especializado – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-judiciario-apoio-especializado-especialidade-psicologiaaj-esp-psi-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjrn2023_gabarito_definitivo-edital-1.pdf",
+   "questao_original": 51,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Os transtornos alimentares (TA) são caracterizados como doenças marcadas por modificações no comportamento alimentar e possuem etiologia multifatorial. Os adolescentes são especialmente suscetíveis a desenvolver transtornos alimentares associados a distúrbios da imagem corporal, o que os torna um grupo vulnerável. Pelo menos uma vez por semana, Karina, 17 anos, pede uma pizza gigante, um litro de refrigerante e um sundae duplo e, após ingerir tudo sozinha, ela induz o vômito e toma laxantes. As definições do DSM-5 e do CID-11 apontam para um quadro de:",
+  "alternativas": [
+   "anorexia nervosa;",
+   "transtorno de compulsão alimentar;",
+   "bulimia nervosa;",
+   "ortorexia alimentar;",
+   "vigorexia nervosa."
+  ],
+  "gabarito": 2,
+  "comentario": "Episódios recorrentes de compulsão alimentar seguidos de comportamentos compensatórios inadequados, como vômito autoinduzido e uso de laxantes, pelo menos uma vez por semana, caracterizam a bulimia nervosa no DSM-5 e na CID-11. No transtorno de compulsão alimentar (B) não há comportamentos compensatórios regulares. A anorexia (A) envolve restrição com baixo peso significativo, o que não é descrito. Ortorexia e vigorexia (D, E) não são diagnósticos oficiais desses manuais.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjrn-2023-psi-52",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-RN",
+   "ano": 2023,
+   "cargo": "Analista Judiciário – Apoio Especializado – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-judiciario-apoio-especializado-especialidade-psicologiaaj-esp-psi-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjrn2023_gabarito_definitivo-edital-1.pdf",
+   "questao_original": 52,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Murilo foi condenado a pena privativa de liberdade em regime semiaberto após ter roubado uma turista. Segundo as disposições da Lei de Execuções Penais (LEP), ele:",
+  "alternativas": [
+   "deverá ser classificado pela Comissão Técnica de Classificação que é responsável por elaborar o seu programa individualizador;",
+   "deverá ser submetido a exame criminológico para a obtenção dos elementos necessários a uma adequada classificação e com vistas à individualização da execução;",
+   "poderá ser submetido a exame criminológico para a obtenção dos elementos necessários a uma adequada classificação e com vistas à individualização da execução;",
+   "será entrevistado pelo diretor, dois chefes de serviço, um psiquiatra, um psicólogo e um assistente social para confecção do exame criminológico;",
+   "será submetido à identificação do perfil genético, mediante extração de DNA por técnica adequada e indolor."
+  ],
+  "gabarito": 2,
+  "comentario": "Pela Lei de Execução Penal, o condenado em regime fechado será submetido a exame criminológico para fins de classificação e individualização da execução, enquanto para o regime semiaberto a lei diz que ele 'poderá' ser submetido ao exame. Como Murilo está no semiaberto, a C está correta e a B erra ao torná-lo obrigatório. A composição citada em D (diretor, chefes de serviço, psiquiatra, psicólogo e assistente social) é a da Comissão Técnica de Classificação, e não a de entrevistadores do exame criminológico. A identificação do perfil genético (E) é restrita a hipóteses legais específicas. Obs.: a alternativa A reproduz em grande parte a redação da LEP sobre a CTC, que elabora o programa individualizador. A banca provavelmente a considerou errada pelo 'deverá' ou porque a questão buscava a distinção 'será/poderá' do exame criminológico.",
+  "dificuldade": 3,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjrn-2023-psi-53",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-RN",
+   "ano": 2023,
+   "cargo": "Analista Judiciário – Apoio Especializado – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-judiciario-apoio-especializado-especialidade-psicologiaaj-esp-psi-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjrn2023_gabarito_definitivo-edital-1.pdf",
+   "questao_original": 53,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "A Política Nacional de Alternativas Penais tem por objeto o(a):",
+  "alternativas": [
+   "desenvolvimento de ações, projetos e estratégias voltados ao enfrentamento do encarceramento em massa;",
+   "ampliação da aplicação e estudos sobre as penas privativas de liberdade;",
+   "declínio dos mecanismos horizontalizados e autocompositivos;",
+   "desresponsabilização da pessoa submetida à alternativa penal e manutenção de seu vínculo com a comunidade;",
+   "preservação e esconderijo da vítima durante o julgamento dos conflitos."
+  ],
+  "gabarito": 0,
+  "comentario": "A Política Nacional de Alternativas Penais tem por objeto desenvolver ações, projetos e estratégias para enfrentar o encarceramento em massa, promovendo respostas penais diversas da prisão. Ela não busca ampliar a pena privativa de liberdade (B). Ao contrário do que diz C, valoriza mecanismos horizontalizados e autocompositivos, como as práticas restaurativas. A responsabilização da pessoa é um de seus pilares, o que torna D errada. Por fim, não se propõe a 'esconder' a vítima (E), mas a considerar sua participação e proteção.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjrn-2023-psi-54",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-RN",
+   "ano": 2023,
+   "cargo": "Analista Judiciário – Apoio Especializado – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-judiciario-apoio-especializado-especialidade-psicologiaaj-esp-psi-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjrn2023_gabarito_definitivo-edital-1.pdf",
+   "questao_original": 54,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Os irmãos Ana e Frederico têm 7 e 5 anos de idade, respectivamente, e foram encontrados sozinhos, após denúncias de vizinhos, tendo sido acionado o Conselho Tutelar da localidade de sua casa. O conselheiro tutelar José aplicou a medida protetiva de acolhimento institucional dos irmãos. Segundo os preceitos do Estatuto da Criança e do Adolescente, José:",
+  "alternativas": [
+   "não deveria ter procedido dessa forma, pois essa atribuição é exclusiva do juiz de Infância;",
+   "agiu corretamente, pois essa é uma das atribuições do Conselho Tutelar;",
+   "deveria ter acionado o Ministério Público, que faria a promoção para o acolhimento;",
+   "precisaria ter falado com a família biológica antes para saber as razões de seu abandono;",
+   "deveria ter acionado a rede escolar para saber se as crianças frequentavam à escola."
+  ],
+  "gabarito": 1,
+  "comentario": "O ECA atribui ao Conselho Tutelar a aplicação das medidas de proteção do art. 101, incisos I a VII, e o acolhimento institucional está entre elas. Em situação emergencial, como a de crianças encontradas sozinhas, o conselheiro pode aplicar o acolhimento, com comunicação imediata à autoridade judiciária. O afastamento do convívio familiar contra a vontade da família, em regra, depende de decisão judicial, mas isso não torna a atribuição 'exclusiva do juiz' em situações de urgência (A). C, D e E criam exigências prévias que a lei não impõe e que atrasariam a proteção.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjrn-2023-psi-55",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-RN",
+   "ano": 2023,
+   "cargo": "Analista Judiciário – Apoio Especializado – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-judiciario-apoio-especializado-especialidade-psicologiaaj-esp-psi-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjrn2023_gabarito_definitivo-edital-1.pdf",
+   "questao_original": 55,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Depois do início da exibição da novela “Todos juntos” em que os protagonistas usam drogas ilícitas, a escola particular Crescendo Contente identificou que alguns estudantes adolescentes estão perguntando sobre o consumo de cigarros de maconha. Em consonância com o ECA, o papel da escola diante desse quadro é:",
+  "alternativas": [
+   "comunicar ao Conselho Tutelar da localidade sobre os comportamentos identificados nos alunos;",
+   "escrever para a emissora de televisão sobre a identificação subjetiva dos telespectadores jovens com os protagonistas;",
+   "desenvolver medidas de conscientização, prevenção e enfrentamento ao uso ou dependência de drogas ilícitas;",
+   "informar aos pais dos alunos sobre os questionamentos que estão sendo feitos no ambiente pedagógico;",
+   "suspender os alunos que estão naturalizando o consumo de substâncias entorpecentes ilícitas como exemplo aos demais."
+  ],
+  "gabarito": 2,
+  "comentario": "O ECA, com a inclusão feita pela Lei 13.840/2019, estabelece o dever de instituições de ensino, clubes e estabelecimentos congêneres de assegurar medidas de conscientização, prevenção e enfrentamento ao uso ou dependência de drogas ilícitas. Por isso a C está correta. Perguntas sobre maconha não configuram, por si sós, situação de ameaça ou violação de direitos que exija acionar o Conselho Tutelar (A). Informar os pais (D) pode até ser útil, mas não é o papel previsto no ECA. Suspender alunos por fazerem perguntas (E) é punitivo e antipedagógico, e escrever à emissora (B) não é atribuição da escola.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjrn-2023-psi-56",
+  "disciplina": "especificos",
+  "assunto": "esp-direitos-humanos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-RN",
+   "ano": 2023,
+   "cargo": "Analista Judiciário – Apoio Especializado – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-judiciario-apoio-especializado-especialidade-psicologiaaj-esp-psi-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjrn2023_gabarito_definitivo-edital-1.pdf",
+   "questao_original": 56,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Com relação ao fenômeno da violência intrafamiliar, analise as afirmativas a seguir.\nI. A violência nas relações de casal é tão significativa que assume caráter endêmico.\nII. A violência intrafamiliar é um problema social de grande dimensão que afeta toda a sociedade, atingindo, especialmente, mulheres, crianças, adolescentes, idosos e portadores de deficiência.\nIII. Em 70% dos casos de violência contra a mulher, os agressores são desconhecidos.\nEstá correto o que se afirma em:",
+  "alternativas": [
+   "somente I;",
+   "somente II;",
+   "somente III;",
+   "somente I e II;",
+   "I, II e III."
+  ],
+  "gabarito": 3,
+  "comentario": "A violência intrafamiliar é um problema de grande magnitude social, que atinge sobretudo mulheres, crianças, adolescentes, idosos e pessoas com deficiência (II). A violência nas relações conjugais é tão disseminada que a literatura a descreve como endêmica (I). A afirmativa III é falsa: na maior parte dos casos de violência contra a mulher, o agressor é conhecido, geralmente o companheiro, ex-companheiro ou um familiar.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjrn-2023-psi-57",
+  "disciplina": "legislacao",
+  "assunto": "leg-idoso-pcd",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-RN",
+   "ano": 2023,
+   "cargo": "Analista Judiciário – Apoio Especializado – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-judiciario-apoio-especializado-especialidade-psicologiaaj-esp-psi-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjrn2023_gabarito_definitivo-edital-1.pdf",
+   "questao_original": 57,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Maria Paula é diretora de escola de nível fundamental I e II e está sugerindo que, em cada ano, sejam realizadas atividades sobre o processo de envelhecimento, o que tem repercutido negativamente sobre alguns pais de alunos, que alegam não ser tal conteúdo parte do currículo formal de ensino. É correto aferir que, de acordo com o Estatuto do Idoso:",
+  "alternativas": [
+   "os pais estão certos, pois não se trata de conteúdo que conste dos currículos escolares;",
+   "a diretora está correta, pois os conteúdos voltados ao tema devem ser inseridos nos currículos de educação;",
+   "os avós dos alunos devem ser ouvidos sobre seu desejo de participar das atividades propostas;",
+   "os alunos devem ser escutados sobre o conteúdo que só será ministrado após se saber de seu interesse sobre o tema;",
+   "a diretora está equivocada em abordar o tema com crianças pequenas que podem se traumatizar com o assunto."
+  ],
+  "gabarito": 1,
+  "comentario": "O Estatuto da Pessoa Idosa determina que os currículos mínimos dos diversos níveis de ensino formal incluam conteúdos voltados ao processo de envelhecimento, ao respeito e à valorização da pessoa idosa, para eliminar o preconceito. Portanto, a diretora está correta. A erra porque o conteúdo tem previsão legal. C e D condicionam a medida a consultas que a lei não exige. E parte de um preconceito: o tema é apropriado à infância e é justamente o que a lei pretende.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjrn-2023-psi-58",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-RN",
+   "ano": 2023,
+   "cargo": "Analista Judiciário – Apoio Especializado – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-judiciario-apoio-especializado-especialidade-psicologiaaj-esp-psi-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjrn2023_gabarito_definitivo-edital-1.pdf",
+   "questao_original": 58,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Segundo o CID-11, o transtorno caracterizado por déficits persistentes na capacidade de iniciar e manter interação social recíproca e comunicação social, e por uma gama de padrões restritos, repetitivos e inflexíveis de comportamento, interesses ou atividades que são claramente atípicos ou excessivos para a idade e o contexto sociocultural do indivíduo é:",
+  "alternativas": [
+   "psicose esquizofrênica;",
+   "personalidade esquizotípica;",
+   "transtorno de espectro autista;",
+   "transtorno distímico;",
+   "transtorno boderline."
+  ],
+  "gabarito": 2,
+  "comentario": "Déficits persistentes na interação e comunicação social recíproca, junto com padrões restritos, repetitivos e inflexíveis de comportamento, interesses ou atividades, são a definição do transtorno do espectro autista na CID-11. A esquizofrenia (A) envolve sintomas psicóticos. O transtorno esquizotípico (B) envolve excentricidades e distorções cognitivas e perceptivas. A distimia (D) é um transtorno do humor, e o borderline (E) tem como marca a instabilidade afetiva e relacional.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjrn-2023-psi-59",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-RN",
+   "ano": 2023,
+   "cargo": "Analista Judiciário – Apoio Especializado – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-judiciario-apoio-especializado-especialidade-psicologiaaj-esp-psi-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjrn2023_gabarito_definitivo-edital-1.pdf",
+   "questao_original": 59,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Winnicott escreveu “O bebê não existe”, pois o bebê e sua mãe, no início, formam uma unidade psíquica, indistinta (inseparável), para o bebê. Quando esse autor se refere ao suporte psíquico e físico que é oferecido ao bebê pela mãe, garantindo um grau de previsibilidade do ambiente que será importante à vida psíquica do novo sujeito em formação, ele fala de:",
+  "alternativas": [
+   "holding;",
+   "apresentação de objetos;",
+   "personalização;",
+   "integração;",
+   "realização."
+  ],
+  "gabarito": 0,
+  "comentario": "Para Winnicott, o holding é a sustentação física e psíquica que a mãe suficientemente boa oferece ao bebê. Ela protege o bebê de invasões e garante um ambiente previsível, base para a integração do ego. A 'apresentação de objetos' (B) é a função de oferecer o mundo ao bebê no momento em que ele está pronto para 'criá-lo'. Integração, personalização e realização (C, D, E) são processos do amadurecimento do bebê que o holding e o handling favorecem, e não o suporte materno em si.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjrn-2023-psi-60",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-RN",
+   "ano": 2023,
+   "cargo": "Analista Judiciário – Apoio Especializado – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-judiciario-apoio-especializado-especialidade-psicologiaaj-esp-psi-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjrn2023_gabarito_definitivo-edital-1.pdf",
+   "questao_original": 60,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Gabriela está grávida e no final da gestação procurou pela Vara de Infância para entregar o bebê que estava esperando para adoção. Logo após o parto, Gabriela manteve seu desejo de entrega da criança, mas ela se arrependeu dois dias depois do nascimento do filho, tendo procurado a equipe técnica para falar sobre o que estava pensando. Segundo previsão contida no ECA, Gabriela:",
+  "alternativas": [
+   "pode desistir da entrega em adoção, devendo ser determinado seu acompanhamento por 180 dias pela Vara de Infância;",
+   "não pode desistir da entrega em adoção, visto já ter sido formalizado o processo de entrega voluntária na Vara de Infância;",
+   "pode voltar atrás no seu desejo de entrega do filho em adoção desde que o Ministério Público se manifeste favoravelmente nesse sentido;",
+   "não pode desistir da entrega em adoção, pois a família habilitada que ficará com o bebê já foi contatada pelo juízo;",
+   "pode desistir da entrega em adoção, desde que a equipe técnica elabore estudo psicológico e social que avalie favoravelmente sua desistência."
+  ],
+  "gabarito": 0,
+  "comentario": "O ECA disciplina a entrega voluntária de filho para adoção. Se os genitores desistirem da entrega após o nascimento, em audiência ou perante a equipe interprofissional, a criança é mantida com eles e a Justiça da Infância determina acompanhamento familiar por 180 dias. Por isso a A está correta. Antes da sentença de adoção, a manifestação pela entrega não é irrevogável, o que torna B e D erradas. A lei não condiciona a desistência a parecer favorável do Ministério Público (C) ou a estudo psicossocial favorável (E).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjrn-2023-psi-61",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-RN",
+   "ano": 2023,
+   "cargo": "Analista Judiciário – Apoio Especializado – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-judiciario-apoio-especializado-especialidade-psicologiaaj-esp-psi-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjrn2023_gabarito_definitivo-edital-1.pdf",
+   "questao_original": 61,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Na psicologia junguiana, o conceito que define o material reprimido da consciência como “a coisa que uma pessoa não tem o desejo de ser”, sendo um dos principais arquétipos do inconsciente pessoal, é:",
+  "alternativas": [
+   "temenos;",
+   "sombra;",
+   "mundus imaginalis;",
+   "imago;",
+   "complexo."
+  ],
+  "gabarito": 1,
+  "comentario": "Na psicologia analítica de Jung, a sombra reúne os aspectos rejeitados e reprimidos da personalidade, ou seja, aquilo que a pessoa não deseja ser. Ela costuma ser projetada nos outros. Temenos (A) é o espaço protegido, o 'recinto sagrado' da análise. Mundus imaginalis (C) é o mundo imaginal. Imago (D) é a imagem inconsciente de figuras, como a imago parental. Complexo (E) é um conjunto de representações com carga afetiva, conceito mais amplo que não corresponde à definição dada.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjrn-2023-psi-62",
+  "disciplina": "legislacao",
+  "assunto": "leg-codigo-etica",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-RN",
+   "ano": 2023,
+   "cargo": "Analista Judiciário – Apoio Especializado – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-judiciario-apoio-especializado-especialidade-psicologiaaj-esp-psi-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjrn2023_gabarito_definitivo-edital-1.pdf",
+   "questao_original": 62,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Juliana é psicóloga e atende na Igreja Evangélica de que é membro. O jovem João, de 23 anos, buscou ajuda psicoterápica com a profissional, pois está em dúvida sobre sua orientação sexual, muito embora esteja noivo de Sarah, que também participa da mesma congregação. Segundo as previsões contidas no Código de Ética profissional, Juliana:",
+  "alternativas": [
+   "deve orientar João a se abster de qualquer prática sexual antes do casamento;",
+   "pode considerar a inadequação da homossexualidade aos olhos de Deus;",
+   "deve encaminhá-lo para ser atendido pelo pastor da congregação religiosa;",
+   "deve acolher João de forma cuidadosa, respeitando o que ele disser;",
+   "deve sugerir que João procure por psicólogo que trabalhe com terapia de conversão sexual e cura gay."
+  ],
+  "gabarito": 3,
+  "comentario": "O Código de Ética Profissional do Psicólogo veda induzir convicções religiosas, morais ou de orientação sexual e veda qualquer prática discriminatória. Assim, Juliana deve acolher João com cuidado e respeito à sua vivência e às suas dúvidas. Orientar abstinência sexual (A), considerar a homossexualidade inadequada (B) ou encaminhar ao pastor (C) significa impor a fé no exercício profissional. Indicar 'terapia de conversão' (E) afronta também a Resolução CFP 01/1999, que proíbe tratar a homossexualidade como doença ou oferecer sua 'cura'.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjrn-2023-psi-63",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-RN",
+   "ano": 2023,
+   "cargo": "Analista Judiciário – Apoio Especializado – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-judiciario-apoio-especializado-especialidade-psicologiaaj-esp-psi-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjrn2023_gabarito_definitivo-edital-1.pdf",
+   "questao_original": 63,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Freud descobre que os desejos inconscientes se atualizam de um modo particular na relação do paciente com o seu analista, repetindo protótipos infantis, porém, vividos como sentimentos atuais. Tal fenômeno adquire importância na condução do tratamento analítico na medida em que passa a ser empregado como instrumento para a cura, uma vez que se trata de uma via privilegiada de acesso ao desejo inconsciente. Tal fenômeno refere-se ao conceito de:",
+  "alternativas": [
+   "recalque;",
+   "castração;",
+   "associação livre;",
+   "catarse;",
+   "transferência."
+  ],
+  "gabarito": 4,
+  "comentario": "Transferência é a atualização de desejos inconscientes e de protótipos infantis na relação com o analista, vividos como sentimentos atuais. Freud passou a vê-la de obstáculo a principal instrumento do tratamento. Recalque (A) é o mecanismo que mantém representações fora da consciência. Castração (B) é um conceito ligado ao complexo de Édipo. Associação livre (C) é a regra fundamental do método. Catarse (D) é a descarga de afetos do método pré-analítico.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjrn-2023-psi-64",
+  "disciplina": "especificos",
+  "assunto": "esp-avaliacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-RN",
+   "ano": 2023,
+   "cargo": "Analista Judiciário – Apoio Especializado – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-judiciario-apoio-especializado-especialidade-psicologiaaj-esp-psi-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjrn2023_gabarito_definitivo-edital-1.pdf",
+   "questao_original": 64,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "A Resolução CFP nº 008/2010 dispõe sobre a atuação do psicólogo como perito e assistente técnico no Poder Judiciário. A respeito das atribuições e das relações entre o psicólogo perito e o assistente técnico, é correto afirmar que:",
+  "alternativas": [
+   "o psicólogo assistente técnico não deve estar presente durante a realização dos procedimentos metodológicos que norteiam o atendimento do psicólogo perito e vice-versa;",
+   "o trabalho pericial poderá contemplar observações, entrevistas, visitas domiciliares e institucionais, constelações familiares, aplicação de testes psicológicos e utilização de recursos lúdicos;",
+   "o psicólogo assistente técnico, capacitado para questionar tecnicamente a análise realizada pelo psicólogo perito, poderá produzir um novo laudo cuja avaliação, feita de forma fundamentada, visa garantir o direito ao contraditório da parte contratante;",
+   "recomenda-se que antes do início dos trabalhos o assistente técnico registre sua prestação de serviço mediante Termo de Compromisso, preferencialmente em ambiente extrajudicial, evitando, assim, a judicialização;",
+   "é vedado ao psicólogo que esteja atuando como psicoterapeuta das partes envolvidas em um litígio atuar como psicólogo perito, não se aplicando ao psicólogo assistente técnico por ser de confiança da parte e, portanto, não sujeito a impedimento ou suspeição legais."
+  ],
+  "gabarito": 0,
+  "comentario": "A Resolução CFP 008/2010 prevê que o assistente técnico não deve estar presente durante os procedimentos metodológicos do perito, e vice-versa, para não interferir na dinâmica e na qualidade do serviço. Por isso a A está correta. Constelações familiares (B) não são método reconhecido da Psicologia para a perícia. O assistente técnico produz parecer técnico que analisa o trabalho do perito, e não um 'novo laudo' (C). A resolução veda ao psicoterapeuta das partes atuar tanto como perito quanto como assistente técnico, o que torna E errada. D inventa um procedimento extrajudicial que não corresponde à norma.",
+  "dificuldade": 3,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjrn-2023-psi-65",
+  "disciplina": "especificos",
+  "assunto": "esp-avaliacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-RN",
+   "ano": 2023,
+   "cargo": "Analista Judiciário – Apoio Especializado – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-judiciario-apoio-especializado-especialidade-psicologiaaj-esp-psi-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjrn2023_gabarito_definitivo-edital-1.pdf",
+   "questao_original": 65,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "A Resolução CFP nº 017/2012 dispõe sobre a atuação do psicólogo como perito nos diversos contextos. De acordo com a Resolução, analise as afirmativas a seguir, considerando V para a(s) verdadeira(s) e F para a(s) falsa(s).\n( ) O periciado deve ser informado acerca dos motivos, das técnicas utilizadas, datas e local da avaliação pericial psicológica.\n( ) Quando a pessoa atendida for criança ou adolescente, é necessária a apresentação de consentimento a ser dado por ambos os genitores, mesmo quando não for o guardião ou guardiã legal.\n( ) A devolutiva do processo de avaliação deve direcionar-se para os resultados dos instrumentos e técnicas utilizados.\nA sequência correta é:",
+  "alternativas": [
+   "V, F, V;",
+   "F, V, V;",
+   "V, F, F;",
+   "V, V, F;",
+   "F, F, F."
+  ],
+  "gabarito": 0,
+  "comentario": "Na avaliação pericial, o periciado deve ser informado sobre os motivos, as técnicas, as datas e o local da avaliação, por isso a 1ª afirmativa é V. A 2ª é F: a norma não exige o consentimento de ambos os genitores, inclusive de quem não detém a guarda, para avaliar criança ou adolescente. A 3ª foi considerada verdadeira: a devolutiva ao periciado se direciona aos resultados obtidos com os instrumentos e técnicas utilizados. A sequência é V, F, V.",
+  "dificuldade": 3,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjrn-2023-psi-66",
+  "disciplina": "legislacao",
+  "assunto": "leg-res06-2019",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-RN",
+   "ano": 2023,
+   "cargo": "Analista Judiciário – Apoio Especializado – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-judiciario-apoio-especializado-especialidade-psicologiaaj-esp-psi-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjrn2023_gabarito_definitivo-edital-1.pdf",
+   "questao_original": 66,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "De acordo com a Resolução CFP nº 06/2019, relacione as modalidades de documentos psicológicos com suas respectivas definições e características.\n1. Atestado psicológico\n2. Relatório psicológico\n3. Laudo psicológico\n4. Parecer psicológico\n( ) Visa comunicar a atuação profissional do psicólogo em diferentes processos de trabalho já desenvolvidos ou em desenvolvimento, podendo gerar orientações, recomendações, encaminhamentos e intervenções pertinentes à situação descrita no documento, não tendo como finalidade produzir diagnóstico psicológico.\n( ) Pronunciamento por escrito, que tem como finalidade apresentar uma análise técnica, respondendo a uma questão-problema do campo psicológico ou a documentos psicológicos questionados.\n( ) Resultado de um processo de avaliação psicológica, com finalidade de subsidiar decisões relacionadas ao contexto em que surgiu a demanda. Deve apresentar os procedimentos e conclusões gerados pelo processo de avaliação psicológica, limitando-se a fornecer as informações necessárias e relacionadas à demanda e relatar o encaminhamento, as intervenções, o diagnóstico, o prognóstico, a hipótese diagnóstica, a evolução do caso, orientação e/ou sugestão de projeto terapêutico.\n( ) Documento que certifica, com fundamento em um diagnóstico psicológico, uma determinada situação, estado ou funcionamento psicológico, com a finalidade de afirmar as condições psicológicas de quem, por requerimento, o solicita.\nA relação correta, de cima para baixo, é:",
+  "alternativas": [
+   "1, 3, 2 e 4;",
+   "1, 4, 2 e 3;",
+   "4, 2, 3 e 1;",
+   "2, 4, 3 e 1;",
+   "4, 3, 2 e 1."
+  ],
+  "gabarito": 3,
+  "comentario": "Pela Resolução CFP 06/2019, o relatório comunica a atuação profissional em processos de trabalho, pode gerar orientações e encaminhamentos e não tem como finalidade produzir diagnóstico (2). O parecer é um pronunciamento técnico que responde a uma questão-problema ou analisa documentos psicológicos questionados (4). O laudo resulta de um processo de avaliação psicológica e subsidia decisões, apresentando procedimentos, conclusões, diagnóstico e prognóstico (3). O atestado certifica, com fundamento em diagnóstico psicológico, uma situação ou estado psicológico (1). A sequência é 2, 4, 3, 1.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjrn-2023-psi-67",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-RN",
+   "ano": 2023,
+   "cargo": "Analista Judiciário – Apoio Especializado – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-judiciario-apoio-especializado-especialidade-psicologiaaj-esp-psi-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjrn2023_gabarito_definitivo-edital-1.pdf",
+   "questao_original": 67,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "O psicólogo deve considerar a dimensão ético-política do seu trabalho para não reforçar as formas de controle normativo e reducionista das relações interpessoais. Numa perspectiva crítica, cabe a ele questionar e fazer face às formas de opressão e segregação que se impõem em dada realidade política, econômica, social e cultural. Seguindo esse raciocínio, sabe-se que, nas Varas de Família, ele depara-se com conflitos relacionados à Alienação Parental, cujo tema é bastante controverso. A opção que NÃO apresenta hipótese de um ponto de vista crítico em relação à Alienação Parental, é:",
+  "alternativas": [
+   "as sanções previstas na Lei de Alienação Parental são punitivistas e podem contribuir para o acirramento da disputa familiar",
+   "o ideário de igualdade parental que pauta os argumentos favoráveis à Lei de Alienação Parental ofusca o debate necessário da desigualdade entre gêneros",
+   "a dicotomia alienador/alienado acarreta a individualização e/ou patologização do conflito familiar, deixando de lado a dimensão sócio-histórica deste",
+   "a Lei da Alienação Parental reúne instrumentos para o enfrentamento de situações disfuncionais de violência psicológica que impedem o compartilhamento da guarda",
+   "o objetivo pericial de diagnosticar atos de alienação parental reduz a atividade psicológica a uma demanda exclusivamente jurídica, limitando a autonomia profissional"
+  ],
+  "gabarito": 3,
+  "comentario": "A questão pede a alternativa que NÃO expressa uma crítica à noção de alienação parental. A D defende a lei como instrumento de enfrentamento de situações disfuncionais, ou seja, é uma posição favorável a ela. As demais reúnem críticas recorrentes na Psicologia: o caráter punitivista das sanções (A), o ocultamento da desigualdade de gênero (B), a patologização e individualização do conflito familiar (C) e a redução do trabalho pericial a uma demanda exclusivamente jurídica (E).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjrn-2023-psi-68",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-RN",
+   "ano": 2023,
+   "cargo": "Analista Judiciário – Apoio Especializado – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-judiciario-apoio-especializado-especialidade-psicologiaaj-esp-psi-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjrn2023_gabarito_definitivo-edital-1.pdf",
+   "questao_original": 68,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "A Lei nº 13.058, de 22 de dezembro de 2014, altera os Arts. 1.583, 1.584, 1.585 e 1.634 da Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil), para estabelecer o significado da expressão “guarda compartilhada” e dispor sobre sua aplicação. De acordo com a Resolução, analise as afirmativas a seguir, considerando V para a(s) verdadeira(s) e F para a(s) falsa(s).\n( ) Na guarda compartilhada, o tempo de convívio com os filhos deve ser dividido de forma idêntica com a mãe e com o pai, tendo em vista as condições fáticas e os interesses dos filhos.\n( ) Quando não houver acordo entre a mãe e o pai quanto à guarda do filho, será aplicada, sempre que possível, a guarda compartilhada.\n( ) Se o juiz verificar que o filho não deve permanecer sob a guarda do pai ou da mãe, deferirá a guarda a pessoa que revele compatibilidade com a natureza da medida, considerados, de preferência, o grau de parentesco e as relações de afinidade e afetividade.\nA sequência correta é:",
+  "alternativas": [
+   "F, V, F;",
+   "F, V, V;",
+   "V, F, F;",
+   "V, V, F;",
+   "F, F, V."
+  ],
+  "gabarito": 4,
+  "comentario": "A 1ª afirmativa é F: o Código Civil, com a redação da Lei 13.058/2014, fala em divisão equilibrada do tempo de convívio, e não idêntica. A 2ª é F porque reproduz a redação antiga ('sempre que possível'). Pela redação atual, sem acordo e estando ambos os genitores aptos ao poder familiar, a guarda compartilhada será aplicada, salvo se um deles declarar que não a deseja. A 3ª é V: se o filho não deve ficar com o pai ou a mãe, o juiz defere a guarda a quem revele compatibilidade com a medida, considerando de preferência parentesco, afinidade e afetividade. A sequência é F, F, V. O enunciado fala em 'Resolução' por imprecisão da banca, pois se trata de lei.",
+  "dificuldade": 3,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjrn-2023-psi-69",
+  "disciplina": "especificos",
+  "assunto": "esp-avaliacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-RN",
+   "ano": 2023,
+   "cargo": "Analista Judiciário – Apoio Especializado – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-judiciario-apoio-especializado-especialidade-psicologiaaj-esp-psi-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjrn2023_gabarito_definitivo-edital-1.pdf",
+   "questao_original": 69,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "A perícia psicológica nos casos de crimes sexuais contra crianças e adolescentes enfrenta diversos desafios, sobretudo, quando se trata de situações intrafamiliares. Nesse contexto, é correto afirmar que:",
+  "alternativas": [
+   "todas as vítimas de abuso sexual intrafamiliar desenvolvem problemas emocionais ou psiquiátricos;",
+   "os efeitos psíquicos da violência sexual sobre a criança são manifestados por ela num breve período após o ato realizado;",
+   "a avaliação pericial deve ter como foco principal a identificação dos sintomas que caracterizam as vítimas abusadas sexualmente;",
+   "as evidências corporais de conjunção carnal e uso de força física são encontradas mais frequentemente em casos de violência intrafamiliar;",
+   "o impacto do abuso sexual sobre a criança não depende só do fato em si, mas de outros fatores, tais como a resposta social à violência sofrida e o apoio que ela recebe dos outros significativos."
+  ],
+  "gabarito": 4,
+  "comentario": "O impacto do abuso sexual varia conforme múltiplos fatores, como idade, duração, relação com o autor, resposta social à revelação e apoio de figuras significativas. Por isso a E está correta. Nem toda vítima desenvolve psicopatologia (A), e os efeitos podem surgir tardiamente (B). A perícia não deve se basear em uma suposta lista de 'sintomas típicos' do abuso, que não existe (C). No abuso intrafamiliar, vestígios físicos e uso de força são, em geral, menos frequentes, pois predominam a sedução, o segredo e a progressão gradual (D).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjrn-2023-psi-70",
+  "disciplina": "especificos",
+  "assunto": "esp-direitos-humanos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-RN",
+   "ano": 2023,
+   "cargo": "Analista Judiciário – Apoio Especializado – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-judiciario-apoio-especializado-especialidade-psicologiaaj-esp-psi-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjrn2023_gabarito_definitivo-edital-1.pdf",
+   "questao_original": 70,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "A violência é um componente que faz parte da história de vida de muitas mulheres, ocorrendo desde a infância por parte de familiares, especialmente do sexo masculino, e posteriormente sendo reeditada pelo companheiro. Trata-se de algo proveniente do patriarcado que visa dominar e explorar as mulheres. Nesse contexto de atuação do psicólogo em programas de atenção à mulher em situação de violência, é correto afirmar que:",
+  "alternativas": [
+   "a atuação deve ser focada no resgate da autoestima individual da mulher vítima de violência;",
+   "a violência contra a mulher é um fenômeno complexo e multifacetado e que exige compreensão e intervenção multidisciplinares;",
+   "a rede de enfrentamento à violência contra as mulheres e a rede de atendimento devem ser vistas como dispositivos idênticos;",
+   "deve-se oferecer assistência apenas mediante denúncia formal, ou seja, a partir da representação formal da queixa de violência;",
+   "o modelo mais adequado para o enfrentamento da violência contra a mulher é o da clínica, possibilitando-lhe ultrapassar os conflitos intrapsíquicos que a vitimizam."
+  ],
+  "gabarito": 1,
+  "comentario": "A violência contra a mulher é um fenômeno complexo, multideterminado e atravessado por questões de gênero, culturais, sociais e econômicas, e por isso exige compreensão e intervenção multidisciplinares e em rede. Focar apenas na autoestima individual (A) ou na clínica intrapsíquica (E) individualiza um problema estrutural. A rede de enfrentamento é mais ampla que a rede de atendimento, então os dois não são idênticos (C). O atendimento também não pode ficar condicionado à denúncia formal (D).",
+  "dificuldade": 1,
+  "anulada": false
+ }
+]

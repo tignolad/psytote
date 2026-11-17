@@ -1,0 +1,254 @@
+[
+  {
+    "id": "aut-rlm-problemas-001",
+    "disciplina": "rlm",
+    "assunto": "rlm-problemas",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Três pessoas, Alfa, Beta e Gama, sempre dizem a verdade ou sempre mentem. Elas afirmaram:\nAlfa: “Beta é mentiroso.”\nBeta: “Gama é mentiroso.”\nGama: “Alfa e Beta são mentirosos.”\nÉ correto concluir que",
+    "alternativas": [
+      "os três dizem a verdade.",
+      "apenas Alfa diz a verdade.",
+      "apenas Gama diz a verdade.",
+      "Alfa e Gama dizem a verdade.",
+      "apenas Beta diz a verdade."
+    ],
+    "gabarito": 4,
+    "comentario": "Se Gama dissesse a verdade, Alfa e Beta mentiriam; mas, se Alfa mente, Beta diz a verdade — contradição. Logo Gama mente. Então a fala de Beta (“Gama é mentiroso”) é verdadeira: Beta diz a verdade. A fala de Alfa (“Beta é mentiroso”) é falsa: Alfa mente. A fala de Gama é de fato falsa, o que confirma a solução.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-rlm-problemas-002",
+    "disciplina": "rlm",
+    "assunto": "rlm-problemas",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Uma xícara foi quebrada na copa da clínica, e sabe-se que uma única pessoa, entre quatro, a quebrou. Questionadas, disseram:\nAna: “Foi a Bia.”\nBia: “Foi a Dani.”\nCaio: “Não fui eu.”\nDani: “A Bia está mentindo.”\nSabendo que exatamente uma das quatro pessoas mentiu, quem quebrou a xícara foi",
+    "alternativas": [
+      "Ana.",
+      "Bia.",
+      "Caio.",
+      "Dani.",
+      "não é possível determinar."
+    ],
+    "gabarito": 1,
+    "comentario": "Ana e Bia acusam pessoas diferentes, então ao menos uma delas mente; como só há uma mentira, Caio e Dani dizem a verdade. Se Dani diz a verdade, Bia mente. Logo, a única mentirosa é Bia, e Ana diz a verdade: foi Bia. Conferindo: Caio não foi (verdade) e a fala de Bia é falsa.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-rlm-problemas-003",
+    "disciplina": "rlm",
+    "assunto": "rlm-problemas",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Uma comissão de 3 pessoas será formada a partir de um grupo com 5 psicólogos e 4 assistentes sociais. A comissão deve ter pelo menos um psicólogo.\nO número de comissões diferentes possíveis é",
+    "alternativas": [
+      "40",
+      "64",
+      "76",
+      "80",
+      "84"
+    ],
+    "gabarito": 3,
+    "comentario": "Total sem restrição: C(9,3) = 84. Comissões sem nenhum psicólogo (só assistentes sociais): C(4,3) = 4. Logo, 84 − 4 = 80.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-rlm-problemas-004",
+    "disciplina": "rlm",
+    "assunto": "rlm-problemas",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Em uma caixa há 6 fichas vermelhas, 8 azuis e 5 verdes. Retirando fichas ao acaso, sem olhar, o número MÍNIMO de fichas que se deve retirar para ter certeza de obter 3 fichas da mesma cor é",
+    "alternativas": [
+      "6",
+      "7",
+      "9",
+      "13",
+      "17"
+    ],
+    "gabarito": 1,
+    "comentario": "No pior caso, retiram-se 2 de cada cor (2 + 2 + 2 = 6) sem formar trio. A 7ª ficha, qualquer que seja sua cor, completa 3 de uma mesma cor. Isso é possível porque cada cor tem pelo menos 3 fichas.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-rlm-problemas-005",
+    "disciplina": "rlm",
+    "assunto": "rlm-problemas",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "O número de anagramas da palavra GRUPO que começam por vogal é",
+    "alternativas": [
+      "48",
+      "60",
+      "72",
+      "96",
+      "120"
+    ],
+    "gabarito": 0,
+    "comentario": "As vogais de GRUPO são U e O: 2 escolhas para a primeira letra. As 4 letras restantes podem ser permutadas de 4! = 24 maneiras. Total: 2 × 24 = 48.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-rlm-problemas-006",
+    "disciplina": "rlm",
+    "assunto": "rlm-problemas",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Em uma reunião de equipe, 8 profissionais se cumprimentaram com um aperto de mão, cada um cumprimentando cada um dos outros exatamente uma vez.\nO número total de apertos de mão foi",
+    "alternativas": [
+      "16",
+      "28",
+      "36",
+      "56",
+      "64"
+    ],
+    "gabarito": 1,
+    "comentario": "Cada aperto envolve um par de pessoas: C(8,2) = 8 × 7 ÷ 2 = 28. O valor 56 conta cada aperto duas vezes (8 × 7).",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-rlm-problemas-007",
+    "disciplina": "rlm",
+    "assunto": "rlm-problemas",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "O sistema de prontuários de uma clínica gera códigos formados por 3 letras DISTINTAS escolhidas entre A, B, C, D e E, seguidas de 2 algarismos de 0 a 9 (que podem se repetir).\nO número de códigos diferentes possíveis é",
+    "alternativas": [
+      "600",
+      "3.600",
+      "6.000",
+      "10.000",
+      "12.500"
+    ],
+    "gabarito": 2,
+    "comentario": "Letras distintas em ordem: 5 × 4 × 3 = 60. Algarismos com repetição: 10 × 10 = 100. Pelo princípio multiplicativo: 60 × 100 = 6.000. Se as letras pudessem repetir-se, seriam 125 × 100 = 12.500.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-rlm-problemas-008",
+    "disciplina": "rlm",
+    "assunto": "rlm-problemas",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Em uma ilha, cada habitante é cavaleiro (sempre diz a verdade) ou patife (sempre mente). O habitante X afirmou: “Eu sou patife ou Y é cavaleiro.”\nÉ correto concluir que",
+    "alternativas": [
+      "X e Y são patifes.",
+      "X é patife e Y é cavaleiro.",
+      "X e Y são cavaleiros.",
+      "X é cavaleiro e Y é patife.",
+      "não é possível determinar a natureza de Y."
+    ],
+    "gabarito": 2,
+    "comentario": "Se X fosse patife, a parte “eu sou patife” seria verdadeira, tornando a disjunção verdadeira — mas patife não diz verdades. Logo X é cavaleiro e sua frase é verdadeira. Como “eu sou patife” é falso, a outra parte tem de ser verdadeira: Y é cavaleiro.",
+    "dificuldade": 3,
+    "anulada": false
+  },
+  {
+    "id": "aut-rlm-problemas-009",
+    "disciplina": "rlm",
+    "assunto": "rlm-problemas",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Hoje, a idade de Laura é o triplo da idade de seu filho. Daqui a 12 anos, a idade de Laura será o dobro da idade do filho.\nA soma das idades atuais de Laura e do filho é",
+    "alternativas": [
+      "32",
+      "36",
+      "44",
+      "48",
+      "60"
+    ],
+    "gabarito": 3,
+    "comentario": "Seja f a idade do filho: Laura tem 3f. Em 12 anos: 3f + 12 = 2(f + 12) ⇒ 3f + 12 = 2f + 24 ⇒ f = 12. Laura tem 36 anos e a soma é 12 + 36 = 48.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-rlm-problemas-010",
+    "disciplina": "rlm",
+    "assunto": "rlm-problemas",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Cinco pessoas, entre elas Ana e Beto, vão se posicionar em fila para uma foto. Ana e Beto devem ficar juntos (lado a lado).\nO número de maneiras diferentes de organizar a fila é",
+    "alternativas": [
+      "12",
+      "20",
+      "24",
+      "36",
+      "48"
+    ],
+    "gabarito": 4,
+    "comentario": "Tratando Ana e Beto como um bloco, há 4 elementos para permutar: 4! = 24. Dentro do bloco, Ana e Beto podem trocar de posição: 2. Total: 24 × 2 = 48.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-rlm-problemas-011",
+    "disciplina": "rlm",
+    "assunto": "rlm-problemas",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Em uma família, cada filho homem tem o mesmo número de irmãos e de irmãs, e cada filha mulher tem o dobro de irmãos em relação ao número de irmãs.\nO número total de filhos e filhas dessa família é",
+    "alternativas": [
+      "4",
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "gabarito": 3,
+    "comentario": "Sejam h homens e m mulheres. Cada homem tem h − 1 irmãos e m irmãs: h − 1 = m. Cada mulher tem h irmãos e m − 1 irmãs: h = 2(m − 1). Substituindo: m + 1 = 2m − 2 ⇒ m = 3 e h = 4. Total: 7.",
+    "dificuldade": 3,
+    "anulada": false
+  },
+  {
+    "id": "aut-rlm-problemas-012",
+    "disciplina": "rlm",
+    "assunto": "rlm-problemas",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Com os algarismos 1, 2, 3, 4 e 5, quantos números de três algarismos DISTINTOS e PARES podem ser formados?",
+    "alternativas": [
+      "24",
+      "30",
+      "36",
+      "48",
+      "60"
+    ],
+    "gabarito": 0,
+    "comentario": "Para ser par, o último algarismo deve ser 2 ou 4: 2 opções. Restam 4 opções para o primeiro algarismo e 3 para o do meio. Total: 2 × 4 × 3 = 24. (60 é o total de números com algarismos distintos, e 36 é o total de ímpares.)",
+    "dificuldade": 1,
+    "anulada": false
+  }
+]

@@ -1,0 +1,202 @@
+[
+ {
+  "id": "fgv-adab-2024-fis-9",
+  "disciplina": "rlm",
+  "assunto": "rlm-sequencias",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ADAB",
+   "ano": 2024,
+   "cargo": "Fiscal Estadual Agropecuário",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/fiscal-estadual-agropecuario-defesa-sanitaria-e-inspecao-animalcns001-tipo-1.pdf"
+  },
+  "enunciado": "A seguir, são apresentados os 14 primeiros termos de uma sequência infinita de números inteiros positivos, construída de acordo com um padrão lógico.\n4 5 5 6 6 7 7 8 8 9 9 10 10 11 ...\nSe esse padrão é mantido ao longo de toda a sequência, o 91º termo vale",
+  "alternativas": [
+   "47.",
+   "48.",
+   "49.",
+   "50.",
+   "51."
+  ],
+  "gabarito": 2,
+  "comentario": "Depois do 4 inicial, cada número aparece duas vezes: os termos de ordem 2 e 3 valem 5, os de ordem 4 e 5 valem 6, e assim por diante. Em geral, o termo de ordem n (n ≥ 2) vale 4 + ⌈(n − 1)/2⌉. Para n = 91: (91 − 1)/2 = 45, logo o termo é 4 + 45 = 49 (os termos 90 e 91 valem 49).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-adab-2024-fis-10",
+  "disciplina": "rlm",
+  "assunto": "rlm-proposicoes",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ADAB",
+   "ano": 2024,
+   "cargo": "Fiscal Estadual Agropecuário",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/fiscal-estadual-agropecuario-defesa-sanitaria-e-inspecao-animalcns001-tipo-1.pdf"
+  },
+  "enunciado": "Considere verdadeira a seguinte proposição:\n“Todo matemático brasileiro conhece fractais”\nPor consequência lógica, se Richard",
+  "alternativas": [
+   "é brasileiro mas não é matemático, então não conhece fractais.",
+   "é matemático mas não é brasileiro, então não conhece fractais.",
+   "não é brasileiro e nem matemático, então não conhece fractais.",
+   "não conhece fractais, então não é matemático e nem brasileiro.",
+   "não conhece fractais, então não é matemático ou não é brasileiro."
+  ],
+  "gabarito": 4,
+  "comentario": "A proposição equivale a: se (matemático e brasileiro), então conhece fractais. Pela contrapositiva: se não conhece fractais, então não é (matemático e brasileiro), ou seja, pela lei de De Morgan, não é matemático OU não é brasileiro (E). D exige as duas negações ao mesmo tempo, o que não decorre; A, B e C negam o antecedente, o que não permite concluir nada sobre conhecer fractais.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-adab-2024-fis-11",
+  "disciplina": "rlm",
+  "assunto": "rlm-problemas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ADAB",
+   "ano": 2024,
+   "cargo": "Fiscal Estadual Agropecuário",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/fiscal-estadual-agropecuario-defesa-sanitaria-e-inspecao-animalcns001-tipo-1.pdf"
+  },
+  "enunciado": "Um cubo tem 4 de suas faces pintadas de branco e as demais pintadas de preto. Esse cubo será lançado 2 vezes seguidas e, em cada uma das ocasiões, será registrada a cor da face voltada para cima.\nConsiderando-se que todas as faces do cubo têm igual chance de ficar para cima após um lançamento, a probabilidade de que se obtenha, ao menos uma vez, uma face preta como resultado é igual a",
+  "alternativas": [
+   "4/9.",
+   "5/9.",
+   "4/12.",
+   "5/12.",
+   "8/12."
+  ],
+  "gabarito": 1,
+  "comentario": "Em cada lançamento, P(branca) = 4/6 = 2/3 e P(preta) = 2/6 = 1/3. Pelo complementar, P(ao menos uma preta) = 1 − P(duas brancas) = 1 − (2/3)² = 1 − 4/9 = 5/9. O valor 4/9 (A) é justamente a probabilidade de nenhuma preta.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-adab-2024-fis-12",
+  "disciplina": "rlm",
+  "assunto": "rlm-sequencias",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ADAB",
+   "ano": 2024,
+   "cargo": "Fiscal Estadual Agropecuário",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/fiscal-estadual-agropecuario-defesa-sanitaria-e-inspecao-animalcns001-tipo-1.pdf"
+  },
+  "enunciado": "Agnaldo faz aniversário 2 dias antes de Berenice e 3 dias depois de Cilene. Diógenes faz aniversário 3 dias antes de Eliodoro e 1 dia depois de Cilene.\nSe o aniversário de Diógenes é 16 de agosto, pode-se afirmar que",
+  "alternativas": [
+   "em 19 de agosto, Agnaldo faz aniversário.",
+   "em 18 de agosto, Berenice faz aniversário.",
+   "em 17 de agosto, nenhum deles faz aniversário.",
+   "em 15 de agosto, Eliodoro faz aniversário.",
+   "em 14 de agosto, Cilene faz aniversário."
+  ],
+  "gabarito": 2,
+  "comentario": "Diógenes = 16/08 e ele faz aniversário 1 dia depois de Cilene, então Cilene = 15/08. Agnaldo é 3 dias depois de Cilene: 18/08. Berenice é 2 dias depois de Agnaldo: 20/08. Eliodoro é 3 dias depois de Diógenes: 19/08. Datas ocupadas: 15, 16, 18, 19 e 20 — em 17 de agosto ninguém faz aniversário (C).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-adab-2024-fis-13",
+  "disciplina": "rlm",
+  "assunto": "rlm-problemas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ADAB",
+   "ano": 2024,
+   "cargo": "Fiscal Estadual Agropecuário",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/fiscal-estadual-agropecuario-defesa-sanitaria-e-inspecao-animalcns001-tipo-1.pdf"
+  },
+  "enunciado": "Em uma lanchonete, Anaxágoras consumiu um suco e um salgado. Ele pagou com uma nota de R$ 20,00 e recebeu R$ 7,20 de troco. Se tivesse comido um salgado a mais, teria recebido R$ 2,30 de troco.\nPode-se afirmar que o suco custou",
+  "alternativas": [
+   "R$ 4,90.",
+   "R$ 5,90.",
+   "R$ 6,90.",
+   "R$ 7,90.",
+   "R$ 8,90."
+  ],
+  "gabarito": 3,
+  "comentario": "Suco + salgado = 20,00 − 7,20 = R$ 12,80. O salgado extra reduziria o troco em 7,20 − 2,30 = R$ 4,90, que é o preço do salgado. Logo, o suco custou 12,80 − 4,90 = R$ 7,90.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-adab-2024-fis-14",
+  "disciplina": "rlm",
+  "assunto": "rlm-numeros",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ADAB",
+   "ano": 2024,
+   "cargo": "Fiscal Estadual Agropecuário",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/fiscal-estadual-agropecuario-defesa-sanitaria-e-inspecao-animalcns001-tipo-1.pdf"
+  },
+  "enunciado": "Certa quantia Q foi repartida de modo que Parmênides ficou com 40% de Q e a Heráclito coube o restante. Dessa forma, Heráclito recebeu R$ 1.600,00 a mais do que Parmênides.\nO valor de Q",
+  "alternativas": [
+   "é maior que R$ 7.950,00.",
+   "está entre R$ 7.650,00 e R$ 7.950,00.",
+   "está entre R$ 7.350,00 e R$ 7.650,00.",
+   "está entre R$ 7.050,00 e R$ 7.350,00.",
+   "é menor que R$ 7.050,00."
+  ],
+  "gabarito": 0,
+  "comentario": "Heráclito ficou com 60% de Q e Parmênides com 40%; a diferença é 20% de Q. Assim, 0,20·Q = 1.600 ⇒ Q = 8.000. Como R$ 8.000,00 é maior que R$ 7.950,00, a resposta é A.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-adab-2024-fis-15",
+  "disciplina": "rlm",
+  "assunto": "rlm-medidas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ADAB",
+   "ano": 2024,
+   "cargo": "Fiscal Estadual Agropecuário",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/fiscal-estadual-agropecuario-defesa-sanitaria-e-inspecao-animalcns001-tipo-1.pdf"
+  },
+  "enunciado": "Seja P (3,4) um ponto no plano cartesiano.\nDe todos os pontos pertencentes ao eixo das abscissas (eixo X), aquele que possui a menor distância para P é",
+  "alternativas": [
+   "(0,4).",
+   "(0,3).",
+   "(5,0).",
+   "(4,0).",
+   "(3,0)."
+  ],
+  "gabarito": 4,
+  "comentario": "O ponto do eixo X mais próximo de P é o pé da perpendicular baixada de P até o eixo, ou seja, mantém a abscissa e zera a ordenada: (3, 0), a uma distância 4. Confirmação: um ponto (x, 0) está à distância √((x − 3)² + 16), mínima para x = 3. (0,4) e (0,3) nem estão no eixo X; (4,0) dista √17 e (5,0) dista √20.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-adab-2024-fis-16",
+  "disciplina": "rlm",
+  "assunto": "rlm-conjuntos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ADAB",
+   "ano": 2024,
+   "cargo": "Fiscal Estadual Agropecuário",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/fiscal-estadual-agropecuario-defesa-sanitaria-e-inspecao-animalcns001-tipo-1.pdf"
+  },
+  "enunciado": "Em uma pesquisa realizada sobre o consumo regular de alimentos, foi constatado que:\n- 5% dos entrevistados não consomem regularmente nem legumes e nem verduras;\n- 60% dos entrevistados consomem regularmente legumes;\n- 47% dos entrevistados consomem regularmente verduras.\nA porcentagem de entrevistados que consomem regularmente tanto legumes quanto verduras é",
+  "alternativas": [
+   "11%.",
+   "12%.",
+   "13%.",
+   "14%.",
+   "15%."
+  ],
+  "gabarito": 1,
+  "comentario": "Quem consome ao menos um dos dois: 100% − 5% = 95%. Pelo princípio da inclusão-exclusão, n(L ∪ V) = n(L) + n(V) − n(L ∩ V) ⇒ 95 = 60 + 47 − x ⇒ x = 107 − 95 = 12%.",
+  "dificuldade": 1,
+  "anulada": false
+ }
+]

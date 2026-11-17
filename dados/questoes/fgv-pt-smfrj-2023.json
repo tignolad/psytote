@@ -1,0 +1,377 @@
+[
+ {
+  "id": "fgv-smfrj-2023-apo-1",
+  "disciplina": "portugues",
+  "assunto": "pt-tipologia",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "SMF-RJ",
+   "ano": 2023,
+   "cargo": "Analista de Planejamento e Orçamento (APO)",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-de-planejamento-e-orcamento-apoapo1-tipo-1.pdf"
+  },
+  "enunciado": "Observe o fragmento textual a seguir.\n“A rua era pobre e a casa parecia antiga, com suas janelas azuis e as vidraças do lado externo, como nas velhas casas de Minas. Aproximei-me devagar e pulei o muro. Peguei a chave no vaso de plantas e entrei. A entrada era ampla, assim como a sala a seguir, com muitos móveis. Os objetos de decoração eram todos de aparência clássica, certamente muito caros. Os quartos estavam arrumados e os banheiros eram de finíssimo gosto.”\nSobre a estrutura global desse pequeno fragmento, é correto afirmar que:",
+  "alternativas": [
+   "o texto é exclusivamente narrativo, com uma sequência de ações praticadas pelo próprio narrador;",
+   "o texto é uma mistura de texto descritivo, em sua maior parte, com texto narrativo;",
+   "o narrador do texto, sendo personagem da trama, é do tipo onisciente;",
+   "a descrição da casa é rica em detalhes, sendo realizada de dentro para fora do imóvel;",
+   "o narrador e o observador são pessoas distintas no texto."
+  ],
+  "gabarito": 1,
+  "comentario": "Predominam no fragmento verbos de estado e caracterizações (a rua \"era pobre\", a casa \"parecia antiga\", a entrada \"era ampla\", os quartos \"estavam arrumados\"), com poucas ações narradas (\"aproximei-me\", \"pulei o muro\", \"peguei a chave\", \"entrei\") — logo, é descritivo em sua maior parte, com trechos narrativos (B). A erra ao dizer \"exclusivamente narrativo\"; C erra porque o narrador-personagem não é onisciente (só relata o que vê); D erra porque a descrição vai de fora (rua, fachada) para dentro (sala, quartos); E erra porque quem narra é o mesmo que observa.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-smfrj-2023-apo-2",
+  "disciplina": "portugues",
+  "assunto": "pt-morfologia",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "SMF-RJ",
+   "ano": 2023,
+   "cargo": "Analista de Planejamento e Orçamento (APO)",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-de-planejamento-e-orcamento-apoapo1-tipo-1.pdf"
+  },
+  "enunciado": "Observe o fragmento textual a seguir.\n“A rua era [pobre] e a casa parecia [antiga], com suas janelas [azuis] e as vidraças do lado externo, como nas [velhas] casas de Minas. Aproximei-me devagar e pulei o muro. Peguei a chave no [solitário] vaso de plantas e entrei. A entrada era [ampla], assim como a sala a seguir, com muitos móveis. Os objetos de decoração eram todos de aparência [clássica], certamente muito [caros]. Os quartos estavam [arrumados] e os banheiros eram de [finíssimo] gosto.”\nNesse fragmento estão sublinhados vários adjetivos que, segundo as gramáticas, podem expressar estados, características, qualidades e relações.\nOs dois adjetivos abaixo que expressam qualidades são: [sublinhado = [ ]]",
+  "alternativas": [
+   "pobre / azuis;",
+   "ampla / clássica;",
+   "caros / finíssimo;",
+   "antiga / arrumados;",
+   "velhas / solitário."
+  ],
+  "gabarito": 2,
+  "comentario": "A banca considerou \"caros\" e \"finíssimo\" como adjetivos de qualidade, pois exprimem uma avaliação do observador sobre o valor e o requinte dos objetos (C). Nas demais duplas há adjetivos de outra natureza: \"azuis\" é característica física (cor), \"pobre\", \"velhas\" e \"antiga\" indicam característica/condição, \"arrumados\" e \"solitário\" expressam estado, e \"ampla\"/\"clássica\" apontam características (tamanho, estilo) e não propriamente juízo de qualidade.",
+  "dificuldade": 3,
+  "anulada": false
+ },
+ {
+  "id": "fgv-smfrj-2023-apo-3",
+  "disciplina": "portugues",
+  "assunto": "pt-morfologia",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "SMF-RJ",
+   "ano": 2023,
+   "cargo": "Analista de Planejamento e Orçamento (APO)",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-de-planejamento-e-orcamento-apoapo1-tipo-1.pdf"
+  },
+  "enunciado": "Em todas as frases abaixo foi sublinhado um adjetivo; a frase em que esse adjetivo foi substituído por uma locução adequada, é: [sublinhado = [ ]]",
+  "alternativas": [
+   "O hábito é o grande guia da vida [humana] / da humanidade;",
+   "O casamento é o túmulo do amor, mas do amor louco, do amor [sensual] / de sensibilidade;",
+   "Um rico matrimônio é comparável ao batismo pela prontidão com que apaga toda mácula [anterior] / de antigamente;",
+   "A propriedade enobrece a posse, assim como o matrimônio enobrece o prazer [físico] / do corpo;",
+   "Onze anos de vida [conjugal] exaurem a conversa / de amantes."
+  ],
+  "gabarito": 3,
+  "comentario": "\"Prazer físico\" equivale a \"prazer do corpo\": a locução adjetiva mantém o sentido do adjetivo (D). Em A, \"vida humana\" é a vida do homem, não \"da humanidade\" (coletivo); em B, \"sensual\" refere-se aos sentidos/desejo carnal, não a \"sensibilidade\"; em C, \"anterior\" significa \"que veio antes\", não \"de antigamente\"; em E, \"conjugal\" é \"de cônjuges/do casamento\", não \"de amantes\".",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-smfrj-2023-apo-4",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "SMF-RJ",
+   "ano": 2023,
+   "cargo": "Analista de Planejamento e Orçamento (APO)",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-de-planejamento-e-orcamento-apoapo1-tipo-1.pdf"
+  },
+  "enunciado": "A frase abaixo em que o segundo segmento mostra algo considerado inferior ao primeiro, é:",
+  "alternativas": [
+   "O gênio aponta o caminho, o talento o toma;",
+   "Um entendido sabe tudo. O sábio sabe apenas o essencial;",
+   "Ou nós encontramos um caminho, ou abrimos um;",
+   "Ou você faz poeira ou come poeira;",
+   "Criatividade é ótimo, mas o plágio é mais rápido."
+  ],
+  "gabarito": 3,
+  "comentario": "Em D, \"fazer poeira\" é ir à frente, vencer; \"comer poeira\" é ficar para trás, ser derrotado — o segundo segmento é claramente inferior ao primeiro. Em A, apresentam-se papéis complementares; em B, o sábio (segundo) é valorizado acima do mero entendido; em C, \"abrir um caminho\" é uma alternativa até mais ativa; em E, o plágio é apresentado ironicamente como \"mais rápido\", ou seja, com uma vantagem, e não como inferior no plano da frase.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-smfrj-2023-apo-5",
+  "disciplina": "portugues",
+  "assunto": "pt-linguagem",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "SMF-RJ",
+   "ano": 2023,
+   "cargo": "Analista de Planejamento e Orçamento (APO)",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-de-planejamento-e-orcamento-apoapo1-tipo-1.pdf"
+  },
+  "enunciado": "A frase abaixo cuja função de linguagem é metalinguística, é:",
+  "alternativas": [
+   "Esperteza é quando você acredita só em metade do que você ouve. Genialidade é quando você sabe em qual metade acreditar;",
+   "Um homem sábio criará mais oportunidades do que ele acha;",
+   "Nunca confunda movimento com ação;",
+   "Deus ajuda a quem se ajuda;",
+   "Originalidade não consiste em dizer o que ninguém disse antes, mas em dizer exatamente o que você pensa por si próprio."
+  ],
+  "gabarito": 0,
+  "comentario": "A função metalinguística ocorre quando a linguagem é usada para explicar o próprio código, como na definição de palavras. Em A, a frase define os termos \"esperteza\" e \"genialidade\" (\"Esperteza é quando…\", \"Genialidade é quando…\"), tal como um verbete. B e D são máximas de caráter referencial/moral; C é apelo ao interlocutor (função conativa); E, embora trate do conceito de originalidade, foi lida pela banca como reflexão sobre a atitude, e não como definição das palavras em si.",
+  "dificuldade": 3,
+  "anulada": false
+ },
+ {
+  "id": "fgv-smfrj-2023-apo-6",
+  "disciplina": "portugues",
+  "assunto": "pt-sintaxe",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "SMF-RJ",
+   "ano": 2023,
+   "cargo": "Analista de Planejamento e Orçamento (APO)",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-de-planejamento-e-orcamento-apoapo1-tipo-1.pdf"
+  },
+  "enunciado": "“O pródigo pode ser lastimado, mas o avarento é quase sempre aborrecido.”\nSobre os componentes ou sobre a estruturação dessa frase, é correto afirmar que:",
+  "alternativas": [
+   "as formas verbais “pode ser lastimado” e “é aborrecido” mostram formas de voz passiva;",
+   "o vocábulo “pródigo” tem “prodígio” como substantivo cognato;",
+   "o termo “quase sempre” tem valor de “modo”;",
+   "as duas orações que compõem a frase mostram paralelismo sintático;",
+   "a primeira oração da frase indica uma possibilidade e não uma certeza."
+  ],
+  "gabarito": 4,
+  "comentario": "O auxiliar modal \"pode\" em \"pode ser lastimado\" indica possibilidade, não certeza (E). A erra porque \"é aborrecido\" é verbo de ligação + predicativo (\"aborrecido\" = enfadonho), não voz passiva; B erra porque o cognato de \"pródigo\" é \"prodigalidade\", e \"prodígio\" é outra palavra; C erra porque \"quase sempre\" exprime frequência/tempo, não modo; D erra porque as estruturas não são paralelas (locução verbal passiva × verbo de ligação com predicativo).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-smfrj-2023-apo-7",
+  "disciplina": "portugues",
+  "assunto": "pt-morfologia",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "SMF-RJ",
+   "ano": 2023,
+   "cargo": "Analista de Planejamento e Orçamento (APO)",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-de-planejamento-e-orcamento-apoapo1-tipo-1.pdf"
+  },
+  "enunciado": "A frase abaixo em que o pronome possessivo sublinhado de fato indica posse, é: [sublinhado = [ ]]",
+  "alternativas": [
+   "Quando a infância morre, [seus] cadáveres são chamados de adultos;",
+   "Seja legal com as crianças. Elas escolherão [seu] asilo;",
+   "O maior recurso natural que um país pode ter são [suas] crianças;",
+   "Nós não herdamos a Terra de [nossos] ancestrais;",
+   "[Sua] obra de arte pode valer mais do que se imagina."
+  ],
+  "gabarito": 4,
+  "comentario": "Em E, \"sua obra de arte\" indica um bem que pertence a alguém: há posse propriamente dita. Nas demais, o possessivo indica outras relações: em A, a relação é de origem/transformação (os \"cadáveres\" da infância); em B, \"seu asilo\" é aquele em que você ficará (destinação), não algo que você possui; em C, crianças não são posse do país, mas pertencem a ele no sentido de relação; em D, \"nossos ancestrais\" indica parentesco.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-smfrj-2023-apo-8",
+  "disciplina": "portugues",
+  "assunto": "pt-reescrita",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "SMF-RJ",
+   "ano": 2023,
+   "cargo": "Analista de Planejamento e Orçamento (APO)",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-de-planejamento-e-orcamento-apoapo1-tipo-1.pdf"
+  },
+  "enunciado": "A frase abaixo em que a transformação da oração sublinhada em um termo nominalizado foi feita de forma adequada, é: [sublinhado = [ ]]",
+  "alternativas": [
+   "[Quando a infância morre], seus cadáveres são chamados de adultos. / Após a morte da infância...",
+   "[Quando nós planejamos para a posteridade], devemos lembrar que a virtude não é hereditária. / Numa planificação posterior...",
+   "Quando um homem percebe [que seu pai talvez estivesse certo], ele usualmente tem um filho que pensa que ele está errado. / a provável certeza de seu pai...",
+   "[Quando dou uma mensagem], não escrevo um livro, vou ao correio. / Na doação de uma mensagem...",
+   "[Quando prevejo uma nova viagem], já começo a arrumar as malas. / Na provisão de uma nova viagem..."
+  ],
+  "gabarito": 0,
+  "comentario": "Em A, \"Quando a infância morre\" vira \"Após a morte da infância\": o verbo \"morrer\" é nominalizado em \"morte\", mantendo o sentido temporal. Em B, \"planejar para a posteridade\" não é \"planificação posterior\" (posterior ≠ para a posteridade); em C, \"talvez estivesse certo\" indica dúvida, e não \"provável certeza\"; em D, \"dar uma mensagem\" não é \"doação\"; em E, o substantivo de \"prever\" é \"previsão\", e não \"provisão\".",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-smfrj-2023-apo-9",
+  "disciplina": "portugues",
+  "assunto": "pt-semantica",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "SMF-RJ",
+   "ano": 2023,
+   "cargo": "Analista de Planejamento e Orçamento (APO)",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-de-planejamento-e-orcamento-apoapo1-tipo-1.pdf"
+  },
+  "enunciado": "Nas frases abaixo, os termos sublinhados exemplificam uma figura de linguagem denominada metonímia. A frase em que essa metonímia é caracterizada como o emprego de um termo abstrato por um concreto, é: [sublinhado = [ ]]",
+  "alternativas": [
+   "Ao ler-se [Camões], aprende-se muito sobre a história heroica de Portugal;",
+   "O [parati] é uma bebida tradicional das classes populares, mas, tomada em excesso, prejudica bastante a saúde;",
+   "Quando chega a [bondade] do Natal, as crianças ficam felizes;",
+   "Todos ficaram emocionados no auditório quando o comediante declarou que não possuía um [teto] onde morar;",
+   "A feijoada estava tão boa, que o cozinheiro comeu três [pratos]."
+  ],
+  "gabarito": 2,
+  "comentario": "Em C, \"a bondade do Natal\" (termo abstrato) designa algo concreto — os presentes e agrados recebidos —, metonímia do abstrato pelo concreto. Em A, temos o autor pela obra (Camões = os livros de Camões); em B, o lugar de origem pelo produto (Parati = a cachaça); em D, a parte pelo todo (teto = casa); em E, o continente pelo conteúdo (pratos = a comida neles contida).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-smfrj-2023-apo-10",
+  "disciplina": "portugues",
+  "assunto": "pt-semantica",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "SMF-RJ",
+   "ano": 2023,
+   "cargo": "Analista de Planejamento e Orçamento (APO)",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-de-planejamento-e-orcamento-apoapo1-tipo-1.pdf"
+  },
+  "enunciado": "Observe a seguinte frase:\n“Quando se parte o [pão], algumas [migalhas] se espalham”.\nNessa frase, o segundo termo designa especificamente os restos do primeiro; a frase em que essa correspondência semântica ocorre de forma adequada, é: [sublinhado = [ ]]",
+  "alternativas": [
+   "Quando um [prédio] é demolido, seus [cacos] são deixados na calçada;",
+   "Quando um [copo] é quebrado, seus [destroços] ficam espalhados pelo chão;",
+   "Quando cai um [avião], suas [peças] ocupam larga extensão no solo;",
+   "Quando um vestido é [rasgado], seus [trapos] não têm muita utilidade;",
+   "Quando um [corpo] é cremado, os [detritos] são guardados."
+  ],
+  "gabarito": 3,
+  "comentario": "\"Trapos\" são justamente os pedaços/restos de pano de uma roupa rasgada, correspondência específica como \"migalhas\" para o pão (D). Os pares adequados seriam: prédio → escombros (cacos são de vidro/louça), copo → cacos (destroços são de construções/veículos), avião → destroços (peças não são restos, são componentes), corpo cremado → cinzas (detritos é termo genérico).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-smfrj-2023-apo-11",
+  "disciplina": "portugues",
+  "assunto": "pt-semantica",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "SMF-RJ",
+   "ano": 2023,
+   "cargo": "Analista de Planejamento e Orçamento (APO)",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-de-planejamento-e-orcamento-apoapo1-tipo-1.pdf"
+  },
+  "enunciado": "Nas frases abaixo há dois substantivos sublinhados; aquela frase em que o segundo desses substantivos é adequado ao coletivo anteriormente sublinhado, é: [sublinhado = [ ]]",
+  "alternativas": [
+   "Quando um [batalhão] se separa, os [foliões] ficam afastados uns dos outros;",
+   "Quando um [cardume] cai na rede, os [peixes] se debatem durante algum tempo;",
+   "Quando um [enxame] se assusta, as [hienas] podem tornar-se agressivas;",
+   "Quando uma [biblioteca] se incendeia, as [estantes] perdidas são irrecuperáveis;",
+   "Quando chega uma [junta], seus [engenheiros] são bem recebidos."
+  ],
+  "gabarito": 1,
+  "comentario": "\"Cardume\" é o coletivo de peixes, portanto B está correta. \"Batalhão\" é coletivo de soldados (foliões formam um bloco/cordão); \"enxame\" é de abelhas/insetos, não de hienas; \"biblioteca\" é coletivo de livros, não de estantes; \"junta\" é coletivo de bois (ou de médicos/examinadores), não de engenheiros.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-smfrj-2023-apo-12",
+  "disciplina": "portugues",
+  "assunto": "pt-reescrita",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "SMF-RJ",
+   "ano": 2023,
+   "cargo": "Analista de Planejamento e Orçamento (APO)",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-de-planejamento-e-orcamento-apoapo1-tipo-1.pdf"
+  },
+  "enunciado": "Todas as frases abaixo foram construídas com formas verbais na voz passiva com auxiliar e todas foram modificadas para a voz ativa.\nAquela frase em que essa modificação foi feita de forma adequada, é:",
+  "alternativas": [
+   "Uma criança não é um vaso para ser preenchido pelos adultos / Uma criança não é um vaso que os adultos preenchem;",
+   "Há muitas maneiras de se conseguir que algo seja feito / Há muitas maneiras de se conseguir que se fizesse algo;",
+   "Quando a infância morre, seus cadáveres são chamados de adultos / Quando a infância morre, chama-se de adultos os seus cadáveres;",
+   "Devemos lembrar sempre que as nossas virtudes não são herdadas por nossos filhos / Devemos lembrar sempre que nossos filhos não herdarão nossas virtudes;",
+   "Vida é um espaço de tempo cuja primeira metade é arruinada por nossos pais / Vida é um espaço de tempo cuja primeira metade os nossos pais arruinaram."
+  ],
+  "gabarito": 2,
+  "comentario": "A banca indicou C: como a passiva \"são chamados\" não traz agente expresso, a versão ativa usa construção sem agente determinado (\"chama-se de adultos os seus cadáveres\"), mantendo o tempo presente. Nas demais houve alteração indevida: em A, perde-se a ideia de finalidade de \"para ser preenchido\"; em B, o presente \"seja feito\" virou o imperfeito \"se fizesse\"; em D, o presente \"são herdadas\" virou o futuro \"herdarão\"; em E, o presente \"é arruinada\" virou o pretérito \"arruinaram\" (o correto seria \"arruínam\").",
+  "dificuldade": 3,
+  "anulada": false
+ },
+ {
+  "id": "fgv-smfrj-2023-apo-13",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "SMF-RJ",
+   "ano": 2023,
+   "cargo": "Analista de Planejamento e Orçamento (APO)",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-de-planejamento-e-orcamento-apoapo1-tipo-1.pdf"
+  },
+  "enunciado": "A frase abaixo que mostra, implícita ou explicitamente, uma visão positiva da infância, é:",
+  "alternativas": [
+   "Infância é vida sob uma ditadura;",
+   "Durante a infância, pensei que meu nome era “cale-se”;",
+   "A infância feliz é fruto da imaginação;",
+   "As primeiras dores nos distanciam da infância;",
+   "A infância é bela porque os bebês não abrem os olhos."
+  ],
+  "gabarito": 3,
+  "comentario": "Em D, fica implícito que a infância é um tempo sem dores, do qual nos afastamos quando elas surgem — visão positiva. A (ditadura) e B (ser mandado calar) mostram opressão; C sugere que a infância feliz é ilusão; E condiciona a beleza da infância a não se ver a realidade, uma visão irônica/negativa.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-smfrj-2023-apo-14",
+  "disciplina": "portugues",
+  "assunto": "pt-semantica",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "SMF-RJ",
+   "ano": 2023,
+   "cargo": "Analista de Planejamento e Orçamento (APO)",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-de-planejamento-e-orcamento-apoapo1-tipo-1.pdf"
+  },
+  "enunciado": "A frase em que o vocábulo sublinhado exemplifica a linguagem lógica e não uma metáfora, é: [sublinhado = [ ]]",
+  "alternativas": [
+   "Infância é vida sob uma [ditadura];",
+   "Uma criança não é um [vaso] a ser preenchido, mas um fogo para ser aceso;",
+   "Crianças são as [mensagens] vivas que nós enviamos a um tempo que não veremos;",
+   "Nunca é tarde para ter uma [infância] feliz;",
+   "Criança é um [anjo] cujas asas diminuem à medida que crescem as pernas."
+  ],
+  "gabarito": 3,
+  "comentario": "Em D, \"infância\" está em sentido próprio (denotativo), designando o período inicial da vida — linguagem lógica. Nas demais, os termos sublinhados são metafóricos: \"ditadura\" (as regras impostas à criança), \"vaso\" (recipiente a ser preenchido de conhecimento), \"mensagens\" (as crianças enviadas ao futuro) e \"anjo\" (inocência infantil).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-smfrj-2023-apo-15",
+  "disciplina": "portugues",
+  "assunto": "pt-morfologia",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "SMF-RJ",
+   "ano": 2023,
+   "cargo": "Analista de Planejamento e Orçamento (APO)",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-de-planejamento-e-orcamento-apoapo1-tipo-1.pdf"
+  },
+  "enunciado": "A frase em que a expressão de tempo sublinhada tem seu valor corretamente identificado, é: [sublinhado = [ ]]",
+  "alternativas": [
+   "tempo imediatamente anterior: A felicidade é [logo] ou nunca;",
+   "tempo distante: [Até] 13 anos eu pensava que meu nome era “cale-se”;",
+   "tempo correlato: [Enquanto] se sonha, não se vive;",
+   "tempo posterior imediato: Sinto-me muito melhor [agora] que eu desisti de esperar;",
+   "simultaneidade de tempo: A felicidade é uma bola atrás da qual corremos [enquanto] rola e a chutamos logo que para."
+  ],
+  "gabarito": 4,
+  "comentario": "Em E, \"enquanto\" indica que as ações ocorrem ao mesmo tempo (corremos durante o tempo em que a bola rola): simultaneidade. Em A, \"logo\" indica tempo imediatamente posterior, não anterior; em B, \"até\" marca limite temporal, não tempo distante; em C, \"enquanto\" também marca simultaneidade, e não \"tempo correlato\"; em D, \"agora\" indica o momento presente, não tempo posterior.",
+  "dificuldade": 2,
+  "anulada": false
+ }
+]

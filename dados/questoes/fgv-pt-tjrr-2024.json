@@ -1,0 +1,404 @@
+[
+ {
+  "id": "fgv-tjrr-2024-psi-1",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-RR",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns109t01-analista-judiciario-psicologia.pdf"
+  },
+  "enunciado": "Assinale a frase a seguir em que a comparação realizada não aparece explicada, como nas demais frases.",
+  "alternativas": [
+   "A vida é como um balão: quando nos deparamos com ventos fortes, a solução não é lutar contra eles, mas procurar novas altitudes, novos ventos que levem na direção certa.",
+   "A vida é como um jogo de cartas. A mão que as distribui representa determinismo. A forma como você joga é o livre arbítrio.",
+   "A vida é como um cobertor curto. Se você puxa para cima, seus dedos ficam descobertos, se você cobre os pés, descobre seus ombros.",
+   "A vida é como uma grande tela: jogue toda a tinta que puder e aproveite cada espaço para fazer bons quadros, dando bons exemplos.",
+   "O jogo da vida é como o jogo de bumerangue. Nossos pensamentos, realizações e palavras voltam para nós mais cedo ou mais tarde, com uma precisão impressionante."
+  ],
+  "gabarito": 2,
+  "comentario": "Em (C), a frase descreve apenas o funcionamento do cobertor curto (puxa para cima, descobre os pés), sem explicitar como isso se aplica à vida; a comparação fica implícita. Nas demais, a explicação liga diretamente a imagem à vida: em (A), mudar de altitude diante dos ventos; em (B), a mão que distribui = determinismo e o jogo = livre-arbítrio; em (D), aproveitar o espaço 'dando bons exemplos'; em (E), pensamentos e palavras que voltam para nós.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjrr-2024-psi-2",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-RR",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns109t01-analista-judiciario-psicologia.pdf"
+  },
+  "enunciado": "Assinale a frase em que o termo sublinhado se refere a um termo seguinte e não a um termo anterior.",
+  "alternativas": [
+   "Não pratico esportes. Quando dá vontade, deito até [ela] passar por completo.",
+   "Sono saudável tem aquele de estômago moderado, [que] se levanta cedo e com boa disposição.",
+   "É a mente [que] enriquece o corpo.",
+   "Fecho meus olhos para ver [o] que os homens imaginam.",
+   "O estômago é a terra [onde] germina o pensamento."
+  ],
+  "gabarito": 3,
+  "comentario": "(Termos sublinhados no original aparecem entre colchetes.) Em (D), o pronome demonstrativo “o” (= aquilo) antecipa e é explicado pela oração seguinte “que os homens imaginam”: refere-se a um termo posterior (catáfora). Nas demais, os termos retomam algo já dito (anáfora): “ela” retoma “vontade”, o primeiro “que” retoma “aquele”, o segundo “que” retoma “a mente” e “onde” retoma “a terra”.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjrr-2024-psi-3",
+  "disciplina": "portugues",
+  "assunto": "pt-sintaxe",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-RR",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns109t01-analista-judiciario-psicologia.pdf"
+  },
+  "enunciado": "Observe a seguinte frase: Se disser algo errado, poderá dizê-lo de novo. Se escrever algo errado, poderá reescrevê-lo. Se fizer algo errado, o erro ficará com você para sempre. Sobre a estruturação ou a significação dessa frase, é correto afirmar que",
+  "alternativas": [
+   "os pronomes “lo” usados na frase não possuem antecedente expresso.",
+   "as ações de “dizer”, “escrever” e “fazer” mostram uma progressão ascendente de gravidade nos três termos.",
+   "os períodos que formam a frase mostram certo paralelismo sintático.",
+   "os segmentos “Se disser”, “Se escrever” e “Se fizer” mostram três formas de infinitivo dos verbos.",
+   "o termo “o erro” não tem antecedente expresso na frase."
+  ],
+  "gabarito": 2,
+  "comentario": "Os três períodos seguem a mesma estrutura (oração condicional com 'Se' + verbo no futuro do subjuntivo + oração principal), o que configura paralelismo sintático. Os pronomes “lo” têm antecedente expresso (“algo errado”), por isso (A) erra; “Se disser/escrever/fazer” estão no futuro do subjuntivo, não no infinitivo (D); “o erro” retoma “algo errado” (E); e não há gradação ascendente entre dizer e escrever, apenas o contraste final com fazer (B).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjrr-2024-psi-4",
+  "disciplina": "portugues",
+  "assunto": "pt-linguagem",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-RR",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns109t01-analista-judiciario-psicologia.pdf"
+  },
+  "enunciado": "Um espectador de um programa televisivo comentou: Gosto dos comentários desse repórter, pois ele sabe que o tempo deve ser curto e seleciona o que é mais importante. Nesse caso, o conceito de boa expressão de linguagem é a de que se expressa de forma",
+  "alternativas": [
+   "gramaticalmente correta.",
+   "culta e elaborada.",
+   "popular.",
+   "adequada à situação.",
+   "literária."
+  ],
+  "gabarito": 3,
+  "comentario": "O espectador elogia o repórter por ser breve e selecionar o mais importante, isto é, por adequar sua fala ao tempo e à situação comunicativa. Não se elogia correção gramatical, linguagem culta, popular ou literária: o critério é a adequação ao contexto.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjrr-2024-psi-5",
+  "disciplina": "portugues",
+  "assunto": "pt-linguagem",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-RR",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns109t01-analista-judiciario-psicologia.pdf"
+  },
+  "enunciado": "Uma marca que mostra um traço da língua falada e não da língua escrita, é",
+  "alternativas": [
+   "a predominância de frases complexas.",
+   "o uso frequente da voz passiva.",
+   "o uso de interrupções para melhoria da expressão.",
+   "o apelo a variadas estratégias de produção textual.",
+   "a continuidade na expressão textual."
+  ],
+  "gabarito": 2,
+  "comentario": "Interrupções, hesitações e reformulações para melhorar a expressão são marcas típicas da fala, produzida em tempo real. Frases complexas, voz passiva frequente, estratégias variadas de produção e continuidade planejada são traços mais próprios da escrita, que permite planejamento e revisão.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjrr-2024-psi-6",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-RR",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns109t01-analista-judiciario-psicologia.pdf"
+  },
+  "enunciado": "A contracapa do Minidicionário da Língua Portuguesa, de autoria de Evanildo Bechara, traz o seguinte: Elaborado pelo prof. Evanildo Bechara, o único representante da ABL no novo Acordo Ortográfico. Muito fácil de consultar. Todas as palavras alteradas pela Reforma Ortográfica vêm assinaladas. Mais de 30 mil palavras e locuções. Regionalismos, estrangeirismos e siglas. Assinale a opção que não mostra uma vantagem que está explícita ou implicitamente aí indicada.",
+  "alternativas": [
+   "Grande número de vocábulos incluídos na obra.",
+   "Classificação gramatical dos vocábulos.",
+   "Facilidade de acesso à obra.",
+   "Informações de qualidade diferenciada.",
+   "Informações atuais sobre palavras."
+  ],
+  "gabarito": 1,
+  "comentario": "O texto não menciona classificação gramatical dos verbetes, por isso (B) não é vantagem indicada. As demais estão explícitas ou implícitas: 'Mais de 30 mil palavras' (grande número de vocábulos), 'Muito fácil de consultar' (facilidade de acesso), autoria de representante da ABL (qualidade diferenciada) e palavras alteradas pela Reforma assinaladas (informações atuais).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjrr-2024-psi-7",
+  "disciplina": "portugues",
+  "assunto": "pt-linguagem",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-RR",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns109t01-analista-judiciario-psicologia.pdf"
+  },
+  "enunciado": "Um anúncio de produtos eletrônicos dizia: Tem coisas que nem o Papai Noel faz pra você: uma lista de presentes para este Natal – Philco cinema, DVD portátil Adventure e Micro System PH671. Assinale a observação correta sobre esse pequeno texto.",
+  "alternativas": [
+   "A referência a Papai Noel se deve ao fato de ele ser o autor de muitas listas de presentes.",
+   "O anúncio mostra interferência da língua falada com o intuito de aproximação social com os leitores.",
+   "O pronome de tratamento “você” se refere no texto a um receptor específico.",
+   "Os produtos referidos no texto servem para mostrar a alta qualidade do que é anunciado.",
+   "O anúncio procura lembrar aos leitores a necessidade de dar bons presentes no Natal."
+  ],
+  "gabarito": 1,
+  "comentario": "Construções como “Tem coisas” (no lugar de 'Há coisas') e “pra você” são marcas da língua falada, usadas para aproximar o anúncio do leitor. Papai Noel não é citado como autor de listas (A); “você” é genérico, não um receptor específico (C); os produtos não servem para provar qualidade (D) e o anúncio quer vender, não lembrar uma obrigação (E).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjrr-2024-psi-8",
+  "disciplina": "portugues",
+  "assunto": "pt-linguagem",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-RR",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns109t01-analista-judiciario-psicologia.pdf"
+  },
+  "enunciado": "Num dos quadrinhos da Turma da Mônica, em história que ocorre na zona rural do país, há um diálogo entre um menino e sua mãe: Menino – Mãe, tenho uma coisa boa e uma coisa ruim pra contá pra sinhora! Mãe – Qual é a boa? Menino – No ano qui vem vou usá os mermo livros deste ano! Assinale a afirmação correta sobre esse pequeno diálogo.",
+  "alternativas": [
+   "No diálogo não ocorre perfeito entendimento entre os personagens dos quadrinhos.",
+   "Os dois personagens dos quadrinhos empregam a mesma variação linguística.",
+   "A variação linguística mostrada pelo menino intensifica o efeito humorístico da história narrada.",
+   "A variação linguística do menino mostra exclusivamente trocas de pronúncia nas vogais.",
+   "A notícia boa era a permanência do menino na mesma escola."
+  ],
+  "gabarito": 2,
+  "comentario": "O humor está na 'notícia boa' ser, na verdade, a reprovação do menino (vai usar os mesmos livros), e a variação rural (“contá”, “qui”, “mermo”, “usá”) reforça o efeito cômico da cena. A mãe usa outra variedade (B erra), há entendimento entre os dois (A), as trocas não se limitam às vogais — “mermo” troca consoante e há queda do -r final (D) — e a notícia não é permanência na escola (E).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjrr-2024-psi-9",
+  "disciplina": "portugues",
+  "assunto": "pt-tipologia",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-RR",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns109t01-analista-judiciario-psicologia.pdf"
+  },
+  "texto": "Em maio de 1985, cientistas alertaram para a existência de um buraco na camada de ozônio em cima da Antártida numa revista científica. Essa camada protege animais, plantas e homens das radiações solares.\nA descoberta foi divulgada pelos pesquisadores Joe Farman, Brian Gardiner e Jonathan Shanklin. O buraco está relacionado ao acúmulo de gases CFCs (usados em sistemas de refrigeração e de ar-condicionado e em solventes industriais).\nPara reverter a situação, foi firmado em 1987 o Protocolo de Montreal, em que os países se comprometeram a substituir os CFCs. A expectativa dos cientistas e que em 2080 a camada de ozônio da Antártida volte aos níveis de 1950.",
+  "enunciado": "Observe o seguinte texto: Assinale a observação correta sobre esse pequeno texto.",
+  "alternativas": [
+   "Uma data importante é lembrada nesse texto e o autor emprega uma linguagem de caráter subjetivo para isso.",
+   "O texto, por sua estrutura e conteúdo deve ser incluído entre os de caráter didático.",
+   "O texto termina com um apelo à intimidação dos cientistas envolvidos no fato noticiado.",
+   "A variação linguística empregada no texto é a popular, para mais fácil comunicação com os leitores.",
+   "Para comprovar a veracidade dos fatos informados, o autor apelou para depoimentos de autoridades."
+  ],
+  "gabarito": 4,
+  "comentario": "Para dar credibilidade às informações, o texto cita os pesquisadores responsáveis pela descoberta (Joe Farman, Brian Gardiner e Jonathan Shanklin) e a 'expectativa dos cientistas', isto é, apoia-se em autoridades no assunto — por isso a banca considera (E) correta. A linguagem é objetiva (A erra), o texto é informativo-jornalístico, não didático (B), não há apelo de intimidação (C) e o registro é o padrão, não popular (D).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjrr-2024-psi-10",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-RR",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns109t01-analista-judiciario-psicologia.pdf"
+  },
+  "texto": "Aterrar nas lojas antes de levantar voo. A nova zona comercial do aeroporto de Lisboa está maior e mais bonita. Ana Garcia Martins não foi de viagem, mas foi visitá-la. Ir de viagem e não comprar perfumes e chocolates ne aeroporto é mais ou menos a mesma coisa que ir a Roma e não ver o Papa.",
+  "enunciado": "Um jornal português trazia o seguinte texto: Assinale a afirmação inadequada sobre esse texto.",
+  "alternativas": [
+   "A utilização do verbo “aterrar” em lugar de “aterrissar” indica uma preferência vocabular dos portugueses.",
+   "O texto deve ser enquadrado como publicitário, tendo por objeto o comércio nas lojas do aeroporto de Lisboa.",
+   "A pessoa citada, no texto, mostra uma atitude que deveria ser copiada por outras pessoas.",
+   "O pronome “la” se refere à zona comercial do aeroporto.",
+   "A comparação final do texto é feita para mostrar o absurdo que é ir a Roma e não ver o Papa."
+  ],
+  "gabarito": 4,
+  "comentario": "A comparação final usa como referência algo tido como absurdo (ir a Roma e não ver o Papa) para mostrar que é igualmente absurdo viajar sem comprar perfumes e chocolates no aeroporto; o alvo da comparação é a compra no aeroporto, por isso (E) é a afirmação inadequada. As demais são adequadas: “aterrar” é a forma usual em Portugal, o texto promove a zona comercial, a visita de Ana Garcia Martins é apresentada como exemplo e “la” retoma a zona comercial.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjrr-2024-psi-11",
+  "disciplina": "portugues",
+  "assunto": "pt-linguagem",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-RR",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns109t01-analista-judiciario-psicologia.pdf"
+  },
+  "enunciado": "Assinale a frase em que predomina a função metalinguística de linguagem.",
+  "alternativas": [
+   "O ouro não é tudo. Também existem diamantes.",
+   "Estou vivendo a experiência de ficar sem dinheiro.",
+   "O que aprendemos com o passado é que raramente aprendemos com o passado.",
+   "A diferença entre pê e pé não é só no acento gráfico.",
+   "A verdadeira constituição das coisas gosta de ocultar-se."
+  ],
+  "gabarito": 3,
+  "comentario": "A função metalinguística ocorre quando a linguagem fala da própria linguagem: em (D), a frase trata da diferença entre as palavras “pê” e “pé” e do acento gráfico, ou seja, do próprio código. As demais falam do mundo (riqueza, experiências, o passado, a natureza das coisas) e não do código.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjrr-2024-psi-12",
+  "disciplina": "portugues",
+  "assunto": "pt-linguagem",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-RR",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns109t01-analista-judiciario-psicologia.pdf"
+  },
+  "enunciado": "Observe este anúncio publicitário: Novo Nokia N85. Fotografe. Filme. Crie. Jogue. Encontre. Conectado. Sempre. Assinale a afirmação correta sobre esse texto.",
+  "alternativas": [
+   "Os períodos do texto mostram paralelismo sintático.",
+   "O principal objetivo desse texto é convencer o leitor.",
+   "O texto concentra sua atenção no produto anunciado.",
+   "O emprego do imperativo neste caso indica ordem.",
+   "Predomina no texto a função emotiva."
+  ],
+  "gabarito": 1,
+  "comentario": "Por ser um anúncio publicitário com verbos no imperativo dirigidos ao leitor, seu objetivo principal é convencê-lo a adquirir o produto (função conativa/apelativa). O imperativo aqui funciona como convite/sugestão, não como ordem (D); a atenção recai sobre o receptor e suas ações, não só no produto (C); não predomina a função emotiva (E); e o texto mistura imperativos com “Conectado. Sempre.”, o que não configura propriamente paralelismo entre todos os períodos (A).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjrr-2024-psi-13",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-RR",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns109t01-analista-judiciario-psicologia.pdf"
+  },
+  "enunciado": "Assinale a frase em que o verbo sublinhado tem valor de elemento coesivo referencial.",
+  "alternativas": [
+   "O jogador mostrou dedicação, mas seu colega não [fez] o mesmo.",
+   "Todos construíram suas casas rapidamente, mas outros [atrasaram-se] na tarefa.",
+   "O turista escreveu uma carta aos parentes, enquanto seu colega [comprava] presentes para os seus.",
+   "Todos viajaram ao mesmo tempo, mas alguns [ficaram] presos por exigências burocráticas.",
+   "Eu componho músicas e ele [redige] as letras."
+  ],
+  "gabarito": 0,
+  "comentario": "(Verbos sublinhados no original aparecem entre colchetes.) Em (A), “fez (o mesmo)” funciona como verbo vicário: substitui e retoma “mostrou dedicação”, evitando a repetição — é um elemento coesivo referencial. Nas demais opções, os verbos sublinhados têm sentido próprio e pleno (atrasar-se, comprar, ficar, redigir), sem retomar ação anterior.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjrr-2024-psi-14",
+  "disciplina": "portugues",
+  "assunto": "pt-morfologia",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-RR",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns109t01-analista-judiciario-psicologia.pdf"
+  },
+  "enunciado": "Assinale a opção em que a relação lógica entre os segmentos da frase se encontra corretamente indicada.",
+  "alternativas": [
+   "Cave no local em que o ouro está enterrado, / a não ser que você só esteja precisando de exercício – relação de conformidade.",
+   "A fé remove montanhas, / mas os ecologistas são contra. – relação de explicação.",
+   "Quando a última árvore for cortada / os homens vão perceber que dinheiro não alimenta. / relação de tempo.",
+   "Há flores em todas as estações, / assim como loucuras em todas as idades. - relação de modo.",
+   "Os bichos não são tão burros / como se pensa. – relação de causa."
+  ],
+  "gabarito": 2,
+  "comentario": "Em (C), “Quando a última árvore for cortada” situa no tempo o momento em que os homens perceberão algo: relação de tempo, corretamente indicada. Em (A) “a não ser que” é condição (não conformidade); em (B) “mas” indica oposição (não explicação); em (D) “assim como” indica comparação (não modo); em (E) “tão... como” também é comparação (não causa).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjrr-2024-psi-15",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-RR",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns109t01-analista-judiciario-psicologia.pdf"
+  },
+  "enunciado": "Assinale a frase que não mostra traço de intertextualidade.",
+  "alternativas": [
+   "A queda desse fiscal é uma crônica anunciada, pois ele vendia licenças.",
+   "Dizem que devagar se vai ao longe, mas quando se chega atrasado, tudo já foi vendido.",
+   "A Bíblia tinha razão, pois encontraram a Arca de Noé soterrada em um deserto.",
+   "Se conversa mole fosse avião, o Brasil teria a maior força aérea do mundo.",
+   "O futuro a Deus pertence e, quando a gente é ministro, pertence também ao Presidente."
+  ],
+  "gabarito": 3,
+  "comentario": "Na leitura da banca, (D) é uma construção hiperbólica original, sem remissão a outro texto conhecido. As demais dialogam com textos prévios: (A) com o título 'Crônica de uma morte anunciada' (García Márquez); (B) com o provérbio 'devagar se vai ao longe'; (C) com o relato bíblico da Arca de Noé; (E) com o dito 'o futuro a Deus pertence'.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjrr-2024-psi-16",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-RR",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns109t01-analista-judiciario-psicologia.pdf"
+  },
+  "enunciado": "Cada frase abaixo mostra uma inferência (algo deduzido do que foi expresso). Assinale a frase em que a inferência é inadequada.",
+  "alternativas": [
+   "Se meu médico me disser que tenho somente um dia de vida, não vou ficar remoendo. Redigirei as obras mais rapidamente. Inferência: o emissor é escritor.",
+   "Pretendo viver para sempre. Até agora, tudo bem. Inferência: o emissor já morreu.",
+   "É praticamente impossível olhar para um pinguim e sentir raiva. Inferência: a imagem do pinguim é agradável.",
+   "Queria ter 25 ou 32 anos. Como não tenho, não digo a minha idade. Inferência: o emissor da frase é mais velho.",
+   "O limão é uma laranja de mau humor. Inferência: o gosto do limão é amargo."
+  ],
+  "gabarito": 1,
+  "comentario": "Em (B), quem diz 'Até agora, tudo bem' sobre o plano de viver para sempre está vivo; inferir que o emissor já morreu é inadequado — o humor está justamente em ele ainda estar vivo. As demais inferências são plausíveis: quem quer redigir obras é escritor (A), o pinguim desperta simpatia (C), quem esconde a idade desejando ter 25 ou 32 anos é mais velho (D) e o 'mau humor' do limão alude a seu sabor ácido/amargo (E).",
+  "dificuldade": 1,
+  "anulada": false
+ }
+]

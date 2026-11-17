@@ -1,0 +1,127 @@
+[
+ {
+  "id": "fgv-pgmrio-2025-ana-11",
+  "disciplina": "rlm",
+  "assunto": "rlm-medidas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "PGM-Rio",
+   "ano": 2025,
+   "cargo": "Analista de Procuradoria – Especialidade Administrativa",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-de-procuradoria-especialidade-administrativa-pgmcns203-tipo-1.pdf"
+  },
+  "enunciado": "Nair precisa trocar uma lâmpada localizada 12 centímetros abaixo do teto de sua cozinha. O teto está 2,4 metros acima do chão. Nair tem 1,5 metro de altura e consegue alcançar 42 centímetros acima da sua cabeça. Em pé em um banquinho, ela consegue alcançar a lâmpada para trocá-la.\nA altura mínima do banquinho, em centímetros, é:",
+  "alternativas": [
+   "34.",
+   "35.",
+   "36.",
+   "37.",
+   "38."
+  ],
+  "gabarito": 2,
+  "comentario": "Converta tudo para centímetros. A lâmpada está a 240 − 12 = 228 cm do chão. Sem banquinho, Nair alcança 150 + 42 = 192 cm. Logo, o banquinho precisa ter pelo menos 228 − 192 = 36 cm.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-pgmrio-2025-ana-12",
+  "disciplina": "rlm",
+  "assunto": "rlm-numeros",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "PGM-Rio",
+   "ano": 2025,
+   "cargo": "Analista de Procuradoria – Especialidade Administrativa",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-de-procuradoria-especialidade-administrativa-pgmcns203-tipo-1.pdf"
+  },
+  "enunciado": "Em uma urna há fichas de 5 cores diferentes: 30% são azuis, 20% são amarelas, 15% são brancas, 10% são verdes e 40 fichas são pretas.\n25% das fichas amarelas são substituídas por fichas brancas.\nAgora, a porcentagem de fichas brancas na urna é:",
+  "alternativas": [
+   "20%.",
+   "25%.",
+   "30%.",
+   "35%.",
+   "40%."
+  ],
+  "gabarito": 0,
+  "comentario": "As cores não pretas somam 30 + 20 + 15 + 10 = 75%, então as 40 pretas são 25% do total: total = 40 ÷ 0,25 = 160 fichas. Amarelas = 20% de 160 = 32; 25% delas = 8 viram brancas. Brancas: 15% de 160 = 24, mais 8 = 32. Como o total não muda, 32/160 = 20%. (Atalho: brancas passam a 15% + 25% × 20% = 15% + 5% = 20%.)",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-pgmrio-2025-ana-13",
+  "disciplina": "rlm",
+  "assunto": "rlm-conjuntos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "PGM-Rio",
+   "ano": 2025,
+   "cargo": "Analista de Procuradoria – Especialidade Administrativa",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-de-procuradoria-especialidade-administrativa-pgmcns203-tipo-1.pdf"
+  },
+  "enunciado": "Em uma sala, há mais do que 22 e menos do que 32 jovens, dos quais 5/6 estão usando tênis e 3/4 estão usando boné.\nO número mínimo de jovens, nessa sala, que estão usando tanto tênis como boné, é:",
+  "alternativas": [
+   "12.",
+   "13.",
+   "14.",
+   "15.",
+   "16."
+  ],
+  "gabarito": 2,
+  "comentario": "O total precisa ser múltiplo de 6 e de 4, isto é, de 12; entre 22 e 32 só há 24. Então usam tênis 5/6 × 24 = 20 e usam boné 3/4 × 24 = 18. Pelo princípio da inclusão-exclusão, a interseção mínima é 20 + 18 − 24 = 14.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-pgmrio-2025-ana-14",
+  "disciplina": "rlm",
+  "assunto": "rlm-sequencias",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "PGM-Rio",
+   "ano": 2025,
+   "cargo": "Analista de Procuradoria – Especialidade Administrativa",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-de-procuradoria-especialidade-administrativa-pgmcns203-tipo-1.pdf"
+  },
+  "enunciado": "Em uma sequência de números inteiros, cada termo, a partir do 4º, é a soma dos 3 termos imediatamente anteriores a ele. Sabe-se que o 2º termo é igual a 5, o 4º termo é igual a 13 e o 6º termo é igual a 43.\nA soma do 1º termo com o 5º termo é:",
+  "alternativas": [
+   "20.",
+   "22.",
+   "24.",
+   "26.",
+   "28."
+  ],
+  "gabarito": 3,
+  "comentario": "Sejam a1, 5, a3, 13, a5, 43. Pela regra: a5 = 5 + a3 + 13 = a3 + 18 e 43 = a3 + 13 + a5 = a3 + 13 + a3 + 18 = 2a3 + 31, logo a3 = 6 e a5 = 24. Também 13 = a1 + 5 + a3 = a1 + 11, logo a1 = 2. Soma: 2 + 24 = 26.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-pgmrio-2025-ana-15",
+  "disciplina": "rlm",
+  "assunto": "rlm-proposicoes",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "PGM-Rio",
+   "ano": 2025,
+   "cargo": "Analista de Procuradoria – Especialidade Administrativa",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-de-procuradoria-especialidade-administrativa-pgmcns203-tipo-1.pdf"
+  },
+  "enunciado": "Considere a sentença: “Paula não é administradora ou Raquel é economista ou Ricardo não é advogado”.\nAssinale a sequência logicamente equivalente à sequência dada.",
+  "alternativas": [
+   "Se Paula é administradora, então Raquel não é economista ou Ricardo é advogado.",
+   "Se Paula é administradora, então Raquel não é economista e Ricardo é advogado.",
+   "Se Paula é administradora, então Raquel é economista e Ricardo não é advogado.",
+   "Se Paula é administradora e Raquel não é economista, então Ricardo não é advogado.",
+   "Se Paula é administradora e Raquel não é economista, então Ricardo é advogado."
+  ],
+  "gabarito": 3,
+  "comentario": "Use a equivalência ~A ∨ B ≡ A → B. Agrupando, (~P ∨ R) ∨ ~D ≡ ~(P ∧ ~R) ∨ ~D ≡ (P ∧ ~R) → ~D, isto é: \"Se Paula é administradora e Raquel não é economista, então Ricardo não é advogado\" (D). E troca o consequente; A, B e C usam só P como antecedente, o que exigiria o consequente \"Raquel é economista OU Ricardo não é advogado\", que nenhuma delas traz.",
+  "dificuldade": 2,
+  "anulada": false
+ }
+]

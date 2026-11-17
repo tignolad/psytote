@@ -1,0 +1,254 @@
+[
+  {
+    "id": "aut-rlm-conjuntos-001",
+    "disciplina": "rlm",
+    "assunto": "rlm-conjuntos",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Em uma clínica-escola há 60 pacientes. Desses, 35 fazem psicoterapia, 28 fazem acompanhamento psiquiátrico e 10 não fazem nenhum dos dois. O número de pacientes que fazem psicoterapia e acompanhamento psiquiátrico é:",
+    "alternativas": [
+      "13",
+      "15",
+      "18",
+      "20",
+      "23"
+    ],
+    "gabarito": 0,
+    "comentario": "Fazem pelo menos um dos dois: 60 − 10 = 50. Pelo princípio da inclusão-exclusão, n(P ∪ A) = n(P) + n(A) − n(P ∩ A): 50 = 35 + 28 − x, logo x = 63 − 50 = 13.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-rlm-conjuntos-002",
+    "disciplina": "rlm",
+    "assunto": "rlm-conjuntos",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Em uma pesquisa com 100 estudantes de Psicologia sobre abordagens de interesse, 45 citaram a TCC, 40 a psicanálise e 35 a humanista; 15 citaram TCC e psicanálise, 10 TCC e humanista, 12 psicanálise e humanista, e 5 citaram as três. O número de estudantes que não citou nenhuma dessas abordagens é:",
+    "alternativas": [
+      "5",
+      "8",
+      "10",
+      "12",
+      "15"
+    ],
+    "gabarito": 3,
+    "comentario": "n(T ∪ P ∪ H) = 45 + 40 + 35 − 15 − 10 − 12 + 5 = 88. Logo, não citaram nenhuma: 100 − 88 = 12. Quem esquece de somar de volta a interseção tripla encontra 83 e responde 17, valor que não está entre as opções; quem não subtrai as interseções duplas obtém um total maior que 100.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-rlm-conjuntos-003",
+    "disciplina": "rlm",
+    "assunto": "rlm-conjuntos",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Em uma pesquisa com 100 estudantes de Psicologia, 45 citaram a TCC, 40 a psicanálise e 35 a humanista; 15 citaram TCC e psicanálise, 10 TCC e humanista, 12 psicanálise e humanista, e 5 citaram as três. O número de estudantes que citou exatamente uma dessas abordagens é:",
+    "alternativas": [
+      "49",
+      "56",
+      "61",
+      "66",
+      "73"
+    ],
+    "gabarito": 2,
+    "comentario": "Só TCC: 45 − 15 − 10 + 5 = 25. Só psicanálise: 40 − 15 − 12 + 5 = 18. Só humanista: 35 − 10 − 12 + 5 = 18. Total com exatamente uma: 25 + 18 + 18 = 61. (Conferência: exatamente duas = 10 + 5 + 7 = 22; três = 5; 61 + 22 + 5 = 88 citaram alguma.)",
+    "dificuldade": 3,
+    "anulada": false
+  },
+  {
+    "id": "aut-rlm-conjuntos-004",
+    "disciplina": "rlm",
+    "assunto": "rlm-conjuntos",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Sejam A = {1, 2, 3, 4, 5} e B = {4, 5, 6, 7}. O número de elementos do conjunto (A ∪ B) − (A ∩ B) é:",
+    "alternativas": [
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "gabarito": 0,
+    "comentario": "A ∪ B = {1, 2, 3, 4, 5, 6, 7} (7 elementos) e A ∩ B = {4, 5}. Retirando a interseção da união, sobra {1, 2, 3, 6, 7}, com 5 elementos (é a diferença simétrica de A e B).",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-rlm-conjuntos-005",
+    "disciplina": "rlm",
+    "assunto": "rlm-conjuntos",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Um psicólogo dispõe de 5 instrumentos de avaliação diferentes e pode aplicar a um paciente qualquer subconjunto deles, inclusive nenhum. O número de subconjuntos possíveis é:",
+    "alternativas": [
+      "16",
+      "25",
+      "32",
+      "64",
+      "120"
+    ],
+    "gabarito": 2,
+    "comentario": "Cada instrumento pode ser incluído ou não: 2 possibilidades para cada um. Total de subconjuntos: 2⁵ = 32 (incluindo o vazio e o conjunto completo). 120 = 5! seria o número de ordenações, que não interessa aqui.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-rlm-conjuntos-006",
+    "disciplina": "rlm",
+    "assunto": "rlm-conjuntos",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Sabe-se que todos os residentes do hospital são psicólogos e que alguns psicólogos são docentes. Com base apenas nessas informações, é necessariamente verdadeiro que:",
+    "alternativas": [
+      "Algum residente é docente.",
+      "Algum docente não é psicólogo.",
+      "Nenhum residente é docente.",
+      "Todo psicólogo docente é residente.",
+      "Todo residente que é docente é psicólogo."
+    ],
+    "gabarito": 4,
+    "comentario": "Como Residentes ⊂ Psicólogos, qualquer residente, seja ou não docente, é psicólogo, então a última afirmação é sempre verdadeira. Os docentes podem ou não ter interseção com os residentes, por isso “algum residente é docente” e “nenhum residente é docente” não são garantidas. Também não há informação sobre docentes fora do conjunto dos psicólogos nem sobre todos os psicólogos docentes serem residentes.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-rlm-conjuntos-007",
+    "disciplina": "rlm",
+    "assunto": "rlm-conjuntos",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Em uma equipe, 50 profissionais participaram de pelo menos um de dois treinamentos, A e B. Exatamente 8 participaram dos dois e 20 participaram do treinamento B. O número de profissionais que participaram do treinamento A é:",
+    "alternativas": [
+      "30",
+      "38",
+      "42",
+      "46",
+      "58"
+    ],
+    "gabarito": 1,
+    "comentario": "n(A ∪ B) = n(A) + n(B) − n(A ∩ B) → 50 = n(A) + 20 − 8 → n(A) = 38. Conferência: só A = 30, só B = 12, ambos = 8; 30 + 12 + 8 = 50.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-rlm-conjuntos-008",
+    "disciplina": "rlm",
+    "assunto": "rlm-conjuntos",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Em uma pesquisa, 70% dos entrevistados disseram ler notícias pela internet, 50% disseram assistir a telejornais e 30% disseram fazer as duas coisas. O percentual dos entrevistados que não faz nenhuma das duas coisas é:",
+    "alternativas": [
+      "0%",
+      "10%",
+      "20%",
+      "30%",
+      "40%"
+    ],
+    "gabarito": 1,
+    "comentario": "Fazem pelo menos uma: 70% + 50% − 30% = 90%. Logo, nenhuma das duas: 100% − 90% = 10%.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-rlm-conjuntos-009",
+    "disciplina": "rlm",
+    "assunto": "rlm-conjuntos",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Em um grupo de 40 pessoas, 30 gostam de café e 25 gostam de chá. O número mínimo de pessoas desse grupo que gostam de café e de chá é:",
+    "alternativas": [
+      "5",
+      "8",
+      "10",
+      "12",
+      "15"
+    ],
+    "gabarito": 4,
+    "comentario": "A interseção é mínima quando a união é máxima, e a união não pode passar de 40. Então n(Ca ∩ Ch) ≥ 30 + 25 − 40 = 15. Esse valor é atingido se todos gostam de ao menos uma bebida: 15 só café, 10 só chá e 15 ambos.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-rlm-conjuntos-010",
+    "disciplina": "rlm",
+    "assunto": "rlm-conjuntos",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Dos 50 servidores de um conselho, 32 fizeram o curso X e 26 fizeram o curso Y. O número máximo de servidores que pode não ter feito nenhum dos dois cursos é:",
+    "alternativas": [
+      "6",
+      "8",
+      "12",
+      "18",
+      "24"
+    ],
+    "gabarito": 3,
+    "comentario": "Para maximizar quem não fez nenhum curso, a união deve ser mínima, o que ocorre quando Y está contido em X (interseção = 26). Então n(X ∪ Y) = 32 e ficam sem curso 50 − 32 = 18. O valor 8 é a interseção mínima (32 + 26 − 50), situação em que ninguém fica sem curso; não deve ser confundido com a resposta.",
+    "dificuldade": 3,
+    "anulada": false
+  },
+  {
+    "id": "aut-rlm-conjuntos-011",
+    "disciplina": "rlm",
+    "assunto": "rlm-conjuntos",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Em uma turma, 18 alunos estudam inglês, 15 estudam espanhol, 7 estudam as duas línguas e 4 não estudam nenhuma delas. O número total de alunos da turma é:",
+    "alternativas": [
+      "26",
+      "30",
+      "33",
+      "37",
+      "44"
+    ],
+    "gabarito": 1,
+    "comentario": "Estudam ao menos uma língua: 18 + 15 − 7 = 26. Somando os 4 que não estudam nenhuma: 26 + 4 = 30. A soma sem descontar a interseção (18 + 15 + 4 = 37) conta duas vezes os 7 que estudam as duas.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-rlm-conjuntos-012",
+    "disciplina": "rlm",
+    "assunto": "rlm-conjuntos",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Sejam A o conjunto dos múltiplos de 2 e B o conjunto dos múltiplos de 3, ambos considerando apenas os números inteiros de 1 a 20. O número de elementos de A ∪ B é:",
+    "alternativas": [
+      "9",
+      "11",
+      "12",
+      "13",
+      "16"
+    ],
+    "gabarito": 3,
+    "comentario": "Múltiplos de 2 entre 1 e 20: 10. Múltiplos de 3: 6 (3, 6, 9, 12, 15, 18). Múltiplos de 6 (A ∩ B): 3 (6, 12, 18). Logo, n(A ∪ B) = 10 + 6 − 3 = 13.",
+    "dificuldade": 2,
+    "anulada": false
+  }
+]

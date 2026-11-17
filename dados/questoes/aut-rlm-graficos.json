@@ -1,0 +1,258 @@
+[
+  {
+    "id": "aut-rlm-graficos-001",
+    "disciplina": "rlm",
+    "assunto": "rlm-graficos",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "texto": "A tabela a seguir mostra o número de atendimentos realizados por um serviço de psicologia nos cinco primeiros meses de um ano.\n\nMês | Atendimentos\nJaneiro | 120\nFevereiro | 150\nMarço | 135\nAbril | 180\nMaio | 165",
+    "enunciado": "Com base na tabela, a média mensal de atendimentos no período foi de",
+    "alternativas": [
+      "150",
+      "155",
+      "160",
+      "165",
+      "180"
+    ],
+    "gabarito": 0,
+    "comentario": "Soma: 120 + 150 + 135 + 180 + 165 = 750. Média: 750 ÷ 5 = 150 atendimentos por mês.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-rlm-graficos-002",
+    "disciplina": "rlm",
+    "assunto": "rlm-graficos",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "texto": "A tabela a seguir mostra o número de atendimentos realizados por um serviço de psicologia nos cinco primeiros meses de um ano.\n\nMês | Atendimentos\nJaneiro | 120\nFevereiro | 150\nMarço | 135\nAbril | 180\nMaio | 165",
+    "enunciado": "Com base na tabela, o maior aumento percentual de um mês para o mês seguinte foi de, aproximadamente,",
+    "alternativas": [
+      "20%",
+      "25%",
+      "30%",
+      "33%",
+      "45%"
+    ],
+    "gabarito": 3,
+    "comentario": "Variações: jan→fev = 30/120 = 25%; fev→mar = queda de 10%; mar→abr = 45/135 ≈ 33,3%; abr→mai = queda de cerca de 8,3%. O maior aumento é de aproximadamente 33%. O aumento absoluto de 45 não deve ser confundido com 45%.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-rlm-graficos-003",
+    "disciplina": "rlm",
+    "assunto": "rlm-graficos",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Um levantamento com 840 pacientes de uma clínica apresentou a seguinte distribuição por faixa etária:\n\nFaixa etária | Percentual\n0 a 12 anos | 15%\n13 a 17 anos | 20%\n18 a 39 anos | 35%\n40 a 59 anos | 20%\n60 anos ou mais | 10%\n\nO número de pacientes com idade entre 18 e 59 anos é",
+    "alternativas": [
+      "420",
+      "462",
+      "504",
+      "546",
+      "588"
+    ],
+    "gabarito": 1,
+    "comentario": "A faixa de 18 a 59 anos soma 35% + 20% = 55%. Então 55% de 840 = 0,55 × 840 = 462 pacientes.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-rlm-graficos-004",
+    "disciplina": "rlm",
+    "assunto": "rlm-graficos",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "A tabela mostra o número de atendimentos, por turno, em cinco unidades de uma rede de saúde mental.\n\nUnidade | Manhã | Tarde | Noite\nA | 40 | 35 | 25\nB | 60 | 50 | 40\nC | 30 | 30 | 20\nD | 70 | 60 | 70\nE | 45 | 40 | 35\n\nA unidade em que o turno da noite representa a MAIOR proporção do total de atendimentos é a",
+    "alternativas": [
+      "Unidade A.",
+      "Unidade B.",
+      "Unidade C.",
+      "Unidade E.",
+      "Unidade D."
+    ],
+    "gabarito": 4,
+    "comentario": "Proporções da noite: A = 25/100 = 25%; B = 40/150 ≈ 26,7%; C = 20/80 = 25%; D = 70/200 = 35%; E = 35/120 ≈ 29,2%. A maior é a da Unidade D. Note que o maior número absoluto também é de D, mas a pergunta é sobre proporção.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-rlm-graficos-005",
+    "disciplina": "rlm",
+    "assunto": "rlm-graficos",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "texto": "Vinte participantes de um programa de treinamento receberam as seguintes notas (de 0 a 10):\n\nNota | Nº de participantes\n5 | 2\n6 | 3\n7 | 4\n8 | 6\n9 | 3\n10 | 2",
+    "enunciado": "Com base na tabela, a média aritmética das notas é",
+    "alternativas": [
+      "7,55",
+      "7,60",
+      "7,75",
+      "8,00",
+      "8,50"
+    ],
+    "gabarito": 0,
+    "comentario": "Soma ponderada: 5·2 + 6·3 + 7·4 + 8·6 + 9·3 + 10·2 = 10 + 18 + 28 + 48 + 27 + 20 = 151. Média = 151 ÷ 20 = 7,55. O valor 8 é a moda (e também a mediana), não a média.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-rlm-graficos-006",
+    "disciplina": "rlm",
+    "assunto": "rlm-graficos",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "texto": "Vinte participantes de um programa de treinamento receberam as seguintes notas (de 0 a 10):\n\nNota | Nº de participantes\n5 | 2\n6 | 3\n7 | 4\n8 | 6\n9 | 3\n10 | 2",
+    "enunciado": "Com base na tabela, o percentual de participantes com nota maior ou igual a 8 é",
+    "alternativas": [
+      "25%",
+      "30%",
+      "40%",
+      "45%",
+      "55%"
+    ],
+    "gabarito": 4,
+    "comentario": "Notas 8, 9 e 10: 6 + 3 + 2 = 11 participantes. 11 ÷ 20 = 0,55 = 55%. Quem conta só as notas acima de 8 obtém 5/20 = 25%.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-rlm-graficos-007",
+    "disciplina": "rlm",
+    "assunto": "rlm-graficos",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "O orçamento anual de um programa de saúde mental foi registrado na tabela:\n\nAno | Orçamento (R$ mil)\n2023 | 250\n2024 | 300\n2025 | 270\n\nA variação percentual do orçamento de 2023 para 2025 foi de",
+    "alternativas": [
+      "2%",
+      "8%",
+      "10%",
+      "18%",
+      "30%"
+    ],
+    "gabarito": 1,
+    "comentario": "De 2023 para 2025: (270 − 250) ÷ 250 = 20 ÷ 250 = 0,08 = 8%. Somar as variações anuais (+20% e −10%) daria 10%, o que é incorreto, pois as bases são diferentes: 1,20 × 0,90 = 1,08.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-rlm-graficos-008",
+    "disciplina": "rlm",
+    "assunto": "rlm-graficos",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "A taxa de ocupação (em %) dos leitos de um serviço, de janeiro a junho, foi:\n\nJan | Fev | Mar | Abr | Mai | Jun\n70 | 74 | 78 | 82 | 76 | 70\n\nO número de meses em que a taxa ficou ACIMA da média do semestre é",
+    "alternativas": [
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "gabarito": 1,
+    "comentario": "Soma: 70 + 74 + 78 + 82 + 76 + 70 = 450; média = 450 ÷ 6 = 75%. Ficaram acima de 75%: março (78), abril (82) e maio (76) — três meses. Fevereiro (74) está abaixo da média.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-rlm-graficos-009",
+    "disciplina": "rlm",
+    "assunto": "rlm-graficos",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Em uma pesquisa sobre adesão a um programa de acompanhamento psicológico, obteve-se:\n\n | Aderiu | Não aderiu\nHomens | 45 | 30\nMulheres | 90 | 35\n\nEscolhendo-se ao acaso uma pessoa entre as que ADERIRAM ao programa, a probabilidade de ela ser mulher é",
+    "alternativas": [
+      "9/20",
+      "1/2",
+      "3/5",
+      "2/3",
+      "18/25"
+    ],
+    "gabarito": 3,
+    "comentario": "Aderiram 45 + 90 = 135 pessoas, das quais 90 são mulheres: 90/135 = 2/3. O valor 18/25 (= 90/125) é a proporção de adesão entre as mulheres, e 9/20 (= 90/200) é a proporção de mulheres que aderiram em relação ao total — perguntas diferentes.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-rlm-graficos-010",
+    "disciplina": "rlm",
+    "assunto": "rlm-graficos",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "A tabela mostra as horas mensais de supervisão de uma equipe:\n\nHoras de supervisão | Nº de psicólogos\n10 | 4\n15 | 6\n\nA média de horas de supervisão por psicólogo da equipe é",
+    "alternativas": [
+      "12h",
+      "12h30",
+      "13h",
+      "13h30",
+      "14h"
+    ],
+    "gabarito": 2,
+    "comentario": "Média ponderada: (4·10 + 6·15) ÷ 10 = (40 + 90) ÷ 10 = 130 ÷ 10 = 13 horas. A média simples de 10 e 15 (12,5 h) ignora que há mais psicólogos com 15 h.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-rlm-graficos-011",
+    "disciplina": "rlm",
+    "assunto": "rlm-graficos",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Em uma tabela de triagens mensais, um dos valores ficou ilegível:\n\nMês | Triagens\nJaneiro | 130\nFevereiro | 160\nMarço | ?\nAbril | 155\nMaio | 145\n\nSabendo que a média mensal no período foi de 150 triagens, o número de triagens em março foi",
+    "alternativas": [
+      "140",
+      "145",
+      "150",
+      "155",
+      "160"
+    ],
+    "gabarito": 4,
+    "comentario": "Total = 5 × 150 = 750. Soma dos valores conhecidos: 130 + 160 + 155 + 145 = 590. Março: 750 − 590 = 160.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-rlm-graficos-012",
+    "disciplina": "rlm",
+    "assunto": "rlm-graficos",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Um gráfico de setores (pizza) representa os motivos de procura por um serviço de psicologia. Ansiedade corresponde a 35% dos casos.\nO ângulo central do setor correspondente à ansiedade é",
+    "alternativas": [
+      "35°",
+      "70°",
+      "100°",
+      "108°",
+      "126°"
+    ],
+    "gabarito": 4,
+    "comentario": "O círculo inteiro tem 360°, que correspondem a 100%. Logo, 35% de 360° = 0,35 × 360° = 126°.",
+    "dificuldade": 1,
+    "anulada": false
+  }
+]

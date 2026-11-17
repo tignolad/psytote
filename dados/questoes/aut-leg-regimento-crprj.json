@@ -1,0 +1,332 @@
+[
+  {
+    "id": "aut-leg-regimento-crprj-001",
+    "disciplina": "legislacao",
+    "assunto": "leg-regimento-crprj",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://transparencia.cfp.org.br/wp-content/uploads/sites/24/2018/02/Regimento-Interno-CRP-05_2015.pdf"
+    },
+    "enunciado": "Segundo o Regimento Interno do Conselho Regional de Psicologia da 5ª Região (CRP-05), o Conselho é constituído por",
+    "alternativas": [
+      "9 Conselheiros Efetivos e 9 Conselheiros Suplentes, com mandato de 3 anos, permitida a reeleição consecutiva por uma vez.",
+      "15 Conselheiros Efetivos e 15 Conselheiros Suplentes, com mandato de 3 anos, permitida a reeleição consecutiva por uma vez.",
+      "15 Conselheiros Efetivos e 15 Conselheiros Suplentes, com mandato de 2 anos, permitidas reeleições ilimitadas.",
+      "15 Conselheiros Efetivos e 10 Conselheiros Suplentes, com mandato de 3 anos, vedada a reeleição.",
+      "21 Conselheiros Efetivos, sem suplentes, com mandato de 4 anos."
+    ],
+    "gabarito": 1,
+    "comentario": "Art. 5º, caput e § 1º, do Regimento Interno do CRP-05: 15 Conselheiros Efetivos e 15 Suplentes (número que pode variar conforme resolução do CFP), mandato de 3 anos, permitida a reeleição consecutiva por uma vez. A composição 9 + 9 é a do Conselho Federal (Lei 5.766/71, art. 3º).",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-regimento-crprj-002",
+    "disciplina": "legislacao",
+    "assunto": "leg-regimento-crprj",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://transparencia.cfp.org.br/wp-content/uploads/sites/24/2018/02/Regimento-Interno-CRP-05_2015.pdf"
+    },
+    "enunciado": "De acordo com o Regimento Interno do CRP-05, são órgãos do Conselho Regional de Psicologia do Rio de Janeiro:",
+    "alternativas": [
+      "Plenário, Diretoria, Comissões Permanentes e Especiais, Congresso Regional de Psicologia e Assembleias.",
+      "Plenário, Diretoria, Secretarias Regionais, APAF e Congresso Nacional da Psicologia.",
+      "Assembleia Geral, Conselho Fiscal, Diretoria e Comissão de Ética.",
+      "Plenário, Presidência, Subsedes e Câmara de Mediação.",
+      "Diretoria, Comissões Permanentes e Ouvidoria, sendo o Plenário órgão consultivo."
+    ],
+    "gabarito": 0,
+    "comentario": "Art. 6º do Regimento Interno do CRP-05: são órgãos do CRP-05 o Plenário, a Diretoria, as Comissões Permanentes e Especiais, o Congresso Regional de Psicologia e as Assembleias; em período eleitoral, constitui-se uma Comissão Regional Eleitoral (§ 2º). O Plenário é o órgão deliberativo (art. 7º). Secretarias, APAF e CNP integram a estrutura do CFP.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-regimento-crprj-003",
+    "disciplina": "legislacao",
+    "assunto": "leg-regimento-crprj",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://transparencia.cfp.org.br/wp-content/uploads/sites/24/2018/02/Regimento-Interno-CRP-05_2015.pdf"
+    },
+    "enunciado": "Conforme o Regimento Interno do CRP-05, a Diretoria do Conselho é eleita pelo Plenário em escrutínio secreto e empossada na mesma reunião, com mandato de",
+    "alternativas": [
+      "3 anos, coincidente com o mandato dos conselheiros, vedada a reeleição.",
+      "1 ano, permitida uma única reeleição consecutiva.",
+      "2 anos, permitida uma reeleição.",
+      "18 meses, com eleição na primeira reunião plenária do semestre.",
+      "1 ano, podendo ocorrer reeleição para os cargos que a compõem tantas vezes quantas forem necessárias."
+    ],
+    "gabarito": 4,
+    "comentario": "Art. 10 do Regimento Interno do CRP-05: a Diretoria (Presidente, Vice-Presidente, Secretário e Tesoureiro — art. 9º) é eleita pelo Plenário em escrutínio secreto, empossada na mesma reunião, com mandato de 1 ano, podendo haver reeleição tantas vezes quantas necessárias. Havendo empate, procede-se a tantos escrutínios quantos necessários (§ 2º).",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-regimento-crprj-004",
+    "disciplina": "legislacao",
+    "assunto": "leg-regimento-crprj",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://transparencia.cfp.org.br/wp-content/uploads/sites/24/2018/02/Regimento-Interno-CRP-05_2015.pdf"
+    },
+    "enunciado": "A Vice-Presidente do CRP-05 precisou afastar-se de suas funções na Diretoria por motivo pessoal, sem doença, e o afastamento já ultrapassa 180 dias consecutivos. De acordo com o Regimento Interno do CRP-05,",
+    "alternativas": [
+      "o afastamento é livre, bastando comunicação verbal ao Presidente.",
+      "ela mantém o cargo até o fim do mandato, sendo substituída automaticamente pela Secretária.",
+      "ela perde automaticamente o mandato de conselheira efetiva.",
+      "o Plenário deve aplicar-lhe advertência em processo funcional.",
+      "considera-se renúncia ao cargo ocupado na Diretoria, procedendo-se a nova eleição."
+    ],
+    "gabarito": 4,
+    "comentario": "Art. 11 do Regimento Interno do CRP-05: qualquer Diretor pode solicitar afastamento; se superior a 45 dias, deve apresentar justificativa formal ao Plenário. Pelo parágrafo único, afastamento por mais de 180 dias consecutivos é considerado renúncia ao cargo na Diretoria, com nova eleição, salvo motivo de doença (hipótese de substituição automática). A consequência atinge o cargo de Diretoria, não o mandato de conselheira.",
+    "dificuldade": 3,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-regimento-crprj-005",
+    "disciplina": "legislacao",
+    "assunto": "leg-regimento-crprj",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://transparencia.cfp.org.br/wp-content/uploads/sites/24/2018/02/Regimento-Interno-CRP-05_2015.pdf"
+    },
+    "enunciado": "Nos termos do Regimento Interno do CRP-05, é atribuição do Presidente do Conselho Regional",
+    "alternativas": [
+      "coordenar a elaboração de balancetes mensais e balanços anuais.",
+      "subscrever os termos de posse e compromisso dos membros do Conselho e expedir certidões.",
+      "substituir o Secretário em seus afastamentos inferiores a 45 dias.",
+      "exercer o direito de voto de minerva e assinar, conjuntamente com o Secretário, as resoluções, instruções normativas e portarias do Conselho.",
+      "elaborar e supervisionar o registro das atas das reuniões do Plenário."
+    ],
+    "gabarito": 3,
+    "comentario": "Art. 13, IX e XIII, do Regimento Interno do CRP-05: compete ao Presidente assinar, com o Secretário, as resoluções e demais atos normativos e exercer o voto de minerva. Balancetes e substituição do Secretário são atribuições do Tesoureiro (art. 17, I e VIII); termos de posse, certidões e atas cabem ao Secretário (art. 16, IV, V e VI).",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-regimento-crprj-006",
+    "disciplina": "legislacao",
+    "assunto": "leg-regimento-crprj",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://transparencia.cfp.org.br/wp-content/uploads/sites/24/2018/02/Regimento-Interno-CRP-05_2015.pdf"
+    },
+    "enunciado": "Segundo o Regimento Interno do CRP-05, a vacância da Presidência ocorre pelo afastamento não justificado por prazo igual ou maior a 45 dias ou pela renúncia do cargo. Nesse caso,",
+    "alternativas": [
+      "o Vice-Presidente assume a Presidência até o fim do mandato da Diretoria, sem nova eleição.",
+      "o Conselho Federal designa um interventor até a próxima eleição geral do Regional.",
+      "a Assembleia Geral é convocada para eleger o novo Presidente em até 90 dias.",
+      "haverá nova eleição para o preenchimento da vaga na primeira reunião plenária que se realizar após a vacância, assumindo o Vice-Presidente até essa reunião.",
+      "o conselheiro mais antigo assume a Presidência até o fim do triênio."
+    ],
+    "gabarito": 3,
+    "comentario": "Arts. 14 e 15, III, do Regimento Interno do CRP-05: ocorrendo a vacância, haverá nova eleição na primeira reunião da Plenária após a vacância; o Vice-Presidente assume a Presidência até essa primeira reunião plenária subsequente. Não há intervenção do CFP, eleição pela Assembleia Geral ou critério de antiguidade.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-regimento-crprj-007",
+    "disciplina": "legislacao",
+    "assunto": "leg-regimento-crprj",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://transparencia.cfp.org.br/wp-content/uploads/sites/24/2018/02/Regimento-Interno-CRP-05_2015.pdf"
+    },
+    "enunciado": "De acordo com o Regimento Interno do CRP-05, NÃO é Comissão Permanente do Conselho Regional de Psicologia do Rio de Janeiro a",
+    "alternativas": [
+      "Comissão de Orientação e Ética (COE).",
+      "Comissão de Mediação e Arbitragem (CMA).",
+      "Comissão de Orientação e Fiscalização (COF).",
+      "Comissão Regional de Direitos Humanos (CRDH).",
+      "Comissão de Comunicação Social (CCS)."
+    ],
+    "gabarito": 1,
+    "comentario": "Art. 18 do Regimento Interno do CRP-05: são Comissões Permanentes a COE, a COF, a CRDH, a Comissão de Comunicação Social (CCS) e a Comissão de Psicologia e Políticas Públicas (CPPP), além das Comissões Especiais. Não há no Regimento uma 'Comissão de Mediação e Arbitragem'; a mediação nos processos disciplinares é disciplinada pelo CPD (Câmara de Mediação no âmbito da Comissão de Ética).",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-regimento-crprj-008",
+    "disciplina": "legislacao",
+    "assunto": "leg-regimento-crprj",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://transparencia.cfp.org.br/wp-content/uploads/sites/24/2018/02/Regimento-Interno-CRP-05_2015.pdf"
+    },
+    "enunciado": "Considere as afirmativas sobre as Comissões do CRP-05, segundo seu Regimento Interno.\nI. A Comissão de Orientação e Ética será integrada por, no mínimo, 3 psicólogos, sendo seu Presidente necessariamente um Conselheiro Efetivo.\nII. A Comissão de Orientação e Fiscalização será integrada por, no mínimo, 3 psicólogos, devendo o Presidente ser, necessariamente, um Conselheiro Efetivo.\nIII. A Comissão Regional de Direitos Humanos deve ser presidida, obrigatoriamente, por Conselheiro Efetivo.\nEstá correto o que se afirma em",
+    "alternativas": [
+      "I, apenas.",
+      "II, apenas.",
+      "I e II, apenas.",
+      "II e III, apenas.",
+      "I, II e III."
+    ],
+    "gabarito": 2,
+    "comentario": "I correta (art. 20 do Regimento Interno do CRP-05) e II correta (art. 25). III errada: o art. 29 permite que a CRDH seja presidida por qualquer psicólogo, desde que referendado em reunião plenária e lavrado em ata.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-regimento-crprj-009",
+    "disciplina": "legislacao",
+    "assunto": "leg-regimento-crprj",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://transparencia.cfp.org.br/wp-content/uploads/sites/24/2018/02/Regimento-Interno-CRP-05_2015.pdf"
+    },
+    "enunciado": "Conforme o Regimento Interno do CRP-05, é facultado à Comissão de Orientação e Ética constituir Comissão de Instrução para desempenhar suas atribuições. Essa Comissão de Instrução",
+    "alternativas": [
+      "será composta exclusivamente por conselheiros efetivos, no mínimo 5.",
+      "será composta de, no mínimo, 3 psicólogos regularmente inscritos, e pelo menos um deles deverá ser conselheiro integrante da COE, que a presidirá.",
+      "será composta de, no mínimo, 2 psicólogos, presidida por advogado da assessoria jurídica.",
+      "será presidida por psicólogo convidado, vedada a participação de conselheiros, para garantir a imparcialidade.",
+      "dispensa a inscrição regular de seus membros no CRP, bastando a formação em Psicologia."
+    ],
+    "gabarito": 1,
+    "comentario": "Art. 21 e parágrafo único do Regimento Interno do CRP-05: a Comissão de Instrução tem no mínimo 3 psicólogos; pelo menos um deve ser conselheiro integrante da COE, que a presidirá; e os psicólogos devem estar regularmente inscritos no CRP. O CPD (Res. CFP 11/2019, art. 10, §§ 2º e 3º) traz regra semelhante.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-regimento-crprj-010",
+    "disciplina": "legislacao",
+    "assunto": "leg-regimento-crprj",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://transparencia.cfp.org.br/wp-content/uploads/sites/24/2018/02/Regimento-Interno-CRP-05_2015.pdf"
+    },
+    "enunciado": "Sobre as Comissões Especiais, o Regimento Interno do CRP-05 estabelece que",
+    "alternativas": [
+      "são instituídas pelo Presidente por ato próprio, sem prazo de funcionamento definido.",
+      "seu prazo de funcionamento pode ultrapassar a gestão em que foram constituídas, se assim decidir a Diretoria.",
+      "seus integrantes devem ser exclusivamente conselheiros efetivos ou suplentes.",
+      "são aprovadas pela Assembleia Geral, por maioria de 2/3 dos presentes.",
+      "são instituídas pelo Plenário por meio de Portarias, e seus integrantes podem incluir estudante de Psicologia regularmente matriculado em instituição de ensino superior reconhecida pelo MEC."
+    ],
+    "gabarito": 4,
+    "comentario": "Arts. 36 a 39 do Regimento Interno do CRP-05: as Comissões Especiais são instituídas pelo Plenário por Portarias; a Portaria indica assuntos, integrantes, Presidente/Coordenador e prazo, que não pode ultrapassar a gestão; os integrantes podem ser conselheiros, psicólogos inscritos na Região, estudantes de Psicologia regularmente matriculados ou assessores especializados, indicados pelo Plenário e aprovados por maioria de votos.",
+    "dificuldade": 3,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-regimento-crprj-011",
+    "disciplina": "legislacao",
+    "assunto": "leg-regimento-crprj",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://transparencia.cfp.org.br/wp-content/uploads/sites/24/2018/02/Regimento-Interno-CRP-05_2015.pdf"
+    },
+    "enunciado": "Um conselheiro efetivo do CRP-05 faltou, ao longo de um mesmo ano, a cinco sessões plenárias, algumas consecutivas e outras intercaladas, sem justificativa aceita pelo Plenário. Segundo o Regimento Interno do CRP-05, essa situação",
+    "alternativas": [
+      "só acarretaria perda de mandato se as cinco faltas fossem consecutivas.",
+      "acarreta apenas advertência, aplicada pela Diretoria.",
+      "acarreta vacância por perda de mandato.",
+      "acarreta suspensão do mandato por 6 meses, ad referendum do CFP.",
+      "não tem consequência, pois a perda de mandato depende de processo ético."
+    ],
+    "gabarito": 2,
+    "comentario": "Art. 50, IV, do Regimento Interno do CRP-05: ocorre vacância por perda de mandato por falta, em Plenário, a 5 sessões consecutivas ou intercaladas, em cada ano, não justificadas ou cujas justificativas não tenham sido aceitas. A regra coincide com o Decreto 79.822/77 (art. 35, V).",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-regimento-crprj-012",
+    "disciplina": "legislacao",
+    "assunto": "leg-regimento-crprj",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://transparencia.cfp.org.br/wp-content/uploads/sites/24/2018/02/Regimento-Interno-CRP-05_2015.pdf"
+    },
+    "enunciado": "Segundo o Regimento Interno do CRP-05, o Plenário reúne-se ordinariamente pelo menos uma vez por mês. Quanto às reuniões extraordinárias, o Regimento prevê que",
+    "alternativas": [
+      "ocorrem por iniciativa do Presidente ou por solicitação de, no mínimo, 2/3 dos Conselheiros Efetivos, convocadas com antecedência mínima de 15 dias e com pauta limitada às matérias que motivaram a convocação.",
+      "ocorrem por iniciativa do Presidente ou de 1/3 dos Conselheiros Efetivos, com antecedência mínima de 20 dias.",
+      "ocorrem apenas por convocação do Conselho Federal, com antecedência mínima de 30 dias.",
+      "podem ser instaladas sem a presença de membro da Diretoria, desde que haja quórum.",
+      "ocorrem por iniciativa do Presidente, com antecedência mínima de 15 dias, sendo vedada a redução desse prazo."
+    ],
+    "gabarito": 0,
+    "comentario": "Art. 52 do Regimento Interno do CRP-05: extraordinárias por iniciativa do Presidente ou a pedido de, no mínimo, 2/3 dos Conselheiros Efetivos, antecedência mínima de 15 dias, pauta limitada; o prazo pode ser reduzido por urgência, comprovada a convocação a tempo de todos (§ 1º), e a reunião só se instala com pelo menos 1 membro da Diretoria (§ 2º). No CFP, a antecedência é de 20 dias.",
+    "dificuldade": 3,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-regimento-crprj-013",
+    "disciplina": "legislacao",
+    "assunto": "leg-regimento-crprj",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://transparencia.cfp.org.br/wp-content/uploads/sites/24/2018/02/Regimento-Interno-CRP-05_2015.pdf"
+    },
+    "enunciado": "Conforme o Regimento Interno do CRP-05, os trabalhos nas Sessões Plenárias serão iniciados com o quórum de",
+    "alternativas": [
+      "no mínimo, 5 Conselheiros, independentemente do total.",
+      "no mínimo, 2/3 dos Conselheiros Efetivos.",
+      "no mínimo, metade mais um dos Conselheiros.",
+      "qualquer número, desde que presente o Presidente.",
+      "no mínimo, 1/3 dos Conselheiros, em segunda convocação."
+    ],
+    "gabarito": 2,
+    "comentario": "Art. 66 do Regimento Interno do CRP-05: os trabalhos nas Sessões Plenárias são iniciados com quórum de, no mínimo, metade mais um dos Conselheiros; a verificação se faz pela lista de presença, e, na falta de quórum, o Presidente pode adiar a abertura, consignando o fato em ata (art. 67). O quórum fixo de 5 conselheiros é regra do Regimento do CFP.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-regimento-crprj-014",
+    "disciplina": "legislacao",
+    "assunto": "leg-regimento-crprj",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://transparencia.cfp.org.br/wp-content/uploads/sites/24/2018/02/Regimento-Interno-CRP-05_2015.pdf"
+    },
+    "enunciado": "Considere as afirmativas sobre o Regimento Interno do CRP-05.\nI. As reuniões plenárias são restritas aos Conselheiros Efetivos, mas, por decisão do Plenário, os Conselheiros Suplentes podem delas participar com direito a voz.\nII. É vedado ao CRP-05 realizar manifestações e pronunciamentos de caráter partidário e religioso.\nIII. A alienação de bens imóveis do CRP-05 depende apenas de deliberação da Diretoria.\nEstá correto o que se afirma em",
+    "alternativas": [
+      "I, apenas.",
+      "II, apenas.",
+      "III, apenas.",
+      "I e II, apenas.",
+      "I, II e III."
+    ],
+    "gabarito": 3,
+    "comentario": "I correta: art. 54 e § 1º do Regimento Interno do CRP-05. II correta: art. 32. III errada: pelo art. 79, a alienação de bens imóveis depende de deliberação do Plenário e aprovação da Assembleia Geral, respeitadas as determinações legais.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-regimento-crprj-015",
+    "disciplina": "legislacao",
+    "assunto": "leg-regimento-crprj",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://transparencia.cfp.org.br/wp-content/uploads/sites/24/2018/02/Regimento-Interno-CRP-05_2015.pdf"
+    },
+    "enunciado": "De acordo com o Regimento Interno do CRP-05, os Grupos de Trabalho",
+    "alternativas": [
+      "confundem-se com as Comissões Permanentes e são criados pela Diretoria sem prazo determinado.",
+      "têm prazo de até 1 ano, improrrogável, e apresentam relatório apenas ao final dos trabalhos.",
+      "são instituídos pelo Plenário com objetivo definido e prazo determinado de até 6 meses, prorrogável por igual período, e devem apresentar relatórios trimestrais por escrito.",
+      "são coordenados obrigatoriamente pelo Presidente do Conselho e seus integrantes mantêm vínculo trabalhista com o Regional.",
+      "só podem ser propostos por conselheiros, vedada a proposta pela categoria."
+    ],
+    "gabarito": 2,
+    "comentario": "Arts. 58 a 65 do Regimento Interno do CRP-05: GTs são instituídos pelo Plenário com objetivo definido e prazo determinado; não se confundem com Comissões, e as propostas podem vir dos Conselheiros ou da categoria (art. 58, § 3º); o prazo é de até 6 meses, prorrogável por igual período (art. 62); há relatórios trimestrais (art. 63); e os integrantes atuam como colaboradores, sem vínculo trabalhista (art. 65).",
+    "dificuldade": 3,
+    "anulada": false
+  }
+]

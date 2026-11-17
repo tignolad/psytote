@@ -1,0 +1,332 @@
+[
+  {
+    "id": "aut-leg-idoso-pcd-001",
+    "disciplina": "legislacao",
+    "assunto": "leg-idoso-pcd",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741.htm"
+    },
+    "enunciado": "Uma psicóloga de um hospital particular atende uma mulher de 72 anos com hematomas e relato de agressões pelo filho. Nos termos do art. 19 do Estatuto da Pessoa Idosa (Lei 10.741/2003, com redação da Lei 14.423/2022), os casos de suspeita ou confirmação de violência praticada contra pessoas idosas",
+    "alternativas": [
+      "serão objeto de notificação compulsória pelos serviços de saúde públicos e privados à autoridade sanitária, e obrigatoriamente comunicados por eles a quaisquer dos seguintes órgãos: autoridade policial, Ministério Público e Conselhos Municipal, Estadual ou Nacional da Pessoa Idosa.",
+      "serão objeto de notificação compulsória apenas pelos serviços públicos de saúde, cabendo aos serviços privados comunicação facultativa ao Ministério Público.",
+      "serão comunicados exclusivamente ao Conselho Tutelar ou, na sua falta, ao Conselho Municipal da Pessoa Idosa.",
+      "só serão notificados após a confirmação da violência, mediante concordância expressa da pessoa idosa, quando capaz.",
+      "serão notificados à autoridade policial, que se encarregará de comunicar a autoridade sanitária e o Ministério Público."
+    ],
+    "gabarito": 0,
+    "comentario": "Gabarito: A. O art. 19 do Estatuto da Pessoa Idosa determina que os casos de suspeita ou confirmação de violência contra pessoas idosas sejam objeto de notificação compulsória pelos serviços de saúde públicos E privados à autoridade sanitária, além de comunicação obrigatória a quaisquer dos órgãos listados: autoridade policial, Ministério Público e Conselhos Municipal, Estadual e Nacional da Pessoa Idosa. A suspeita já obriga, e a lei não condiciona a notificação ao consentimento. Conselho Tutelar atua na proteção de crianças e adolescentes.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-idoso-pcd-002",
+    "disciplina": "legislacao",
+    "assunto": "leg-idoso-pcd",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741.htm ; https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm"
+    },
+    "enunciado": "Para os efeitos do art. 19 do Estatuto da Pessoa Idosa, considera-se violência contra a pessoa idosa",
+    "alternativas": [
+      "qualquer ação praticada no ambiente doméstico ou familiar que lhe cause lesão corporal ou sofrimento físico.",
+      "qualquer ação ou omissão praticada por familiar ou cuidador que lhe cause dano patrimonial.",
+      "somente a ação dolosa praticada em local público ou privado que lhe cause morte ou lesão corporal grave.",
+      "qualquer ação ou omissão praticada em local público ou privado que lhe cause morte, dano ou sofrimento físico ou psicológico.",
+      "qualquer ação ou omissão praticada em instituição de longa permanência que lhe cause dano ou sofrimento."
+    ],
+    "gabarito": 3,
+    "comentario": "Gabarito: D. O § 1º do art. 19 do Estatuto da Pessoa Idosa define violência como qualquer ação ou omissão praticada em local público ou privado que lhe cause morte, dano ou sofrimento físico ou psicológico. O conceito abrange omissões, não se restringe ao ambiente doméstico nem a instituições, e não exige dolo ou lesão grave. A Lei 13.146/2015 (art. 26, parágrafo único) traz definição semelhante para a pessoa com deficiência.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-idoso-pcd-003",
+    "disciplina": "legislacao",
+    "assunto": "leg-idoso-pcd",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741.htm"
+    },
+    "enunciado": "O responsável por uma instituição de longa permanência para idosos toma conhecimento de que uma residente vem sofrendo apropriação indevida de sua aposentadoria por um cuidador, e decide não comunicar o fato. De acordo com o art. 57 do Estatuto da Pessoa Idosa, essa omissão",
+    "alternativas": [
+      "constitui infração administrativa punida com multa de três a vinte salários de referência, aplicada em dobro na reincidência.",
+      "constitui infração administrativa punida com multa de R$ 500,00 a R$ 3.000,00, aplicada em dobro no caso de reincidência.",
+      "constitui crime de omissão de socorro, punido com detenção de seis meses a um ano e multa.",
+      "não é punida, pois o dever de comunicação do art. 57 alcança apenas os profissionais de saúde.",
+      "constitui infração administrativa punida com multa de R$ 1.000,00 a R$ 3.000,00, sem previsão de agravamento."
+    ],
+    "gabarito": 1,
+    "comentario": "Gabarito: B. O art. 57 do Estatuto da Pessoa Idosa pune o profissional de saúde ou o responsável por estabelecimento de saúde ou instituição de longa permanência que deixar de comunicar à autoridade competente os casos de crimes contra pessoa idosa de que tiver conhecimento, com multa de R$ 500,00 a R$ 3.000,00, aplicada em dobro na reincidência. A multa em salários de referência é a do art. 245 do ECA; a omissão de socorro é o crime do art. 97 e trata de outra conduta.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-idoso-pcd-004",
+    "disciplina": "legislacao",
+    "assunto": "leg-idoso-pcd",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741.htm"
+    },
+    "enunciado": "Considerando o Estatuto da Pessoa Idosa, assinale a afirmativa correta quanto ao seu âmbito de aplicação e à prioridade.",
+    "alternativas": [
+      "Destina-se a regular os direitos das pessoas com idade igual ou superior a 65 anos, assegurando-se prioridade especial aos maiores de 80 anos.",
+      "Destina-se a regular os direitos das pessoas com idade superior a 60 anos, assegurando-se prioridade especial aos maiores de 75 anos.",
+      "Destina-se a regular os direitos das pessoas com idade igual ou superior a 60 anos, sem distinção de prioridade entre elas.",
+      "Destina-se a regular os direitos das pessoas com idade igual ou superior a 60 anos, assegurando-se prioridade especial aos maiores de 85 anos.",
+      "Destina-se a regular os direitos das pessoas com idade igual ou superior a 60 anos, assegurando-se, dentre elas, prioridade especial aos maiores de 80 anos."
+    ],
+    "gabarito": 4,
+    "comentario": "Gabarito: E. O art. 1º do Estatuto (redação da Lei 14.423/2022) destina-o às pessoas com idade IGUAL ou superior a 60 anos. O art. 3º, § 2º, incluído pela Lei 13.466/2017 e atualizado pela Lei 14.423/2022, assegura prioridade especial aos maiores de 80 anos, cujas necessidades devem ser atendidas sempre preferencialmente em relação às demais pessoas idosas.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-idoso-pcd-005",
+    "disciplina": "legislacao",
+    "assunto": "leg-idoso-pcd",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741.htm"
+    },
+    "enunciado": "Um vizinho presencia, repetidas vezes, uma pessoa idosa sendo trancada em casa pelos familiares, sem acesso a alimentação adequada. Sobre o dever de comunicação previsto no Estatuto da Pessoa Idosa, é correto afirmar que",
+    "alternativas": [
+      "o dever de comunicar recai apenas sobre profissionais de saúde e responsáveis por instituições, sendo facultativo para os demais cidadãos.",
+      "o vizinho só pode comunicar o fato se a pessoa idosa autorizar, em respeito à sua autonomia.",
+      "todo cidadão tem o dever de comunicar à autoridade competente qualquer forma de violação ao Estatuto que tenha testemunhado ou de que tenha conhecimento.",
+      "a comunicação deve ser feita pelo cidadão diretamente ao Conselho Tutelar, que tem atribuição sobre pessoas vulneráveis.",
+      "o dever de comunicar só existe quando a violação configurar crime, excluídas as violações de natureza administrativa ou civil."
+    ],
+    "gabarito": 2,
+    "comentario": "Gabarito: C. O art. 6º do Estatuto da Pessoa Idosa dispõe que todo cidadão tem o dever de comunicar à autoridade competente qualquer forma de violação a esta Lei que tenha testemunhado ou de que tenha conhecimento. Complementarmente, o art. 4º, § 1º, afirma ser dever de todos prevenir a ameaça ou violação aos direitos da pessoa idosa. O dever é geral (não só de profissionais), abrange qualquer violação e não depende de autorização.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-idoso-pcd-006",
+    "disciplina": "legislacao",
+    "assunto": "leg-idoso-pcd",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741.htm"
+    },
+    "enunciado": "Nos termos do art. 43 do Estatuto da Pessoa Idosa, as medidas de proteção à pessoa idosa são aplicáveis sempre que os direitos reconhecidos na lei forem ameaçados ou violados",
+    "alternativas": [
+      "somente por ação ou omissão da família ou do curador, cabendo ao Estado a responsabilização administrativa nos demais casos.",
+      "por ação ou omissão do Estado, ou por abuso da família, excluídas as hipóteses decorrentes da condição pessoal da pessoa idosa.",
+      "por ação ou omissão da sociedade ou do Estado; por falta, omissão ou abuso da família, curador ou entidade de atendimento; ou em razão de sua condição pessoal.",
+      "por ação dolosa de terceiros, devidamente comprovada em processo judicial.",
+      "por ação ou omissão da sociedade ou do Estado, desde que a pessoa idosa resida em instituição de longa permanência."
+    ],
+    "gabarito": 2,
+    "comentario": "Gabarito: C. O art. 43 do Estatuto (redação da Lei 14.423/2022) prevê três hipóteses: I – por ação ou omissão da sociedade ou do Estado; II – por falta, omissão ou abuso da família, curador ou entidade de atendimento; III – em razão de sua condição pessoal. As demais alternativas restringem indevidamente as hipóteses legais ou acrescentam requisitos inexistentes.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-idoso-pcd-007",
+    "disciplina": "legislacao",
+    "assunto": "leg-idoso-pcd",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741.htm"
+    },
+    "enunciado": "Verificada qualquer das hipóteses do art. 43 do Estatuto da Pessoa Idosa, as medidas específicas de proteção previstas no art. 45, como a requisição para tratamento de saúde e o abrigo em entidade, poderão ser determinadas",
+    "alternativas": [
+      "pelo Conselho Tutelar ou pelo Conselho Municipal da Pessoa Idosa.",
+      "pela autoridade sanitária que recebeu a notificação compulsória.",
+      "pela autoridade policial, ao registrar a ocorrência.",
+      "pela equipe de saúde responsável pelo atendimento, independentemente de outra autoridade.",
+      "pelo Ministério Público ou pelo Poder Judiciário, a requerimento daquele."
+    ],
+    "gabarito": 4,
+    "comentario": "Gabarito: E. O art. 45 do Estatuto da Pessoa Idosa estabelece que, verificada qualquer das hipóteses do art. 43, o Ministério Público ou o Poder Judiciário, a requerimento daquele, poderá determinar medidas como encaminhamento à família ou curador, orientação e acompanhamento temporários, requisição de tratamento de saúde, inclusão em programa de tratamento de dependentes de drogas, abrigo em entidade e abrigo temporário. Conselhos de direitos e autoridades sanitária ou policial não têm essa competência.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-idoso-pcd-008",
+    "disciplina": "legislacao",
+    "assunto": "leg-idoso-pcd",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741.htm"
+    },
+    "enunciado": "Analise as afirmativas sobre o Estatuto da Pessoa Idosa.\nI. Nenhuma pessoa idosa será objeto de qualquer tipo de negligência, discriminação, violência, crueldade ou opressão, e todo atentado aos seus direitos, por ação ou omissão, será punido na forma da lei.\nII. Abandonar a pessoa idosa em hospitais, casas de saúde ou entidades de longa permanência é infração administrativa punida apenas com multa.\nIII. É dever de todos prevenir a ameaça ou violação aos direitos da pessoa idosa.\nEstá correto o que se afirma em",
+    "alternativas": [
+      "I e III, apenas.",
+      "I, apenas.",
+      "II, apenas.",
+      "I e II, apenas.",
+      "I, II e III."
+    ],
+    "gabarito": 0,
+    "comentario": "Gabarito: A. A afirmativa I corresponde ao art. 4º, caput, e a III ao art. 4º, § 1º, do Estatuto. A II está errada: abandonar a pessoa idosa em hospitais, casas de saúde, entidades de longa permanência ou congêneres, ou não prover suas necessidades básicas quando obrigado, é CRIME (art. 98), punido com detenção de 6 meses a 3 anos e multa.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-idoso-pcd-009",
+    "disciplina": "legislacao",
+    "assunto": "leg-idoso-pcd",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm"
+    },
+    "enunciado": "O art. 5º da Lei Brasileira de Inclusão (Lei 13.146/2015) estabelece que a pessoa com deficiência será protegida de toda forma de negligência, discriminação, exploração, violência, tortura, crueldade, opressão e tratamento desumano ou degradante. Para fins dessa proteção, o parágrafo único considera especialmente vulneráveis",
+    "alternativas": [
+      "a criança, o adolescente e o idoso, com deficiência.",
+      "a criança e o adolescente com deficiência intelectual ou mental.",
+      "a pessoa com deficiência sob curatela e a pessoa com deficiência institucionalizada.",
+      "a criança, o adolescente, a mulher e o idoso, com deficiência.",
+      "a mulher, o idoso e a pessoa com deficiência em situação de rua."
+    ],
+    "gabarito": 3,
+    "comentario": "Gabarito: D. Segundo o parágrafo único do art. 5º da Lei 13.146/2015, são considerados especialmente vulneráveis a criança, o adolescente, a mulher e o idoso, com deficiência. O erro mais comum é esquecer a mulher, como na primeira alternativa incorreta; as demais trazem categorias que não constam do dispositivo.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-idoso-pcd-010",
+    "disciplina": "legislacao",
+    "assunto": "leg-idoso-pcd",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm"
+    },
+    "enunciado": "Um juiz, ao julgar uma ação de família, toma conhecimento de que uma pessoa com deficiência vem sendo mantida em cárcere privado pelos parentes. De acordo com o art. 7º da Lei 13.146/2015, o magistrado",
+    "alternativas": [
+      "deverá comunicar o fato ao Conselho dos Direitos da Pessoa com Deficiência, a quem cabe a apuração.",
+      "deverá remeter peças ao Ministério Público para as providências cabíveis.",
+      "deverá instaurar, de ofício, processo de curatela da pessoa com deficiência.",
+      "poderá comunicar o fato à autoridade policial, se houver requerimento da vítima.",
+      "deverá determinar a notificação compulsória à autoridade sanitária."
+    ],
+    "gabarito": 1,
+    "comentario": "Gabarito: B. O art. 7º da LBI estabelece que é dever de todos comunicar à autoridade competente qualquer forma de ameaça ou de violação aos direitos da pessoa com deficiência, e seu parágrafo único dispõe que, se no exercício de suas funções os juízes e os tribunais tiverem conhecimento de fatos que caracterizem as violações previstas na lei, devem remeter peças ao Ministério Público para as providências cabíveis.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-idoso-pcd-011",
+    "disciplina": "legislacao",
+    "assunto": "leg-idoso-pcd",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm"
+    },
+    "enunciado": "Uma psicóloga do CAPS de um município atende um homem com deficiência intelectual e suspeita de que ele sofre agressões físicas e psicológicas no abrigo onde reside. Conforme o art. 26 da Lei 13.146/2015, os casos de suspeita ou de confirmação de violência praticada contra a pessoa com deficiência serão objeto de notificação compulsória pelos serviços de saúde públicos e privados",
+    "alternativas": [
+      "exclusivamente à autoridade sanitária, que comunicará a autoridade policial se entender necessário.",
+      "à autoridade policial e ao Ministério Público, além dos Conselhos dos Direitos da Pessoa com Deficiência.",
+      "ao Conselho Tutelar e à Defensoria Pública, além dos Conselhos dos Direitos da Pessoa com Deficiência.",
+      "ao curador da pessoa com deficiência e, na sua falta, ao Ministério Público.",
+      "ao Ministério Público, somente após a confirmação da violência pela equipe multiprofissional."
+    ],
+    "gabarito": 1,
+    "comentario": "Gabarito: B. O art. 26 da LBI determina que os casos de suspeita ou de confirmação de violência contra a pessoa com deficiência sejam objeto de notificação compulsória pelos serviços de saúde públicos e privados à autoridade policial e ao Ministério Público, além dos Conselhos dos Direitos da Pessoa com Deficiência. O parágrafo único define violência como qualquer ação ou omissão, praticada em local público ou privado, que lhe cause morte ou dano ou sofrimento físico ou psicológico. A suspeita basta.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-idoso-pcd-012",
+    "disciplina": "legislacao",
+    "assunto": "leg-idoso-pcd",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741.htm ; https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm"
+    },
+    "enunciado": "Comparando a notificação de violência no Estatuto da Pessoa Idosa (art. 19) e na Lei Brasileira de Inclusão (art. 26), analise as afirmativas.\nI. Em ambos os diplomas, a notificação compulsória abrange tanto os casos suspeitos quanto os confirmados e alcança os serviços de saúde públicos e privados.\nII. Apenas o Estatuto da Pessoa Idosa menciona expressamente a notificação compulsória à autoridade sanitária.\nIII. Apenas a Lei Brasileira de Inclusão inclui o Ministério Público entre os destinatários da notificação ou comunicação.\nEstá correto o que se afirma em",
+    "alternativas": [
+      "I, apenas.",
+      "II, apenas.",
+      "I e III, apenas.",
+      "I, II e III.",
+      "I e II, apenas."
+    ],
+    "gabarito": 4,
+    "comentario": "Gabarito: E. I está correta: os arts. 19 da Lei 10.741/2003 e 26 da Lei 13.146/2015 alcançam suspeita e confirmação e os serviços de saúde públicos e privados. II está correta: o Estatuto da Pessoa Idosa prevê notificação à autoridade sanitária e comunicação à autoridade policial, ao MP e aos Conselhos da Pessoa Idosa, enquanto a LBI prevê notificação à autoridade policial, ao MP e aos Conselhos dos Direitos da Pessoa com Deficiência. III está errada, pois o MP consta nos dois diplomas.",
+    "dificuldade": 3,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-idoso-pcd-013",
+    "disciplina": "legislacao",
+    "assunto": "leg-idoso-pcd",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm"
+    },
+    "enunciado": "Segundo a Lei Brasileira de Inclusão (Lei 13.146/2015), a avaliação da deficiência, quando necessária, será",
+    "alternativas": [
+      "médico-pericial, realizada exclusivamente por médico perito do órgão previdenciário.",
+      "psicossocial, realizada por psicólogo e assistente social, dispensada a avaliação médica.",
+      "biomédica, baseada na Classificação Internacional de Doenças, realizada por junta médica.",
+      "biopsicossocial, realizada por equipe multiprofissional e interdisciplinar.",
+      "biopsicossocial, realizada individualmente pelo profissional de saúde que acompanha a pessoa."
+    ],
+    "gabarito": 3,
+    "comentario": "Gabarito: D. O art. 2º, § 1º, da LBI estabelece que a avaliação da deficiência, quando necessária, será biopsicossocial, realizada por equipe multiprofissional e interdisciplinar, e considerará os impedimentos nas funções e estruturas do corpo, os fatores socioambientais, psicológicos e pessoais, a limitação no desempenho de atividades e a restrição de participação. O conceito de deficiência do caput enfatiza a interação dos impedimentos com as barreiras.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-idoso-pcd-014",
+    "disciplina": "legislacao",
+    "assunto": "leg-idoso-pcd",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm"
+    },
+    "enunciado": "Uma mulher com deficiência intelectual, sob curatela, manifesta ao psicólogo que a acompanha o desejo de se casar e de exercer sua sexualidade, mas o curador se opõe. Considerando a Lei 13.146/2015, é correto afirmar que",
+    "alternativas": [
+      "a curatela afeta tão somente os atos relacionados aos direitos de natureza patrimonial e negocial, não alcançando o direito ao próprio corpo, à sexualidade e ao matrimônio.",
+      "a curatela alcança todos os atos da vida civil, cabendo ao curador autorizar o casamento.",
+      "o casamento de pessoa curatelada depende de autorização judicial, ouvido o Ministério Público.",
+      "a deficiência afeta a capacidade civil para o casamento quando se tratar de deficiência intelectual.",
+      "a curatela é medida protetiva ordinária, de duração indeterminada, que abrange direitos existenciais e patrimoniais."
+    ],
+    "gabarito": 0,
+    "comentario": "Gabarito: A. O art. 85 da LBI dispõe que a curatela afetará tão somente os atos relacionados aos direitos de natureza patrimonial e negocial, e seu § 1º afirma que ela não alcança o direito ao próprio corpo, à sexualidade, ao matrimônio, à privacidade, à educação, à saúde, ao trabalho e ao voto. O art. 6º estabelece que a deficiência não afeta a plena capacidade civil, inclusive para casar, e o art. 84, § 3º, qualifica a curatela como medida protetiva EXTRAORDINÁRIA, que dura o menor tempo possível.",
+    "dificuldade": 3,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-idoso-pcd-015",
+    "disciplina": "legislacao",
+    "assunto": "leg-idoso-pcd",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm"
+    },
+    "enunciado": "Quanto ao consentimento da pessoa com deficiência para tratamentos e intervenções, a Lei 13.146/2015 estabelece que",
+    "alternativas": [
+      "o consentimento é dispensado quando houver curatela, bastando a autorização do curador.",
+      "a pessoa com deficiência pode ser obrigada a se submeter a intervenção clínica ou cirúrgica sempre que houver indicação médica.",
+      "o consentimento prévio, livre e esclarecido é indispensável para a realização de tratamento, procedimento, hospitalização e pesquisa científica, assegurada, em caso de curatela, sua participação no maior grau possível.",
+      "a pesquisa científica com pessoa com deficiência sob curatela é vedada em qualquer hipótese.",
+      "o consentimento é exigido apenas para pesquisa científica, sendo presumido nos tratamentos de saúde."
+    ],
+    "gabarito": 2,
+    "comentario": "Gabarito: C. O art. 12 da LBI exige o consentimento prévio, livre e esclarecido da pessoa com deficiência para tratamento, procedimento, hospitalização e pesquisa científica; o § 1º assegura, em caso de curatela, sua participação no maior grau possível para a obtenção do consentimento. O art. 11 veda obrigar a pessoa com deficiência a intervenção clínica ou cirúrgica, tratamento ou institucionalização forçada, e o § 2º do art. 12 admite pesquisa com pessoa sob tutela ou curatela em caráter excepcional, não a proíbe totalmente.",
+    "dificuldade": 2,
+    "anulada": false
+  }
+]

@@ -1,0 +1,574 @@
+[
+  {
+    "id": "aut-leg-codigo-etica-001",
+    "disciplina": "legislacao",
+    "assunto": "leg-codigo-etica",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2012/07/codigo-de-etica-psicologia.pdf"
+    },
+    "enunciado": "O Código de Ética Profissional do Psicólogo (Resolução CFP nº 10/2005) enuncia princípios fundamentais. Segundo o Princípio I, o psicólogo baseará o seu trabalho no respeito e na promoção da liberdade, da dignidade, da igualdade e da integridade do ser humano, apoiado nos valores que embasam",
+    "alternativas": [
+      "a Constituição da Organização Mundial da Saúde.",
+      "o Estatuto da Criança e do Adolescente.",
+      "a Declaração Universal dos Direitos Humanos.",
+      "a Convenção Americana sobre Direitos Humanos.",
+      "a Lei Orgânica da Saúde."
+    ],
+    "gabarito": 2,
+    "comentario": "Princípio Fundamental I do Código de Ética Profissional do Psicólogo (Res. CFP 10/2005): o trabalho do psicólogo apoia-se nos valores que embasam a Declaração Universal dos Direitos Humanos. Os demais diplomas citados não são mencionados nesse princípio.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-codigo-etica-002",
+    "disciplina": "legislacao",
+    "assunto": "leg-codigo-etica",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2012/07/codigo-de-etica-psicologia.pdf"
+    },
+    "enunciado": "Analise os itens a seguir, relativos aos Princípios Fundamentais do Código de Ética Profissional do Psicólogo.\nI. O psicólogo considerará as relações de poder nos contextos em que atua e os impactos dessas relações sobre suas atividades profissionais, posicionando-se de forma crítica.\nII. O psicólogo contribuirá para promover a universalização do acesso da população às informações, ao conhecimento da ciência psicológica, aos serviços e aos padrões éticos da profissão.\nIII. O psicólogo atuará com neutralidade política, abstendo-se de analisar a realidade política, econômica e social em que atua.\nEstá correto o que se afirma em",
+    "alternativas": [
+      "I, apenas.",
+      "II, apenas.",
+      "I e II, apenas.",
+      "II e III, apenas.",
+      "I, II e III."
+    ],
+    "gabarito": 2,
+    "comentario": "I reproduz o Princípio VII e II reproduz o Princípio V do Código de Ética Profissional do Psicólogo (Res. CFP 10/2005). III contraria o Princípio III, segundo o qual o psicólogo atuará com responsabilidade social, analisando CRÍTICA e historicamente a realidade política, econômica, social e cultural.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-codigo-etica-003",
+    "disciplina": "legislacao",
+    "assunto": "leg-codigo-etica",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2012/07/codigo-de-etica-psicologia.pdf"
+    },
+    "enunciado": "Uma psicóloga recém-formada recebe convite para conduzir avaliação neuropsicológica complexa, área em que não possui formação nem experiência. À luz do Código de Ética Profissional do Psicólogo, é dever fundamental da psicóloga",
+    "alternativas": [
+      "assumir responsabilidades profissionais somente por atividades para as quais esteja capacitada pessoal, teórica e tecnicamente.",
+      "aceitar o trabalho, desde que informe ao cliente sua inexperiência e cobre honorários reduzidos.",
+      "aceitar o trabalho, pois o diploma de Psicólogo a habilita para qualquer atividade privativa da profissão.",
+      "recusar o trabalho e comunicar o convite ao Conselho Regional, por configurar exercício ilegal.",
+      "aceitar o trabalho e solicitar ao contratante que custeie supervisão posterior à entrega do laudo."
+    ],
+    "gabarito": 0,
+    "comentario": "Art. 1º, 'b', do Código de Ética Profissional do Psicólogo (Res. CFP 10/2005): é dever do psicólogo assumir responsabilidades profissionais somente por atividades para as quais esteja capacitado pessoal, teórica e tecnicamente. Reduzir honorários ou avisar da inexperiência não supre a falta de capacitação, e o convite em si não configura exercício ilegal.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-codigo-etica-004",
+    "disciplina": "legislacao",
+    "assunto": "leg-codigo-etica",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2012/07/codigo-de-etica-psicologia.pdf"
+    },
+    "enunciado": "Entre os deveres fundamentais do psicólogo previstos no art. 1º do Código de Ética Profissional do Psicólogo, NÃO se inclui",
+    "alternativas": [
+      "prestar serviços profissionais em situações de calamidade pública ou de emergência, sem visar benefício pessoal.",
+      "prestar serviços profissionais gratuitamente sempre que o usuário não puder pagar os honorários.",
+      "levar ao conhecimento das instâncias competentes o exercício ilegal ou irregular da profissão.",
+      "sugerir serviços de outros psicólogos sempre que, por motivos justificáveis, os serviços não puderem ser continuados, fornecendo ao substituto as informações necessárias.",
+      "fornecer, a quem de direito, informações concernentes ao trabalho a ser realizado e ao seu objetivo profissional."
+    ],
+    "gabarito": 1,
+    "comentario": "Art. 1º do Código de Ética Profissional do Psicólogo (Res. CFP 10/2005): estão previstos os deveres das alíneas 'd' (calamidade/emergência sem visar benefício pessoal), 'l' (comunicar exercício ilegal), 'k' (sugerir outro psicólogo e repassar informações) e 'f' (informar sobre o trabalho). Não há dever de gratuidade; o art. 4º manda considerar a justa retribuição e as condições do usuário ao fixar honorários.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-codigo-etica-005",
+    "disciplina": "legislacao",
+    "assunto": "leg-codigo-etica",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2012/07/codigo-de-etica-psicologia.pdf"
+    },
+    "enunciado": "Um psicólogo organizacional é solicitado pela empresa a divulgar, no informativo interno, os resultados individuais de avaliações psicológicas de funcionários, com nomes e perfis. De acordo com o Código de Ética Profissional do Psicólogo, ao informar resultados decorrentes da prestação de serviços, o psicólogo deve",
+    "alternativas": [
+      "divulgar integralmente os resultados, pois a empresa é a contratante do serviço.",
+      "divulgar os resultados apenas se a empresa assinar termo de responsabilidade pelo sigilo.",
+      "transmitir, a quem de direito, somente o que for necessário para a tomada de decisões que afetem o usuário ou beneficiário.",
+      "recusar-se a informar qualquer resultado à empresa, mesmo o estritamente necessário.",
+      "divulgar os resultados, desde que omita apenas o diagnóstico clínico."
+    ],
+    "gabarito": 2,
+    "comentario": "Art. 1º, 'g', do Código de Ética Profissional do Psicólogo (Res. CFP 10/2005): o psicólogo informa, a quem de direito, os resultados, transmitindo somente o necessário para a tomada de decisões que afetem o usuário. Além disso, o art. 2º, 'q', veda apresentar resultados de forma a expor pessoas. Não há dever de divulgação integral, nem vedação absoluta de comunicar o necessário a quem de direito.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-codigo-etica-006",
+    "disciplina": "legislacao",
+    "assunto": "leg-codigo-etica",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2012/07/codigo-de-etica-psicologia.pdf"
+    },
+    "enunciado": "Uma psicóloga clínica passou a fazer atendimentos semanais de um paciente e, simultaneamente, iniciou relação comercial com ele, tornando-se sócia em um empreendimento do paciente. Considerando o Código de Ética Profissional do Psicólogo, essa conduta",
+    "alternativas": [
+      "é permitida, desde que a sociedade seja formalizada por contrato escrito.",
+      "é permitida, desde que a psicóloga reduza os honorários das sessões.",
+      "só é vedada se a relação envolver familiares do paciente.",
+      "é vedada, pois o psicólogo não pode estabelecer com a pessoa atendida, familiar ou terceiro vinculado ao atendido relação que possa interferir negativamente nos objetivos do serviço prestado.",
+      "é vedada apenas se o paciente for criança ou adolescente."
+    ],
+    "gabarito": 3,
+    "comentario": "Art. 2º, 'j', do Código de Ética Profissional do Psicólogo (Res. CFP 10/2005): é vedado ao psicólogo estabelecer com a pessoa atendida, familiar ou terceiro que tenha vínculo com o atendido, relação que possa interferir negativamente nos objetivos do serviço. Formalização contratual ou desconto não afastam a vedação, que não se limita a familiares nem a menores.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-codigo-etica-007",
+    "disciplina": "legislacao",
+    "assunto": "leg-codigo-etica",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2012/07/codigo-de-etica-psicologia.pdf"
+    },
+    "enunciado": "Considere as condutas abaixo.\nI. Receber de um colega porcentagem pelo encaminhamento de pacientes.\nII. Atuar como perito em processo judicial envolvendo pessoa com quem mantém vínculo pessoal que possa afetar a fidelidade aos resultados da avaliação.\nIII. Desviar para o consultório particular, visando benefício próprio, pessoas atendidas na instituição pública em que trabalha.\nÀ luz do Código de Ética Profissional do Psicólogo, é vedado o que se descreve em",
+    "alternativas": [
+      "I, apenas.",
+      "I e II, apenas.",
+      "I e III, apenas.",
+      "II e III, apenas.",
+      "I, II e III."
+    ],
+    "gabarito": 4,
+    "comentario": "Todas são vedadas pelo art. 2º do Código de Ética Profissional do Psicólogo (Res. CFP 10/2005): I – alínea 'p' (receber ou pagar remuneração ou porcentagem por encaminhamento); II – alínea 'k' (ser perito, avaliador ou parecerista quando vínculos pessoais ou profissionais possam afetar o trabalho); III – alínea 'l' (desviar para serviço particular pessoas atendidas por instituição com a qual mantenha vínculo).",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-codigo-etica-008",
+    "disciplina": "legislacao",
+    "assunto": "leg-codigo-etica",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2012/07/codigo-de-etica-psicologia.pdf"
+    },
+    "enunciado": "Determinado psicólogo apresentou, em programa de televisão, a análise do 'perfil psicológico' de uma celebridade envolvida em escândalo, afirmando que ela apresentava traços de transtorno de personalidade. Segundo o Código de Ética Profissional do Psicólogo, a conduta",
+    "alternativas": [
+      "é permitida, pois se trata de pessoa pública, cuja intimidade tem proteção reduzida.",
+      "é permitida, desde que o psicólogo informe seu nome completo e número de registro no CRP.",
+      "é vedada, pois o psicólogo não pode realizar diagnósticos, divulgar procedimentos ou apresentar resultados de serviços psicológicos em meios de comunicação de forma a expor pessoas.",
+      "só seria vedada se o psicólogo tivesse atendido a celebridade anteriormente.",
+      "é permitida, desde que se baseie em instrumentos com parecer favorável no SATEPSI."
+    ],
+    "gabarito": 2,
+    "comentario": "Art. 2º, 'q', do Código de Ética Profissional do Psicólogo (Res. CFP 10/2005): é vedado realizar diagnósticos, divulgar procedimentos ou apresentar resultados de serviços psicológicos em meios de comunicação de forma a expor pessoas, grupos ou organizações. O art. 19 manda que, nos veículos de comunicação, o psicólogo dissemine conhecimento sobre as atribuições e o papel social da profissão. A notoriedade da pessoa ou a identificação do profissional não afastam a vedação.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-codigo-etica-009",
+    "disciplina": "legislacao",
+    "assunto": "leg-codigo-etica",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2012/07/codigo-de-etica-psicologia.pdf"
+    },
+    "enunciado": "De acordo com o Código de Ética Profissional do Psicólogo, ao fixar a remuneração pelo seu trabalho, o psicólogo",
+    "alternativas": [
+      "seguirá obrigatoriamente o valor mínimo da tabela de honorários do Conselho Federal.",
+      "poderá comunicar o valor ao final do trabalho, conforme a quantidade de sessões realizadas.",
+      "estipulará o valor de acordo com as características da atividade e o comunicará ao usuário ou beneficiário antes do início do trabalho.",
+      "poderá diferenciar a qualidade do serviço conforme o valor acordado.",
+      "deverá cobrar valor idêntico de todos os usuários, sendo vedado considerar suas condições."
+    ],
+    "gabarito": 2,
+    "comentario": "Art. 4º do Código de Ética Profissional do Psicólogo (Res. CFP 10/2005): o psicólogo levará em conta a justa retribuição e as condições do usuário (a), estipulará o valor conforme as características da atividade e o comunicará ANTES do início do trabalho (b) e assegurará a qualidade independentemente do valor (c). O Código não impõe tabela obrigatória.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-codigo-etica-010",
+    "disciplina": "legislacao",
+    "assunto": "leg-codigo-etica",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2012/07/codigo-de-etica-psicologia.pdf"
+    },
+    "enunciado": "Os psicólogos de um hospital público decidiram aderir a uma greve da categoria. Segundo o Código de Ética Profissional do Psicólogo, o psicólogo que participa de greves ou paralisações deve garantir que",
+    "alternativas": [
+      "todos os atendimentos sejam mantidos, pois é vedada a participação de psicólogos em greves.",
+      "a paralisação seja previamente autorizada pelo Conselho Regional de Psicologia.",
+      "os atendimentos interrompidos sejam integralmente repostos sem cobrança adicional, dispensada comunicação prévia.",
+      "apenas os atendimentos a crianças e adolescentes sejam mantidos.",
+      "as atividades de emergência não sejam interrompidas e haja prévia comunicação da paralisação aos usuários ou beneficiários dos serviços atingidos."
+    ],
+    "gabarito": 4,
+    "comentario": "Art. 5º do Código de Ética Profissional do Psicólogo (Res. CFP 10/2005): o psicólogo, ao participar de greves ou paralisações, garantirá que as atividades de emergência não sejam interrompidas (a) e que haja prévia comunicação da paralisação aos usuários atingidos (b). O Código não proíbe a greve nem exige autorização do Conselho.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-codigo-etica-011",
+    "disciplina": "legislacao",
+    "assunto": "leg-codigo-etica",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2012/07/codigo-de-etica-psicologia.pdf"
+    },
+    "enunciado": "Um psicólogo integrante de equipe de saúde é questionado por um médico sobre o conteúdo das sessões de um paciente em comum. À luz do Código de Ética Profissional do Psicólogo, no relacionamento com profissionais não psicólogos, ele",
+    "alternativas": [
+      "deverá recusar qualquer informação, pois o sigilo profissional impede o compartilhamento com outras categorias.",
+      "deverá repassar todo o conteúdo das sessões, já que o médico também está sujeito a sigilo.",
+      "poderá compartilhar informações apenas mediante ordem judicial.",
+      "compartilhará as informações livremente, desde que o paciente não tenha se oposto expressamente.",
+      "compartilhará somente informações relevantes para qualificar o serviço prestado, resguardando o caráter confidencial das comunicações e assinalando a responsabilidade de quem as receber de preservar o sigilo."
+    ],
+    "gabarito": 4,
+    "comentario": "Art. 6º, 'b', do Código de Ética Profissional do Psicólogo (Res. CFP 10/2005): o psicólogo compartilhará somente informações relevantes para qualificar o serviço, resguardando a confidencialidade e assinalando a responsabilidade de quem as receber de preservar o sigilo. No mesmo sentido, o art. 12 manda registrar, nos documentos da equipe multiprofissional, apenas as informações necessárias aos objetivos do trabalho.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-codigo-etica-012",
+    "disciplina": "legislacao",
+    "assunto": "leg-codigo-etica",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2012/07/codigo-de-etica-psicologia.pdf"
+    },
+    "enunciado": "Segundo o Código de Ética Profissional do Psicólogo, o psicólogo poderá intervir na prestação de serviços psicológicos que estejam sendo efetuados por outro profissional nas seguintes situações, EXCETO",
+    "alternativas": [
+      "quando discordar da abordagem teórica adotada pelo colega e entender que a sua seria mais eficaz.",
+      "a pedido do profissional responsável pelo serviço.",
+      "em caso de emergência ou risco ao beneficiário ou usuário do serviço, quando dará imediata ciência ao profissional.",
+      "quando informado expressamente, por qualquer das partes, da interrupção voluntária e definitiva do serviço.",
+      "quando se tratar de trabalho multiprofissional e a intervenção fizer parte da metodologia adotada."
+    ],
+    "gabarito": 0,
+    "comentario": "Art. 7º do Código de Ética Profissional do Psicólogo (Res. CFP 10/2005): a intervenção é admitida a pedido do responsável (a), em emergência ou risco, com imediata ciência ao profissional (b), quando informada a interrupção voluntária e definitiva do serviço (c) e no trabalho multiprofissional cuja metodologia a preveja (d). Discordância teórica não é hipótese prevista; o art. 1º, 'j', ainda exige respeito ao trabalho dos colegas.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-codigo-etica-013",
+    "disciplina": "legislacao",
+    "assunto": "leg-codigo-etica",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2012/07/codigo-de-etica-psicologia.pdf"
+    },
+    "enunciado": "Uma adolescente de 15 anos procura sozinha um psicólogo para iniciar acompanhamento regular. De acordo com o art. 8º do Código de Ética Profissional do Psicólogo, para realizar atendimento não eventual de criança, adolescente ou interdito, o psicólogo deverá",
+    "alternativas": [
+      "obter autorização de ao menos um de seus responsáveis, observadas as determinações da legislação vigente.",
+      "obter autorização de ambos os responsáveis legais, por escrito e com firma reconhecida.",
+      "obter autorização judicial, salvo se o adolescente tiver mais de 16 anos.",
+      "dispensar qualquer autorização, já que o adolescente pode consentir sozinho a partir dos 12 anos.",
+      "obter autorização do Conselho Tutelar sempre que os responsáveis não comparecerem à primeira sessão."
+    ],
+    "gabarito": 0,
+    "comentario": "Art. 8º do Código de Ética Profissional do Psicólogo (Res. CFP 10/2005): para atendimento não eventual de criança, adolescente ou interdito, exige-se autorização de AO MENOS UM dos responsáveis. Se não se apresentar responsável legal, o atendimento deve ser efetuado e comunicado às autoridades competentes (§ 1º). A Res. CFP 13/2022 (art. 12, I) exige que, na psicoterapia, essa autorização seja escrita.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-codigo-etica-014",
+    "disciplina": "legislacao",
+    "assunto": "leg-codigo-etica",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2012/07/codigo-de-etica-psicologia.pdf"
+    },
+    "enunciado": "Durante o atendimento de uma criança cujos responsáveis legais não se apresentaram, o psicólogo identifica a necessidade de continuidade do acompanhamento. Segundo o Código de Ética Profissional do Psicólogo, nesse caso,",
+    "alternativas": [
+      "o atendimento deverá ser imediatamente interrompido até que um responsável legal o autorize.",
+      "o atendimento poderá ser realizado apenas de forma eventual, vedado o acompanhamento regular.",
+      "o psicólogo deverá solicitar autorização prévia ao Conselho Regional de Psicologia.",
+      "o atendimento deverá ser efetuado e comunicado às autoridades competentes, responsabilizando-se o psicólogo pelos encaminhamentos necessários para garantir a proteção integral do atendido.",
+      "o atendimento poderá ser efetuado sem qualquer comunicação, em respeito ao sigilo profissional."
+    ],
+    "gabarito": 3,
+    "comentario": "Art. 8º, §§ 1º e 2º, do Código de Ética Profissional do Psicólogo (Res. CFP 10/2005): não se apresentando responsável legal, o atendimento deverá ser efetuado e comunicado às autoridades competentes, e o psicólogo se responsabiliza pelos encaminhamentos necessários à proteção integral do atendido. Não há interrupção obrigatória, autorização do CRP ou dispensa de comunicação.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-codigo-etica-015",
+    "disciplina": "legislacao",
+    "assunto": "leg-codigo-etica",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2012/07/codigo-de-etica-psicologia.pdf"
+    },
+    "enunciado": "Sobre o sigilo profissional, o Código de Ética Profissional do Psicólogo estabelece que, nas situações em que se configure conflito entre o dever de sigilo e as afirmações dos princípios fundamentais do Código, excetuando-se os casos previstos em lei, o psicólogo",
+    "alternativas": [
+      "deverá manter o sigilo de forma absoluta, pois este não admite exceções no Código.",
+      "poderá decidir pela quebra de sigilo, baseando sua decisão na busca do menor prejuízo e restringindo-se a prestar as informações estritamente necessárias.",
+      "deverá consultar previamente o Conselho Regional, único competente para autorizar a quebra.",
+      "poderá decidir pela quebra de sigilo, devendo então revelar integralmente o conteúdo dos atendimentos para evitar interpretações equivocadas.",
+      "deverá quebrar o sigilo sempre que solicitado por autoridade policial."
+    ],
+    "gabarito": 1,
+    "comentario": "Art. 10 e parágrafo único do Código de Ética Profissional do Psicólogo (Res. CFP 10/2005): havendo conflito entre o sigilo (art. 9º) e os princípios fundamentais, o psicólogo PODERÁ decidir pela quebra, baseando-se na busca do menor prejuízo, e deve restringir-se às informações estritamente necessárias. O Código não exige autorização prévia do CRP nem impõe revelação integral.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-codigo-etica-016",
+    "disciplina": "legislacao",
+    "assunto": "leg-codigo-etica",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2012/07/codigo-de-etica-psicologia.pdf"
+    },
+    "enunciado": "Um psicólogo foi intimado a depor em juízo sobre fatos relacionados a um paciente que atendeu. De acordo com o Código de Ética Profissional do Psicólogo,",
+    "alternativas": [
+      "o psicólogo está proibido de depor em juízo sobre qualquer fato relacionado a seus atendimentos.",
+      "quando requisitado a depor em juízo, o psicólogo poderá prestar informações, considerando o previsto no Código.",
+      "o psicólogo deve entregar ao juízo o prontuário completo, independentemente de sua relevância.",
+      "o depoimento depende de prévia autorização do Conselho Federal de Psicologia.",
+      "o psicólogo deve depor como perito, ainda que tenha sido o terapeuta da parte."
+    ],
+    "gabarito": 1,
+    "comentario": "Art. 11 do Código de Ética Profissional do Psicólogo (Res. CFP 10/2005): quando requisitado a depor em juízo, o psicólogo PODERÁ prestar informações, considerando o previsto no Código (sigilo, menor prejuízo, informações estritamente necessárias — arts. 9º e 10). Não há proibição absoluta nem obrigação de entregar todo o prontuário; e atuar como perito de pessoa atendida é vedado (art. 2º, 'k'; Res. CFP 13/2022, art. 6º).",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-codigo-etica-017",
+    "disciplina": "legislacao",
+    "assunto": "leg-codigo-etica",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2012/07/codigo-de-etica-psicologia.pdf"
+    },
+    "enunciado": "No atendimento de um adolescente, os pais pedem ao psicólogo um relato detalhado de tudo o que o filho diz nas sessões. À luz do Código de Ética Profissional do Psicólogo, deve ser comunicado aos responsáveis",
+    "alternativas": [
+      "o estritamente essencial para se promoverem medidas em benefício do atendido.",
+      "todo o conteúdo das sessões, pois os responsáveis respondem civilmente pelo adolescente.",
+      "nada, pois o sigilo em relação aos responsáveis é absoluto no atendimento de adolescentes.",
+      "apenas as informações que o adolescente autorizar por escrito, ainda que haja risco à sua integridade.",
+      "o conteúdo das sessões, desde que os responsáveis assinem termo de sigilo."
+    ],
+    "gabarito": 0,
+    "comentario": "Art. 13 do Código de Ética Profissional do Psicólogo (Res. CFP 10/2005): no atendimento à criança, ao adolescente ou ao interdito, deve ser comunicado aos responsáveis o estritamente essencial para se promoverem medidas em seu benefício. Não há dever de relato integral nem sigilo absoluto em relação aos responsáveis.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-codigo-etica-018",
+    "disciplina": "legislacao",
+    "assunto": "leg-codigo-etica",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2012/07/codigo-de-etica-psicologia.pdf"
+    },
+    "enunciado": "Um psicólogo pretende gravar em vídeo atendimentos de grupo para fins de supervisão. Segundo o Código de Ética Profissional do Psicólogo, a utilização de quaisquer meios de registro e observação da prática psicológica",
+    "alternativas": [
+      "é vedada em qualquer hipótese, por violar o sigilo profissional.",
+      "obedecerá às normas do Código e à legislação profissional vigente, devendo o usuário ou beneficiário ser informado desde o início.",
+      "independe de informação ao usuário, se o material for usado exclusivamente em supervisão.",
+      "depende apenas de autorização do responsável técnico pela instituição.",
+      "só pode ocorrer em atendimentos individuais, vedada em grupos."
+    ],
+    "gabarito": 1,
+    "comentario": "Art. 14 do Código de Ética Profissional do Psicólogo (Res. CFP 10/2005): a utilização de meios de registro e observação obedece ao Código e à legislação profissional, devendo o usuário ser informado desde o início. A Res. CFP 13/2022 (art. 11) acrescenta que a gravação de sessões de psicoterapia exige consentimento livre, prévio, informado e por escrito.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-codigo-etica-019",
+    "disciplina": "legislacao",
+    "assunto": "leg-codigo-etica",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2012/07/codigo-de-etica-psicologia.pdf"
+    },
+    "enunciado": "A psicóloga responsável pelo serviço de Psicologia de uma empresa foi demitida, e outra profissional será contratada em seu lugar em algumas semanas. De acordo com o Código de Ética Profissional do Psicólogo, a psicóloga demitida deverá",
+    "alternativas": [
+      "entregar os arquivos confidenciais ao setor de recursos humanos da empresa.",
+      "repassar todo o material ao psicólogo que vier a substituí-la ou lacrá-lo para posterior utilização pelo psicólogo substituto.",
+      "destruir imediatamente todo o material, para preservar o sigilo.",
+      "levar consigo os arquivos e mantê-los em seu consultório pelo prazo mínimo de 5 anos.",
+      "entregar os arquivos ao Conselho Regional, que providenciará sua destinação."
+    ],
+    "gabarito": 1,
+    "comentario": "Art. 15, § 1º, do Código de Ética Profissional do Psicólogo (Res. CFP 10/2005): em caso de demissão ou exoneração, o psicólogo deve repassar todo o material ao psicólogo substituto ou lacrá-lo para posterior utilização por este. A comunicação ao CRP, que providenciará a destinação dos arquivos, é a regra para a EXTINÇÃO do serviço de Psicologia (§ 2º).",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-codigo-etica-020",
+    "disciplina": "legislacao",
+    "assunto": "leg-codigo-etica",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2012/07/codigo-de-etica-psicologia.pdf"
+    },
+    "enunciado": "Uma clínica-escola de Psicologia será fechada definitivamente, encerrando o serviço de Psicologia. Conforme o Código de Ética Profissional do Psicólogo, o psicólogo responsável",
+    "alternativas": [
+      "deverá incinerar os arquivos confidenciais após 30 dias do encerramento.",
+      "entregará os arquivos à mantenedora da instituição de ensino, que se tornará responsável pelo sigilo.",
+      "informará ao Conselho Regional de Psicologia, que providenciará a destinação dos arquivos confidenciais.",
+      "devolverá cada prontuário ao respectivo usuário, extinguindo-se o dever de guarda.",
+      "informará ao Conselho Federal de Psicologia, que arquivará os documentos em sua sede."
+    ],
+    "gabarito": 2,
+    "comentario": "Art. 15, § 2º, do Código de Ética Profissional do Psicólogo (Res. CFP 10/2005): em caso de extinção do serviço de Psicologia, o psicólogo responsável informará ao Conselho Regional de Psicologia, que providenciará a destinação dos arquivos confidenciais. O caput impõe ao psicólogo zelar pelo destino desses arquivos em qualquer interrupção do trabalho.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-codigo-etica-021",
+    "disciplina": "legislacao",
+    "assunto": "leg-codigo-etica",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2012/07/codigo-de-etica-psicologia.pdf"
+    },
+    "enunciado": "Um grupo de psicólogos conduz pesquisa sobre estratégias de enfrentamento em comunidades atingidas por enchentes. De acordo com o Código de Ética Profissional do Psicólogo, na realização de estudos e pesquisas o psicólogo",
+    "alternativas": [
+      "garantirá o anonimato das pessoas, grupos ou organizações, salvo interesse manifesto destes, e o acesso dos participantes aos resultados após o encerramento, sempre que assim desejarem.",
+      "poderá dispensar o consentimento livre e esclarecido sempre que a pesquisa for de interesse público.",
+      "deverá divulgar a identidade dos participantes, para garantir a transparência científica.",
+      "só poderá dar acesso aos resultados aos participantes depois da publicação em periódico científico.",
+      "dispensará a avaliação de riscos quando os procedimentos forem apenas entrevistas."
+    ],
+    "gabarito": 0,
+    "comentario": "Art. 16 do Código de Ética Profissional do Psicólogo (Res. CFP 10/2005): o psicólogo avaliará os riscos dos procedimentos e da divulgação (a); garantirá a participação voluntária mediante consentimento livre e esclarecido, salvo situações previstas em legislação específica (b); garantirá o anonimato, salvo interesse manifesto dos envolvidos (c); e garantirá acesso aos resultados após o encerramento, sempre que desejarem (d).",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-codigo-etica-022",
+    "disciplina": "legislacao",
+    "assunto": "leg-codigo-etica",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2012/07/codigo-de-etica-psicologia.pdf"
+    },
+    "enunciado": "Considere as afirmativas sobre a promoção pública de serviços pelo psicólogo, à luz do art. 20 do Código de Ética Profissional do Psicólogo.\nI. O psicólogo informará seu nome completo, o CRP e seu número de registro.\nII. O psicólogo poderá utilizar o preço do serviço como forma de propaganda, desde que o valor seja compatível com a tabela de referência.\nIII. O psicólogo não fará previsão taxativa de resultados nem divulgação sensacionalista das atividades profissionais.\nEstá correto o que se afirma em",
+    "alternativas": [
+      "I, apenas.",
+      "II, apenas.",
+      "I e III, apenas.",
+      "II e III, apenas.",
+      "I, II e III."
+    ],
+    "gabarito": 2,
+    "comentario": "I e III estão corretas (art. 20, 'a', 'e' e 'h', do Código de Ética Profissional do Psicólogo (Res. CFP 10/2005)). II está errada: o art. 20, 'd', determina que o psicólogo NÃO utilizará o preço do serviço como forma de propaganda, sem exceção.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-codigo-etica-023",
+    "disciplina": "legislacao",
+    "assunto": "leg-codigo-etica",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2012/07/codigo-de-etica-psicologia.pdf"
+    },
+    "enunciado": "O art. 18 do Código de Ética Profissional do Psicólogo estabelece que o psicólogo não divulgará, ensinará, cederá, emprestará ou venderá a leigos instrumentos e técnicas psicológicas que permitam ou facilitem o exercício ilegal da profissão. Já o art. 17 determina que caberá aos psicólogos docentes ou supervisores",
+    "alternativas": [
+      "aplicar diretamente aos estagiários as penalidades previstas no Código.",
+      "comunicar ao Conselho Regional toda falta ética de estudante, que será processado como psicólogo.",
+      "ensinar aos estudantes apenas as técnicas não privativas da profissão.",
+      "esclarecer, informar, orientar e exigir dos estudantes a observância dos princípios e normas contidas no Código.",
+      "assinar os documentos psicológicos produzidos pelos estudantes sem necessidade de supervisão."
+    ],
+    "gabarito": 3,
+    "comentario": "Art. 17 do Código de Ética Profissional do Psicólogo (Res. CFP 10/2005): cabe aos docentes ou supervisores esclarecer, informar, orientar e exigir dos estudantes a observância dos princípios e normas do Código. Estudantes não são inscritos nem processados pelo Conselho como psicólogos, e a aplicação de penalidades compete aos Conselhos, não ao supervisor.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-codigo-etica-024",
+    "disciplina": "legislacao",
+    "assunto": "leg-codigo-etica",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2012/07/codigo-de-etica-psicologia.pdf"
+    },
+    "enunciado": "Segundo o Código de Ética Profissional do Psicólogo, as transgressões de seus preceitos constituem infração disciplinar, com aplicação, na forma dos dispositivos legais ou regimentais, das penalidades de",
+    "alternativas": [
+      "advertência; multa; censura reservada; suspensão do exercício profissional por até 90 dias; e cassação, ad referendum do CRP.",
+      "advertência; censura pública; suspensão do exercício profissional por até 30 dias; e cassação, sem previsão de multa.",
+      "advertência; multa; censura pública; suspensão do exercício profissional por até 60 dias, ad referendum do CFP; e cassação definitiva, sem possibilidade de reabilitação.",
+      "orientação; advertência; multa; suspensão do exercício profissional por até 30 dias; e cancelamento da inscrição a pedido do CRP.",
+      "advertência; multa; censura pública; suspensão do exercício profissional por até 30 dias, ad referendum do CFP; e cassação do exercício profissional, ad referendum do CFP."
+    ],
+    "gabarito": 4,
+    "comentario": "Art. 21 do Código de Ética Profissional do Psicólogo (Res. CFP 10/2005): as penalidades são advertência, multa, censura pública, suspensão do exercício profissional por até 30 dias ad referendum do CFP e cassação ad referendum do CFP. A Lei 5.766/71 (art. 27) traz rol equivalente. O CPD admite reabilitação após a cassação (Res. CFP 11/2019, arts. 150 e 151).",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-codigo-etica-025",
+    "disciplina": "legislacao",
+    "assunto": "leg-codigo-etica",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2012/07/codigo-de-etica-psicologia.pdf"
+    },
+    "enunciado": "De acordo com as disposições gerais do Código de Ética Profissional do Psicólogo, as dúvidas na observância do Código e os casos omissos serão resolvidos",
+    "alternativas": [
+      "exclusivamente pelo Conselho Federal de Psicologia, sem participação dos Regionais.",
+      "pelos Conselhos Regionais, em caráter definitivo, sem possibilidade de revisão pelo CFP.",
+      "pela Assembleia das Políticas, da Administração e das Finanças, ouvidos os Regionais.",
+      "pelos Conselhos Regionais de Psicologia, ad referendum do Conselho Federal de Psicologia, competindo ao CFP firmar jurisprudência quanto aos casos omissos e fazê-la incorporar ao Código.",
+      "pelo Congresso Nacional da Psicologia, em sua reunião trienal."
+    ],
+    "gabarito": 3,
+    "comentario": "Arts. 22 e 23 do Código de Ética Profissional do Psicólogo (Res. CFP 10/2005): as dúvidas e os casos omissos são resolvidos pelos Conselhos Regionais, ad referendum do CFP, e compete ao CFP firmar jurisprudência quanto aos casos omissos e incorporá-la ao Código. Pelo art. 24, o Código pode ser alterado pelo CFP, por iniciativa própria ou da categoria, ouvidos os Regionais.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-codigo-etica-026",
+    "disciplina": "legislacao",
+    "assunto": "leg-codigo-etica",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2012/07/codigo-de-etica-psicologia.pdf"
+    },
+    "enunciado": "Um psicólogo é convidado a trabalhar em instituição cujas práticas internas incluem a utilização de testes psicológicos para excluir candidatos com base em sua orientação sexual. À luz do Código de Ética Profissional do Psicólogo, é correto afirmar que",
+    "alternativas": [
+      "o psicólogo deve considerar a compatibilidade da missão, das políticas e das práticas da organização com o Código e, existindo incompatibilidade, cabe-lhe recusar-se a prestar serviços e, se pertinente, apresentar denúncia ao órgão competente.",
+      "o psicólogo pode aceitar o trabalho, já que a responsabilidade pelas práticas institucionais é exclusiva da organização.",
+      "o psicólogo pode aceitar o trabalho, desde que não aplique pessoalmente os testes.",
+      "o psicólogo deve aceitar o trabalho e tentar mudar as práticas internamente, sendo vedada a denúncia a órgãos externos.",
+      "o psicólogo só poderá recusar o trabalho mediante autorização do Conselho Regional."
+    ],
+    "gabarito": 0,
+    "comentario": "Art. 3º e parágrafo único do Código de Ética Profissional do Psicólogo (Res. CFP 10/2005): para ingressar, associar-se ou permanecer em organização, o psicólogo considera sua missão, filosofia, políticas, normas e práticas e sua compatibilidade com o Código; havendo incompatibilidade, cabe-lhe recusar-se a prestar serviços e, se pertinente, denunciar. A prática descrita também afronta o art. 2º, 'a' e 'b' (vedações de discriminação e de indução por orientação sexual).",
+    "dificuldade": 3,
+    "anulada": false
+  }
+]

@@ -1,0 +1,145 @@
+{
+ "41": {
+  "pular": "fora do conteúdo de Psicologia (legislação municipal do MACAEPREV)"
+ },
+ "42": {
+  "pular": "fora do conteúdo de Psicologia (legislação municipal previdenciária)"
+ },
+ "43": {
+  "pular": "fora do conteúdo de Psicologia (legislação municipal do MACAEPREV)"
+ },
+ "44": {
+  "pular": "fora do conteúdo de Psicologia (legislação municipal previdenciária)"
+ },
+ "45": {
+  "pular": "fora do conteúdo de Psicologia (legislação municipal de pessoal)"
+ },
+ "46": {
+  "assunto": "esp-fundamentos",
+  "dificuldade": 2,
+  "enunciado": "Jorge, 37 anos, trabalha como motorista em uma repartição pública. Jorge teve o carro roubado e foi amarrado e ameaçado de morte sob a mira de armas. Após esse episódio, Jorge não conseguiu retornar ao trabalho e foi diagnosticado com o transtorno de estresse pós-traumático (TEPT).\nSobre os critérios que permitem o diagnóstico desse transtorno, analise as afirmativas a seguir.\nI. Reações fisiológicas intensas a sinais internos ou externos que evoquem algum aspecto do evento traumático.\nII. Esforços persistentes para reviver recordações e pensamentos associados ao evento traumático.\nIII. Sonhos angustiantes recorrentes nos quais o conteúdo e/ou o sentimento do sonho estão relacionados ao evento traumático.\nEstá correto o que se afirma em",
+  "comentario": "No DSM-5, os sintomas intrusivos do TEPT incluem sonhos angustiantes recorrentes relacionados ao trauma (III) e reações fisiológicas intensas a sinais que lembrem o evento (I). A II inverte o critério de evitação: a pessoa faz esforços para evitar recordações, pensamentos e sentimentos associados ao trauma, e não para revivê-los. As lembranças intrusivas são involuntárias, e não buscadas. Por isso a resposta é I e III."
+ },
+ "47": {
+  "assunto": "esp-politicas-publicas",
+  "dificuldade": 1,
+  "enunciado": "Jorge, 37 anos, trabalha como motorista em uma repartição pública. Jorge teve o carro roubado e foi amarrado e ameaçado de morte sob a mira de armas. Após esse episódio, Jorge não conseguiu retornar ao trabalho e foi diagnosticado com o transtorno de estresse pós-traumático (TEPT).\nConsiderando a nova lógica assistencial em saúde mental e a Rede de Atendimento Psicossocial (RAPS), Jorge poderá fazer seu acompanhamento",
+  "comentario": "Na lógica da Reforma Psiquiátrica (Lei 10.216/2001) e da RAPS, o cuidado é comunitário e territorial, e o CAPS de referência do território é o serviço indicado para acompanhar um transtorno mental grave e persistente como o TEPT incapacitante de Jorge. A internação psiquiátrica (A) é excepcional, e a comunidade terapêutica (B) se destina a pessoas com necessidades ligadas ao uso de álcool e outras drogas, assim como o CAPS AD (E). O serviço residencial terapêutico (D) acolhe egressos de longas internações sem suporte familiar."
+ },
+ "48": {
+  "assunto": "esp-trabalho",
+  "dificuldade": 2,
+  "comentario": "A lista de doenças relacionadas ao trabalho atualizada pelo Ministério da Saúde em 2023 associa os transtornos mentais e comportamentais devidos ao uso de álcool a fatores de risco psicossociais da organização do trabalho, entre eles a deficiência nas interações e no suporte no trabalho em equipe, como diz a E. A LER/DORT (A) é um agravo, não um fator de risco psicossocial. Avaliações de desempenho, trabalho diurno em turno fixo e uso obrigatório de EPI não aparecem como fatores de risco para o uso de álcool."
+ },
+ "49": {
+  "assunto": "leg-res31-2022",
+  "dificuldade": 1,
+  "comentario": "Pela Res. CFP 31/2022, só podem ser usados como fonte fundamental de informação na avaliação psicológica os testes com parecer favorável no SATEPSI, e testes desfavoráveis ou não avaliados não devem ser utilizados. Por isso a D está correta e a E errada. Nenhuma norma obriga o uso de testes projetivos (A) ou de determinados construtos (B), e a escolha dos instrumentos depende do perfil do cargo e dos objetivos da seleção. A entrevista devolutiva comunica resultados, não é fonte de informação para a avaliação (C)."
+ },
+ "50": {
+  "assunto": "esp-direitos-humanos",
+  "dificuldade": 1,
+  "comentario": "O etarismo (ou idadismo) é o preconceito e a discriminação baseados na idade, uma barreira atitudinal que pode isolar Márcio numa equipe bem mais jovem. Capacitismo é a discriminação contra pessoas com deficiência, e misoginia é a aversão às mulheres. A acessibilidade não é uma barreira, e sim o que as elimina. A exclusão digital é uma barreira tecnológica, não atitudinal, e não pode ser presumida pela idade."
+ },
+ "51": {
+  "assunto": "esp-praticas",
+  "dificuldade": 1,
+  "comentario": "Na intervenção em crise e nos primeiros cuidados psicológicos em emergências e desastres, a escuta ativa é técnica central: acolher, permitir que a pessoa narre sua experiência no seu ritmo e validar suas reações. Entrevistas estruturadas (A) são rígidas e próprias da avaliação. O condicionamento operante (B) é técnica comportamental de modelagem, e estimular a evitação das lembranças (C) pode cronificar o sofrimento. A atenção flutuante (D) pertence ao setting psicanalítico, não a uma intervenção breve e focal."
+ },
+ "52": {
+  "assunto": "leg-idoso-pcd",
+  "dificuldade": 1,
+  "comentario": "A negligência contra a pessoa idosa é a recusa ou omissão de cuidados necessários por parte de quem tem o dever de prestá-los, como saúde, higiene e alimentação, e por isso a D está correta. As agressões ou ameaças à integridade física (A) são violência física, o uso não consentido de recursos (B) é violência financeira/patrimonial e a intolerância com as perdas cognitivas (C) se aproxima da violência psicológica. A prioridade de atendimento (E) é um direito, não uma violência."
+ },
+ "53": {
+  "assunto": "esp-trabalho",
+  "dificuldade": 1,
+  "comentario": "Na pirâmide de Maslow, as necessidades vão da base ao topo: fisiológicas, segurança, sociais (afeto e pertencimento), estima e, no topo, autorrealização, que é desenvolver plenamente o próprio potencial. A lógica é que as necessidades mais básicas tendem a ser satisfeitas antes que as superiores motivem o comportamento. As fisiológicas estão na base, não no topo."
+ },
+ "54": {
+  "assunto": "esp-praticas",
+  "dificuldade": 1,
+  "comentario": "Nos grupos de autoajuda como o AA, compartilhar o problema com pares que vivem a mesma situação é um fator terapêutico central (universalidade, identificação, apoio mútuo), e por isso a D está correta. O AA atende quem já tem problema com o álcool, então não faz prevenção primária (A). A codependência é o padrão relacional de familiares em torno do dependente, não o uso combinado de drogas (B). A tolerância leva a doses cada vez maiores, não menores (C), e o CREAS é um serviço da assistência social, não da saúde (E)."
+ },
+ "55": {
+  "assunto": "esp-direitos-humanos",
+  "dificuldade": 2,
+  "comentario": "A Lei Maria da Penha define a violência psicológica como conduta que cause dano emocional ou que vise controlar ações, comportamentos e decisões da mulher, e o texto do artigo menciona expressamente a vigilância constante e a perseguição contumaz. O stalking, tipificado no Código Penal pela Lei 14.132/2021, enquadra-se portanto como violência psicológica. A violência moral corresponde a calúnia, difamação e injúria, e as formas física, sexual e patrimonial não descrevem a perseguição em si."
+ },
+ "56": {
+  "assunto": "esp-politicas-publicas",
+  "dificuldade": 1,
+  "comentario": "As três afirmativas estão corretas. A RAPS (Portaria 3.088/2011) é um conjunto integrado e articulado de pontos de atenção para pessoas em sofrimento psíquico e com necessidades decorrentes do uso de álcool e outras drogas (I). Ela depende de ações intersetoriais para garantir a integralidade do cuidado (II). Como política do SUS, envolve as três esferas de governo, União, estados e municípios, na sua gestão e financiamento (III)."
+ },
+ "57": {
+  "assunto": "esp-praticas",
+  "dificuldade": 1,
+  "comentario": "A interdisciplinaridade se caracteriza pela intensidade das trocas entre especialistas e pelo grau de integração real das disciplinas num mesmo projeto, definição clássica de Hilton Japiassu. Na multidisciplinaridade e na pluridisciplinaridade, as disciplinas atuam lado a lado, com pouca ou nenhuma integração. A intersetorialidade articula setores de política pública (saúde, educação, assistência), não disciplinas, e a transversalidade se refere a temas ou eixos que atravessam diferentes áreas."
+ },
+ "58": {
+  "assunto": "esp-fundamentos",
+  "dificuldade": 2,
+  "comentario": "O transtorno dismórfico corporal (DSM-5, no grupo do transtorno obsessivo-compulsivo e transtornos relacionados) consiste na preocupação com defeitos percebidos na aparência, imperceptíveis ou mínimos para os outros, acompanhada de comportamentos repetitivos em resposta a ela, com sofrimento significativo. É o quadro de Clara, com pensamentos obsessivos sobre as coxas e os braços e ações compulsivas para 'corrigi-los'. Bulimia e compulsão alimentar envolvem episódios de compulsão alimentar, ausentes no caso. 'Neurose histérica' é nosografia antiga, e o TAG é marcado por preocupação difusa com vários temas."
+ },
+ "59": {
+  "assunto": "esp-fundamentos",
+  "dificuldade": 1,
+  "comentario": "O experimento do 'pequeno Albert' (1920) foi conduzido por John B. Watson, fundador do behaviorismo, com Rosalie Rayner. Eles parearam um rato branco a um ruído alto e assustador e mostraram o condicionamento respondente (clássico) do medo e sua generalização para estímulos semelhantes. Bandura é da aprendizagem social, Adler da psicologia individual, Horney da psicanálise culturalista e Beck da terapia cognitiva."
+ },
+ "60": {
+  "assunto": "esp-direitos-humanos",
+  "dificuldade": 1,
+  "comentario": "O educador se omitiu diante do pedido de proteção e humilhou publicamente o adolescente. Essas condutas causam dano emocional e configuram violência psicológica, que inclui humilhação, desqualificação e exposição vexatória. Não houve contato sexual nem agressão ao corpo, o que afasta as alternativas A, B e C. 'Exploração institucional' não é a categoria usada para essa situação."
+ },
+ "61": {
+  "assunto": "esp-fundamentos",
+  "dificuldade": 1,
+  "comentario": "A teoria histórico-cultural de Vygotsky entende que as funções psicológicas superiores se constituem nas relações sociais, mediadas por instrumentos e signos, com papel central da linguagem. Por isso a A está correta. A ênfase em motivações conscientes e inconscientes remete à psicanálise (C), o inatismo/maturacionismo à D e a tábula rasa com condicionamento e reforço ao behaviorismo (E). A B atribui ao desenvolvimento um determinismo de experiências pré-natais estranho a Vygotsky."
+ },
+ "62": {
+  "assunto": "leg-res06-2019",
+  "dificuldade": 1,
+  "comentario": "A Res. CFP 06/2019 reconhece como modalidades de documentos psicológicos a declaração, o atestado psicológico, o relatório (psicológico e multiprofissional), o laudo psicológico e o parecer psicológico. Não existe 'redação psicológica' como modalidade, e por isso a B é a exceção. O relatório multiprofissional (A) é produzido pelo psicólogo junto com outros profissionais da equipe e consta da norma."
+ },
+ "63": {
+  "assunto": "esp-direitos-humanos",
+  "dificuldade": 2,
+  "comentario": "No acolhimento familiar, a criança ou o adolescente fica temporariamente sob cuidados individualizados de uma família cadastrada enquanto se trabalha a reintegração à família de origem, e por isso a A está correta. O ECA dá preferência ao acolhimento familiar sobre o institucional, e a permanência é excepcional e provisória, com prazo máximo legal hoje inferior a 24 meses (B). Família acolhedora não é adoção nem depende de autorização dos pais biológicos (C). O afastamento do convívio familiar é competência da autoridade judiciária, não do Conselho Tutelar (D), e a periodicidade das reavaliações prevista em lei não é a da E."
+ },
+ "64": {
+  "assunto": "esp-fundamentos",
+  "dificuldade": 2,
+  "comentario": "Na teoria de Pichon-Rivière, o porta-voz é o integrante que, em determinado momento, enuncia algo que estava implícito no grupo, as ansiedades e fantasias grupais, tornando-o explícito e permitindo trabalhá-lo a favor da tarefa. Por isso a A está correta. O integrante cuja fala o grupo rejeita se aproxima da figura do bode expiatório (B). A função de problematizar e orientar o grupo para a tarefa é do coordenador (D), e a de registrar e devolver a história do grupo é do observador (E)."
+ },
+ "65": {
+  "assunto": "esp-fundamentos",
+  "dificuldade": 2,
+  "comentario": "Para Jung, os complexos são conjuntos de ideias e imagens com forte carga afetiva, agrupados em torno de um núcleo arquetípico, que funcionam com relativa autonomia na psique (como o complexo materno). Temenos é o espaço protegido, o 'recinto sagrado' do processo analítico. A conjunção dos opostos (coniunctio) é imagem alquímica da integração de opostos na individuação, e a Imago Dei é a imagem de Deus, associada ao arquétipo do Self. Defesas do ego é conceito da psicanálise freudiana."
+ },
+ "66": {
+  "assunto": "esp-politicas-publicas",
+  "dificuldade": 2,
+  "comentario": "A sequência é F–V–V. A reforma psiquiátrica antimanicomial desloca o foco da doença para a existência-sofrimento do sujeito em seu contexto. Por isso ela valoriza as necessidades sociais e de saúde inscritas nas queixas, considerando o território (2ª afirmativa), e os mecanismos sociais, raciais, sexistas e outras formas de exclusão (3ª). A primeira é falsa, pois buscar nexos causais a partir da oposição normal/patológico reproduz a lógica do saber psiquiátrico tradicional que Basaglia criticava.",
+  "enunciado": "Basaglia (1985) destaca que o discurso antipsiquiátrico não se restringe ao campo de ação da Psiquiatria na medida em que ele é antiespecialístico. Com relação às implicações epistêmicas da reforma psiquiátrica antimanicomial para a Psicologia, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.\n( ) Busca de nexos causais para a compreensão do quadro clínico e psicossocial do paciente, baseados nas definições de normal e patológico.\n( ) Enfatiza as necessidades sociais e de saúde que se inscrevem nas queixas dos usuários dos serviços, levando em consideração a sua territorialidade.\n( ) Considera os mecanismos sociais, raciais, sexistas e as diversas formas de exclusão que operam em nossa sociedade.\nAs afirmativas são, respectivamente,"
+ },
+ "67": {
+  "assunto": "esp-politicas-publicas",
+  "dificuldade": 2,
+  "comentario": "O CAPSi é serviço estratégico da RAPS para crianças e adolescentes com sofrimento psíquico grave. Ele presta o cuidado direto e também ordena a rede (função gestora), com atenção territorializada e intersetorial com educação, assistência e justiça, como diz a C. Ele não transfere o manejo das crises à atenção básica responsabilizando as famílias (A). Não usa a institucionalização como gestão da demanda (B) nem visa práticas disciplinares (D), e busca reduzir, e não ampliar, a demanda hospitalar (E)."
+ },
+ "68": {
+  "assunto": "esp-politicas-publicas",
+  "dificuldade": 2,
+  "comentario": "A medicalização transforma questões sociais, políticas e coletivas (pobreza, violência, desigualdade) em problemas individuais de ordem médica ou biológica. Ao fazer isso, desloca para o indivíduo, e para o remédio ou o diagnóstico, aquilo que exigiria enfrentamento das injustiças sociais pelo Estado, como afirma a D. Ela não é objetivo do PTS (A), não fomenta a integralidade (B) e reduz o sujeito ao biológico, ao contrário do que diz a C. A E começa certa (patologização), mas erra ao dizer que isso favorece uma narrativa própria do usuário, pois a medicalização tende a silenciá-la."
+ },
+ "69": {
+  "assunto": "esp-politicas-publicas",
+  "dificuldade": 3,
+  "comentario": "Segundo a banca, só a II está correta: a relação CAPS–ESF, organizada por mecanismos de referência e contrarreferência, permite operacionalizar processos de trabalho voltados ao cuidado compartilhado. A I é falsa porque a mera lógica de encaminhamento tende a fragmentar o cuidado, e é o apoio matricial e a corresponsabilização que fortalecem as redes colaborativas. A III erra porque a atenção básica é porta de entrada preferencial, e não obrigatória, e a articulação busca a corresponsabilização dos serviços, não transferir o cuidado às famílias. Obs.: parte da literatura de saúde mental critica a própria lógica de referência e contrarreferência em favor do matriciamento, o que torna a II discutível, mas o gabarito definitivo a manteve como correta."
+ },
+ "70": {
+  "assunto": "esp-fundamentos",
+  "dificuldade": 1,
+  "comentario": "No DSM-5, a tolerância é definida por necessidade de quantidades progressivamente maiores da substância para obter o efeito desejado, ou por efeito acentuadamente menor com o uso continuado da mesma quantidade. A C descreve exatamente isso. O uso para aliviar ou evitar sintomas (A) relaciona-se à abstinência. O abandono de outras atividades (B), a persistência apesar dos danos (D) e a dificuldade de controle (E) são outros critérios do transtorno por uso de substância, mas não evidenciam tolerância."
+ }
+}

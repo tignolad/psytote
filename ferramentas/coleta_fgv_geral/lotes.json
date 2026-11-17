@@ -1,0 +1,459 @@
+[
+ {
+  "slug": "mprj2025",
+  "orgao": "MP-RJ",
+  "ano": 2025,
+  "cargo": "Analista do Ministério Público – Área Administrativa",
+  "cod": "ana",
+  "gabarq": "gabaritodefinitivo09.09_mprjanalista",
+  "gabre": "Analista do Ministério Público - Área Administrativa - 1 #",
+  "pt": [
+   1,
+   30
+  ],
+  "rlm": [
+   31,
+   40
+  ]
+ },
+ {
+  "slug": "pgmcmrio",
+  "orgao": "PGM-Rio",
+  "ano": 2025,
+  "cargo": "Analista de Procuradoria – Especialidade Administrativa",
+  "cod": "ana",
+  "gabarq": "analista-de-procuradoria-gabarito-definitivo",
+  "gabre": "Especialidade Administrativa - 1 -",
+  "pt": [
+   1,
+   10
+  ],
+  "rlm": [
+   11,
+   15
+  ]
+ },
+ {
+  "slug": "smfrj-apo",
+  "orgao": "SMF-RJ",
+  "ano": 2023,
+  "cargo": "Analista de Planejamento e Orçamento (APO)",
+  "cod": "apo",
+  "gabarq": "smfp-rj-2023-gabarito-definitivo",
+  "gabre": "TIPO  1 - MANHÃ",
+  "pt": [
+   1,
+   15
+  ],
+  "rlm": [
+   56,
+   65
+  ]
+ },
+ {
+  "slug": "smsnovaiguacu",
+  "orgao": "SEMUS-Nova Iguaçu",
+  "ano": 2025,
+  "cargo": "Fiscal Sanitário – Enfermagem",
+  "cod": "fis",
+  "gabarq": "gabarito-definitivo-smsnovaiguacu",
+  "gabre": "Fiscal Sanitário - Enfermagem - Prova Tipo 1",
+  "pt": [
+   1,
+   5
+  ],
+  "rlm": [
+   6,
+   10
+  ]
+ },
+ {
+  "slug": "semefnovaiguacu",
+  "orgao": "SEMEF-Nova Iguaçu",
+  "ano": 2024,
+  "cargo": "Analista Tributário do Tesouro Municipal",
+  "cod": "ana",
+  "gabarq": "gabarito_definitivo_semef",
+  "gabre": "Analista Tributário do Tesouro Municipal - TIPO  1",
+  "pt": [
+   1,
+   8
+  ],
+  "rlm": [
+   9,
+   16
+  ]
+ },
+ {
+  "slug": "prefeiturademacae26",
+  "orgao": "Prefeitura de Macaé",
+  "ano": 2026,
+  "cargo": "Enfermeiro do Trabalho",
+  "cod": "enf",
+  "gabarq": "gabarito-def-completo-prefeitura-de-macae-2",
+  "gabre": "Enfermeiro do Trabalho - 1 - Turno",
+  "pt": [
+   1,
+   15
+  ],
+  "rlm": null
+ },
+ {
+  "slug": "nittrans25",
+  "orgao": "NITTRANS",
+  "ano": 2025,
+  "cargo": "Administrador",
+  "cod": "adm",
+  "gabarq": "gabarito-definitivo-nittrans",
+  "gabre": "Administrador - 1 - Turno Manhã",
+  "pt": [
+   1,
+   8
+  ],
+  "rlm": [
+   23,
+   26
+  ]
+ },
+ {
+  "slug": "aleam25",
+  "orgao": "ALE-AM",
+  "ano": 2025,
+  "cargo": "Analista Legislativo – Psicólogo",
+  "cod": "psi",
+  "gabarq": "gabarito-definitivo-ale-am",
+  "gabre": "Psicológo - 1 - Turno",
+  "pt": [
+   1,
+   15
+  ],
+  "rlm": [
+   16,
+   25
+  ]
+ },
+ {
+  "slug": "dpero25",
+  "orgao": "DPE-RO",
+  "ano": 2025,
+  "cargo": "Analista em Psicologia",
+  "cod": "psi",
+  "gabarq": "gabarito-defintivo-dpe-ro_0",
+  "gabre": "Analista em Psicologia - Classe A - Prova Tipo 1",
+  "pt": [
+   1,
+   15
+  ],
+  "rlm": null
+ },
+ {
+  "slug": "fhemig23",
+  "orgao": "FHEMIG",
+  "ano": 2023,
+  "cargo": "Analista de Gestão e Assistência à Saúde – Psicólogo Clínico",
+  "cod": "psi",
+  "gabarq": "gabarito-definitivo-fhemig-retificado-01.11.2023",
+  "gabre": "AGAS - Psicólogo Clínico - I - TIPO  1",
+  "pt": [
+   1,
+   10
+  ],
+  "rlm": [
+   11,
+   15
+  ]
+ },
+ {
+  "slug": "mpes26",
+  "orgao": "MP-ES",
+  "ano": 2026,
+  "cargo": "Agente Técnico – Psicólogo",
+  "cod": "psi",
+  "gabarq": "gabarito-definitivo-mpes-servidor-31082026",
+  "gabre": "Agente Técnico – Psicólogo - Tipo 1",
+  "pt": [
+   1,
+   10
+  ],
+  "rlm": [
+   11,
+   15
+  ]
+ },
+ {
+  "slug": "mpu2025",
+  "orgao": "MPU",
+  "ano": 2025,
+  "cargo": "Analista do MPU – Psicologia",
+  "cod": "psi",
+  "gabarq": "mpu-gabarito-definitivo",
+  "gabre": "Analista do MPU - Psicologia - 1 #",
+  "pt": [
+   1,
+   15
+  ],
+  "rlm": null
+ },
+ {
+  "slug": "tcepa24",
+  "orgao": "TCE-PA",
+  "ano": 2024,
+  "cargo": "Auditor de Controle Externo – Área Administrativa / Psicologia",
+  "cod": "psi",
+  "gabarq": "tcepa-1108_gabaritos-para-publicacao_definitivo_20240913",
+  "gabre": "Administrativa / Psicologia - TIPO  1",
+  "pt": [
+   1,
+   10
+  ],
+  "rlm": [
+   11,
+   15
+  ]
+ },
+ {
+  "slug": "tjap23",
+  "orgao": "TJ-AP",
+  "ano": 2024,
+  "cargo": "Analista Judiciário – Psicólogo",
+  "cod": "psi",
+  "gabarq": "tjap2024_gabarito_definitivo",
+  "gabre": "Especialidade Psicólogo – TIPO 1",
+  "pt": [
+   1,
+   25
+  ],
+  "rlm": null
+ },
+ {
+  "slug": "tjdft22",
+  "orgao": "TJDFT",
+  "ano": 2022,
+  "cargo": "Analista Judiciário – Psicologia",
+  "cod": "psi",
+  "gabarq": "tjdft2022_gabarito_definitivo",
+  "gabre": "Analista Judiciário - Psicologia – Tipo 1",
+  "pt": [
+   1,
+   10
+  ],
+  "rlm": null
+ },
+ {
+  "slug": "tjrr24",
+  "orgao": "TJ-RR",
+  "ano": 2024,
+  "cargo": "Analista Judiciário – Psicologia",
+  "cod": "psi",
+  "gabarq": "tjrr_gabarito_definitivo_v3",
+  "gabre": "Analista Judiciário - Psicologia - TIPO  1",
+  "pt": [
+   1,
+   16
+  ],
+  "rlm": null
+ },
+ {
+  "slug": "trt24",
+  "orgao": "TRT-24",
+  "ano": 2025,
+  "cargo": "Analista Judiciário – Apoio Especializado – Psicologia",
+  "cod": "psi",
+  "gabarq": "gabaritodefinitivo_trt24-analista",
+  "gabre": "Psicologia - 1 #",
+  "pt": [
+   1,
+   10
+  ],
+  "rlm": [
+   11,
+   15
+  ]
+ },
+ {
+  "slug": "sesmt23",
+  "orgao": "SES-MT",
+  "ano": 2024,
+  "cargo": "Psicólogo – Especialista em Psicomotricidade ou Neuropsicologia",
+  "cod": "psi",
+  "gabarq": "gabarito-definitivo-ses-mt-v2",
+  "gabre": "Psicomotricidade ou Neuropsicologia - TIPO  1",
+  "pt": [
+   1,
+   12
+  ],
+  "rlm": [
+   13,
+   20
+  ]
+ },
+ {
+  "slug": "tcerr24",
+  "orgao": "TCE-RR",
+  "ano": 2025,
+  "cargo": "Analista Administrativo – TI – Banco de Dados",
+  "cod": "ana",
+  "gabarq": "gabarito_definitivo_tcerr_auditor-e-analista_ap01",
+  "gabre": "Banco de Dados - TIPO  1",
+  "pt": [
+   1,
+   10
+  ],
+  "rlm": [
+   11,
+   20
+  ]
+ },
+ {
+  "slug": "alesc24",
+  "orgao": "ALESC",
+  "ano": 2024,
+  "cargo": "Analista Legislativo III – Qualquer Área",
+  "cod": "ana",
+  "gabarq": "alesc2024_gabarito_definitivo",
+  "gabre": "QUALQUER ÁREA - TIPO 1",
+  "pt": [
+   1,
+   20
+  ],
+  "rlm": [
+   21,
+   30
+  ]
+ },
+ {
+  "slug": "trt13",
+  "orgao": "TRT-13",
+  "ano": 2022,
+  "cargo": "Analista Judiciário – Área Judiciária",
+  "cod": "ana",
+  "gabarq": "trtpb2022_gabarito_definitivo_-_atualizado_2023-01-12",
+  "gabre": "Analista Judiciário - Judiciária - TIPO 1",
+  "pt": [
+   1,
+   10
+  ],
+  "rlm": [
+   11,
+   20
+  ]
+ },
+ {
+  "slug": "trt16",
+  "orgao": "TRT-16",
+  "ano": 2022,
+  "cargo": "Analista Judiciário – Biblioteconomia",
+  "cod": "ana",
+  "gabarq": "trt_-_16_2022_-_gabarito_definitivo_8913849131354864",
+  "gabre": "Biblioteconomia – TIPO   1",
+  "pt": [
+   1,
+   10
+  ],
+  "rlm": [
+   11,
+   20
+  ]
+ },
+ {
+  "slug": "mpsc22",
+  "orgao": "MP-SC",
+  "ano": 2022,
+  "cargo": "Analista de Dados e Pesquisas",
+  "cod": "ana",
+  "gabarq": "mpsc2022_gabarito_definitivo_retificado_25.07.2022",
+  "gabre": "Analista de Dados e Pesquisas – Tipo 1",
+  "pt": null,
+  "rlm": [
+   21,
+   28
+  ]
+ },
+ {
+  "slug": "bbts23",
+  "orgao": "BB Tecnologia e Serviços",
+  "ano": 2023,
+  "cargo": "Analista – Perfil Tecnológico",
+  "cod": "ana",
+  "gabarq": "bbts2023-gabarito-definitivo-para-publicacao",
+  "gabre": "Perfil Tecnológico - TIPO  1",
+  "pt": null,
+  "rlm": [
+   11,
+   20
+  ]
+ },
+ {
+  "slug": "adab24",
+  "orgao": "ADAB",
+  "ano": 2024,
+  "cargo": "Fiscal Estadual Agropecuário",
+  "cod": "fis",
+  "gabarq": "gabarito_definitivo",
+  "gabre": "Inspeção Animal - PROVA TIPO 1",
+  "pt": [
+   1,
+   8
+  ],
+  "rlm": [
+   9,
+   16
+  ]
+ },
+ {
+  "slug": "tceba23",
+  "orgao": "TCE-BA",
+  "ano": 2023,
+  "cargo": "Auditor Estadual de Controle Externo",
+  "cod": "aud",
+  "gabarq": "tce-ba-gabaritos-definitivo",
+  "gabre": "Auditor Estadual de Controle Externo - TIPO  1",
+  "pt": null,
+  "rlm": [
+   15,
+   20
+  ]
+ },
+ {
+  "slug": "sefazmt23",
+  "orgao": "SEFAZ-MT",
+  "ano": 2023,
+  "cargo": "Fiscal de Tributos Estaduais",
+  "cod": "fte",
+  "gabarq": "sefazmt2023_prova1_-_2_gabarito_definitivo",
+  "gabre": "Manhã - PROVA TIPO 1",
+  "pt": null,
+  "rlm": [
+   11,
+   20
+  ]
+ },
+ {
+  "slug": "dataprev24",
+  "orgao": "DATAPREV",
+  "ano": 2024,
+  "cargo": "Analista de Processamento",
+  "cod": "ana",
+  "gabarq": "dataprev_gabarito_definitivo-1",
+  "gabre": "Analista de Processamento - TIPO  1",
+  "pt": null,
+  "rlm": [
+   25,
+   30
+  ]
+ },
+ {
+  "slug": "cvm24",
+  "orgao": "CVM",
+  "ano": 2024,
+  "cargo": "Analista CVM – Perfil 4",
+  "cod": "ana",
+  "gabarq": "cvm2024_gabarito_definitivo_manha_asdas5c",
+  "gabre": "Perfil 4 - Mercado de Capitais - Tipo 1",
+  "pt": null,
+  "rlm": [
+   36,
+   40
+  ]
+ }
+]

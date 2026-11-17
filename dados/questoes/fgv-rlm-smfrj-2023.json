@@ -1,0 +1,252 @@
+[
+ {
+  "id": "fgv-smfrj-2023-apo-56",
+  "disciplina": "rlm",
+  "assunto": "rlm-problemas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "SMF-RJ",
+   "ano": 2023,
+   "cargo": "Analista de Planejamento e Orçamento (APO)",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-de-planejamento-e-orcamento-apoapo1-tipo-1.pdf"
+  },
+  "enunciado": "Joaquim vende quentinhas com arroz, feijão e ovo. Uma quentinha com dois ovos, uma porção de arroz e outra de feijão custa R$ 2,10. A quentinha com um ovo, duas porções de arroz e duas de feijão tem o custo de R$ 1,80.\nO custo da quentinha com um ovo, uma porção de arroz e outra de feijão é:",
+  "alternativas": [
+   "R$ 1,10;",
+   "R$ 1,20;",
+   "R$ 1,30;",
+   "R$ 1,40;",
+   "R$ 1,50."
+  ],
+  "gabarito": 2,
+  "comentario": "Chame de o o ovo e de s o custo de uma porção de arroz + uma de feijão. Então 2o + s = 2,10 e o + 2s = 1,80. Somando as equações: 3o + 3s = 3,90, logo o + s = 1,30. A quentinha pedida (um ovo, um arroz, um feijão) custa R$ 1,30. (Individualmente, o = 0,80 e s = 0,50.)",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-smfrj-2023-apo-57",
+  "disciplina": "rlm",
+  "assunto": "rlm-numeros",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "SMF-RJ",
+   "ano": 2023,
+   "cargo": "Analista de Planejamento e Orçamento (APO)",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-de-planejamento-e-orcamento-apoapo1-tipo-1.pdf"
+  },
+  "enunciado": "Seja N o número de 30 algarismos, todos iguais a 1. No número N^2, o algarismo 1 aparece:",
+  "alternativas": [
+   "1 vez;",
+   "2 vezes;",
+   "3 vezes;",
+   "4 vezes;",
+   "5 vezes."
+  ],
+  "gabarito": 4,
+  "comentario": "Ao elevar 111…1 ao quadrado, as colunas da multiplicação somam 1, 2, 3, …, 30, …, 3, 2, 1, e o \"vai um\" altera os dígitos. O resultado é 12345679 0 12345679 0 12345679 0 1232 0 98765432 0 98765432 0 987654321 (59 algarismos). O algarismo 1 aparece no início de cada um dos três blocos 12345679, no bloco 1232 e no último algarismo: 3 + 1 + 1 = 5 vezes. Dica: teste 11² = 121 e 111² = 12321 para ver o padrão e observe que, a partir de 10 uns, o transporte faz sumir o 8 e gera os zeros.",
+  "dificuldade": 3,
+  "anulada": false
+ },
+ {
+  "id": "fgv-smfrj-2023-apo-58",
+  "disciplina": "rlm",
+  "assunto": "rlm-medidas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "SMF-RJ",
+   "ano": 2023,
+   "cargo": "Analista de Planejamento e Orçamento (APO)",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-de-planejamento-e-orcamento-apoapo1-tipo-1.pdf"
+  },
+  "enunciado": "Um trapézio isósceles tem sua base maior igual a 40 e sua base menor igual a 20. Um dos ângulos internos do trapézio vale 120 graus.\nCada lado lateral do trapézio mede:",
+  "alternativas": [
+   "12;",
+   "14;",
+   "16;",
+   "18;",
+   "20."
+  ],
+  "gabarito": 4,
+  "comentario": "Se um ângulo interno é 120°, os ângulos da base maior são 180° − 120° = 60°. Baixando as alturas da base menor, a base maior fica dividida em 10 + 20 + 10, ou seja, cada projeção do lado lateral mede (40 − 20)/2 = 10. No triângulo retângulo formado, cos 60° = 10/L, logo L = 10/0,5 = 20.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-smfrj-2023-apo-59",
+  "disciplina": "rlm",
+  "assunto": "rlm-proporcao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "SMF-RJ",
+   "ano": 2023,
+   "cargo": "Analista de Planejamento e Orçamento (APO)",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-de-planejamento-e-orcamento-apoapo1-tipo-1.pdf"
+  },
+  "enunciado": "Uma empresa produz tintas de cor cinza, em dois modelos. No modelo 1, ela usa a proporção de 7 colheres de tinta preta para 3 colheres de tinta branca. No modelo 2, a proporção é de 2 colheres de tinta preta para 3 colheres de tinta branca. A empresa usará 1.100 galões de tinta preta e 900 galões de tinta branca na produção dos dois modelos.\nNesse caso, o total de galões do modelo 1 que serão produzidos é igual a:",
+  "alternativas": [
+   "850;",
+   "960;",
+   "1.000;",
+   "1.180;",
+   "1.200."
+  ],
+  "gabarito": 2,
+  "comentario": "Modelo 1: 7k de preta + 3k de branca (total 10k). Modelo 2: 2m de preta + 3m de branca (total 5m). Branca: 3k + 3m = 900 → k + m = 300. Preta: 7k + 2m = 1.100 → 7k + 2(300 − k) = 1.100 → 5k = 500 → k = 100. Modelo 1 = 10k = 1.000 galões (confere: modelo 2 = 5 × 200 = 1.000 e 1.000 + 1.000 = 2.000 galões no total).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-smfrj-2023-apo-60",
+  "disciplina": "rlm",
+  "assunto": "rlm-medidas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "SMF-RJ",
+   "ano": 2023,
+   "cargo": "Analista de Planejamento e Orçamento (APO)",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-de-planejamento-e-orcamento-apoapo1-tipo-1.pdf"
+  },
+  "enunciado": "Sejam H um hexágono regular, C a circunferência circunscrita a H e c a circunferência inscrita em H.\nA razão entre a área de C e a área de c é igual a:",
+  "alternativas": [
+   "4;",
+   "4/3;",
+   "3;",
+   "5/4;",
+   "2."
+  ],
+  "gabarito": 1,
+  "comentario": "No hexágono regular de lado L, o raio da circunscrita é R = L e o raio da inscrita é o apótema, r = L√3/2. A razão das áreas é (R/r)² = (L ÷ L√3/2)² = (2/√3)² = 4/3.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-smfrj-2023-apo-61",
+  "disciplina": "rlm",
+  "assunto": "rlm-numeros",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "SMF-RJ",
+   "ano": 2023,
+   "cargo": "Analista de Planejamento e Orçamento (APO)",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-de-planejamento-e-orcamento-apoapo1-tipo-1.pdf"
+  },
+  "enunciado": "A soma das raízes reais da equação x^6 − 4x^4 + x^2 − 4 = 0 vale:",
+  "alternativas": [
+   "0;",
+   "1;",
+   "2;",
+   "3;",
+   "4."
+  ],
+  "gabarito": 0,
+  "comentario": "Fatore por agrupamento: x^4(x² − 4) + 1(x² − 4) = (x² − 4)(x^4 + 1) = 0. O fator x^4 + 1 nunca se anula nos reais; já x² − 4 = 0 dá x = 2 e x = −2. Soma das raízes reais: 2 + (−2) = 0. (Mesmo sem fatorar: como só há potências pares, se r é raiz, −r também é, e a soma é 0.)",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-smfrj-2023-apo-62",
+  "disciplina": "rlm",
+  "assunto": "rlm-problemas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "SMF-RJ",
+   "ano": 2023,
+   "cargo": "Analista de Planejamento e Orçamento (APO)",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-de-planejamento-e-orcamento-apoapo1-tipo-1.pdf"
+  },
+  "enunciado": "Rita chegou no elevador de um prédio comercial de cinco andares. Ela ia para o quinto andar e estava com pressa. Havia outras quatro pessoas esperando o elevador. Ela pensou que seria muito azar se uma daquelas pessoas fosse ao primeiro andar, outra ao segundo, outra ao terceiro e outra ao quarto.\nA probabilidade de que o temor de Rita se concretizasse é igual a:",
+  "alternativas": [
+   "4/64;",
+   "4/625;",
+   "5/64;",
+   "24/625;",
+   "25/64."
+  ],
+  "gabarito": 3,
+  "comentario": "Cada uma das 4 pessoas pode ir a qualquer um dos 5 andares: 5^4 = 625 casos possíveis. Os casos favoráveis são aqueles em que as 4 pessoas ocupam os andares 1, 2, 3 e 4, um para cada: 4! = 24 maneiras. Probabilidade = 24/625.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-smfrj-2023-apo-63",
+  "disciplina": "rlm",
+  "assunto": "rlm-medidas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "SMF-RJ",
+   "ano": 2023,
+   "cargo": "Analista de Planejamento e Orçamento (APO)",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-de-planejamento-e-orcamento-apoapo1-tipo-1.pdf"
+  },
+  "enunciado": "Um gavião encontra-se no ponto A, quando avista um pardal no ponto B. A distância entre A e B é de 120 metros. O gavião voa a 50 m/s em linha reta para alcançar o pardal. O pardal tenta escapar voando a 30 m/s em uma direção ortogonal à reta que contém A e B. Com seu instinto predador, o gavião conhece a direção que deve tomar para alcançar o pardal.\nO tempo que o gavião demora para encontrar a sua vítima é igual a:",
+  "alternativas": [
+   "3s;",
+   "4s;",
+   "5s;",
+   "6s;",
+   "7s."
+  ],
+  "gabarito": 0,
+  "comentario": "Em t segundos, o pardal percorre 30t perpendicularmente a AB, e o gavião percorre 50t (a hipotenusa). Pelo teorema de Pitágoras: (50t)² = 120² + (30t)² → 2.500t² − 900t² = 14.400 → 1.600t² = 14.400 → t² = 9 → t = 3 s. (É o triângulo 3-4-5: 90, 120, 150 m.)",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-smfrj-2023-apo-64",
+  "disciplina": "rlm",
+  "assunto": "rlm-problemas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "SMF-RJ",
+   "ano": 2023,
+   "cargo": "Analista de Planejamento e Orçamento (APO)",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-de-planejamento-e-orcamento-apoapo1-tipo-1.pdf"
+  },
+  "enunciado": "Em certo reino distante, a moeda nacional é o irreal. Há apenas notas de 5 e de 6 irreais. Em visita ao reino, dr. Blanc levou uma bolsa com 500 notas de 5 irreais e 500 notas de 6 irreais. Ele comprou por 1.214 irreais uma escultura local e pagou essa quantia usando o maior número de notas possível.\nO total de notas usadas pelo dr. Blanc foi de:",
+  "alternativas": [
+   "238;",
+   "239;",
+   "240;",
+   "241;",
+   "242."
+  ],
+  "gabarito": 4,
+  "comentario": "Com 5a + 6b = 1.214, para usar o máximo de notas convém usar o mínimo de notas de 6 (as de maior valor). É preciso que 1.214 − 6b seja múltiplo de 5. Como 1.214 deixa resto 4 na divisão por 5 e 6b deixa o mesmo resto que b, b deve deixar resto 4: o menor valor é b = 4. Então 5a = 1.214 − 24 = 1.190 → a = 238 (há notas suficientes). Total: 238 + 4 = 242 notas.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-smfrj-2023-apo-65",
+  "disciplina": "rlm",
+  "assunto": "rlm-sequencias",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "SMF-RJ",
+   "ano": 2023,
+   "cargo": "Analista de Planejamento e Orçamento (APO)",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-de-planejamento-e-orcamento-apoapo1-tipo-1.pdf"
+  },
+  "enunciado": "O sapo e o grilo partem do mesmo lugar de uma estrada reta. Eles andam aos pulos, o sapo saltando 8,5 cm e o grilo saltando 13,6 cm.\nEles irão aterrissar pela primeira vez no mesmo lugar a uma distância do ponto de partida igual a:",
+  "alternativas": [
+   "68 cm;",
+   "85 cm;",
+   "110 cm;",
+   "136 cm;",
+   "154 cm."
+  ],
+  "gabarito": 0,
+  "comentario": "O ponto comum é o MMC das distâncias. Em milímetros: 85 = 5 × 17 e 136 = 8 × 17, então MMC = 5 × 8 × 17 = 680 mm = 68 cm. Confere: o sapo dá 8 pulos (8 × 8,5 = 68) e o grilo dá 5 pulos (5 × 13,6 = 68).",
+  "dificuldade": 2,
+  "anulada": false
+ }
+]

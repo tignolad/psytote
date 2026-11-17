@@ -1,0 +1,152 @@
+[
+ {
+  "id": "fgv-tceba-2023-aud-15",
+  "disciplina": "rlm",
+  "assunto": "rlm-numeros",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TCE-BA",
+   "ano": 2023,
+   "cargo": "Auditor Estadual de Controle Externo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/auditor-estadual-de-controle-externoaud-001-tipo-1.pdf"
+  },
+  "enunciado": "Sejam x e y números tais que 6y − x = 18. O número de valores inteiros de x, maiores do que zero e menores do que 2024, para os quais os valores correspondentes de y também são inteiros é:",
+  "alternativas": [
+   "331;",
+   "333;",
+   "335;",
+   "337;",
+   "339."
+  ],
+  "gabarito": 3,
+  "comentario": "De 6y − x = 18, vem x = 6y − 18 = 6(y − 3), ou seja, y é inteiro exatamente quando x é múltiplo de 6. Os múltiplos de 6 entre 1 e 2023 são 6, 12, …, 2022, e 2022 = 6 × 337. Logo há 337 valores de x.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tceba-2023-aud-16",
+  "disciplina": "rlm",
+  "assunto": "rlm-problemas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TCE-BA",
+   "ano": 2023,
+   "cargo": "Auditor Estadual de Controle Externo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/auditor-estadual-de-controle-externoaud-001-tipo-1.pdf"
+  },
+  "enunciado": "Considere todas as sequências de 6 letras, que podem ser formadas com as letras da palavra BRASIL sem repeti-las.\nDessas sequências, seja N o número daquelas nas quais tanto as vogais como as consoantes aparecem na ordem alfabética (isto é, vogais na ordem A, I e consoantes na ordem B, L, R, S). Nem as vogais nem as consoantes precisam estar juntas.\nO valor de N é:",
+  "alternativas": [
+   "720;",
+   "360;",
+   "120;",
+   "30;",
+   "15."
+  ],
+  "gabarito": 4,
+  "comentario": "Basta escolher quais 2 das 6 posições ficam com as vogais: a ordem dentro de cada grupo já está fixada (A antes de I; B, L, R, S nessa ordem). Assim N = C(6,2) = 15. Outra forma: das 6! = 720 permutações, apenas 1 em 2! (vogais) e 1 em 4! (consoantes) respeita a ordem: 720/(2 × 24) = 15.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tceba-2023-aud-17",
+  "disciplina": "rlm",
+  "assunto": "rlm-proposicoes",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TCE-BA",
+   "ano": 2023,
+   "cargo": "Auditor Estadual de Controle Externo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/auditor-estadual-de-controle-externoaud-001-tipo-1.pdf"
+  },
+  "enunciado": "O entrevistador da PNAD (Pesquisa Nacional por Amostra de Domicílios) está fazendo a entrevista com o sr. João:\nEntrevistador: Quantos filhos maiores de 18 anos o senhor tem?\nSr. João: Três.\nEntrevistador: Todos trabalham?\nSr. João: Não.\nA partir do diálogo acima é correto concluir que:",
+  "alternativas": [
+   "nenhum dos filhos de João trabalha;",
+   "os três filhos de João estudam;",
+   "pelo menos um filho de João estuda;",
+   "pelo menos um filho de João não trabalha;",
+   "apenas um filho de João não trabalha."
+  ],
+  "gabarito": 3,
+  "comentario": "Responder “não” a “Todos trabalham?” é negar “todos trabalham”, e a negação de “todos” é “pelo menos um não”: pelo menos um filho não trabalha (D). A (nenhum trabalha) e E (apenas um não trabalha) são casos particulares que não podem ser garantidos; B e C falam de estudo, informação que o diálogo não dá.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tceba-2023-aud-18",
+  "disciplina": "rlm",
+  "assunto": "rlm-medidas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TCE-BA",
+   "ano": 2023,
+   "cargo": "Auditor Estadual de Controle Externo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/auditor-estadual-de-controle-externoaud-001-tipo-1.pdf"
+  },
+  "enunciado": "Em uma empresa 40% dos funcionários trabalham na sede e os demais, nas filiais. Para representar visualmente essa informação, a empresa fez o infográfico a seguir. A figura mostra duas circunferências concêntricas, sendo que as áreas da região interna e do anel externo são respectivamente proporcionais aos números de funcionários que trabalham na sede e nas filiais.\nO raio da circunferência interna mede 4 cm.\n[Figura: dois círculos concêntricos — disco interno e anel externo.]\nA medida, em centímetros, do raio da circunferência externa é:",
+  "alternativas": [
+   "4√2;",
+   "4√3;",
+   "3√5;",
+   "3√6;",
+   "2√10."
+  ],
+  "gabarito": 4,
+  "comentario": "O disco interno (sede) tem área π·4² = 16π e corresponde a 40% da área total (o círculo externo inteiro). Logo, a área total é 16π/0,4 = 40π, e πR² = 40π ⇒ R² = 40 ⇒ R = √40 = 2√10 cm. Conferência: o anel tem 40π − 16π = 24π, que é 60% do total.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tceba-2023-aud-19",
+  "disciplina": "rlm",
+  "assunto": "rlm-medidas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TCE-BA",
+   "ano": 2023,
+   "cargo": "Auditor Estadual de Controle Externo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/auditor-estadual-de-controle-externoaud-001-tipo-1.pdf"
+  },
+  "enunciado": "É dado um retângulo ABCD com AB = 6 e BC = 4. Duas circunferências de mesmo raio estão no interior desse retângulo. Uma é tangente aos lados DA e DC e outra é tangente aos lados BA e BC. A distância entre os centros dessas circunferências é igual a 4.\nO diâmetro de cada circunferência mede:",
+  "alternativas": [
+   "4 − √2;",
+   "4 − √3;",
+   "5 − √5;",
+   "5 − √7;",
+   "6 − √10."
+  ],
+  "gabarito": 3,
+  "comentario": "Coloque A = (0, 0), B = (6, 0), C = (6, 4), D = (0, 4) e seja r o raio. A circunferência tangente a DA e DC tem centro (r, 4 − r); a tangente a BA e BC tem centro (6 − r, r). A distância ao quadrado é (6 − 2r)² + (4 − 2r)² = 16. Com d = 2r: (6 − d)² + (4 − d)² = 16 ⇒ 2d² − 20d + 36 = 0 ⇒ d² − 10d + 18 = 0 ⇒ d = 5 ± √7. Como o diâmetro tem de ser menor que 4 (largura do retângulo), d = 5 − √7.",
+  "dificuldade": 3,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tceba-2023-aud-20",
+  "disciplina": "rlm",
+  "assunto": "rlm-medidas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TCE-BA",
+   "ano": 2023,
+   "cargo": "Auditor Estadual de Controle Externo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/auditor-estadual-de-controle-externoaud-001-tipo-1.pdf"
+  },
+  "enunciado": "Considere o ponto P(4, 1) do plano cartesiano.\nDos pontos abaixo, o mais distante do ponto P é:",
+  "alternativas": [
+   "(5, 2);",
+   "(2, 2);",
+   "(6, –1);",
+   "(1, 0);",
+   "(7, 1)."
+  ],
+  "gabarito": 3,
+  "comentario": "Comparando os quadrados das distâncias a P(4, 1): (5,2) → 1 + 1 = 2; (2,2) → 4 + 1 = 5; (6,−1) → 4 + 4 = 8; (1,0) → 9 + 1 = 10; (7,1) → 9 + 0 = 9. O maior é 10, do ponto (1, 0), à distância √10 (D). O ponto (7, 1), à distância 3, é o distrator mais próximo.",
+  "dificuldade": 1,
+  "anulada": false
+ }
+]

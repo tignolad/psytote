@@ -1,0 +1,266 @@
+[
+  {
+    "id": "aut-leg-res01-2009-001",
+    "disciplina": "legislacao",
+    "assunto": "leg-res01-2009",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.crpsp.org/uploads/impresso/343561/rR8gsC7_c6JCNIuHjWFzM3m1w_moPlFs.pdf"
+    },
+    "enunciado": "A Resolução CFP nº 01/2009 dispõe sobre a obrigatoriedade do registro documental decorrente da prestação de serviços psicológicos. Segundo ela, o registro documental, em papel ou informatizado,",
+    "alternativas": [
+      "tem caráter público e deve reproduzir literalmente o conteúdo de cada sessão.",
+      "é facultativo nos atendimentos particulares e obrigatório apenas nos serviços públicos.",
+      "deve ser mantido apenas em papel, vedado o meio informatizado.",
+      "tem caráter sigiloso e constitui um conjunto de informações que tem por objetivo contemplar de forma sucinta o trabalho prestado, a descrição e a evolução da atividade e os procedimentos técnico-científicos adotados.",
+      "tem caráter sigiloso, mas pode ser atualizado apenas ao final do atendimento."
+    ],
+    "gabarito": 3,
+    "comentario": "Art. 1º, §§ 1º e 2º, da Res. CFP 01/2009 (com a redação da Res. CFP 05/2010): o registro documental, em papel ou informatizado, é sigiloso e contempla de forma sucinta o trabalho prestado, a descrição e a evolução da atividade e os procedimentos adotados; deve ser mantido permanentemente atualizado e organizado pelo psicólogo que acompanha o procedimento.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res01-2009-002",
+    "disciplina": "legislacao",
+    "assunto": "leg-res01-2009",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.crpsp.org/uploads/impresso/343561/rR8gsC7_c6JCNIuHjWFzM3m1w_moPlFs.pdf"
+    },
+    "enunciado": "Conforme a Resolução CFP nº 01/2009, os documentos agrupados nos registros do trabalho realizado devem contemplar, entre outros itens,",
+    "alternativas": [
+      "identificação do usuário; transcrição literal das sessões; e parecer do supervisor clínico.",
+      "apenas a identificação do usuário e o registro de encerramento.",
+      "identificação do usuário/instituição; avaliação de demanda e definição de objetivos do trabalho; registro da evolução; e registro de encaminhamento ou encerramento.",
+      "identificação do usuário; diagnóstico obrigatório pela CID; e prognóstico.",
+      "avaliação de demanda; recibos de pagamento; e cópia do documento de identidade do usuário."
+    ],
+    "gabarito": 2,
+    "comentario": "Art. 2º da Res. CFP 01/2009 (com a redação da Res. CFP 05/2010): os registros devem contemplar I – identificação do usuário/instituição; II – avaliação de demanda e definição de objetivos; III – registro da evolução e dos procedimentos técnico-científicos; IV – registro de encaminhamento ou encerramento; V – cópias de outros documentos produzidos, com data de emissão, finalidade e destinatário; e VI – documentos resultantes da aplicação de instrumentos de avaliação psicológica, em pasta de acesso exclusivo do psicólogo.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res01-2009-003",
+    "disciplina": "legislacao",
+    "assunto": "leg-res01-2009",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.crpsp.org/uploads/impresso/343561/rR8gsC7_c6JCNIuHjWFzM3m1w_moPlFs.pdf"
+    },
+    "enunciado": "Uma psicóloga aplicou testes psicológicos em um processo de avaliação. De acordo com a Resolução CFP nº 01/2009, com a redação dada pela Resolução CFP nº 05/2010, os documentos resultantes da aplicação de instrumentos de avaliação psicológica",
+    "alternativas": [
+      "deverão ser arquivados em pasta de acesso exclusivo do psicólogo.",
+      "deverão ser entregues ao usuário ao final da avaliação, extinguindo-se o dever de guarda.",
+      "deverão ser anexados ao prontuário único da equipe multiprofissional.",
+      "podem ser descartados imediatamente após a elaboração do laudo.",
+      "deverão ser encaminhados ao Conselho Regional para arquivamento."
+    ],
+    "gabarito": 0,
+    "comentario": "Art. 2º, VI, da Res. CFP 01/2009 (com a redação da Res. CFP 05/2010): os documentos resultantes da aplicação de instrumentos de avaliação psicológica deverão ser arquivados em pasta de acesso exclusivo do psicólogo. A Res. 05/2010 deslocou esse item para o inciso VI, de modo que ele fica fora do conteúdo do prontuário (art. 5º, I, remete aos incisos I a V).",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res01-2009-004",
+    "disciplina": "legislacao",
+    "assunto": "leg-res01-2009",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.crpsp.org/uploads/impresso/343561/rR8gsC7_c6JCNIuHjWFzM3m1w_moPlFs.pdf"
+    },
+    "enunciado": "Na hipótese de o registro documental ser realizado na forma de prontuário, a Resolução CFP nº 01/2009, com as alterações da Resolução CFP nº 05/2010, determina que",
+    "alternativas": [
+      "o prontuário deve conter também os protocolos dos testes aplicados, aos quais o usuário terá livre acesso.",
+      "as informações a serem registradas são as previstas nos incisos I a V do art. 2º, ficando garantido ao usuário ou representante legal o acesso integral às informações registradas pelo psicólogo em seu prontuário.",
+      "o usuário só terá acesso ao prontuário mediante ordem judicial.",
+      "o acesso do usuário ao prontuário é restrito às informações que o psicólogo julgar convenientes.",
+      "o prontuário substitui a obrigação de arquivar cópias dos documentos emitidos."
+    ],
+    "gabarito": 1,
+    "comentario": "Art. 5º, I e II, da Res. CFP 01/2009 (com a redação da Res. CFP 05/2010): no prontuário registram-se as informações dos incisos I a V do art. 2º — excluídos, portanto, os documentos de instrumentos de avaliação (inciso VI, pasta de acesso exclusivo do psicólogo) —, e é garantido ao usuário ou representante legal o acesso integral às informações registradas.",
+    "dificuldade": 3,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res01-2009-005",
+    "disciplina": "legislacao",
+    "assunto": "leg-res01-2009",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.crpsp.org/uploads/impresso/343561/rR8gsC7_c6JCNIuHjWFzM3m1w_moPlFs.pdf"
+    },
+    "enunciado": "Um psicólogo integra equipe multiprofissional de um Centro de Atenção Psicossocial. Segundo a Resolução CFP nº 01/2009, nesse contexto o registro",
+    "alternativas": [
+      "deve ser realizado em prontuário exclusivo do psicólogo, inacessível aos demais profissionais.",
+      "é dispensado, pois o registro dos demais profissionais supre a obrigação.",
+      "deve ser realizado em prontuário único, com transcrição integral das sessões, para subsidiar a equipe.",
+      "deve ser realizado em prontuário único, registrando-se apenas as informações necessárias ao cumprimento dos objetivos do trabalho.",
+      "deve ser realizado em prontuário único, desde que o usuário autorize por escrito cada anotação."
+    ],
+    "gabarito": 3,
+    "comentario": "Art. 6º e parágrafo único da Res. CFP 01/2009 (com a redação da Res. CFP 05/2010): em serviço multiprofissional, o registro deve ser feito em prontuário único, registrando-se apenas as informações necessárias aos objetivos do trabalho. No mesmo sentido, o art. 12 do Código de Ética.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res01-2009-006",
+    "disciplina": "legislacao",
+    "assunto": "leg-res01-2009",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.crpsp.org/uploads/impresso/343561/rR8gsC7_c6JCNIuHjWFzM3m1w_moPlFs.pdf"
+    },
+    "enunciado": "Segundo a Resolução CFP nº 01/2009, a guarda do registro documental",
+    "alternativas": [
+      "é de responsabilidade exclusiva da instituição, pelo período mínimo de 10 anos.",
+      "é de responsabilidade do psicólogo, pelo período máximo de 5 anos, após o qual o registro deve ser destruído.",
+      "é de responsabilidade do Conselho Regional, após o encerramento do atendimento.",
+      "é de responsabilidade do psicólogo, pelo período mínimo de 20 anos, conforme a lei do prontuário eletrônico.",
+      "é de responsabilidade do psicólogo e/ou da instituição em que ocorreu o serviço, pelo período mínimo de 5 anos, podendo ser ampliado nos casos previstos em lei, por determinação judicial ou em casos específicos."
+    ],
+    "gabarito": 4,
+    "comentario": "Art. 4º, caput e § 1º, da Res. CFP 01/2009 (com a redação da Res. CFP 05/2010): a guarda cabe ao psicólogo e/ou à instituição, pelo prazo MÍNIMO de 5 anos, ampliável por lei, determinação judicial ou casos específicos. A Res. CFP 06/2019 (art. 15) repete o prazo mínimo de 5 anos para documentos escritos e o material que os fundamentou.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res01-2009-007",
+    "disciplina": "legislacao",
+    "assunto": "leg-res01-2009",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.crpsp.org/uploads/impresso/343561/rR8gsC7_c6JCNIuHjWFzM3m1w_moPlFs.pdf"
+    },
+    "enunciado": "De acordo com a Resolução CFP nº 01/2009, o registro documental deve ser mantido em local que garanta sigilo e privacidade e",
+    "alternativas": [
+      "mantenha-se à disposição dos Conselhos de Psicologia para orientação e fiscalização, de modo que sirva como meio de prova idônea para instruir processos disciplinares e à defesa legal.",
+      "seja inacessível aos Conselhos de Psicologia, em respeito ao sigilo absoluto.",
+      "seja enviado anualmente ao Conselho Regional para conferência.",
+      "seja acessível ao empregador do psicólogo, para controle de produtividade.",
+      "seja mantido exclusivamente em nuvem certificada pelo Conselho Federal."
+    ],
+    "gabarito": 0,
+    "comentario": "Art. 4º, § 2º, da Res. CFP 01/2009 (com a redação da Res. CFP 05/2010): o registro deve ser mantido em local que garanta sigilo e privacidade e ficar à disposição dos Conselhos de Psicologia para orientação e fiscalização, servindo como prova idônea em processos disciplinares e na defesa legal. Não há remessa anual ao CRP nem acesso do empregador.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res01-2009-008",
+    "disciplina": "legislacao",
+    "assunto": "leg-res01-2009",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.crpsp.org/uploads/impresso/343561/rR8gsC7_c6JCNIuHjWFzM3m1w_moPlFs.pdf"
+    },
+    "enunciado": "Em um serviço-escola de Psicologia, estagiários atendem usuários sob supervisão. Segundo a Resolução CFP nº 01/2009,",
+    "alternativas": [
+      "o registro é feito apenas pelo estagiário, que responde sozinho pelo serviço prestado.",
+      "o registro é dispensado, por se tratar de atividade de ensino.",
+      "o registro deve contemplar a identificação e a assinatura do responsável técnico/supervisor, que responderá pelo serviço prestado, bem como do estagiário, devendo o supervisor solicitar do estagiário o registro de todas as atividades e acontecimentos com os usuários.",
+      "o registro deve conter apenas a assinatura do coordenador do curso de Psicologia.",
+      "o registro é feito pelo supervisor, sendo vedado ao estagiário registrar os atendimentos."
+    ],
+    "gabarito": 2,
+    "comentario": "Art. 3º e parágrafo único da Res. CFP 01/2009 (com a redação da Res. CFP 05/2010): em serviços-escola e campos de estágio, o registro contempla identificação e assinatura do responsável técnico/supervisor, que responde pelo serviço, e do estagiário; o supervisor deve solicitar ao estagiário o registro de todas as atividades e acontecimentos com os usuários.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res01-2009-009",
+    "disciplina": "legislacao",
+    "assunto": "leg-res01-2009",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.crpsp.org/uploads/impresso/343561/rR8gsC7_c6JCNIuHjWFzM3m1w_moPlFs.pdf"
+    },
+    "enunciado": "Uma psicóloga coordena grupo terapêutico não eventual, com encontros semanais. De acordo com a Resolução CFP nº 01/2009, ao registrar o trabalho em prontuário, ela deve",
+    "alternativas": [
+      "manter apenas um registro coletivo do grupo, vedada a documentação individual.",
+      "manter, além dos registros dos atendimentos, a documentação individual referente a cada usuário.",
+      "dispensar o registro, por se tratar de atendimento em grupo.",
+      "manter registro individual apenas dos participantes que solicitarem.",
+      "registrar o grupo no prontuário de cada participante com a transcrição das falas dos demais."
+    ],
+    "gabarito": 1,
+    "comentario": "Art. 5º, III, da Res. CFP 01/2009 (com a redação da Res. CFP 05/2010): para atendimento em grupo não eventual, o psicólogo deve manter, além dos registros dos atendimentos, a documentação individual referente a cada usuário. A transcrição das falas dos demais participantes no prontuário de cada um violaria o sigilo.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res01-2009-010",
+    "disciplina": "legislacao",
+    "assunto": "leg-res01-2009",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.crpsp.org/uploads/impresso/343561/rR8gsC7_c6JCNIuHjWFzM3m1w_moPlFs.pdf"
+    },
+    "enunciado": "Considere as afirmativas sobre a Resolução CFP nº 01/2009.\nI. O registro documental é obrigatório em relação à prestação de serviços psicológicos que não puder ser mantida prioritariamente sob a forma de prontuário psicológico, por razões que envolvam a restrição do compartilhamento de informações com o usuário.\nII. Devem ser arquivadas cópias de outros documentos produzidos pelo psicólogo para o usuário/instituição, além do registro da data de emissão, finalidade e destinatário.\nIII. O registro documental deve ser mantido permanentemente atualizado e organizado pelo psicólogo que acompanha o procedimento.\nEstá correto o que se afirma em",
+    "alternativas": [
+      "I, apenas.",
+      "II, apenas.",
+      "I e III, apenas.",
+      "II e III, apenas.",
+      "I, II e III."
+    ],
+    "gabarito": 4,
+    "comentario": "Todas corretas: I – art. 1º, caput; II – art. 2º, V (numeração dada pela Res. 05/2010); III – art. 1º, § 2º, da Res. CFP 01/2009 (com a redação da Res. CFP 05/2010).",
+    "dificuldade": 3,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res01-2009-011",
+    "disciplina": "legislacao",
+    "assunto": "leg-res01-2009",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.crpsp.org/uploads/impresso/343561/rR8gsC7_c6JCNIuHjWFzM3m1w_moPlFs.pdf"
+    },
+    "enunciado": "Um psicólogo afirma que, como mantém registro documental de seus atendimentos, está dispensado de cumprir outras normas sobre documentos. À luz da Resolução CFP nº 01/2009 e da Resolução CFP nº 06/2019, é correto afirmar que",
+    "alternativas": [
+      "a emissão de atestado psicológico deve estar fundamentada no registro documental, e o relatório e o laudo psicológico devem ser construídos com base nesse registro.",
+      "o registro documental substitui a emissão de documentos psicológicos ao usuário.",
+      "o relatório multiprofissional isenta o psicólogo de realizar o registro documental.",
+      "o registro documental só é exigido quando houver emissão de laudo.",
+      "o atestado psicológico dispensa registro documental, por ser documento sucinto."
+    ],
+    "gabarito": 0,
+    "comentario": "A Res. CFP 06/2019 articula-se com a Res. 01/2009: o atestado deve estar fundamentado no registro documental (art. 10, § 3º); relatório e laudo são construídos com base nele (arts. 11, II, e 13, II); e o relatório multiprofissional NÃO isenta o psicólogo do registro documental (art. 12, § 7º, I). O registro não substitui os documentos nem é restrito aos casos de laudo.",
+    "dificuldade": 3,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res01-2009-012",
+    "disciplina": "legislacao",
+    "assunto": "leg-res01-2009",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.crpsp.org/uploads/impresso/343561/rR8gsC7_c6JCNIuHjWFzM3m1w_moPlFs.pdf"
+    },
+    "enunciado": "Determinado psicólogo encerrou o acompanhamento de um cliente há três anos e pretende descartar o registro documental para liberar espaço no consultório. De acordo com a Resolução CFP nº 01/2009, ele",
+    "alternativas": [
+      "pode descartá-lo, pois o prazo mínimo de guarda é de 2 anos após o encerramento.",
+      "não pode descartá-lo, pois o período de guarda deve ser de, no mínimo, 5 anos.",
+      "pode descartá-lo, desde que entregue uma cópia ao cliente.",
+      "pode descartá-lo, desde que comunique previamente ao Conselho Regional.",
+      "deve encaminhá-lo ao Conselho Regional, que o guardará pelo restante do prazo."
+    ],
+    "gabarito": 1,
+    "comentario": "Art. 4º, § 1º, da Res. CFP 01/2009 (com a redação da Res. CFP 05/2010): o período de guarda deve ser de, no mínimo, 5 anos, podendo ser ampliado. Não há previsão de descarte antecipado mediante cópia ou comunicação ao CRP (a destinação de arquivos pelo CRP ocorre na extinção do serviço de Psicologia — art. 15, § 2º, do Código de Ética).",
+    "dificuldade": 1,
+    "anulada": false
+  }
+]

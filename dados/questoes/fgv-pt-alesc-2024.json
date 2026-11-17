@@ -1,0 +1,508 @@
+[
+ {
+  "id": "fgv-alesc-2024-ana-1",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALESC",
+   "ano": 2024,
+   "cargo": "Analista Legislativo III – Qualquer Área",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-iii-qualquer-areacns101-tipo-1.pdf"
+  },
+  "texto": "“Todas as ideias econômicas importantes podem ser enunciadas de forma simples. Para desenvolver uma ideia, é claro, você pode precisar de algum aparato formal a fim de fazê-lo de um modo sistemático, mas você pode enunciar a essência de uma ideia de forma simples. E, quando as pessoas dizem que uma ideia é complicada em demasia para ser enunciada de forma simples, isso significa que elas não sabem como enunciá-la de forma simples, algumas vezes pelo fato de que elas não a compreendem inteiramente”. (Gary Becker)",
+  "enunciado": "Interpretar um texto é poder ver todos os seus significados.\nCom essa ideia em mente, leia o texto a seguir com atenção.\nIndique a opção cuja informação está contida no texto lido.",
+  "alternativas": [
+   "O autor fala de um nível simples de linguagem, que não pode ser empregado em textos de conteúdo complicado.",
+   "As ideias complicadas podem ser veiculadas de forma simples, sem prejuízo de seu conteúdo.",
+   "Às vezes, algum aparato formal utilizado no texto pode prejudicar a simplicidade da linguagem.",
+   "Algumas pessoas, por ignorância redacional, não conseguem expressar ideias simples em linguagem formal.",
+   "A simplicidade da linguagem empregada está diretamente ligada à simplicidade do conteúdo a ser expresso."
+  ],
+  "gabarito": 1,
+  "comentario": "O texto afirma que toda ideia econômica importante pode ser enunciada de forma simples e que quem diz que uma ideia é complicada demais para isso, na verdade, não sabe enunciá-la — logo, ideias complexas podem ser expressas com simplicidade sem perder a essência (B). A contradiz o texto; C inverte o papel do aparato formal (que serve para desenvolver a ideia, não prejudica a simplicidade); D atribui a falha à \"ignorância redacional\", quando o texto aponta falta de compreensão da ideia; E vincula simplicidade da linguagem à do conteúdo, o que o texto nega.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-alesc-2024-ana-2",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALESC",
+   "ano": 2024,
+   "cargo": "Analista Legislativo III – Qualquer Área",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-iii-qualquer-areacns101-tipo-1.pdf"
+  },
+  "texto": "“Os países da América Latina não precisam criar uma civilização. Ela já foi criada pela Europa nos últimos quatro séculos. Cabe-nos assimilar essa civilização.” (Eugênio Gudin)",
+  "enunciado": "Observe o texto a seguir.\nSobre o conteúdo e a estruturação desse pequeno texto, assinale a afirmativa correta.",
+  "alternativas": [
+   "O conceito de civilização, nesse texto, se prende exclusivamente aos valores clássicos de cultura.",
+   "Entre os dois primeiros períodos do texto há uma relação, respectivamente, de causa e consequência.",
+   "O autor defende a criação de uma civilização nacional original, apoiada em valores europeus.",
+   "O texto mostra uma visão negativa das possibilidades culturais dos países da América latina.",
+   "O último período do texto mostra uma justificativa das ideias apresentadas anteriormente."
+  ],
+  "gabarito": 0,
+  "comentario": "Para a banca, a correta é A: ao dizer que a civilização \"já foi criada pela Europa\" e que cabe à América Latina apenas assimilá-la, o autor restringe o conceito de civilização aos valores da cultura clássica europeia. B inverte a relação: o segundo período é a causa (já foi criada) e o primeiro, a consequência (não precisam criar). C contraria o texto, que dispensa a criação de civilização própria. E erra porque o último período é uma conclusão (\"Cabe-nos assimilar\"), não uma justificativa. D foi considerada extrapolação pela banca: o texto não avalia as possibilidades culturais desses países, apenas afirma que não precisam criar uma civilização.",
+  "dificuldade": 3,
+  "anulada": false
+ },
+ {
+  "id": "fgv-alesc-2024-ana-3",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALESC",
+   "ano": 2024,
+   "cargo": "Analista Legislativo III – Qualquer Área",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-iii-qualquer-areacns101-tipo-1.pdf"
+  },
+  "texto": "“O ensino superior no Brasil parece não ensinar o mínimo necessário às diferentes profissões, o que é evidenciado pelo péssimo desempenho profissional da grande maioria.\nA prioridade de um governo brasileiro deve estar sempre voltada para a educação, que é a fonte de todos os bens.”",
+  "enunciado": "Observe o fragmento textual a seguir.\nSobre esse texto, assinale a afirmativa correta.",
+  "alternativas": [
+   "O segundo período do texto reafirma as ideias já expressas anteriormente.",
+   "Os argumentos comprovadores de nossa má educação carecem de evidências convincentes.",
+   "A conclusão desse texto é a de que o grande culpado do péssimo nível de nossa educação está no atual governo.",
+   "A tese desse texto é a constatação de um péssimo serviço educacional das universidades.",
+   "Trata-se de um texto argumentativo em que a defesa da tese se apoia num argumento de autoridade."
+  ],
+  "gabarito": 3,
+  "comentario": "Segundo a banca, a tese do fragmento é a constatação de que o ensino superior presta um péssimo serviço (\"parece não ensinar o mínimo necessário\"), apoiada pelo argumento do \"péssimo desempenho profissional da grande maioria\" (D). A erra porque o segundo período acrescenta uma proposta (priorizar a educação), não repete o primeiro; B é um juízo que o texto não faz; C atribui culpa ao atual governo, o que não está no texto; E erra porque não há citação de autoridade — o argumento é de consequência/evidência.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-alesc-2024-ana-4",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALESC",
+   "ano": 2024,
+   "cargo": "Analista Legislativo III – Qualquer Área",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-iii-qualquer-areacns101-tipo-1.pdf"
+  },
+  "texto": "“Todos os homens se dividem em todos os tempos e também hoje, em escravos e livres; pois aquele que não tem dois terços do dia para si é escravo, não importa o que seja: estadista, comerciante, funcionário ou erudito.” (Nietzche)",
+  "enunciado": "Observe o segmento textual a seguir.\nSobre a estruturação desse texto, assinale a afirmativa correta.",
+  "alternativas": [
+   "Os vocábulos presentes na expressão “e também” são redundantes, bastando apenas um deles na frase.",
+   "O sentido de “e também hoje” já está incluído no termo anterior “em todos os tempos”.",
+   "A enumeração “estadista, comerciante, funcionário ou erudito” está em progressão de valor cultural.",
+   "A definição de “escravo” é dada em função do tempo livre variável nas diferentes atividades.",
+   "A diferença entre escravos e livres está na valorização do trabalho nas diversas profissões."
+  ],
+  "gabarito": 1,
+  "comentario": "\"Em todos os tempos\" já abrange o presente, de modo que \"e também hoje\" é um reforço cujo sentido está contido no termo anterior (B). A erra: \"e\" (conector aditivo) e \"também\" (reforço) não se anulam e são de uso corrente juntos; C inventa uma gradação inexistente; D erra porque a definição de escravo depende de não ter dois terços do dia para si, independentemente da atividade (\"não importa o que seja\"); E fala em valorização do trabalho, critério que o texto não usa.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-alesc-2024-ana-5",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALESC",
+   "ano": 2024,
+   "cargo": "Analista Legislativo III – Qualquer Área",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-iii-qualquer-areacns101-tipo-1.pdf"
+  },
+  "enunciado": "As opções a seguir apresentam frases em que há um termo sublinhado que estabelece relações de coesão com outro termo anterior.\nAssinale a frase em que a identificação desse termo anterior está equivocada.",
+  "alternativas": [
+   "Na prosperidade nossos amigos nos conhecem, mas na adversidade somos nós que os conhecemos. / os = nossos amigos.",
+   "Aquilo que nos agrada em nossos amigos é a atenção que eles nos dedicam. / que = aquilo.",
+   "Quanto mais velho você fica, mais fácil é chutar a sua idade. / sua = você.",
+   "Vou lhe dizer um grande segredo, meu caro. Não espere o juízo final. Ele se realiza todos os dias. / ele = o juízo final.",
+   "O Natal é a época em que as pessoas ficam sem dinheiro antes de ficarem sem amigos. / em que = Natal."
+  ],
+  "gabarito": 4,
+  "comentario": "Em E, o relativo \"em que\" retoma \"a época\", seu antecedente imediato, e não \"Natal\" — a identificação está equivocada. Nas demais está correta: \"os\" retoma \"nossos amigos\" (A), \"que\" retoma \"aquilo\" (B), \"sua\" refere-se a \"você\" (C) e \"Ele\" retoma \"o juízo final\" (D).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-alesc-2024-ana-6",
+  "disciplina": "portugues",
+  "assunto": "pt-reescrita",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALESC",
+   "ano": 2024,
+   "cargo": "Analista Legislativo III – Qualquer Área",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-iii-qualquer-areacns101-tipo-1.pdf"
+  },
+  "enunciado": "Observe a frase a seguir.\n“Os verdadeiros amigos são aqueles que realmente o conhecem e o amam independentemente de qualquer outra coisa.”\nO problema estrutural desse pensamento é que",
+  "alternativas": [
+   "mostra uma longa estruturação sem qualquer pausa interna.",
+   "a falta de identificação da realidade que é referida pelo termo “qualquer outra coisa”.",
+   "traz duas ocorrências do pronome “o” sem antecedente identificado.",
+   "apresenta um erro gramatical relacionado ao mau emprego de um pronome indefinido.",
+   "ocorre a utilização de uma linguagem popular em uma situação de linguagem culta."
+  ],
+  "gabarito": 2,
+  "comentario": "Os pronomes oblíquos \"o\" (\"o conhecem\", \"o amam\") não têm referente no texto: não se sabe a quem os amigos conhecem e amam — problema de coesão referencial (C). A extensão da frase não exige pausa (A); \"qualquer outra coisa\" é propositalmente genérico (B) e está gramaticalmente correto (D); a linguagem não é popular (E).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-alesc-2024-ana-7",
+  "disciplina": "portugues",
+  "assunto": "pt-tipologia",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALESC",
+   "ano": 2024,
+   "cargo": "Analista Legislativo III – Qualquer Área",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-iii-qualquer-areacns101-tipo-1.pdf"
+  },
+  "enunciado": "Entre os fragmentos textuais listados a seguir, assinale aquele que pode ser classificado como descritivo.",
+  "alternativas": [
+   "Não há limitação maior do que aquilo que você pensa.",
+   "Nunca tenha medo de sentar-se um pouco e pensar.",
+   "Mude seus pensamentos e você mudará o mundo.",
+   "É impressionante o que você não consegue quando não pergunta.",
+   "O aparelho de fax: máquina que permite que uma pessoa amontoe trabalho na mesa da gente."
+  ],
+  "gabarito": 4,
+  "comentario": "Em E, o fragmento caracteriza um objeto (o aparelho de fax), dizendo o que ele é e faz, em estrutura de definição — traço descritivo. B e C são injuntivos (verbos no imperativo: \"tenha\", \"mude\"); A e D são opiniões/reflexões de caráter argumentativo.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-alesc-2024-ana-8",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALESC",
+   "ano": 2024,
+   "cargo": "Analista Legislativo III – Qualquer Área",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-iii-qualquer-areacns101-tipo-1.pdf"
+  },
+  "enunciado": "Observe o pensamento a seguir.\n“Se você pensa que alguma coisa está certa só porque todos acham isso, não está pensando”.\nEsse pensamento se refere a um tipo de argumento que aparece utilizado no seguinte texto:",
+  "alternativas": [
+   "Como disse Einstein, faça o que você gosta e nunca mais trabalhará.",
+   "Uma pesquisa demonstrou que a população brasileira está ficando mais conservadora.",
+   "Todo mundo sabe que aquele que fala muito pouco faz.",
+   "Se chover, as ruas vão ficar alagadas e ninguém deve sair de casa.",
+   "Como vou ganhar bastante dinheiro em meu novo negócio, poderei facilmente pagar o empréstimo."
+  ],
+  "gabarito": 2,
+  "comentario": "O pensamento critica o argumento de consenso (apelo à maioria, ad populum): aceitar algo como certo porque \"todos acham\". Em C, \"Todo mundo sabe que...\" usa exatamente esse apelo. A é argumento de autoridade (Einstein); B apoia-se em dados de pesquisa; D e E são raciocínios de causa e consequência/condição.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-alesc-2024-ana-9",
+  "disciplina": "portugues",
+  "assunto": "pt-tipologia",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALESC",
+   "ano": 2024,
+   "cargo": "Analista Legislativo III – Qualquer Área",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-iii-qualquer-areacns101-tipo-1.pdf"
+  },
+  "enunciado": "Assinale o segmento textual que se classifica entre os textos injuntivos.",
+  "alternativas": [
+   "Um breve comentário pode ser fruto de uma longa deliberação.",
+   "A palavra é do tempo; o silêncio, da eternidade.",
+   "Um investigador que tem todas as respostas sequer entende as questões.",
+   "Se sua mente não é aberta, feche a boca também.",
+   "O segredo é o primeiro assunto essencial nos negócios de Estado."
+  ],
+  "gabarito": 3,
+  "comentario": "O texto injuntivo orienta o comportamento do leitor, tipicamente com verbo no imperativo. Em D, \"feche a boca\" é uma ordem/conselho dirigido ao interlocutor. As demais são afirmações gerais (aforismos) de caráter expositivo-argumentativo, sem instrução ao leitor.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-alesc-2024-ana-10",
+  "disciplina": "portugues",
+  "assunto": "pt-tipologia",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALESC",
+   "ano": 2024,
+   "cargo": "Analista Legislativo III – Qualquer Área",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-iii-qualquer-areacns101-tipo-1.pdf"
+  },
+  "texto": "“Na planície avermelhada os juazeiros alargavam duas manchas verdes. Os infelizes tinham caminhado o dia inteiro, estavam cansados e famintos. Ordinariamente andavam pouco, mas como haviam repousado bastante na areia do rio seco, a viagem progredira bem três léguas. Fazia horas que procuravam uma sombra. A folhagem dos juazeiros apareceu longe, através dos galhos pelados da catinga rala.”",
+  "enunciado": "Observe o parágrafo inicial do romance Vidas Secas, de Graciliano Ramos.\nA respeito desse parágrafo é correto afirmar que se trata de um texto",
+  "alternativas": [
+   "narrativo, com inserções descritivas.",
+   "exclusivamente descritivo.",
+   "integralmente narrativo.",
+   "narrativo com inserções argumentativas",
+   "descritivo com inserções argumentativas."
+  ],
+  "gabarito": 0,
+  "comentario": "O parágrafo relata ações dos personagens em sequência temporal (\"tinham caminhado\", \"haviam repousado\", \"procuravam uma sombra\") — base narrativa —, mas intercala trechos que caracterizam o cenário (\"planície avermelhada\", \"galhos pelados da catinga rala\") e o estado dos personagens (\"cansados e famintos\"). Logo, é narrativo com inserções descritivas (A). Não há argumentação (D, E), e o texto não é puramente descritivo nem puramente narrativo (B, C).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-alesc-2024-ana-11",
+  "disciplina": "portugues",
+  "assunto": "pt-tipologia",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALESC",
+   "ano": 2024,
+   "cargo": "Analista Legislativo III – Qualquer Área",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-iii-qualquer-areacns101-tipo-1.pdf"
+  },
+  "enunciado": "Observe o texto a seguir.\n“A Carteira de Identidade Nacional (CIN) está revolucionando a identificação dos cidadãos. Com um padrão nacional e um número único para todas as unidades da Federação, a emissão deste documento traz uma série de benefícios. De acordo com o Ministério da Gestão e Inovação em Serviços Públicos (MGI), já foram emitidas quatro milhões de unidades da nova Carteira de Identidade Nacional em todo o país. Em Rondônia, o serviço está disponível desde dezembro de 2023, e até o mês de março, foram cadastradas e emitidas um total de 26.844 CIN.” (UOL)\nQuanto à sua tipologia textual, esse segmento é do tipo",
+  "alternativas": [
+   "publicitário.",
+   "propagandístico.",
+   "informativo.",
+   "didático.",
+   "expressivo."
+  ],
+  "gabarito": 1,
+  "comentario": "O texto transmite fatos e dados objetivos (padrão nacional da CIN, número de unidades emitidas, data de disponibilidade em Rondônia), citando fonte oficial (MGI) — é informativo (C). Não procura vender produto (publicitário) nem difundir ideias (propagandístico), não tem finalidade de ensinar um conteúdo passo a passo (didático) nem expressa emoções do autor (expressivo).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-alesc-2024-ana-12",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALESC",
+   "ano": 2024,
+   "cargo": "Analista Legislativo III – Qualquer Área",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-iii-qualquer-areacns101-tipo-1.pdf"
+  },
+  "texto": "“A Caneta Cristal faz jus ao nome: mostra uma transparência cristalina, podendo-se acompanhar a disponibilidade de tinta no depósito. É muito elegante com sua pequena tampa que impede o vazamento de tinta para a roupa do usuário. Sua tinta seca rapidissimamente. É mais barata que as concorrentes no mercado”.",
+  "enunciado": "Leia o seguinte texto destinado a vender um tipo de caneta esferográfica.\nEm relação a esse texto, assinale a afirmativa incorreta.",
+  "alternativas": [
+   "Como toda publicidade mostra somente aspectos positivos do produto.",
+   "O texto apela para a sedução ao destacar a elegância da caneta anunciada.",
+   "O texto também se utiliza da intimidação ao indicar o perigo de vazamento de tinta.",
+   "A publicidade cita vantagem do usuário no terreno econômico, citando preço mais baixo.",
+   "O texto aborda também aspectos práticos vantajosos no uso do produto."
+  ],
+  "gabarito": 2,
+  "comentario": "A afirmativa C é a incorreta: o texto não intimida o leitor com o perigo de vazamento; ao contrário, apresenta a tampa que impede o vazamento como uma vantagem do produto. As demais são corretas: só há aspectos positivos (A), a elegância seduz (B), o preço mais baixo é vantagem econômica (D) e a transparência para ver a tinta e a secagem rápida são vantagens práticas (E).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-alesc-2024-ana-13",
+  "disciplina": "portugues",
+  "assunto": "pt-reescrita",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALESC",
+   "ano": 2024,
+   "cargo": "Analista Legislativo III – Qualquer Área",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-iii-qualquer-areacns101-tipo-1.pdf"
+  },
+  "enunciado": "Observe a frase a seguir.\n“Há sempre tempo para se dizer alguma coisa, mas não para se ficar em silêncio”.\nAssinale a modificação estrutural dessa frase que não está adequada.",
+  "alternativas": [
+   "Mudar formas reduzidas para formas desenvolvidas: “Há sempre tempo para que se diga alguma coisa, mas não para que se fique em silêncio”.",
+   "Mudança de voz passiva para voz ativa: “Há sempre tempo para que digamos alguma coisa, mas não para que fiquemos em silêncio”.",
+   "Inversão na posição de termos: “Nem sempre há tempo para se ficar em silêncio, mas há sempre tempo para se dizer alguma coisa”.",
+   "Troca de forma impessoal por forma personalizada: “Há sempre tempo para que digamos alguma coisa, mas não para que fiquemos em silêncio”.",
+   "Mudança de tempo da frase para o passado: “Houve sempre tempo para que disséssemos algo, mas não para que ficássemos em silêncio”."
+  ],
+  "gabarito": 1,
+  "comentario": "A banca apontou B como inadequada: a reescrita é idêntica à de D e o que ocorre nela é a passagem de formas impessoais (\"se dizer\", \"se ficar\" — \"ficar\" é intransitivo, com o \"se\" indeterminando o sujeito, sem voz passiva) para formas pessoais (\"digamos\", \"fiquemos\"); por isso o rótulo \"voz passiva para voz ativa\" não descreve corretamente a modificação. A (orações reduzidas → desenvolvidas), D (impessoal → pessoal) e E (passagem ao passado) estão bem nomeadas. Em C, a banca considerou válida a inversão de termos, embora \"nem sempre\" atenue o \"não\" do original.",
+  "dificuldade": 3,
+  "anulada": false
+ },
+ {
+  "id": "fgv-alesc-2024-ana-14",
+  "disciplina": "portugues",
+  "assunto": "pt-sintaxe",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALESC",
+   "ano": 2024,
+   "cargo": "Analista Legislativo III – Qualquer Área",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-iii-qualquer-areacns101-tipo-1.pdf"
+  },
+  "enunciado": "Assinale a frase que mostra um erro quanto à norma culta da língua.",
+  "alternativas": [
+   "Minha saúde está boa. A idade é que está ruim.",
+   "As palavras são os médicos de uma mente doente.",
+   "Grande parte da saúde consiste em desejá-la",
+   "Os médicos acusam a natureza, os enfermos aos médicos.",
+   "Dar nome a uma doença é apressar-lhe os avanços."
+  ],
+  "gabarito": 3,
+  "comentario": "O verbo \"acusar\" (no sentido de culpar) é transitivo direto: acusa-se alguém. Em D, \"os enfermos [acusam] aos médicos\" emprega indevidamente a preposição; o correto seria \"os enfermos, os médicos\". As demais estão corretas: expressão de realce \"é que\" (A), concordância regular (B), \"consistir em\" com pronome \"-la\" (C) e \"lhe\" com valor possessivo (\"apressar os seus avanços\") em E.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-alesc-2024-ana-15",
+  "disciplina": "portugues",
+  "assunto": "pt-pontuacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALESC",
+   "ano": 2024,
+   "cargo": "Analista Legislativo III – Qualquer Área",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-iii-qualquer-areacns101-tipo-1.pdf"
+  },
+  "enunciado": "Assinale a frase em que se comete um erro de pontuação.",
+  "alternativas": [
+   "Riso. O mais inocente de todos os diuréticos.",
+   "Todos os maus são bebedores de água: está bem provado com o dilúvio.",
+   "Para o homem sensual, todo alimento é doce.",
+   "O doutor Riso e o doutor Sono: os dois melhores médicos que existem.",
+   "Eu prefiro consultar médicos, mas ela videntes."
+  ],
+  "gabarito": 4,
+  "comentario": "Em E há elipse do verbo na segunda oração (\"mas ela [prefere consultar] videntes\"), e a omissão do verbo deve ser marcada por vírgula: \"mas ela, videntes\". Nas demais a pontuação é adequada: ponto em frase nominal (A), dois-pontos introduzindo explicação (B, D) e vírgula após adjunto adverbial anteposto (C).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-alesc-2024-ana-16",
+  "disciplina": "portugues",
+  "assunto": "pt-sintaxe",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALESC",
+   "ano": 2024,
+   "cargo": "Analista Legislativo III – Qualquer Área",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-iii-qualquer-areacns101-tipo-1.pdf"
+  },
+  "enunciado": "Assinale a frase a seguir que se apresenta em ordem direta.",
+  "alternativas": [
+   "Deus manda a comida e o diabo manda os cozinheiros.",
+   "Todos os trabalhos, comendo, passam depressa.",
+   "Difícil coisa é entrar em discussões com a barriga vazia.",
+   "É a mente que enriquece o corpo.",
+   "Se os sentidos mentem, nossa razão é falsa."
+  ],
+  "gabarito": 0,
+  "comentario": "Ordem direta = sujeito + verbo + complementos, com as orações principais antes das subordinadas. A apresenta duas orações nessa ordem (Deus / manda / a comida; o diabo / manda / os cozinheiros). B intercala o gerúndio entre sujeito e verbo; C antepõe o predicativo (\"Difícil coisa é...\"); D usa a construção de realce \"É... que\"; E antepõe a oração condicional à principal.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-alesc-2024-ana-17",
+  "disciplina": "portugues",
+  "assunto": "pt-sintaxe",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALESC",
+   "ano": 2024,
+   "cargo": "Analista Legislativo III – Qualquer Área",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-iii-qualquer-areacns101-tipo-1.pdf"
+  },
+  "enunciado": "Num diálogo teatral, um dos personagens diz a seguinte frase:\n— Só sairei daqui amanhã de manhã.\nEssa frase, em discurso indireto, seria",
+  "alternativas": [
+   "Ele disse que só sairia daquele lugar no dia seguinte, pela manhã.",
+   "Ele disse que só saía de lá amanhã pela manhã.",
+   "Ele disse que só sairia de lá na manhã do amanhã.",
+   "Ele disse que só saía daquele lugar na manhã do dia seguinte.",
+   "Ele disse que só sairia daqui na manhã do dia seguinte."
+  ],
+  "gabarito": 0,
+  "comentario": "Na passagem ao discurso indireto com verbo dicendi no pretérito: o futuro do presente vira futuro do pretérito (sairei → sairia), \"daqui\" vira \"daquele lugar/de lá\" e \"amanhã\" vira \"no dia seguinte\". Só A faz as três transformações. B e D usam o imperfeito \"saía\"; B e C mantêm \"amanhã\"; E mantém \"daqui\".",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-alesc-2024-ana-18",
+  "disciplina": "portugues",
+  "assunto": "pt-linguagem",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALESC",
+   "ano": 2024,
+   "cargo": "Analista Legislativo III – Qualquer Área",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-iii-qualquer-areacns101-tipo-1.pdf"
+  },
+  "enunciado": "Assinale a frase que não mostra marcas de linguagem informal.",
+  "alternativas": [
+   "Os animais pastam; a gente come.",
+   "A mesa mata mais gente do que a guerra.",
+   "Tem tempo que eles não vêm aqui.",
+   "Me disseram que a verdade apareceria.",
+   "Eles vieram com um disse me disse, mas não acreditei."
+  ],
+  "gabarito": 1,
+  "comentario": "Em B, \"gente\" é substantivo (pessoas) usado em registro formal, sem marca de informalidade. Nas demais há marcas coloquiais: \"a gente\" como pronome equivalente a \"nós\" (A), \"tem\" no sentido de \"faz/há\" (C), próclise em início de frase (\"Me disseram\") (D) e a expressão popular \"disse me disse\" (E).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-alesc-2024-ana-19",
+  "disciplina": "portugues",
+  "assunto": "pt-linguagem",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALESC",
+   "ano": 2024,
+   "cargo": "Analista Legislativo III – Qualquer Área",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-iii-qualquer-areacns101-tipo-1.pdf"
+  },
+  "enunciado": "Assinale a frase em que predomina a função metalinguística da linguagem.",
+  "alternativas": [
+   "Mentes criativas são conhecidas por resistirem a todo tipo de mau treinamento.",
+   "Nada revela com tanta segurança o caráter de uma pessoa como a sua voz.",
+   "Comida saudável é tudo o que se come antes do término da data de validade.",
+   "A ginástica é vulgar porque faz as pessoas cheirarem mal.",
+   "A caixa cerebral de um homem rotineiro é um porta-joias vazio."
+  ],
+  "gabarito": 2,
+  "comentario": "A função metalinguística ocorre quando a linguagem se volta para o próprio código, por exemplo ao definir uma expressão. Em C, a frase define (com humor) o que significa \"comida saudável\", como faria um verbete. A, B e D são opiniões/juízos sobre o mundo (função referencial com traço opinativo) e E é uma metáfora (função poética predominante).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-alesc-2024-ana-20",
+  "disciplina": "portugues",
+  "assunto": "pt-reescrita",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALESC",
+   "ano": 2024,
+   "cargo": "Analista Legislativo III – Qualquer Área",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-iii-qualquer-areacns101-tipo-1.pdf"
+  },
+  "enunciado": "A Redação Oficial se apoia em alguns pilares, entre os quais a correção, a clareza e a brevidade.\nAssinale a frase em que foram seguidas todas essas normas.",
+  "alternativas": [
+   "A cura é uma questão de tempo, mas às vezes também é uma questão de oportunidade repentina.",
+   "Estar doente, considero, um dos grandes prazeres da vida, contanto que não se esteja doente demais.",
+   "Nossa mãe lhe preveniu várias vezes de que deveria economizar para a velhice.",
+   "Quem disse que ganhar ou perder não importa provavelmente perdeu.",
+   "Os jogos das crianças são ocupações sérias, pois somente os adultos jogam jogos de crianças."
+  ],
+  "gabarito": 3,
+  "comentario": "D é correta, clara e breve. A é prolixa (repete \"é uma questão de\"); B tem construção truncada, com \"considero\" intercalado e vírgulas que separam o sujeito oracional de seu predicativo (o claro seria \"Considero estar doente um dos...\"); C tem erro de regência (prevenir alguém de algo: \"preveniu-o\", não \"lhe preveniu\"); E é incoerente, pois a explicação introduzida por \"pois\" não justifica a afirmação anterior.",
+  "dificuldade": 2,
+  "anulada": false
+ }
+]

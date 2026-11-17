@@ -1,0 +1,227 @@
+[
+ {
+  "id": "fgv-alesc-2024-ana-21",
+  "disciplina": "rlm",
+  "assunto": "rlm-proporcao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALESC",
+   "ano": 2024,
+   "cargo": "Analista Legislativo III – Qualquer Área",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-iii-qualquer-areacns101-tipo-1.pdf"
+  },
+  "enunciado": "Um terreno de 1400m² foi dividido em três partes e suas áreas são representadas por A. B e C. Sabe-se que B é igual a dois terços de A e que C é igual a cinco sextos de B.\nA área do menor terreno é igual a",
+  "alternativas": [
+   "280m².",
+   "320m².",
+   "350m².",
+   "420m².",
+   "630m²."
+  ],
+  "gabarito": 2,
+  "comentario": "B = 2A/3 e C = (5/6)·(2A/3) = 10A/18 = 5A/9. Somando: A + 6A/9 + 5A/9 = 20A/9 = 1400 ⇒ A = 630. Logo B = 420 e C = 350. O menor terreno tem 350 m².",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-alesc-2024-ana-22",
+  "disciplina": "rlm",
+  "assunto": "rlm-problemas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALESC",
+   "ano": 2024,
+   "cargo": "Analista Legislativo III – Qualquer Área",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-iii-qualquer-areacns101-tipo-1.pdf"
+  },
+  "enunciado": "A diretoria de um condomínio é constituída por quatro pessoas: um presidente, um vice-presidente e dois secretários.\nPara ocupar esses cargos seis pessoas se candidataram.\nCom as pessoas que se candidataram, o número de diretorias diferentes possíveis que podem ser formadas é igual a",
+  "alternativas": [
+   "60.",
+   "90.",
+   "120.",
+   "180.",
+   "360."
+  ],
+  "gabarito": 3,
+  "comentario": "Presidente: 6 opções; vice: 5 opções (cargos distintos, a ordem importa). Os dois secretários ocupam cargos iguais, então escolhe-se uma combinação dos 4 restantes: C(4,2) = 6. Total: 6 × 5 × 6 = 180. Usar 6×5×4×3 = 360 contaria em dobro cada dupla de secretários.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-alesc-2024-ana-24",
+  "disciplina": "rlm",
+  "assunto": "rlm-conjuntos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALESC",
+   "ano": 2024,
+   "cargo": "Analista Legislativo III – Qualquer Área",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-iii-qualquer-areacns101-tipo-1.pdf"
+  },
+  "enunciado": "Em uma prateleira há 15 latas iguais e vazias. Em algumas delas são colocadas bolinhas pretas e bolinhas brancas. Sabe-se que 7 latas contêm bolinhas pretas, 5 latas contêm bolinhas brancas e 3 latas contém bolinhas pretas e bolinhas brancas.\nO número de latas que ficaram vazias é igual a",
+  "alternativas": [
+   "3.",
+   "4.",
+   "5.",
+   "6.",
+   "7."
+  ],
+  "gabarito": 3,
+  "comentario": "Latas com alguma bolinha = n(P ∪ B) = n(P) + n(B) − n(P ∩ B) = 7 + 5 − 3 = 9. Vazias: 15 − 9 = 6.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-alesc-2024-ana-25",
+  "disciplina": "rlm",
+  "assunto": "rlm-numeros",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALESC",
+   "ano": 2024,
+   "cargo": "Analista Legislativo III – Qualquer Área",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-iii-qualquer-areacns101-tipo-1.pdf"
+  },
+  "enunciado": "Em um depósito havia 12 caixotes. Substituiu-se um deles por um caixote de 17kg e, com isso, a média dos pesos de todos os caixotes diminuiu em 2kg.\nO peso do caixote retirado era de",
+  "alternativas": [
+   "33kg.",
+   "35kg.",
+   "37kg.",
+   "39kg.",
+   "41kg."
+  ],
+  "gabarito": 4,
+  "comentario": "Como o número de caixotes continua 12, a média cair 2 kg significa que o total caiu 12 × 2 = 24 kg. Então: peso retirado − 17 = 24 ⇒ peso retirado = 41 kg.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-alesc-2024-ana-26",
+  "disciplina": "rlm",
+  "assunto": "rlm-relacoes",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALESC",
+   "ano": 2024,
+   "cargo": "Analista Legislativo III – Qualquer Área",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-iii-qualquer-areacns101-tipo-1.pdf"
+  },
+  "enunciado": "Cinco carros (V, W, X, Y e Z) disputam uma corrida em um autódromo. Dada a largada, no final da primeira volta a ordem dos carros era V – W – X – Y – Z.\nDurante a corrida ocorreram, em sequência, as seguintes ultrapassagens:\n• o 3º fez uma ultrapassagem;\n• o 5º fez duas ultrapassagens;\n• o 3º fez duas ultrapassagens;\n• o 4º fez duas ultrapassagens.\nDepois disso, nenhuma outra ultrapassagem ocorreu e a corrida terminou.\nPortanto, o único carro que chegou na mesma posição de partida foi:",
+  "alternativas": [
+   "V.",
+   "W.",
+   "X",
+   "Y.",
+   "Z."
+  ],
+  "gabarito": 1,
+  "comentario": "Início: V W X Y Z. O 3º (X) passa 1: V X W Y Z. O 5º (Z) passa 2: V X Z W Y. O 3º (agora Z) passa 2: Z V X W Y. O 4º (W) passa 2: Z W V X Y. Comparando com V W X Y Z, só W está na mesma posição (2º).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-alesc-2024-ana-27",
+  "disciplina": "rlm",
+  "assunto": "rlm-sequencias",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALESC",
+   "ano": 2024,
+   "cargo": "Analista Legislativo III – Qualquer Área",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-iii-qualquer-areacns101-tipo-1.pdf"
+  },
+  "enunciado": "Uma sequência de números naturais possui a propriedade:\n“Se x é um termo da sequência, então o termo seguinte é o algarismo das unidades de 2x + 1.”\nO primeiro termo da sequência é o número 6.\nO 2024º termo dessa sequência é",
+  "alternativas": [
+   "1.",
+   "3.",
+   "5.",
+   "6.",
+   "7."
+  ],
+  "gabarito": 2,
+  "comentario": "Calculando: 6 → 2·6+1 = 13 → 3; 3 → 7; 7 → 15 → 5; 5 → 11 → 1; 1 → 3; ... A partir do 2º termo repete-se o ciclo 3, 7, 5, 1 (período 4). O 2024º termo ocupa a posição 2024 − 1 = 2023 dentro do ciclo; 2023 = 4·505 + 3, ou seja, é o 3º elemento do ciclo: 5.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-alesc-2024-ana-28",
+  "disciplina": "rlm",
+  "assunto": "rlm-numeros",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALESC",
+   "ano": 2024,
+   "cargo": "Analista Legislativo III – Qualquer Área",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-iii-qualquer-areacns101-tipo-1.pdf"
+  },
+  "enunciado": "Considere o seguinte conjunto de medidas, no qual X é um número inteiro positivo: 10, 13, 17, X, 10.\nSabe-se que a média é uma unidade maior do que a mediana.\nA soma dos possíveis valores de X é:",
+  "alternativas": [
+   "10.",
+   "15.",
+   "20.",
+   "25.",
+   "30."
+  ],
+  "gabarito": 3,
+  "comentario": "Média = (50 + X)/5. Casos da mediana (3º valor em ordem): se X ≤ 10, mediana 10 ⇒ (50+X)/5 = 11 ⇒ X = 5 (válido). Se 10 < X < 13, mediana X ⇒ 50 + X = 5X + 5 ⇒ X = 11,25 (não inteiro). Se X ≥ 13, mediana 13 ⇒ (50+X)/5 = 14 ⇒ X = 20 (válido). Soma: 5 + 20 = 25.",
+  "dificuldade": 3,
+  "anulada": false
+ },
+ {
+  "id": "fgv-alesc-2024-ana-29",
+  "disciplina": "rlm",
+  "assunto": "rlm-proposicoes",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALESC",
+   "ano": 2024,
+   "cargo": "Analista Legislativo III – Qualquer Área",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-iii-qualquer-areacns101-tipo-1.pdf"
+  },
+  "enunciado": "Considere a sentença:\n“Se X ≤ 6 e Y > 4, então X − Y ≤ 2”.\nUma sentença logicamente equivalente à sentença dada é",
+  "alternativas": [
+   "Se X > 6 e Y ≤ 4, então X − Y > 2.",
+   "Se X − Y ≤ 2, então X ≤ 6 e Y > 4.",
+   "Se X > 6 ou Y ≤ 4, então X − Y > 2.",
+   "X > 6 ou Y ≤ 4 ou X − Y ≤ 2.",
+   "X > 6 e Y ≤ 4 ou X − Y ≤ 2."
+  ],
+  "gabarito": 3,
+  "comentario": "Use p → q ≡ ~p ∨ q, com p = (X ≤ 6 e Y > 4) e q = (X − Y ≤ 2). Pela lei de De Morgan, ~p = (X > 6 ou Y ≤ 4). Assim: \"X > 6 ou Y ≤ 4 ou X − Y ≤ 2\" (D). A e C negam antecedente e consequente sem inverter (inversa, não equivalente); B é a recíproca; E troca o \"ou\" da negação de p por \"e\".",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-alesc-2024-ana-30",
+  "disciplina": "rlm",
+  "assunto": "rlm-proporcao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALESC",
+   "ano": 2024,
+   "cargo": "Analista Legislativo III – Qualquer Área",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-iii-qualquer-areacns101-tipo-1.pdf"
+  },
+  "enunciado": "Átila fez 30% de uma tarefa trabalhando 4 horas por dia durante 3 dias.\nSe trabalhar, com a mesma eficiência, 8 horas por dia durante 2 dias, a porcentagem da tarefa que Átila fará será igual a",
+  "alternativas": [
+   "10%.",
+   "20%.",
+   "25%",
+   "30%.",
+   "40%."
+  ],
+  "gabarito": 4,
+  "comentario": "Primeiro caso: 4 × 3 = 12 horas para 30% (2,5% por hora). Segundo caso: 8 × 2 = 16 horas. Com a mesma eficiência: 16 × 2,5% = 40% (ou 30% × 16/12 = 40%).",
+  "dificuldade": 1,
+  "anulada": false
+ }
+]

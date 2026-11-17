@@ -1,0 +1,332 @@
+[
+  {
+    "id": "aut-leg-res08-2025-001",
+    "disciplina": "legislacao",
+    "assunto": "leg-res08-2025",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.normasbrasil.com.br/norma/resolucao-8-2025_478465.html"
+    },
+    "enunciado": "A psicóloga Marta foi convidada a integrar a Banca Avaliadora da avaliação psicológica de um concurso público em que seu sobrinho (parente consanguíneo de terceiro grau) é candidato. Segundo a Resolução CFP nº 8/2025, Marta:",
+    "alternativas": [
+      "pode atuar normalmente, pois o impedimento só alcança parentes até o segundo grau.",
+      "pode atuar, desde que não avalie pessoalmente o sobrinho, que será encaminhado a outro integrante da banca.",
+      "está impedida de atuar em qualquer atividade referente à avaliação psicológica desse certame.",
+      "está impedida apenas de integrar a Banca Revisora, podendo atuar na Banca Avaliadora.",
+      "pode atuar, desde que comunique o parentesco ao CRP antes do início das aplicações."
+    ],
+    "gabarito": 2,
+    "comentario": "O art. 4º da Res. CFP 8/2025 dispõe que psicólogas e psicólogos 'que sejam cônjuges ou companheiros, ou parentes consanguíneos ou por afinidade até o terceiro grau do candidato, estão impedidos de atuar em qualquer atividade referente à Avaliação Psicológica' em concursos e seleções públicas. O sobrinho é parente de terceiro grau, e o impedimento abrange toda a avaliação, não só o atendimento do candidato.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res08-2025-002",
+    "disciplina": "legislacao",
+    "assunto": "leg-res08-2025",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.normasbrasil.com.br/norma/resolucao-8-2025_478465.html"
+    },
+    "enunciado": "Um psicólogo da Banca Avaliadora constatou que um dos candidatos que deveria avaliar move contra ele uma ação judicial. Conforme a Resolução CFP nº 8/2025, o psicólogo deverá:",
+    "alternativas": [
+      "declarar-se impedido de avaliar esse candidato, que deverá ser encaminhado a outro integrante da Banca Avaliadora ou da Banca Revisora.",
+      "avaliar o candidato normalmente, pois o litígio judicial não está entre as hipóteses de impedimento.",
+      "avaliar o candidato, registrando o litígio no documento resultante da avaliação.",
+      "afastar-se de todo o certame, pois o litígio gera impedimento absoluto equivalente ao parentesco, comunicando o fato ao CRP de sua jurisdição.",
+      "solicitar ao CRP autorização para avaliar o candidato."
+    ],
+    "gabarito": 0,
+    "comentario": "O art. 5º, III, da Res. CFP 8/2025 determina que o psicólogo se declare impedido de avaliar candidatos com os quais 'estejam litigando judicial ou administrativamente'. Pelo parágrafo único, o candidato deve ser encaminhado a outro integrante da Banca Avaliadora ou da Banca Revisora. Diferentemente do art. 4º (parentesco), o impedimento do art. 5º refere-se à avaliação daquele candidato.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res08-2025-003",
+    "disciplina": "legislacao",
+    "assunto": "leg-res08-2025",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.normasbrasil.com.br/norma/resolucao-8-2025_478465.html"
+    },
+    "enunciado": "Segundo a Resolução CFP nº 8/2025, a avaliação psicológica em concursos públicos e seleções de natureza pública:",
+    "alternativas": [
+      "tem como finalidade principal realizar psicodiagnóstico para identificar psicopatologias que impeçam o exercício do cargo, com base nos critérios do edital e do exame médico.",
+      "consiste em uma seleção profissional com a finalidade de identificar requisitos psicológicos do candidato compatíveis com as atividades do cargo pretendido.",
+      "pode ser conduzida por qualquer profissional de saúde capacitado, sob supervisão de psicólogo.",
+      "tem por finalidade classificar os candidatos por ordem de pontuação nos testes aplicados.",
+      "destina-se a verificar a saúde mental do candidato, em complemento ao exame médico admissional."
+    ],
+    "gabarito": 1,
+    "comentario": "O art. 6º da Res. CFP 8/2025 define a avaliação como 'seleção profissional com a finalidade de identificar requisitos psicológicos do candidato compatíveis com as atividades a serem desempenhadas em cargo pretendido'; o § 1º afirma que ela 'não tem como finalidade realizar psicodiagnóstico com objetivo de identificar psicopatologias'; e o § 2º reafirma que o uso de métodos e técnicas psicológicas para seleção é privativo de psicólogas e psicólogos (art. 13, § 1º, 'b', da Lei 4.119/1962). O resultado é apto/inapto, não ranking.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res08-2025-004",
+    "disciplina": "legislacao",
+    "assunto": "leg-res08-2025",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.normasbrasil.com.br/norma/resolucao-8-2025_478465.html"
+    },
+    "enunciado": "De acordo com a Resolução CFP nº 8/2025, os requisitos psicológicos a serem avaliados em um concurso público:",
+    "alternativas": [
+      "são definidos livremente pelo órgão contratante, com base no perfil institucional desejado.",
+      "correspondem às normas dos testes escolhidos, fixadas pelo SATEPSI.",
+      "devem ser identificados pelo estudo científico do cargo (profissiografia), abrangendo características necessárias e características restritivas ou impeditivas para a atividade.",
+      "limitam-se às características psicológicas necessárias para o cargo, sendo vedado estabelecer características restritivas ou impeditivas, por configurarem discriminação do candidato.",
+      "são definidos pela Banca Revisora após a aplicação dos instrumentos."
+    ],
+    "gabarito": 2,
+    "comentario": "O art. 7º da Res. CFP 8/2025 determina que os requisitos psicológicos sejam identificados 'por meio do estudo científico do cargo, denominado profissiografia ou análise profissiográfica', referindo-se a (a) características necessárias e (b) características restritivas ou impeditivas para a atividade do cargo. A Banca Examinadora fundamenta a aptidão ou inaptidão nesses requisitos previamente estabelecidos (inciso II).",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res08-2025-005",
+    "disciplina": "legislacao",
+    "assunto": "leg-res08-2025",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.normasbrasil.com.br/norma/resolucao-8-2025_478465.html"
+    },
+    "enunciado": "Pela Resolução CFP nº 8/2025, a responsabilidade técnica da Banca Examinadora da Avaliação Psicológica tem prazo de:",
+    "alternativas": [
+      "até dois anos, contados da homologação do resultado do concurso.",
+      "até cinco anos, contados da data de aplicação dos instrumentos.",
+      "até dez anos, contados da data de publicação do resultado final do concurso.",
+      "até cinco anos, contados da data de publicação do resultado final.",
+      "prazo indeterminado, enquanto o candidato estiver no cargo."
+    ],
+    "gabarito": 3,
+    "comentario": "O art. 8º, § 1º, da Res. CFP 8/2025 dispõe que a responsabilidade técnica da Banca Examinadora, exercida por psicólogas e psicólogos, 'tem prazo de até cinco anos, contados da data de publicação do resultado final'. As alternativas trocam o prazo ou o marco inicial da contagem.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res08-2025-006",
+    "disciplina": "legislacao",
+    "assunto": "leg-res08-2025",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.normasbrasil.com.br/norma/resolucao-8-2025_478465.html"
+    },
+    "enunciado": "Considere as afirmativas sobre a Banca Examinadora da Avaliação Psicológica, segundo a Resolução CFP nº 8/2025.\nI. Seus integrantes assinarão termo de confidencialidade referente às informações pessoais dos candidatos acessadas durante o certame.\nII. O sigilo dos nomes de seus integrantes será resguardado, podendo ser disponibilizado aos órgãos de controle interno e externo, se solicitado.\nIII. Os currículos de seus integrantes deverão ser disponibilizados no sítio eletrônico da entidade responsável pelo certame.\nEstá correto o que se afirma em:",
+    "alternativas": [
+      "I, apenas.",
+      "I e II, apenas.",
+      "II e III, apenas.",
+      "I e III, apenas.",
+      "I, II e III."
+    ],
+    "gabarito": 4,
+    "comentario": "As três afirmativas reproduzem o art. 8º da Res. CFP 8/2025: termo de confidencialidade (§ 2º), sigilo dos nomes com possibilidade de acesso pelos órgãos de controle interno e externo (§ 3º) e divulgação dos currículos no sítio da entidade responsável pelo certame (§ 4º). Note que o sigilo recai sobre os nomes, não sobre os currículos.",
+    "dificuldade": 3,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res08-2025-007",
+    "disciplina": "legislacao",
+    "assunto": "leg-res08-2025",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.normasbrasil.com.br/norma/resolucao-8-2025_478465.html"
+    },
+    "enunciado": "Na Resolução CFP nº 8/2025, os psicólogos responsáveis pela aplicação e correção de métodos, técnicas e instrumentos e pela devolutiva dos resultados compõem a:",
+    "alternativas": [
+      "Banca Examinadora da Avaliação Psicológica, que responde por suas próprias atividades e pelas da Banca Revisora.",
+      "Banca Revisora da Avaliação Psicológica, sob responsabilidade do CRP.",
+      "Comissão Técnica do Certame, subordinada à entidade organizadora.",
+      "Banca Avaliadora da Avaliação Psicológica, cujas atividades são de responsabilidade da Banca Examinadora.",
+      "Banca Avaliadora da Avaliação Psicológica, que assume a responsabilidade técnica de toda a avaliação do concurso."
+    ],
+    "gabarito": 3,
+    "comentario": "Pelo art. 9º da Res. CFP 8/2025, os responsáveis pela aplicação, correção e devolutiva são denominados Banca Avaliadora, e o parágrafo único dispõe que 'a Banca Examinadora da Avaliação Psicológica é responsável pelas atividades executadas pela Banca Avaliadora'. A responsabilidade técnica de toda a avaliação é da Banca Examinadora (art. 8º), e a Banca Revisora, que analisa recursos, atua de forma independente (art. 10).",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res08-2025-008",
+    "disciplina": "legislacao",
+    "assunto": "leg-res08-2025",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.normasbrasil.com.br/norma/resolucao-8-2025_478465.html"
+    },
+    "enunciado": "Uma psicóloga que aplicou testes como integrante da Banca Avaliadora foi indicada, por sua experiência, para compor a Banca Revisora do mesmo concurso. Segundo a Resolução CFP nº 8/2025, a indicação é:",
+    "alternativas": [
+      "regular, desde que ela não analise recursos de candidatos que tenha avaliado pessoalmente na etapa de aplicação.",
+      "irregular, pois quem tenha participado de etapas do certame fica impedido de integrar a Banca Revisora.",
+      "regular, pois a Banca Revisora deve ser composta preferencialmente por quem conhece o certame.",
+      "irregular apenas se ela também tiver integrado a Banca Examinadora.",
+      "regular, desde que autorizada pela Banca Examinadora."
+    ],
+    "gabarito": 1,
+    "comentario": "O art. 10 da Res. CFP 8/2025 prevê que a Banca Revisora analise o resultado 'de maneira independente e imparcial', e seu parágrafo único dispõe que 'os membros da Banca Examinadora, da Banca Avaliadora da Avaliação Psicológica e quaisquer outras psicólogas e psicólogos que tenham participado de etapas do certame ficam impedidos de integrar a Banca Revisora'.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res08-2025-009",
+    "disciplina": "legislacao",
+    "assunto": "leg-res08-2025",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.normasbrasil.com.br/norma/resolucao-8-2025_478465.html"
+    },
+    "enunciado": "Ao participar da definição do conteúdo do edital referente à avaliação psicológica de um concurso, a psicóloga, segundo a Resolução CFP nº 8/2025, deve:",
+    "alternativas": [
+      "divulgar os nomes dos testes que serão aplicados, para garantir a transparência do certame.",
+      "informar no edital os escores mínimos a serem atingidos em cada instrumento.",
+      "especificar, de modo objetivo, pelo menos um extrato dos requisitos psicológicos a serem avaliados, com base no estudo científico do cargo.",
+      "prever entrevista devolutiva e recurso administrativo para todos os candidatos, aptos e inaptos, assegurando a cada um o acesso aos testes aplicados.",
+      "abster-se de mencionar requisitos psicológicos, que são sigilosos até a divulgação do resultado."
+    ],
+    "gabarito": 2,
+    "comentario": "O art. 12, I, da Res. CFP 8/2025 exige especificar 'de modo objetivo, pelo menos um extrato dos requisitos psicológicos a serem avaliados com base no estudo científico do cargo'. O inciso II determina prever devolutiva e recurso para os candidatos considerados inaptos (não para todos), e o parágrafo único veda divulgar os nomes dos instrumentos e os escores a serem atingidos. O art. 11 torna obrigatória a participação de psicólogo na elaboração desse conteúdo.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res08-2025-010",
+    "disciplina": "legislacao",
+    "assunto": "leg-res08-2025",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.normasbrasil.com.br/norma/resolucao-8-2025_478465.html"
+    },
+    "enunciado": "Na organização de uma aplicação coletiva presencial de avaliação psicológica de concurso, não havendo regulamentação específica para aplicações coletivas, a Resolução CFP nº 8/2025 determina o limite máximo de:",
+    "alternativas": [
+      "20 candidatos por sala.",
+      "30 candidatos por sala.",
+      "50 candidatos por sala.",
+      "60 candidatos por sala, com dois aplicadores.",
+      "40 candidatos por sala."
+    ],
+    "gabarito": 4,
+    "comentario": "O art. 14, IV, 'a', da Res. CFP 8/2025 dispõe que, 'não havendo regulamentação específica para aplicações coletivas, as psicólogas e os psicólogos devem respeitar o limite máximo de 40 candidatos por sala', no contexto do dever de assegurar ambiente físico adequado nas aplicações presenciais.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res08-2025-011",
+    "disciplina": "legislacao",
+    "assunto": "leg-res08-2025",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.normasbrasil.com.br/norma/resolucao-8-2025_478465.html"
+    },
+    "enunciado": "Um candidato considerado inapto compareceu à entrevista devolutiva acompanhado de sua esposa, de um advogado e de uma psicóloga por ele contratada, devidamente inscrita no CRP e que não participou do certame. Segundo a Resolução CFP nº 8/2025:",
+    "alternativas": [
+      "todos podem participar, pois a devolutiva é pública.",
+      "apenas o advogado pode acompanhar o candidato, por se tratar de ato preparatório de recurso administrativo, em que se assegura ampla defesa, vedada a presença de familiares e de outros psicólogos.",
+      "apenas a psicóloga contratada pode acompanhá-lo, pois só o candidato pode conhecer os resultados, sendo-lhe facultado o acompanhamento por psicóloga inscrita que não integrou o certame.",
+      "ninguém pode acompanhá-lo, nem mesmo psicóloga contratada.",
+      "a esposa e a psicóloga podem acompanhá-lo, mas o advogado não."
+    ],
+    "gabarito": 2,
+    "comentario": "O art. 15 da Res. CFP 8/2025 prevê que é facultado 'ao candidato, e somente a este, conhecer os resultados da avaliação por meio de entrevista devolutiva' (inciso I), e que lhe é facultado contratar, por sua decisão e responsabilidade, psicóloga ou psicólogo inscrito e ativo no CRP, que não tenha feito parte do certame, para acompanhá-lo (inciso II). Familiares e advogado não estão contemplados.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res08-2025-012",
+    "disciplina": "legislacao",
+    "assunto": "leg-res08-2025",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.normasbrasil.com.br/norma/resolucao-8-2025_478465.html"
+    },
+    "enunciado": "Durante a entrevista devolutiva de um concurso, o candidato pediu para gravar o áudio da conversa e para levar para casa sua folha de leitura ótica a fim de preparar o recurso. Nos termos da Resolução CFP nº 8/2025:",
+    "alternativas": [
+      "ambos devem ser negados: a devolutiva não pode ser gravada, filmada nem fotografada, e os instrumentos e folhas de leitura ótica não podem ser removidos do local de arquivamento.",
+      "a gravação é permitida, mas a folha de leitura ótica não pode ser removida.",
+      "a remoção da folha de leitura ótica é permitida mediante recibo, para instruir o recurso, mas a gravação do áudio é vedada por expor o conteúdo dos instrumentos e a técnica utilizada.",
+      "ambos os pedidos devem ser atendidos, em respeito ao direito de defesa.",
+      "ambos os pedidos dependem de autorização da Banca Revisora."
+    ],
+    "gabarito": 0,
+    "comentario": "O art. 16 da Res. CFP 8/2025 veda, na entrevista devolutiva, 'a remoção dos instrumentos utilizados na avaliação psicológica do seu local de arquivamento público, nem das folhas de leitura ótica', e o art. 17 dispõe que 'a entrevista devolutiva não poderá ser filmada, gravada nem fotografada'. O direito do candidato é receber os documentos psicológicos resultantes (art. 18), não os instrumentos.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res08-2025-013",
+    "disciplina": "legislacao",
+    "assunto": "leg-res08-2025",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.normasbrasil.com.br/norma/resolucao-8-2025_478465.html"
+    },
+    "enunciado": "Um candidato inapto, residente em outro estado, indicou representante legal para receber o resultado de sua avaliação psicológica. Segundo a Resolução CFP nº 8/2025, o representante:",
+    "alternativas": [
+      "participará da entrevista devolutiva em nome do candidato.",
+      "receberá o documento resultante da avaliação em envelope devidamente lacrado, sem a realização da entrevista devolutiva.",
+      "só poderá receber o documento se for psicólogo inscrito no CRP.",
+      "não poderá receber o documento, que é entregue exclusivamente ao candidato.",
+      "receberá cópia dos instrumentos aplicados e o documento resultante, em envelope lacrado, podendo agendar a devolutiva em nome do candidato."
+    ],
+    "gabarito": 1,
+    "comentario": "O art. 19 da Res. CFP 8/2025 dispõe que, 'em caso de representante legal indicado pelo candidato, será entregue o documento resultante da Avaliação Psicológica do candidato, em envelope devidamente lacrado, sem a realização da entrevista devolutiva'. Os instrumentos não podem ser retirados do arquivamento (art. 16), e o art. 18, § 2º, exige que o documento tenha identificação e assinatura de ao menos um psicólogo da Banca Examinadora.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res08-2025-014",
+    "disciplina": "legislacao",
+    "assunto": "leg-res08-2025",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.normasbrasil.com.br/norma/resolucao-8-2025_478465.html"
+    },
+    "enunciado": "Ao responder ao recurso administrativo de um candidato inapto, os psicólogos da Banca Revisora, conforme a Resolução CFP nº 8/2025:",
+    "alternativas": [
+      "podem reaplicar os instrumentos no candidato para formar nova convicção.",
+      "devem limitar-se a confirmar o resultado, cabendo a reforma apenas à Banca Examinadora.",
+      "podem solicitar avaliação complementar a psicólogo externo indicado pelo candidato.",
+      "devem fundamentar a resposta também em entrevista com o candidato, realizada pela própria Banca Revisora, de modo a confrontar o recurso com a avaliação feita pela Banca Avaliadora.",
+      "ficam restritos à análise dos documentos psicológicos decorrentes da avaliação do concurso e do recurso apresentado, devendo emitir resposta de deferimento ou indeferimento."
+    ],
+    "gabarito": 4,
+    "comentario": "O art. 21 da Res. CFP 8/2025 determina que a Banca Revisora responda com base nos documentos da avaliação fornecidos pelo órgão responsável e no recurso do candidato; pelo § 1º, ela fica 'restrita à análise dos documentos psicológicos decorrentes da avaliação psicológica do concurso em questão'; e pelo § 2º deve emitir resposta de deferimento ou indeferimento. Não há previsão de reaplicação ou nova entrevista.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res08-2025-015",
+    "disciplina": "legislacao",
+    "assunto": "leg-res08-2025",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.normasbrasil.com.br/norma/resolucao-8-2025_478465.html"
+    },
+    "enunciado": "Considere as afirmativas sobre a Resolução CFP nº 8/2025.\nI. O candidato considerado apto na avaliação psicológica para um cargo específico pode aproveitar esse resultado em outro concurso para cargo de atribuições semelhantes.\nII. O psicólogo perito designado judicialmente deve fundamentar seu parecer, entre outros elementos, na análise do material produzido pelo candidato no certame e nas resoluções vigentes do CFP.\nIII. Para atuar na avaliação psicológica de concursos, a psicóloga deve ter inscrição ativa no CRP e não estar cumprindo pena de suspensão ou cassação.\nEstá correto o que se afirma em:",
+    "alternativas": [
+      "I, apenas.",
+      "II, apenas.",
+      "I e III, apenas.",
+      "II e III, apenas.",
+      "I, II e III."
+    ],
+    "gabarito": 3,
+    "comentario": "I está errada: o art. 23 da Res. CFP 8/2025 dispõe que a avaliação de candidato apto para cargo específico 'não terá validade para uso em outro cargo ou outro processo seletivo'. II está correta (art. 22, I e II, que também incluem os documentos técnicos do certame e os quesitos da perícia). III está correta (art. 3º, I e II, com remissão ao art. 27, IV e V, da Lei 5.766/1971). A resolução revogou a Res. CFP 2/2016 (art. 24).",
+    "dificuldade": 2,
+    "anulada": false
+  }
+]

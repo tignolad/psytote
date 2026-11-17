@@ -1,0 +1,377 @@
+[
+ {
+  "id": "fgv-dpero-2025-psi-1",
+  "disciplina": "portugues",
+  "assunto": "pt-tipologia",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "DPE-RO",
+   "ano": 2025,
+   "cargo": "Analista em Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-em-psicologia-classe-acns005-tipo-1.pdf"
+  },
+  "enunciado": "Observe a seguinte descrição e assinale a opção correta sobre sua estruturação ou significação:\n“A biblioteca do mestre se localizava em um dos cômodos da casa, transformado em escritório. Havia um conjunto de prateleiras onde se alinhavam os livros, muito bem arrumados; cada livro possuía uma etiqueta identificadora para facilitar a consulta. Pequenas estantes ao lado das prateleiras recebiam outras obras, talvez menos importantes.”",
+  "alternativas": [
+   "A ordem da descrição parte de dentro para fora.",
+   "A trajetória descritiva sai do geral para o particular.",
+   "A descrição aborda a quantidade e a qualidade de objetos.",
+   "O termo “obras” substitui “livros”, sendo seu sinônimo.",
+   "O observador domina inteiramente o tema da descrição."
+  ],
+  "gabarito": 1,
+  "comentario": "A descrição começa pelo plano mais amplo (a biblioteca num cômodo transformado em escritório), passa ao conjunto de prateleiras, depois aos livros e, por fim, ao detalhe das etiquetas e das pequenas estantes: trajetória do geral para o particular. Não há movimento de dentro para fora (A), nem foco em quantidade e qualidade (C). “Obras” não é sinônimo exato de “livros” nem os substitui, pois se refere a outros volumes, das estantes menores (D). E o “talvez” mostra que o observador NÃO domina inteiramente o tema (E).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-dpero-2025-psi-2",
+  "disciplina": "portugues",
+  "assunto": "pt-linguagem",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "DPE-RO",
+   "ano": 2025,
+   "cargo": "Analista em Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-em-psicologia-classe-acns005-tipo-1.pdf"
+  },
+  "enunciado": "Cada uma das opções a seguir fala da língua escrita e alude a uma de suas funções.\nAssinale a frase que se refere à função de transferência do ato comunicativo para outro tempo ou lugar.",
+  "alternativas": [
+   "O espírito mais autêntico de um povo está em sua língua.",
+   "As bibliotecas estão cheias de livros monumentais.",
+   "Ainda hoje a linguagem de Guimarães Rosa emociona.",
+   "Dom Casmurro é uma obra-prima de linguagem.",
+   "Não deixe de anotar seus compromissos na agenda."
+  ],
+  "gabarito": 2,
+  "comentario": "A escrita permite que a comunicação ultrapasse o momento e o lugar em que foi produzida: a obra de Guimarães Rosa, escrita no passado, “ainda hoje” emociona leitores — transferência do ato comunicativo para outro tempo. A fala de identidade cultural de um povo (A), a acumulação de livros (B) e o julgamento estético de Dom Casmurro (D) não destacam essa função; (E) alude à função de registro/memória pessoal, não à transferência para outro tempo ou lugar.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-dpero-2025-psi-3",
+  "disciplina": "portugues",
+  "assunto": "pt-tipologia",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "DPE-RO",
+   "ano": 2025,
+   "cargo": "Analista em Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-em-psicologia-classe-acns005-tipo-1.pdf"
+  },
+  "enunciado": "Assinale o segmento textual a seguir que pertence ao tipo textual didático, cuja função principal é a de ensinar algo útil para a educação do indivíduo.",
+  "alternativas": [
+   "As escolas primárias tendem a aumentar seu período diário de aulas em função da situação escolar deficiente.",
+   "Os professores continuam com baixos salários, apesar de todos saberem de sua importância social.",
+   "Os adjetivos, como explicam os professores, podem exprimir qualidades, estados e características, além de relações.",
+   "Muitos livros didáticos se destinam a temas demasiadamente específicos e, por isso, ganham poucos leitores.",
+   "O governo vai pagar os estudos de muitos alunos que ficaram sem vagas nas escolas públicas."
+  ],
+  "gabarito": 2,
+  "comentario": "O texto didático ensina um conteúdo: (C) explica o que os adjetivos podem exprimir, um saber gramatical útil à formação do leitor. As demais opções são informativas ou opinativas sobre a situação da educação (escolas, salários, livros didáticos, vagas), sem ensinar conteúdo algum.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-dpero-2025-psi-4",
+  "disciplina": "portugues",
+  "assunto": "pt-morfologia",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "DPE-RO",
+   "ano": 2025,
+   "cargo": "Analista em Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-em-psicologia-classe-acns005-tipo-1.pdf"
+  },
+  "enunciado": "Compare as seguintes frases:\n1. Uma [professora francesa] dá aulas em minha escola.\n2. Uma [francesa professora] mora em minha cidade.\nSobre os termos sublinhados, assinale a opção correta.\n[sublinhados entre colchetes]",
+  "alternativas": [
+   "Os dois segmentos mostram o mesmo significado.",
+   "Os termos “professora” (frase 1) e “francesa” (frase 2) são núcleos dos segmentos sublinhados.",
+   "Nos dois segmentos, o termo “francesa” funciona como adjetivo.",
+   "Nos dois segmentos, o termo “professora” funciona como substantivo.",
+   "Enquanto na primeira frase a ordem das palavras no segmento sublinhado é substantivo + adjetivo, na segunda é adjetivo + substantivo."
+  ],
+  "gabarito": 1,
+  "comentario": "Em “professora francesa”, o núcleo é o substantivo “professora”, e “francesa” é adjetivo; em “francesa professora”, o núcleo passa a ser “francesa” (uma francesa que é professora), e “professora” atua como adjetivo. Por isso, os segmentos não têm o mesmo sentido (A), “francesa” só é adjetivo na frase 1 (C), “professora” só é substantivo na frase 1 (D), e a ordem nos dois casos é substantivo + adjetivo, com troca de classe (E).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-dpero-2025-psi-5",
+  "disciplina": "portugues",
+  "assunto": "pt-morfologia",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "DPE-RO",
+   "ano": 2025,
+   "cargo": "Analista em Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-em-psicologia-classe-acns005-tipo-1.pdf"
+  },
+  "enunciado": "Assinale a opção em que a substituição do elemento sublinhado por um advérbio de mesmo sentido foi feita de forma correta.",
+  "alternativas": [
+   "É necessário mudar [muitas vezes] de opinião para estar sempre de acordo com o seu partido político. / continuamente.",
+   "A compra de frutas ocorreu [do mesmo modo] como se compra bacalhau na feira: pelo cheiro. / exatamente.",
+   "Fazem-nos [na época atual] constituições para os povos como se fariam vestidos para as pessoas sem se lhes tomar as medidas. / atualizadamente.",
+   "Os soldados se organizaram [na mesma forma] do dia anterior / formalmente.",
+   "Todos os convidados se portaram [de forma educada] / educativamente."
+  ],
+  "gabarito": 1,
+  "comentario": "Para a banca, “do mesmo modo (como)” equivale a “exatamente (como)”, indicando a maneira idêntica da compra. Nas demais, o advérbio proposto muda o sentido: “muitas vezes” equivale a “frequentemente”, não a “continuamente” (A); “na época atual” equivale a “atualmente”, não a “atualizadamente” (C); “na mesma forma” equivale a “igualmente”, não a “formalmente” (D); e “de forma educada” equivale a “educadamente”, não a “educativamente” (E).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-dpero-2025-psi-6",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "DPE-RO",
+   "ano": 2025,
+   "cargo": "Analista em Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-em-psicologia-classe-acns005-tipo-1.pdf"
+  },
+  "enunciado": "Assinale a opção abaixo que mostra corretamente a ordem de premissa + conclusão na frase.",
+  "alternativas": [
+   "Alguém está querendo falar conosco / o celular tocou na sala de jantar.",
+   "Alguns fatos importantes ocorreram ontem / os jornais televisivos estão mais extensos.",
+   "Já deve ser noite alta / todas as luzes das casas estão apagadas.",
+   "Os livros ficaram abertos sobre as carteiras / os alunos certamente saíram com pressa.",
+   "O professor enxerga mal / o professor usa óculos de lentes grossas."
+  ],
+  "gabarito": 3,
+  "comentario": "Premissa é o dado de que se parte; conclusão é o que se infere dele. Em (D), dos livros abertos sobre as carteiras (premissa) conclui-se que os alunos saíram com pressa (conclusão, marcada por “certamente”). Nas demais a ordem está invertida: o celular tocou → alguém quer falar (A); fatos importantes → jornais extensos é relação causal invertida em relação à inferência (B); luzes apagadas → deve ser noite alta (C); usa óculos de lentes grossas → enxerga mal (E).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-dpero-2025-psi-7",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "DPE-RO",
+   "ano": 2025,
+   "cargo": "Analista em Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-em-psicologia-classe-acns005-tipo-1.pdf"
+  },
+  "enunciado": "Observe o seguinte texto:\n“Como já afirmou um ex-ministro da educação, o Brasil necessita urgentemente de um novo currículo escolar, que procure mais contato com as necessidades atuais dos alunos, o que contribuiria para mais interesse da parte deles e diminuiria a evasão escolar”.\nNesse caso, a observação mais completa e acertada é:",
+  "alternativas": [
+   "O argumentador só apresenta a sua opinião, sem detalhes.",
+   "O argumentador apresenta a sua opinião como geral.",
+   "O argumentador apresenta uma opinião alheia.",
+   "O argumentador apresenta e comenta uma opinião alheia.",
+   "O argumentador confronta diversas opiniões."
+  ],
+  "gabarito": 3,
+  "comentario": "O argumentador apresenta uma opinião alheia — a de um ex-ministro da educação (“Como já afirmou...”) — e a comenta, acrescentando as consequências positivas de um novo currículo (mais interesse dos alunos, menor evasão). Por isso (C) é incompleta; (A) e (B) ignoram a atribuição da opinião a outra pessoa, e (E) erra porque não há confronto de várias opiniões.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-dpero-2025-psi-8",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "DPE-RO",
+   "ano": 2025,
+   "cargo": "Analista em Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-em-psicologia-classe-acns005-tipo-1.pdf"
+  },
+  "enunciado": "Todos os segmentos a seguir expressam opiniões.\nAssinale o segmento em que a opinião expressa está erradamente atribuída a alguém.",
+  "alternativas": [
+   "Os comentaristas do programa disseram que, para combater a desordem nas ruas, seria importante formar-se uma comissão de segurança. / comissão de segurança.",
+   "Não há dúvida de que esse filme, segundo a minha visão do problema, trará grandes prejuízos aos diretores, pois o público não comparece às salas de projeção. / público.",
+   "Os empregados da empresa e seus advogados defendem a ideia de que se faça o pagamento de salários atrasados. / os empregados da empresa.",
+   "Pode-se afirmar que há duas espécies de livros: os que são vendidos e os que ficam nas prateleiras. / os livreiros.",
+   "Os jornais afirmaram que as manifestações foram impressionantes, pois havia público em toda a praia, segundo os institutos de pesquisa. / os jornais."
+  ],
+  "gabarito": null,
+  "comentario": "Questão anulada pela banca. Provavelmente porque mais de uma opção apresenta atribuição errada da opinião: em (B) a opinião é do próprio emissor (“segundo a minha visão”), não do público; em (D) a afirmação é impessoal (“Pode-se afirmar”), não dos livreiros; e em (A) a opinião é dos comentaristas, não da comissão de segurança. Sem resposta única, a questão não pôde ser mantida.",
+  "dificuldade": 2,
+  "anulada": true
+ },
+ {
+  "id": "fgv-dpero-2025-psi-9",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "DPE-RO",
+   "ano": 2025,
+   "cargo": "Analista em Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-em-psicologia-classe-acns005-tipo-1.pdf"
+  },
+  "enunciado": "Assinale a frase argumentativa a seguir cuja premissa de raciocínio é feita à base de um julgamento opinativo.",
+  "alternativas": [
+   "Uma pesquisa indicou que grande parte da população brasileira vê a insegurança como seu maior problema.",
+   "As pesquisas eleitorais mostram que a população se encontra dividida entre candidatos de ideologia oposta.",
+   "Muitos acidentes ocorrem por estarem alcoolizados os motoristas, como mostra a fiscalização da Lei Seca.",
+   "É muito mais agradável ir para o campo do que para a praia nas próximas férias.",
+   "Muitas rodovias apresentam maior número de acidentes que outras, o que nos leva a crer que há necessidade de melhor sinalização."
+  ],
+  "gabarito": 3,
+  "comentario": "Um julgamento opinativo exprime avaliação pessoal, não um fato verificável: “É muito mais agradável ir para o campo do que para a praia” é pura preferência. As demais apoiam-se em dados de pesquisas, de fiscalização ou em números de acidentes, isto é, em premissas factuais.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-dpero-2025-psi-10",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "DPE-RO",
+   "ano": 2025,
+   "cargo": "Analista em Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-em-psicologia-classe-acns005-tipo-1.pdf"
+  },
+  "enunciado": "Assinale o texto a seguir cujo raciocínio é indutivo, ou seja, parte do particular para o geral.",
+  "alternativas": [
+   "Os livros estão custando muito caro, o que nos leva a evitar comprá-los.",
+   "Os meninos de minha rua são tremendamente agitados, daí que haja necessidade de melhoras na educação dos jovens.",
+   "Os eucaliptos são cortados com pouco mais de três anos de existência, por isso as colinas estão desertas.",
+   "Os restaurantes aderiram ao serviço de buffet, o que tornou os preços mais baratos.",
+   "Os times de futebol estão pagando altíssimos salários a seus atletas por isso alguns deles passam dificuldades."
+  ],
+  "gabarito": 1,
+  "comentario": "Raciocínio indutivo generaliza a partir de casos particulares: do comportamento dos meninos “de minha rua” conclui-se a necessidade de melhorar a educação “dos jovens” em geral (B). As demais opções estabelecem relações de causa e consequência entre fatos do mesmo nível de generalidade (preço → não comprar; corte de eucaliptos → colinas desertas; buffet → preços menores; salários → dificuldades), sem a passagem do particular ao geral.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-dpero-2025-psi-11",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "DPE-RO",
+   "ano": 2025,
+   "cargo": "Analista em Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-em-psicologia-classe-acns005-tipo-1.pdf"
+  },
+  "enunciado": "Observe o seguinte raciocínio:\nAlgumas pessoas ganham muito pouco.\nAlgumas pessoas decidiram apelar para o crime.\nNesse raciocínio ocorre o seguinte problema:",
+  "alternativas": [
+   "A premissa não é verdadeira.",
+   "A conclusão não decorre logicamente da premissa.",
+   "A conclusão apresenta a correta solução de um problema.",
+   "A premissa indica uma opinião do emissor.",
+   "A premissa é, na verdade, a conclusão do raciocínio."
+  ],
+  "gabarito": 1,
+  "comentario": "Do fato de algumas pessoas ganharem pouco não decorre logicamente que algumas pessoas decidiram apelar para o crime: falta vínculo entre premissa e conclusão (non sequitur), inclusive porque os grupos de “algumas pessoas” podem nem ser os mesmos. Nada indica que a premissa seja falsa (A) ou opinativa (D), a conclusão não soluciona problema algum (C) e não há inversão premissa/conclusão (E).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-dpero-2025-psi-12",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "DPE-RO",
+   "ano": 2025,
+   "cargo": "Analista em Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-em-psicologia-classe-acns005-tipo-1.pdf"
+  },
+  "enunciado": "Sempre que passamos de uma premissa diretamente a uma conclusão, assumimos como verdadeira alguma ideia intermediária.\nAssinale a opção a seguir em que essa ideia intermediária está erradamente identificada.",
+  "alternativas": [
+   "O motorista do carro em nossa frente está fazendo curvas irregulares; é melhor manter distância / o motorista do carro da frente mostra ter algum problema.",
+   "A resposta do atual advogado é a mesma do advogado anterior; vamos segui-la / a resposta está certa.",
+   "O sinal da fábrica já está tocando; meu marido vai chegar atrasado ao trabalho / o sinal da fábrica está tocando na hora certa.",
+   "O policial o viu assaltando um transeunte; ele vai ser preso brevemente / o policial estava de plantão.",
+   "Ela me abraçou fortemente; acho que ainda me ama / o abraço forte é sinal de afeto."
+  ],
+  "gabarito": 3,
+  "comentario": "Em (D), a ideia intermediária que liga “o policial o viu assaltando” a “ele vai ser preso” é algo como “quem é flagrado por um policial cometendo crime é preso”; o fato de o policial estar de plantão não é necessário à conclusão, por isso está erradamente identificado. Nas demais, a ideia apontada é exatamente o pressuposto que permite passar da premissa à conclusão (motorista com problema, resposta certa, sinal tocando na hora certa, abraço forte como sinal de afeto).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-dpero-2025-psi-13",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "DPE-RO",
+   "ano": 2025,
+   "cargo": "Analista em Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-em-psicologia-classe-acns005-tipo-1.pdf"
+  },
+  "enunciado": "Observe o seguinte argumento:\n“– Sr Governador, o senhor não deve preocupar-se tanto com o déficit orçamentário do estado, pois com a sua reeleição nas próximas eleições do fim do ano, o senhor terá mais tempo para resolver o problema”.\nNesse raciocínio há uma falácia, que é:",
+  "alternativas": [
+   "Apresentar uma possibilidade como certeza.",
+   "Fugir do assunto principal.",
+   "Citar um princípio autoritário.",
+   "Apelar para a sedução do interlocutor.",
+   "Produzir um círculo vicioso."
+  ],
+  "gabarito": 0,
+  "comentario": "O argumento trata a reeleição, que é apenas uma possibilidade futura, como se fosse certa (“com a sua reeleição... o senhor terá mais tempo”): é a falácia de apresentar uma possibilidade como certeza. O falante não foge do assunto (B), não invoca autoridade (C), não há círculo vicioso (E), e, embora possa haver bajulação, o defeito lógico central é a falsa certeza (D).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-dpero-2025-psi-14",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "DPE-RO",
+   "ano": 2025,
+   "cargo": "Analista em Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-em-psicologia-classe-acns005-tipo-1.pdf"
+  },
+  "enunciado": "Em todas as frases a seguir procurou-se evitar a repetição do termo sublinhado.\nAssinale a opção em que o processo utilizado para isso foi corretamente identificado.\n[sublinhados entre colchetes]",
+  "alternativas": [
+   "Comprou um [carro] na liquidação da empresa, mas o carro novo não agradou plenamente / ampliação do termo.",
+   "Os [estudantes] não gostam de interpretar textos, mas os estudiosos afirmam que essa é uma atividade importante / emprego de sinônimos.",
+   "Os [livros] indicados para leitura obrigatória são ótimos e, por isso, essas obras trarão prazer / omissão do termo.",
+   "[Trabalho, esporte, passeios], todas essas atividades preenchiam o seu tempo / substituição por pronome.",
+   "[Aferiram-se] os resultados, e a aferição vai auxiliar no planejamento futuro / emprego de hiperônimo."
+  ],
+  "gabarito": 0,
+  "comentario": "Em (A), “carro” é retomado por “o carro novo”, expressão que acrescenta informação ao termo: ampliação. Nas outras, a identificação falha: “estudiosos” não é sinônimo de “estudantes” (B); “livros” é retomado por “essas obras”, e não omitido (C); a enumeração é retomada pelo hiperônimo “todas essas atividades”, não só por pronome (D); e “Aferiram-se” é retomado pela nominalização “a aferição”, não por hiperônimo (E).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-dpero-2025-psi-15",
+  "disciplina": "portugues",
+  "assunto": "pt-semantica",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "DPE-RO",
+   "ano": 2025,
+   "cargo": "Analista em Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-em-psicologia-classe-acns005-tipo-1.pdf"
+  },
+  "enunciado": "Assinale a frase em que a ambiguidade é fruto da polissemia de um vocábulo.",
+  "alternativas": [
+   "Encontrei com Mário em sua empresa.",
+   "Maria e João se casaram ontem.",
+   "Suas ações iam trazer benefícios para a empresa.",
+   "A demissão do gerente foi repentina.",
+   "Vi de novo a foto daquela jornalista."
+  ],
+  "gabarito": 2,
+  "comentario": "Polissemia é a pluralidade de sentidos de uma mesma palavra: em (C), “ações” pode ser “atitudes, atos” ou “títulos de participação no capital” de uma empresa. As outras ambiguidades têm origem diferente: o possessivo “sua” (empresa de quem?) em (A); a estrutura de “se casaram” (um com o outro ou cada um com outra pessoa) em (B); o valor ativo/passivo de “demissão” (pediu demissão ou foi demitido) em (D); e “daquela jornalista” (foto tirada por ela ou em que ela aparece) em (E).",
+  "dificuldade": 2,
+  "anulada": false
+ }
+]

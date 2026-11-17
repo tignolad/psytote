@@ -1,0 +1,319 @@
+### Q61   GABARITO DEFINITIVO: E
+“Com quase 32 anos de existência, o Sistema Único de Saúde (SUS), maior sistema público de saúde do mundo, atende mais de 190 milhões de pessoas todos os anos, sempre de forma integral e gratuita. Para funcionar bem, um sistema dessa complexidade e que é referência global em ações diversas – como vacinação, transplantes, doações de órgãos, de sangue e de leite materno –, precisa ser organizado em diferentes níveis de atenção e assistência à saúde.” https://www.gov.br/saude/pt-br/assuntos/noticias/2022/marco/atencao-primaria-e-atencao-especializada-conheca-os-niveis-de-assistencia-do-maior-sistema-publico-de-saude-do-mundo Em relação à Atenção Primária à Saúde (APS), avalie se as seguintes afirmativas estão corretas: I. Nas Unidades Básicas de Saúde (UBS), estabelecimentos da APS, é possível fazer exames e consultas de rotina com equipes multiprofissionais e profissionais especializados em saúde da família, que trabalham para garantir atenção integral à saúde no território. II. Neste nível os profissionais se articulam para atuar não apenas nas unidades de saúde, como também em espaços públicos da comunidade, na oferta de práticas integrativas e complementares e em visitas domiciliares às famílias. III. Mais do que prover assistência clínica, o objetivo é estar próximo às pessoas e promover a saúde e a qualidade de vida da comunidade. Esse trabalho de prevenção e conscientização também permite otimizar a alocação de recursos usados em internações e tratamentos de agravos e doenças que poderiam ter sido evitadas, como hipertensão, diabetes, sedentarismo, colesterol e doenças cardiovasculares. Está correto o que se afirma em
+(A) I, apenas.
+(B) I e II, apenas.
+(C) I e III, apenas.
+(D) II e III, apenas.
+(E) I, II e III.
+
+### Q62   GABARITO DEFINITIVO: C
+O Art. 198 da Constituição Federal de 1988 estabelece que as ações e serviços públicos de saúde integram uma rede regionalizada e hierarquizada e constituem um sistema único. Avalie se tal sistema deve ser organizado de acordo com as seguintes diretrizes: I. Descentralização, com direção única em cada esfera de governo. II. Atendimento integral, com prioridade para as atividades assistenciais sobre as ações preventivas. III. Participação da comunidade. Está correto o que se afirma em
+(A) I, apenas.
+(B) I e II, apenas.
+(C) I e III, apenas.
+(D) II e III, apenas.
+(E) I, II e III.
+
+### Q63   GABARITO DEFINITIVO: E
+Com base na Lei no 8.142/90, avalie se os recursos do Fundo Nacional de Saúde (FNS) serão alocados como: I. Despesas de custeio e de capital do Ministério da Saúde, seus órgãos e entidades, da administração direta e indireta. II. Investimentos previstos em lei orçamentária, de iniciativa do Poder Legislativo e aprovados pelo Congresso Nacional. III. Investimentos previstos no Plano Quinquenal do Ministério da Saúde. IV. Cobertura das ações e serviços de saúde a serem implementados pelos Municípios, Estados e Distrito Federal. Estão corretos os itens:
+(A) I e II, apenas.
+(B) III e IV, apenas.
+(C) I, II e III, apenas.
+(D) II, III e IV, apenas.
+(E) I, II, III e IV.
+
+### Q64   GABARITO DEFINITIVO: D
+A Lei no 8.080/90, estabelece, em seu Art. 7º, que “As ações e serviços públicos de saúde e os serviços privados contratados ou conveniados que integram o Sistema Único de Saúde (SUS), são desenvolvidos de acordo com as diretrizes previstas no Art. 198 da Constituição Federal”, obedecendo ainda a uma série de princípios. Alguns desses princípios estão corretamente descritos nas opções a seguir, à exceção de um. Assinale-o.
+(A) Universalidade de acesso aos serviços de saúde em todos os níveis de assistência.
+(B) Integralidade de assistência, entendida como conjunto articulado e contínuo das ações e serviços preventivos e curativos, individuais e coletivos, exigidos para cada caso em todos os níveis de complexidade do sistema.
+(C) Divulgação de informações quanto ao potencial dos serviços de saúde e a sua utilização pelo usuário
+(D) Direito à informação, às pessoas assistidas, sobre sua saúde, excetuadas aquelas relativas a casos extremos.
+(E) Preservação da autonomia das pessoas na defesa de sua integridade física e moral.
+
+### Q65   GABARITO DEFINITIVO: B
+Avalie, com base na Lei no 8.080/90, se as seguintes afirmativas acerca do acompanhamento à mulher nos serviços de saúde são falsas (F) ou verdadeiras (V). ( ) Em consultas, exames e procedimentos realizados em unidades de saúde públicas ou privadas, toda mulher tem o direito de fazer-se acompanhar por pessoa maior de idade, durante todo o período do atendimento, independentemente de notificação prévia. ( ) No caso de atendimento que envolva qualquer tipo de sedação ou rebaixamento do nível de consciência, caso a paciente não indique acompanhante, a unidade de saúde responsável pelo atendimento indicará pessoa para acompanhá-la, preferencialmente profissional de saúde do sexo feminino, sem custo adicional para a paciente, que poderá recusar o nome indicado e solicitar a indicação de outro, independentemente de justificativa, registrando-se o nome escolhido no documento gerado durante o atendimento. ( ) No caso de atendimento realizado em centro cirúrgico ou unidade de terapia intensiva com restrições relacionadas à segurança ou à saúde dos pacientes, devidamente justificadas pelo corpo clínico, somente será admitido acompanhante que seja profissional de saúde. ( ) Em casos de urgência e emergência, os profissionais de saúde ficam autorizados a agir na proteção e defesa da saúde e da vida da paciente, ainda que na ausência do acompanhante requerido. As afirmativas são, respectivamente,
+(A) F – V – V – F.
+(B) V – V – V – V.
+(C) V – F – F – V.
+(D) F – F – F – V.
+(E) F – F – F – F.
+
+### Q66   GABARITO DEFINITIVO: D
+De acordo com a Lei no 8.080/90, a telessaúde abrange a prestação remota de serviços relacionados a todas as profissões da área da saúde regulamentadas pelos órgãos competentes do Poder Executivo federal Os princípios aos quais a telessaúde deve obedecer incluem os elencados nas opções a seguir, à exceção de um. Assinale-o.
+(A) autonomia do profissional de saúde.
+(B) consentimento livre e informado do paciente.
+(C) direito de recusa ao atendimento na modalidade telessaúde, com a garantia do atendimento presencial sempre que solicitado.
+(D) inconfidencialidade dos dados.
+(E) responsabilidade digital.
+
+### Q67   GABARITO DEFINITIVO: A
+A RDC nº 63, de 25 de novembro de 2011, aprova o Regulamento Técnico que estabelece os Requisitos de Boas Práticas de Funcionamento para os Serviços de Saúde. De acordo com a referida resolução, “os procedimentos de gestão, planejados e implementados a partir de bases científicas e técnicas, normativas e legais, com o objetivo de garantir a rastreabilidade, qualidade, eficácia, efetividade, segurança e em alguns casos o desempenho das tecnologias de saúde utilizadas na prestação de serviços de saúde, abrangendo cada etapa do gerenciamento, desde o planejamento e entrada das tecnologias no estabelecimento de saúde até seu descarte, visando à proteção dos trabalhadores, a preservação da saúde pública e do meio ambiente e a segurança do paciente” definem
+(A) gerenciamento de tecnologias.
+(B) humanização da atenção e gestão da saúde.
+(C) Plano de Gerenciamento de Resíduos de Serviços de Saúde.
+(D) política de qualidade.
+(E) licença atualizada.
+
+### Q68   GABARITO DEFINITIVO: E
+A Resolução CNS nº 553, de 9 de agosto de 2017, aprova a atualização da Carta dos Direitos e Deveres da Pessoa Usuária da Saúde, que dispõe sobre as diretrizes dos Direitos e Deveres da Pessoa Usuária da Saúde. Avalie, com base nessa Resolução, se as diretrizes a seguir estão corretas: I. Toda pessoa tem direito, em tempo hábil, ao acesso a bens e serviços ordenados e organizados para garantia da promoção, prevenção, proteção, tratamento e recuperação da saúde. II. Toda pessoa tem direito ao atendimento integral, aos procedimentos adequados e em tempo hábil a resolver o seu problema de saúde, de forma ética e humanizada. III. Toda pessoa tem direito ao atendimento inclusivo, humanizado e acolhedor, realizado por profissionais qualificados, em ambiente limpo, confortável e acessível. IV. Toda pessoa deve ter seus valores, cultura e direitos respeitados na relação com os serviços de saúde. V. Toda pessoa tem responsabilidade e direitos para que seu tratamento e recuperação sejam adequados e sem interrupção. Estão corretas as diretrizes
+(A) I, II e III, apenas.
+(B) I, III, IV e V, apenas.
+(C) II, III, IV e V, apenas.
+(D) I, II, III e V, apenas.
+(E) I, II, III, IV e V.
+
+### Q69   GABARITO DEFINITIVO: D
+A RDC nº 36, de 2013, institui ações para a segurança do paciente em serviços de saúde e dá outras providências. Avalie, com base nessa Resolução, se as seguintes afirmativas estão corretas: I. Se aplica aos serviços de saúde, sejam eles públicos, privados, filantrópicos, civis ou militares, incluindo aqueles que exercem ações de ensino e pesquisa, os consultórios individualizados, os laboratórios clínicos e os serviços móveis e de atenção domiciliar. II. A direção do serviço de saúde deve constituir o Núcleo de Segurança do Paciente (NSP) e nomear a sua composição, conferindo aos membros autoridade, responsabilidade e poder para executar as ações do Plano de Segurança do Paciente em Serviços de Saúde. III. Para o funcionamento sistemático e contínuo do NSP a direção do serviço de saúde deve disponibilizar recursos humanos, financeiros, equipamentos, insumos e materiais e um profissional responsável pelo NSP com participação nas instâncias deliberativas do serviço de saúde. IV. O NSP deve adotar os seguintes princípios e diretrizes: a melhoria contínua dos processos de cuidado e do uso de tecnologias da saúde; a disseminação sistemática da cultura de segurança; a articulação e a integração dos processos de gestão de risco; a garantia das boas práticas de funcionamento do serviço de saúde. Estão corretas as afirmativas
+(A) I e II, apenas.
+(B) III e IV, apenas.
+(C) I, II e III, apenas.
+(D) II, III e IV, apenas.
+(E) I, II, III e IV.
+
+### Q70   GABARITO DEFINITIVO: B
+O Capítulo III do Título V da Lei no 8.080/90 se refere ao planejamento e ao orçamento do SUS. Avalie, com base na referida Lei, se as afirmativas a seguir são falsas (F) ou verdadeiras (V). ( ) O processo de planejamento e orçamento do Sistema Único de Saúde (SUS) será descendente, do nível federal até o local, ouvidos seus órgãos deliberativos, compatibilizando-se as necessidades da política de saúde com a disponibilidade de recursos em planos de saúde dos Municípios, dos Estados, do Distrito Federal e da União. ( ) Os planos de saúde serão a base das atividades e programações de cada nível de direção do SUS, e seu financiamento será previsto na respectiva proposta orçamentária. ( ) É vedada a transferência de recursos para o financiamento de ações não previstas nos planos de saúde, exceto em situações emergenciais ou de calamidade pública, na área de saúde. ( ) O Conselho Nacional de Saúde estabelecerá as diretrizes a serem observadas na elaboração dos planos de saúde, em função das características epidemiológicas e da organização dos serviços em cada jurisdição administrativa. As afirmativas são, respectivamente,
+(A) V – V – V – V.
+(B) F – V – V – V.
+(C) F – V – V – F.
+(D) V – F – F – F.
+(E) V – V – F – F.
+
+### Q71   GABARITO DEFINITIVO: B
+Uma das possibilidades de atuação do psicólogo junto às políticas públicas de saúde mental se dá por meio do matriciamento. É exemplo de prática de matriciamento em saúde mental
+(A) o atendimento a pacientes usuários de substâncias psicoativas e suas famílias no CAPS V.
+(B) a realização de interconsultas de profissionais do CAPS com profissionais dos serviços de atenção primária à saúde.
+(C) a elaboração dos projetos terapêuticos singulares que serão executados pelas equipes dos NASF.
+(D) o acolhimento individual ou grupal a mães de crianças vítimas de violência sexual encaminhadas pela Justiça.
+(E) a coordenação de grupos de educação em saúde para pacientes diabéticos e hipertensos na Estratégia de Saúde da Família.
+
+### Q72   GABARITO DEFINITIVO: C
+Daniel, 16 anos, conheceu o crack por intermédio de amigos e rapidamente desenvolveu uma dependência da substância. Daniel passa dias fora de casa e sua mãe, Denise, professora, muitas vezes sai pelas ruas à procura do filho. A(s) porta(s) de entrada para o tratamento de Daniel pode(m) ser por meio:
+(A) do CAPSi e do NASF.
+(B) da internação em equipamento do programa Consultório na Rua.
+(C) dos serviços de atenção básica à saúde e do CAPS AD.
+(D) do atendimento ambulatorial em comunidade terapêutica do território.
+(E) dos serviços privados de saúde mental, apenas, já que se trata de paciente de classe média.
+
+### Q73   GABARITO DEFINITIVO: A
+Gabriel, 33 anos, não estuda nem trabalha e mora com sua avó Elza, viúva de 85 anos e pensionista. Uma amiga de Elza descobriu que Gabriel se apropriou do cartão de banco da avó, fez empréstimos consignados em sua pensão e adquiriu uma motocicleta. Considerando essa situação, é correto afirmar que:
+(A) todo cidadão tem o dever de comunicar à autoridade competente qualquer forma de violência contra a pessoa idosa de que tenha conhecimento.
+(B) todas as cidades devem constituir pelo menos um Conselho Tutelar do Idoso para acolher comunicações de violações dos direitos de pessoas idosas.
+(C) o acolhimento da idosa em uma entidade de longa permanência seria a medida mais adequada para protegê-la da exploração financeira praticada por seu neto.
+(D) Gabriel pode interditar Elza e se tornar seu curador considerando que na idade avançada da idosa é natural sua incapacidade de gerir seus rendimentos.
+(E) Por se tratar de crime cometido no âmbito doméstico envolvendo parentes consanguíneos, apenas a idosa pode denunciar o neto se assim o desejar.
+
+### Q74   GABARITO DEFINITIVO: E
+Gilberto está frequentando um grupo de AA há 6 meses e teve sua primeira recaída no uso de bebida alcoólica. Sobre essa situação, com relação ao tratamento do alcoolismo é correto refletir que
+(A) a tolerância alcoólica decorre do fato de o álcool ser uma substância lícita.
+(B) Gilberto recaiu para combater os efeitos desagradáveis da ressaca alcoólica.
+(C) Gilberto se encontra no estágio motivacional de pré-contemplação da dependência química.
+(D) os grupos de autoajuda já se comprovaram ineficazes no controle e na cura do alcoolismo.
+(E) a recaída é uma parte esperada e compreendida do processo de mudança de comportamento e recuperação.
+
+### Q75   GABARITO DEFINITIVO: A
+Silvia é psicóloga em uma unidade de saúde onde são realizados procedimentos de reprodução assistida. Silvia inicia a avaliação psicológica com uma entrevista individual de anamnese, que tem entre seus objetivos
+(A) obter informações sobre o histórico de vida, relações pessoais e sociais, comportamentos e hábitos e saúde mental de cada indivíduo.
+(B) ser uma ferramenta fundamental no processo terapêutico, que busca compreender as dinâmicas internas e os conflitos psíquicos do indivíduo.
+(C) ajudar o paciente a encontrar e fortalecer a motivação interna e a vencer a ambivalência para promover mudanças positivas em seu comportamento.
+(D) permitir que a unidade de saúde conheça melhor os candidatos e avalie se suas habilidades e competências são compatíveis com o perfil da clínica.
+(E) compartilhar com o paciente os resultados e as conclusões obtidas a partir das avaliações e investigações para planejar os próximos passos do tratamento.
+
+### Q76   GABARITO DEFINITIVO: B
+Recentemente o Ministério da Saúde atualizou a lista de doenças relacionadas ao trabalho e reconheceu agentes e fatores de risco psicossociais no ambiente de trabalho, responsáveis por doenças que afetam os trabalhadores e que repercutem no trabalho. Entre essas doenças, encontra-se o abuso de substâncias psicoativas, que pode ter como consequência
+(A) o trabalho sob estresse, tensão e perigo.
+(B) o absenteísmo e a rotatividade funcional.
+(C) a pressão excessiva quanto a horários e metas.
+(D) o incremento da produtividade e da motivação.
+(E) o assédio moral e sexual no ambiente de trabalho.
+
+### Q77   GABARITO DEFINITIVO: D
+As intervenções grupais em psicologia são baseadas em diferentes fundamentos teóricos e práticos que guiam o processo terapêutico e as técnicas utilizadas para alcançar os objetivos do grupo. A psicóloga Letícia coordena um grupo terapêutico para adolescentes com transtornos relacionados à imagem corporal usando os fundamentos teóricos e técnicos da terapia cognitiva comportamental (TCC). Avalie se, entre as intervenções alinhadas com os fundamentos da TCC encontram-se: I. A reestruturação cognitiva, através da qual os adolescentes aprendem a identificar os pensamentos automáticos negativos sobre sua aparência e a substituí-los por alternativas mais realistas e positivas. II. As técnicas de relaxamento como respiração profunda e relaxamento muscular progressivo para ajudar a reduzir a ansiedade relacionada à autoimagem negativa durante a interação social. III. A psicoeducação, na qual o facilitador explica o conceito de autoimagem e como ela pode ser influenciada por pensamentos automáticos negativos, mídias sociais e comparações com os outros. Está correto o que se afirma em
+(A) I e II, apenas.
+(B) I e III, apenas.
+(C) II e III, apenas.
+(D) I, II e III.
+(E) I, apenas.
+
+### Q78   GABARITO DEFINITIVO: E
+O DSM 5 descreve os transtornos em que a percepção negativa da própria aparência ocupa um lugar central. Essa relação não inclui
+(A) a bulimia nervosa.
+(B) a dismorfia muscular.
+(C) a anorexia nervosa.
+(D) o transtorno dismórfico corporal.
+(E) o transtorno de personalidade narcisista.
+
+### Q79   GABARITO DEFINITIVO: A
+Enzo, 7 anos, chegou à escola com marcas de espancamento. O menino contou à professora que sua mãe o surrou com um cinto porque ele pegou moedas que estavam sobre a mesa. Questionada, a mãe de Enzo afirmou que estava educando o filho. Considerando a proteção integral que deve ser assegurada a crianças e adolescentes no Sistema de Garantia de Direitos, é correto afirmar que
+(A) a escola deverá acionar o Conselho Tutelar considerando a situação de violência contra a criança.
+(B) é dever dos pais educar os filhos, não cabendo a interferência de terceiros.
+(C) Enzo deve ser encaminhado para avaliação neuropsicológica por suspeita de hiperatividade.
+(D) o espancamento de uma criança é motivo para a perda do benefício de Bolsa Família.
+(E) o CRAS deverá ser notificado para aplicar medida educativa em face da genitora.
+
+### Q80   GABARITO DEFINITIVO: D
+As chamadas substâncias psicoativas ou drogas psicotrópicas são aquelas que atuam sobre o cérebro, modificando o seu funcionamento, podendo provocar alterações no humor, na percepção, no comportamento e em estados da consciência. As drogas são classificadas de acordo com seu efeito no Sistema Nervoso Central. Assinale a opção que indica uma droga depressora, uma droga estimulante e uma droga perturbadora, nessa ordem.
+(A) Álcool, LSD e anfetamina.
+(B) Crack, ansiolíticos e inalantes.
+(C) Heroína, ecstasy e hipnóticos.
+(D) Morfina, cocaína e THC da maconha.
+(E) Mescalina, chá de trombeta e cigarro eletrônico.
+
+### Q81   GABARITO DEFINITIVO: A
+Inspirada nas práticas e ideias de Franco Basaglia, a Reforma Psiquiátrica brasileira tem como característica principal
+(A) o fechamento gradual de manicômios e hospícios que proliferavam no Brasil.
+(B) a hospitalização em estabelecimentos psiquiátricos públicos e a crítica à internação privada.
+(C) o aumento de vagas conveniadas para internação em hospitais psiquiátricos privados.
+(D) a consolidação de críticas a internação psiquiátrica em todas as hipóteses.
+(E) a medicalização homeopática de pacientes internados em hospitais psiquiátricos.
+
+### Q82   GABARITO DEFINITIVO: B
+Os Serviços Residenciais Terapêuticos (SRT) previstos na RAPS (Rede de Atenção Psicossocial) são
+(A) serviços destinados a pessoas idosas que tenham condições de desenvolver, de forma independente, as atividades da vida diária, mesmo que requeiram o uso de equipamentos de autoajuda.
+(B) moradias destinadas a acolher e cuidar das pessoas em sofrimento psíquico graves e persistentes, egressas de internações psiquiátricas de longa permanência que não possuam suporte social e laços familiares.
+(C) unidades que ofertam Serviço de Acolhimento Institucional para jovens e adultos com deficiência, em situação de dependência, que não disponham de condições de autossustentabilidade ou de retaguarda familiar.
+(D) serviços que acolhem crianças e adolescentes em medidas protetivas por determinação judicial, em decorrência de violação de direitos (abandono, negligência, violência) ou pela impossibilidade de cuidado e proteção por sua família.
+(E) unidades institucionais com características domiciliares para acolhimento de pessoas idosas com diferentes necessidades e graus de dependência, as quais devem garantir a convivência com familiares e amigos de forma contínua.
+
+### Q83   GABARITO DEFINITIVO: E
+A visita domiciliar realizada por profissionais “psi” dos CAPS pode ser entendida como
+(A) Conjunto de encontros técnicos em que se observam de perto as fundações domiciliares, as estruturas e condições de habitabilidade, higiene, manejo alimentar e padrões de funcionamento familiar.
+(B) etapa essencial do trabalho, que consiste em avaliação, responsabilização e diagnóstico das formas de interrelação familiar, considerando as consequências dos padrões relacionais no surgimento dos sintomas do paciente.
+(C) um instrumento para conhecer o contexto social em que vivem os usuários, e identificar possíveis violações de direitos que membros da família, ou ela como um todo, sofrem ou já sofreram.
+(D) a estratégia mais importante de inclusão do paciente no projeto terapêutico, pois é quando toda a equipe se compromete na escuta e avaliação dos sintomas do paciente, enredando-os na relação familiar.
+(E) uma tecnologia de intervenção capaz de promover a articulação da equipe com o usuário, a família e o território, favorecendo o reconhecimento da realidade de vida, a construção de vínculos e a compreensão da dinâmica familiar.
+
+### Q84   GABARITO DEFINITIVO: C
+Paula e Maurício são namorados e, em certa noite, após terem saído com amigos, Maurício teve uma crise de ciúmes, agredindo a namorada com palavras de baixo calão, constrangendo-a e humilhando-a na presença dos amigos em comum. Diante da hipótese apresentada, é correto afirmar que
+(A) a violência contra a mulher só acontece em uma relação marital, não sendo possível em um namoro.
+(B) Maurício cometeu violência moral contra a namorada pois a humilhou diante dos amigos.
+(C) Paula foi vítima de violência psicológica cometida pelo namorado.
+(D) Paula foi submetida a dinâmica que se configura como violência física pelo namorado.
+(E) o namorado cometeu violência psicológica porque caluniou e difamou a namorada.
+
+### Q85   GABARITO DEFINITIVO: E
+Com relação aos grupos terapêuticos de Pichon-Rivière, avalie as afirmativas a seguir. I. Os grupos operativos têm um caráter terapêutico apesar de que nem todos os grupos terapêuticos podem denominar-se de grupos operativos. II. A mudança é o objetivo primordial de todo grupo operativo e envolve todo um processo gradativo, no qual os integrantes do grupo passam a assumir diferentes papéis e posições frente à tarefa grupal. III. Saúde mental e aprendizagem são sinônimos na medida em que há uma apropriação ativa da realidade que integra uma experiência nova e um estilo próprio de aprender. Está correto o que se afirma em
+(A) I, apenas.
+(B) II e III, apenas.
+(C) I e III, apenas.
+(D) I e II, apenas.
+(E) I, II e III.
+
+### Q86   GABARITO DEFINITIVO: B
+Com relação ao processo de envelhecimento psíquico, assinale a afirmativa correta.
+(A) O envelhecimento psicológico é implacável, ativo e irreversível, causando mais vulnerabilidade do organismo às agressões externas e internas, sendo dependente da programação genética.
+(B) O envelhecimento psíquico não é naturalmente progressivo nem ocorre inexoravelmente, como efeito da passagem de tempo pois depende do esforço pessoal contínuo na busca do autoconhecimento e do sentido da vida.
+(C) O processo de senescência ocorre de forma expressiva ao longo da vida, comprometendo as relações e a gerência de decisões pelo surgimento de diversos sinais de deficiências funcionais.
+(D) Os órgãos ou sistemas envelhecem de forma semelhante e é possível predizer como indivíduos de uma mesma família irão envelhecer com base no processo de senescência de seus parentes.
+(E) É comum o aparecimento de alterações na funcionalidade mental do idoso durante a velhice e os idosos deixam de ser produtivos durante o processo de senescência em função de limitações cognitivas.
+
+### Q87   GABARITO DEFINITIVO: D
+Leandro tem 5 anos e não interage socialmente, além de não conseguir se expressar verbalmente, apresentando ainda importantes estereotipias comportamentais que se manifestam pela persistência no giro de objetos e adesão a rotinas ritualizadas. Os comportamentos apresentados por Leandro são sugestivos de
+(A) esquizofrenia.
+(B) transtorno bipolar.
+(C) TOD.
+(D) TEA.
+(E) transtorno de personalidade borderline.
+
+### Q88   GABARITO DEFINITIVO: D
+Gustavo tem seis meses e foi submetido a severas negligências por seus cuidadores primários, sendo inserido em unidade de acolhimento que trabalha com a abordagem Emmi Pikler. De acordo com essa abordagem, assinale a afirmativa correta.
+(A) Diante das negligências a que Gustavo foi exposto, as cuidadoras precisam estimulá-lo ao máximo, apresentando brinquedos com estímulos visuais e auditivos para ajudá-lo a superar seus atrasos;
+(B) As cuidadoras devem evitar ao máximo contatos afetivos pois Gustavo deverá retornar para a família biológica ou ser colocado em família adotiva e construir novos vínculos, para depois rompê-los, seria muito sofrido para ele;
+(C) Gustavo deve permanecer no colo das cuidadoras todo o tempo para se sentir acarinhado e seguro de forma a superar as angústias decorrentes das negligências e maus tratos a que foi submetido anteriormente;
+(D) Gustavo deve ter respeitadas suas atividades autônomas, brincando a partir de suas próprias iniciativas e se movimentando com liberdade, conquistando por si próprio suas etapas motoras;
+(E) As cuidadoras devem mediar a relação espacial de Gustavo na unidade, antecipando suas angústias e ofertando substitutivos diante do afastamento da família biológica e da ausência materna.
+
+### Q89   GABARITO DEFINITIVO: A
+Para Reich, os mecanismos de defesa criados pelo corpo em momentos de adversidade para proteger o ego da realidade são
+(A) couraças.
+(B) negações.
+(C) regressões.
+(D) projeções.
+(E) recalques.
+
+### Q90   GABARITO DEFINITIVO: E
+Léa Maria foi promovida a um cargo de chefia e passou a administrar muitas exigências laborativas, estendendo sua carga de trabalho para noites e finais de semana. Há algumas semanas a profissional passou a perceber alterações em seu padrão de sono, apresentando insônia, além de cansaço continuado, elevação da pressão arterial e muitas dores de cabeça. Os sinais apresentados por Léa podem ser indicativos de
+(A) Síndrome de FOMO.
+(B) TOC.
+(C) Síndrome de Tourette.
+(D) TDAH.
+(E) Síndrome de Burnout.
+
+### Q91   GABARITO DEFINITIVO: D
+Roberto é psicólogo e foi solicitado a realizar a avaliação de um caso, com finalidade de subsidiar uma decisão relacionada ao contexto em que surgiu tal demanda. No documento que irá fornecer, Roberto deverá apresentar os procedimentos e conclusões gerados pelo processo de avaliação psicológica, e relatar o diagnóstico, o prognóstico e a evolução do caso. Tal documento psicológico é
+(A) uma declaração.
+(B) um atestado.
+(C) um relatório.
+(D) um laudo.
+(E) um parecer.
+
+### Q92   GABARITO DEFINITIVO: B
+É inegável a importância do psicólogo russo Lev Vygotsky para a compreensão do desenvolvimento intelectual da criança. De acordo com a sua teoria, é correto afirmar que
+(A) o aprendizado e a interação social não interferem no rumo do desenvolvimento infantil.
+(B) as funções mentais superiores do homem desenvolvem-se na sua relação com o meio sociocultural.
+(C) o caráter biológico e maturacional é o principal fator para que o processo de aprendizagem infantil ocorra.
+(D) todas as crianças de uma mesma faixa etária necessitam estar no mesmo processo de desenvolvimento, obedecendo a uma ordem cronológica.
+(E) o desenvolvimento humano é dividido por períodos cuja passagem de um para o outro depende exclusivamente das características inatas do indivíduo.
+
+### Q93   GABARITO DEFINITIVO: C
+A constatação por Freud de fenômenos de repetição que não se reduzem à busca de satisfação libidinal, observados nas neuroses traumáticas, na transferência, nas brincadeiras infantis, entre outros, faz com que ele introduza em 1920, um novo dualismo pulsional. Tal dualismo se dá entre
+(A) Eros e necessidade.
+(B) pulsão sexual e narcisismo.
+(C) pulsão de vida e pulsão de morte.
+(D) libido de objeto e autoconservação.
+(E) posição esquizoparanoide e maníaco-depressiva.
+
+### Q94   GABARITO DEFINITIVO: A
+Descrito por Freud como pedra angular da psicanálise, existe um processo psíquico pelo qual o sujeito procura repelir ou manter no inconsciente representações ligadas à pulsão. A sua essência consiste em manter essas representações afastadas do consciente, muito embora possam retornar sob a forma de sintomas, atos falhos, sonhos, entre outros. Tal operação exerce papel primordial na neurose histérica, mas desempenha papel primordial nas outras afecções mentais. O texto acima trata do processo de
+(A) recalque.
+(B) forclusão.
+(C) conversão.
+(D) narcisismo.
+(E) denegação.
+
+### Q95   GABARITO DEFINITIVO: D
+Em relação à obrigatoriedade do registro documental decorrente da prestação de serviços psicológicos, é correto afirmar que
+(A) o período de guarda dos documentos psicológicos deve ser de no mínimo 20 anos.
+(B) para atendimento em grupo regular, o psicólogo deve limitar-se a fazer registro dos atendimentos.
+(C) quando em serviço multiprofissional, o registro deve ser realizado em diversos prontuários, separados por categoria profissional.
+(D) fica garantido ao usuário ou representante legal o acesso integral às informações registradas, pelo psicólogo, em seu prontuário.
+(E) o registro documental deve ser mantido em local acessível à chefia imediata do psicólogo a fim de se resguardar contra processos disciplinares e legai.
+
+### Q96   GABARITO DEFINITIVO: D
+A atenção psicossocial configura um campo que articula e nomeia todo o conjunto de práticas substitutivas ao paradigma asilar, sendo aberta para transformações e inovações que possibilitam a consolidação de uma ética de cuidado antimanicomial. Como discutido por Amarante (2007), além de dimensão epistêmica e técnico-assistencial, a atenção psicossocial possui também dimensão sociocultural e política. No que se refere à dimensão política da atenção psicossocial,
+(A) é suficiente um conjunto articulado de atos técnicos para oferecer autonomia, lugar e pertencimento social aos usuários.
+(B) o exercício da clínica garante exclusivamente a dimensão política da cidadania e a produção de autonomia dos usuários.
+(C) o espaço público é fundamental para a singularização, tendo o atendimento individual como pilar do processo de subjetivação.
+(D) o cuidado é indissociável do espaço público, e suas condições de possibilidade integram-se a concepções e práticas propiciadoras do convívio.
+(E) a dimensão política se constitui enquanto ato técnico na atenção psicossocial, prescindindo de modalidades assistenciais que não sejam grupais.
+
+### Q97   GABARITO DEFINITIVO: D
+A interdisciplinaridade é integradora do campo da saúde mental e se sustenta por uma problemática comum, possibilitando a aprendizagem mútua entre os atores envolvidos. Com relação às implicações da interdisciplinaridade para a atenção psicossocial, analise as afirmativas a seguir: I. Busca-se relações horizontais entre os trabalhadores da equipe, as quais visam a construção coletiva do cuidado compartilhado. II. Há a consolidação de um referencial ético em comum, garantido por uma lógica de cuidado institucionalizada com enfoque na doença mental. III. Possibilita abertura para transformação assistencial e criação de novas práticas de cuidado, indo além da mera reprodução do saber disciplinar. Está correto o que se afirma em
+(A) I, apenas.
+(B) III, apenas.
+(C) II e III, apenas.
+(D) I e III, apenas.
+(E) I, II e III.
+
+### Q98   GABARITO DEFINITIVO: D
+Com relação aos Centros de Atenção Psicossocial (CAPS), assinale a afirmativa correta.
+(A) Devem atender aos casos de maior gravidade, em associação com os dispositivos de alta complexidade do Sistema Único de Assistência Social.
+(B) Objetivam a montagens articuladas e colaborativas para expandir o acesso e qualificar o cuidado, possibilitando ampliação da demanda aos dispositivos hospitalares.
+(C) Ao desempenharem a função de ordenadores da demanda de seu território, devem possibilitar que a atenção básica se responsabilize pela assistência aos usuários.
+(D) Possuem responsabilidade terapêutica e gestora na atenção psicossocial, implicando de modo indissociável o território, a intersetorialidade e a rede assistencial.
+(E) Modulam a demanda em saúde mental, viabilizando o manejo de crises psicossociais por meio do referenciamento aos serviços de suporte residencial.
+
+### Q99   GABARITO DEFINITIVO: E
+A Rede de Atenção Psicossocial (RAPS) foi legitimada pela portaria no 3088/2011, que determina seus componentes assistenciais. Com relação aos Consultórios na Rua, é correto afirmar que
+(A) são equipes itinerantes que realizam oferta medicamentosa para a população em situação de rua, necessariamente fora do âmbito dos demais componentes da RAPS.
+(B) visam à articulação com a RAPS para inserção da população em situação de rua no componente de suporte residencial.
+(C) constituem um serviço incluído no componente de Atenção Psicossocial Especializada, objetivando a formulação diagnóstica e ações de redução de danos à população em situação de rua.
+(D) Atuam em parceria com outros dispositivos de saúde para promoverem cuidados integrais e a abstinência dos usuários de álcool e outras drogas.
+(E) Constituem um dispositivo inserido como componente de Atenção Básica, visando à oferta de cuidados integrais à população em situação de rua, considerando suas diferentes necessidades.
+
+### Q100   GABARITO DEFINITIVO: D
+De acordo com os desígnios da integralidade em saúde, nenhum trabalhador pode sustentar sozinho a prática do cuidado na Atenção Psicossocial, pois essa é uma construção de uma equipe que potencializa, em rede, o território no qual o usuário se singulariza. Com relação aos processos de trabalho que envolvem o cotidiano do cuidado na Rede de Atenção Psicossocial (RAPS), é correto afirmar que
+(A) o trabalhador é um agente técnico com ações previsíveis que rompem com os modelos hegemônicos de cuidado.
+(B) o trabalhador atua como um agenciador de relações que articulam o complexo hospitalar da saúde.
+(C) a ação é no território, sendo este definido pela área de abrangência geográfica na qual os cuidados em saúde serão articulados.
+(D) os marcadores culturais de cada território são importantes para a reinvenção do trabalho em rede, tramando redes de cuidado que também são socioafetivas.
+(E) visam superar a fragmentação do cuidado presente no modelo biomédico, valorizando o trabalho em equipe e a centralização das ações nos CAPS.

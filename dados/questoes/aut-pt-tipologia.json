@@ -1,0 +1,258 @@
+[
+  {
+    "id": "aut-pt-tipologia-001",
+    "disciplina": "portugues",
+    "assunto": "pt-tipologia",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "texto": "Cuidar da mente perto de casa\n\nA atenção básica é, para a maior parte da população, a porta de entrada do sistema de saúde. É na unidade perto de casa que a mãe leva o filho para vacinar, que o idoso mede a pressão e que, muitas vezes, alguém revela pela primeira vez que não consegue dormir há semanas.\n\nEstima-se que boa parte das queixas atendidas nesses serviços tenha algum componente de sofrimento psíquico. Isso exige que as equipes estejam preparadas para acolher, e não apenas para encaminhar. Acolher significa escutar sem pressa, considerar o contexto de vida da pessoa e construir, junto com ela, um plano de cuidado.\n\nO matriciamento surgiu como resposta a essa necessidade. Nele, profissionais de saúde mental apoiam as equipes da atenção básica, discutindo casos e realizando atendimentos conjuntos. Assim, o conhecimento circula, e o paciente deixa de ser enviado de um serviço a outro sem que ninguém se responsabilize por ele.\n\nEmbora enfrente obstáculos, como a falta de profissionais e a alta demanda, esse modelo tem mostrado que cuidar da mente começa no mesmo lugar em que se cuida do corpo.\n\n(Texto autoral, escrito para fins didáticos.)",
+    "enunciado": "Quanto à tipologia, o texto é predominantemente",
+    "alternativas": [
+      "expositivo, pois apresenta e explica informações sobre a atenção básica e o matriciamento.",
+      "narrativo, pois relata as ações de personagens em sequência temporal.",
+      "injuntivo, pois orienta o leitor a seguir uma série de instruções.",
+      "descritivo, pois caracteriza em detalhes o espaço físico de uma unidade de saúde.",
+      "dialogal, pois reproduz conversas entre profissionais de saúde."
+    ],
+    "gabarito": 0,
+    "comentario": "O texto informa o que é a atenção básica, o peso do sofrimento psíquico nas queixas e o que é o matriciamento: predomina a exposição. Mãe, idoso e paciente são exemplos, não personagens de uma narrativa. Não há instruções ao leitor, descrição de espaço nem diálogos.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-tipologia-002",
+    "disciplina": "portugues",
+    "assunto": "pt-tipologia",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "texto": "Cuidar da mente perto de casa\n\nA atenção básica é, para a maior parte da população, a porta de entrada do sistema de saúde. É na unidade perto de casa que a mãe leva o filho para vacinar, que o idoso mede a pressão e que, muitas vezes, alguém revela pela primeira vez que não consegue dormir há semanas.\n\nEstima-se que boa parte das queixas atendidas nesses serviços tenha algum componente de sofrimento psíquico. Isso exige que as equipes estejam preparadas para acolher, e não apenas para encaminhar. Acolher significa escutar sem pressa, considerar o contexto de vida da pessoa e construir, junto com ela, um plano de cuidado.\n\nO matriciamento surgiu como resposta a essa necessidade. Nele, profissionais de saúde mental apoiam as equipes da atenção básica, discutindo casos e realizando atendimentos conjuntos. Assim, o conhecimento circula, e o paciente deixa de ser enviado de um serviço a outro sem que ninguém se responsabilize por ele.\n\nEmbora enfrente obstáculos, como a falta de profissionais e a alta demanda, esse modelo tem mostrado que cuidar da mente começa no mesmo lugar em que se cuida do corpo.\n\n(Texto autoral, escrito para fins didáticos.)",
+    "enunciado": "No primeiro parágrafo, a enumeração \"que a mãe leva o filho para vacinar, que o idoso mede a pressão e que [...] alguém revela [...] que não consegue dormir\" tem a função de",
+    "alternativas": [
+      "contestar a afirmação de que a atenção básica atende a maior parte da população.",
+      "narrar a história de uma família atendida na unidade de saúde.",
+      "exemplificar, com situações cotidianas, a ideia de que a unidade básica é a porta de entrada do sistema.",
+      "instruir o leitor a procurar a unidade básica em caso de insônia.",
+      "descrever a estrutura física da unidade de saúde perto de casa."
+    ],
+    "gabarito": 2,
+    "comentario": "As cenas concretizam a afirmação geral da frase anterior ('porta de entrada do sistema de saúde'), um recurso típico do texto expositivo. Não há contestação, enredo, ordem ao leitor nem descrição de espaço.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-tipologia-003",
+    "disciplina": "portugues",
+    "assunto": "pt-tipologia",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Leia o fragmento a seguir.\n\n\"Antes de iniciar o acolhimento, confira os dados do usuário. Em seguida, registre a queixa principal com as palavras dele. Não interrompa a fala e, ao final, combine com ele o próximo passo.\"\n\nO tipo textual predominante no fragmento é o",
+    "alternativas": [
+      "narrativo.",
+      "descritivo.",
+      "argumentativo.",
+      "expositivo.",
+      "injuntivo (instrucional)."
+    ],
+    "gabarito": 4,
+    "comentario": "Os verbos no imperativo ('confira', 'registre', 'Não interrompa', 'combine') e a sequência de passos ('Antes de', 'Em seguida', 'ao final') orientam o comportamento do leitor: é o texto injuntivo. Não há enredo, caracterização, defesa de tese nem simples apresentação de informações.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-tipologia-004",
+    "disciplina": "portugues",
+    "assunto": "pt-tipologia",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Leia o fragmento de um regulamento hipotético.\n\n\"Art. 5º É vedado ao servidor da unidade divulgar dados de prontuário a terceiros, salvo mediante autorização expressa do usuário ou determinação judicial.\nParágrafo único. O descumprimento deste artigo sujeitará o infrator às sanções previstas neste regulamento.\"\n\nTrata-se de texto normativo porque",
+    "alternativas": [
+      "relata fatos ocorridos com um servidor que divulgou dados de prontuário.",
+      "estabelece condutas proibidas e consequências, com linguagem impessoal e estrutura em artigos e parágrafos.",
+      "procura convencer o leitor por meio de argumentos de apelo emocional.",
+      "descreve as características físicas de um prontuário.",
+      "explora a linguagem conotativa com finalidade estética."
+    ],
+    "gabarito": 1,
+    "comentario": "O texto normativo regula comportamentos ('É vedado', 'sujeitará o infrator às sanções') em linguagem impessoal e denotativa e se organiza em artigos e parágrafos. Ele não narra casos, não busca persuadir pela emoção, não descreve objetos e não tem finalidade estética.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-tipologia-005",
+    "disciplina": "portugues",
+    "assunto": "pt-tipologia",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Leia o fragmento a seguir.\n\n\"Para entender a ansiedade, pense em um alarme de incêndio. Ele é útil quando dispara diante de fumaça real, mas se torna um problema quando toca a cada torrada queimada. Com a ansiedade acontece algo parecido: a reação de alerta é natural, mas, quando surge sem perigo real e com frequência, passa a atrapalhar a vida. Em resumo, ansiedade não é defeito; o problema é o alarme desregulado.\"\n\nO fragmento apresenta características de texto didático, sobretudo por",
+    "alternativas": [
+      "narrar fatos em ordem cronológica, com personagens e conflito.",
+      "prescrever normas de conduta de cumprimento obrigatório.",
+      "empregar linguagem técnica sem nenhuma explicação ao leitor.",
+      "explicar um conceito por meio de analogia com uma situação conhecida e retomá-lo numa síntese final.",
+      "apresentar dados estatísticos para comprovar uma tese."
+    ],
+    "gabarito": 3,
+    "comentario": "O texto didático tem o objetivo de ensinar: aqui, a ansiedade é explicada pela comparação com um alarme de incêndio e resumida no fim ('Em resumo...'). Não há narrativa, normas, jargão sem explicação nem estatísticas.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-tipologia-006",
+    "disciplina": "portugues",
+    "assunto": "pt-tipologia",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Assinale a opção que apresenta um trecho de texto literário.",
+    "alternativas": [
+      "A unidade básica funcionará em horário estendido a partir de segunda-feira, informou a secretaria.",
+      "Tome um comprimido a cada oito horas, de preferência após as refeições.",
+      "Insônia: substantivo feminino. Dificuldade de iniciar ou manter o sono.",
+      "A tarde despenteava os ipês, e a cidade, cansada, recolhia suas sombras como quem dobra roupa no varal.",
+      "Segundo a pesquisa, 30% dos entrevistados relataram dormir menos de seis horas por noite."
+    ],
+    "gabarito": 3,
+    "comentario": "O trecho literário tem função estética e linguagem conotativa: personificação ('A tarde despenteava', 'a cidade, cansada') e comparação ('como quem dobra roupa no varal'). As outras opções são textos não literários, de linguagem denotativa: notícia, bula, verbete e dado de pesquisa.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-tipologia-007",
+    "disciplina": "portugues",
+    "assunto": "pt-tipologia",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "texto": "Elogio da espera\n\nAntigamente, esperar era um tempo morto. Na fila do banco ou no consultório, restava observar as pessoas, ler os avisos na parede ou simplesmente pensar em nada. Hoje, o celular ocupa cada um desses intervalos, e o tédio, que parecia um inimigo, tornou-se quase uma raridade.\n\nPesquisadores da atenção alertam, no entanto, que o tédio cumpre uma função. É nos momentos vazios que a mente divaga, associa ideias distantes e, não raro, encontra soluções que o esforço concentrado não alcançou. Sem eles, vivemos estimulados o tempo todo, mas criamos pouco.\n\nIsso não significa que devamos jogar o aparelho fora. A tecnologia aproxima familiares distantes, facilita o acesso a serviços e, para muitos, é ferramenta de trabalho. O problema não está no objeto, mas no hábito de recorrer a ele sempre que surge um segundo de silêncio.\n\nExperimente, na próxima espera, deixar o telefone no bolso. Os primeiros minutos serão desconfortáveis; depois, talvez você reencontre um velho conhecido: seu próprio pensamento.\n\n(Texto autoral, escrito para fins didáticos.)",
+    "enunciado": "No último parágrafo do texto, a forma verbal \"Experimente\" marca a presença de uma sequência",
+    "alternativas": [
+      "injuntiva, que se dirige diretamente ao leitor e o incita a agir.",
+      "narrativa, que relata uma experiência vivida pelo autor.",
+      "descritiva, que caracteriza o ambiente de uma sala de espera.",
+      "expositiva, que apresenta dados de pesquisas sobre a atenção.",
+      "dialogal, que reproduz a fala de um personagem."
+    ],
+    "gabarito": 0,
+    "comentario": "O imperativo 'Experimente' convida o leitor a deixar o telefone no bolso: é uma sequência injuntiva inserida num texto de base argumentativa. Não há relato, descrição de ambiente, dados de pesquisa nem fala de personagem nesse trecho.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-tipologia-008",
+    "disciplina": "portugues",
+    "assunto": "pt-tipologia",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Assinale a opção que apresenta uma frase nominal, isto é, sem verbo.",
+    "alternativas": [
+      "A sala de espera ficou em silêncio.",
+      "Faça silêncio, por favor.",
+      "Havia silêncio na sala.",
+      "Silenciaram todos na sala de espera.",
+      "Silêncio absoluto na sala de espera."
+    ],
+    "gabarito": 4,
+    "comentario": "Frase é todo enunciado de sentido completo; quando não tem verbo, é chamada de frase nominal. 'Silêncio absoluto na sala de espera' não tem verbo. As demais têm verbo ('ficou', 'Faça', 'Havia', 'Silenciaram') e são, portanto, orações.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-tipologia-009",
+    "disciplina": "portugues",
+    "assunto": "pt-tipologia",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Assinale a opção que apresenta um período simples.",
+    "alternativas": [
+      "Quando esses espaços somem, a solidão se instala devagar.",
+      "Os vizinhos viram rostos sem nome.",
+      "Ninguém decidiu isso, mas aconteceu.",
+      "Percebi que já não havia lugar para o banco.",
+      "A mãe leva o filho que precisa de vacina."
+    ],
+    "gabarito": 1,
+    "comentario": "Período simples tem uma só oração, com um único verbo ou locução verbal: em 'Os vizinhos viram rostos sem nome', 'viram' é o verbo 'virar'. As outras frases têm dois verbos ou mais ('somem/se instala', 'decidiu/aconteceu', 'Percebi/havia', 'leva/precisa') e são, portanto, períodos compostos.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-tipologia-010",
+    "disciplina": "portugues",
+    "assunto": "pt-tipologia",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Quantas orações há no período \"Quem o conhece sabe que a segunda-feira chega e que o corpo continua pesado\"?",
+    "alternativas": [
+      "Uma.",
+      "Duas.",
+      "Quatro.",
+      "Três.",
+      "Cinco."
+    ],
+    "gabarito": 2,
+    "comentario": "Cada verbo corresponde a uma oração: 'Quem o conhece' (1), 'sabe' (2), 'que a segunda-feira chega' (3) e 'que o corpo continua pesado' (4). 'Pesado' é predicativo e não forma oração própria. São quatro orações.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-tipologia-011",
+    "disciplina": "portugues",
+    "assunto": "pt-tipologia",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Leia o fragmento a seguir.\n\n\"A sala era pequena, de paredes cor de areia. Sobre a mesa baixa, uma caixa de lenços e um relógio discreto, voltado para a poltrona da terapeuta. A janela, coberta por uma cortina clara, deixava entrar uma luz morna.\"\n\nO tipo textual predominante no fragmento é o",
+    "alternativas": [
+      "descritivo.",
+      "narrativo.",
+      "injuntivo.",
+      "argumentativo.",
+      "expositivo."
+    ],
+    "gabarito": 0,
+    "comentario": "O fragmento caracteriza um ambiente (tamanho, cor das paredes, objetos, luz). O pretérito imperfeito ('era', 'deixava') e as frases nominais ('Sobre a mesa baixa, uma caixa de lenços...') mostram um quadro estático, sem progressão de fatos. Não há enredo, instruções, tese nem explicação de conceitos.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-tipologia-012",
+    "disciplina": "portugues",
+    "assunto": "pt-tipologia",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "texto": "Cuidar da mente perto de casa\n\nA atenção básica é, para a maior parte da população, a porta de entrada do sistema de saúde. É na unidade perto de casa que a mãe leva o filho para vacinar, que o idoso mede a pressão e que, muitas vezes, alguém revela pela primeira vez que não consegue dormir há semanas.\n\nEstima-se que boa parte das queixas atendidas nesses serviços tenha algum componente de sofrimento psíquico. Isso exige que as equipes estejam preparadas para acolher, e não apenas para encaminhar. Acolher significa escutar sem pressa, considerar o contexto de vida da pessoa e construir, junto com ela, um plano de cuidado.\n\nO matriciamento surgiu como resposta a essa necessidade. Nele, profissionais de saúde mental apoiam as equipes da atenção básica, discutindo casos e realizando atendimentos conjuntos. Assim, o conhecimento circula, e o paciente deixa de ser enviado de um serviço a outro sem que ninguém se responsabilize por ele.\n\nEmbora enfrente obstáculos, como a falta de profissionais e a alta demanda, esse modelo tem mostrado que cuidar da mente começa no mesmo lugar em que se cuida do corpo.\n\n(Texto autoral, escrito para fins didáticos.)",
+    "enunciado": "Assinale o trecho em que o autor expressa um posicionamento, e não apenas apresenta informação.",
+    "alternativas": [
+      "\"A atenção básica é, para a maior parte da população, a porta de entrada do sistema de saúde.\"",
+      "\"Estima-se que boa parte das queixas atendidas nesses serviços tenha algum componente de sofrimento psíquico.\"",
+      "\"Nele, profissionais de saúde mental apoiam as equipes da atenção básica, discutindo casos e realizando atendimentos conjuntos.\"",
+      "\"Isso exige que as equipes estejam preparadas para acolher, e não apenas para encaminhar.\"",
+      "\"O matriciamento surgiu como resposta a essa necessidade.\""
+    ],
+    "gabarito": 3,
+    "comentario": "Ao dizer o que a situação 'exige' e contrapor 'acolher' a 'apenas encaminhar', o autor defende um modo de agir: é uma sequência argumentativa. As outras opções apresentam informações (definição da atenção básica, estimativa, funcionamento e origem do matriciamento).",
+    "dificuldade": 2,
+    "anulada": false
+  }
+]

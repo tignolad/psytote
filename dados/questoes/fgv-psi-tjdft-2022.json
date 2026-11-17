@@ -1,0 +1,1122 @@
+[
+ {
+  "id": "fgv-tjdft-2022-psi-21",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJDFT",
+   "ano": 2022,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_judiciario_-_psicologians-psc_tipo_1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjdft2022_gabarito_definitivo.pdf",
+   "questao_original": 21,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "O Conselho Nacional dos Direitos da Criança e do Adolescente (Conanda), por meio de uma Resolução de 2006, institucionalizou o Sistema de Garantia dos Direitos da Criança e do Adolescente para assegurar e fortalecer a implementação do Estatuto da Criança e do Adolescente (ECA). Sobre o tema, analise as opções a seguir.\nI. A Vara da Infância e da Juventude, o Ministério Público e a Defensoria Pública;\nII. O Centro de Referência Especializado de Assistência Social (Creas) e o Conselho Tutelar;\nIII. O Conselho Municipal dos Direitos da Criança e do Adolescente (CMDCA) e o Centro de Atenção Psicossocial Infantil (Capsi).\nFaz(em) parte do Sistema de Garantia de Direito da Criança e do Adolescente:",
+  "alternativas": [
+   "somente I;",
+   "somente I e II;",
+   "somente I e III;",
+   "somente II e III;",
+   "I, II e III."
+  ],
+  "gabarito": 4,
+  "comentario": "A Resolução Conanda nº 113/2006 organiza o Sistema de Garantia de Direitos em três eixos: defesa (Judiciário/Vara da Infância, Ministério Público, Defensoria Pública, Conselho Tutelar), promoção (políticas e serviços de atendimento, como CREAS e CAPSi) e controle (conselhos de direitos, como o CMDCA). Assim, todos os órgãos e serviços listados em I, II e III integram o SGD. Por isso a resposta é 'I, II e III'; as demais alternativas excluem atores que fazem parte do sistema.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjdft-2022-psi-22",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJDFT",
+   "ano": 2022,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_judiciario_-_psicologians-psc_tipo_1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjdft2022_gabarito_definitivo.pdf",
+   "questao_original": 22,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "João tinha 19 anos quando cometeu o crime de homicídio de um vizinho durante um surto psicótico. João foi diagnosticado como esquizofrênico paranoide e o juiz determinou a aplicação de uma medida de segurança de internação em hospital de custódia. João cumpriu a medida por seis anos e pode ser desinternado condicionalmente, mas, após o crime, sua família não pôde mais continuar naquele bairro e seu paradeiro atual é desconhecido. De acordo com a legislação que trata do atendimento às pessoas com transtorno mental em conflito com a lei, João:",
+  "alternativas": [
+   "será internado em hospital psiquiátrico externo ao presídio até sua família ser localizada;",
+   "será encaminhado para uma comunidade terapêutica para egressos do sistema penitenciário;",
+   "poderá se beneficiar do Sistema Residencial Terapêutico para sua reinserção comunitária;",
+   "cumprirá o restante de sua pena privativa de liberdade em unidade prisional convencional;",
+   "terá sua pena extinta e será liberado e orientado a buscar atendimento ambulatorial."
+  ],
+  "gabarito": 2,
+  "comentario": "Pela lógica da Reforma Psiquiátrica (Lei nº 10.216/2001), pessoas com longa internação e sem suporte familiar ou social devem ser reinseridas na comunidade, e o Serviço Residencial Terapêutico (SRT) é o dispositivo da RAPS voltado a isso. Por isso João pode se beneficiar das residências terapêuticas. Internar em hospital psiquiátrico até achar a família (A) contraria a lei; comunidade terapêutica (B) não é o dispositivo previsto; a medida de segurança não vira pena privativa em prisão comum (D); e a desinternação não significa simplesmente liberar sem suporte (E).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjdft-2022-psi-23",
+  "disciplina": "especificos",
+  "assunto": "esp-trabalho",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJDFT",
+   "ano": 2022,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_judiciario_-_psicologians-psc_tipo_1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjdft2022_gabarito_definitivo.pdf",
+   "questao_original": 23,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "A desmotivação no trabalho pode ter como causas fatores ambientais e/ou individuais. O psicólogo Abraham Maslow tratou do tema da motivação humana e propôs uma hierarquia de necessidades que são representadas em uma pirâmide. Aplicando-se a teoria de Maslow no ambiente profissional, ocupa o topo da pirâmide:",
+  "alternativas": [
+   "a necessidade fisiológica de estar em um ambiente com conforto e boa ventilação;",
+   "a necessidade social de pertencimento ao grupo e de estabelecimento de laços com colegas;",
+   "a necessidade de autorrealização por meio do desenvolvimento dos seus potenciais;",
+   "a necessidade de segurança quanto à previsibilidade e à estabilidade no trabalho;",
+   "a necessidade de autoestima por meio do reconhecimento pelos pares e pelos superiores."
+  ],
+  "gabarito": 2,
+  "comentario": "Na hierarquia de Maslow, a base é formada pelas necessidades fisiológicas, seguidas por segurança, sociais (pertencimento), estima e, no topo, autorrealização, ou seja, desenvolver plenamente os próprios potenciais. No trabalho, isso corresponde a atividades desafiadoras e oportunidades de crescimento. As demais alternativas descrevem os níveis inferiores da pirâmide (fisiológico, social, segurança e estima).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjdft-2022-psi-24",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJDFT",
+   "ano": 2022,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_judiciario_-_psicologians-psc_tipo_1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjdft2022_gabarito_definitivo.pdf",
+   "questao_original": 24,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "O juiz criminal aplicou a Roberto uma pena alternativa pelo crime de vandalismo em uma parada de ônibus. A Política Nacional de Alternativas Penais tem como finalidade:",
+  "alternativas": [
+   "a aplicação do regime de semiliberdade em meio aberto;",
+   "a responsabilização da pessoa submetida à alternativa penal;",
+   "a diminuição do tempo de encarceramento do condenado;",
+   "a absolvição dos indiciados em crimes de menor potencial ofensivo;",
+   "a substituição da pena de prestação pecuniária pela de prestação de serviços comunitários."
+  ],
+  "gabarito": 1,
+  "comentario": "A Política Nacional de Alternativas Penais tem entre suas finalidades a responsabilização da pessoa submetida à alternativa penal, com manutenção do vínculo com a comunidade, respeito à dignidade e incentivo à participação comunitária e à restauração das relações. Não se trata de regime de semiliberdade (A), nem simplesmente de reduzir o tempo de prisão (C), absolver (D) ou trocar uma pena por outra (E). A ideia central é responsabilizar sem encarcerar.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjdft-2022-psi-25",
+  "disciplina": "especificos",
+  "assunto": "esp-direitos-humanos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJDFT",
+   "ano": 2022,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_judiciario_-_psicologians-psc_tipo_1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjdft2022_gabarito_definitivo.pdf",
+   "questao_original": 25,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "A funcionalidade humana não depende apenas de aspectos diretamente ligados às funções e estruturas do corpo. O Índice de Funcionalidade Brasileiro Aplicado para Fins de Aposentadoria (IFBrA) é um instrumento de avaliação psicossocial da deficiência que leva em conta também o papel do contexto na forma como as pessoas desempenham suas atividades habituais. Considerando os fatores ambientais envolvidos na funcionalidade, analise as afirmativas a seguir, considerando V para(s) a(s) verdadeira(s) e F para(s) falsa(s):\nI. Assistentes virtuais por comando de voz são ferramentas de tecnologia assistiva para pessoas com tetraplegia.\nII. O cão-guia é um facilitador na categoria apoio e relacionamentos para a mobilidade de pessoas com deficiência visual.\nIII. O assistencialismo garante promoção e proteção social para pessoas socialmente vulneráveis com deficiência física.\nIV. A deficiência intelectual implica o veto ao exercício dos direitos civis, como a participação na vida política por meio do voto.\nA sequência correta é:",
+  "alternativas": [
+   "V – V – F – F;",
+   "F – F – V – V;",
+   "V – F – V – F;",
+   "F – F – F – V;",
+   "V – V – V – F."
+  ],
+  "gabarito": 0,
+  "comentario": "O IFBrA segue o modelo biopsicossocial da CIF, em que fatores ambientais podem ser facilitadores ou barreiras. I é verdadeira (assistente de voz é tecnologia assistiva) e II também (na CIF, animais de apoio, como o cão-guia, entram em 'apoio e relacionamentos'). III é falsa, porque o assistencialismo não garante proteção social nem promoção de autonomia. IV é falsa, porque a Lei Brasileira de Inclusão (Lei nº 13.146/2015) afirma que a deficiência não afeta a plena capacidade civil e assegura o direito de votar. Sequência: V – V – F – F.",
+  "dificuldade": 3,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjdft-2022-psi-26",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJDFT",
+   "ano": 2022,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_judiciario_-_psicologians-psc_tipo_1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjdft2022_gabarito_definitivo.pdf",
+   "questao_original": 26,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "As pessoas que querem adotar uma criança ou adolescente devem postular sua Habilitação para Adoção e, deferido o pedido, elas aguardam em um cadastro sua convocação conforme a disponibilidade e o perfil de crianças ou adolescentes adotáveis. De acordo com a legislação, na convocação para adoção:",
+  "alternativas": [
+   "casais terão preferência sobre pretendentes individuais;",
+   "casais sem filhos terão preferência sobre casais com filhos;",
+   "será observada a ordem cronológica da sentença de habilitação;",
+   "casais heterossexuais terão preferência sobre casais homoafetivos;",
+   "pretendentes estrangeiros terão preferência sobre pretendentes nacionais."
+  ],
+  "gabarito": 2,
+  "comentario": "Pelo ECA (art. 197-E), as pessoas habilitadas são inscritas nos cadastros, e a convocação para adoção segue a ordem cronológica da habilitação, de acordo com a disponibilidade de crianças e adolescentes adotáveis e o perfil escolhido. A lei não dá preferência a casais sobre pessoas sozinhas, a casais sem filhos, a casais heterossexuais ou a estrangeiros. A adoção internacional, aliás, é subsidiária: só ocorre quando não há pretendente nacional.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjdft-2022-psi-27",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJDFT",
+   "ano": 2022,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_judiciario_-_psicologians-psc_tipo_1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjdft2022_gabarito_definitivo.pdf",
+   "questao_original": 27,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Bia, 17 anos, tem problemas na fala por causa da paralisia cerebral. Ela cursa o Ensino Médio com bom desempenho escolar. Bia ganhou um concurso de redação e sua colega Carolina, 16 anos, publicou numa rede social que Bia era “retardada” e havia sido favorecida pelos professores. O conflito que surgiu daí foi parar em uma Vara de Infância e Juventude onde foi feita a proposta de uma abordagem de mediação envolvendo as partes. Com relação à situação descrita, é correto afirmar que:",
+  "alternativas": [
+   "Carolina poderá ser condenada por calúnia, injúria e difamação;",
+   "pessoas com capacitismo como Bia têm direito à educação inclusiva;",
+   "a abordagem restaurativa buscará a reparação do dano e a pacificação social;",
+   "o enfoque retributivo prevê a corresponsabilidade dos participantes;",
+   "o mediador sugerirá soluções para a autocomposição do conflito."
+  ],
+  "gabarito": 2,
+  "comentario": "A mediação proposta no caso segue a lógica da justiça restaurativa, que busca reparar o dano, responsabilizar com participação ativa dos envolvidos e promover a pacificação social. A alternativa A erra porque Carolina é adolescente: responde por ato infracional, não é 'condenada' por crime. B usa o termo errado, já que capacitismo é a discriminação contra pessoas com deficiência, não uma condição de Bia. D atribui ao modelo retributivo (punitivo) uma característica do restaurativo. E erra porque, na mediação, quem constrói a solução são as partes, e o mediador não sugere soluções.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjdft-2022-psi-28",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJDFT",
+   "ano": 2022,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_judiciario_-_psicologians-psc_tipo_1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjdft2022_gabarito_definitivo.pdf",
+   "questao_original": 28,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "O tabagismo é o principal fator de risco para enfermidades e incapacitações prematuras e evitáveis. Considerando que é na adolescência que ocorre a iniciação do uso do tabaco, a psicóloga Ana propôs um trabalho em equipe multidisciplinar a ser desenvolvido junto a alunos do Ensino Médio. Um programa de Psicologia da Saúde focado na prevenção primária ao uso do tabaco poderá usar como estratégia:",
+  "alternativas": [
+   "a oferta de informações em linguagem acessível sobre o risco de dependência do tabaco e suas consequências para a saúde;",
+   "o atendimento terapêutico em grupo de ajuda mútua voltado para adolescentes tabagistas que desejam parar de fumar;",
+   "a redução de danos por meio do fornecimento de chicletes de nicotina ou de cigarros eletrônicos para os adolescentes;",
+   "a descriminalização da venda de cigarros a menores de idade e a proibição de fumar em ambientes fechados;",
+   "evitar tratar do tema tabagismo a fim de não despertar nos jovens a curiosidade e o desejo de experimentar cigarros."
+  ],
+  "gabarito": 0,
+  "comentario": "A prevenção primária age antes do início do uso e visa evitar que ele comece, por exemplo com informação acessível sobre riscos e consequências e com o fortalecimento de fatores de proteção. Grupo terapêutico para quem já fuma (B) é intervenção secundária ou terciária. Fornecer nicotina a adolescentes (C) não faz sentido, e liberar a venda a menores (D) contraria a proteção legal. Evitar o tema (E) vai contra a educação em saúde.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjdft-2022-psi-29",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJDFT",
+   "ano": 2022,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_judiciario_-_psicologians-psc_tipo_1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjdft2022_gabarito_definitivo.pdf",
+   "questao_original": 29,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Um bebê indígena recém-nascido com uma deficiência física foi resgatado após ter sido abandonado em um matagal e foi acolhido em uma entidade após o atendimento médico. De acordo com a legislação vigente no Estatuto da Criança e do Adolescente (ECA):",
+  "alternativas": [
+   "apenas membros da mesma comunidade étnica poderão adotar o bebê;",
+   "os representantes da Funai terão preferência na adoção do bebê índio;",
+   "os direitos fundamentais reconhecidos pelo ECA não se aplicam a indígenas;",
+   "o bebê poderá vir a ser adotado por pretendentes habilitados à adoção;",
+   "o bebê permanecerá em acolhimento em respeito à sua identidade cultural."
+  ],
+  "gabarito": 3,
+  "comentario": "Pelo ECA (art. 28, § 6º), ao colocar em família substituta uma criança indígena, é obrigatório considerar e respeitar sua identidade social e cultural, dando prioridade à colocação na própria comunidade ou junto a membros da mesma etnia. Isso não impede a adoção por pretendentes habilitados. A está errada por dizer 'apenas', e B porque a Funai intervém no processo mas não tem preferência para adotar. C erra porque o ECA se aplica a todas as crianças, e E porque o acolhimento institucional é medida provisória e excepcional.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjdft-2022-psi-30",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJDFT",
+   "ano": 2022,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_judiciario_-_psicologians-psc_tipo_1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjdft2022_gabarito_definitivo.pdf",
+   "questao_original": 30,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Para atuar nos casos em que é necessária a obtenção de testemunho, a exemplo das situações de violência contra crianças e adolescentes e do depoimento especial, é importante entender como funciona a memória humana. Sobre as etapas envolvidas desde o contato com um evento relevante até seu testemunho, é correto afirmar que:",
+  "alternativas": [
+   "todas as informações que chegam pelos órgãos dos sentidos ficam armazenadas na memória;",
+   "as informações armazenadas na memória permanecem intocadas ao longo do tempo;",
+   "o acesso à memória das crianças depende da utilização de técnicas projetivas e jogos;",
+   "falsas memórias ocorrem quando há uma distorção proposital dos fatos pela criança ou adolescente;",
+   "a intensidade emocional do evento influencia no processo de recuperação da memória."
+  ],
+  "gabarito": 4,
+  "comentario": "A memória não grava passivamente tudo o que percebemos: há atenção seletiva, codificação, armazenamento e recuperação, e a lembrança é reconstruída, sujeita a esquecimento e a falsas memórias. A intensidade emocional do evento influencia tanto a codificação quanto a recuperação, o que é central no depoimento especial. A e B descrevem a memória como gravação fiel e imutável. C erra porque a oitiva de crianças usa protocolos de entrevista, e não técnicas projetivas. D confunde falsas memórias, que não são intencionais, com mentira.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjdft-2022-psi-31",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJDFT",
+   "ano": 2022,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_judiciario_-_psicologians-psc_tipo_1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjdft2022_gabarito_definitivo.pdf",
+   "questao_original": 31,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "A aposentada Joaquina, 72 anos, foi presa em flagrante logo após sair de um supermercado de onde havia furtado duas garrafas de whisky e artigos variados de perfumaria. Na Delegacia, Joaquina declarou que, ao pagar suas compras no caixa de autoatendimento, esqueceu-se de incluir estes itens. Sobre essa situação, é correto afirmar que:",
+  "alternativas": [
+   "Joaquina é inimputável por se tratar de pessoa idosa com mais de 70 anos;",
+   "é indicada a internação compulsória da idosa para o tratamento da dependência alcoólica;",
+   "idosos com diagnóstico de demência senil são semi-imputáveis para efeito processual penal;",
+   "a família de Joaquina poderá ser processada por abandono moral e material de incapaz;",
+   "maiores de 70 anos podem se beneficiar do regime aberto em sua residência, se condenados."
+  ],
+  "gabarito": 4,
+  "comentario": "A Lei de Execução Penal (art. 117, I) permite que o condenado maior de 70 anos em regime aberto cumpra a pena em residência particular (prisão domiciliar). Por isso E está correta. A idade avançada, sozinha, não torna ninguém inimputável (A), e nada no caso indica dependência que justifique internação compulsória (B). Demência não gera semi-imputabilidade automática, pois isso depende de perícia (C), e não há elemento que caracterize abandono pela família (D).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjdft-2022-psi-32",
+  "disciplina": "especificos",
+  "assunto": "esp-etica",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJDFT",
+   "ano": 2022,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_judiciario_-_psicologians-psc_tipo_1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjdft2022_gabarito_definitivo.pdf",
+   "questao_original": 32,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Silvia é psicóloga do TJDFT e tem entre suas atribuições o atendimento a servidores do Tribunal. O técnico judiciário Gustavo relatou a ela que é portador do vírus HIV e faz acompanhamento multidisciplinar em um serviço público de saúde. Gustavo teme sofrer preconceito na serventia caso sua condição seja conhecida. De acordo com o disposto no Código de Ética e de Conduta do TJDFT:",
+  "alternativas": [
+   "é obrigatória a divulgação pública de doenças infectocontagiosas, como a Aids, de forma a assegurar proteção sanitária ao corpo de servidores;",
+   "Gustavo tem direito ao sigilo sobre sua condição de saúde e a informação ficará restrita a ele e aos responsáveis pela guarda, manutenção e tratamento da informação;",
+   "Sílvia respeitará o direito de Gustavo ao sigilo e acordará com ele, de forma confidencial, um motivo alternativo para justificar as licenças médicas;",
+   "a profissional manterá a neutralidade e a parcialidade quanto à informação obtida e aconselhará Gustavo a requerer autorização para trabalhar remotamente;",
+   "Silvia deverá sensibilizar Gustavo a participar de campanha educativa de combate à discriminação contra pessoas com Aids e DSTs."
+  ],
+  "gabarito": null,
+  "comentario": "O tema é o sigilo sobre a condição de saúde de um servidor (HIV) atendido pela psicóloga do tribunal. Pelos princípios éticos (inclusive o art. 9º do Código de Ética do Psicólogo), a informação é confidencial e só pode ser acessada por quem dela necessita para o cuidado ou a guarda. A questão foi anulada no gabarito definitivo da FGV. Mesmo assim, ela mostra que divulgar a condição (A) ou combinar justificativas falsas (C) é inadequado.",
+  "dificuldade": 2,
+  "anulada": true
+ },
+ {
+  "id": "fgv-tjdft-2022-psi-33",
+  "disciplina": "especificos",
+  "assunto": "esp-praticas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJDFT",
+   "ano": 2022,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_judiciario_-_psicologians-psc_tipo_1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjdft2022_gabarito_definitivo.pdf",
+   "questao_original": 33,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Moradora do 10º andar, Vera quase não sai de casa porque tem sintomas de pânico quando entra no elevador e acredita que sofrerá um enfarte. A terapia cognitivo comportamental (TCC) foi indicada para Vera, e a psicóloga poderá utilizar as seguintes técnicas da TCC para trabalhar com a paciente:",
+  "alternativas": [
+   "registro de pensamentos disfuncionais e medicação;",
+   "troca de papéis e análise da transferência;",
+   "catarse dramática e parada do pensamento;",
+   "dessensibilização sistemática e técnicas de relaxamento;",
+   "técnicas de exposição e condicionamento operante."
+  ],
+  "gabarito": 3,
+  "comentario": "Para um quadro fóbico ou ansioso desencadeado por um estímulo específico (o elevador), a TCC usa a dessensibilização sistemática (exposição gradual hierarquizada, de Wolpe) associada a técnicas de relaxamento. A erra porque medicação não é técnica psicológica da TCC. Troca de papéis e análise da transferência (B) vêm do psicodrama e da psicanálise, e catarse dramática (C) é do psicodrama. Em E, a exposição é pertinente, mas o condicionamento operante não é a técnica-alvo para fobia.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjdft-2022-psi-34",
+  "disciplina": "especificos",
+  "assunto": "esp-direitos-humanos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJDFT",
+   "ano": 2022,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_judiciario_-_psicologians-psc_tipo_1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjdft2022_gabarito_definitivo.pdf",
+   "questao_original": 34,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Em 1999, o Conselho Federal de Psicologia (CFP), levando em conta o consenso científico internacional e os direitos humanos, publicou a Resolução CFP nº 0001/1999, que estabelece normas de atuação para os psicólogos em relação à questão da orientação sexual. É correto afirmar que a resolução:",
+  "alternativas": [
+   "permite tratamento de reorientação sexual nos casos em que houver demanda do paciente que sofre preconceito em seu meio familiar e social;",
+   "colocou-se na vanguarda na medida em que a homossexualidade continuou a ser considerada patologia no DSM-IV e no CID-10;",
+   "impede tratamentos que associam homossexualidade à patologia, mas não impede a participação de psicólogos em pronunciamentos públicos que reforçam preconceitos sociais;",
+   "considera que a forma como cada um vive sua sexualidade faz parte da identidade do sujeito, sendo a conduta e o desejo homoafetivo manifestações da sexualidade humana em sua diversidade;",
+   "teve apoio amplo da sociedade, inclusive de congressistas e comunidades terapêuticas de cunho religioso."
+  ],
+  "gabarito": 3,
+  "comentario": "A Resolução CFP nº 01/1999 afirma que a homossexualidade não é doença, distúrbio nem perversão, e que a forma como cada pessoa vive sua sexualidade faz parte de sua identidade. O desejo e a conduta homoafetivos são expressões da diversidade sexual humana. A resolução proíbe qualquer tratamento de 'reorientação' ou 'cura' (A) e também pronunciamentos públicos que reforcem preconceitos (C). B erra porque a homossexualidade já não constava como patologia no DSM-IV nem na CID-10. E erra porque a norma foi alvo de ataques de parlamentares e grupos religiosos.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjdft-2022-psi-35",
+  "disciplina": "legislacao",
+  "assunto": "leg-res01-2009",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJDFT",
+   "ano": 2022,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_judiciario_-_psicologians-psc_tipo_1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjdft2022_gabarito_definitivo.pdf",
+   "questao_original": 35,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "João é psicólogo jurídico e realiza o acompanhamento de jovens em medida socioeducativa e de crianças em processo de reintegração familiar. Considerando a necessidade de registro das informações decorrentes da prestação de serviços psicológicos, a Resolução CFP nº 0001/2009 estabelece que:\nI. É obrigatório o registro documental sob a forma de prontuário psicológico, por razões que envolvam a restrição do compartilhamento de informações com o usuário e beneficiário do serviço prestado.\nII. O registro documental em papel ou informatizado tem caráter sigiloso e constitui-se de um conjunto de informações com o objetivo de contemplar sucintamente o trabalho prestado, a descrição e a evolução da atividade e os procedimentos técnico-científicos adotados.\nIII. O período de guarda do registro documental deve ser de no mínimo dez anos, devendo ser mantido em local acessível pela instituição onde o psicólogo prestou o serviço.\nEstá correto o que se afirma em:",
+  "alternativas": [
+   "somente I;",
+   "somente II;",
+   "somente III;",
+   "somente I e II;",
+   "I, II e III."
+  ],
+  "gabarito": 1,
+  "comentario": "Apenas II está correta. Ela descreve o registro documental como sigiloso, em papel ou informatizado, contemplando de forma sucinta o trabalho prestado, a evolução e os procedimentos técnico-científicos. I distorce a norma: o registro é sempre obrigatório, e a forma de 'registro documental', em vez de prontuário, se aplica quando há razões que restringem o compartilhamento de informações com o usuário. Essa restrição não é a razão da obrigatoriedade. III erra o prazo de guarda, que é de no mínimo 5 anos, e não 10.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjdft-2022-psi-36",
+  "disciplina": "especificos",
+  "assunto": "esp-avaliacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJDFT",
+   "ano": 2022,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_judiciario_-_psicologians-psc_tipo_1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjdft2022_gabarito_definitivo.pdf",
+   "questao_original": 36,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Maurício atua como psicólogo perito em Vara de Família e, ao atender um processo de disputa de guarda, recebe a visita de um assistente técnico que solicita participar das entrevistas das partes. Tal assistente argumenta que, por ser psicoterapeuta de uma das partes, poderá colaborar no procedimento de avaliação técnica do caso. Considerando a Resolução CFP nº 008/2010, que dispõe sobre a atuação do psicólogo como perito e assistente técnico no Poder Judiciário, é correto afirmar que:",
+  "alternativas": [
+   "o psicólogo assistente técnico não deve estar presente durante a realização dos procedimentos metodológicos que norteiam o atendimento do psicólogo perito e vice-versa;",
+   "o psicólogo assistente técnico poderá participar dos atendimentos do psicólogo perito, exceto quando as entrevistas forem realizadas por equipe multiprofissional;",
+   "o perito e o assistente técnico têm como tarefa comum apresentar, por meio de laudo ou relatório, os indicativos pertinentes às suas investigações que subsidiem o juiz na solicitação realizada;",
+   "é vedado ao assistente técnico ouvir as pessoas envolvidas, caso contrário, poderá se desviar da tarefa de questionar tecnicamente as conclusões realizadas pelo psicólogo perito;",
+   "é vedado ao psicólogo que seja psicoterapeuta das partes envolvidas em um litígio atuar como perito das pessoas atendidas, não havendo impedimento para o assistente técnico."
+  ],
+  "gabarito": 0,
+  "comentario": "A Resolução CFP nº 08/2010 determina que o assistente técnico não esteja presente nos procedimentos metodológicos do perito, e vice-versa, para não interferir na dinâmica e na qualidade da avaliação. A mesma resolução proíbe o psicoterapeuta de atuar como perito ou como assistente técnico de pessoas que atende, por isso E está errada. B cria uma exceção que não existe. C confunde os papéis: o perito produz o laudo para o juízo e o assistente técnico produz parecer técnico questionando o trabalho pericial. D erra porque o assistente técnico pode realizar suas próprias escutas.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjdft-2022-psi-37",
+  "disciplina": "especificos",
+  "assunto": "esp-avaliacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJDFT",
+   "ano": 2022,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_judiciario_-_psicologians-psc_tipo_1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjdft2022_gabarito_definitivo.pdf",
+   "questao_original": 37,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Raquel é psicóloga perita e tem como tarefa avaliar um caso de litígio familiar em torno de uma criança, Miguel, de 6 anos. Uma das pessoas responsáveis pela criança mostrou-se incomodada com a avaliação psicológica, pois a criança vem sendo exposta a conflitos entre os genitores e, com efeito, apresenta certo sofrimento. De acordo com a Resolução CFP nº 017/2012, que dispõe sobre a atuação do psicólogo como perito nos diversos contextos:",
+  "alternativas": [
+   "o atendimento da criança necessita do consentimento formal de todos os seus responsáveis legais;",
+   "a recusa do periciado ou de seu dependente em submeter-se às avaliações para fins de perícia psicológica deve ser comunicada em audiência com o juiz;",
+   "o periciado deve ser informado acerca dos motivos, das técnicas utilizadas, datas e local da avaliação pericial psicológica;",
+   "a devolutiva do processo de avaliação deve direcionar-se para a demanda inicial, as técnicas utilizadas, o raciocínio psicológico e os encaminhamentos a serem feitos;",
+   "o trabalho pericial poderá contemplar instrumentos, métodos e técnicas reconhecidas pela ciência psicológica, garantido o princípio fundamental do livre convencimento do profissional."
+  ],
+  "gabarito": 2,
+  "comentario": "A Resolução CFP nº 17/2012 exige informar ao periciado os motivos da avaliação, as técnicas utilizadas, datas e local, garantindo transparência e respeito à pessoa avaliada. Na perícia judicial, a avaliação decorre de determinação do juízo, sem exigir consentimento formal de todos os responsáveis (A), e a recusa não precisa ser comunicada em audiência (B). O 'livre convencimento' é princípio do juiz, não do psicólogo, que deve se basear em métodos e técnicas reconhecidos pela ciência psicológica (E). D não corresponde ao que a norma estabelece.",
+  "dificuldade": 3,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjdft-2022-psi-38",
+  "disciplina": "legislacao",
+  "assunto": "leg-res06-2019",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJDFT",
+   "ano": 2022,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_judiciario_-_psicologians-psc_tipo_1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjdft2022_gabarito_definitivo.pdf",
+   "questao_original": 38,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Débora atuou como perita num caso grave de litígio familiar, pautado por acusações entre as partes de abuso sexual, violência doméstica e alienação parental. Concluída a sua avaliação e confeccionado o laudo, surgiu nela dúvidas sobre a entrevista devolutiva. Segundo a Resolução CFP nº 06/2019, a psicóloga:",
+  "alternativas": [
+   "deve realizar a entrevista devolutiva caso tenha feito um parecer;",
+   "deve realizar a entrevista devolutiva por envolver violência contra a criança;",
+   "deve realizar a entrevista devolutiva depois da entrega do laudo;",
+   "na impossibilidade de realizar a entrevista devolutiva, deve explicitar as razões;",
+   "não tem a obrigação de realizar a entrevista devolutiva, sendo algo facultativo à profissional."
+  ],
+  "gabarito": 3,
+  "comentario": "A Resolução CFP nº 06/2019 prevê a devolutiva como regra na entrega dos documentos resultantes de avaliação. Quando ela não puder ser realizada, a psicóloga deve explicitar as razões. Por isso a devolutiva não é simplesmente facultativa (E) nem depende de o documento ser parecer, já que o parecer responde a uma consulta técnica (A). O critério também não é o tipo de violência envolvida (B), e a devolutiva acompanha a entrega do laudo, não vem depois dela (C).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjdft-2022-psi-39",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJDFT",
+   "ano": 2022,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_judiciario_-_psicologians-psc_tipo_1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjdft2022_gabarito_definitivo.pdf",
+   "questao_original": 39,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "A alienação parental é um tema controverso, cuja lei vem sendo debatida no Congresso Nacional. Por sua vez, o Conselho Federal de Psicologia já promoveu debates sobre o tema, tendo, inclusive, publicado uma coletânea com psicólogos de perspectivas diferentes. Analise as críticas ao conceito de síndrome de alienação parental (SAP)/alienação parental (AP), considerando V para a(s) verdadeira(s) e F para a(s) falsa(s):\nI. Estudos sem grupo controle e ausência de estudos de coorte estruturados para atestar a SAP e suas consequências.\nII. Os pressupostos de AP representam uma visão que patologiza, medica e criminaliza acontecimentos e situações que são contingentes ao pós-divórcio.\nIII. A expressão da criança é desqualificada em função da suposta lavagem cerebral que ela sofreu, chegando a ser referida por Gardner como “falso pensador-independente”.\nA sequência correta é:",
+  "alternativas": [
+   "F – V – F;",
+   "F – V – V;",
+   "F – F – V;",
+   "V – V – F;",
+   "V – V – V."
+  ],
+  "gabarito": null,
+  "comentario": "A questão trata das críticas à 'síndrome de alienação parental' (Gardner) e à Lei nº 12.318/2010, reunidas em publicação do CFP: fragilidade metodológica (estudos sem grupo controle), patologização e criminalização de conflitos comuns após o divórcio, e desqualificação da fala da criança (o 'falso pensador independente'). As três afirmativas descrevem críticas de fato presentes no debate. A questão foi anulada no gabarito definitivo da FGV.",
+  "dificuldade": 3,
+  "anulada": true
+ },
+ {
+  "id": "fgv-tjdft-2022-psi-40",
+  "disciplina": "legislacao",
+  "assunto": "leg-codigo-etica",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJDFT",
+   "ano": 2022,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_judiciario_-_psicologians-psc_tipo_1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjdft2022_gabarito_definitivo.pdf",
+   "questao_original": 40,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Julia é psicóloga e foi demandada por um pai, detentor da guarda de uma criança, a realizar uma perícia. Para tanto, solicitou autorização formal do pai para fazer a avaliação psicológica, iniciando as entrevistas sem requisitar autorização da mãe. No decorrer das entrevistas, descobriu que a criança é vítima de crueldade e de abuso psicológico do pai, que rechaçou a devolutiva da psicóloga. A mãe não quis tomar atitude para não ser prejudicada na convivência do filho. Diante da situação de vulnerabilidade da criança, Julia decidiu quebrar o sigilo dos atendimentos e notificar o Conselho Tutelar, entregando um “atestado psicológico” no qual se apresenta como perita do caso e informa que a criança é vítima de abuso, porém, sem fundamentá-lo técnico-cientificamente. De acordo com o Código de Ética do Psicólogo, Julia:",
+  "alternativas": [
+   "cometeu infração ética por solicitar autorização apenas ao pai para realizar a perícia, sendo obrigada a solicitar também à mãe;",
+   "cometeu infração ética por quebra do sigilo diante do conflito entre a preservação da confidencialidade e a situação de crueldade sobre a criança;",
+   "cometeu infração ética por emitir documento sem fundamentação e qualidade técnico-científica;",
+   "cometeu infração ética por todos os motivos acima;",
+   "não cometeu nenhuma infração ética."
+  ],
+  "gabarito": 2,
+  "comentario": "Julia infringiu o Código de Ética ao emitir um 'atestado' sem fundamentação técnico-científica, já que todo documento deve ter qualidade técnica e seguir as normas do CFP (Res. 06/2019). Apresentar-se como perita sem nomeação também é impróprio. Por outro lado, o atendimento de criança exige a autorização de ao menos um dos responsáveis (art. 8º), então pedir só ao pai não é infração (A). A quebra de sigilo diante de violência contra a criança é justificada pelo art. 10 (menor prejuízo) e pelo dever de comunicar ao Conselho Tutelar (B). Logo, apenas C está correta.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjdft-2022-psi-41",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJDFT",
+   "ano": 2022,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_judiciario_-_psicologians-psc_tipo_1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjdft2022_gabarito_definitivo.pdf",
+   "questao_original": 41,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Rodolfo ajuizou uma ação pleiteando guarda compartilhada em relação a seu filho, Antônio, de 5 anos, sendo contestada pela mãe da criança, Marlene, alegando que o pai jamais assumiu responsabilidade. Segundo a mãe, não faria sentido o pai exercer a guarda conjuntamente, passados dois anos desde a separação. O juiz encaminhou o processo para a equipe interdisciplinar, cuja orientação deverá visar, de acordo com a Lei nº 13.058/2014:",
+  "alternativas": [
+   "o diagnóstico de atos de alienação parental;",
+   "a divisão equilibrada do tempo com o pai e com a mãe;",
+   "a identificação de quem detém melhor condição de guarda;",
+   "a investigação da existência de eventual psicopatologia nos genitores;",
+   "a contraindicação da guarda compartilhada quando não houver acordo entre os pais."
+  ],
+  "gabarito": 1,
+  "comentario": "A Lei nº 13.058/2014 alterou o Código Civil para que, na guarda compartilhada, o tempo de convívio seja dividido de forma equilibrada entre pai e mãe. A orientação técnico-profissional ou da equipe interdisciplinar deve visar justamente essa divisão equilibrada do tempo. A lei também prevê que, sem acordo entre os pais e estando ambos aptos, a guarda compartilhada será aplicada (por isso E está errada). Diagnosticar alienação (A), escolher o 'melhor guardião' (C) ou investigar psicopatologia (D) não são a finalidade prevista.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjdft-2022-psi-42",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJDFT",
+   "ano": 2022,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_judiciario_-_psicologians-psc_tipo_1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjdft2022_gabarito_definitivo.pdf",
+   "questao_original": 42,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Em “Sobre o início do tratamento (Novas recomendações sobre a técnica da psicanálise I)” (1913), Freud recomenda fazer um tratamento de ensaio no início do atendimento do paciente, antes da análise propriamente dita, para evitar uma interrupção posterior que possa causar a impressão desagradável de tentativa fracassada de cura. Tal ensaio segue as regras do método analítico e tem também motivação diagnóstica. Seguidor de Freud, Lacan considera esse preâmbulo fundamental, sendo a porta de entrada para a análise propriamente dita. Tal trabalho prévio é chamado por Lacan de:",
+  "alternativas": [
+   "travessia do fantasma;",
+   "holding terapêutico;",
+   "anamnese subjetiva;",
+   "entrevistas preliminares;",
+   "acolhimento integral da demanda."
+  ],
+  "gabarito": 3,
+  "comentario": "Lacan chama de entrevistas preliminares o tempo inicial que corresponde ao 'tratamento de ensaio' de Freud. Elas têm função diagnóstica e de retificação subjetiva e são a porta de entrada da análise propriamente dita. A travessia do fantasma (A) é associada ao final da análise. Holding (B) é conceito de Winnicott, e 'anamnese subjetiva' e 'acolhimento integral da demanda' (C e E) não são termos lacanianos para esse momento.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjdft-2022-psi-43",
+  "disciplina": "especificos",
+  "assunto": "esp-direitos-humanos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJDFT",
+   "ano": 2022,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_judiciario_-_psicologians-psc_tipo_1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjdft2022_gabarito_definitivo.pdf",
+   "questao_original": 43,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "De acordo com as “referências técnicas para atuação de psicólogas(os) em Varas de Família”, os litígios em torno da guarda compartilhada e da alienação parental podem estar entrelaçados com acusações de violência doméstica, demonstrando a complexidade de variáveis em jogo num processo judicial. Em relação ao exposto, analise as afirmativas a seguir.\nI. Podem ser elencadas cinco formas de violência doméstica e familiar contra as mulheres que acontecem de modo combinado: violência psicológica, violência física, violência sexual, violência patrimonial e violência moral.\nII. A violência doméstica atinge massivamente as mulheres, sendo as pessoas de seu contato indireto, como estranhos em ambiente de rua, os maiores responsáveis pelo total de atendimentos de violência.\nIII. Alguns homens são afastados judicialmente da convivência dos filhos por acusação de violência contra a ex-parceira, mesmo quando inocentados no contexto criminal ou sem ter havido queixa em relação ao comportamento deles com os filhos. Daí a importância de se explorar o viés relacional e distinguir o que diz respeito ao relacionamento conjugal das relações estabelecidas entre pais e filhos.\nEstá correto o que se afirma em:",
+  "alternativas": [
+   "somente I;",
+   "somente II;",
+   "somente III;",
+   "somente I e III;",
+   "I, II e III."
+  ],
+  "gabarito": 2,
+  "comentario": "Segundo o gabarito oficial, apenas III está correta. Ela destaca que é preciso distinguir a conjugalidade da parentalidade nos litígios com acusações de violência. II é falsa, porque a violência doméstica contra mulheres é praticada majoritariamente por parceiros e pessoas próximas, não por estranhos na rua. Obs.: o item I reproduz as cinco formas de violência do art. 7º da Lei Maria da Penha (física, psicológica, sexual, patrimonial e moral). A banca provavelmente o considerou incorreto pela afirmação de que essas formas 'acontecem de modo combinado', como regra.",
+  "dificuldade": 3,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjdft-2022-psi-44",
+  "disciplina": "especificos",
+  "assunto": "esp-direitos-humanos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJDFT",
+   "ano": 2022,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_judiciario_-_psicologians-psc_tipo_1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjdft2022_gabarito_definitivo.pdf",
+   "questao_original": 44,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "As questões de gênero atravessam boa parte dos conflitos interpessoais que o(a) psicólogo(a) enfrenta no campo jurídico. Para tanto, as contribuições teóricas de Judith Butler são fundamentais. Segundo a autora o gênero:",
+  "alternativas": [
+   "articula-se a um modelo de produção capitalista marcado pela divisão e exploração do proletariado pela classe burguesa;",
+   "corresponde a identidades fixas e imutáveis que dividem os lados masculino e feminino de forma hierárquica e assimétrica;",
+   "é um dos meios utilizados para reprimir e encobrir desejos que fogem à norma social e, por isso, são recalcados no inconsciente;",
+   "é fruto de convenções sociais definidas a partir da anatomia sexual, servindo de pretexto para atribuições delegadas preferencialmente a pessoas cisgênero;",
+   "opera dentro de uma matriz de inteligibilidade pela qual até mesmo o sexo supostamente natural é estabelecido como “pré-discursivo”."
+  ],
+  "gabarito": 4,
+  "comentario": "Para Judith Butler, o gênero é performativo e opera dentro de uma 'matriz de inteligibilidade' heteronormativa. Até o sexo, aparentemente natural e 'pré-discursivo', é produzido por essa matriz discursiva. Butler critica justamente a ideia de que o gênero seria só uma construção sobre uma anatomia dada (D), além de rejeitar identidades fixas e binárias (B). A alternativa A descreve uma leitura marxista de classes, e C uma leitura do recalque psicanalítico, que não são a tese da autora.",
+  "dificuldade": 3,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjdft-2022-psi-45",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJDFT",
+   "ano": 2022,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_judiciario_-_psicologians-psc_tipo_1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjdft2022_gabarito_definitivo.pdf",
+   "questao_original": 45,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Manoela ajuizou uma ação pleiteando reparação e indenização por problemas psicológicos oriundos de abandono afetivo, tendo ocorrido desde sua primeira infância, ou seja, na relação entre mãe-bebê. Para Winnicott, o afeto é uma condição de possibilidade do processo de constituição psíquica, referindo-se à experiência de mutualidade entre a mãe e o lactente. A mola propulsora do desenvolvimento do indivíduo deve ocorrer num ambiente facilitador de intensa sensibilidade e empatia com o bebê, chamado por Winnicott de:",
+  "alternativas": [
+   "cuidados maternos plenos;",
+   "preocupação materna primária;",
+   "complexo do próximo (semelhante);",
+   "comunicação verbal entre mãe-bebê;",
+   "satisfação das necessidades instintivas."
+  ],
+  "gabarito": 1,
+  "comentario": "Winnicott chama de 'preocupação materna primária' o estado de sensibilidade aumentada da mãe no fim da gestação e nas primeiras semanas, que lhe permite identificar-se com o bebê e atender suas necessidades. Esse estado sustenta o ambiente facilitador (holding). 'Complexo do próximo' (C) é noção freudiana do Projeto. As demais alternativas não correspondem ao conceito do autor.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjdft-2022-psi-46",
+  "disciplina": "especificos",
+  "assunto": "esp-direitos-humanos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJDFT",
+   "ano": 2022,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_judiciario_-_psicologians-psc_tipo_1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjdft2022_gabarito_definitivo.pdf",
+   "questao_original": 46,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "A violência intrafamiliar é algo que se apresenta com certa frequência nos casos atendidos pelas equipes interprofissionais no campo jurídico. Analise as afirmativas a seguir, considerando V para a(s) verdadeira(s) e F para a(s) falsa(s):\nI. A violência é um fenômeno polissêmico e complexo que pode se manifestar de formas variadas e conexas entre si e, na medida em que se realimentam mutuamente, contribuem para uma escalada global da violência, com prejuízos para a saúde do indivíduo e para a saúde coletiva.\nII. A definição adotada oficialmente no Brasil considera a intencionalidade como critério para qualificar o ato como violento.\nIII. Há um nexo causal entre o ato violento e determinados sintomas que a criança apresenta, efeitos daquele ato, dentro de um período de tempo previsível.\nA sequência correta é:",
+  "alternativas": [
+   "F – V – F;",
+   "F – V – V;",
+   "F – F – V;",
+   "V – F – F;",
+   "V – V – F."
+  ],
+  "gabarito": 3,
+  "comentario": "I é verdadeira: a violência é um fenômeno polissêmico e complexo, com formas que se interligam e se realimentam, afetando a saúde individual e coletiva. II é falsa, porque a definição adotada oficialmente no Brasil (Política Nacional de Redução da Morbimortalidade por Acidentes e Violências) define violência pelos danos causados a si ou a outros, sem usar a intencionalidade como critério. III é falsa, porque não há nexo causal linear entre o ato violento e sintomas específicos num prazo previsível: os efeitos são inespecíficos e variam. Sequência: V – F – F.",
+  "dificuldade": 3,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjdft-2022-psi-47",
+  "disciplina": "especificos",
+  "assunto": "esp-direitos-humanos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJDFT",
+   "ano": 2022,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_judiciario_-_psicologians-psc_tipo_1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjdft2022_gabarito_definitivo.pdf",
+   "questao_original": 47,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "João, de 3 meses, foi levado pelos pais para atendimento em unidade de emergência, pois estava febril e recusava alimento. Em exames de imagem, foi constatado que o bebê apresentava múltiplas fraturas, algumas delas em estágio de consolidação. A equipe médica levantou hipótese de violência contra a criança. Com relação à violência praticada contra a criança, é papel da equipe de saúde investigar, documentar e avaliar a ocorrência de violência sempre que encontrar um ou mais dos seguintes achados durante o exame físico:\nI. aversão ao contato físico, apatia ou avidez afetiva;\nII. transtorno do sono ou da alimentação;\nIII. alopecia medicamentosa.\nEstá correto somente o que se indica em:",
+  "alternativas": [
+   "I;",
+   "II;",
+   "III;",
+   "I e II;",
+   "II e III."
+  ],
+  "gabarito": 3,
+  "comentario": "As orientações do Ministério da Saúde listam como sinais de alerta de violência contra a criança alterações comportamentais, como aversão ao contato físico, apatia ou avidez afetiva, e transtornos do sono ou da alimentação. A alopecia que serve de indício é a traumática, por arrancamento de cabelo. A alopecia 'medicamentosa' é efeito colateral de remédio e não indica violência. Por isso estão corretos apenas I e II.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjdft-2022-psi-48",
+  "disciplina": "especificos",
+  "assunto": "esp-direitos-humanos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJDFT",
+   "ano": 2022,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_judiciario_-_psicologians-psc_tipo_1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjdft2022_gabarito_definitivo.pdf",
+   "questao_original": 48,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Juliana viveu relação conjugal tóxica com Antônio, em que ele manipulou a parceira, criando inseguranças e medos por meio de omissão, distorção e criação de informações. Dessa forma, Antônio conseguia se engrandecer e se livrar de situações desfavoráveis a ele. No decorrer do relacionamento, Juliana desenvolveu ansiedade e baixa autoestima. A violência praticada por Antônio ao longo do relacionamento foi:",
+  "alternativas": [
+   "síndrome de Münchausen;",
+   "gaslighting;",
+   "síndrome de Burnout;",
+   "síndrome de Waterhouse-Friderichsen;",
+   "simulação consciente."
+  ],
+  "gabarito": 1,
+  "comentario": "Gaslighting é a violência psicológica em que o agressor manipula a vítima omitindo, distorcendo ou inventando informações, até que ela duvide da própria percepção e memória, gerando insegurança, ansiedade e baixa autoestima. A síndrome de Münchausen envolve simular ou produzir sintomas. Burnout é esgotamento ligado ao trabalho, Waterhouse-Friderichsen é uma complicação adrenal de infecção grave, e simulação consciente é fingir sintomas para obter vantagem.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjdft-2022-psi-49",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJDFT",
+   "ano": 2022,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_judiciario_-_psicologians-psc_tipo_1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjdft2022_gabarito_definitivo.pdf",
+   "questao_original": 49,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Josiane é madrinha de Pablo, que tem 8 anos, e foi nomeada como guardiã do menino em processo que tramitou em uma Vara de Infância. Apesar de ter sido sempre muito amiga dos pais da criança, Carla e Pedro, tem se desentendido com ambos após a concessão da guarda. De acordo com as disposições contidas na lei nº 8.069/1990, é correto afirmar que:",
+  "alternativas": [
+   "Carla é responsável por escolher a escola de Pablo, mas precisa que Josiane concorde com a sua escolha;",
+   "Josiane é responsável pela matrícula escolar de Pablo, independentemente da anuência de Carla e Pedro;",
+   "Carla deve definir onde Pablo irá estudar, mesmo que Josiane discorde de sua opção;",
+   "Carla deve definir a escola de Pablo em pleno acordo com Pedro, pai da criança;",
+   "Pedro é responsável por escolher a escola de Pablo, pois detém o pátrio poder, apesar de não ser o guardião."
+  ],
+  "gabarito": 1,
+  "comentario": "Pelo ECA (art. 33), a guarda obriga o guardião a prestar assistência material, moral e educacional à criança e lhe dá o direito de se opor a terceiros, inclusive aos pais. Assim, cabe a Josiane, como guardiã, decidir e realizar a matrícula escolar de Pablo, sem precisar da anuência dos pais. As demais alternativas atribuem essa decisão a quem não detém a guarda. E ainda usa o termo superado 'pátrio poder', hoje 'poder familiar'.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjdft-2022-psi-50",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJDFT",
+   "ano": 2022,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_judiciario_-_psicologians-psc_tipo_1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjdft2022_gabarito_definitivo.pdf",
+   "questao_original": 50,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Com relação aos direitos de pessoa portadora de transtorno mental, analise os itens a seguir.\nI. ser protegida contra qualquer forma de abuso e exploração;\nII. ter livre acesso aos meios de comunicação disponíveis;\nIII. ser tratada, preferencialmente, em serviços comunitários de saúde mental. A Lei nº 10.216/2001 considera como direito de pessoa portadora de transtorno mental:",
+  "alternativas": [
+   "somente I;",
+   "somente II;",
+   "somente III;",
+   "somente I e III;",
+   "I, II e III."
+  ],
+  "gabarito": 4,
+  "comentario": "O parágrafo único do art. 2º da Lei nº 10.216/2001 lista os direitos da pessoa com transtorno mental. Entre eles estão ser protegida contra qualquer forma de abuso e exploração, ter livre acesso aos meios de comunicação disponíveis e ser tratada, preferencialmente, em serviços comunitários de saúde mental. Os três itens reproduzem a lei, portanto a resposta é I, II e III.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjdft-2022-psi-51",
+  "disciplina": "legislacao",
+  "assunto": "leg-lei13140",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJDFT",
+   "ano": 2022,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_judiciario_-_psicologians-psc_tipo_1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjdft2022_gabarito_definitivo.pdf",
+   "questao_original": 51,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Com relação à mediação, é correto afirmar que:",
+  "alternativas": [
+   "o mediador atua nas ações nas quais as partes não possuem vínculos, com o objetivo de restabelecer o diálogo e permitir que os interessados proponham soluções para o caso;",
+   "é a técnica em que um terceiro imparcial, não escolhido pelas partes, decide a solução da controvérsia, impondo tal decisão para cumprimento dos interessados;",
+   "é a técnica em que um terceiro parcial atua diretivamente, sugerindo soluções, em ações nas quais as partes não possuam vínculos entre si;",
+   "é uma técnica de negociação formal e escrita, em que o negociador usa a busca do senso comum e a confidencialidade durante o processo;",
+   "é uma técnica de negociação na qual um terceiro, indicado ou aceito pelas partes, ajuda a encontrar uma solução que atenda a ambos os lados do conflito."
+  ],
+  "gabarito": 4,
+  "comentario": "A Lei nº 13.140/2015 define mediação como atividade técnica de um terceiro imparcial, sem poder decisório, escolhido ou aceito pelas partes, que as auxilia a identificar ou desenvolver soluções consensuais. É o que diz a alternativa E. A erra porque a mediação é indicada justamente quando há vínculo anterior entre as partes (CPC, art. 165). B descreve a arbitragem, C erra ao falar em terceiro 'parcial' que sugere soluções, e D não corresponde ao instituto.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjdft-2022-psi-52",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJDFT",
+   "ano": 2022,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_judiciario_-_psicologians-psc_tipo_1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjdft2022_gabarito_definitivo.pdf",
+   "questao_original": 52,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Maurílio, 16 anos, ganhou de presente de aniversário uma viagem internacional de seus pais, Alice e Bento. Segundo o ECA, é correto afirmar que:",
+  "alternativas": [
+   "é necessária a autorização judicial para que Maurílio viaje, independentemente da presença dos pais na viagem;",
+   "é dispensável a autorização judicial para a viagem internacional se os pais viajarem junto;",
+   "Maurílio pode viajar com a mãe, sem autorização judicial ou sem autorização do pai;",
+   "Maurílio pode viajar com o pai, sem autorização judicial ou sem autorização da mãe;",
+   "Maurílio não precisa da autorização judicial ou dos pais, pois tem 16 anos."
+  ],
+  "gabarito": 1,
+  "comentario": "Pelo art. 84 do ECA, a viagem de criança ou adolescente ao exterior dispensa autorização judicial quando ela vai acompanhada de ambos os pais ou do responsável, ou quando viaja com um dos pais com autorização expressa do outro, por documento com firma reconhecida. Por isso B está correta. Viajar só com a mãe ou só com o pai, sem a autorização do outro (C, D), não é permitido. A regra vale até os 18 anos para viagens ao exterior, então os 16 anos de Maurílio não o dispensam (E).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjdft-2022-psi-53",
+  "disciplina": "legislacao",
+  "assunto": "leg-idoso-pcd",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJDFT",
+   "ano": 2022,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_judiciario_-_psicologians-psc_tipo_1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjdft2022_gabarito_definitivo.pdf",
+   "questao_original": 53,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Mariana, 70 anos, é aposentada e decidiu retornar ao mercado de trabalho. Em consonância com o Estatuto do Idoso, é correto afirmar que:",
+  "alternativas": [
+   "Mariana deve ter preferência na seleção por vaga de emprego porque é idosa;",
+   "Mariana não pode se candidatar à vaga de emprego porque já se aposentou;",
+   "a empresa pode participar de programa do poder público que estimule a admissão de idosos;",
+   "Mariana não deve ser selecionada para a vaga se houver candidatos mais jovens;",
+   "a empresa só deve contratar Mariana se receber uma contrapartida do poder público para admiti-la."
+  ],
+  "gabarito": 2,
+  "comentario": "O Estatuto da Pessoa Idosa (art. 28) prevê que o poder público crie e estimule programas de incentivo às empresas privadas para a admissão de pessoas idosas ao trabalho. Por isso C está correta. O estatuto proíbe discriminar a pessoa idosa no emprego, mas não lhe dá preferência geral nas seleções (A): a preferência por idade mais elevada é critério de desempate em concurso público. Aposentados podem voltar a trabalhar (B), é vedado preterir por idade (D), e a contratação não depende de contrapartida (E).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjdft-2022-psi-54",
+  "disciplina": "legislacao",
+  "assunto": "leg-idoso-pcd",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJDFT",
+   "ano": 2022,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_judiciario_-_psicologians-psc_tipo_1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjdft2022_gabarito_definitivo.pdf",
+   "questao_original": 54,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Leonardo, 80 anos, é acamado e foi abandonado em casa sozinho pelos filhos Giulia e Giuseppe. Ao saber da dinâmica, Guilherme, que é vizinho do idoso, comunicou o fato ao Ministério Público. Segundo as disposições do Estatuto do Idoso:",
+  "alternativas": [
+   "Guilherme agiu corretamente, pois qualquer cidadão deve comunicar violações dos direitos dos idosos;",
+   "Guilherme não poderia ter procedido dessa forma, pois apenas familiares podem apresentar denúncias em nome dos idosos;",
+   "Guilherme não deveria ter denunciado, e sim ingressado com ação de alimentos por Leonardo em Vara de Família;",
+   "Guilherme não deveria ter denunciado, e sim ingressado com ação de alimentos por Leonardo em Vara do Idoso;",
+   "Giuseppe e Giulia podem ingressar com ação judicial contra Guilherme, pois ele não é parente do idoso e não poderia ter feito a denúncia."
+  ],
+  "gabarito": 0,
+  "comentario": "O Estatuto da Pessoa Idosa (art. 6º) estabelece que todo cidadão tem o dever de comunicar à autoridade competente qualquer violação aos direitos da pessoa idosa de que tenha conhecimento. O abandono de um idoso acamado é violação grave, e o Ministério Público é autoridade competente para recebê-la. Portanto Guilherme agiu corretamente. Não há restrição a familiares (B, E), e a ação de alimentos (C, D) não substitui o dever de comunicar.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjdft-2022-psi-55",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJDFT",
+   "ano": 2022,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_judiciario_-_psicologians-psc_tipo_1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjdft2022_gabarito_definitivo.pdf",
+   "questao_original": 55,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Alexandra, 3 anos, foi levada por sua mãe, Rebeca, para o hospital, pois teria apresentado sonolência excessiva, dor abdominal e sangramentos nasais. Após cuidadosa avaliação e acompanhamento da criança, verificou-se que a mãe da menina estaria injetando medicamentos na filha, que foram a razão do surgimento dos sintomas de Alexandra. A dinâmica em análise é compatível com os sintomas de:",
+  "alternativas": [
+   "depressão;",
+   "psicose puerperal;",
+   "síndrome de Münchausen por procuração;",
+   "esquizofrenia;",
+   "síndrome de Münchausen."
+  ],
+  "gabarito": 2,
+  "comentario": "A síndrome de Münchausen por procuração, chamada no DSM-5 de transtorno factício imposto a outro, ocorre quando o cuidador produz ou simula sintomas em quem está sob seus cuidados (aqui, injetando medicamentos na filha) para obter atenção médica. É também uma forma grave de violência contra a criança. A síndrome de Münchausen 'simples' (E) é quando a própria pessoa produz os sintomas em si. Depressão, psicose puerperal e esquizofrenia não explicam a dinâmica descrita.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjdft-2022-psi-56",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJDFT",
+   "ano": 2022,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_judiciario_-_psicologians-psc_tipo_1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjdft2022_gabarito_definitivo.pdf",
+   "questao_original": 56,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Os irmãos Antônio, 12 anos, e Clara, 11 anos, invadiram o estabelecimento comercial vizinho à sua casa e se apropriaram de objetos do comércio. Diante desse caso, de acordo com os preceitos do Estatuto da Criança e do Adolescente, é correto afirmar que:",
+  "alternativas": [
+   "Antônio e Clara podem ser submetidos a medidas socioeducativas aplicadas, respectivamente, pelo Conselho Tutelar e pelo Ministério Público;",
+   "Clara deve ser submetida à medida socioeducativa aplicada pela Vara de Infância;",
+   "Antônio deve ser submetido à medida protetiva aplicada pela Defensoria Pública;",
+   "Antônio e Clara podem receber, respectivamente, medida socioeducativa pela Vara de Infância e protetiva pelo Conselho Tutelar;",
+   "Antônio e Clara podem receber sanções criminais aplicadas pelo Ministério Público, se for provado que agiram com discernimento."
+  ],
+  "gabarito": 3,
+  "comentario": "Pelo ECA, criança é quem tem até 12 anos incompletos, e adolescente quem tem entre 12 e 18. Ao adolescente que pratica ato infracional (Antônio, 12 anos) cabe medida socioeducativa, aplicada pelo juiz da Infância. À criança (Clara, 11 anos) cabem apenas medidas de proteção (art. 105), que podem ser aplicadas pelo Conselho Tutelar. Conselho Tutelar, Ministério Público e Defensoria não aplicam medida socioeducativa, e não há 'sanção criminal' para menores de 18 anos.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjdft-2022-psi-57",
+  "disciplina": "especificos",
+  "assunto": "esp-trabalho",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJDFT",
+   "ano": 2022,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_judiciario_-_psicologians-psc_tipo_1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjdft2022_gabarito_definitivo.pdf",
+   "questao_original": 57,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Gestão de conflitos é parte fundamental na administração de recursos humanos, mas nem sempre foi reconhecido o potencial positivo dos conflitos. A posição de que os conflitos devem ser estimulados no ambiente corporativo, já que instigam a curiosidade e a concorrência positivamente, produzindo alternativas criativas, é a defendida pela Escola:",
+  "alternativas": [
+   "clássica;",
+   "de relações humanas;",
+   "interacionista;",
+   "da administração científica;",
+   "das estruturas móveis."
+  ],
+  "gabarito": 2,
+  "comentario": "Na evolução do pensamento sobre conflitos, a visão tradicional (Escola Clássica e administração científica) via o conflito como algo nocivo a eliminar. A Escola de Relações Humanas o via como natural e inevitável. A visão interacionista defende que algum nível de conflito deve ser estimulado, porque mantém o grupo criativo, autocrítico e inovador. A alternativa 'estruturas móveis' não é escola de gestão de conflitos.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjdft-2022-psi-58",
+  "disciplina": "especificos",
+  "assunto": "esp-direitos-humanos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJDFT",
+   "ano": 2022,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_judiciario_-_psicologians-psc_tipo_1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjdft2022_gabarito_definitivo.pdf",
+   "questao_original": 58,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "A atuação profissional do psicólogo nas políticas públicas, com base na perspectiva dos direitos humanos, deve se caracterizar por:\nI. avaliar o indivíduo na seleção de empregos e progressão escolar;\nII. voltar-se para o rompimento dos padrões normativos e opressores da diversidade humana;\nIII. considerar a dimensão subjetiva no trabalho junto às políticas públicas.\nEstá correto somente o que se afirma em:",
+  "alternativas": [
+   "I;",
+   "II;",
+   "III;",
+   "I e II;",
+   "II e III."
+  ],
+  "gabarito": 4,
+  "comentario": "As referências do CFP para a atuação em políticas públicas, na perspectiva dos direitos humanos, pedem compromisso com a transformação social: romper padrões normativos e opressores e considerar a dimensão subjetiva dos fenômenos sociais (II e III). O item I descreve a atuação tradicional, classificatória e adaptacionista (seleção e progressão escolar), criticada por esse referencial. Por isso estão corretas somente II e III.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjdft-2022-psi-59",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJDFT",
+   "ano": 2022,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_judiciario_-_psicologians-psc_tipo_1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjdft2022_gabarito_definitivo.pdf",
+   "questao_original": 59,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "As alternativas penais instituídas pela Política Nacional de Alternativas Penais só NÃO abrangem:",
+  "alternativas": [
+   "penas restritivas de direitos;",
+   "transação penal e suspensão condicional do processo;",
+   "conciliação, mediação e técnicas de justiça restaurativa;",
+   "medidas protetivas de urgência;",
+   "penas privativas de liberdade."
+  ],
+  "gabarito": 4,
+  "comentario": "Alternativas penais são justamente mecanismos de responsabilização diferentes da prisão. Incluem penas restritivas de direitos, transação penal e suspensão condicional do processo, conciliação, mediação e justiça restaurativa, medidas cautelares diversas da prisão e medidas protetivas de urgência. A única opção que não é alternativa penal é a pena privativa de liberdade, que é aquilo a que a política busca oferecer alternativa.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjdft-2022-psi-60",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJDFT",
+   "ano": 2022,
+   "cargo": "Analista Judiciário – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_judiciario_-_psicologians-psc_tipo_1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tjdft2022_gabarito_definitivo.pdf",
+   "questao_original": 60,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Sobre os princípios da psicologia vygotskiana em relação à subjetividade humana, é correto afirmar que:",
+  "alternativas": [
+   "defendem um enfoque objetivista que estabelece relações mecânicas de correspondência entre fatos psicológicos e fatos exteriores;",
+   "analisam a perspectiva subjetivista, da predominância do sujeito sobre o objeto e que o coloca no papel de criador da realidade;",
+   "apoia a discussão acerca da normalidade e o processo de biologização e de medicalização das questões sociais;",
+   "ratificam a reabilitação com base em um padrão de normalidade;",
+   "consideram que o sujeito não é um mero efeito das práticas sociais, podendo apropriar-se delas, criticá-las e ressignificá-las."
+  ],
+  "gabarito": 4,
+  "comentario": "Na psicologia histórico-cultural de Vigotski, o sujeito se constitui nas relações sociais, mas não é mero reflexo delas: ele se apropria ativamente das práticas e significações culturais e pode criticá-las e ressignificá-las. Essa abordagem supera tanto o objetivismo mecanicista (A) quanto o subjetivismo idealista (B). Ela também critica a medicalização e a biologização das questões sociais (C) e a normalização da reabilitação (D).",
+  "dificuldade": 2,
+  "anulada": false
+ }
+]

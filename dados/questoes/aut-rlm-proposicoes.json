@@ -1,0 +1,254 @@
+[
+  {
+    "id": "aut-rlm-proposicoes-001",
+    "disciplina": "rlm",
+    "assunto": "rlm-proposicoes",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Considere a afirmação: “Se a paciente falta à sessão, então o psicólogo registra a ausência no prontuário.” Uma negação lógica dessa afirmação é:",
+    "alternativas": [
+      "Se a paciente não falta à sessão, então o psicólogo não registra a ausência no prontuário.",
+      "A paciente não falta à sessão e o psicólogo registra a ausência no prontuário.",
+      "A paciente falta à sessão e o psicólogo não registra a ausência no prontuário.",
+      "A paciente falta à sessão ou o psicólogo não registra a ausência no prontuário.",
+      "Se o psicólogo não registra a ausência no prontuário, então a paciente não falta à sessão."
+    ],
+    "gabarito": 2,
+    "comentario": "A negação de “se p, então q” é “p e não q”: mantém-se o antecedente e nega-se o consequente, ligados por “e”. Assim: a paciente falta e o psicólogo não registra. A forma “se não p, então não q” é a inversa (não equivale à negação), e “se não q, então não p” é a contrapositiva, que é EQUIVALENTE à original, não sua negação. Usar “ou” no lugar de “e” também está errado.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-rlm-proposicoes-002",
+    "disciplina": "rlm",
+    "assunto": "rlm-proposicoes",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Uma afirmação logicamente equivalente a “Se Marta é supervisora, então Lúcio é estagiário” é:",
+    "alternativas": [
+      "Se Lúcio é estagiário, então Marta é supervisora.",
+      "Se Marta não é supervisora, então Lúcio não é estagiário.",
+      "Marta é supervisora e Lúcio é estagiário.",
+      "Marta é supervisora ou Lúcio não é estagiário.",
+      "Marta não é supervisora ou Lúcio é estagiário."
+    ],
+    "gabarito": 4,
+    "comentario": "Vale a equivalência p → q ≡ ¬p ∨ q: “Marta não é supervisora ou Lúcio é estagiário”. A recíproca (se Lúcio é estagiário, Marta é supervisora) e a inversa (se Marta não é supervisora, Lúcio não é estagiário) não são equivalentes à condicional. A conjunção afirma mais do que a condicional, e “p ou não q” equivale a q → p, a recíproca.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-rlm-proposicoes-003",
+    "disciplina": "rlm",
+    "assunto": "rlm-proposicoes",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Em uma reunião, o coordenador afirmou: “Todos os psicólogos do setor atendem crianças.” A negação dessa afirmação é:",
+    "alternativas": [
+      "Algum psicólogo do setor não atende crianças.",
+      "Nenhum psicólogo do setor atende crianças.",
+      "Todos os psicólogos do setor não atendem crianças.",
+      "Algum psicólogo do setor atende crianças.",
+      "Nenhum profissional que atende crianças é psicólogo do setor."
+    ],
+    "gabarito": 0,
+    "comentario": "Para negar “todo A é B” basta exibir um contraexemplo: “algum A não é B”. Logo, “algum psicólogo do setor não atende crianças”. “Nenhum psicólogo atende” e “todos não atendem” são afirmações contrárias, mais fortes que a negação; “algum atende” é compatível com a frase original; a última alternativa troca os conjuntos.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-rlm-proposicoes-004",
+    "disciplina": "rlm",
+    "assunto": "rlm-proposicoes",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Considere a regra: “Ser aprovado no exame é condição necessária para obter o registro.” Com base nela, a afirmação logicamente equivalente, referente a Paula, é:",
+    "alternativas": [
+      "Se Paula foi aprovada no exame, então obteve o registro.",
+      "Se Paula obteve o registro, então foi aprovada no exame.",
+      "Paula foi aprovada no exame e obteve o registro.",
+      "Se Paula não obteve o registro, então não foi aprovada no exame.",
+      "Paula foi aprovada no exame se, e somente se, obteve o registro."
+    ],
+    "gabarito": 1,
+    "comentario": "“q é condição necessária para p” significa p → q: quem obtém o registro necessariamente foi aprovado. Logo, “se Paula obteve o registro, então foi aprovada”. A primeira alternativa trata a aprovação como condição suficiente (recíproca); “se não obteve o registro, não foi aprovada” é a contrapositiva dessa recíproca; a conjunção e a bicondicional afirmam mais do que a regra.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-rlm-proposicoes-005",
+    "disciplina": "rlm",
+    "assunto": "rlm-proposicoes",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "A negação da afirmação “Nenhum candidato chegou atrasado à prova” é:",
+    "alternativas": [
+      "Todos os candidatos chegaram atrasados à prova.",
+      "Nenhum candidato chegou pontualmente à prova.",
+      "Algum candidato não chegou atrasado à prova.",
+      "Pelo menos um candidato chegou atrasado à prova.",
+      "Todos os candidatos chegaram pontualmente à prova."
+    ],
+    "gabarito": 3,
+    "comentario": "“Nenhum A é B” é falsa sempre que existir ao menos um A que seja B. Portanto, a negação é “pelo menos um candidato chegou atrasado”. “Todos chegaram atrasados” é a contrária (forte demais); “algum não chegou atrasado” é compatível com a frase original; as demais alternativas mudam o predicado.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-rlm-proposicoes-006",
+    "disciplina": "rlm",
+    "assunto": "rlm-proposicoes",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Sabe-se que a afirmação “Se Carla é psicóloga, então Davi é médico” é verdadeira e que a afirmação “Davi é médico” é falsa. Pode-se concluir corretamente que:",
+    "alternativas": [
+      "Carla é psicóloga.",
+      "Carla não é psicóloga.",
+      "Carla é psicóloga e Davi não é médico.",
+      "Davi é médico ou Carla é psicóloga.",
+      "Nada se pode concluir sobre Carla."
+    ],
+    "gabarito": 1,
+    "comentario": "Se q é falsa e p → q é verdadeira, p tem de ser falsa (se p fosse verdadeira, teríamos V → F = F). É o modus tollens: Carla não é psicóloga. Como p e q são falsas, “Davi é médico ou Carla é psicóloga” é falsa, e “Carla é psicóloga” também.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-rlm-proposicoes-007",
+    "disciplina": "rlm",
+    "assunto": "rlm-proposicoes",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Considere como verdadeiras as premissas:\nI. Se o relatório fica pronto, Lia viaja.\nII. Se Lia viaja, Rui assume a coordenação.\nIII. Rui não assumiu a coordenação.\nÉ correto concluir que:",
+    "alternativas": [
+      "O relatório ficou pronto e Lia não viajou.",
+      "Lia viajou, mas o relatório não ficou pronto.",
+      "O relatório não ficou pronto e Lia não viajou.",
+      "O relatório ficou pronto, mas Rui não assumiu a coordenação.",
+      "Lia não viajou, mas o relatório ficou pronto."
+    ],
+    "gabarito": 2,
+    "comentario": "Parte-se da premissa simples III: Rui não assumiu. Em II, como o consequente é falso, o antecedente também é: Lia não viajou. Em I, pelo mesmo raciocínio, o relatório não ficou pronto. As demais alternativas afirmam que Lia viajou ou que o relatório ficou pronto, o que tornaria II ou I falsa.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-rlm-proposicoes-008",
+    "disciplina": "rlm",
+    "assunto": "rlm-proposicoes",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Considere a afirmação: “O paciente recebe alta se, e somente se, o laudo é favorável.” A negação dessa afirmação é:",
+    "alternativas": [
+      "O paciente não recebe alta se, e somente se, o laudo não é favorável.",
+      "Se o laudo não é favorável, então o paciente não recebe alta.",
+      "O paciente não recebe alta e o laudo não é favorável.",
+      "O paciente recebe alta e o laudo é favorável.",
+      "Ou o paciente recebe alta, ou o laudo é favorável, mas não ambos."
+    ],
+    "gabarito": 4,
+    "comentario": "A bicondicional p ↔ q é verdadeira quando p e q têm o mesmo valor; sua negação é verdadeira exatamente quando têm valores diferentes, o que é a disjunção exclusiva (“ou p, ou q, mas não ambos”). A primeira alternativa (¬p ↔ ¬q) é equivalente à original, não sua negação. A condicional e as conjunções não cobrem os dois casos de valores diferentes.",
+    "dificuldade": 3,
+    "anulada": false
+  },
+  {
+    "id": "aut-rlm-proposicoes-009",
+    "disciplina": "rlm",
+    "assunto": "rlm-proposicoes",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "A afirmação “Não é verdade que João é pontual ou Pedro é organizado” é logicamente equivalente a:",
+    "alternativas": [
+      "João não é pontual e Pedro não é organizado.",
+      "João não é pontual ou Pedro não é organizado.",
+      "João é pontual e Pedro não é organizado.",
+      "Se João não é pontual, então Pedro é organizado.",
+      "João não é pontual ou Pedro é organizado."
+    ],
+    "gabarito": 0,
+    "comentario": "Pela lei de De Morgan, ¬(p ∨ q) ≡ ¬p ∧ ¬q: nega-se cada parte e troca-se “ou” por “e”. Logo, “João não é pontual e Pedro não é organizado”. Manter o “ou” (segunda alternativa) corresponde à negação de uma conjunção. A condicional “se não p, então q” equivale a p ∨ q, a frase sem negação.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-rlm-proposicoes-010",
+    "disciplina": "rlm",
+    "assunto": "rlm-proposicoes",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Uma proposição composta é formada por 4 proposições simples distintas, P, Q, R e S. O número de linhas da tabela-verdade dessa proposição é:",
+    "alternativas": [
+      "4",
+      "8",
+      "12",
+      "16",
+      "32"
+    ],
+    "gabarito": 3,
+    "comentario": "Cada proposição simples assume 2 valores (V ou F). Com n proposições simples, a tabela tem 2ⁿ linhas. Para n = 4: 2⁴ = 16 linhas. 8 corresponderia a 3 proposições, 32 a 5; 4 e 12 não são potências de 2 coerentes com o caso.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-rlm-proposicoes-011",
+    "disciplina": "rlm",
+    "assunto": "rlm-proposicoes",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Assinale a opção que apresenta uma tautologia, isto é, uma proposição verdadeira quaisquer que sejam os valores lógicos das proposições simples que a compõem.",
+    "alternativas": [
+      "Lia é psicóloga ou Lia é professora.",
+      "Se Lia é psicóloga, então Lia é psicóloga ou professora.",
+      "Se Lia é psicóloga ou professora, então Lia é psicóloga.",
+      "Se Lia é psicóloga, então Lia é psicóloga e professora.",
+      "Lia é psicóloga se, e somente se, Lia é professora."
+    ],
+    "gabarito": 1,
+    "comentario": "p → (p ∨ q) é tautologia: se p é V, p ∨ q também é V; se p é F, a condicional é automaticamente V. As demais falham em algum caso: “p ou q” é F quando ambas são F; (p ∨ q) → p é F com p F e q V; p → (p ∧ q) é F com p V e q F; p ↔ q é F quando os valores diferem.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-rlm-proposicoes-012",
+    "disciplina": "rlm",
+    "assunto": "rlm-proposicoes",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Considere verdadeiras as afirmações:\n• Todo psicólogo do grupo é sócio da associação.\n• Nenhum sócio da associação é menor de idade.\nÉ necessariamente verdadeiro que:",
+    "alternativas": [
+      "Todo sócio da associação é psicólogo do grupo.",
+      "Algum menor de idade é psicólogo do grupo.",
+      "Nenhum psicólogo do grupo é menor de idade.",
+      "Algum sócio da associação não é psicólogo do grupo.",
+      "Todo maior de idade é sócio da associação."
+    ],
+    "gabarito": 2,
+    "comentario": "Pelo diagrama, o conjunto dos psicólogos do grupo está contido no dos sócios, e este não tem interseção com o dos menores de idade. Logo, nenhum psicólogo do grupo é menor de idade. “Todo sócio é psicólogo” inverte a inclusão; “algum sócio não é psicólogo” pode ou não ocorrer (os conjuntos podem coincidir); as outras contradizem as premissas ou não decorrem delas.",
+    "dificuldade": 2,
+    "anulada": false
+  }
+]

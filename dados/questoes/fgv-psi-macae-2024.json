@@ -1,0 +1,842 @@
+[
+ {
+  "id": "fgv-macae-2024-psi-41",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "Prefeitura de Macaé",
+   "ano": 2024,
+   "cargo": "Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/psicologocns203-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/ed.-1-macaeadm2024_gabarito_definitivo_compilado.pdf",
+   "questao_original": 41,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "D. W. Winnicott deixou uma vasta contribuição teórica e clínica sobre o desenvolvimento infantil. Winnicott observou a relação que crianças pequenas têm com objetos que as ajudam a lidar com os momentos de separação de suas mães ou outro cuidador primário e na passagem da dependência total para a independência relativa. Segundo a teoria de Winnicott, trata-se",
+  "alternativas": [
+   "da zona de conforto.",
+   "do seio bom/seio mau.",
+   "do objeto transacional.",
+   "do objeto transicional.",
+   "da zona de desenvolvimento proximal."
+  ],
+  "gabarito": 3,
+  "comentario": "Winnicott chamou de objeto transicional (ursinho, paninho, cobertor) aquele objeto que o bebê usa para lidar com a separação da mãe e com a passagem da dependência absoluta para a independência relativa. Ele ocupa uma área intermediária entre o mundo interno e a realidade externa. A alternativa C é uma pegadinha de grafia: 'transacional' não é o termo. Seio bom/seio mau é conceito de Melanie Klein, e zona de desenvolvimento proximal é de Vygotsky.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-macae-2024-psi-42",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "Prefeitura de Macaé",
+   "ano": 2024,
+   "cargo": "Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/psicologocns203-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/ed.-1-macaeadm2024_gabarito_definitivo_compilado.pdf",
+   "questao_original": 42,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Renato, 8 anos, vinha apresentando dificuldades no ambiente escolar e foi encaminhado para uma avaliação médica em que foi diagnosticado o Transtorno do Déficit de Atenção com Hiperatividade (TDAH). Sobre esse transtorno, assinale a afirmativa correta.",
+  "alternativas": [
+   "As crianças com TDAH caracterizam-se por ter a atenção hipertenaz e hipovigil.",
+   "O TDAH é um distúrbio de comportamento que pode evoluir para um transtorno de personalidade na idade adulta.",
+   "A dificuldade de concentração nas tarefas e a impulsividade no comportamento são sintomas característicos do TDAH.",
+   "O TDAH é classificado na Psiquiatria como uma deficiência do desenvolvimento intelectual.",
+   "Os transtornos do neurodesenvolvimento regridem com o amadurecimento, de forma que não se diagnostica o TDAH em adultos."
+  ],
+  "gabarito": 2,
+  "comentario": "O TDAH é um transtorno do neurodesenvolvimento caracterizado por padrão persistente de desatenção e/ou hiperatividade-impulsividade, de modo que a C está correta. A atenção da criança com TDAH tende a ser hipotenaz (dificuldade de sustentar o foco) e hipervigil (distraível), o inverso do que diz a A. O TDAH não é deficiência intelectual (D), não 'evolui' para transtorno de personalidade como regra (B) e pode persistir e ser diagnosticado na vida adulta (E).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-macae-2024-psi-43",
+  "disciplina": "especificos",
+  "assunto": "esp-avaliacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "Prefeitura de Macaé",
+   "ano": 2024,
+   "cargo": "Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/psicologocns203-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/ed.-1-macaeadm2024_gabarito_definitivo_compilado.pdf",
+   "questao_original": 43,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Renato foi encaminhado para uma avaliação psicológica, que incluiu entrevistas com seus pais, aplicação de testes e sessões lúdicas. Ao final desse processo, a psicóloga deverá realizar uma entrevista com os pais de Renato para a entrega do laudo. Essa entrevista é denominada",
+  "alternativas": [
+   "devolutiva.",
+   "investigativa.",
+   "prognóstica.",
+   "anamnese psicológica.",
+   "parecer psicodiagnóstico."
+  ],
+  "gabarito": 0,
+  "comentario": "A entrevista devolutiva é o momento final do processo de avaliação em que o psicólogo comunica os resultados aos avaliados ou responsáveis, geralmente com a entrega do documento. A Res. CFP 06/2019 prevê a entrevista devolutiva como parte da entrega do laudo. A anamnese ocorre no início, para coleta da história; 'parecer psicodiagnóstico' não designa entrevista, e 'investigativa' e 'prognóstica' não são termos técnicos para esse momento.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-macae-2024-psi-44",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "Prefeitura de Macaé",
+   "ano": 2024,
+   "cargo": "Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/psicologocns203-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/ed.-1-macaeadm2024_gabarito_definitivo_compilado.pdf",
+   "questao_original": 44,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "O Programa Educacional de Resistência às Drogas e à Violência (PROERD) é uma parceria da Polícia Militar com as escolas municipais que objetiva conscientizar os alunos quanto aos perigos do uso de drogas. Programas dessa natureza constituem uma estratégia de",
+  "alternativas": [
+   "prevenção primária ao uso de drogas.",
+   "prevenção secundária ao uso de drogas.",
+   "prevenção terciária ao uso de drogas.",
+   "redução de danos da dependência química.",
+   "tratamento por terapia cognitiva comportamental."
+  ],
+  "gabarito": 0,
+  "comentario": "A prevenção primária atua antes do início do uso, com informação e fortalecimento de fatores de proteção na população geral, como fazem programas escolares tipo PROERD. A prevenção secundária visa quem já usa, para evitar a progressão para o uso problemático, e a terciária trata e reabilita quem já desenvolveu dependência. Redução de danos e terapia cognitivo-comportamental são estratégias voltadas a quem já faz uso, não a escolares em geral.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-macae-2024-psi-45",
+  "disciplina": "legislacao",
+  "assunto": "leg-eca",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "Prefeitura de Macaé",
+   "ano": 2024,
+   "cargo": "Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/psicologocns203-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/ed.-1-macaeadm2024_gabarito_definitivo_compilado.pdf",
+   "questao_original": 45,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Jeniffer, mãe solo de 20 anos, deixou os dois filhos, de 3 e 1 ano, dormindo sozinhos em casa e foi para um baile. Na manhã seguinte, os vizinhos ouviram o choro das crianças e constataram que Jeniffer não estava em casa. Sobre a situação descrita, considerando a rede de proteção à infância, os vizinhos devem acionar o",
+  "alternativas": [
+   "responsável legal pelas crianças.",
+   "Conselho Tutelar.",
+   "Centro de Referência em Assistência Social (CRAS).",
+   "Centro de Atenção Psicossocial Infanto-juvenil.",
+   "Conselho Municipal dos Direitos da Criança e do Adolescente (CMDCA)."
+  ],
+  "gabarito": 1,
+  "comentario": "Crianças pequenas deixadas sozinhas configuram situação de negligência e risco, e o órgão a ser acionado é o Conselho Tutelar, encarregado pelo ECA de zelar pelo cumprimento dos direitos da criança e aplicar medidas de proteção. A própria responsável legal é quem praticou a negligência, logo não faz sentido acioná-la (A). CRAS e CAPSi são serviços de assistência e saúde, e o CMDCA é órgão deliberativo de formulação de políticas, sem atendimento de casos individuais.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-macae-2024-psi-46",
+  "disciplina": "especificos",
+  "assunto": "esp-direitos-humanos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "Prefeitura de Macaé",
+   "ano": 2024,
+   "cargo": "Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/psicologocns203-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/ed.-1-macaeadm2024_gabarito_definitivo_compilado.pdf",
+   "questao_original": 46,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Na unidade de ensino infantil que Alice, 4 anos, frequenta, as professoras trabalharam com o livro “Não me toca, seu boboca”, que busca alertar as crianças quanto a situações de abuso sexual. Após a leitura, Alice contou para as professoras que seu tio estava abusando sexualmente dela em casa. Considerando a questão da violência sexual contra crianças, analise as afirmativas a seguir.\nI. A educação sexual nas escolas promove a erotização precoce das crianças.\nII. O abuso sexual intrafamiliar é a forma mais prevalente de violência sexual contra crianças.\nIII. O abuso sexual infantil abrange atividades de cunho sexual com ou sem contato físico com a criança.\nEstá correto o que se afirma em",
+  "alternativas": [
+   "I, apenas.",
+   "I e II, apenas.",
+   "I e III, apenas.",
+   "II e III, apenas.",
+   "I, II e III."
+  ],
+  "gabarito": 3,
+  "comentario": "A afirmativa II está correta: a maior parte dos abusos sexuais contra crianças ocorre no ambiente intrafamiliar, praticada por pessoas próximas e de confiança. A III também está correta, já que o abuso abrange atos com contato físico e sem contato (exibicionismo, voyeurismo, exposição a pornografia, conversas sexualizadas). A I é falsa: a educação sexual adequada à idade é fator de proteção, pois ajuda a criança a reconhecer e revelar o abuso, exatamente como ocorreu com Alice.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-macae-2024-psi-47",
+  "disciplina": "legislacao",
+  "assunto": "leg-idoso-pcd",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "Prefeitura de Macaé",
+   "ano": 2024,
+   "cargo": "Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/psicologocns203-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/ed.-1-macaeadm2024_gabarito_definitivo_compilado.pdf",
+   "questao_original": 47,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Pessoas acima dos 60 anos têm direitos que são garantidos por lei. Edson, funcionário público aposentado, viúvo, 70 anos, tem direito a",
+  "alternativas": [
+   "receber atendimento médico prioritário, etarista e respeitoso.",
+   "ser beneficiado com ações assistencialistas e previdência social.",
+   "ter acesso a tratamentos de reabilitação, com foco na autonomia e no capacitismo.",
+   "ser considerado inimputável para efeitos penais na hipótese de cometer um crime.",
+   "residir em moradia digna, desacompanhado de seus familiares, se assim o desejar."
+  ],
+  "gabarito": 4,
+  "comentario": "O Estatuto da Pessoa Idosa (Lei 10.741/2003) garante à pessoa idosa o direito à moradia digna, no seio da família natural ou substituta, ou desacompanhada de seus familiares, quando assim o desejar. Por isso a E está correta. Os distratores inserem termos com sentido negativo: 'etarista' (discriminação por idade), 'assistencialistas' e 'capacitismo' (discriminação contra pessoas com deficiência). A idade avançada não torna ninguém inimputável, logo a D também erra.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-macae-2024-psi-48",
+  "disciplina": "especificos",
+  "assunto": "esp-trabalho",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "Prefeitura de Macaé",
+   "ano": 2024,
+   "cargo": "Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/psicologocns203-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/ed.-1-macaeadm2024_gabarito_definitivo_compilado.pdf",
+   "questao_original": 48,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Débora, professora de História do ensino fundamental, está trabalhando em dois turnos e, recentemente, a pedido de sua Diretora, assumiu as aulas de uma colega que saiu em licença maternidade. Débora começou a apresentar sintomas físicos como dor de cabeça, problemas de pressão e insônia e a se sentir exausta, impaciente e desmotivada. O quadro apresentado por Débora sugere o diagnóstico de",
+  "alternativas": [
+   "transtorno borderline.",
+   "síndrome de burnout.",
+   "síndrome do pânico.",
+   "distúrbio hipocondríaco.",
+   "transtorno somatoforme."
+  ],
+  "gabarito": 1,
+  "comentario": "A síndrome de burnout é um quadro relacionado ao trabalho, marcado por exaustão emocional, despersonalização/distanciamento e redução da realização profissional, comum em profissões de cuidado como a docência. A sobrecarga de Débora (dois turnos mais as aulas da colega) e os sintomas de exaustão, irritabilidade, desmotivação e queixas físicas são típicos. Pânico envolve crises súbitas de medo intenso, hipocondria é preocupação com ter doença grave, e transtorno borderline é um padrão de personalidade, sem relação direta com a sobrecarga laboral.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-macae-2024-psi-49",
+  "disciplina": "especificos",
+  "assunto": "esp-praticas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "Prefeitura de Macaé",
+   "ano": 2024,
+   "cargo": "Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/psicologocns203-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/ed.-1-macaeadm2024_gabarito_definitivo_compilado.pdf",
+   "questao_original": 49,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "A psicóloga escolar Larissa foi procurada pela Direção da escola para lidar com a situação da aluna Daniela, 13 anos. Daniela está praticando automutilação e contou para a Diretora que vem sendo vítima de bullying praticado por Beatriz e Bianca, que a humilham e a culpam pela derrota do time em uma competição escolar. Larissa, ao abordar essa situação de forma restaurativa para a comunidade escolar, deve propor",
+  "alternativas": [
+   "a transferência escolar de Beatriz e Bianca como intervenção exemplar para coibir outras manifestações de violência psicológica.",
+   "o encaminhamento de Daniela para o CAPS AD para tratamento psicoterápico e/ou medicamentoso considerando o quadro depressivo apresentado.",
+   "a orientação para os responsáveis legais de Daniela prestarem queixa contra as agressoras na Delegacia de Polícia pelo cometimento de violência moral.",
+   "o atendimento individual a Daniela, procurando fortalecê-la para lidar de forma mais resiliente com intercorrências comuns entre adolescentes.",
+   "a realização de círculos de construção da paz envolvendo Daniela, Beatriz, Bianca, corpo docente, gestores, alunos e famílias."
+  ],
+  "gabarito": 4,
+  "comentario": "A abordagem restaurativa busca reparar danos e restaurar relações envolvendo vítima, autores e comunidade, e os círculos de construção de paz são sua prática característica. Por isso a E está correta. A transferência das alunas (A) e a queixa policial (C) seguem a lógica punitiva. O atendimento individual (D) desloca o problema só para a vítima e o trata como 'intercorrência comum', e o CAPS AD (B) é voltado a álcool e outras drogas, além de não ser uma resposta restaurativa.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-macae-2024-psi-50",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "Prefeitura de Macaé",
+   "ano": 2024,
+   "cargo": "Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/psicologocns203-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/ed.-1-macaeadm2024_gabarito_definitivo_compilado.pdf",
+   "questao_original": 50,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Cléber começou a fazer uso de álcool na adolescência e agora, aos 40 anos, bebe diariamente e afirma que pode dirigir depois de beber porque seu organismo já está acostumado. Recentemente, na volta de uma noitada, Cléber se envolveu em um acidente de trânsito após dormir ao volante e justificou que vinha se estressando muito no seu trabalho na repartição. Com relação ao alcoolismo, o mecanismo psicológico de Cleber é identificado como",
+  "alternativas": [
+   "dessensibilização sistemática.",
+   "codependência.",
+   "contemplação.",
+   "negação.",
+   "abstinência."
+  ],
+  "gabarito": 3,
+  "comentario": "Cléber nega o problema com o álcool: afirma que pode dirigir porque o corpo está 'acostumado' e atribui o acidente ao estresse. A negação é o mecanismo de defesa mais característico na dependência de álcool. A dessensibilização sistemática é técnica comportamental para fobias, codependência descreve o padrão de familiares que giram em torno do dependente, a contemplação é um estágio do modelo transteórico de mudança (em que já há ambivalência e reconhecimento do problema) e a abstinência é a ausência de uso ou a síndrome que vem com a interrupção.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-macae-2024-psi-51",
+  "disciplina": "legislacao",
+  "assunto": "leg-res06-2019",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "Prefeitura de Macaé",
+   "ano": 2024,
+   "cargo": "Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/psicologocns203-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/ed.-1-macaeadm2024_gabarito_definitivo_compilado.pdf",
+   "questao_original": 51,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Sobre as orientações do Conselho Federal de Psicologia para a elaboração de documentos escritos, produzidos pela(o) psicóloga(o) no exercício profissional, assinale a afirmativa correta.",
+  "alternativas": [
+   "É facultativo ao psicólogo informar sobre os objetivos e resultados do serviço prestado às(aos) envolvidas(os) no processo;",
+   "O documento escrito resultante da prestação de serviços psicológicos deve considerar a natureza profunda e definitiva do fenômeno psicológico;",
+   "Na realização da Avaliação Psicológica, ao produzir documentos escritos, é vedado a(o) psicóloga(o) recorrer a fontes complementares de informação;",
+   "Cabe apenas ao laudo psicológico ter todas as laudas numeradas, carimbadas, rubricadas da primeira até a penúltima lauda, e a assinatura da(o) psicóloga(o) na última página;",
+   "Ao elaborar um documento em que seja necessário referenciar material teórico técnico, as referências devem ser colocadas, preferencialmente, em nota de rodapé, observando a especificidade do documento produzido."
+  ],
+  "gabarito": 4,
+  "comentario": "A Res. CFP 06/2019 orienta que, quando o documento precisar citar material teórico-técnico, as referências sejam colocadas preferencialmente em nota de rodapé, observada a especificidade do documento. Por isso a E está correta. Informar objetivos e resultados aos envolvidos é dever, não faculdade (A). O fenômeno psicológico deve ser considerado em sua natureza dinâmica e não definitiva (B), e a avaliação pode e deve recorrer a fontes complementares de informação (C). A exigência de laudas numeradas e rubricadas com assinatura na última vale para todos os documentos, não apenas para o laudo (D).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-macae-2024-psi-52",
+  "disciplina": "legislacao",
+  "assunto": "leg-res01-2009",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "Prefeitura de Macaé",
+   "ano": 2024,
+   "cargo": "Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/psicologocns203-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/ed.-1-macaeadm2024_gabarito_definitivo_compilado.pdf",
+   "questao_original": 52,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "De acordo com a Resolução CFP nº 001/2009, que dispõe sobre a obrigatoriedade do registro documental decorrente da prestação de serviços psicológicos, é dever do psicólogo",
+  "alternativas": [
+   "manter a guarda do registro documental por no máximo 1 (um) ano.",
+   "atualizar o registro documental apenas quando houver algum fato psicológico relevante.",
+   "para atendimento em grupo não eventual, manter a documentação individual referente a cada usuário.",
+   "limitar o acesso do usuário ou representante legal às informações registradas, pelo psicólogo, em seu prontuário.",
+   "arquivar em pasta acessível a toda equipe multiprofissional os documentos resultantes de instrumentos de avaliação psicológica."
+  ],
+  "gabarito": 2,
+  "comentario": "A Res. CFP 001/2009 determina que, no atendimento em grupo não eventual, o psicólogo mantenha também o registro individual referente a cada usuário. Por isso a C está correta. A guarda do registro é de no mínimo 5 anos, não de no máximo 1 ano (A). O registro deve ser atualizado continuamente, não só diante de fatos relevantes (B). O usuário ou seu representante legal tem direito de acesso às informações registradas (D), e os documentos de avaliação psicológica são de guarda restrita do psicólogo, sem acesso livre da equipe (E).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-macae-2024-psi-53",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "Prefeitura de Macaé",
+   "ano": 2024,
+   "cargo": "Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/psicologocns203-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/ed.-1-macaeadm2024_gabarito_definitivo_compilado.pdf",
+   "questao_original": 53,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "A descoberta do inconsciente por Freud corresponde a um momento inaugural em que ele abandona a teoria da sedução, na qual ele supunha que a etiologia das psiconeuroses estivesse em uma experiência sexual vivida na infância de caráter",
+  "alternativas": [
+   "sublimatório.",
+   "fantasístico.",
+   "superegoico.",
+   "simbólico.",
+   "traumático."
+  ],
+  "gabarito": 4,
+  "comentario": "Na teoria da sedução (anos 1890), Freud atribuía a etiologia das psiconeuroses a uma experiência sexual precoce efetivamente vivida, de caráter traumático, em geral uma sedução por um adulto. Ao abandoná-la (carta a Fliess de 1897, 'não acredito mais em minha neurótica'), ele passa a valorizar a fantasia e a realidade psíquica, o que marca a descoberta do inconsciente. Por isso 'fantasístico' (B) descreve justamente o que veio depois, e não a teoria abandonada. Sublimação, superego e simbólico são noções de outros momentos da teoria.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-macae-2024-psi-54",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "Prefeitura de Macaé",
+   "ano": 2024,
+   "cargo": "Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/psicologocns203-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/ed.-1-macaeadm2024_gabarito_definitivo_compilado.pdf",
+   "questao_original": 54,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "O psicanalista francês Jacques Lacan dedicou um seminário inteiro à psicose, no qual designou a forclusão como sendo o seu mecanismo próprio. Na alucinação, para Lacan, aquilo que é foracluído do campo do simbólico, retorna como certeza do",
+  "alternativas": [
+   "real.",
+   "falo.",
+   "narcisismo.",
+   "significante.",
+   "objeto pequeno a."
+  ],
+  "gabarito": 0,
+  "comentario": "No Seminário 3, 'As psicoses', Lacan define a forclusão (Verwerfung) do Nome-do-Pai como o mecanismo próprio da psicose. Sua fórmula é que o que foi foracluído do simbólico retorna no real, como na alucinação, vivida com certeza pelo sujeito. O falo, o significante e o objeto pequeno a são conceitos lacanianos, mas não respondem a essa fórmula, e o narcisismo se refere à constituição do eu.",
+  "dificuldade": 3,
+  "anulada": false
+ },
+ {
+  "id": "fgv-macae-2024-psi-55",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "Prefeitura de Macaé",
+   "ano": 2024,
+   "cargo": "Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/psicologocns203-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/ed.-1-macaeadm2024_gabarito_definitivo_compilado.pdf",
+   "questao_original": 55,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Freud, no texto “Além do Princípio do Prazer” (1920), lança mão de um novo dualismo pulsional, tomando, como base, a observação da repetição de sensações desprazerosas que comparecem na transferência, na neurose traumática e nas brincadeiras infantis. Trata-se do dualismo entre",
+  "alternativas": [
+   "pulsão – instinto.",
+   "prazer – desprazer.",
+   "libido do eu – libido de objeto.",
+   "pulsão de vida - pulsão de morte.",
+   "pulsão sexual – autoconservação."
+  ],
+  "gabarito": 3,
+  "comentario": "Em 'Além do princípio do prazer' (1920), Freud parte da compulsão à repetição (sonhos da neurose traumática, o jogo do fort-da, a repetição na transferência) para propor o segundo dualismo pulsional: pulsão de vida (Eros) e pulsão de morte. A oposição entre pulsões sexuais e de autoconservação (E) foi o primeiro dualismo, e a distinção entre libido do eu e libido de objeto (C) vem de 'Introdução ao narcisismo' (1914). Prazer–desprazer refere-se ao princípio que a obra justamente põe em questão.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-macae-2024-psi-56",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "Prefeitura de Macaé",
+   "ano": 2024,
+   "cargo": "Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/psicologocns203-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/ed.-1-macaeadm2024_gabarito_definitivo_compilado.pdf",
+   "questao_original": 56,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "A noção de determinação social do processo saúde-doença foi fundamental para a reforma sanitária brasileira. Com relação à essa noção, assinale a afirmativa correta.",
+  "alternativas": [
+   "Quando comparadas aos marcadores sociais de classe e raça, as relações de gênero têm maior peso na determinação do processo saúde-doença.",
+   "Quanto maior a riqueza econômica de um país, maior o acesso aos serviços de saúde, impactando favoravelmente a determinação social do processo saúde-doença.",
+   "Corresponde ao conceito de determinantes sociais, tendo como enfoque a promoção de estilos de vida saudáveis.",
+   "Rompe com o paradigma do risco e com a noção de causalidade expressa no modelo biomédico hegemônico.",
+   "É embasada por evidências científicas que visam isolar os fatores sociais do seu contexto de produção, estabelecendo modelos explicativos unidirecionais."
+  ],
+  "gabarito": 3,
+  "comentario": "A noção de determinação social do processo saúde-doença, vinda da medicina social latino-americana e central para a reforma sanitária, entende a saúde como produto das formas de organização social e de produção. Assim, ela rompe com o paradigma do risco e com a causalidade linear do modelo biomédico, como afirma a D. Ela não hierarquiza gênero acima de classe e raça (A) nem se reduz à riqueza do país (B). Também se distingue do enfoque dos 'determinantes sociais' centrado em estilos de vida (C) e se opõe a isolar fatores sociais em modelos unidirecionais (E).",
+  "dificuldade": 3,
+  "anulada": false
+ },
+ {
+  "id": "fgv-macae-2024-psi-57",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "Prefeitura de Macaé",
+   "ano": 2024,
+   "cargo": "Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/psicologocns203-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/ed.-1-macaeadm2024_gabarito_definitivo_compilado.pdf",
+   "questao_original": 57,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "A Atenção Primária refere-se a um conjunto de práticas em saúde, individuais e coletivas, que passou a se denominar Atenção Básica durante a implementação do Sistema Único de Saúde (SUS). Considerando a Atenção Básica em Saúde no Brasil, analise as afirmativas a seguir.\nI. É a atenção ambulatorial de primeiro contato, com programas focalizados e seletivos para a oferta de uma cesta restrita de serviços.\nII. Considera o contexto no qual a doença ocorre e em que o usuário vive, lidando com uma menor variedade de problemas de saúde.\nIII.\nÉ a porta de entrada preferencial para o SUS, sendo a base de um novo modelo assistencial que visa a integralidade do cuidado em saúde. Está correto o que se afirma em",
+  "alternativas": [
+   "I, apenas.",
+   "II, apenas.",
+   "III, apenas.",
+   "I e II, apenas.",
+   "II e III, apenas."
+  ],
+  "gabarito": 2,
+  "comentario": "Só a III está correta: no SUS, a Atenção Básica é a porta de entrada preferencial e a ordenadora do cuidado, base de um modelo assistencial que busca a integralidade. A I descreve a chamada atenção primária seletiva, com cesta restrita de serviços, concepção que o SUS rejeita em favor de uma atenção básica abrangente. A II erra ao dizer que a atenção básica lida com menor variedade de problemas; ela lida com a maior variedade de problemas de saúde, embora considere o contexto de vida do usuário.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-macae-2024-psi-58",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "Prefeitura de Macaé",
+   "ano": 2024,
+   "cargo": "Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/psicologocns203-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/ed.-1-macaeadm2024_gabarito_definitivo_compilado.pdf",
+   "questao_original": 58,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Conforme a Portaria nº 3088/2011, a Rede de Atenção Psicossocial (RAPS) pode ser entendida como a articulação dos pontos de atenção à saúde para pessoas com sofrimento ou transtorno mental e com necessidades decorrentes do uso de drogas no Sistema Único de Saúde. Com relação à RAPS, assinale a afirmativa correta.",
+  "alternativas": [
+   "É constituída por seis níveis de atenção, entre eles os hospitais psiquiátricos, cujos elementos devem atuar territorialmente e de forma articulada.",
+   "Visa maximizar a lógica de encaminhamentos para os Centros de Atenção Psicossocial (CAPS).",
+   "Refere-se a uma articulação permanente com o território, fruto de processos de trabalho que possibilitam a construção contínua de vínculos para o cuidado.",
+   "Engloba o Sistema Único de Assistência Social (SUAS), que integra o nível de Atenção Básica da RAPS.",
+   "Está baseada em sistemas de referência e contrarreferência, objetivando que o cuidado possa ser ofertado na Atenção Básica em detrimento dos CAPS."
+  ],
+  "gabarito": 2,
+  "comentario": "A RAPS (Portaria 3.088/2011) propõe cuidado em rede articulado ao território, com construção contínua de vínculos, o que torna a C correta. Embora tenha sete componentes, ela não é organizada em 'níveis' que incluam hospitais psiquiátricos como ponto de atenção (A). A RAPS não visa maximizar encaminhamentos aos CAPS (B), e o SUAS é um sistema de assistência social, não um componente da atenção básica da RAPS (D). A lógica não é a de referência e contrarreferência hierarquizadas nem a de substituir os CAPS pela atenção básica (E), e sim a de corresponsabilização entre os pontos da rede.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-macae-2024-psi-59",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "Prefeitura de Macaé",
+   "ano": 2024,
+   "cargo": "Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/psicologocns203-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/ed.-1-macaeadm2024_gabarito_definitivo_compilado.pdf",
+   "questao_original": 59,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Com relação à noção de território, considerando as contribuições da reforma sanitária e psiquiátrica brasileiras, assinale a afirmativa correta.",
+  "alternativas": [
+   "É um dispositivo que possibilita a implementação da lógica biomédica de cuidado.",
+   "É delimitado pelo espaço geográfico de uma rede assistencial.",
+   "Emerge como uma ação singular, sendo fruto da produção de cuidado.",
+   "Articula dispositivos restritos ao setor saúde para a integralidade do cuidado.",
+   "É definido pela vigilância sanitária e epidemiológica da saúde."
+  ],
+  "gabarito": 2,
+  "comentario": "Nas reformas sanitária e psiquiátrica, o território não é só um recorte geográfico ou administrativo. É um espaço vivo de relações, produzido nas práticas de cuidado e nos vínculos, singular para cada usuário, por isso a C é a correta. Ele se opõe à lógica biomédica (A) e não se limita ao espaço da rede assistencial (B). Também não se restringe ao setor saúde, já que envolve a intersetorialidade e os recursos comunitários (D), nem é definido apenas pela vigilância sanitária e epidemiológica (E).",
+  "dificuldade": 3,
+  "anulada": false
+ },
+ {
+  "id": "fgv-macae-2024-psi-60",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "Prefeitura de Macaé",
+   "ano": 2024,
+   "cargo": "Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/psicologocns203-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/ed.-1-macaeadm2024_gabarito_definitivo_compilado.pdf",
+   "questao_original": 60,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Com relação às atribuições do psicólogo no Sistema Único de Saúde, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.\n( ) Distinguir seu modo de atuação de acordo com os níveis de atenção primário, secundário e terciário.\n( ) Buscar ações horizontalizadas que possibilitem a formação permanente em saúde mental de trabalhadores de diversas categorias profissionais.\n( ) Priorizar a implementação do modelo clínico de atuação, com ações individuais e curativistas.\nAs afirmativas são, respectivamente,",
+  "alternativas": [
+   "V – V – F.",
+   "F – V – V.",
+   "F – V – F.",
+   "V – F – F.",
+   "V – F – V."
+  ],
+  "gabarito": 0,
+  "comentario": "A sequência correta é V–V–F. O psicólogo no SUS adapta sua atuação ao nível de atenção (primário, secundário, terciário), e ações horizontais como o apoio matricial e a educação permanente em saúde mental de outras categorias fazem parte de suas atribuições. A terceira afirmativa é falsa, pois priorizar o modelo clínico individual e curativista vai contra os princípios do SUS, que valorizam a integralidade, a promoção, a prevenção e o trabalho coletivo e interdisciplinar.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-macae-2024-psi-61",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "Prefeitura de Macaé",
+   "ano": 2024,
+   "cargo": "Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/psicologocns203-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/ed.-1-macaeadm2024_gabarito_definitivo_compilado.pdf",
+   "questao_original": 61,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Os alunos da turma da professora Eliana vêm apresentando dificuldades no processo de aprendizagem e desmotivação. Como estratégia para potencializar o aprendizado, a professora está pensando em utilizar uma técnica de trabalho de grupos desenvolvida por Pichon-Rivière que considera que o grupo focado na tarefa e com um objetivo comum pode se constituir um campo potente para elevar a capacidade criativa e a superação de obstáculos. Estamos nos referindo aos",
+  "alternativas": [
+   "grupos operantes.",
+   "grupos psicodramáticos.",
+   "grupos operativos.",
+   "grupos de campo social.",
+   "grupos gestálticos."
+  ],
+  "gabarito": 2,
+  "comentario": "Pichon-Rivière criou a técnica dos grupos operativos, nos quais o grupo se organiza em torno de uma tarefa comum (aprendizagem, por exemplo) e, ao enfrentar os obstáculos à tarefa, desenvolve criatividade e mudança. Por isso a C está correta. 'Grupos operantes' é uma confusão com o condicionamento operante de Skinner. Grupos psicodramáticos remetem a Moreno e grupos gestálticos à Gestalt-terapia, e 'grupos de campo social' não é técnica do autor.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-macae-2024-psi-62",
+  "disciplina": "especificos",
+  "assunto": "esp-trabalho",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "Prefeitura de Macaé",
+   "ano": 2024,
+   "cargo": "Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/psicologocns203-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/ed.-1-macaeadm2024_gabarito_definitivo_compilado.pdf",
+   "questao_original": 62,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Lucas foi contratado para ser inspetor na Escola Vamos Aprender e sempre desempenhou suas atividades de forma adequada até que um novo diretor passou a responsabilizá-lo pelos conflitos ocorridos em sala de aula entre os alunos e também pelos problemas de comportamento na saída do colégio. Diante disso, Lucas passou a faltar ao trabalho de forma recorrente. Pelo exposto, o absenteísmo do funcionário possivelmente tem relação com:\nI. Cobrança excessiva de metas.\nII. Descontentamento com as funções atribuídas.\nIII. Fortalecimento da cultura organizacional.\nEstá correto o que se afirma em",
+  "alternativas": [
+   "I, apenas.",
+   "II, apenas.",
+   "III, apenas.",
+   "I e II, apenas.",
+   "I, II e III."
+  ],
+  "gabarito": 3,
+  "comentario": "O absenteísmo de Lucas aparece depois que a nova direção passou a lhe cobrar resultados que não dependem dele (conflitos em sala, comportamento na saída) e a lhe atribuir responsabilidades alheias às suas funções de inspetor. Por isso a banca considera corretas a I (cobrança excessiva) e a II (descontentamento com as funções atribuídas). A III é falsa: o fortalecimento da cultura organizacional tende a favorecer o engajamento e não explica o afastamento do trabalhador.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-macae-2024-psi-63",
+  "disciplina": "legislacao",
+  "assunto": "leg-res06-2019",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "Prefeitura de Macaé",
+   "ano": 2024,
+   "cargo": "Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/psicologocns203-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/ed.-1-macaeadm2024_gabarito_definitivo_compilado.pdf",
+   "questao_original": 63,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "A escola de Antônio recebeu a solicitação para que a psicóloga escolar apresente um relatório sobre o comportamento e evolução do menino na instituição pois os pais da criança estão se separando e o documento será apresentado em um processo da Vara de Família. De acordo com as disposições vigentes no CFP, o relatório psicológico deverá ser guardado pelo prazo de",
+  "alternativas": [
+   "um ano.",
+   "dois anos.",
+   "três anos.",
+   "quatro anos.",
+   "cinco anos."
+  ],
+  "gabarito": 4,
+  "comentario": "A Res. CFP 06/2019 estabelece que os documentos escritos decorrentes da prestação de serviços psicológicos, bem como todo o material que os fundamentou, devem ser guardados pelo prazo mínimo de cinco anos. O mesmo prazo aparece na Res. CFP 001/2009 para o registro documental. Por isso a E está correta, e os demais prazos são inferiores ao exigido.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-macae-2024-psi-64",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "Prefeitura de Macaé",
+   "ano": 2024,
+   "cargo": "Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/psicologocns203-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/ed.-1-macaeadm2024_gabarito_definitivo_compilado.pdf",
+   "questao_original": 64,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Leonardo ingressou tardiamente na escola e está tendo dificuldades em acompanhar a turma em que está inserido. Camila, sua professora, vem buscando auxiliar no desenvolvimento do aluno partindo das premissas de Lev Vygotsky de que a formação da criança se dá numa relação direta entre o sujeito e a sociedade a seu redor – ou seja, entendendo que o homem modifica o ambiente e o ambiente modifica o homem. Assim, Camila vem buscando apoiar Leonardo na realização de algumas atividades escolares, o que vem se revelando muito positivo, pois ele está conseguindo aprender esses novos conteúdos. O conceito de Vygotsky que descreve a diferença entre o nível de desenvolvimento atual de uma pessoa e o seu potencial de desenvolvimento com a ajuda de alguém mais experiente é",
+  "alternativas": [
+   "zona de desenvolvimento proximal.",
+   "zona de desenvolvimento real.",
+   "zona de desenvolvimento potencial.",
+   "zona de desenvolvimento virtual",
+   "zona de desenvolvimento perceptual."
+  ],
+  "gabarito": 0,
+  "comentario": "Vygotsky chamou de zona de desenvolvimento proximal a distância entre o nível de desenvolvimento real, o que a criança faz sozinha, e o nível de desenvolvimento potencial, o que ela consegue fazer com a ajuda de alguém mais experiente. Por isso a A está correta. As alternativas B e C nomeiam os dois polos dessa distância, e não a distância em si, e 'virtual' e 'perceptual' não são conceitos do autor.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-macae-2024-psi-65",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "Prefeitura de Macaé",
+   "ano": 2024,
+   "cargo": "Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/psicologocns203-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/ed.-1-macaeadm2024_gabarito_definitivo_compilado.pdf",
+   "questao_original": 65,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Manoela tem 14 anos e sempre morou com a avó materna. Recentemente sua avó faleceu e ela precisou se mudar de cidade e de escola para passar a viver junto de sua mãe, com quem possui excelente relacionamento. Apesar disso, na escola começaram a perceber que a menina sempre ia com roupas de mangas compridas, ainda que em dias bem quentes. Em análise mais atenta a professora de Manoela identificou que a menina apresentava lesões indicativas de cortes nos braços, que podem ser provocados por arranhões ou objetos perfurocortantes. O comportamento apresentado por Manoela é sugestivo de",
+  "alternativas": [
+   "Gaslighting.",
+   "Cutting.",
+   "Bullying.",
+   "Ghosting.",
+   "Game Disorder."
+  ],
+  "gabarito": 1,
+  "comentario": "Cutting é o termo usado para a autolesão não suicida por cortes na pele, frequente na adolescência e muitas vezes escondida com roupas de manga comprida. O quadro de Manoela, com perdas recentes (a morte da avó) e mudança de cidade e escola, é compatível. Gaslighting é manipulação psicológica que faz a vítima duvidar da própria percepção, bullying é violência repetida entre pares, ghosting é o rompimento súbito de contato sem explicação, e o transtorno de jogo (gaming disorder) se refere ao uso problemático de jogos eletrônicos.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-macae-2024-psi-66",
+  "disciplina": "especificos",
+  "assunto": "esp-direitos-humanos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "Prefeitura de Macaé",
+   "ano": 2024,
+   "cargo": "Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/psicologocns203-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/ed.-1-macaeadm2024_gabarito_definitivo_compilado.pdf",
+   "questao_original": 66,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Elisa é uma jovem mulher que estuda no Programa de Educação de Jovens e Adultos desenvolvido pela Prefeitura. Durante as aulas ela se envolveu amorosamente com Murilo mas desde o início o relacionamento foi permeado por muito ciúme. No final de semana passado, o namorado gritou com a moça no shopping, o que muito a constrangeu. Diante desse relato, assinale a afirmativa correta.",
+  "alternativas": [
+   "Elisa foi vítima de violência psicológica praticada por Murilo.",
+   "A violência doméstica contra a mulher necessita da coabitação do casal para ocorrer.",
+   "Murilo praticou violência moral contra a namorada pois o constrangimento foi público.",
+   "A violência psicológica se constitui como calúnia, difamação ou injúria.",
+   "Elisa foi vitimada por violência física perpetrada pelo namorado."
+  ],
+  "gabarito": 0,
+  "comentario": "Pela Lei Maria da Penha (Lei 11.340/2006), a violência doméstica e familiar contra a mulher abrange qualquer relação íntima de afeto, independentemente de coabitação, o que torna a B falsa. A violência psicológica inclui condutas que causem dano emocional, como constrangimento, humilhação e ridicularização. Gritar com a namorada em público, constrangendo-a, enquadra-se aí, e por isso a A está correta. A violência moral é a calúnia, difamação ou injúria, o que mostra o erro da C e da D, e não houve agressão física (E).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-macae-2024-psi-67",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "Prefeitura de Macaé",
+   "ano": 2024,
+   "cargo": "Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/psicologocns203-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/ed.-1-macaeadm2024_gabarito_definitivo_compilado.pdf",
+   "questao_original": 67,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Os alunos da turma de Jardim II da Escolinha Esquilinho Feliz têm entre 5 e 6 anos e gostam muito de fazer imitações e de brincar de faz de conta, expressando pensamento mágico muitas vezes para explicar fatos diferentes. Elas fazem associações de ideias simples e manifestam comportamento egocêntrico de forma mais predominante, embora às vezes já consigam se colocar no lugar do outro e expressar atitudes empáticas. Segundo Piaget, essas crianças estão no estágio",
+  "alternativas": [
+   "sensório-motor.",
+   "pré-operatório.",
+   "operatório concreto.",
+   "operatório formal.",
+   "categorial."
+  ],
+  "gabarito": 1,
+  "comentario": "O estágio pré-operatório (aproximadamente dos 2 aos 7 anos) caracteriza-se pela função simbólica (faz de conta, imitação), pelo pensamento mágico e animista e pelo egocentrismo, ainda sem operações reversíveis. É exatamente o retrato das crianças de 5 a 6 anos. O sensório-motor vai até cerca de 2 anos, o operatório concreto (cerca de 7 a 11 anos) traz a lógica sobre o concreto e a descentração, e o formal permite o raciocínio hipotético-dedutivo. 'Categorial' não é estágio piagetiano.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-macae-2024-psi-68",
+  "disciplina": "especificos",
+  "assunto": "esp-direitos-humanos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "Prefeitura de Macaé",
+   "ano": 2024,
+   "cargo": "Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/psicologocns203-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/ed.-1-macaeadm2024_gabarito_definitivo_compilado.pdf",
+   "questao_original": 68,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Danilo tem 70 anos e é viúvo. Recentemente conheceu Elizabeth, de 55 anos, em um baile da terceira idade e decidiram morar juntos. Diante dessa situação, os filhos de Danilo decidiram intervir, iniciando ação de interdição do idoso. Diante da hipótese apresentada, assinale a afirmativa correta.",
+  "alternativas": [
+   "Os filhos estão corretos em propor a interdição diante do comportamento apresentado pelo idoso.",
+   "Apenas o Ministério Público pode iniciar interdição na hipótese descrita.",
+   "O idoso tem o direito de iniciar um relacionamento marital com Elizabeth.",
+   "O idoso só pode iniciar relação conjugal após antecipar a herança para os filhos.",
+   "A interdição tem que ser proposta em face de Elizabeth e Danilo pois ambos são idosos."
+  ],
+  "gabarito": 2,
+  "comentario": "A idade, por si só, não retira a capacidade civil. A pessoa idosa tem direito à liberdade, à autonomia e à dignidade, incluindo escolher com quem se relacionar e conviver, como protege o Estatuto da Pessoa Idosa. Por isso a C está correta. A interdição (curatela) exige demonstração de incapacidade para os atos da vida civil, e não o mero desagrado da família (A). As demais alternativas criam exigências sem base legal, como antecipar a herança ou interditar ambos por serem idosos.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-macae-2024-psi-69",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "Prefeitura de Macaé",
+   "ano": 2024,
+   "cargo": "Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/psicologocns203-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/ed.-1-macaeadm2024_gabarito_definitivo_compilado.pdf",
+   "questao_original": 69,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Eleonora é professora de adolescentes e percebe o quanto eles aprendem por imitações dos modelos, tanto em sala de aula, quanto em casa. O processo de aprendizagem pela observação, imitação ou reprodução do comportamento de outros indivíduos e das recompensas que eles recebem, foi definido por Albert Bandura como",
+  "alternativas": [
+   "condicionamento operante.",
+   "condicionamento respondente.",
+   "condicionamento clássico.",
+   "aprendizagem associativa.",
+   "aprendizagem vicariante."
+  ],
+  "gabarito": 4,
+  "comentario": "Na teoria da aprendizagem social de Bandura, a aprendizagem vicariante (ou observacional, por modelação) ocorre quando o indivíduo aprende observando o comportamento de modelos e as consequências que eles recebem, sem precisar ser reforçado diretamente. Condicionamento operante (Skinner) e condicionamento clássico/respondente (Pavlov) dependem da experiência direta do próprio organismo com reforços ou associações de estímulos. 'Aprendizagem associativa' é um termo genérico que abrange esses condicionamentos.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-macae-2024-psi-70",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "Prefeitura de Macaé",
+   "ano": 2024,
+   "cargo": "Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/psicologocns203-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/ed.-1-macaeadm2024_gabarito_definitivo_compilado.pdf",
+   "questao_original": 70,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Um dos maiores teóricos da personalidade, Carl Gustav Jung conceitua que temos quatro Funções Psíquicas usadas pela consciência para reconhecimento e orientação no mundo. São elas:",
+  "alternativas": [
+   "análise, idealismo, exploração e observação.",
+   "assertividade, determinação, ação e extroversão.",
+   "pensamento, sentimento, intuição e sensação.",
+   "influência, dominância, estabilidade e conformidade.",
+   "cólera, melancolia, fleuma e racionalidade."
+  ],
+  "gabarito": 2,
+  "comentario": "Em 'Tipos psicológicos', Jung descreve quatro funções psíquicas: pensamento e sentimento, as funções racionais ou de julgamento, e sensação e intuição, as funções irracionais ou de percepção. Combinadas às atitudes de extroversão e introversão, elas formam os tipos psicológicos. A D lembra as dimensões do modelo DISC, e a E mistura os temperamentos hipocráticos (colérico, melancólico, fleumático), sem relação com Jung.",
+  "dificuldade": 1,
+  "anulada": false
+ }
+]

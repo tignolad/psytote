@@ -1,0 +1,262 @@
+[
+  {
+    "id": "aut-pt-sintaxe-001",
+    "disciplina": "portugues",
+    "assunto": "pt-sintaxe",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Assinale a frase cuja oração não tem sujeito.",
+    "alternativas": [
+      "Existem poucas praças no bairro.",
+      "Há, no bairro, poucas praças.",
+      "Sumiram as praças do bairro.",
+      "Alguém retirou os bancos da praça.",
+      "Precisa-se de mais bancos na praça."
+    ],
+    "gabarito": 1,
+    "comentario": "'Haver' no sentido de 'existir' é impessoal e forma oração sem sujeito ('poucas praças' é objeto direto). Com 'existir' e 'sumir', 'poucas praças' e 'as praças do bairro' são sujeitos (o segundo, posposto). 'Alguém' é sujeito simples. Em 'Precisa-se de', o sujeito é indeterminado, e sujeito indeterminado não é o mesmo que oração sem sujeito.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-sintaxe-002",
+    "disciplina": "portugues",
+    "assunto": "pt-sintaxe",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "texto": "Elogio da espera\n\nAntigamente, esperar era um tempo morto. Na fila do banco ou no consultório, restava observar as pessoas, ler os avisos na parede ou simplesmente pensar em nada. Hoje, o celular ocupa cada um desses intervalos, e o tédio, que parecia um inimigo, tornou-se quase uma raridade.\n\nPesquisadores da atenção alertam, no entanto, que o tédio cumpre uma função. É nos momentos vazios que a mente divaga, associa ideias distantes e, não raro, encontra soluções que o esforço concentrado não alcançou. Sem eles, vivemos estimulados o tempo todo, mas criamos pouco.\n\nIsso não significa que devamos jogar o aparelho fora. A tecnologia aproxima familiares distantes, facilita o acesso a serviços e, para muitos, é ferramenta de trabalho. O problema não está no objeto, mas no hábito de recorrer a ele sempre que surge um segundo de silêncio.\n\nExperimente, na próxima espera, deixar o telefone no bolso. Os primeiros minutos serão desconfortáveis; depois, talvez você reencontre um velho conhecido: seu próprio pensamento.\n\n(Texto autoral, escrito para fins didáticos.)",
+    "enunciado": "Em \"Na fila do banco ou no consultório, restava observar as pessoas, ler os avisos na parede ou simplesmente pensar em nada\", o sujeito de \"restava\" é",
+    "alternativas": [
+      "\"a fila do banco\".",
+      "\"o consultório\".",
+      "\"as pessoas\".",
+      "inexistente, pois a oração não tem sujeito.",
+      "oracional, formado por \"observar as pessoas, ler os avisos na parede ou simplesmente pensar em nada\"."
+    ],
+    "gabarito": 4,
+    "comentario": "O que 'restava' eram as ações de observar, ler e pensar: as orações reduzidas de infinitivo funcionam como sujeito (orações subordinadas substantivas subjetivas). 'Na fila do banco ou no consultório' é adjunto adverbial de lugar, e 'as pessoas' é objeto direto de 'observar'.",
+    "dificuldade": 3,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-sintaxe-003",
+    "disciplina": "portugues",
+    "assunto": "pt-sintaxe",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "texto": "O cansaço que não tira férias\n\nHá um tipo de cansaço que não passa com o fim de semana. Quem o conhece sabe: a segunda-feira chega e o corpo, embora tenha dormido, continua pesado, como se carregasse a semana anterior inteira. Os especialistas chamam esse estado de esgotamento profissional, e a Organização Mundial da Saúde já o reconhece como fenômeno ligado ao trabalho.\n\nNão se trata, porém, de simples preguiça ou falta de força de vontade. O esgotamento costuma atingir justamente os mais dedicados, aqueles que respondem a mensagens à meia-noite e acreditam que descansar é um luxo. Por isso, a solução não pode ser apenas individual: de nada adianta ensinar técnicas de respiração a quem trabalha doze horas por dia sem pausa.\n\nAs empresas que levam o problema a sério revisam metas, redistribuem tarefas e, sobretudo, respeitam o direito de desconectar. Já as que preferem ignorá-lo pagam a conta mais tarde, em afastamentos, rotatividade e perda de talentos.\n\nTalvez o primeiro passo seja mudar a pergunta. Em vez de indagar por que o trabalhador não aguenta, deveríamos perguntar o que, no trabalho, se tornou insuportável.\n\n(Texto autoral, escrito para fins didáticos.)",
+    "enunciado": "Em \"de nada adianta ensinar técnicas de respiração a quem trabalha doze horas por dia\", o termo \"técnicas de respiração\" exerce a função de",
+    "alternativas": [
+      "objeto indireto.",
+      "sujeito.",
+      "objeto direto.",
+      "complemento nominal.",
+      "agente da passiva."
+    ],
+    "gabarito": 2,
+    "comentario": "'Ensinar' é transitivo direto e indireto: quem ensina, ensina algo (objeto direto: 'técnicas de respiração') a alguém (objeto indireto: 'a quem trabalha...'). O termo não é preposicionado nem completa um nome, e a frase não está na voz passiva.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-sintaxe-004",
+    "disciplina": "portugues",
+    "assunto": "pt-sintaxe",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "texto": "O cansaço que não tira férias\n\nHá um tipo de cansaço que não passa com o fim de semana. Quem o conhece sabe: a segunda-feira chega e o corpo, embora tenha dormido, continua pesado, como se carregasse a semana anterior inteira. Os especialistas chamam esse estado de esgotamento profissional, e a Organização Mundial da Saúde já o reconhece como fenômeno ligado ao trabalho.\n\nNão se trata, porém, de simples preguiça ou falta de força de vontade. O esgotamento costuma atingir justamente os mais dedicados, aqueles que respondem a mensagens à meia-noite e acreditam que descansar é um luxo. Por isso, a solução não pode ser apenas individual: de nada adianta ensinar técnicas de respiração a quem trabalha doze horas por dia sem pausa.\n\nAs empresas que levam o problema a sério revisam metas, redistribuem tarefas e, sobretudo, respeitam o direito de desconectar. Já as que preferem ignorá-lo pagam a conta mais tarde, em afastamentos, rotatividade e perda de talentos.\n\nTalvez o primeiro passo seja mudar a pergunta. Em vez de indagar por que o trabalhador não aguenta, deveríamos perguntar o que, no trabalho, se tornou insuportável.\n\n(Texto autoral, escrito para fins didáticos.)",
+    "enunciado": "Em \"o corpo, embora tenha dormido, continua pesado\", o termo \"pesado\" exerce a função de",
+    "alternativas": [
+      "predicativo do sujeito.",
+      "adjunto adnominal.",
+      "objeto direto.",
+      "adjunto adverbial de modo.",
+      "predicativo do objeto."
+    ],
+    "gabarito": 0,
+    "comentario": "'Continuar' é aqui verbo de ligação e liga ao sujeito 'o corpo' a característica 'pesado'. Por isso, o termo é predicativo do sujeito. Não há objeto, e o adjetivo não se prende diretamente a um substantivo, como faria o adjunto adnominal.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-sintaxe-005",
+    "disciplina": "portugues",
+    "assunto": "pt-sintaxe",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "texto": "Bancos para pessoas\n\nMoro num bairro onde as praças foram, aos poucos, substituídas por estacionamentos. Ninguém decidiu isso numa reunião; aconteceu como acontecem as coisas nas cidades grandes, sem aviso e sem culpados. Um dia, percebi que já não havia onde sentar.\n\nA psicologia urbana tem um nome para os lugares que nos fazem bem: espaços de convivência. Neles, encontramos desconhecidos sem a obrigação de conversar, mas com a possibilidade de fazê-lo. É ali que o idoso troca duas palavras com o jornaleiro, que a criança aprende a dividir o balanço, que o recém-chegado deixa de ser estranho.\n\nQuando esses espaços somem, a solidão não aparece de repente. Ela se instala devagar, disfarçada de rotina: casa, carro, trabalho, carro, casa. Os vizinhos viram rostos sem nome, e o bairro, um endereço.\n\nNão quero romantizar o passado, que tinha seus próprios problemas. Mas desconfio de que uma cidade se mede menos pela quantidade de vagas que oferece aos automóveis do que pelos bancos que oferece às pessoas.\n\n(Texto autoral, escrito para fins didáticos.)",
+    "enunciado": "Em \"as praças foram [...] substituídas por estacionamentos\", o termo \"por estacionamentos\" exerce a função de",
+    "alternativas": [
+      "objeto indireto.",
+      "adjunto adverbial de causa.",
+      "complemento nominal.",
+      "agente da passiva.",
+      "adjunto adnominal."
+    ],
+    "gabarito": 3,
+    "comentario": "A oração está na voz passiva analítica ('foram substituídas'). Quem pratica a ação de substituir aparece como agente da passiva, introduzido por 'por'. Na ativa, seria 'Estacionamentos substituíram as praças', com 'estacionamentos' como sujeito.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-sintaxe-006",
+    "disciplina": "portugues",
+    "assunto": "pt-sintaxe",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "texto": "Elogio da espera\n\nAntigamente, esperar era um tempo morto. Na fila do banco ou no consultório, restava observar as pessoas, ler os avisos na parede ou simplesmente pensar em nada. Hoje, o celular ocupa cada um desses intervalos, e o tédio, que parecia um inimigo, tornou-se quase uma raridade.\n\nPesquisadores da atenção alertam, no entanto, que o tédio cumpre uma função. É nos momentos vazios que a mente divaga, associa ideias distantes e, não raro, encontra soluções que o esforço concentrado não alcançou. Sem eles, vivemos estimulados o tempo todo, mas criamos pouco.\n\nIsso não significa que devamos jogar o aparelho fora. A tecnologia aproxima familiares distantes, facilita o acesso a serviços e, para muitos, é ferramenta de trabalho. O problema não está no objeto, mas no hábito de recorrer a ele sempre que surge um segundo de silêncio.\n\nExperimente, na próxima espera, deixar o telefone no bolso. Os primeiros minutos serão desconfortáveis; depois, talvez você reencontre um velho conhecido: seu próprio pensamento.\n\n(Texto autoral, escrito para fins didáticos.)",
+    "enunciado": "Em \"A tecnologia [...] facilita o acesso a serviços\", o termo \"a serviços\" exerce a função de",
+    "alternativas": [
+      "objeto indireto.",
+      "adjunto adnominal.",
+      "adjunto adverbial de lugar.",
+      "complemento nominal.",
+      "objeto direto preposicionado."
+    ],
+    "gabarito": 3,
+    "comentario": "'A serviços' completa o substantivo abstrato 'acesso' (acesso a quê?) e tem valor de alvo da ação: é complemento nominal. Não completa o verbo 'facilita', cujo objeto direto é 'o acesso a serviços'. Também não é adjunto adnominal, que indicaria posse ou agente, nem adjunto adverbial.",
+    "dificuldade": 3,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-sintaxe-007",
+    "disciplina": "portugues",
+    "assunto": "pt-sintaxe",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "A frase \"A psicóloga disse ao paciente: 'Volte amanhã e traga seus exames.'\" está corretamente transposta para o discurso indireto em:",
+    "alternativas": [
+      "A psicóloga disse ao paciente que voltasse no dia seguinte e trouxesse seus exames.",
+      "A psicóloga disse ao paciente que volte amanhã e traga seus exames.",
+      "A psicóloga disse ao paciente que voltaria no dia seguinte e traria seus exames.",
+      "A psicóloga disse ao paciente que voltasse amanhã e trouxe seus exames.",
+      "A psicóloga disse ao paciente para que voltava no dia seguinte e trazia seus exames."
+    ],
+    "gabarito": 0,
+    "comentario": "Com verbo de elocução no pretérito ('disse'), o imperativo do discurso direto passa ao pretérito imperfeito do subjuntivo ('voltasse', 'trouxesse'), e 'amanhã' passa a 'no dia seguinte'. As demais versões mantêm o presente, trocam a ordem por um futuro do pretérito, que muda o sentido, misturam tempos ou usam indicativo com 'para que'.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-sintaxe-008",
+    "disciplina": "portugues",
+    "assunto": "pt-sintaxe",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Leia o fragmento a seguir.\n\n\"Marta olhou o celular. Mais uma mensagem do chefe. Será que ele nunca dormia? Desligou o aparelho e virou para o lado.\"\n\nNo fragmento, a pergunta \"Será que ele nunca dormia?\" é exemplo de discurso",
+    "alternativas": [
+      "direto, pois a fala da personagem vem introduzida por travessão.",
+      "indireto, pois o pensamento é introduzido por verbo de elocução e pela conjunção \"que\".",
+      "indireto livre, pois o pensamento da personagem se mistura à voz do narrador, sem verbo de elocução nem marcas gráficas.",
+      "direto, pois a fala do chefe aparece entre aspas.",
+      "indireto, pois todo o trecho está em primeira pessoa."
+    ],
+    "gabarito": 2,
+    "comentario": "A pergunta reproduz o pensamento de Marta, mas em terceira pessoa e no tempo da narração ('dormia'), sem 'pensou que' e sem travessão ou aspas: é discurso indireto livre. Não há travessão nem aspas no trecho, nenhum verbo de elocução introduz a pergunta e a narração está em terceira pessoa.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-sintaxe-009",
+    "disciplina": "portugues",
+    "assunto": "pt-sintaxe",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "texto": "Bancos para pessoas\n\nMoro num bairro onde as praças foram, aos poucos, substituídas por estacionamentos. Ninguém decidiu isso numa reunião; aconteceu como acontecem as coisas nas cidades grandes, sem aviso e sem culpados. Um dia, percebi que já não havia onde sentar.\n\nA psicologia urbana tem um nome para os lugares que nos fazem bem: espaços de convivência. Neles, encontramos desconhecidos sem a obrigação de conversar, mas com a possibilidade de fazê-lo. É ali que o idoso troca duas palavras com o jornaleiro, que a criança aprende a dividir o balanço, que o recém-chegado deixa de ser estranho.\n\nQuando esses espaços somem, a solidão não aparece de repente. Ela se instala devagar, disfarçada de rotina: casa, carro, trabalho, carro, casa. Os vizinhos viram rostos sem nome, e o bairro, um endereço.\n\nNão quero romantizar o passado, que tinha seus próprios problemas. Mas desconfio de que uma cidade se mede menos pela quantidade de vagas que oferece aos automóveis do que pelos bancos que oferece às pessoas.\n\n(Texto autoral, escrito para fins didáticos.)",
+    "enunciado": "Em \"Quando esses espaços somem, a solidão não aparece de repente\", a oração \"Quando esses espaços somem\" classifica-se como subordinada",
+    "alternativas": [
+      "adverbial condicional.",
+      "adverbial causal.",
+      "adjetiva restritiva.",
+      "substantiva objetiva direta.",
+      "adverbial temporal."
+    ],
+    "gabarito": 4,
+    "comentario": "A oração indica o momento em que ocorre o fato da principal, e o 'quando' é conjunção temporal. Não expressa condição nem causa, não se refere a um substantivo (adjetiva) e não completa um verbo (objetiva direta).",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-sintaxe-010",
+    "disciplina": "portugues",
+    "assunto": "pt-sintaxe",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "texto": "Bancos para pessoas\n\nMoro num bairro onde as praças foram, aos poucos, substituídas por estacionamentos. Ninguém decidiu isso numa reunião; aconteceu como acontecem as coisas nas cidades grandes, sem aviso e sem culpados. Um dia, percebi que já não havia onde sentar.\n\nA psicologia urbana tem um nome para os lugares que nos fazem bem: espaços de convivência. Neles, encontramos desconhecidos sem a obrigação de conversar, mas com a possibilidade de fazê-lo. É ali que o idoso troca duas palavras com o jornaleiro, que a criança aprende a dividir o balanço, que o recém-chegado deixa de ser estranho.\n\nQuando esses espaços somem, a solidão não aparece de repente. Ela se instala devagar, disfarçada de rotina: casa, carro, trabalho, carro, casa. Os vizinhos viram rostos sem nome, e o bairro, um endereço.\n\nNão quero romantizar o passado, que tinha seus próprios problemas. Mas desconfio de que uma cidade se mede menos pela quantidade de vagas que oferece aos automóveis do que pelos bancos que oferece às pessoas.\n\n(Texto autoral, escrito para fins didáticos.)",
+    "enunciado": "Em \"A psicologia urbana tem um nome para os lugares que nos fazem bem\", a oração \"que nos fazem bem\" classifica-se como",
+    "alternativas": [
+      "subordinada adjetiva explicativa.",
+      "subordinada adjetiva restritiva.",
+      "subordinada substantiva objetiva direta.",
+      "subordinada adverbial consecutiva.",
+      "subordinada substantiva completiva nominal."
+    ],
+    "gabarito": 1,
+    "comentario": "'Que' é pronome relativo e retoma 'lugares'. Sem vírgula, a oração delimita quais lugares têm o nome mencionado (só os que nos fazem bem), por isso é adjetiva restritiva. A explicativa viria entre vírgulas, e as substantivas são introduzidas por conjunção integrante, não por pronome relativo.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-sintaxe-011",
+    "disciplina": "portugues",
+    "assunto": "pt-sintaxe",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "texto": "Cuidar da mente perto de casa\n\nA atenção básica é, para a maior parte da população, a porta de entrada do sistema de saúde. É na unidade perto de casa que a mãe leva o filho para vacinar, que o idoso mede a pressão e que, muitas vezes, alguém revela pela primeira vez que não consegue dormir há semanas.\n\nEstima-se que boa parte das queixas atendidas nesses serviços tenha algum componente de sofrimento psíquico. Isso exige que as equipes estejam preparadas para acolher, e não apenas para encaminhar. Acolher significa escutar sem pressa, considerar o contexto de vida da pessoa e construir, junto com ela, um plano de cuidado.\n\nO matriciamento surgiu como resposta a essa necessidade. Nele, profissionais de saúde mental apoiam as equipes da atenção básica, discutindo casos e realizando atendimentos conjuntos. Assim, o conhecimento circula, e o paciente deixa de ser enviado de um serviço a outro sem que ninguém se responsabilize por ele.\n\nEmbora enfrente obstáculos, como a falta de profissionais e a alta demanda, esse modelo tem mostrado que cuidar da mente começa no mesmo lugar em que se cuida do corpo.\n\n(Texto autoral, escrito para fins didáticos.)",
+    "enunciado": "Em \"Estima-se que boa parte das queixas atendidas nesses serviços tenha algum componente de sofrimento psíquico\", a oração introduzida por \"que\" classifica-se como subordinada substantiva",
+    "alternativas": [
+      "objetiva direta.",
+      "objetiva indireta.",
+      "predicativa.",
+      "subjetiva.",
+      "completiva nominal."
+    ],
+    "gabarito": 3,
+    "comentario": "'Estima-se' está na voz passiva sintética (equivale a 'é estimado'), e o que é estimado funciona como sujeito: a oração é substantiva subjetiva. Pode parecer objetiva direta, mas com o pronome apassivador 'se' o antigo objeto passa a sujeito. Não há verbo de ligação (predicativa) nem nome a completar (completiva nominal).",
+    "dificuldade": 3,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-sintaxe-012",
+    "disciplina": "portugues",
+    "assunto": "pt-sintaxe",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Assinale a frase escrita em ordem direta (sujeito, verbo, complemento).",
+    "alternativas": [
+      "A tecnologia aproxima familiares distantes.",
+      "Aproxima familiares distantes a tecnologia.",
+      "Familiares distantes a tecnologia aproxima.",
+      "Familiares distantes, a tecnologia os aproxima.",
+      "Chegou, enfim, a segunda-feira."
+    ],
+    "gabarito": 0,
+    "comentario": "Na ordem direta, os termos seguem a sequência sujeito ('A tecnologia'), verbo ('aproxima') e complemento ('familiares distantes'). As outras frases têm sujeito posposto, objeto anteposto ou objeto deslocado para o início e retomado por pronome (topicalização), casos de ordem inversa.",
+    "dificuldade": 1,
+    "anulada": false
+  }
+]

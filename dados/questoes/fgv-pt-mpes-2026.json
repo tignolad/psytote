@@ -1,0 +1,252 @@
+[
+ {
+  "id": "fgv-mpes-2026-psi-1",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-ES",
+   "ano": 2026,
+   "cargo": "Agente Técnico – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/agente-tecnico-psicologo-cns129-tipo-1.pdf"
+  },
+  "enunciado": "“Consideramos estas verdades como evidentes por si: que todos os homens são criados iguais; que são dotados pelo seu Criador de certos direitos inalienáveis; que entre esses direitos estão a vida, a liberdade e a procura da felicidade.”\nThomas Jefferson, Declaração de Independência dos EUA. (1776)\nSobre a significação e a estruturação desse segmento, assinale a afirmativa correta.",
+  "alternativas": [
+   "Os três direitos citados ao final do texto são todos os direitos inalienáveis dos homens.",
+   "O fato de a forma verbal “Consideramos” estar no plural indica que são vários os autores do texto.",
+   "O termo “estas verdades” se refere a algo dito anteriormente, que não está registrado neste segmento.",
+   "Ao afirmar que “todos os homens são criados iguais”, o texto indica que todos os homens têm os mesmos direitos.",
+   "Ao dizer que as verdades citadas são “evidentes por si”, o autor do texto indica que elas necessitam de demonstração."
+  ],
+  "gabarito": 3,
+  "comentario": "Dizer que todos os homens são “criados iguais” e “dotados... de certos direitos inalienáveis” significa que todos têm os mesmos direitos (D). (A) erra porque o texto diz que “entre esses direitos estão” a vida, a liberdade e a felicidade — são exemplos, não a lista completa. (B) erra porque o plural pode representar uma coletividade (o povo, os signatários), não necessariamente vários autores. (C) erra porque “estas verdades” anuncia o que vem a seguir (catáfora). (E) erra porque “evidentes por si” significa justamente que dispensam demonstração.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mpes-2026-psi-2",
+  "disciplina": "portugues",
+  "assunto": "pt-reescrita",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-ES",
+   "ano": 2026,
+   "cargo": "Agente Técnico – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/agente-tecnico-psicologo-cns129-tipo-1.pdf"
+  },
+  "enunciado": "“O direito de voto para eleger representantes é o direito básico pelo qual os demais são protegidos. Retirar esse direito equivale a reduzir a pessoa à escravidão, pois escravidão consiste em estar sujeito à vontade de outrem.”\nThomas Paine. Dissertação sobre os Primeiros Princípios do Governo. (1795)\nSobre a significação ou a estruturação desse fragmento textual, assinale a afirmativa correta.",
+  "alternativas": [
+   "O termo “para eleger representantes” poderia ser adequadamente substituído por “para a eleição de representantes”.",
+   "Ao dizer que o direito de voto é “o direito básico”, o autor indica que a democracia é o melhor dos regimes.",
+   "O termo “os demais” se refere a todas as demais pessoas.",
+   "O termo “são protegidos” poderia ser passado para a voz ativa com a forma “pelo qual se protegiam”.",
+   "A parte final do texto mostra o entendimento pessoal que o autor do texto dá à palavra “escravidão”."
+  ],
+  "gabarito": 0,
+  "comentario": "A oração reduzida “para eleger representantes” pode ser nominalizada como “para a eleição de representantes” sem alterar o sentido (A). (B) extrapola o texto, que não compara regimes; (C) erra porque “os demais” retoma “direitos”, não pessoas; (D) erra porque altera o tempo verbal (“protegiam”) e a voz ativa exigiria agente explícito; (E) erra porque a definição de escravidão como “estar sujeito à vontade de outrem” é a acepção corrente, não um entendimento pessoal do autor.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mpes-2026-psi-3",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-ES",
+   "ano": 2026,
+   "cargo": "Agente Técnico – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/agente-tecnico-psicologo-cns129-tipo-1.pdf"
+  },
+  "enunciado": "“As leis são como as teias de aranha: as simples mosquinhas e as pequenas borboletas se prendem nelas, enquanto as grandes varejeiras malfazejas as rompem e passam através.”\nSobre esse fragmento textual, assinale a afirmativa correta.",
+  "alternativas": [
+   "A condenação expressa no texto se utiliza de linguagem lógica.",
+   "O autor condena certas leis que não se dirigem a reais problemas da sociedade.",
+   "O fragmento textual acima condena os privilégios de uma classe social sobre outras.",
+   "No segmento “se prendem nelas”, o pronome pessoal “elas” se refere às “simples mosquinhas”.",
+   "Segundo o texto, as leis são como teias de aranha porque servem para prender todos os que cometem crimes."
+  ],
+  "gabarito": 2,
+  "comentario": "A comparação mostra que as leis prendem os pequenos (mosquinhas, borboletas) e são rompidas pelos grandes (varejeiras malfazejas), isto é, condena o privilégio dos poderosos sobre os mais fracos (C). A linguagem é figurada, não lógica (A); não se fala de leis desligadas dos problemas sociais (B); “nelas” retoma “teias de aranha”, não as mosquinhas (D); e o texto afirma justamente que as leis NÃO prendem todos (E).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mpes-2026-psi-4",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-ES",
+   "ano": 2026,
+   "cargo": "Agente Técnico – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/agente-tecnico-psicologo-cns129-tipo-1.pdf"
+  },
+  "enunciado": "As frases a seguir têm as leis como tema; assinale a frase que mostra uma visão positiva das leis.",
+  "alternativas": [
+   "Em meio às armas, calam-se as leis.",
+   "Existem leis, mas não quem as proveja.",
+   "O mais corrupto dos Estados tem o maior número de leis.",
+   "A quem poderá ser aprazível uma cidade, se não lhe agradam as leis?",
+   "A lei é a razão humana, enquanto governa todos os povos da Terra."
+  ],
+  "gabarito": 4,
+  "comentario": "Em (E), a lei é identificada com a razão humana que governa os povos — visão claramente positiva. As demais são críticas ou negativas: as leis calam diante da força (A), faltam quem as faça cumprir (B), o excesso de leis indica corrupção (C) e (D) fala do desagrado com as leis, sem exaltá-las.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mpes-2026-psi-5",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-ES",
+   "ano": 2026,
+   "cargo": "Agente Técnico – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/agente-tecnico-psicologo-cns129-tipo-1.pdf"
+  },
+  "enunciado": "Leia o texto a seguir.\n“Não devemos fazer da lei um espantalho / Armado para assustar a aves de rapina, / Mas deixado sempre estático, de modo que com o hábito / Ele não seja mais o terror delas, e sim o seu poleiro.”\nShakespeare, William. Medida por Medida (Ato 2, Cena 1).\nA afirmação correta sobre as leis, que está implícita no texto, é que elas devem",
+  "alternativas": [
+   "proteger a todos.",
+   "modificar-se conforme as circunstâncias.",
+   "funcionar, devido ao medo que provocam.",
+   "ser amplamente divulgadas entre os cidadãos.",
+   "ajudar a todos em sua tarefa de obter alimentação."
+  ],
+  "gabarito": 0,
+  "comentario": "Para a banca, a ideia implícita é que as leis devem proteger a todos: a lei-espantalho existe para afastar as “aves de rapina” (os predadores, os poderosos); se ficar parada, sem aplicação, deixa de assustá-las e vira o “poleiro” delas, servindo aos predadores em vez de proteger os demais. (B) é tentadora, mas “estático” refere-se à falta de aplicação efetiva, não à mudança do conteúdo das leis; (C) contraria o texto, que mostra que o medo se perde com o hábito; (D) e (E) não têm apoio no texto.",
+  "dificuldade": 3,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mpes-2026-psi-6",
+  "disciplina": "portugues",
+  "assunto": "pt-semantica",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-ES",
+   "ano": 2026,
+   "cargo": "Agente Técnico – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/agente-tecnico-psicologo-cns129-tipo-1.pdf"
+  },
+  "enunciado": "Uma das marcas de um bom texto é a utilização de palavras em seu sentido adequado; assinale a opção em que a palavra sublinhada está adequadamente empregada.",
+  "alternativas": [
+   "As leis [cumpridas] são difíceis de entender.",
+   "É uma autoridade [eminente] e por isso ninguém o respeita.",
+   "A lei tem dois e [apenas] dois fundamentos: a equidade e a utilidade.",
+   "As leis são sempre úteis aos que [possuem] posses e nocivas aos que nada têm.",
+   "Quando vou a um país, não examino se [tem] boas leis, mas se as que lá existem são executadas."
+  ],
+  "gabarito": 2,
+  "comentario": "Em (C), “apenas” (somente) está adequado e reforça “dois e apenas dois”. Nas demais há impropriedade: “cumpridas” deveria ser “compridas” (extensas), parônimo (A); “eminente” (ilustre) contradiz “ninguém o respeita” (B); “possuem posses” é redundante (D); e, em (E), segundo a banca, o verbo “ter” foi usado de forma inadequada, com valor de “haver/existir” (o adequado seria “se há boas leis”).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mpes-2026-psi-7",
+  "disciplina": "portugues",
+  "assunto": "pt-pontuacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-ES",
+   "ano": 2026,
+   "cargo": "Agente Técnico – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/agente-tecnico-psicologo-cns129-tipo-1.pdf"
+  },
+  "enunciado": "Assinale a opção que indica a frase que está rigorosamente dentro dos modelos da norma culta.",
+  "alternativas": [
+   "Todos os convidados vestiam trajes à rigor.",
+   "Os policiais estavam cara a cara com os delinquentes.",
+   "Os promotores ficaram receiosos ante seus adversários.",
+   "As festas beneficientes nem sempre produzem dinheiro.",
+   "Entreguei a Constituição as advogadas para que ficassem bem-informadas."
+  ],
+  "gabarito": 1,
+  "comentario": "“Cara a cara” não tem crase, pois é locução formada por palavras repetidas (B). Nas outras há desvios: “a rigor” não tem crase (A); “receoso” rege a preposição “de” (receosos de seus adversários) (C); o correto é “beneficentes” (D); e falta a crase em “às advogadas” (entregar algo a alguém + artigo “as”) (E).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mpes-2026-psi-8",
+  "disciplina": "portugues",
+  "assunto": "pt-semantica",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-ES",
+   "ano": 2026,
+   "cargo": "Agente Técnico – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/agente-tecnico-psicologo-cns129-tipo-1.pdf"
+  },
+  "enunciado": "As opções a seguir mostram duas formas corretas de uma mesma frase, à exceção de uma. Assinale-a.",
+  "alternativas": [
+   "Voltamos de Alagoas. / Voltamos das Alagoas.",
+   "Vá até o tribunal e procure o Juiz. / Vá até ao tribunal e procure o Juiz.",
+   "Houve um acidente grave durante o julgamento. / Houve um incidente grave durante o julgamento.",
+   "A Constituição foi criada a 13 de junho de 1888. / A Constituição foi criada em 13 de junho de 1888.",
+   "À exceção de Bernardo, todos estiveram presentes. / Com exceção de Bernardo, todos estiveram presentes."
+  ],
+  "gabarito": 2,
+  "comentario": "“Acidente” (acontecimento casual, desastre) e “incidente” (episódio que interrompe ou perturba o andamento de algo) são parônimos de sentidos diferentes, então as duas frases não são formas da mesma frase (C). Nas demais, as duas variantes são corretas: “de Alagoas/das Alagoas”, “até o/até ao”, “a 13 de junho/em 13 de junho” e “À exceção de/Com exceção de”.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mpes-2026-psi-9",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-ES",
+   "ano": 2026,
+   "cargo": "Agente Técnico – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/agente-tecnico-psicologo-cns129-tipo-1.pdf"
+  },
+  "enunciado": "Leia o segmento a seguir.\n“Agora que expliquei o título, passo a escrever o livro. Antes disso, porém, digamos os motivos que me põem a pena na mão. Vivo só, com um criado. A casa em que moro é própria; fi-la construir de propósito, levado de um desejo tão particular, que me vexa imprimi-lo, mas vá lá.\nUm dia, há bastantes anos, lembrou-me reproduzir no Engenho Novo a casa em que me criei na Rua de Matacavalos, dando-lhe o mesmo aspecto e economia daquela outra, que desapareceu.”\nMachado de Assis. Dom Casmurro. Livraria Garnier. 1ª ed. em 1899.\nSobre a estruturação ou a significação desse texto, assinale a afirmativa incorreta.",
+  "alternativas": [
+   "O segmento inicial “Agora que expliquei o título” se refere a algo já dito anteriormente.",
+   "O pronome “isso”, na expressão “Antes disso” se refere à ação de explicar o título do livro.",
+   "O pronome relativo “que” no segmento “que me põem a pena na mão” se refere ao substantivo “motivos”.",
+   "A frase “Vivo só, com um criado” mudaria de sentido se retirássemos a vírgula.",
+   "O pronome indefinido “outra” e o pronome relativo “que” no segmento “daquela outra, que desapareceu” mostram o mesmo antecedente."
+  ],
+  "gabarito": 1,
+  "comentario": "A afirmativa incorreta é (B): “Antes disso” retoma o que acaba de ser dito — “passo a escrever o livro” —, e não a explicação do título, que já ficou para trás. As demais estão corretas: “Agora que expliquei o título” remete a algo já dito (A); o “que” retoma “motivos” (C); sem a vírgula, “só” passa a ser lido como “somente” (vivo apenas com um criado), mudando o sentido (D); e “outra” e “que” retomam a mesma casa da Rua de Matacavalos (E).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mpes-2026-psi-10",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-ES",
+   "ano": 2026,
+   "cargo": "Agente Técnico – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/agente-tecnico-psicologo-cns129-tipo-1.pdf"
+  },
+  "enunciado": "Os segmentos textuais a seguir foram retirados do romance Dom Casmurro.\nAssinale aquele que exemplifica o modo descritivo de organização discursiva.",
+  "alternativas": [
+   "Agora que expliquei o título, passo a escrever o livro.",
+   "Fiquei tão alegre com esta ideia, que ainda agora me treme a pena na mão.",
+   "Ia entrar na sala de visitas, quando ouvi proferir o meu nome e escondi-me atrás da porta.",
+   "Cumprimentou-se, sentou-se ao pé de mim, falou da lua e dos ministros e acabou recitando-me versos.",
+   "Não consultes dicionários. Casmurro não está aqui no sentido que eles lhe dão, mas no que lhe pôs o vulgo de homem calado e metido consigo."
+  ],
+  "gabarito": 4,
+  "comentario": "O modo descritivo caracteriza seres, objetos ou conceitos: em (E), o narrador caracteriza o sentido de “Casmurro” como “homem calado e metido consigo”. (C) e (D) são narrativas (sequência de ações no tempo); (A) é uma intervenção do narrador sobre a própria escrita; (B) exprime um estado emocional ligado a uma ação.",
+  "dificuldade": 2,
+  "anulada": false
+ }
+]

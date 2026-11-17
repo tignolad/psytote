@@ -1,0 +1,310 @@
+[
+  {
+    "id": "aut-leg-res23-2022-001",
+    "disciplina": "legislacao",
+    "assunto": "leg-res23-2022",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.in.gov.br/en/web/dou/-/resolucao-n-23-de-13-de-outubro-de-2022-437945688"
+    },
+    "enunciado": "Uma psicóloga com inscrição principal no CRP-05 (RJ) e inscrição secundária no CRP-06 (SP) deseja obter o registro de psicóloga especialista. Nos termos da Resolução CFP nº 23/2022, o processamento e a concessão do registro competem",
+    "alternativas": [
+      "ao Conselho Federal de Psicologia, que centraliza todos os registros de especialista.",
+      "ao Conselho Regional de Psicologia de inscrição principal da requerente, no caso, o CRP-05.",
+      "a qualquer dos Conselhos Regionais em que ela tenha inscrição, à sua escolha.",
+      "ao Conselho Regional da região onde ela concluiu o curso de especialização, ouvido o Regional de inscrição principal.",
+      "à Instituição de Ensino Superior que ofertou a especialização, com homologação do CFP."
+    ],
+    "gabarito": 1,
+    "comentario": "O art. 1º, caput e § 2º, da Res. CFP 23/2022 atribui ao Conselho Regional de inscrição principal da(o) requerente o processamento e a concessão do registro de especialista. O CFP atua como instância recursal (art. 6º, § 6º), não como órgão concedente (A); não há livre escolha do Regional (C) nem critério ligado ao local do curso (D) ou à IES (E).",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res23-2022-002",
+    "disciplina": "legislacao",
+    "assunto": "leg-res23-2022",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.in.gov.br/en/web/dou/-/resolucao-n-23-de-13-de-outubro-de-2022-437945688"
+    },
+    "enunciado": "Joana obteve sua inscrição no CRP há um ano e meio, está adimplente e sem penalidades, e acaba de concluir especialização em Psicologia Hospitalar em IES credenciada. Ela pretende requerer imediatamente o registro de especialista. À luz da Resolução CFP nº 23/2022, o pedido",
+    "alternativas": [
+      "pode ser deferido, pois o certificado de especialização dispensa os demais requisitos.",
+      "pode ser deferido, desde que ela apresente três declarações de psicólogas(os) com cinco anos de inscrição.",
+      "deve ser recebido como registro provisório, convertido em definitivo após dois anos.",
+      "ainda não preenche os requisitos, pois deve ter, no mínimo, dois anos de inscrição em CRP e comprovar dois anos de exercício profissional na área ou em área correlata.",
+      "ainda não preenche os requisitos, pois a resolução exige cinco anos de inscrição para qualquer especialidade, contados da data de expedição da Carteira de Identidade Profissional."
+    ],
+    "gabarito": 3,
+    "comentario": "O art. 3º exige inscrição regular em CRP pelo período mínimo de dois anos e pleno gozo dos direitos; além disso, o art. 2º exige, cumulativamente, comprovação de exercício profissional, e o art. 7º, § 6º, fixa o mínimo de dois anos de exercício na área ou em área correlata. O certificado não dispensa esses requisitos (A, B); não existe registro provisório (C); e cinco anos é a exigência para membros da CARPE e declarantes, não para a requerente (E).",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res23-2022-003",
+    "disciplina": "legislacao",
+    "assunto": "leg-res23-2022",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.in.gov.br/en/web/dou/-/resolucao-n-23-de-13-de-outubro-de-2022-437945688"
+    },
+    "enunciado": "De acordo com a Resolução CFP nº 23/2022, na Carteira de Identidade Profissional (CIP) da(o) psicóloga(o) poderão ser registradas",
+    "alternativas": [
+      "até duas especialidades, indicadas pela(o) psicóloga(o) por meio de formulário próprio.",
+      "uma única especialidade, a mais recente obtida.",
+      "até três especialidades, desde que correlatas entre si e comprovadas por certificados distintos.",
+      "todas as especialidades obtidas, sem limite.",
+      "até duas especialidades, escolhidas pelo Plenário do Conselho Regional entre as que a psicóloga comprovar."
+    ],
+    "gabarito": 0,
+    "comentario": "O art. 2º, § 1º, permite o registro de até duas especialidades na CIP, e o § 2º determina que a própria psicóloga indique essas duas especialidades no Formulário 1 do Anexo II. A escolha não cabe ao Plenário (E), e os limites de uma (B), três (C) ou ilimitadas (D) não constam da norma.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res23-2022-004",
+    "disciplina": "legislacao",
+    "assunto": "leg-res23-2022",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.in.gov.br/en/web/dou/-/resolucao-n-23-de-13-de-outubro-de-2022-437945688"
+    },
+    "enunciado": "A Resolução CFP nº 23/2022 reconhece treze áreas de especialidades profissionais da Psicologia. NÃO consta desse rol:",
+    "alternativas": [
+      "Psicomotricidade.",
+      "Psicopedagogia.",
+      "Avaliação Psicológica.",
+      "Neuropsicologia.",
+      "Psicanálise."
+    ],
+    "gabarito": 4,
+    "comentario": "O art. 4º lista: Escolar e Educacional, Organizacional e do Trabalho, Tráfego, Jurídica, Esporte, Clínica, Hospitalar, Psicopedagogia, Psicomotricidade, Social, Neuropsicologia, Psicologia em Saúde e Avaliação Psicológica. Psicanálise não é especialidade reconhecida pelo CFP; Psicomotricidade, Psicopedagogia, Avaliação Psicológica e Neuropsicologia constam expressamente.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res23-2022-005",
+    "disciplina": "legislacao",
+    "assunto": "leg-res23-2022",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.in.gov.br/en/web/dou/-/resolucao-n-23-de-13-de-outubro-de-2022-437945688"
+    },
+    "enunciado": "Um psicólogo possui registro de especialista em Psicologia de Trânsito, obtido sob norma anterior. Segundo a Resolução CFP nº 23/2022,",
+    "alternativas": [
+      "o registro perdeu validade, devendo ser requerido novamente como Psicologia de Tráfego.",
+      "o registro deve ser convertido em Psicologia Social, área que absorveu a antiga especialidade.",
+      "o registro em Psicologia de Trânsito equivale ao de Psicologia de Tráfego.",
+      "o registro permanece válido apenas até o vencimento da CIP.",
+      "o registro equivale ao de Avaliação Psicológica, por envolver perícia."
+    ],
+    "gabarito": 2,
+    "comentario": "O art. 4º, § 2º, estabelece expressamente que o registro de especialista em Psicologia de Trânsito equivale ao de Psicologia de Tráfego. Não há perda de validade (A, D) nem conversão em outra especialidade (B, E).",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res23-2022-006",
+    "disciplina": "legislacao",
+    "assunto": "leg-res23-2022",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.in.gov.br/en/web/dou/-/resolucao-n-23-de-13-de-outubro-de-2022-437945688"
+    },
+    "enunciado": "Sobre a Comissão de Análise para Concessão de Registro de Psicóloga(o) Especialista (CARPE), prevista na Resolução CFP nº 23/2022, é correto afirmar que",
+    "alternativas": [
+      "é composta por, no mínimo, cinco membros efetivos e dois suplentes, e decide em caráter terminativo sobre o registro, cabendo ao Plenário do CRP apenas homologar seu parecer.",
+      "tem no mínimo três membros efetivos e dois suplentes, analisa os requerimentos em caráter consultivo e deve ter ao menos um conselheiro do CRP, que a coordena.",
+      "seus membros devem estar inscritos em CRP há pelo menos dois anos e são remunerados por processo analisado.",
+      "é constituída pelo Conselho Federal de Psicologia, com atuação nacional.",
+      "é coordenada por psicóloga(o) eleita(o) pela categoria, vedada a participação de conselheiras(os)."
+    ],
+    "gabarito": 1,
+    "comentario": "O art. 5º determina que cada CRP constitua a CARPE com, no mínimo, três membros efetivos e dois suplentes, em caráter consultivo; o § 2º exige ao menos um conselheiro do CRP, que a coordena. Os membros devem ter cinco anos de inscrição e o trabalho é honorífico e não remunerado (§§ 1º e 8º), o que afasta C; a decisão é do Plenário (§ 6º), o que afasta A; a comissão é regional (D) e a participação de conselheiro é obrigatória (E).",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res23-2022-007",
+    "disciplina": "legislacao",
+    "assunto": "leg-res23-2022",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.in.gov.br/en/web/dou/-/resolucao-n-23-de-13-de-outubro-de-2022-437945688"
+    },
+    "enunciado": "Protocolado o requerimento de registro de psicóloga(o) especialista com a documentação completa, a Resolução CFP nº 23/2022 estabelece que o Conselho Regional deferirá ou indeferirá o pedido",
+    "alternativas": [
+      "mediante decisão plenária, em até sessenta dias contados da data de protocolo do requerimento.",
+      "mediante decisão da CARPE, em até trinta dias contados do protocolo.",
+      "mediante decisão da Presidência, em até noventa dias contados da análise da CARPE.",
+      "mediante decisão plenária, em até cento e vinte dias contados do parecer da CARPE, prorrogáveis uma vez por igual período.",
+      "mediante decisão da Comissão de Orientação e Fiscalização, sem prazo definido."
+    ],
+    "gabarito": 0,
+    "comentario": "Segundo o art. 6º, § 3º, o CRP deferirá ou indeferirá o registro mediante decisão plenária, em até sessenta dias contados do protocolo. A CARPE apenas emite parecer consultivo (art. 5º, §§ 5º e 6º), e as demais alternativas trocam o órgão decisor ou o prazo e seu termo inicial.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res23-2022-008",
+    "disciplina": "legislacao",
+    "assunto": "leg-res23-2022",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.in.gov.br/en/web/dou/-/resolucao-n-23-de-13-de-outubro-de-2022-437945688"
+    },
+    "enunciado": "Ao examinar um requerimento de registro de especialista, a CARPE verifica que falta o histórico escolar do curso de especialização. Conforme a Resolução CFP nº 23/2022, a CARPE",
+    "alternativas": [
+      "deve emitir de imediato parecer pelo indeferimento, cabendo à requerente apresentar novo pedido.",
+      "deve arquivar o pedido, que poderá ser reaberto a qualquer tempo, sem prazo.",
+      "pode suprir a falha consultando diretamente a IES, dispensada a requerente de qualquer providência.",
+      "solicitará à requerente, em comunicação registrada, a regularização da documentação no prazo de trinta dias corridos, sob pena de indeferimento.",
+      "solicitará à requerente a regularização no prazo de quinze dias úteis, sob pena de arquivamento definitivo do pedido, vedada a apresentação de novo requerimento no mesmo ano."
+    ],
+    "gabarito": 3,
+    "comentario": "O art. 5º, § 7º, determina que, estando incompleta a documentação, a CARPE solicite, em comunicação registrada, a regularização no prazo de trinta dias corridos, sob pena de indeferimento. Não há indeferimento imediato (A), arquivamento sem prazo (B), suprimento de ofício (C) nem prazo de quinze dias úteis (E).",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res23-2022-009",
+    "disciplina": "legislacao",
+    "assunto": "leg-res23-2022",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.in.gov.br/en/web/dou/-/resolucao-n-23-de-13-de-outubro-de-2022-437945688"
+    },
+    "enunciado": "Uma psicóloga teve indeferido, por decisão plenária do CRP, o seu pedido de registro de especialista. Segundo a Resolução CFP nº 23/2022, a requerente pode",
+    "alternativas": [
+      "interpor recurso à própria CARPE, em até quinze dias úteis da comunicação.",
+      "pedir reconsideração ao Plenário do CRP, cuja decisão é irrecorrível.",
+      "recorrer ao CFP, mediante o Formulário 3 do Anexo II, protocolado e assinado, em até trinta dias corridos da comunicação do indeferimento.",
+      "recorrer ao Conselho Federal de Psicologia em até sessenta dias úteis, diretamente pelo sistema do CFP, sem passar pelo Regional, que só é notificado após o julgamento do recurso.",
+      "ajuizar recurso administrativo no Ministério da Educação, órgão que credencia as instituições de ensino."
+    ],
+    "gabarito": 2,
+    "comentario": "O art. 6º, § 6º, prevê recurso ao CFP, por meio do Formulário 3 do Anexo II, protocolado e assinado pela(o) requerente, em até trinta dias corridos da comunicação do indeferimento; o CRP então remete o processo ao CFP (§ 7º). Não há recurso à CARPE (A), a decisão do CRP é recorrível (B), o prazo não é de sessenta dias e o processo passa pelo Regional (D), e o MEC não tem essa competência (E).",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res23-2022-010",
+    "disciplina": "legislacao",
+    "assunto": "leg-res23-2022",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.in.gov.br/en/web/dou/-/resolucao-n-23-de-13-de-outubro-de-2022-437945688"
+    },
+    "enunciado": "Na modalidade laboral de autônoma(o), a Resolução CFP nº 23/2022 exige que a(o) requerente comprove o exercício profissional apresentando documentos de, ao menos, três itens de um rol. Entre esses itens está",
+    "alternativas": [
+      "uma declaração de qualquer psicóloga(o) com inscrição ativa, independentemente do tempo de inscrição.",
+      "declaração de vinculação a sociedade científica, associativa ou formativa legalmente estabelecida há, ao menos, dois anos, com indicação do período de vínculo e da área de atuação da(o) requerente.",
+      "uma única declaração ou cópia contratual de consultoria realizada em área correlata.",
+      "certificado de participação em congressos da área da especialidade requerida.",
+      "três declarações de psicólogas(os) inscritas(os) nos CRPs há, pelo menos, cinco anos, atestando o exercício na área da especialidade, com inscrição, CPF e endereço completo das(os) declarantes."
+    ],
+    "gabarito": 4,
+    "comentario": "O art. 7º, § 1º, II, prevê três declarações de psicólogas(os) inscritas(os) há pelo menos cinco anos, com inscrição, CPF e endereço completo. As alternativas A, B e C alteram detalhes de itens reais (número de declarações, tempo de inscrição, tempo de existência da sociedade — que é de cinco anos — e número de consultorias — que são duas, inciso IV); certificados de congresso (D) não integram o rol.",
+    "dificuldade": 3,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res23-2022-011",
+    "disciplina": "legislacao",
+    "assunto": "leg-res23-2022",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.in.gov.br/en/web/dou/-/resolucao-n-23-de-13-de-outubro-de-2022-437945688"
+    },
+    "enunciado": "Pedro trabalhou um ano como psicólogo celetista em uma empresa e, depois, um ano como psicólogo autônomo, sempre na área de Psicologia Organizacional e do Trabalho. Quanto ao tempo mínimo de exercício exigido pela Resolução CFP nº 23/2022 para o registro de especialista, é correto afirmar que",
+    "alternativas": [
+      "ele não o atinge, pois os dois anos devem ser cumpridos em uma única modalidade laboral.",
+      "ele o atinge, pois a resolução exige no mínimo dois anos na área ou em área correlata e permite somar o tempo exercido em qualquer das modalidades laborais.",
+      "ele não o atinge, pois a resolução exige no mínimo três anos de exercício profissional.",
+      "ele o atinge, mas apenas o período celetista pode ser computado, por exigir documentação do empregador, devendo o ano autônomo ser comprovado por concurso de provas e títulos.",
+      "a resolução não exige tempo mínimo de exercício quando há certificado de especialização."
+    ],
+    "gabarito": 1,
+    "comentario": "O art. 7º, § 6º, exige no mínimo dois anos de exercício profissional na área da especialidade ou em área correlata, e o § 7º permite computar a soma do tempo exercido em qualquer das modalidades laborais. Por isso, um ano como empregado somado a um ano como autônomo atende ao requisito; as demais alternativas contrariam esses dispositivos.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res23-2022-012",
+    "disciplina": "legislacao",
+    "assunto": "leg-res23-2022",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.in.gov.br/en/web/dou/-/resolucao-n-23-de-13-de-outubro-de-2022-437945688"
+    },
+    "enunciado": "Uma clínica condiciona a contratação de psicólogas(os) para psicoterapia ao registro de especialista em Psicologia Clínica no CRP, alegando que, sem ele, a(o) profissional não pode exercer a atividade. Segundo a Resolução CFP nº 23/2022, o registro de psicóloga(o) especialista",
+    "alternativas": [
+      "é condição obrigatória para o exercício da psicoterapia.",
+      "é condição obrigatória para o exercício em todas as treze especialidades reconhecidas.",
+      "habilita a(o) psicóloga(o) a atividades privativas vedadas às(aos) não especialistas, como a emissão de laudos e a psicoterapia em sua área de especialidade.",
+      "atesta a experiência profissional na área de especialidade reconhecida pelo CFP e não constitui condição obrigatória para o exercício profissional.",
+      "tem validade de cinco anos, devendo ser renovado para manter o exercício profissional."
+    ],
+    "gabarito": 3,
+    "comentario": "O art. 13 da Res. CFP 23/2022 dispõe que o registro de especialista atesta a experiência profissional na área reconhecida pelo CFP e não constitui condição obrigatória para o exercício profissional. Por isso, as alternativas A, B e C contrariam a norma, e a resolução não prevê prazo de validade para o registro (E). Exigências de outros órgãos para contextos específicos (como o credenciamento em Detran) decorrem de normas externas, não da Res. 23/2022.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res23-2022-013",
+    "disciplina": "legislacao",
+    "assunto": "leg-res23-2022",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.in.gov.br/en/web/dou/-/resolucao-n-23-de-13-de-outubro-de-2022-437945688"
+    },
+    "enunciado": "A Resolução CFP nº 23/2022 entrou em vigor em 2 de janeiro de 2023 e revogou a Resolução CFP nº 13/2007. Quanto à psicóloga que já cumpria os requisitos da Resolução CFP nº 13/2007 até a entrada em vigor da nova norma, é correto afirmar que",
+    "alternativas": [
+      "perdeu o direito ao registro, devendo atender integralmente aos novos requisitos.",
+      "pode requerer o registro apenas até 31 de dezembro de 2023, prazo de transição fixado pela resolução.",
+      "tem assegurado o direito ao registro de sua especialidade.",
+      "tem assegurado o direito ao registro, desde que aprovada em concurso de especialista do CFP.",
+      "tem assegurado o direito ao registro somente nas especialidades criadas após 2007."
+    ],
+    "gabarito": 2,
+    "comentario": "O art. 12 assegura o direito ao registro de sua especialidade à(ao) psicóloga(o) que cumprir os requisitos da Res. CFP 13/2007 até a entrada em vigor da Res. 23/2022 (02/01/2023, conforme art. 15). A norma não extingue o direito (A), não fixa prazo final de transição (B) nem impõe concurso (D) ou restrição de especialidades (E).",
+    "dificuldade": 3,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res23-2022-014",
+    "disciplina": "legislacao",
+    "assunto": "leg-res23-2022",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.in.gov.br/en/web/dou/-/resolucao-n-23-de-13-de-outubro-de-2022-437945688"
+    },
+    "enunciado": "Uma psicóloga foi aprovada no concurso de provas e títulos para obtenção do registro de especialista promovido pelo Conselho Federal de Psicologia. Segundo a Resolução CFP nº 23/2022, ela",
+    "alternativas": [
+      "poderá iniciar o processo de registro após a homologação do resultado final, anexando-a ao requerimento com os documentos comprobatórios do exercício profissional de sua modalidade laboral.",
+      "recebe o registro automaticamente do CFP, sem necessidade de requerimento ao Conselho Regional.",
+      "pode iniciar o processo logo após a divulgação do resultado preliminar, dispensada a comprovação de exercício profissional, já que a aprovação no concurso supre esse requisito perante o Regional.",
+      "deve requerer o registro diretamente ao CFP, que o anotará na CIP.",
+      "fica dispensada de estar em pleno gozo de seus direitos perante o CRP."
+    ],
+    "gabarito": 0,
+    "comentario": "O art. 11, §§ 1º e 2º, dispõe que o processo pode ser iniciado após a homologação do resultado final do concurso, cuja homologação deve ser anexada ao requerimento junto com os documentos do art. 7º, conforme a modalidade laboral. O processo começa no CRP de inscrição principal (art. 6º), e não no CFP (B, D); a comprovação de exercício (art. 2º, I) e o pleno gozo de direitos (art. 3º) continuam exigidos (C, E).",
+    "dificuldade": 2,
+    "anulada": false
+  }
+]

@@ -1,0 +1,127 @@
+[
+ {
+  "id": "fgv-cvm-2024-ana-36",
+  "disciplina": "rlm",
+  "assunto": "rlm-proposicoes",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "CVM",
+   "ano": 2024,
+   "cargo": "Analista CVM – Perfil 4",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/manha-analista-cvm-perfil-4-mercado-de-capitaisperfil-4-tipo-1.pdf"
+  },
+  "enunciado": "Considere a sentença:\nSe x ≤ y, então x + 2y < 5.\nEssa sentença é FALSA quando:",
+  "alternativas": [
+   "x = 3 e y = 2;",
+   "x = 2 e y = 2;",
+   "x = 2 e y = 1;",
+   "x = 1 e y = 1;",
+   "x = 0 e y = 2."
+  ],
+  "gabarito": 1,
+  "comentario": "Uma condicional só é falsa quando o antecedente é verdadeiro e o consequente é falso: x ≤ y e x + 2y ≥ 5. Em B, 2 ≤ 2 é verdadeiro e 2 + 4 = 6 não é menor que 5, logo a sentença é falsa. Em A e C o antecedente é falso (3 > 2; 2 > 1), o que torna a condicional verdadeira; em D (1 + 2 = 3) e E (0 + 4 = 4) o consequente é verdadeiro.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-cvm-2024-ana-37",
+  "disciplina": "rlm",
+  "assunto": "rlm-problemas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "CVM",
+   "ano": 2024,
+   "cargo": "Analista CVM – Perfil 4",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/manha-analista-cvm-perfil-4-mercado-de-capitaisperfil-4-tipo-1.pdf"
+  },
+  "enunciado": "Considere um dado cúbico com as faces numeradas de 1 a 6, mas de modo tal que, a cada vez que é lançado, a probabilidade de sair um número par é 2/3.\nApós ser lançado em sequência 5 vezes e em todas elas ter saído um número par, esse dado é lançado em sequência mais 3 vezes.\nA probabilidade de, nesses 3 últimos lançamentos, terem saído 3 números ímpares é:",
+  "alternativas": [
+   "1/27;",
+   "1/9;",
+   "5/27;",
+   "5/9;",
+   "8/27."
+  ],
+  "gabarito": 0,
+  "comentario": "Os lançamentos são independentes: os 5 pares anteriores não alteram as probabilidades seguintes (o dado não tem “memória”). Em cada lançamento, P(ímpar) = 1 − 2/3 = 1/3. Logo, P(3 ímpares) = (1/3)³ = 1/27. A alternativa E, 8/27, seria a probabilidade de 3 pares.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-cvm-2024-ana-38",
+  "disciplina": "rlm",
+  "assunto": "rlm-proporcao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "CVM",
+   "ano": 2024,
+   "cargo": "Analista CVM – Perfil 4",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/manha-analista-cvm-perfil-4-mercado-de-capitaisperfil-4-tipo-1.pdf"
+  },
+  "enunciado": "Três amigas, Anita, Bebel e Carla, foram jantar juntas. Sabe-se que Anita consumiu, em reais, o dobro do que Carla. Carla, por sua vez, consumiu o equivalente a 60% da quantia consumida por Bebel. Na hora de pagar, as três resolveram dividir a conta igualmente pelas três.\nÉ correto concluir que:",
+  "alternativas": [
+   "Anita pagou 4/9 a menos do que consumiu;",
+   "Bebel pagou 1/9 a mais do que consumiu;",
+   "Carla pagou 5/9 a mais do que consumiu;",
+   "Anita pagou 1/15 a menos do que consumiu;",
+   "Bebel pagou 4/15 a menos do que consumiu."
+  ],
+  "gabarito": 2,
+  "comentario": "Tome Bebel = 15. Então Carla = 0,6 × 15 = 9 e Anita = 2 × 9 = 18; total = 42 e cada uma paga 14. Carla pagou 14 − 9 = 5 a mais, ou seja, 5/9 do que consumiu (C). Anita pagou 4 a menos, 4/18 = 2/9 (não 4/9 nem 1/15); Bebel pagou 1 a menos, 1/15 do que consumiu (não 1/9 a mais nem 4/15).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-cvm-2024-ana-39",
+  "disciplina": "rlm",
+  "assunto": "rlm-numeros",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "CVM",
+   "ano": 2024,
+   "cargo": "Analista CVM – Perfil 4",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/manha-analista-cvm-perfil-4-mercado-de-capitaisperfil-4-tipo-1.pdf"
+  },
+  "enunciado": "Em um mercado atacadista, cada saco de ração para aves custa 25 reais. Certa semana, o mercado anunciou uma promoção para compras dessa ração:\n“40% de desconto no que exceder 3 sacos”\nUm fazendeiro comprou 10 sacos dessa ração.\nO fazendeiro pagou o total de:",
+  "alternativas": [
+   "150 reais;",
+   "175 reais;",
+   "180 reais;",
+   "195 reais;",
+   "220 reais."
+  ],
+  "gabarito": 2,
+  "comentario": "Os 3 primeiros sacos saem a preço cheio: 3 × 25 = 75 reais. Os 7 que excedem têm 40% de desconto: 25 × 0,6 = 15 reais cada, 7 × 15 = 105 reais. Total: 75 + 105 = 180 reais. Aplicar 40% sobre os 10 sacos daria 150 reais (A), o que ignora a regra do excedente.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-cvm-2024-ana-40",
+  "disciplina": "rlm",
+  "assunto": "rlm-relacoes",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "CVM",
+   "ano": 2024,
+   "cargo": "Analista CVM – Perfil 4",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/manha-analista-cvm-perfil-4-mercado-de-capitaisperfil-4-tipo-1.pdf"
+  },
+  "enunciado": "Alberto, Bernardo e Cláudio têm idades diferentes e vestem camisetas de cores diferentes. Um está com camiseta branca, outro com camiseta verde e um terceiro com camiseta azul.\nSabe-se que:\n• quem veste camiseta branca é o mais velho;\n• Alberto não está com camiseta branca;\n• Bernardo é mais jovem que Alberto e não está com camiseta azul.\nÉ correto concluir que:",
+  "alternativas": [
+   "Alberto é o mais velho dos três;",
+   "Bernardo está com camiseta verde;",
+   "Cláudio está com camiseta azul;",
+   "Alberto está com camiseta verde;",
+   "Cláudio é o mais jovem dos três."
+  ],
+  "gabarito": 1,
+  "comentario": "Bernardo é mais jovem que Alberto, então não é o mais velho e não veste branca; como também não veste azul, Bernardo veste verde (B). Alberto não veste branca, logo quem veste branca é Cláudio, que é o mais velho; sobra a azul para Alberto. Assim, A, C, D e E são falsas (Cláudio é o mais velho e veste branca; Alberto veste azul).",
+  "dificuldade": 1,
+  "anulada": false
+ }
+]

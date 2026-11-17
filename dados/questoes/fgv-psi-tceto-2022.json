@@ -1,0 +1,982 @@
+[
+ {
+  "id": "fgv-tceto-2022-psi-36",
+  "disciplina": "especificos",
+  "assunto": "esp-trabalho",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TCE-TO",
+   "ano": 2022,
+   "cargo": "Analista Técnico – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_tecnico_-_psicologiaanapsicolo_tipo_1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tceto2022_gabarito_definitivo_164151578464.pdf",
+   "questao_original": 36,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "O assédio moral no ambiente de trabalho pode provocar severos danos à saúde física e mental, incapacitando a pessoa para o exercício das atividades laborais. Sobre essa prática, analise as afirmativas a seguir.\nI. Trata-se de conduta abusiva que, de forma repetitiva e intencional, atinge a integridade psíquica da pessoa, ameaçando seu emprego ou degradando o clima de trabalho.\nII. O assédio moral horizontal é a conduta adotada por superior hierárquico visando desqualificar, humilhar e constranger o subordinado, atacando sua dignidade.\nIII. Atribuir à pessoa proposital e sistematicamente tarefas inferiores às suas competências ou mantê-la isolada e sem comunicação são exemplos de atitudes de assédio moral no trabalho.\nEstá correto o que se afirma em:",
+  "alternativas": [
+   "somente I;",
+   "somente I e II;",
+   "somente I e III;",
+   "somente II e III;",
+   "I, II e III."
+  ],
+  "gabarito": 2,
+  "comentario": "O item I traz a definição clássica de assédio moral (Hirigoyen): conduta abusiva, repetitiva e intencional, que atinge a dignidade e a integridade psíquica da pessoa, ameaça seu emprego ou degrada o clima de trabalho. O item III dá exemplos típicos, como atribuir sistematicamente tarefas inferiores às competências e isolar a pessoa. O item II erra ao chamar de horizontal o assédio praticado por superior contra subordinado. Esse é o assédio vertical descendente, e o horizontal ocorre entre colegas do mesmo nível hierárquico.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tceto-2022-psi-37",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TCE-TO",
+   "ano": 2022,
+   "cargo": "Analista Técnico – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_tecnico_-_psicologiaanapsicolo_tipo_1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tceto2022_gabarito_definitivo_164151578464.pdf",
+   "questao_original": 37,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Antes de sair de casa, Claudia verifica repetidas vezes se apagou todas as luzes e se deixou a televisão ligada. A dúvida já fez com que ela saísse do trabalho e voltasse em casa para verificar tudo. Sobre essa condição, é correto afirmar que:",
+  "alternativas": [
+   "as obsessões são comportamentos repetidos e persistentes realizados em resposta a pensamentos compulsivos;",
+   "as compulsões são estratégias bem-sucedidas em prevenir ou aliviar o sofrimento causado pelas obsessões;",
+   "as obsessões são recorrentes e experienciadas como intrusivas e indesejadas, provocando grande ansiedade;",
+   "lavar as mãos repetidamente e enfileirar objetos segundo critérios rígidos são exemplos de tricotilomanias;",
+   "o transtorno obsessivo-compulsivo é classificado no DSM-V como um transtorno de humor do tipo depressivo."
+  ],
+  "gabarito": 2,
+  "comentario": "Claudia apresenta dúvidas obsessivas e verificações compulsivas, um quadro de TOC. Pelo DSM-5, obsessões são pensamentos, impulsos ou imagens recorrentes e persistentes, vividos como intrusivos e indesejados, que causam ansiedade ou sofrimento acentuados (C). A erra ao inverter os conceitos, pois os comportamentos repetitivos são as compulsões. B erra porque as compulsões aliviam apenas momentaneamente e acabam mantendo o ciclo. Tricotilomania é o arrancar de cabelos (D). No DSM-5, o TOC tem capítulo próprio, separado dos transtornos do humor (E).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tceto-2022-psi-38",
+  "disciplina": "especificos",
+  "assunto": "esp-praticas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TCE-TO",
+   "ano": 2022,
+   "cargo": "Analista Técnico – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_tecnico_-_psicologiaanapsicolo_tipo_1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tceto2022_gabarito_definitivo_164151578464.pdf",
+   "questao_original": 38,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Jorge relatou ao psicólogo Luiz que havia marcado a consulta com ele a pedido da esposa Lúcia, mas tinha dúvidas quanto a precisar de um tratamento para alcoolismo. Jorge admitiu que vinha abusando do uísque mas justificou que atravessava uma fase de estresse na empresa e precisava relaxar ao chegar em casa. Considerando a teoria e a técnica da entrevista motivacional, é correto afirmar que:",
+  "alternativas": [
+   "Luiz deverá persuadir Jorge a buscar a abstinência de álcool como condição prévia para dar início ao tratamento psicoterápico;",
+   "a atitude de Jorge de negação de sua dependência alcoólica contraindica a adoção da técnica de entrevista motivacional;",
+   "Jorge se encontra no estágio de manutenção do comportamento adicto, e o psicólogo precisará deixar a pré-contemplação do problema e agir;",
+   "Jorge está na fase da contemplação, na qual se mostra ambivalente quanto a tomar a decisão de empreender uma mudança;",
+   "Luiz adotará a escuta empática para confrontar Jorge com sua resistência em abandonar o uso do álcool como fuga dos problemas."
+  ],
+  "gabarito": 3,
+  "comentario": "Jorge reconhece que abusa do uísque, mas ainda tem dúvidas sobre precisar de tratamento. Esse reconhecimento com ambivalência é característico do estágio de contemplação do modelo transteórico (Prochaska e DiClemente), usado na entrevista motivacional (D). A entrevista motivacional evita persuadir, confrontar ou impor abstinência como condição prévia (A e E). Ela é justamente indicada para trabalhar a ambivalência e a resistência, e não contraindicada (B). C confunde os estágios de manutenção e pré-contemplação.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tceto-2022-psi-39",
+  "disciplina": "especificos",
+  "assunto": "esp-praticas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TCE-TO",
+   "ano": 2022,
+   "cargo": "Analista Técnico – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_tecnico_-_psicologiaanapsicolo_tipo_1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tceto2022_gabarito_definitivo_164151578464.pdf",
+   "questao_original": 39,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "A promoção funcional de Paula depende da apresentação dos resultados de seu trabalho de pesquisa para uma plateia formada por seus chefes e por especialistas convidados. Paula sofre de fobia social e sempre evita falar em público. Ela antecipa que ficará ruborizada, parecerá boba, esquecerá o que tem que apresentar e receberá uma avaliação negativa. As técnicas da terapia cognitivo-comportamental que podem ser utilizadas nesse caso incluem:",
+  "alternativas": [
+   "dessensibilização sistemática por meio da exposição da paciente a situações hierarquicamente organizadas, partindo das mais temidas às menos ansiogênicas;",
+   "manejo de estresse e relaxamento para ensinar a paciente a adotar rituais e ações mentais de controle quando surgirem pensamentos fóbicos;",
+   "treino de habilidades sociais para fornecer à paciente um repertório de comportamentos pessoais e sociais de congelamento, luta e fuga;",
+   "reestruturação cognitiva para identificação, questionamento e modificação dos pensamentos disfuncionais negativos que geram e mantêm a ansiedade fóbica;",
+   "análise das experiências traumáticas infantis que estão na origem do comportamento evitativo e da inibição social precoce da paciente."
+  ],
+  "gabarito": 3,
+  "comentario": "Na fobia social, a reestruturação cognitiva identifica, questiona e modifica os pensamentos automáticos negativos que geram e mantêm a ansiedade, como 'vou ficar ruborizada' e 'vão me avaliar mal' (D). A erra porque a exposição hierárquica começa pelas situações menos temidas e avança para as mais temidas. B erra porque o objetivo não é ensinar rituais de controle, que funcionam como comportamentos de segurança. C erra porque o treino de habilidades sociais não visa reações de congelamento, luta e fuga. A análise de traumas infantis (E) é foco das abordagens psicodinâmicas.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tceto-2022-psi-40",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TCE-TO",
+   "ano": 2022,
+   "cargo": "Analista Técnico – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_tecnico_-_psicologiaanapsicolo_tipo_1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tceto2022_gabarito_definitivo_164151578464.pdf",
+   "questao_original": 40,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "O consumo do crack tornou-se um problema de saúde pública e de segurança que afeta o Brasil como um todo. O conjunto de políticas e programas estruturados com o propósito de diminuir as consequências adversas do uso de crack, do ponto de vista sanitário, social e econômico é uma estratégia de:",
+  "alternativas": [
+   "promoção da abstinência;",
+   "evitação de recaídas;",
+   "prevenção ao uso recreativo de drogas;",
+   "controle da tolerância;",
+   "redução de danos."
+  ],
+  "gabarito": 4,
+  "comentario": "A redução de danos é o conjunto de políticas e práticas que buscam diminuir as consequências sanitárias, sociais e econômicas do uso de drogas, sem exigir abstinência como condição para o cuidado (E). No Brasil, é uma diretriz da atenção psicossocial no SUS. Promoção da abstinência (A) e prevenção de recaídas (B) são outros objetivos de tratamento. 'Controle da tolerância' (D) não designa uma política pública.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tceto-2022-psi-41",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TCE-TO",
+   "ano": 2022,
+   "cargo": "Analista Técnico – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_tecnico_-_psicologiaanapsicolo_tipo_1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tceto2022_gabarito_definitivo_164151578464.pdf",
+   "questao_original": 41,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Paulo e Diana são casados há dez anos. Nina, filha de Diana de 13 anos, dá a Paulo o tratamento de pai e Paulo quer reconhecê-la formalmente como filha. Esse procedimento é conhecido como:",
+  "alternativas": [
+   "família mosaico;",
+   "adoção intrafamiliar;",
+   "investigação de paternidade;",
+   "paternidade socioafetiva;",
+   "guarda compartilhada."
+  ],
+  "gabarito": 3,
+  "comentario": "O reconhecimento formal de um vínculo de filiação baseado no afeto e na convivência, e não na biologia, é a paternidade socioafetiva (D). Ela pode ser reconhecida diretamente em cartório ou judicialmente, conforme as normas aplicáveis. 'Família mosaico' (A) designa o tipo de família reconstituída, e não o procedimento. A investigação de paternidade (C) busca o vínculo biológico. A guarda compartilhada (E) diz respeito ao exercício do poder familiar entre genitores. A adoção (B) seria outro instituto, que rompe vínculos de filiação anteriores, e não o reconhecimento de um vínculo afetivo já existente.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tceto-2022-psi-42",
+  "disciplina": "especificos",
+  "assunto": "esp-direitos-humanos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TCE-TO",
+   "ano": 2022,
+   "cargo": "Analista Técnico – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_tecnico_-_psicologiaanapsicolo_tipo_1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tceto2022_gabarito_definitivo_164151578464.pdf",
+   "questao_original": 42,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Uma psicóloga que oferecia uma terapia de reorientação sexual, a chamada “cura gay”, teve o registro cassado pelo Conselho Federal de Psicologia (CFP). Sobre esse fato, em consonância com o entendimento da Resolução CFP nº 01/1999, é correto afirmar que:",
+  "alternativas": [
+   "o termo homossexualidade foi substituído por homossexualismo a fim de indicar que não se trata de distúrbio psíquico ou perversão;",
+   "a forma como cada um vive sua sexualidade faz parte da identidade do sujeito, que deve ser compreendida em sua totalidade;",
+   "fica vedada a prestação de atendimento psicoterápico a pessoa cuja identidade de gênero se situe fora dos padrões heteronormativos;",
+   "psicólogos(as) não se pronunciarão nos meios de comunicação de massa a respeito da estigmatização de práticas homoeróticas;",
+   "práticas sexuais desviantes da norma estabelecida socioculturalmente deverão ser patologizadas para receberem o tratamento cabível."
+  ],
+  "gabarito": 1,
+  "comentario": "A Resolução CFP nº 01/1999 parte do entendimento de que a homossexualidade não é doença, distúrbio nem perversão, e de que a forma como cada um vive sua sexualidade faz parte da identidade do sujeito, a ser compreendida em sua totalidade (B). Ela proíbe a patologização de práticas homoeróticas e a oferta de tratamento ou 'cura' (E é o oposto da norma). A inverte os termos, porque o sufixo '-ismo' (homossexualismo) é que remetia a doença. A resolução não proíbe atender pessoas LGBTQIA+ (C) e veda que psicólogos reforcem preconceitos na mídia, em vez de proibi-los de falar sobre o tema (D).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tceto-2022-psi-43",
+  "disciplina": "legislacao",
+  "assunto": "leg-lei13140",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TCE-TO",
+   "ano": 2022,
+   "cargo": "Analista Técnico – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_tecnico_-_psicologiaanapsicolo_tipo_1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tceto2022_gabarito_definitivo_164151578464.pdf",
+   "questao_original": 43,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Os irmãos Jorge e Estela estão brigando por conta da situação da mãe senil, que não pode mais morar sozinha. Jorge se dispõe a pagar uma casa de repouso, mas Estela afirma que isso é abandono familiar e quer que ambos se revezem cuidando da idosa em suas respectivas casas. No caso em tela, o mediador de conflitos buscará:",
+  "alternativas": [
+   "decidir o desentendimento com foco no melhor interesse da idosa;",
+   "identificar qual dos dois irmãos tem razão na controvérsia;",
+   "intermediar o diálogo para a busca de uma solução consensual;",
+   "orientar e encaminhar as partes para a autocomposição judicial;",
+   "ouvir cada irmão separadamente para prevenir novos confrontos."
+  ],
+  "gabarito": 2,
+  "comentario": "Na mediação, o terceiro imparcial não decide nem julga quem tem razão. Ele facilita a comunicação entre as partes para que elas mesmas construam uma solução consensual (C). Decidir (A) ou apontar quem está certo (B) são funções de quem julga. O mediador não tem como objetivo encaminhar as partes à autocomposição judicial (D). Ouvir separadamente cada parte (E) pode ocorrer em sessões privadas, mas não é a finalidade da mediação.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tceto-2022-psi-44",
+  "disciplina": "legislacao",
+  "assunto": "leg-res06-2019",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TCE-TO",
+   "ano": 2022,
+   "cargo": "Analista Técnico – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_tecnico_-_psicologiaanapsicolo_tipo_1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tceto2022_gabarito_definitivo_164151578464.pdf",
+   "questao_original": 44,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "A loja em que Thaís trabalha foi assaltada e ela ficou sob a mira das armas dos criminosos. Muito abalada, Thaís procurou um psicólogo e pediu uma licença do trabalho. De acordo com a Resolução CFP nº 06/2019, o psicólogo poderá fornecer um(a):",
+  "alternativas": [
+   "atestado descrevendo as condições psicológicas de Thaís que a incapacitam para o trabalho nesse momento;",
+   "declaração informando o diagnóstico psicológico de Thaís e recomendando seu afastamento;",
+   "relatório psicológico da situação vivenciada por Thaís com as hipóteses diagnóstica e prognóstica e o respectivo CID;",
+   "parecer sobre o estado mental de Thaís ao final do processo de avaliação psicodiagnóstica e intervenção;",
+   "laudo psicológico sucinto circunscrito a informações sobre o comparecimento de Thaís e a duração do atendimento."
+  ],
+  "gabarito": 0,
+  "comentario": "Pela Resolução CFP nº 6/2019, o atestado psicológico resulta de avaliação psicológica e certifica as condições psicológicas da pessoa, podendo justificar afastamento ou faltas (A). A declaração (B) não pode conter diagnóstico nem sintomas, apenas informações objetivas como comparecimento e horário. O relatório (C) não é o documento próprio para justificar licença. O parecer (D) responde a uma questão técnica sobre um documento ou caso, sem avaliar a pessoa. O laudo (E) é um documento extenso e fundamentado, e a descrição dada na alternativa corresponde à declaração.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tceto-2022-psi-45",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TCE-TO",
+   "ano": 2022,
+   "cargo": "Analista Técnico – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_tecnico_-_psicologiaanapsicolo_tipo_1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tceto2022_gabarito_definitivo_164151578464.pdf",
+   "questao_original": 45,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "A teoria do desenvolvimento psicossocial do psicanalista alemão Erik Erikson abarca o desenvolvimento ao longo de toda a vida até a velhice. De acordo com essa teoria, em idosos que fazem um balanço positivo de seu percurso vital predomina o sentimento de:",
+  "alternativas": [
+   "integridade;",
+   "etarismo;",
+   "produtividade;",
+   "desalento;",
+   "senescência."
+  ],
+  "gabarito": 0,
+  "comentario": "Na teoria psicossocial de Erikson, o último estágio da vida opõe integridade e desesperança (ou desespero). O idoso que faz um balanço positivo de sua trajetória e a aceita como significativa alcança a integridade (A). 'Produtividade' (generatividade) é o polo positivo do estágio anterior, da vida adulta. Etarismo é o preconceito contra a idade, e senescência é o envelhecimento biológico natural. Desalento se aproxima do polo negativo do último estágio.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tceto-2022-psi-46",
+  "disciplina": "legislacao",
+  "assunto": "leg-idoso-pcd",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TCE-TO",
+   "ano": 2022,
+   "cargo": "Analista Técnico – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_tecnico_-_psicologiaanapsicolo_tipo_1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tceto2022_gabarito_definitivo_164151578464.pdf",
+   "questao_original": 46,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Lucas, jovem cego de 27 anos, é graduado em Ciência da Computação e trabalha como desenvolvedor de sistemas em uma empresa privada. De acordo com a Lei Brasileira de Inclusão da Pessoa com Deficiência, no desempenho de suas funções profissionais, Lucas tem direito:\nI. a receber tratamento respeitoso e diferenciado por parte de colegas e superiores, com foco no capacitismo e na inclusão;\nII. à disponibilização de recursos de tecnologia assistiva, como softwares que fazem a leitura da tela do computador;\nIII. à igualdade de oportunidades para a participação em cursos de formação e de capacitação oferecidos pelo empregador.\nEstá correto o que se afirma em:",
+  "alternativas": [
+   "somente I;",
+   "somente II;",
+   "somente I e III;",
+   "somente II e III;",
+   "I, II e III."
+  ],
+  "gabarito": 3,
+  "comentario": "A Lei Brasileira de Inclusão (Lei nº 13.146/2015) assegura à pessoa com deficiência, no trabalho, recursos de tecnologia assistiva, como leitores de tela (II), e igualdade de oportunidades em cursos de formação e capacitação oferecidos pelo empregador (III). O item I é falso: 'capacitismo' é a discriminação contra pessoas com deficiência, e a lei visa combatê-lo, nunca tomá-lo como foco. A lei também garante igualdade de tratamento, e não 'tratamento diferenciado'.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tceto-2022-psi-47",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TCE-TO",
+   "ano": 2022,
+   "cargo": "Analista Técnico – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_tecnico_-_psicologiaanapsicolo_tipo_1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tceto2022_gabarito_definitivo_164151578464.pdf",
+   "questao_original": 47,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "A esquizofrenia é um transtorno psiquiátrico grave que afeta de modo significativo a área social, familiar e ocupacional do paciente. São sintomas encontrados no tipo paranoide da esquizofrenia:",
+  "alternativas": [
+   "sintomas positivos de embotamento afetivo;",
+   "delirium do tipo tremens;",
+   "delírios visuais e auditivos;",
+   "alucinações catatônicas;",
+   "delírios persecutórios."
+  ],
+  "gabarito": 4,
+  "comentario": "O subtipo paranoide (das classificações anteriores ao DSM-5 e da CID-10) é marcado por delírios, sobretudo persecutórios ou de grandeza, e por alucinações auditivas (E). A erra porque o embotamento afetivo é sintoma negativo, e não positivo. O delirium tremens (B) é quadro da abstinência alcoólica. C usa 'delírios visuais', expressão imprópria, porque delírio é alteração do juízo e não da percepção. 'Alucinações catatônicas' (D) não existem como categoria, pois a catatonia é uma alteração psicomotora.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tceto-2022-psi-48",
+  "disciplina": "especificos",
+  "assunto": "esp-avaliacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TCE-TO",
+   "ano": 2022,
+   "cargo": "Analista Técnico – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_tecnico_-_psicologiaanapsicolo_tipo_1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tceto2022_gabarito_definitivo_164151578464.pdf",
+   "questao_original": 48,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "A escola onde Davi cursa o 5º ano solicitou aos pais que levassem o menino para uma avaliação psicológica. Davi não consegue se relacionar com outras crianças e tem dificuldades de concentração e aprendizagem. Analise os procedimentos descritos a seguir.\nI. entrevista de anamnese com os pais;\nII. observação de Davi durante entrevista lúdica;\nIII. aplicação de testes psicológicos infantis. Em conformidade com a Resolução CFP nº 09/2018, constarão da avaliação psicológica da criança os procedimentos mencionados em:",
+  "alternativas": [
+   "I e II, obrigatoriamente;",
+   "I e III, obrigatoriamente;",
+   "II e III, obrigatoriamente;",
+   "I, II e III, obrigatoriamente;",
+   "I e/ou II e/ou III, a critério do(a) psicólogo(a)."
+  ],
+  "gabarito": 4,
+  "comentario": "A Resolução CFP nº 9/2018 deixa a escolha dos métodos, técnicas e instrumentos da avaliação a critério do psicólogo, conforme a demanda e o contexto. A norma prevê fontes fundamentais, como testes aprovados pelo SATEPSI, entrevistas e protocolos de observação, e fontes complementares. Nenhum procedimento específico é obrigatório, e o psicólogo pode combinar entrevista, observação lúdica e testes conforme seu julgamento técnico (E). A Resolução CFP nº 31/2022, que depois substituiu a de 2018, manteve esse entendimento.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tceto-2022-psi-49",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TCE-TO",
+   "ano": 2022,
+   "cargo": "Analista Técnico – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_tecnico_-_psicologiaanapsicolo_tipo_1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tceto2022_gabarito_definitivo_164151578464.pdf",
+   "questao_original": 49,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "A psicóloga Beatriz trabalha em uma unidade básica de saúde onde coordena um grupo de apoio para tabagistas, visando a cessação do hábito de fumar. É (São) estratégia(s) da prevenção secundária ao tabagismo:",
+  "alternativas": [
+   "promover nos fumantes mudanças de crenças e de comportamentos e introduzir hábitos saudáveis de vida;",
+   "proibir a venda de cigarros e de alimentos que imitem produtos de tabaco a menores de idade;",
+   "preparar fumantes com câncer e doença pulmonar obstrutiva crônica para o pré- e pós-intervenções cirúrgicas;",
+   "minimizar os sintomas de abstinência pela substituição do cigarro convencional por cigarros eletrônicos ou narguilé;",
+   "evitar por meio de mudanças ambientais que fumantes passivos ou secundários iniciem a dependência química ao tabaco."
+  ],
+  "gabarito": 0,
+  "comentario": "A prevenção secundária no tabagismo se dirige a quem já fuma, com abordagens de cessação que trabalham crenças, comportamentos e a adoção de hábitos saudáveis, como nos grupos de apoio da atenção básica (A). Proibir a venda a menores (B) e evitar a iniciação (E) são medidas de prevenção primária. Preparar pacientes com câncer ou DPOC para cirurgias (C) é prevenção terciária. Substituir o cigarro por eletrônicos ou narguilé (D) não é estratégia recomendada, porque também são produtos de tabaco ou nicotina.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tceto-2022-psi-50",
+  "disciplina": "especificos",
+  "assunto": "esp-praticas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TCE-TO",
+   "ano": 2022,
+   "cargo": "Analista Técnico – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_tecnico_-_psicologiaanapsicolo_tipo_1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tceto2022_gabarito_definitivo_164151578464.pdf",
+   "questao_original": 50,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Deprimida após sair de um relacionamento conjugal abusivo, Lia foi encaminhada para uma psicoterapia de grupo voltada para mulheres vítimas de violência. À medida que frequentava os encontros, Lia conheceu mulheres que recuperaram a autoestima e a autonomia para cuidarem de suas vidas e passou a acreditar em sua própria capacidade de superação. O fator terapêutico envolvido nessa mudança é:",
+  "alternativas": [
+   "o sentimento de singularidade;",
+   "a naturalização da violência;",
+   "a instilação de esperança;",
+   "o poder da sugestão;",
+   "a elaboração do conflito primário."
+  ],
+  "gabarito": 2,
+  "comentario": "Entre os fatores terapêuticos de grupo descritos por Yalom, a instilação de esperança ocorre quando o participante vê outros membros que melhoraram e passa a acreditar na própria recuperação, como Lia (C). O 'sentimento de singularidade' (A) é o oposto do fator universalidade. A naturalização da violência (B) seria prejudicial ao tratamento. O poder da sugestão (D) e a 'elaboração do conflito primário' (E) não são fatores da lista de Yalom e não descrevem a mudança relatada.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tceto-2022-psi-51",
+  "disciplina": "especificos",
+  "assunto": "esp-trabalho",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TCE-TO",
+   "ano": 2022,
+   "cargo": "Analista Técnico – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_tecnico_-_psicologiaanapsicolo_tipo_1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tceto2022_gabarito_definitivo_164151578464.pdf",
+   "questao_original": 51,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Vera é professora em uma escola de Ensino Médio e procurou um serviço de saúde relatando estar sofrendo de estresse crônico em seu ambiente de trabalho. São dimensões identificadas na síndrome de burnout, EXCETO:",
+  "alternativas": [
+   "sentimentos de negativismo;",
+   "diminuição do absenteísmo;",
+   "redução da eficácia profissional;",
+   "aumento do distanciamento mental do trabalho;",
+   "sentimentos de esgotamento de energia."
+  ],
+  "gabarito": 1,
+  "comentario": "Na CID-11, o burnout se define por três dimensões: esgotamento ou exaustão de energia (E), distanciamento mental do trabalho ou sentimentos de negativismo e cinismo em relação a ele (A e D) e redução da eficácia profissional (C). A 'diminuição do absenteísmo' (B) não é dimensão da síndrome. O burnout costuma, ao contrário, aumentar faltas e afastamentos.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tceto-2022-psi-52",
+  "disciplina": "legislacao",
+  "assunto": "leg-codigo-etica",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TCE-TO",
+   "ano": 2022,
+   "cargo": "Analista Técnico – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_tecnico_-_psicologiaanapsicolo_tipo_1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tceto2022_gabarito_definitivo_164151578464.pdf",
+   "questao_original": 52,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Ana Maria atua como psicóloga clínica de adultos e atendeu em seu consultório o advogado Jeferson por três anos. Depois do fim do processo terapêutico, ele procurou novamente pela profissional, demandando que ela atue como perita no processo judicial que ele move contra a ex-esposa Jéssica, em pedido da guarda unilateral do filho de ambos, Jean, de 2 anos. Segundo as disposições contidas na Resolução CFP nº 10/2005, Ana Maria:",
+  "alternativas": [
+   "deve atuar como perita independentemente da atuação anterior como psicóloga clínica;",
+   "só pode atuar como perita se Jéssica concordar com isso;",
+   "não deve atuar como perita em função da intervenção anterior como psicóloga clínica;",
+   "deve atuar como perita, pois está em jogo o bem-estar de uma criança;",
+   "não pode atuar como perita em processo de guarda infantil pois atende exclusivamente adultos."
+  ],
+  "gabarito": 2,
+  "comentario": "O Código de Ética Profissional do Psicólogo (Resolução CFP nº 10/2005) veda ao psicólogo atuar como perito, assessor ou avaliador de pessoa que atendeu ou atende, quando houver vínculos que possam afetar a qualidade do trabalho ou a fidelidade aos resultados (C). Ter sido psicoterapeuta de Jeferson por três anos compromete a imparcialidade exigida da perícia. Essa vedação não depende da concordância da outra parte (B) nem do interesse da criança (D), e não tem relação com a especialidade em adultos (E).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tceto-2022-psi-53",
+  "disciplina": "legislacao",
+  "assunto": "leg-res13-2022",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TCE-TO",
+   "ano": 2022,
+   "cargo": "Analista Técnico – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_tecnico_-_psicologiaanapsicolo_tipo_1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tceto2022_gabarito_definitivo_164151578464.pdf",
+   "questao_original": 53,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Anthony, 12 anos, passou a ter comportamento disperso e agressivo depois da separação de seus pais, Alberto e Antônia. Entendendo que o filho estava expressando sofrimento emocional, a mãe foi ao consultório da psicóloga Poliana, demandando por início de terapia psicológica para o filho, sem consultar o ex-marido. De acordo com os preceitos trazidos pela Resolução CFP nº 13/2022 e pelo Código de Ética Profissional do Psicólogo, é correto afirmar que:",
+  "alternativas": [
+   "Alberto deve concordar com o acompanhamento psicológico do filho, independentemente da demanda de Antônia;",
+   "Antônia deve autorizar por escrito o processo terapêutico do filho, antes de seu início;",
+   "Poliana deve ter a autorização dos ascendentes para começar o processo terapêutico da criança;",
+   "será necessário o suprimento de autorização judicial para o início da terapia, se o pai não concordar;",
+   "não é necessária a autorização dos pais porque Anthony já é adolescente."
+  ],
+  "gabarito": 1,
+  "comentario": "Pelo Código de Ética (art. 8º) e pela Resolução CFP nº 13/2022, o atendimento não eventual de criança ou adolescente exige a autorização de ao menos um dos responsáveis legais, obtida antes do início da psicoterapia. Por isso basta a autorização da mãe (B). Não é preciso o consentimento do pai (A), de ambos os genitores (C) nem autorização judicial (D). E erra porque Anthony, aos 12 anos, ainda depende da autorização de um responsável. Obs.: o ponto central é bastar um dos responsáveis; a exigência de forma escrita segue a leitura da banca sobre a Resolução 13/2022.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tceto-2022-psi-54",
+  "disciplina": "especificos",
+  "assunto": "esp-praticas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TCE-TO",
+   "ano": 2022,
+   "cargo": "Analista Técnico – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_tecnico_-_psicologiaanapsicolo_tipo_1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tceto2022_gabarito_definitivo_164151578464.pdf",
+   "questao_original": 54,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Com relação ao Psicodrama, analise as afirmativas a seguir.\nI. Orienta-se pela emoção e pela cocriação, buscando promover estados espontâneos, discriminar e integrar o individual com o coletivo.\nII. O protagonista pode ser um indivíduo ou um grupo que catalisa o foco da ação.\nIII. O coordenador dos trabalhos pode ser assistido por egos auxiliares que podem encarnar pessoas ausentes importantes na estruturação dos conflitos.\nEstá correto o que se afirma em:",
+  "alternativas": [
+   "somente I;",
+   "somente II;",
+   "somente III;",
+   "somente I e III;",
+   "I, II e III."
+  ],
+  "gabarito": 4,
+  "comentario": "As três afirmativas estão corretas (E). O psicodrama de Moreno se orienta pela espontaneidade, criatividade e cocriação, integrando o individual e o coletivo (I). O protagonista pode ser uma pessoa ou um grupo que concentra o foco da ação dramática (II). O diretor conta com egos auxiliares, que podem representar personagens ausentes importantes na trama conflitiva do protagonista (III).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tceto-2022-psi-55",
+  "disciplina": "especificos",
+  "assunto": "esp-praticas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TCE-TO",
+   "ano": 2022,
+   "cargo": "Analista Técnico – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_tecnico_-_psicologiaanapsicolo_tipo_1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tceto2022_gabarito_definitivo_164151578464.pdf",
+   "questao_original": 55,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Para a terapia familiar sistêmica:",
+  "alternativas": [
+   "a família é como um sistema ativo regulado por regras impermeáveis e permanentes;",
+   "a família é a soma de uma série de comportamentos individuais desligados entre si;",
+   "a terapia é um processo transformador curativo na medida em que redefine corretamente os papéis familiares;",
+   "a família é um sistema aberto, social e auto-organizado constituído por várias unidades ligadas no conjunto;",
+   "o terapeuta é um observador neutro que interpreta o sistema familiar pelo funcionamento inconsciente de cada membro da família."
+  ],
+  "gabarito": 3,
+  "comentario": "Com base na teoria geral dos sistemas, a terapia familiar sistêmica entende a família como um sistema aberto e auto-organizado, cujos membros estão interligados de modo que a mudança em um afeta todos (D). A erra porque as regras familiares não são impermeáveis nem permanentes. B erra porque o todo é mais que a soma de comportamentos isolados. C erra porque a terapia não busca 'redefinir corretamente' papéis. E erra porque o foco está nas interações e na comunicação, e não na interpretação do inconsciente individual.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tceto-2022-psi-56",
+  "disciplina": "especificos",
+  "assunto": "esp-direitos-humanos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TCE-TO",
+   "ano": 2022,
+   "cargo": "Analista Técnico – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_tecnico_-_psicologiaanapsicolo_tipo_1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tceto2022_gabarito_definitivo_164151578464.pdf",
+   "questao_original": 56,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "No bojo das discussões sobre Teorias de Gênero, Judith Butler apresenta a noção de paródia de gênero que:",
+  "alternativas": [
+   "revela que a identidade original sobre a qual se molda o gênero é uma imitação sem origem;",
+   "presume a existência de um original que essas identidades parodísticas imitem;",
+   "reafirma o binarismo heterossexual que estabelece uma correlação entre sexo e gênero;",
+   "naturaliza e essencializa a compulsoriedade da heterossexualidade;",
+   "identifica que o sexo e o gênero são entidades substancial e essencialmente naturais."
+  ],
+  "gabarito": 0,
+  "comentario": "Em 'Problemas de gênero', Judith Butler argumenta que o gênero é performativo. Práticas paródicas como o drag não imitam um original verdadeiro. Elas revelam que a própria identidade tida como original é uma imitação sem origem (A). Por isso B, que presume um original a ser imitado, é o oposto da tese. C, D e E atribuem a Butler a reafirmação do binarismo, a naturalização da heterossexualidade compulsória e a essencialização de sexo e gênero, justamente o que sua teoria critica.",
+  "dificuldade": 3,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tceto-2022-psi-57",
+  "disciplina": "especificos",
+  "assunto": "esp-praticas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TCE-TO",
+   "ano": 2022,
+   "cargo": "Analista Técnico – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_tecnico_-_psicologiaanapsicolo_tipo_1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tceto2022_gabarito_definitivo_164151578464.pdf",
+   "questao_original": 57,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "O conceito de awareness na Gestalt-terapia criada por Fritz e Laura Perls refere-se:",
+  "alternativas": [
+   "ao processo de uma pessoa se tornar si mesma, inteira, indivisível e distinta de outras pessoas ou da psicologia coletiva;",
+   "a uma das formas de acessar o inconsciente através dos conteúdos reprimidos e recalcados;",
+   "à expressão particular de um conflito psíquico que forma o inconsciente;",
+   "à tomada de consciência do sujeito de forma global no momento presente, ou seja, resulta de um conjunto de percepções pessoal, emocional, interior e ambiental;",
+   "a um grupamento de representações mentais mantidas juntas por experiências emocionais significativas do indivíduo."
+  ],
+  "gabarito": 3,
+  "comentario": "Na Gestalt-terapia, awareness é a consciência global, no aqui e agora, do que se passa em si e no ambiente, integrando percepções corporais, emocionais, cognitivas e ambientais (D). A descreve a individuação de Jung. B e C remetem ao inconsciente psicanalítico (recalque e formação de sintoma). E corresponde ao conceito junguiano de complexo.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tceto-2022-psi-58",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TCE-TO",
+   "ano": 2022,
+   "cargo": "Analista Técnico – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_tecnico_-_psicologiaanapsicolo_tipo_1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tceto2022_gabarito_definitivo_164151578464.pdf",
+   "questao_original": 58,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Na Psicologia Analítica, o arquétipo responsável pela interação social entre o ser e a comunidade em geral, como uma espécie de máscara projetada, é:",
+  "alternativas": [
+   "ego;",
+   "persona;",
+   "sombra;",
+   "inconsciente coletivo;",
+   "inconsciente pessoal."
+  ],
+  "gabarito": 1,
+  "comentario": "Na Psicologia Analítica de Jung, a persona é a 'máscara' social: a face que o indivíduo apresenta ao mundo para se adaptar às expectativas coletivas (B). O ego é o centro da consciência, e a sombra reúne os aspectos rejeitados da personalidade. O inconsciente pessoal e o coletivo são instâncias psíquicas, e não arquétipos de interação social.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tceto-2022-psi-59",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TCE-TO",
+   "ano": 2022,
+   "cargo": "Analista Técnico – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_tecnico_-_psicologiaanapsicolo_tipo_1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tceto2022_gabarito_definitivo_164151578464.pdf",
+   "questao_original": 59,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Com relação ao processo de desenvolvimento tal como pensado por Vygotsky, é correto afirmar que:",
+  "alternativas": [
+   "privilegia a maturação biológica e a elaboração espontânea de conceitos pela criança;",
+   "pensa que o desenvolvimento segue uma sequência fixa e universal de estágios;",
+   "acredita que construção do conhecimento proceda do individual para o social;",
+   "defende que a aprendizagem subordina-se ao desenvolvimento e tem pouco impacto sobre ele;",
+   "postula que pensamento e linguagem são processos interdependentes, desde o início da vida."
+  ],
+  "gabarito": 4,
+  "comentario": "Para Vygotsky, pensamento e linguagem têm raízes genéticas distintas, mas se entrelaçam e se tornam interdependentes no desenvolvimento, e a linguagem passa a reorganizar o pensamento (E). Obs.: rigorosamente, Vygotsky afirma que essas linhas são independentes antes de convergirem por volta dos dois anos, de modo que 'desde o início da vida' é discutível; mas as demais alternativas são claramente erradas. A, B e D descrevem posições associadas a Piaget ou à primazia da maturação: estágios universais e aprendizagem subordinada ao desenvolvimento. Para Vygotsky, a aprendizagem impulsiona o desenvolvimento. C inverte a direção, pois o desenvolvimento vai do social (interpsicológico) para o individual (intrapsicológico).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tceto-2022-psi-60",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TCE-TO",
+   "ano": 2022,
+   "cargo": "Analista Técnico – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_tecnico_-_psicologiaanapsicolo_tipo_1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tceto2022_gabarito_definitivo_164151578464.pdf",
+   "questao_original": 60,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Marília é professora de matemática e, no processo de ensino de problemas aritméticos, constrói duplas de estudantes em sala de aula, e esses alunos se auxiliam mutuamente na resolução das questões. Ela percebe que dessa forma as crianças conseguem resolver juntas os problemas que sozinhas não conseguiriam. Muito embora Marília não saiba, ela está fazendo uso de um conhecido conceito da Psicologia Sócio-Histórica, que é:",
+  "alternativas": [
+   "observação telecinética;",
+   "aprendizagem por imitação;",
+   "aprendizagem vicariante;",
+   "zona de desenvolvimento proximal;",
+   "intervenção grupal."
+  ],
+  "gabarito": 3,
+  "comentario": "A professora organiza duplas para que os alunos resolvam juntos o que ainda não conseguiriam sozinhos. Ela atua na zona de desenvolvimento proximal (D), a distância entre o que a criança faz de forma independente e o que faz com ajuda de parceiros mais capazes, conceito central da Psicologia Sócio-Histórica de Vygotsky. Aprendizagem vicariante (C) e por imitação (B) remetem à teoria social cognitiva de Bandura. 'Observação telecinética' não é um conceito psicológico, e 'intervenção grupal' é genérica demais.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tceto-2022-psi-61",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TCE-TO",
+   "ano": 2022,
+   "cargo": "Analista Técnico – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_tecnico_-_psicologiaanapsicolo_tipo_1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tceto2022_gabarito_definitivo_164151578464.pdf",
+   "questao_original": 61,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Com relação ao processo de envelhecimento, analise as afirmativas a seguir.\nI. A vida sexual não se extingue com a idade avançada, mesmo com inúmeras transformações sofridas pelo corpo, ela apenas muda.\nII. As modificações ocasionadas pelo envelhecimento marcam de forma significativa a vida dos indivíduos, podendo trazer sentimentos de desvalorização.\nIII. O envelhecimento é um fenômeno natural, universal, irreversível e ocorre de forma simultânea e igualitária nos seres humanos.\nEstá correto somente o que se afirma em:",
+  "alternativas": [
+   "I;",
+   "II;",
+   "I e II;",
+   "I e III;",
+   "II e III."
+  ],
+  "gabarito": 2,
+  "comentario": "A sexualidade persiste na velhice e se transforma junto com o corpo (I). As mudanças do envelhecimento podem trazer sentimentos de desvalorização, especialmente numa cultura que valoriza a juventude (II). O item III é falso: embora seja natural, universal e irreversível, o envelhecimento não ocorre de forma simultânea nem igualitária. Ele é heterogêneo e varia conforme fatores biológicos, sociais e culturais.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tceto-2022-psi-62",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TCE-TO",
+   "ano": 2022,
+   "cargo": "Analista Técnico – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_tecnico_-_psicologiaanapsicolo_tipo_1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tceto2022_gabarito_definitivo_164151578464.pdf",
+   "questao_original": 62,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Silvia deu à luz seu filho Rafael há três semanas e começou a apresentar sentimentos de culpa e profunda tristeza associadas a pensamentos suicidas e dificuldade de se vincular ao bebê. Os sintomas de Silvia podem estar relacionados a:",
+  "alternativas": [
+   "depressão puerperal;",
+   "tristeza anaclítica;",
+   "ansiedade pós-parto;",
+   "transtorno de humor;",
+   "transtorno esquizoafetivo."
+  ],
+  "gabarito": 0,
+  "comentario": "Tristeza profunda, culpa, ideação suicida e dificuldade de vínculo com o bebê nas semanas seguintes ao parto são compatíveis com depressão puerperal (pós-parto), que o DSM-5 trata como episódio depressivo com início no periparto (A). A depressão puerperal difere do baby blues, transitório e mais leve. 'Tristeza anaclítica' (B) confunde-se com a depressão anaclítica de Spitz, que ocorre em bebês privados da mãe. 'Transtorno de humor' (D) é uma categoria ampla demais, e o quadro não traz sintomas psicóticos que sugiram transtorno esquizoafetivo (E).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tceto-2022-psi-63",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TCE-TO",
+   "ano": 2022,
+   "cargo": "Analista Técnico – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_tecnico_-_psicologiaanapsicolo_tipo_1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tceto2022_gabarito_definitivo_164151578464.pdf",
+   "questao_original": 63,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "A teoria dos tipos psicológicos criada por Carl Gustav Jung considera quatro funções psíquicas como mecanismos de adaptação do indivíduo à sua realidade subjetiva e objetiva, sendo elas descritas como:",
+  "alternativas": [
+   "amor, raiva, indiferença e alegria;",
+   "amor, pensamento, intuição e sensação;",
+   "tristeza, alegria, reflexão e impulsividade;",
+   "pensamento, afeto, sensação e indiferença;",
+   "pensamento, sentimento, sensação e intuição."
+  ],
+  "gabarito": 4,
+  "comentario": "Em 'Tipos psicológicos', Jung descreve quatro funções psíquicas: pensamento e sentimento, que são racionais ou de julgamento, e sensação e intuição, que são irracionais ou de percepção (E). Elas se combinam com as atitudes de introversão e extroversão. As demais alternativas misturam emoções (amor, raiva, alegria, tristeza) ou termos como 'afeto', 'impulsividade' e 'indiferença', que não fazem parte da tipologia junguiana.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tceto-2022-psi-64",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TCE-TO",
+   "ano": 2022,
+   "cargo": "Analista Técnico – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_tecnico_-_psicologiaanapsicolo_tipo_1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tceto2022_gabarito_definitivo_164151578464.pdf",
+   "questao_original": 64,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Joeli sempre foi considerado um encrenqueiro, arrumando brigas sem motivos e buscando apenas sua autossatisfação em todas as circunstâncias. Observa-se que ele é egocêntrico, com baixíssima capacidade de empatia e de remorso, além de agir de forma muito impulsiva. As características psicológicas de Joeli podem ser interpretadas como sintomas de:",
+  "alternativas": [
+   "psicopatia;",
+   "hiperbulia;",
+   "hipobulia;",
+   "esquizofrenia;",
+   "transtorno de déficit de atenção e hiperatividade."
+  ],
+  "gabarito": 0,
+  "comentario": "Egocentrismo, baixa capacidade de empatia e de remorso, impulsividade e conflitos recorrentes compõem o perfil da psicopatia, associada ao transtorno da personalidade antissocial (A). Hiperbulia e hipobulia (B e C) são alterações da vontade, respectivamente aumento e diminuição. A esquizofrenia (D) envolve sintomas psicóticos, ausentes no caso. O TDAH (E) explica a impulsividade, mas não a falta de empatia e de remorso.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tceto-2022-psi-65",
+  "disciplina": "legislacao",
+  "assunto": "leg-codigo-etica",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TCE-TO",
+   "ano": 2022,
+   "cargo": "Analista Técnico – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_tecnico_-_psicologiaanapsicolo_tipo_1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tceto2022_gabarito_definitivo_164151578464.pdf",
+   "questao_original": 65,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Patrícia é psicóloga de um asilo de idosos, e uma organização não governamental (ONG) está disposta a investir na melhoria das instalações da instituição, solicitando que a psicóloga intermedie o recebimento dos valores repassados pela ONG ao asilo. De acordo com as disposições contidas no Código de Ética Profissional, Patrícia:",
+  "alternativas": [
+   "pode receber o dinheiro desde que assine um recibo;",
+   "não pode intermediar transações financeiras;",
+   "não deve receber o dinheiro antes de consultar a direção da unidade;",
+   "pode receber o dinheiro após assinatura de convênio entre a ONG e o asilo;",
+   "deve receber o dinheiro pois é parte de seu trabalho ajudar de todas as formas ao asilo."
+  ],
+  "gabarito": 1,
+  "comentario": "Entre as vedações do art. 2º, o Código de Ética Profissional do Psicólogo proíbe pleitear ou receber comissões, empréstimos, doações ou vantagens de qualquer espécie além dos honorários contratados, assim como intermediar transações financeiras. Por isso Patrícia não pode intermediar o repasse da ONG ao asilo (B). Nenhuma formalidade torna a conduta permitida: assinar recibo (A), consultar a direção (C) ou firmar convênio (D). A ideia de que ajudar 'de todas as formas' faz parte do trabalho (E) também contraria o Código. O repasse deve ser tratado diretamente entre a ONG e a administração da instituição.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tceto-2022-psi-66",
+  "disciplina": "legislacao",
+  "assunto": "leg-nt01-2022",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TCE-TO",
+   "ano": 2022,
+   "cargo": "Analista Técnico – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_tecnico_-_psicologiaanapsicolo_tipo_1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tceto2022_gabarito_definitivo_164151578464.pdf",
+   "questao_original": 66,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "A Nota Técnica nº 1/2022/SOE/Plenária tem como objetivo instruir a categoria de psicólogos(as) quanto aos critérios que precisam ser atendidos para as divulgações profissionais nas redes sociais. De acordo com essa nota, é correto afirmar que:",
+  "alternativas": [
+   "é vedada a publicidade profissional do(a) psicólogo(a) em seu perfil pessoal, devendo realizar a promoção de seu trabalho e de seus títulos apenas no perfil profissional;",
+   "mesmo quando a divulgação dos serviços é elaborada por empresas ou profissionais de marketing, o(a) psicólogo(a) é o(a) único(a) responsável por publicidade indevida ou em descumprimento das diretrizes éticas da profissão;",
+   "quando da divulgação dos serviços profissionais, é permitido o preço ser usado como forma de propaganda por meio de termos como atendimento social, pacote promocional, valor acessível, sorteios e cupons promocionais;",
+   "é proibida a divulgação de trabalho voluntário, a menos quando puder garantir dessa forma a continuidade e a qualidade do serviço e tiver como objetivo a captação de clientes;",
+   "ao promover publicamente os serviços, é obrigatório que o(a) profissional informe nome completo, ou nome social, a titulação “psicóloga” ou “psicólogo”, o CRP de inscrição e seu número de registro, sendo permitido o uso de nomes de povos originários ou apelidos."
+  ],
+  "gabarito": 4,
+  "comentario": "A Nota Técnica CFP nº 1/2022 torna obrigatório informar, na publicidade, nome completo ou nome social, a titulação 'psicóloga' ou 'psicólogo', o CRP e o número de registro. A versão adotada pela banca admite ainda o uso de nomes de povos originários ou apelidos, desde que acompanhados dessas informações (E). A erra porque a nota não proíbe a divulgação no perfil pessoal. B erra ao tornar o psicólogo o 'único' responsável quando a peça é produzida por terceiros de marketing. C erra porque é vedado usar o preço como forma de propaganda, com termos como promoções, sorteios e cupons. D distorce a regra do trabalho voluntário, que não pode servir para captação de clientela.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tceto-2022-psi-67",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TCE-TO",
+   "ano": 2022,
+   "cargo": "Analista Técnico – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_tecnico_-_psicologiaanapsicolo_tipo_1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tceto2022_gabarito_definitivo_164151578464.pdf",
+   "questao_original": 67,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Subjetividade é um conceito que nasceu no campo da filosofia do conhecimento, mas migrou para o domínio da psicologia, adquirindo tratamento histórico, social e político, sobretudo no final do século XX, por meio de perspectivas críticas e contemporâneas. Sob inspiração de autores como Félix Guattari e Michel Foucault, é correto afirmar que a subjetividade, enquanto objeto de conhecimento e campo de experiência humana, pressupõe:",
+  "alternativas": [
+   "a permanência de um self interior;",
+   "um sujeito universal e abstrato;",
+   "a identidade da pessoa humana;",
+   "o efeito das relações de saber e de poder;",
+   "a consciência individual e indivisível."
+  ],
+  "gabarito": 3,
+  "comentario": "Em Foucault e Guattari, a subjetividade não é uma essência interior nem uma consciência universal. Ela é produzida historicamente, como efeito de relações de saber e de poder e de agenciamentos sociais, maquínicos e culturais (D). As demais alternativas expressam justamente a concepção que esses autores criticam: um self interior permanente (A), um sujeito universal e abstrato (B), uma identidade fixa (C) e uma consciência individual indivisível (E).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tceto-2022-psi-68",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TCE-TO",
+   "ano": 2022,
+   "cargo": "Analista Técnico – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_tecnico_-_psicologiaanapsicolo_tipo_1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tceto2022_gabarito_definitivo_164151578464.pdf",
+   "questao_original": 68,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "No conhecido texto “O mal-estar na civilização” (1930), Freud se debruça longamente sobre as fontes de sofrimento humano, sendo as relações humanas a principal delas. Considerando o seu último dualismo pulsional, Freud demonstra que a cultura é um processo que se desenrola na humanidade a serviço de uma força que pretende juntar indivíduos isolados, famílias, etnias, povos e nações numa grande unidade, a da humanidade, a cujo programa se opõe a tendência de tomar o próximo como objeto sexual, explorá-lo, humilhá-lo, infligir dor, torturá-lo e matá-lo. Tais forças pulsionais correspondem, respectivamente, a:",
+  "alternativas": [
+   "Eros e Morte;",
+   "narcisismo e autoerotismo;",
+   "libido de objeto e libido do Eu;",
+   "pulsões do Ego e pulsões sexuais;",
+   "autoconservação e libido."
+  ],
+  "gabarito": 0,
+  "comentario": "No último dualismo pulsional, formulado a partir de 'Além do princípio do prazer' (1920), Freud opõe Eros, a pulsão de vida que busca unir em unidades cada vez maiores, à pulsão de morte, que se manifesta para fora como agressividade e destrutividade. Em 'O mal-estar na civilização', a cultura está a serviço de Eros, e a hostilidade ao próximo expressa a pulsão de morte (A). As alternativas D e E correspondem ao primeiro dualismo (pulsões do eu ou de autoconservação versus pulsões sexuais). B e C opõem modalidades da libido, e não o dualismo final.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tceto-2022-psi-69",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TCE-TO",
+   "ano": 2022,
+   "cargo": "Analista Técnico – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_tecnico_-_psicologiaanapsicolo_tipo_1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tceto2022_gabarito_definitivo_164151578464.pdf",
+   "questao_original": 69,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Em “Os complexos familiares na formação do indivíduo”, Lacan (1938) é influenciado pelas teses sociológicas de Durkheim ao lançar luz sobre as causas que conduziriam ao empobrecimento identificatório das famílias e à mudança das formas clínicas das neuroses. A causa central seria, nesse momento de seu pensamento, o(a):",
+  "alternativas": [
+   "feminização da sociedade;",
+   "complexo fraterno;",
+   "declínio da imago paterna;",
+   "discurso do capitalista;",
+   "imperativo de gozo."
+  ],
+  "gabarito": 2,
+  "comentario": "Em 'Os complexos familiares na formação do indivíduo' (1938), Lacan, dialogando com a sociologia de Durkheim sobre a contração da família, atribui as novas formas de neurose a um declínio social da imago paterna (C). Discurso do capitalista (D) e imperativo de gozo (E) são formulações muito posteriores do ensino de Lacan. O complexo fraterno (B), chamado de complexo de intrusão, é um dos complexos descritos no texto, mas não é a causa apontada. A 'feminização da sociedade' (A) é um distrator.",
+  "dificuldade": 3,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tceto-2022-psi-70",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TCE-TO",
+   "ano": 2022,
+   "cargo": "Analista Técnico – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_tecnico_-_psicologiaanapsicolo_tipo_1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/tceto2022_gabarito_definitivo_164151578464.pdf",
+   "questao_original": 70,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Winnicott valoriza o fator ambiental para compreender o amadurecimento emocional precoce, de tal maneira que a saúde mental nos primórdios da infância dependerá do provimento de cuidados dispensados à criança por uma mãe suficientemente boa. Num ambiente favorável, o amadurecimento corresponde a uma progressão que parte de um estado primeiro que envolve a adaptação suficientemente boa da mãe às necessidades de seu bebê, levando em seguida a um estado de integração que diferencia o Eu do Não-Eu e cria condições para quando, finalmente, o indivíduo, na saúde, se integrar como pessoa inteira. Esses três momentos são classificados por Winnicott, respectivamente, como:",
+  "alternativas": [
+   "fase oral – fase anal – período de latência;",
+   "posição depressiva – posição esquizoparanoide – resolução edipiana;",
+   "autoerotismo – narcisismo – escolha objetal;",
+   "confiança vs desconfiança – iniciativa vs culpa – intimidade vs isolamento;",
+   "dependência absoluta – dependência relativa – independência."
+  ],
+  "gabarito": 4,
+  "comentario": "Na teoria do amadurecimento de Winnicott, o desenvolvimento passa da dependência absoluta, em que a mãe suficientemente boa se adapta quase totalmente ao bebê, à dependência relativa, em que o bebê começa a perceber a dependência e a diferenciar Eu e Não-Eu. O processo segue rumo à independência, sempre relativa, em que o indivíduo se integra como pessoa inteira (E). As fases oral e anal são de Freud, e as posições esquizoparanoide e depressiva são de Melanie Klein, apresentadas ainda em ordem invertida. As crises psicossociais citadas em D são de Erikson.",
+  "dificuldade": 1,
+  "anulada": false
+ }
+]

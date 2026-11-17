@@ -1,0 +1,252 @@
+[
+ {
+  "id": "fgv-tcerr-2025-ana-11",
+  "disciplina": "rlm",
+  "assunto": "rlm-sequencias",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TCE-RR",
+   "ano": 2025,
+   "cargo": "Analista Administrativo – TI – Banco de Dados",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-administrativo-tecnologia-com-especialidade-em-banco-de-dadoscns402-tipo-1.pdf"
+  },
+  "enunciado": "O quadrado ABCD da figura abaixo tem 8 cm de lado. O ponto P move-se sobre o contorno do quadrado, em sentido anti-horário, com velocidade de 1 cm por segundo. O ponto P iniciou seu movimento no ponto A.\n[figura: quadrado com A no canto inferior esquerdo, B no inferior direito, C no superior direito e D no superior esquerdo]\nA partir do início do movimento, após 5 minutos, o ponto P estará",
+  "alternativas": [
+   "no interior do lado AB.",
+   "no interior do lado BC.",
+   "no interior do lado CD.",
+   "no interior do lado DA.",
+   "sobre um dos vértices do quadrado."
+  ],
+  "gabarito": 1,
+  "comentario": "5 minutos = 300 s, logo P percorre 300 cm. O perímetro é 4 × 8 = 32 cm, e 300 = 9 × 32 + 12: após 9 voltas completas P está de novo em A e anda mais 12 cm. No sentido anti-horário a partir de A, percorre AB (8 cm) e mais 4 cm sobre BC. Logo P está no interior do lado BC.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tcerr-2025-ana-12",
+  "disciplina": "rlm",
+  "assunto": "rlm-relacoes",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TCE-RR",
+   "ano": 2025,
+   "cargo": "Analista Administrativo – TI – Banco de Dados",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-administrativo-tecnologia-com-especialidade-em-banco-de-dadoscns402-tipo-1.pdf"
+  },
+  "enunciado": "As pessoas A, B, C e D estão, nessa ordem, em uma fila. Considere as informações:\n• Há 7 pessoas entre A e B.\n• Há 4 pessoas entre B e C.\n• Há tantas pessoas entre A e C quantas entre C e D.\n• A pessoa A ocupa o 5º lugar da fila.\nO lugar na fila ocupado pela pessoa D é o",
+  "alternativas": [
+   "27º.",
+   "28º.",
+   "29º.",
+   "30º.",
+   "31º."
+  ],
+  "gabarito": 4,
+  "comentario": "A está em 5º. Com 7 pessoas entre A e B, B está em 5 + 8 = 13º. Com 4 pessoas entre B e C, C está em 13 + 5 = 18º. Entre A (5º) e C (18º) há 18 − 5 − 1 = 12 pessoas; então entre C e D também há 12, e D está em 18 + 13 = 31º.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tcerr-2025-ana-13",
+  "disciplina": "rlm",
+  "assunto": "rlm-proporcao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TCE-RR",
+   "ano": 2025,
+   "cargo": "Analista Administrativo – TI – Banco de Dados",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-administrativo-tecnologia-com-especialidade-em-banco-de-dadoscns402-tipo-1.pdf"
+  },
+  "enunciado": "As grandezas X, A e B são tais que X é diretamente proporcional a A e inversamente proporcional a B.\nSabe-se que quando A = 12 e B = 30 tem-se X = 240.\nQuando A = 15 e B = 36 o valor de X será",
+  "alternativas": [
+   "250.",
+   "270.",
+   "300.",
+   "320.",
+   "360."
+  ],
+  "gabarito": 0,
+  "comentario": "X = k·A/B. Com os dados: 240 = k·12/30 ⇒ k = 240·30/12 = 600. Então X = 600·15/36 = 9000/36 = 250.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tcerr-2025-ana-14",
+  "disciplina": "rlm",
+  "assunto": "rlm-sequencias",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TCE-RR",
+   "ano": 2025,
+   "cargo": "Analista Administrativo – TI – Banco de Dados",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-administrativo-tecnologia-com-especialidade-em-banco-de-dadoscns402-tipo-1.pdf"
+  },
+  "enunciado": "Certo país, isolado do mundo real, resolveu adotar mais um dia de trabalho na semana criando a 7ª feira, entre a 6ª feira e o sábado. Assim, nesse país, a semana passou a ter 8 dias.\nO primeiro dia de janeiro de 2025 caiu em uma 4ª feira.\nNesse país, o último dia do ano de 2025 será",
+  "alternativas": [
+   "uma 5ª feira.",
+   "uma 6ª feira.",
+   "uma 7ª feira.",
+   "um sábado.",
+   "um domingo."
+  ],
+  "gabarito": 3,
+  "comentario": "2025 não é bissexto: tem 365 dias, e o último dia está 364 dias após 1º de janeiro. Como a semana tem 8 dias, 364 = 45 × 8 + 4, ou seja, avançamos 4 dias a partir da 4ª feira: 5ª, 6ª, 7ª, sábado. O último dia do ano será um sábado.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tcerr-2025-ana-15",
+  "disciplina": "rlm",
+  "assunto": "rlm-problemas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TCE-RR",
+   "ano": 2025,
+   "cargo": "Analista Administrativo – TI – Banco de Dados",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-administrativo-tecnologia-com-especialidade-em-banco-de-dadoscns402-tipo-1.pdf"
+  },
+  "enunciado": "Os números 1, 2, 3 e 4 devem ser colocados cada um em um dos quadradinhos da figura abaixo (permanecendo dois quadradinhos vazios) de forma que, da esquerda para a direita, mantenham a ordem crescente.\n[figura: uma fileira horizontal de 6 quadradinhos]\nO número de maneiras diferentes em que os quatro números podem ser colocados da forma descrita acima é",
+  "alternativas": [
+   "10.",
+   "12.",
+   "15.",
+   "20.",
+   "30."
+  ],
+  "gabarito": 2,
+  "comentario": "Como a ordem dos números é fixa (crescente da esquerda para a direita), basta escolher quais 4 dos 6 quadradinhos serão ocupados: C(6,4) = 6!/(4!·2!) = 15. Cada escolha gera exatamente uma disposição válida.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tcerr-2025-ana-16",
+  "disciplina": "rlm",
+  "assunto": "rlm-medidas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TCE-RR",
+   "ano": 2025,
+   "cargo": "Analista Administrativo – TI – Banco de Dados",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-administrativo-tecnologia-com-especialidade-em-banco-de-dadoscns402-tipo-1.pdf"
+  },
+  "enunciado": "No exterior de um quadrado de lado igual a 6 cm, construa quatro semicírculos com os quatro lados do quadrado como seus diâmetros. Outro quadrado, ABCD, tem seus lados paralelos aos lados correspondentes do quadrado original, e cada lado de ABCD é tangente a um dos semicírculos.\nA área do quadrado ABCD, em centímetros quadrados é igual a",
+  "alternativas": [
+   "144.",
+   "100.",
+   "81.",
+   "64.",
+   "36."
+  ],
+  "gabarito": 0,
+  "comentario": "Cada semicírculo tem raio 3 cm e se projeta 3 cm para fora do lado do quadrado original. Assim, o lado de ABCD é 3 + 6 + 3 = 12 cm, e sua área é 12² = 144 cm².",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tcerr-2025-ana-17",
+  "disciplina": "rlm",
+  "assunto": "rlm-problemas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TCE-RR",
+   "ano": 2025,
+   "cargo": "Analista Administrativo – TI – Banco de Dados",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-administrativo-tecnologia-com-especialidade-em-banco-de-dadoscns402-tipo-1.pdf"
+  },
+  "enunciado": "Uma máquina de vender chicletes contém 12 chicletes verdes, 10 brancos e sete azuis. A cada venda, a máquina escolhe aleatoriamente o chiclete a ser vendido.\nO menor número de chicletes que uma pessoa deve comprar para ter certeza de obter cinco chicletes da mesma cor é",
+  "alternativas": [
+   "5.",
+   "7.",
+   "9.",
+   "11.",
+   "13."
+  ],
+  "gabarito": 4,
+  "comentario": "Princípio da casa dos pombos, no pior caso: a pessoa pode comprar 4 de cada cor (4 + 4 + 4 = 12) sem ter 5 iguais — todas as cores têm pelo menos 4 unidades. O próximo chiclete, o 13º, obrigatoriamente completa 5 de alguma cor.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tcerr-2025-ana-18",
+  "disciplina": "rlm",
+  "assunto": "rlm-numeros",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TCE-RR",
+   "ano": 2025,
+   "cargo": "Analista Administrativo – TI – Banco de Dados",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-administrativo-tecnologia-com-especialidade-em-banco-de-dadoscns402-tipo-1.pdf"
+  },
+  "enunciado": "Em uma boutique, uma jaqueta é vendida por R$ 360,00 e uma blusa, por R$ 240,00. Em uma liquidação dessa boutique, Joana comprou a jaqueta com 30% de desconto e a blusa com 40% de desconto.\nEm relação ao valor total original, o desconto total conseguido por Joana representa um percentual de",
+  "alternativas": [
+   "33%.",
+   "34%.",
+   "35%.",
+   "36%.",
+   "37%."
+  ],
+  "gabarito": 1,
+  "comentario": "Descontos: 30% de 360 = 108 e 40% de 240 = 96; total = 204. Valor original: 360 + 240 = 600. Percentual: 204/600 = 0,34 = 34%. Note que não se pode simplesmente fazer a média de 30% e 40%, pois os valores têm pesos diferentes.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tcerr-2025-ana-19",
+  "disciplina": "rlm",
+  "assunto": "rlm-problemas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TCE-RR",
+   "ano": 2025,
+   "cargo": "Analista Administrativo – TI – Banco de Dados",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-administrativo-tecnologia-com-especialidade-em-banco-de-dadoscns402-tipo-1.pdf"
+  },
+  "enunciado": "Considere um dado cúbico, com as faces numeradas de 1 a 6, e que cada face tem a mesma probabilidade de ficar voltada para cima quando o dado é lançado. Davi e Golias lançam esse dado uma vez cada um.\nSabendo que o número obtido no lançamento de Golias é um número par, a probabilidade de que Davi obtenha um número maior do que o de Golias é igual a",
+  "alternativas": [
+   "1/4.",
+   "7/36.",
+   "1/6.",
+   "5/36.",
+   "1/9."
+  ],
+  "gabarito": 2,
+  "comentario": "Casos favoráveis: Golias tira 2 e Davi 3, 4, 5 ou 6 (4 casos); Golias tira 4 e Davi 5 ou 6 (2 casos); Golias tira 6 e Davi não pode superá-lo (0). São 6 casos favoráveis. A banca considerou esses 6 casos sobre os 36 resultados possíveis dos dois lançamentos: 6/36 = 1/6. Observe que, numa leitura estritamente condicional (restringindo o espaço aos 18 resultados com Golias par), o cálculo daria 6/18 = 1/3, valor que não consta das alternativas; a banca manteve 1/6.",
+  "dificuldade": 3,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tcerr-2025-ana-20",
+  "disciplina": "rlm",
+  "assunto": "rlm-problemas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TCE-RR",
+   "ano": 2025,
+   "cargo": "Analista Administrativo – TI – Banco de Dados",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-administrativo-tecnologia-com-especialidade-em-banco-de-dadoscns402-tipo-1.pdf"
+  },
+  "enunciado": "Os ônibus de uma certa companhia que saem do Rio de Janeiro com destino a São Paulo partem de hora em hora, com saídas nas horas “cheias”, isto é, meia-noite, 1h, 2h, 3h, etc. Os ônibus da mesma companhia que saem de São Paulo com destino ao Rio de Janeiro partem de hora em hora, com saídas nas “meia-horas”, isto é, meia-noite e meia, 1h30min, 2h30min, 3h30min, etc.\nSuponha que os trajetos Rio-São Paulo e São Paulo-Rio sejam exatamente os mesmos e que cada viagem dure exatamente 4h30min.\nO número de ônibus São Paulo-Rio que um ônibus Rio-São Paulo encontra na rodovia (exceto os encontros nas estações do Rio e de São Paulo) é igual",
+  "alternativas": [
+   "5.",
+   "6.",
+   "7.",
+   "8.",
+   "9."
+  ],
+  "gabarito": 3,
+  "comentario": "Tome um ônibus que sai do Rio às 0h e chega a SP às 4h30. Um ônibus SP-Rio está na estrada no mesmo período se partiu depois de −4h30 (19h30 da véspera, que chega ao Rio exatamente às 0h — encontro na estação, excluído) e antes de 4h30 (que sai de SP quando o nosso chega — também excluído). As saídas válidas são 20h30, 21h30, 22h30, 23h30, 0h30, 1h30, 2h30 e 3h30: 8 ônibus.",
+  "dificuldade": 3,
+  "anulada": false
+ }
+]

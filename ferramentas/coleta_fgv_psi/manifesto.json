@@ -1,0 +1,287 @@
+[
+ {
+  "slug": "mpu-2025",
+  "orgao": "MPU",
+  "ano": 2025,
+  "cargo": "Analista do MPU – Psicologia",
+  "prova": "https://conhecimento.fgv.br/sites/default/files/concursos/a30-analista-do-mpu-psicologiaa30-tipo-1.pdf",
+  "gab": [
+   "https://conhecimento.fgv.br/sites/default/files/concursos/mpu-gabarito-definitivo.pdf"
+  ],
+  "gab_cab": "MPU - Psicologia - 1",
+  "n": 80,
+  "de": 41,
+  "ate": 80,
+  "gab_arquivo": "mpu-gabarito-definitivo.txt",
+  "id": "mpu-2025"
+ },
+ {
+  "slug": "tjap-2024",
+  "orgao": "TJ-AP",
+  "ano": 2024,
+  "cargo": "Analista Judiciário – Apoio Especializado – Psicólogo",
+  "prova": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-judiciario-apoio-especializado-psicologopsi-08-tipo-1.pdf",
+  "gab": [
+   "https://conhecimento.fgv.br/sites/default/files/concursos/tjap2024_gabarito_definitivo.pdf"
+  ],
+  "gab_cab": "Especialidade Psicólogo – TIPO 1",
+  "n": 80,
+  "de": 41,
+  "ate": 80,
+  "gab_arquivo": "tjap2024_gabarito_definitivo.txt",
+  "id": "tjap-2024"
+ },
+ {
+  "slug": "tjdft-2022",
+  "orgao": "TJDFT",
+  "ano": 2022,
+  "cargo": "Analista Judiciário – Psicologia",
+  "prova": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_judiciario_-_psicologians-psc_tipo_1.pdf",
+  "gab": [
+   "https://conhecimento.fgv.br/sites/default/files/concursos/tjdft2022_gabarito_definitivo.pdf"
+  ],
+  "gab_cab": "Psicologia – Tipo 1",
+  "n": 60,
+  "de": 21,
+  "ate": 60,
+  "gab_arquivo": "tjdft2022_gabarito_definitivo.txt",
+  "id": "tjdft-2022"
+ },
+ {
+  "slug": "tjrr-2024",
+  "orgao": "TJ-RR",
+  "ano": 2024,
+  "cargo": "Analista Judiciário – Psicologia",
+  "prova": "https://conhecimento.fgv.br/sites/default/files/concursos/cns109t01-analista-judiciario-psicologia.pdf",
+  "gab": [
+   "https://conhecimento.fgv.br/sites/default/files/concursos/tjrr_gabarito_definitivo_v3.pdf"
+  ],
+  "gab_cab": "Psicologia - TIPO  1",
+  "n": 70,
+  "de": 31,
+  "ate": 70,
+  "gab_arquivo": "tjrr_gabarito_definitivo_v3.txt",
+  "id": "tjrr-2024"
+ },
+ {
+  "slug": "dpero-2025",
+  "orgao": "DPE-RO",
+  "ano": 2025,
+  "cargo": "Analista em Psicologia",
+  "prova": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-em-psicologia-classe-acns005-tipo-1.pdf",
+  "gab": [
+   "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-defintivo-dpe-ro_0.pdf"
+  ],
+  "gab_cab": "Psicologia - Classe A - Prova Tipo 1",
+  "n": 70,
+  "de": 41,
+  "ate": 70,
+  "gab_arquivo": "gabarito-defintivo-dpe-ro_0.txt",
+  "id": "dpero-2025"
+ },
+ {
+  "slug": "tcepa-2024",
+  "orgao": "TCE-PA",
+  "ano": 2024,
+  "cargo": "Auditor de Controle Externo – Administrativa – Psicologia",
+  "prova": "https://conhecimento.fgv.br/sites/default/files/concursos/cns112-auditor-de-controle-externo-administrativa-psicologiacns112-tipo-1.pdf",
+  "gab": [
+   "https://conhecimento.fgv.br/sites/default/files/concursos/tcepa2024ap01_gabarito_definitivo_todos_20240913.pdf",
+   "https://conhecimento.fgv.br/sites/default/files/concursos/tcepa-1108_gabaritos-para-publicacao_definitivo_20240913.pdf"
+  ],
+  "gab_cab": "Psicologia - TIPO  1",
+  "n": 100,
+  "de": 61,
+  "ate": 100,
+  "gab_arquivo": "tcepa-1108_gabaritos-para-publicacao_definitivo_20240913.txt",
+  "id": "tcepa-2024"
+ },
+ {
+  "slug": "aleam-2025",
+  "orgao": "ALE-AM",
+  "ano": 2025,
+  "cargo": "Analista Legislativo – Psicólogo",
+  "prova": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-psicologo-cns325-tipo-1.pdf",
+  "gab": [
+   "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-ale-am.pdf"
+  ],
+  "gab_cab": "Psicológo - 1 - Turno",
+  "n": 80,
+  "de": 41,
+  "ate": 80,
+  "gab_arquivo": "gabarito-definitivo-ale-am.txt",
+  "id": "aleam-2025"
+ },
+ {
+  "slug": "mpes-2026",
+  "orgao": "MP-ES",
+  "ano": 2026,
+  "cargo": "Agente Técnico – Psicólogo",
+  "prova": "https://conhecimento.fgv.br/sites/default/files/concursos/agente-tecnico-psicologo-cns129-tipo-1.pdf",
+  "gab": [
+   "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-mpes-servidor-31082026.pdf"
+  ],
+  "gab_cab": "Psicólogo - Tipo 1 - Turno",
+  "n": 60,
+  "de": 21,
+  "ate": 60,
+  "gab_arquivo": "gabarito-definitivo-mpes-servidor-31082026.txt",
+  "id": "mpes-2026"
+ },
+ {
+  "slug": "fhemig-2023",
+  "orgao": "FHEMIG",
+  "ano": 2023,
+  "cargo": "Analista de Gestão e Assistência à Saúde – Psicólogo Clínico",
+  "prova": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-de-gestao-e-assistencia-a-saude-agas-psicologo-clinico-nivel-icns118-tipo-1.pdf",
+  "gab": [
+   "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-fhemig-retificado-01.11.2023.pdf"
+  ],
+  "gab_cab": "Psicólogo Clínico - I - TIPO  1",
+  "n": 45,
+  "de": 21,
+  "ate": 45,
+  "gab_arquivo": "gabarito-definitivo-fhemig-retificado-01.11.2023.txt",
+  "id": "fhemig-2023"
+ },
+ {
+  "slug": "trt24-2024",
+  "orgao": "TRT-24",
+  "ano": 2024,
+  "cargo": "Analista Judiciário – Apoio Especializado – Psicologia",
+  "prova": "https://conhecimento.fgv.br/sites/default/files/concursos/area-apoio-especializado-psicologiacns108-tipo-1.pdf",
+  "gab": [
+   "https://conhecimento.fgv.br/sites/default/files/concursos/gabaritodefinitivo_trt24-analista.pdf",
+   "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito_definitivo_trt2024_v3.pdf",
+   "https://conhecimento.fgv.br/sites/default/files/concursos/comunicado-retificar-gabarito-e-anulacao-questao_0.pdf"
+  ],
+  "gab_cab": "Psicologia - 1 *$",
+  "n": 60,
+  "de": 31,
+  "ate": 60,
+  "gab_arquivo": "gabaritodefinitivo_trt24-analista.txt",
+  "id": "trt24-2024"
+ },
+ {
+  "slug": "tjrn-2023",
+  "orgao": "TJ-RN",
+  "ano": 2023,
+  "cargo": "Analista Judiciário – Apoio Especializado – Psicologia",
+  "prova": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-judiciario-apoio-especializado-especialidade-psicologiaaj-esp-psi-tipo-1.pdf",
+  "gab": [
+   "https://conhecimento.fgv.br/sites/default/files/concursos/tjrn2023_gabarito_definitivo-edital-1.pdf"
+  ],
+  "gab_cab": "Psicologia - TIPO 1 *$",
+  "n": 70,
+  "de": 41,
+  "ate": 70,
+  "gab_arquivo": "tjrn2023_gabarito_definitivo-edital-1.txt"
+ },
+ {
+  "slug": "dpers-2023",
+  "orgao": "DPE-RS",
+  "ano": 2023,
+  "cargo": "Analista – Apoio Especializado – Saúde – Psicologia",
+  "prova": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-area-de-apoio-especializado-saude-psicologiaanaapoespsaudepsicologia-tipo-1.pdf",
+  "gab": [
+   "https://conhecimento.fgv.br/sites/default/files/concursos/dpe-rs-gabaritos-definitivos-analistas.pdf"
+  ],
+  "gab_cab": "Saúde - Psicologia - TIPO  1",
+  "n": 70,
+  "de": 41,
+  "ate": 70,
+  "gab_arquivo": "dpe-rs-gabaritos-definitivos-analistas.txt"
+ },
+ {
+  "slug": "macae-2024",
+  "orgao": "Prefeitura de Macaé",
+  "ano": 2024,
+  "cargo": "Psicólogo",
+  "prova": "https://conhecimento.fgv.br/sites/default/files/concursos/psicologocns203-tipo-1.pdf",
+  "gab": [
+   "https://conhecimento.fgv.br/sites/default/files/concursos/ed.-1-macaeadm2024_gabarito_definitivo_compilado.pdf"
+  ],
+  "gab_cab": "^Psicólogo - TIPO  1",
+  "n": 70,
+  "de": 41,
+  "ate": 70,
+  "gab_arquivo": "ed.-1-macaeadm2024_gabarito_definitivo_compilado.txt"
+ },
+ {
+  "slug": "macaeprev-2024",
+  "orgao": "MacaéPrev",
+  "ano": 2024,
+  "cargo": "Analista Previdenciário – Psicologia",
+  "prova": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-previdenciario-especialidade-psicologiacns203-tipo-1.pdf",
+  "gab": [
+   "https://conhecimento.fgv.br/sites/default/files/concursos/ed.-2-macaeprev2024_recursos_gabarito_definitivo_compilado.pdf"
+  ],
+  "gab_cab": "Especialidade Psicologia - TIPO  1",
+  "n": 70,
+  "de": 41,
+  "ate": 70,
+  "gab_arquivo": "ed.-2-macaeprev2024_recursos_gabarito_definitivo_compilado.txt"
+ },
+ {
+  "slug": "aleto-2024",
+  "orgao": "ALE-TO",
+  "ano": 2024,
+  "cargo": "Analista Legislativo – Psicologia",
+  "prova": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-psicologiacns116-tipo-1.pdf",
+  "gab": [
+   "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-policial-legislativo-ii-tecnico-legislativo-e-analista-legislativo_dsa1c.pdf"
+  ],
+  "gab_cab": "Analista Legislativo - Psicologia - TIPO  1",
+  "n": 70,
+  "de": 41,
+  "ate": 65,
+  "gab_arquivo": "gabarito-definitivo-policial-legislativo-ii-tecnico-legislativo-e-analista-legislativo_dsa1c.txt"
+ },
+ {
+  "slug": "tceto-2022",
+  "orgao": "TCE-TO",
+  "ano": 2022,
+  "cargo": "Analista Técnico – Psicologia",
+  "prova": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_tecnico_-_psicologiaanapsicolo_tipo_1.pdf",
+  "gab": [
+   "https://conhecimento.fgv.br/sites/default/files/concursos/tceto2022_gabarito_definitivo_164151578464.pdf"
+  ],
+  "gab_cab": "Analista Técnico - Psicologia - TIPO 1",
+  "n": 70,
+  "de": 36,
+  "ate": 70,
+  "gab_arquivo": "tceto2022_gabarito_definitivo_164151578464.txt"
+ },
+ {
+  "slug": "seemgnae-2023",
+  "orgao": "SEE-MG",
+  "ano": 2023,
+  "cargo": "Analista de Educação Básica – Psicólogo (NAE)",
+  "prova": "https://conhecimento.fgv.br/sites/default/files/concursos/cns305-analista-de-educacao-basica-aeb-psicologo-naecns305-tipo-1.pdf",
+  "gab": [
+   "https://conhecimento.fgv.br/sites/default/files/concursos/seduc-mg-2023-gabarito-definitivo-prova-29102023_451668415486461.pdf",
+   "https://conhecimento.fgv.br/sites/default/files/concursos/seplag-mg-gabarito-definitivo-22.10_451668415486461.pdf"
+  ],
+  "gab_cab": "Psicólogo - Núcleos de Acolhimento Educacional - NAE - TIPO  1",
+  "n": 50,
+  "de": 31,
+  "ate": 50,
+  "gab_arquivo": "seduc-mg-2023-gabarito-definitivo-prova-29102023_451668415486461.txt"
+ },
+ {
+  "slug": "seemgcrei-2023",
+  "orgao": "SEE-MG",
+  "ano": 2023,
+  "cargo": "Analista de Educação Básica – Psicólogo (CREI)",
+  "prova": "https://conhecimento.fgv.br/sites/default/files/concursos/cns306-analista-de-educacao-basica-aeb-psicologo-creicns306-tipo-1.pdf",
+  "gab": [
+   "https://conhecimento.fgv.br/sites/default/files/concursos/seduc-mg-2023-gabarito-definitivo-prova-29102023_451668415486461.pdf",
+   "https://conhecimento.fgv.br/sites/default/files/concursos/seplag-mg-gabarito-definitivo-22.10_451668415486461.pdf"
+  ],
+  "gab_cab": "Psicólogo - Centros de Referência em Educação Inclusiva - CREI - TIPO  1",
+  "n": 50,
+  "de": 31,
+  "ate": 50,
+  "gab_arquivo": "seduc-mg-2023-gabarito-definitivo-prova-29102023_451668415486461.txt"
+ }
+]

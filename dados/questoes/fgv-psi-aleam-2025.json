@@ -1,0 +1,1122 @@
+[
+ {
+  "id": "fgv-aleam-2025-psi-41",
+  "disciplina": "especificos",
+  "assunto": "esp-direitos-humanos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALE-AM",
+   "ano": 2025,
+   "cargo": "Analista Legislativo – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-psicologo-cns325-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-ale-am.pdf",
+   "questao_original": 41,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Eduardo, 15 anos, deseja ingressar no mercado de trabalho através do Programa Jovem Aprendiz. De acordo com a legislação brasileira",
+  "alternativas": [
+   "é proibido o trabalho sob quaisquer condições para pessoas menores de 18 anos, sujeitando a multa a empresa que descumprir essa regra.",
+   "o trabalho de crianças e adolescentes em regime familiar é considerado trabalho protegido e é amparado pela legislação brasileira.",
+   "como aprendiz, Eduardo tem direito à capacitação profissional e terá assegurados os direitos trabalhistas e previdenciários.",
+   "Eduardo poderá trabalhar em horário noturno até a meia noite de forma a conciliar o trabalho e a frequência escolar obrigatória.",
+   "é permitido o trabalho adolescente em condições arriscadas desde que fornecidos equipamentos de proteção individual e treinamento."
+  ],
+  "gabarito": 2,
+  "comentario": "A Constituição (art. 7º, XXXIII) proíbe qualquer trabalho a menores de 16 anos, salvo na condição de aprendiz a partir dos 14, e veda trabalho noturno, perigoso ou insalubre a menores de 18. O ECA garante ao adolescente aprendiz formação técnico-profissional e assegura os direitos trabalhistas e previdenciários, como afirma a alternativa C. A está errada porque a aprendizagem e o trabalho a partir dos 16 são permitidos; D erra porque o trabalho noturno (22h às 5h) é vedado ao adolescente; E erra porque condições perigosas são proibidas independentemente de EPI; B erra porque o trabalho infantil em regime familiar não é uma exceção protegida pela lei.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-aleam-2025-psi-42",
+  "disciplina": "especificos",
+  "assunto": "esp-trabalho",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALE-AM",
+   "ano": 2025,
+   "cargo": "Analista Legislativo – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-psicologo-cns325-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-ale-am.pdf",
+   "questao_original": 42,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Uma determinada empresa promoveu uma inesperada demissão coletiva de funcionários. Colaboradores que não perderam seus cargos reagiram declarando que só foram demitidos os colegas que tinham desempenho insatisfatório. Considerando as contribuições mais recentes da Psicodinâmica do Trabalho, podemos identificar, nessa situação,",
+  "alternativas": [
+   "o emprego do assédio organizacional como forma de conter a insubordinação dos colaboradores.",
+   "o uso da estratégia defensiva de racionalização para lidar com o sofrimento patogênico.",
+   "a importância do fiel cumprimento do trabalho prescrito para a garantia da estabilidade laboral.",
+   "a relação de causa e efeito entre instabilidade laboral e o luto patológico decorrente do estresse no trabalho.",
+   "a necessidade de técnicas de seleção e de avaliações de desempenho mais criteriosas para prevenir o turnover."
+  ],
+  "gabarito": 1,
+  "comentario": "Na Psicodinâmica do Trabalho (Dejours), os trabalhadores constroem estratégias defensivas para suportar o sofrimento sem adoecer. Atribuir a demissão ao 'mau desempenho' dos colegas é uma racionalização: dá uma explicação aparentemente lógica e tranquilizadora para uma ameaça real (o medo de ser o próximo), afastando o sofrimento da consciência. As demais alternativas não descrevem o fenômeno: não há assédio organizacional descrito (A), o caso não trata de trabalho prescrito (C), não há luto patológico (D) e E traz uma recomendação gerencial alheia à abordagem.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-aleam-2025-psi-43",
+  "disciplina": "legislacao",
+  "assunto": "leg-codigo-etica",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALE-AM",
+   "ano": 2025,
+   "cargo": "Analista Legislativo – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-psicologo-cns325-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-ale-am.pdf",
+   "questao_original": 43,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Após sentir-se prejudicada em um processo seletivo, Isabel moveu um processo ético junto ao Conselho Regional de Psicologia em face do psicólogo Marcos, acusando-o de etarismo. Considerando as penalidades previstas no Código de Ética Profissional do Psicólogo, caso seja comprovada a transgressão alegada, uma das medidas que poderá ser aplicada a Marcos é",
+  "alternativas": [
+   "a atribuição de valor de multa a ser destinada ao pagamento da indenização por danos morais.",
+   "a cassação do registro profissional de psicólogo cumulada com a demissão do cargo na empresa.",
+   "uma representação criminal considerando que é crime a discriminação contra pessoas com deficiência.",
+   "a suspensão por tempo indeterminado do título de especialista em Psicologia Organizacional.",
+   "a penalidade de censura pública pela Comissão de Orientação e Ética do Conselho Regional de Psicologia."
+  ],
+  "gabarito": 4,
+  "comentario": "O Código de Ética Profissional do Psicólogo (art. 21) prevê como penalidades a advertência, a multa, a censura pública, a suspensão do exercício profissional por até 30 dias e a cassação do exercício profissional (estas duas ad referendum do CFP), aplicadas pelo Conselho Regional. Entre as opções, só a censura pública é uma penalidade ética prevista. A multa ética não se destina a indenizar a vítima (A); o Conselho não demite ninguém do emprego (B); C fala de deficiência, e a acusação é de etarismo; e não existe no Código a suspensão de título de especialista por tempo indeterminado (D).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-aleam-2025-psi-44",
+  "disciplina": "legislacao",
+  "assunto": "leg-idoso-pcd",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALE-AM",
+   "ano": 2025,
+   "cargo": "Analista Legislativo – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-psicologo-cns325-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-ale-am.pdf",
+   "questao_original": 44,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "O Estatuto da Pessoa Idosa dispõe sobre a proteção integral da população acima de 60 anos contra diversas formas de violência. Assinale a opção que exemplifica uma situação de negligência contra a pessoa idosa.",
+  "alternativas": [
+   "Judith, 70 anos, acamada com sequelas de um AVC, foi encontrada pelo agente comunitário de saúde desnutrida e em mau estado de higiene pessoal.",
+   "Beatriz, 90 anos, faleceu vítima de uma doença grave e incurável após um ano em home care recebendo apenas cuidados paliativos.",
+   "Francisco, 82 anos, está tendo descontos em sua aposentadoria por empréstimos contraídos por seu neto Caio sem seu conhecimento.",
+   "Sérgio e Suzana internaram sua mãe Irene, 87 anos, diagnosticada com demência, em uma instituição de longa permanência para idosos.",
+   "Rosana é impaciente com sua mãe Consuelo, 80 anos, dispensando a ela um tratamento que envolve gritos, xingamentos e ameaças."
+  ],
+  "gabarito": 0,
+  "comentario": "Negligência é a omissão de quem tem o dever de cuidar: deixar de prover alimentação, higiene, medicação e cuidados básicos. Judith, acamada, desnutrida e com higiene precária, é o exemplo típico (A). O caso de Francisco é violência financeira/patrimonial (C), o de Consuelo é violência psicológica (E). Cuidados paliativos (B) e a internação em instituição de longa permanência (D) não são, por si sós, violência.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-aleam-2025-psi-45",
+  "disciplina": "especificos",
+  "assunto": "esp-trabalho",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALE-AM",
+   "ano": 2025,
+   "cargo": "Analista Legislativo – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-psicologo-cns325-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-ale-am.pdf",
+   "questao_original": 45,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "São amplamente conhecidos os prejuízos decorrentes do uso abusivo de álcool, com repercussões em diversas esferas da vida do indivíduo. Entre as consequências do alcoolismo no contexto laboral, podemos destacar a(o)",
+  "alternativas": [
+   "prevalência da Síndrome de Burnout.",
+   "maior incidência de absenteísmo.",
+   "pressão organizacional por produtividade.",
+   "declínio no registro de acidentes de trabalho.",
+   "aumento de licenças médicas por LER e DORT."
+  ],
+  "gabarito": 1,
+  "comentario": "O uso abusivo de álcool está associado ao aumento do absenteísmo (faltas, atrasos, afastamentos), além de queda de produtividade, conflitos interpessoais e aumento de acidentes de trabalho. Por isso a resposta é B. D inverte o efeito, pois o alcoolismo aumenta, e não diminui, os acidentes. Burnout e LER/DORT têm outros determinantes principais (A, E), e a pressão por produtividade é um fator organizacional, não uma consequência do alcoolismo (C).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-aleam-2025-psi-46",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALE-AM",
+   "ano": 2025,
+   "cargo": "Analista Legislativo – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-psicologo-cns325-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-ale-am.pdf",
+   "questao_original": 46,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Jéssica, 22 anos, estudante universitária e estagiária em uma empresa, mede 1,70 m e pesa 58 kg. Jéssica considera seus braços estranhos e desproporcionalmente gordos, suas roupas são sempre largas e de mangas compridas e ela costuma ficar com os braços cruzados para escondê-los. Considerando o manual diagnóstico e estatístico de doenças mentais DSM – 5, o quadro apresentado por Jéssica é sugestivo de:",
+  "alternativas": [
+   "anorexia nervosa.",
+   "bulimia nervosa.",
+   "disforia de gênero.",
+   "trantorno dismórfico corporal.",
+   "transtorno de personalidade narcísica."
+  ],
+  "gabarito": 3,
+  "comentario": "No transtorno dismórfico corporal (DSM-5, espectro obsessivo-compulsivo), a pessoa se preocupa com um ou mais defeitos percebidos na aparência que não são observáveis ou parecem mínimos para os outros, e tem comportamentos repetitivos ou de camuflagem, como esconder os braços com roupas largas. Jéssica tem peso normal (IMC em torno de 20), sem restrição alimentar nem compulsão/purgação, o que afasta anorexia e bulimia (A, B). Também não há incongruência de gênero (C) nem padrão de grandiosidade narcísica (E).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-aleam-2025-psi-47",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALE-AM",
+   "ano": 2025,
+   "cargo": "Analista Legislativo – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-psicologo-cns325-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-ale-am.pdf",
+   "questao_original": 47,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Paula foi encaminhada para um atendimento em Saúde Mental. Considerando a RAPS – Rede de Atenção Psicossocial – o atendimento para Paula pode ser prestado",
+  "alternativas": [
+   "por meio de atendimento psicoterápico e psiquiátrico no CAPSi.",
+   "preferencialmente em atendimento online em respeito ao seu quadro de fobia social.",
+   "em um grupo de apoio terapêutico em uma unidade da Estratégia Saúde da Família.",
+   "por meio de psicoterapia individual no serviço de psicologia aplicada de sua Universidade.",
+   "pelo psicólogo responsável pelo Setor de Recursos Humanos da empresa onde ela estagia."
+  ],
+  "gabarito": 2,
+  "comentario": "A RAPS (Portaria 3.088/2011) inclui a Atenção Básica (UBS, equipes da Estratégia Saúde da Família, NASF) como ponto de atenção em saúde mental, onde podem funcionar grupos terapêuticos e de apoio. Por isso C está correta. O CAPSi atende crianças e adolescentes, e Paula é estagiária, presumivelmente adulta (A). O enunciado não informa fobia social e não existe preferência normativa por atendimento online (B). O serviço-escola da universidade (D) e o RH da empresa (E) não são componentes da RAPS.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-aleam-2025-psi-48",
+  "disciplina": "especificos",
+  "assunto": "esp-direitos-humanos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALE-AM",
+   "ano": 2025,
+   "cargo": "Analista Legislativo – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-psicologo-cns325-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-ale-am.pdf",
+   "questao_original": 48,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Os diagnósticos de autismo e de TDAH vêm crescendo entre crianças, adolescentes e adultos, sendo cada vez mais comum que pessoas adultas descubram possuir uma ou até ambas as condições simultaneamente. Com esse aumento, surgiram novos conceitos para se referir a essas condições, de modo que indivíduos com TEA e/ou TDAH são frequentemente denominados como pessoas",
+  "alternativas": [
+   "neurodiversas ou neuropatas.",
+   "neurofuncionais ou neuroplurais.",
+   "neurodegenerativas ou neurotípicas.",
+   "neuroatípicas ou neurodivergentes.",
+   "neurodeficientes ou neurovariáveis."
+  ],
+  "gabarito": 3,
+  "comentario": "O movimento da neurodiversidade usa 'neurodivergente' ou 'neuroatípico' para pessoas cujo funcionamento neurológico difere do padrão considerado típico, como no TEA e no TDAH. O oposto é 'neurotípico'. Por isso a resposta é D. Termos como 'neuropatas', 'neurodeficientes' ou 'neurodegenerativas' são inadequados ou se referem a outras condições, já que doenças neurodegenerativas são outra coisa. 'Neurodiverso' qualifica um grupo ou a diversidade, e não um indivíduo.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-aleam-2025-psi-49",
+  "disciplina": "especificos",
+  "assunto": "esp-direitos-humanos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALE-AM",
+   "ano": 2025,
+   "cargo": "Analista Legislativo – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-psicologo-cns325-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-ale-am.pdf",
+   "questao_original": 49,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Berenice, 40 anos, servidora pública estadual, tem sofrido ameaças e perseguição pelo ex-marido, que não aceita a separação. Avalie se a Lei Maria da Penha prevê que, para garantir a proteção de Berenice no trabalho, o Juiz assegurará a ela:\nI. o acesso prioritário à remoção para outra unidade da administração.\nII. escolta policial no trajeto diário de ida e volta para a repartição pública.\nIII. a garantia de mudança de regime presencial para trabalho remoto ou híbrido.\nEstá correto o que se afirma em",
+  "alternativas": [
+   "I, apenas.",
+   "I e II, apenas.",
+   "I e III, apenas.",
+   "II e III, apenas.",
+   "I, II e III."
+  ],
+  "gabarito": 0,
+  "comentario": "A Lei Maria da Penha (Lei 11.340/2006, art. 9º, §2º) prevê que o juiz assegure à mulher em situação de violência o acesso prioritário à remoção, quando servidora pública (item I), e a manutenção do vínculo trabalhista por até seis meses quando for preciso se afastar do local de trabalho. A escolta policial no trajeto diário (II) e a mudança obrigatória para teletrabalho (III) não estão entre as garantias trabalhistas desse dispositivo. Por isso a resposta é 'I, apenas'.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-aleam-2025-psi-50",
+  "disciplina": "especificos",
+  "assunto": "esp-direitos-humanos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALE-AM",
+   "ano": 2025,
+   "cargo": "Analista Legislativo – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-psicologo-cns325-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-ale-am.pdf",
+   "questao_original": 50,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Luciana procurou o departamento de pessoal da instituição onde trabalha em busca de uma orientação. Ela está em aproximação com uma criança de 06 anos com a finalidade de adoção e veio buscar informações sobre o direito à licença maternidade. De acordo com o previsto no ordenamento jurídico,",
+  "alternativas": [
+   "a licença maternidade é reservada às mães de filhos naturais, considerando o impacto físico e emocional da gestação e do parto.",
+   "a concessão da licença maternidade na adoção fica restrita a crianças até 01 (um) ano, conforme o Marco Legal da Primeira Infância.",
+   "Luciana poderá tirar licença por um período de 30 dias considerando que o Marco Legal da Primeira Infância contempla crianças até 06 anos.",
+   "De acordo com o Estatuto da Criança e do Adolescente, não pode haver discriminação entre os direitos referentes a filhos naturais e adotivos.",
+   "Não há previsão legal para licença adotante e Luciana poderá requerer e obter uma licença a critério de sua chefia imediata por período a ser negociado."
+  ],
+  "gabarito": 3,
+  "comentario": "A Constituição (art. 227, §6º) e o ECA proíbem qualquer discriminação entre filhos biológicos e adotivos, que têm os mesmos direitos. Daí decorre a licença-maternidade para quem adota, prevista na CLT (art. 392-A) e no regime estatutário, que não se limita a bebês. Por isso D está correta. A, B e C criam restrições que a lei não faz (filho natural, idade até 1 ano, 30 dias), e E nega um direito que é legalmente previsto.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-aleam-2025-psi-51",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALE-AM",
+   "ano": 2025,
+   "cargo": "Analista Legislativo – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-psicologo-cns325-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-ale-am.pdf",
+   "questao_original": 51,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Recentemente, o filho de um conhecido cantor e compositor tornou público que o pai foi diagnosticado com demência por corpos de Lewy (DCL). Assinale a opção que descreve uma característica diagnóstica comum a todas as demências.",
+  "alternativas": [
+   "O declínio persistente e significativo em duas ou mais áreas cognitivas.",
+   "A prevalência das demências em pessoas com maior escolaridade.",
+   "A ocorrência de sintomas psicóticos como delírios e compulsões.",
+   "a incidência da doença como decorrência natural do envelhecimento físico.",
+   "A formação de falsas memórias como forma de compensar a amnésia."
+  ],
+  "gabarito": 0,
+  "comentario": "Toda demência (transtorno neurocognitivo maior) envolve um declínio cognitivo adquirido, persistente e significativo em relação ao nível anterior, que compromete a autonomia. A banca adotou a formulação clássica (CID-10/DSM-IV), que exige comprometimento de mais de um domínio cognitivo, como a memória e pelo menos outro. A alta escolaridade é, ao contrário, considerada fator de proteção (B). Sintomas psicóticos não são comuns a todas as demências, embora sejam frequentes na DCL (C). A demência não é consequência natural do envelhecimento (D), e a confabulação não está presente em todas elas (E). Obs.: o DSM-5 exige declínio significativo em 'um ou mais' domínios cognitivos, de modo que a exigência de 'duas ou mais áreas' reflete o critério tradicional.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-aleam-2025-psi-52",
+  "disciplina": "especificos",
+  "assunto": "esp-avaliacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALE-AM",
+   "ano": 2025,
+   "cargo": "Analista Legislativo – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-psicologo-cns325-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-ale-am.pdf",
+   "questao_original": 52,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "A Avaliação Psicológica no exercício profissional da psicóloga e do psicólogo é realizada de acordo com diretrizes estabelecidas pelo CFP. Uma determinada empresa solicitou ao psicólogo organizacional a participação em um processo seletivo para vigilantes que irão portar armas de fogo. São indicadores psicológicos restritivos para essa função:",
+  "alternativas": [
+   "equilíbrio e segurança.",
+   "empatia e imprudência.",
+   "impulsividade e instabilidade.",
+   "descontrole e maturidade.",
+   "flexibilidade e imprevisibilidade."
+  ],
+  "gabarito": 2,
+  "comentario": "Na avaliação psicológica para porte ou manuseio de arma de fogo, características como impulsividade, instabilidade emocional e agressividade descontrolada são indicadores restritivos, porque aumentam o risco do uso indevido da arma. Em todas as outras alternativas aparece ao menos uma característica desejável (equilíbrio, segurança, empatia, maturidade, flexibilidade). Só a alternativa C reúne duas características restritivas.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-aleam-2025-psi-53",
+  "disciplina": "especificos",
+  "assunto": "esp-praticas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALE-AM",
+   "ano": 2025,
+   "cargo": "Analista Legislativo – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-psicologo-cns325-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-ale-am.pdf",
+   "questao_original": 53,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "A psicóloga Erika coordena um grupo de prevenção secundária ao tabagismo que reúne funcionários de uma empresa. O uso da abordagem técnica da Terapia Cognitiva Comportamental nesse contexto",
+  "alternativas": [
+   "fará uso da psicoeducação com a finalidade de educar sobre os malefícios do tabagismo e evitar a curiosidade e a iniciação no hábito de fumar.",
+   "promoverá a redução de danos através da técnica de dessensibilização sistemática, diminuindo gradativamente a fissura pela nicotina.",
+   "focará na livre expressão emocional dos participantes, estimulando a catarse como forma de aliviar o desejo de fumar e reduzir a ansiedade.",
+   "buscará a modificação do comportamento de fumar a partir do reconhecimento das variáveis que favorecem o hábito de acender um cigarro.",
+   "proporcionará suporte emocional para os pacientes em tratamento de doenças como o enfisema pulmonar e a Doença Pulmonar Obstrutiva Crônica."
+  ],
+  "gabarito": 3,
+  "comentario": "A prevenção secundária se dirige a quem já tem o comportamento (os fumantes), para interrompê-lo cedo. Nesse contexto, a TCC trabalha com análise funcional, identificando gatilhos, pensamentos e contingências que mantêm o hábito, e com a modificação desse comportamento (D). A descreve prevenção primária, voltada a evitar a iniciação. A dessensibilização sistemática é técnica para ansiedade e fobias, não para reduzir fissura (B). A catarse não é estratégia da TCC (C). E descreve suporte a doentes crônicos, que é prevenção terciária.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-aleam-2025-psi-54",
+  "disciplina": "especificos",
+  "assunto": "esp-avaliacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALE-AM",
+   "ano": 2025,
+   "cargo": "Analista Legislativo – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-psicologo-cns325-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-ale-am.pdf",
+   "questao_original": 54,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Um curso de capacitação será oferecido para os colaboradores de uma empresa, sendo necessário selecionar para as vagas disponíveis aqueles com perfil pessoal e técnico mais adequado. Para a triagem inicial, foram realizadas entrevistas com um roteiro padronizado e idêntico para todos os funcionários. Esse modelo de entrevista é denominado",
+  "alternativas": [
+   "entrevista diagnóstica.",
+   "entrevista de anamnese.",
+   "entrevista estruturada.",
+   "entrevista semidirigida.",
+   "entrevista devolutiva."
+  ],
+  "gabarito": 2,
+  "comentario": "A entrevista estruturada (ou fechada) segue um roteiro padronizado, com as mesmas perguntas na mesma ordem para todos os entrevistados, o que facilita a comparação entre candidatos. A entrevista semidirigida tem um roteiro flexível, com espaço para o entrevistado se expressar. Anamnese, entrevista diagnóstica e entrevista devolutiva são classificações por objetivo ou momento do processo, e não pelo grau de estruturação.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-aleam-2025-psi-55",
+  "disciplina": "legislacao",
+  "assunto": "leg-codigo-etica",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALE-AM",
+   "ano": 2025,
+   "cargo": "Analista Legislativo – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-psicologo-cns325-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-ale-am.pdf",
+   "questao_original": 55,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Camila é psicóloga e trabalha com avaliação infantil. A Escola Esquilinho do Bosque encaminhou o aluno Mateus, de 9 anos, que apresenta comportamentos sugestivos de hiperatividade. Durante o processo de avaliação da criança, Camila engravidou e a obstetra avaliou que ela necessita permanecer em repouso absoluto por complicações gestacionais. Diante da situação apresentada é correto afirmar, em consonância com o Código de Ética Profissional dos Psicólogos, que",
+  "alternativas": [
+   "a psicóloga deve terminar o processo de avaliação pois está comprometida eticamente com a criança e sua família, não podendo delegar a ninguém a continuidade do trabalho.",
+   "Camila pode indicar um(a) profissional que a substitua mas é impedida eticamente de passar quaisquer informações para a continuidade da avaliação.",
+   "a profissional não pode indicar ninguém que continue o processo de avaliação e nem repassar qualquer informação necessária à continuidade da avaliação.",
+   "Camila deve sugerir que a avaliação seja finalizada por outro profissional, fornecendo ao psicólogo que a substituir as informações necessárias à continuidade do trabalho.",
+   "a família não pode buscar por outro psicólogo diante do afastamento de Camila, devendo esperar para que ela se restabeleça e retome o trabalho."
+  ],
+  "gabarito": 3,
+  "comentario": "O Código de Ética (art. 1º, 'k') estabelece como dever do psicólogo sugerir serviços de outros psicólogos sempre que, por motivos justificáveis, o trabalho não puder ser continuado por quem o iniciou, fornecendo ao substituto as informações necessárias à continuidade. O repouso absoluto de Camila é um motivo justificável, então a resposta é D. As alternativas A, B, C e E contrariam esse dever, seja ao proibir a substituição ou o repasse de informações, seja ao impor à família que espere.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-aleam-2025-psi-56",
+  "disciplina": "especificos",
+  "assunto": "esp-direitos-humanos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALE-AM",
+   "ano": 2025,
+   "cargo": "Analista Legislativo – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-psicologo-cns325-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-ale-am.pdf",
+   "questao_original": 56,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "O racismo contribui para que negros sejam submetidos a maiores níveis de pobreza, desemprego, subemprego e menores acessos a oportunidades de ascensão econômica. Isso perpetua ciclos de vulnerabilidade social, traduzindo-se em possibilidades desiguais à educação de qualidade, à saúde, à moradia e à segurança. As análises sociais sobre o racismo no Brasil vêm se debruçando, mais recentemente, sobre o fenômeno da branquitude. Podemos afirmar corretamente que ela se caracteriza como",
+  "alternativas": [
+   "um sistema internalizado de privilégios dos brancos que se ancora no passado mas exerce suas prerrogativas no presente.",
+   "uma doença ou patologia atribuída aos negros de um suposto desejo de se branquear por inveja.",
+   "a criação de padrões de beleza e de sociabilidade que consideram os negros como mais interessantes e atraentes.",
+   "a diminuição da capacidade de mobilização das comunidades negras por sua identificação com os discursos dominantes.",
+   "uma espécie de darwinismo social que apostava na seleção natural pelo cruzamento inter-racial."
+  ],
+  "gabarito": 0,
+  "comentario": "Os estudos sobre branquitude (por exemplo, Maria Aparecida Bento e Lia Vainer Schucman) a entendem como o lugar social e simbólico de privilégios dos brancos. Esses privilégios foram construídos historicamente com a escravidão, mas se reproduzem no presente, muitas vezes de modo naturalizado e não reconhecido, o que corresponde à alternativa A. B lembra a ideia racista de uma 'patologia' do desejo de embranquecimento atribuída aos negros e inverte o foco do conceito. E descreve a ideologia do branqueamento ligada ao darwinismo social, e não a branquitude.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-aleam-2025-psi-57",
+  "disciplina": "legislacao",
+  "assunto": "leg-codigo-etica",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALE-AM",
+   "ano": 2025,
+   "cargo": "Analista Legislativo – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-psicologo-cns325-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-ale-am.pdf",
+   "questao_original": 57,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Lucas e Juliana foram casados por 10 anos, gerando um filho daquela união, o menino Antônio, de 6 anos. Diante da separação conturbada de seus pais, Antônio passou a apresentar intenso sofrimento psíquico e o pai buscou por atendimento psicológico para o filho com a psicóloga Helena. De acordo com as disposições do Código de Ética Profissional dos Psicólogos,",
+  "alternativas": [
+   "Helena não poderá atender a criança sem ter o consentimento por escrito de Juliana.",
+   "os pais são obrigados a buscar o atendimento do filho juntos, concordando com a escuta psicológica.",
+   "a psicóloga poderá iniciar as intervenções no atendimento do menino diante da demanda paterna.",
+   "no atendimento de crianças a autorização paterna é facultativa, mas a materna é obrigatória.",
+   "a psicóloga só poderá iniciar o atendimento psicológico com a anuência verbal da mãe do menino."
+  ],
+  "gabarito": 2,
+  "comentario": "O art. 8º do Código de Ética determina que, para atender de forma não eventual uma criança, um adolescente ou uma pessoa interditada, o psicólogo obtenha a autorização de ao menos um dos responsáveis. Assim, a demanda paterna basta para iniciar o atendimento (C). O Código não exige a anuência da mãe, seja escrita ou verbal (A, E), nem a presença conjunta dos dois pais (B), e não faz distinção entre pai e mãe (D).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-aleam-2025-psi-58",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALE-AM",
+   "ano": 2025,
+   "cargo": "Analista Legislativo – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-psicologo-cns325-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-ale-am.pdf",
+   "questao_original": 58,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Marcos tem 12 anos e vive com a mãe e o padrasto, Eleonora e Ivan, pois seus pais se separaram quando ele tinha poucos meses. Gustavo, seu pai, sempre se revelou muito ausente de sua vida, apesar de pensionar o filho todos os meses no valor de 1 salário mínimo. Assinale a afirmativa correta segundo as disposições contidas no Estatuto da Criança e do Adolescente:",
+  "alternativas": [
+   "Gustavo cumpre com as obrigações paternas integralmente através do pagamento da pensão alimentícia.",
+   "Eleonora pode pedir a reparação de danos a Gustavo pelo abandono emocional do filho de ambos.",
+   "O pai pode parar de pagar a pensão alimentícia pois Ivan assume integralmente as responsabilidades por Marcos.",
+   "O padrasto é considerado como pai por Marcos e isso descaracteriza possível abandono da figura paterna.",
+   "É direito de Gustavo pedir para ser destituído do poder familiar pois nunca quis ser pai."
+  ],
+  "gabarito": 1,
+  "comentario": "O ECA atribui aos pais o dever de sustento, guarda e educação e, desde 2016, prevê que mãe e pai têm deveres e responsabilidades compartilhados no cuidado e na educação da criança. Pagar a pensão não esgota esses deveres (A erra). Por isso a jurisprudência (STJ) admite a reparação civil por abandono afetivo, pedida em nome do filho, aqui representado pela mãe (B). A pensão não cessa porque o padrasto assume cuidados (C), o vínculo com o padrasto não afasta o abandono pelo pai (D), e o poder familiar não pode ser renunciado por vontade do genitor (E).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-aleam-2025-psi-59",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALE-AM",
+   "ano": 2025,
+   "cargo": "Analista Legislativo – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-psicologo-cns325-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-ale-am.pdf",
+   "questao_original": 59,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Mariana tem 11 anos e nunca havia estudado. Após denúncia junto aos órgãos de proteção, foi matriculada no 6° ano do ensino fundamental, pois era a série esperada para sua faixa etária. A menina começou a apresentar importante ansiedade ao ter que ir para a escola, pois não conseguia acompanhar a turma e a professora considerou que caberia uma avaliação psicológica da aluna. Em relação ao caso, assinale a afirmativa correta.",
+  "alternativas": [
+   "Mariana tem que ser diagnosticada psiquiatricamente pois senão não vai aprender os de conteúdos escolares.",
+   "A valorização do diagnóstico busca afastar as dimensões institucionais e sociais que estão produzindo o sofrimento na criança pela patologização do social.",
+   "Os professores devem ser treinados para diagnosticarem sintomas psiquiátricos em seus alunos, pois muitos alunos expressam sofrimento mental na escola.",
+   "Todas as escolas necessitam contar com a presença de psicólogos que atendam terapeuticamente o corpo discente.",
+   "O diagnóstico de Mariana tem que ser realizado pelo médico psiquiatra lotado na escola."
+  ],
+  "gabarito": 1,
+  "comentario": "A questão parte da crítica à medicalização e à patologização da educação (por exemplo, Maria Helena Souza Patto e Collares & Moysés). A dificuldade de Mariana tem determinantes sociais e institucionais óbvios: ela nunca estudou e foi inserida no 6º ano. Valorizar o diagnóstico individual desloca para a criança um problema que é social e escolar, como diz a alternativa B. As demais reforçam a lógica medicalizante, ao exigir diagnóstico psiquiátrico (A, E) ou transformar professores em diagnosticadores (C), ou confundem a psicologia escolar com atendimento clínico (D).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-aleam-2025-psi-60",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALE-AM",
+   "ano": 2025,
+   "cargo": "Analista Legislativo – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-psicologo-cns325-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-ale-am.pdf",
+   "questao_original": 60,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Marília ficou viúva às vésperas da comemoração de suas bodas de ouro com Moacir. Desde a morte do esposo, ocorrido há 2 anos, ela se isolou, não mais conseguindo trabalhar ou fazer as atividades que realizava diariamente, vivendo imersa em muita dor, pensando insistentemente no marido. Apesar da complexidade que atravessa a constituição de uma avaliação psicodiagnóstica, os sintomas de Marília são sugestivos de",
+  "alternativas": [
+   "luto natural.",
+   "transtorno de ansiedade.",
+   "síndrome do pânico.",
+   "demência.",
+   "transtorno de luto prolongado."
+  ],
+  "gabarito": 4,
+  "comentario": "O DSM-5-TR descreve o transtorno de luto prolongado: pelo menos 12 meses após a perda (em adultos), saudade intensa e/ou preocupação persistente com o falecido, dor emocional intensa, isolamento e prejuízo significativo no funcionamento. Marília, dois anos após a morte, está isolada, sem trabalhar e pensando insistentemente no marido, o que sugere esse quadro (E), e não um luto natural (A). Ansiedade, pânico e demência (B, C, D) não explicam a sintomatologia centrada na perda.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-aleam-2025-psi-61",
+  "disciplina": "especificos",
+  "assunto": "esp-direitos-humanos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALE-AM",
+   "ano": 2025,
+   "cargo": "Analista Legislativo – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-psicologo-cns325-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-ale-am.pdf",
+   "questao_original": 61,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "As professoras Célia e Rosana, que lecionam português e história em turmas do 6° e 7° anos do ensino fundamental II da Escola Alegria Cotidiana, estão desenvolvendo um painel conjunto em suas classes, com a temática da violência doméstica e familiar contra a mulher. Após a divulgação das atividades escolares, alguns pais buscaram a secretaria da escola, queixando-se do tema, por considerá-lo inapropriado para as crianças. Diante da hipótese apresentada, assinale a afirmativa correta segundo a Lei Maria da Penha.",
+  "alternativas": [
+   "Frente à delicadeza do tema, os pais têm que ser consultados e concordar com o painel.",
+   "Os currículos escolares devem destacar conteúdos relativos aos direitos humanos, como esse sobre a violência contra a mulher.",
+   "O tema só deve ser abordado quando os alunos estiverem cursando o ensino médio.",
+   "As professoras devem ser admoestadas por desenvolverem um painel que não tenha relação com as disciplinas de português e história.",
+   "Os alunos devem se recusar a participar das atividades do painel pois os conteúdos não podem valer nas avaliações."
+  ],
+  "gabarito": 1,
+  "comentario": "Entre as medidas integradas de prevenção, a Lei Maria da Penha (art. 8º, IX) prevê destacar, nos currículos escolares de todos os níveis de ensino, os conteúdos sobre direitos humanos, equidade de gênero e de raça ou etnia e violência doméstica e familiar contra a mulher. O painel das professoras está, portanto, de acordo com a lei (B). A lei não condiciona esse conteúdo à concordância dos pais (A) nem o restringe ao ensino médio (C). Ele também pode ser trabalhado de forma interdisciplinar em português e história, o que afasta D e E.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-aleam-2025-psi-62",
+  "disciplina": "legislacao",
+  "assunto": "leg-idoso-pcd",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALE-AM",
+   "ano": 2025,
+   "cargo": "Analista Legislativo – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-psicologo-cns325-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-ale-am.pdf",
+   "questao_original": 62,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Em todo o mundo, o processo de envelhecimento está sendo redimensionado, merecendo cada vez mais destaque em termos de políticas públicas dirigidas a essa população. No Brasil, o Estatuto da Pessoa Idosa considera que é obrigação da família, da comunidade, da sociedade e do poder público assegurar à pessoa idosa, com absoluta prioridade, a efetivação do direito à vida, à saúde, à alimentação, à educação, à cultura, ao esporte, ao lazer, ao trabalho, à cidadania, à liberdade, à dignidade, ao respeito e à convivência familiar e comunitária. A garantia de prioridade compreende:\nI. a capacitação e a reciclagem dos recursos humanos nas áreas de geriatria e gerontologia e na prestação de serviços às pessoas idosas.\nII. o estabelecimento de mecanismos que favoreçam a divulgação de informações de caráter educativo sobre os aspectos biopsicossociais de envelhecimento.\nIII. a prioridade no recebimento da restituição do Imposto de Renda.\nEstá correto o que se afirma em",
+  "alternativas": [
+   "I, apenas.",
+   "II, apenas.",
+   "III, apenas.",
+   "I e II, apenas.",
+   "I, II e III."
+  ],
+  "gabarito": 4,
+  "comentario": "O parágrafo único do art. 3º do Estatuto da Pessoa Idosa detalha o que compreende a garantia de prioridade. Entre os incisos estão a capacitação e reciclagem de recursos humanos em geriatria e gerontologia (I), o estabelecimento de mecanismos que favoreçam a divulgação de informações educativas sobre os aspectos biopsicossociais do envelhecimento (II) e a prioridade no recebimento da restituição do Imposto de Renda (III). Os três itens estão na lei, por isso a resposta é E. O item III costuma pegar o candidato por parecer alheio ao tema, mas foi incluído expressamente no Estatuto.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-aleam-2025-psi-63",
+  "disciplina": "especificos",
+  "assunto": "esp-trabalho",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALE-AM",
+   "ano": 2025,
+   "cargo": "Analista Legislativo – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-psicologo-cns325-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-ale-am.pdf",
+   "questao_original": 63,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Atualmente as escolas estão valorizando o desenvolvimento de soft skills em seus alunos, pois compreendem que, além das habilidades e conteúdos acadêmicos, as soft skills são essenciais para o futuro profissional e pessoal dos estudantes, já que o mercado de trabalho reconhece profissionais que saibam liderar, colaborar e resolver problemas de maneira criativa. Avalie se as seguintes habilidades são consideradas soft skills:\nI. Capacidade de resolver conflitos II. Empatia III. Resiliência IV. Inteligência emocional Estão corretas as habilidades",
+  "alternativas": [
+   "I e II, apenas.",
+   "III e IV, apenas.",
+   "I, II e III, apenas.",
+   "II, III e IV, apenas.",
+   "I, II, III e IV."
+  ],
+  "gabarito": 4,
+  "comentario": "Soft skills são competências comportamentais e socioemocionais, em contraste com as hard skills, que são conhecimentos técnicos. Resolver conflitos, ter empatia, resiliência e inteligência emocional são exemplos clássicos de soft skills, valorizados no trabalho em equipe e na liderança. Por isso todas as habilidades listadas são corretas (E).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-aleam-2025-psi-64",
+  "disciplina": "especificos",
+  "assunto": "esp-trabalho",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALE-AM",
+   "ano": 2025,
+   "cargo": "Analista Legislativo – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-psicologo-cns325-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-ale-am.pdf",
+   "questao_original": 64,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Em sua análise sobre a dimensão que o trabalho assume na sociedade, Christophe Dejours defende a tese da “centralidade do trabalho” para a formação da identidade e para a saúde mental. Assinale a afirmativa incorreta de acordo com os pressupostos de Dejours",
+  "alternativas": [
+   "a deterioração da saúde mental no trabalho está ligada, dentre outras razões, a terceirização em escala e o uso de free-lancers em vez do trabalho assalariado.",
+   "a análise ergonômica distingue a tarefa e a atividade, pois enquanto a tarefa é o que é prescrito pela organização do trabalho, a atividade é modulada por imprevistos reais.",
+   "em princípio trabalhar é fracassar, trabalhar é sofrer, mas o sofrimento move o sujeito que trabalha para buscar a solução e se libertar do que o faz sofrer.",
+   "o sofrimento no trabalho decorre de um grau de masoquismo individual em função da erotização do sofrimento ou da dor pelo trabalhador.",
+   "os trabalhadores esperam uma retribuição material pelo seu esforço: o salário, mas também uma retribuição moral: o reconhecimento."
+  ],
+  "gabarito": 3,
+  "comentario": "Para Dejours, o sofrimento no trabalho nasce da distância entre o trabalho prescrito e o real e das formas de organização do trabalho, e não de um masoquismo individual do trabalhador. Por isso D é a afirmativa incorreta. As demais refletem suas teses: a precarização e a terceirização deterioram a saúde mental (A); a ergonomia distingue tarefa (prescrito) de atividade (real) (B); trabalhar é deparar-se com o fracasso, e o sofrimento mobiliza a inteligência e a busca de solução (C); e o trabalhador espera retribuição material e simbólica, o reconhecimento (E).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-aleam-2025-psi-65",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALE-AM",
+   "ano": 2025,
+   "cargo": "Analista Legislativo – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-psicologo-cns325-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-ale-am.pdf",
+   "questao_original": 65,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Em meio ao crescimento das redes sociais, legitima-se a inação das pessoas, que têm tido conhecimento de dinâmicas de violência através de vídeos da internet. Essa vivência valida as pesquisas desenvolvidas pelos psicólogos sociais, John Darley e Bibb Latané, no que cerne à sensação de compartilhamento da responsabilidade, ao defenderem que pessoas presentes em um determinado contexto diminuem as chances de alguém intervir em uma situação de emergência. Na pesquisa de psicologia social, os autores se debruçaram sobre uma grave situação de violência testemunhada por dezenas de pessoas, sem que nenhuma buscasse impedi-la. Essa situação é descrita como o efeito",
+  "alternativas": [
+   "do múltiplo conhecedor.",
+   "da dúvida.",
+   "do espectador.",
+   "do lapso.",
+   "do descuido."
+  ],
+  "gabarito": 2,
+  "comentario": "Darley e Latané estudaram o 'efeito espectador' (bystander effect) a partir do caso Kitty Genovese (Nova York, 1964), em que a vítima foi atacada diante de várias testemunhas sem que ninguém interviesse a tempo. Quanto mais pessoas presentes, menor a probabilidade de que cada uma ajude, por difusão da responsabilidade e influência social. As outras alternativas não correspondem a conceitos da psicologia social.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-aleam-2025-psi-66",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALE-AM",
+   "ano": 2025,
+   "cargo": "Analista Legislativo – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-psicologo-cns325-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-ale-am.pdf",
+   "questao_original": 66,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Mariana tem 17 anos, está grávida e foi expulsa de casa pela família após revelar a gravidez. Diante do quadro, a adolescente buscou ajuda do Conselho Tutelar de referência para ser acolhida. Diante da situação descrita, assinale a afirmativa correta segundo o Estatuto da Criança e do Adolescente.",
+  "alternativas": [
+   "O Conselho Tutelar deve informar para a adolescente que apenas a Vara de Infância tem autoridade para acolhê-la, encaminhando-a para o plantão judicial.",
+   "O órgão deve encaminhá-la para o Ministério Público que detém a legitimidade legal para institucionalização de crianças e adolescentes.",
+   "Mariana deve ser acolhida pelo Conselho Tutelar em instituição que receba adolescentes, tendo o direito de ficar em uma mesma unidade com o bebê após o parto.",
+   "O Conselho Tutelar deve processar a família de Mariana pela atitude de expulsar a menina diante da descoberta da gravidez.",
+   "Mariana deve ser acolhida pela Defensoria Pública, órgão responsável por defendê-la diante da violação de direitos a que foi submetida."
+  ],
+  "gabarito": 2,
+  "comentario": "Diante de uma adolescente expulsa de casa, em situação de risco, o Conselho Tutelar deve agir imediatamente para protegê-la e encaminhá-la a acolhimento em caráter emergencial, comunicando a autoridade judiciária. O ECA (art. 19, com a redação dada em 2017) garante à mãe adolescente acolhida a convivência integral com o filho. Por isso C está correta. A e B transferem indevidamente o atendimento imediato ao Judiciário ou ao MP, e E faz o mesmo com a Defensoria. D erra porque o Conselho Tutelar não processa ninguém: ele pode representar ao Ministério Público ou à autoridade judiciária. Obs.: tecnicamente, o acolhimento institucional é medida judicial; o Conselho Tutelar só encaminha em caráter excepcional e de urgência, o que a alternativa simplifica.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-aleam-2025-psi-67",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALE-AM",
+   "ano": 2025,
+   "cargo": "Analista Legislativo – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-psicologo-cns325-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-ale-am.pdf",
+   "questao_original": 67,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "O tempo máximo, em regra, para permanência da criança e do adolescente em programa de acolhimento institucional, segundo o ECA é de",
+  "alternativas": [
+   "6 (seis) meses.",
+   "12 (doze) meses.",
+   "18 (dezoito) meses.",
+   "24 (vinte e quatro) meses.",
+   "30 (trinta) meses."
+  ],
+  "gabarito": 2,
+  "comentario": "O ECA (art. 19, §2º, na redação da Lei 13.509/2017) estabelece que a permanência da criança ou do adolescente em acolhimento institucional não deve passar de 18 meses, salvo necessidade comprovada e fundamentada pela autoridade judiciária. Antes dessa lei, o prazo era de 2 anos. A situação de cada acolhido deve ser reavaliada pelo menos a cada 3 meses.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-aleam-2025-psi-68",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALE-AM",
+   "ano": 2025,
+   "cargo": "Analista Legislativo – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-psicologo-cns325-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-ale-am.pdf",
+   "questao_original": 68,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Os estudos sobre a Psicologia do Testemunho têm buscado compreender o fenômeno das falsas memórias. Sobre as falsas memórias avalie as afirmativas a seguir I. Sugestões podem distorcer memórias;\nII. A memória é, por natureza, reconstrutiva e qualquer recordação é uma construção;\nIII. As experiências emocionalmente vívidas não podem ser distorcidas mnemonicamente.\nEstá correto o que se afirma em",
+  "alternativas": [
+   "I, apenas.",
+   "II, apenas.",
+   "III, apenas.",
+   "I e II, apenas.",
+   "I, II, III."
+  ],
+  "gabarito": 3,
+  "comentario": "Pesquisas sobre falsas memórias (por exemplo, Elizabeth Loftus e Lilian Stein) mostram que a memória é reconstrutiva (II) e que sugestões, como perguntas indutoras ou informação pós-evento, podem distorcê-la (I). Memórias muito emocionais e vívidas também podem ser distorcidas, inclusive as chamadas 'memórias em flash' (flashbulb memories), por isso III é falsa. A resposta é 'I e II, apenas' (D).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-aleam-2025-psi-69",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALE-AM",
+   "ano": 2025,
+   "cargo": "Analista Legislativo – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-psicologo-cns325-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-ale-am.pdf",
+   "questao_original": 69,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "A lei da Alienação Parental dá visibilidade a um problema que atinge crianças e adolescentes de pais separados, sobretudo quando o direito fundamental à convivência familiar é violado. De acordo com o texto da lei, a Alienação Parental corresponde a um abuso moral contra a criança e o adolescente e interfere na formação psicológica deles. Caracterizados atos típicos de alienação parental ou qualquer conduta que dificulte a convivência de criança ou adolescente com genitor, o juiz poderá",
+  "alternativas": [
+   "declarar a perda do poder familiar.",
+   "declarar a suspensão da autoridade parental.",
+   "estabelecer a interdição da pessoa alienadora.",
+   "determinar acompanhamento psicológico e/ou biopsicossocial.",
+   "afastar a criança ou o adolescente em relação ao(à) alienador(a) até a maioridade."
+  ],
+  "gabarito": 3,
+  "comentario": "A Lei 12.318/2010 (art. 6º) permite ao juiz, conforme a gravidade, advertir o alienador, ampliar a convivência com o genitor alienado, aplicar multa, determinar acompanhamento psicológico e/ou biopsicossocial (D), alterar a guarda e fixar cautelarmente o domicílio da criança. A suspensão da autoridade parental (B) estava no texto original, mas foi revogada pela Lei 14.340/2022. A perda do poder familiar (A), a interdição (C) e o afastamento até a maioridade (E) não estão entre as medidas previstas.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-aleam-2025-psi-70",
+  "disciplina": "especificos",
+  "assunto": "esp-trabalho",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALE-AM",
+   "ano": 2025,
+   "cargo": "Analista Legislativo – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-psicologo-cns325-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-ale-am.pdf",
+   "questao_original": 70,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "A resolução nº 14, de 28 de junho de 2023, regulamenta o trabalho da psicóloga e do psicólogo na realização da avaliação de riscos psicossociais relacionados ao trabalho para promover a segurança, a saúde e a integridade das pessoas trabalhadoras. De acordo com a resolução, é correto afirmar que, na avaliação dos Fatores de Riscos Psicossociais Relacionados ao Trabalho - FRPRT, o psicólogo deve",
+  "alternativas": [
+   "realizar uma análise limitada aos aspectos individuais da pessoa trabalhadora.",
+   "ter como objetivo central o diagnóstico dos indivíduos aptos e inaptos para determinados serviços.",
+   "levar em consideração as atividades de trabalho desenvolvidas na forma presencial, remota ou híbrida.",
+   "investigar como as características psicológicas estática da pessoa trabalhadora interage com as exigências do trabalho.",
+   "evitar interferir nas políticas, nos processos e nos mecanismos institucionais que orientam a organização do trabalho."
+  ],
+  "gabarito": 2,
+  "comentario": "A resolução do CFP sobre avaliação de fatores de riscos psicossociais relacionados ao trabalho foca a organização e as condições do trabalho, e não características individuais e estáticas do trabalhador. Ela abrange as diversas modalidades de trabalho, inclusive presencial, remota e híbrida (C). As demais alternativas contrariam essa lógica: limitam a análise ao indivíduo (A, D), confundem a avaliação de riscos com seleção de aptos e inaptos (B) ou negam o papel do psicólogo de propor mudanças nas políticas e processos organizacionais (E).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-aleam-2025-psi-71",
+  "disciplina": "legislacao",
+  "assunto": "leg-res06-2019",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALE-AM",
+   "ano": 2025,
+   "cargo": "Analista Legislativo – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-psicologo-cns325-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-ale-am.pdf",
+   "questao_original": 71,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Ao realizar o trabalho de avaliação sobre pessoas, grupos e instituições, o psicólogo produzirá um documento psicológico que deverá observar as normas técnicas estabelecidas na Resolução nº 6, de 29 de março de 2019. De acordo com tal resolução, assinale os seguintes documentos são resultados de avaliação, a exceção de um. Assinale-o.",
+  "alternativas": [
+   "laudo psicológico.",
+   "parecer psicológico.",
+   "relatório psicológico.",
+   "atestado psicológico.",
+   "relatório multiprofissional."
+  ],
+  "gabarito": null,
+  "comentario": "A Resolução CFP 06/2019 lista como modalidades de documentos a declaração, o atestado psicológico, o relatório (psicológico e multiprofissional), o laudo psicológico e o parecer psicológico. Laudo e atestado são caracterizados como resultantes de avaliação psicológica. O parecer, ao contrário, é uma resposta técnica a uma consulta e não decorre de avaliação de pessoa ou grupo, e os relatórios comunicam a atuação profissional sem se restringirem à avaliação. Como mais de uma alternativa poderia ser apontada como 'exceção', e o enunciado ainda tem redação truncada, a questão foi anulada no gabarito definitivo.",
+  "dificuldade": 2,
+  "anulada": true
+ },
+ {
+  "id": "fgv-aleam-2025-psi-72",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALE-AM",
+   "ano": 2025,
+   "cargo": "Analista Legislativo – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-psicologo-cns325-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-ale-am.pdf",
+   "questao_original": 72,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Para Freud, é crucial que o bebê seja objeto de investimento libidinal por parte de seus pais, sendo algo fundamental para a formação do ego (Eu). Freud toma como referência uma figura mítica para designar essa etapa na qual a criança é representada como se fosse uma majestade para os seus pais. Trata-se, em Freud, do conceito de",
+  "alternativas": [
+   "nirvana.",
+   "narcisismo.",
+   "Eros e Tanatos.",
+   "complexo de Édipo.",
+   "Tiquê e Autômaton."
+  ],
+  "gabarito": 1,
+  "comentario": "Em 'Introdução ao narcisismo' (1914), Freud descreve o investimento libidinal dos pais sobre o bebê como revivescência do próprio narcisismo deles, expresso na fórmula 'Sua Majestade, o Bebê'. O narcisismo primário é decisivo para a constituição do eu, e o nome do conceito vem do mito de Narciso. Nirvana (princípio de Nirvana), Eros e Tânatos (pulsões) e complexo de Édipo são outros conceitos freudianos. Tiquê e autômaton são termos aristotélicos retomados por Lacan.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-aleam-2025-psi-73",
+  "disciplina": "especificos",
+  "assunto": "esp-avaliacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALE-AM",
+   "ano": 2025,
+   "cargo": "Analista Legislativo – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-psicologo-cns325-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-ale-am.pdf",
+   "questao_original": 73,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "A entrevista psicológica deve ser conduzida por meio de técnicas que, de modo geral, favorecem a manifestação das particularidades do sujeito que permitem ao profissional o acesso a seu modo de se estruturar e de se relaciona. Em relação à entrevista, é correto afirmar que",
+  "alternativas": [
+   "o sucesso da entrevista depende das habilidades interpessoais do entrevistado.",
+   "a entrevista fechada permite o aprofundamento mais amplo da personalidade do entrevistado.",
+   "os referenciais teóricos do profissional são irrelevantes para a técnica da entrevista quanto para a sua análise.",
+   "a entrevista devolutiva deve evitar que o entrevistado expresse seus pensamentos e seus sentimentos em relação às conclusões.",
+   "a entrevista que se realiza para um terceiro (instituição) conta frequentemente com a motivação do entrevistado para expor seus sentimentos."
+  ],
+  "gabarito": null,
+  "comentario": "A questão trata das características da entrevista psicológica (por exemplo, Bleger). O sucesso da entrevista depende sobretudo das habilidades do entrevistador. A entrevista aberta, e não a fechada, permite maior aprofundamento. O referencial teórico orienta tanto a condução quanto a análise. Na devolutiva, o entrevistado deve poder expressar o que sente sobre as conclusões. E na entrevista solicitada por terceiros a motivação do entrevistado costuma ser menor. Como nenhuma alternativa está claramente correta, a questão foi anulada no gabarito definitivo.",
+  "dificuldade": 2,
+  "anulada": true
+ },
+ {
+  "id": "fgv-aleam-2025-psi-74",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALE-AM",
+   "ano": 2025,
+   "cargo": "Analista Legislativo – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-psicologo-cns325-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-ale-am.pdf",
+   "questao_original": 74,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Na entrevista psicológica, é importante que o entrevistador seja capaz de lidar com suas próprias resistências inconscientes que eventualmente possam dificultar a escuta, especialmente do material latente do entrevistado. É fundamental, assim, que ele observe a sua contratransferência, cujo conceito pode ser definido como:",
+  "alternativas": [
+   "a confusão entre a linguagem da paixão e a linguagem da ternura.",
+   "a interpretação inexata dos conteúdos latentes recalcados do paciente.",
+   "a comunicação racional entre o ego do entrevistador e o ego do paciente.",
+   "os processos inconscientes que a transferência do paciente provoca no psicoterapeuta.",
+   "a transferência das pulsões do psicoterapeuta em vez de se utilizar de seu narcisismo para condução da entrevista."
+  ],
+  "gabarito": 3,
+  "comentario": "Na psicanálise, contratransferência é o conjunto das reações inconscientes do analista ou entrevistador à pessoa do paciente, especialmente à transferência deste (D). Reconhecê-la ajuda a evitar pontos cegos na escuta e pode ser usada como instrumento de compreensão. A alude à 'confusão de línguas' entre a linguagem da ternura e a da paixão, de Ferenczi, que é outro conceito. B descreve um erro de interpretação, C uma aliança racional entre egos, e E não corresponde a nenhuma definição consagrada.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-aleam-2025-psi-75",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALE-AM",
+   "ano": 2025,
+   "cargo": "Analista Legislativo – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-psicologo-cns325-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-ale-am.pdf",
+   "questao_original": 75,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Na reforma psiquiátrica, o paradigma antimanicomial reposicionou a psicologia no campo da saúde mental, a fim de atuar na reinvenção das práticas assistenciais. O paradigma antimanicomial visa",
+  "alternativas": [
+   "produzir controle e normatização dos segmentos sociais marginalizados, considerando a doença mental como um desvio.",
+   "questionar as instituições e os mecanismos de exclusão que elas operam, indo além dos manicômios propriamente ditos.",
+   "aumentar a demanda ambulatorial e extra-hospitalar, sem promover a transferência dos egressos dos manicômios para instituições comunitárias.",
+   "propiciar a humanização do ambiente institucional outrora restrito aos manicômios, possibilitando inovações tais como as comunidades terapêuticas.",
+   "considerar a adoção de medidas administrativas, democráticas, participativas e coletivas, objetivando uma transformação da dinâmica institucional asilar."
+  ],
+  "gabarito": 1,
+  "comentario": "O paradigma antimanicomial, inspirado em Basaglia e desenvolvido no Brasil por autores como Paulo Amarante, entende a desinstitucionalização como desconstrução dos saberes e práticas que produzem exclusão, o que vai além de fechar ou humanizar hospitais (B). D e E descrevem propostas reformistas, como comunidades terapêuticas e psicoterapia institucional, que melhoram ou democratizam o asilo sem romper com sua lógica. A descreve justamente a função de controle social que o movimento critica. C contraria a substituição do modelo asilar por serviços comunitários.",
+  "dificuldade": 3,
+  "anulada": false
+ },
+ {
+  "id": "fgv-aleam-2025-psi-76",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALE-AM",
+   "ano": 2025,
+   "cargo": "Analista Legislativo – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-psicologo-cns325-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-ale-am.pdf",
+   "questao_original": 76,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "O cuidado ofertado nos Centros de Atenção Psicossocial busca",
+  "alternativas": [
+   "superar a manicomialização do cuidado, executando ações de atenção à crise que prescindem do vínculo com os usuários.",
+   "centrar na cura do sofrimento psíquico, considerando a articulação com os dispositivos territoriais em sua dimensão geográfica.",
+   "desconstruir a relação de tutela com os usuários e o lugar de objeto que captura a possibilidade de ser sujeito, negando a doença mental.",
+   "envolver a conscientização da cidadania dos usuários, visando a recuperação de uma vida significativa com a maior autonomia possível.",
+   "substituir a medicalização do cuidado pela oferta de suporte psicológico, tendo a clínica individual como via principal para a produção de suporte ao sofrimento."
+  ],
+  "gabarito": 3,
+  "comentario": "Os CAPS são serviços territoriais e comunitários que buscam a reabilitação psicossocial: cidadania, autonomia, vínculos e projetos de vida significativos para os usuários (D). A erra porque o cuidado à crise depende do vínculo. B erra porque o foco não é a 'cura', e o território é uma noção relacional e existencial, não só geográfica. C distorce Basaglia, que propôs pôr a doença 'entre parênteses', e não negá-la. E erra porque o cuidado é multiprofissional e coletivo, não centrado na clínica individual.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-aleam-2025-psi-77",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALE-AM",
+   "ano": 2025,
+   "cargo": "Analista Legislativo – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-psicologo-cns325-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-ale-am.pdf",
+   "questao_original": 77,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "A estratégia de redução de danos para o cuidado no campo de drogas visa fundamentalmente à(ao)",
+  "alternativas": [
+   "verticalização do cuidado.",
+   "imposição da abstinência.",
+   "psicologização do cuidado.",
+   "protagonismo dos usuários.",
+   "fortalecimento dos familiares."
+  ],
+  "gabarito": 3,
+  "comentario": "A redução de danos é uma estratégia de cuidado que não exige abstinência como condição. Ela respeita a autonomia e o protagonismo do usuário, construindo com ele, de forma horizontal, metas possíveis para diminuir os prejuízos do uso (D). A abstinência imposta (B), a verticalização do cuidado (A) e a psicologização do problema (C) são o oposto dessa lógica. O apoio aos familiares pode fazer parte do cuidado, mas não é o seu objetivo fundamental (E).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-aleam-2025-psi-78",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALE-AM",
+   "ano": 2025,
+   "cargo": "Analista Legislativo – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-psicologo-cns325-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-ale-am.pdf",
+   "questao_original": 78,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "A abordagem médica do uso de drogas tem sido predominante no debate público contemporâneo. A partir de uma perspectiva crítica os efeitos dessa abordagem no campo de drogas",
+  "alternativas": [
+   "influenciam a produção de discursos associados à criminalização e moralização.",
+   "consolidam a cientificidade das ações de redução de danos, fundamentando o cuidado na área.",
+   "oferecem subsídio para o enfrentamento da medicalização do cuidado, valorizando o protagonismo do usuário.",
+   "oferecem alternativas com base científica que garantem respostas aos dilemas do cuidado aos usuários de drogas.",
+   "valorizam as explicações neurobiológicas, superando a tentativa de normatização dos comportamentos humanos."
+  ],
+  "gabarito": 0,
+  "comentario": "Pela perspectiva crítica, a abordagem biomédica hegemônica das drogas, que trata o uso como doença a ser eliminada, coexiste e se articula com o discurso proibicionista. Ela reforça a moralização do usuário e a criminalização das drogas (A). As demais alternativas atribuem a essa abordagem efeitos que a crítica atribui justamente às alternativas a ela, como a redução de danos e o protagonismo do usuário (B, C), ou apresentam a medicalização como solução científica neutra e libertadora (D, E).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-aleam-2025-psi-79",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALE-AM",
+   "ano": 2025,
+   "cargo": "Analista Legislativo – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-psicologo-cns325-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-ale-am.pdf",
+   "questao_original": 79,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Com base na perspectiva sócio-histórica, assinale a opção que aborda corretamente a noção de grupo.",
+  "alternativas": [
+   "A função do grupo é definir papéis e, consequentemente, garantir a produtividade social.",
+   "A coesão grupal pode garantir maior harmonia entre as relações, tornando o processo grupal mais efetivo.",
+   "As ações transformadoras da sociedade podem ocorrer a despeito dos grupos e do modo como os mesmos são forjados.",
+   "É uma condição necessária para conhecer as determinações sociais que agem sobre o indivíduo e sua ação como sujeito histórico.",
+   "Todo grupo ou agrupamento existe a despeito de instituições, tais como a família, a fábrica, a universidade, até o próprio Estado."
+  ],
+  "gabarito": 3,
+  "comentario": "Na psicologia social sócio-histórica (Silvia Lane), o grupo é a mediação entre indivíduo e sociedade. É no grupo que se reproduzem e se podem conhecer as determinações sociais e históricas que agem sobre o indivíduo, e é por meio dele que o sujeito pode se tornar agente da história (D). A e B refletem a visão funcionalista, de papéis, produtividade e coesão como valor. C e E negam a relação constitutiva entre grupos, instituições e transformação social.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-aleam-2025-psi-80",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALE-AM",
+   "ano": 2025,
+   "cargo": "Analista Legislativo – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-psicologo-cns325-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-ale-am.pdf",
+   "questao_original": 80,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Na perspectiva da análise institucional, a transversalidade potencializa o processo grupal. Considerando o conceito de transversalidade, analise as afirmativas a seguir:\nI. Se opõe à verticalidade grupal, assemelhando-se a horizontalidade, produzindo coesão e harmonia grupal.\nII. Denota o desmonte das hierarquias instituídas em um grupo, se estabelecendo no intercruzamento dos pertencimentos e na ampliação das zonas de conflito.\nIII. Remete a interpenetração entre as diferentes forças comprometidas com a inovação e com as rupturas das lógicas estabelecidas.\nEstá correto o que se afirma em",
+  "alternativas": [
+   "I, apenas.",
+   "I e II, apenas.",
+   "I e III, apenas.",
+   "II e III, apenas.",
+   "I, II, III.."
+  ],
+  "gabarito": 3,
+  "comentario": "Para Guattari, a transversalidade se opõe tanto à verticalidade (hierarquia) quanto à horizontalidade (relações entre iguais que apenas se justapõem), e por isso I está errada. Ela é o grau de comunicação entre diferentes níveis e sentidos, que desmonta hierarquias instituídas, atravessa pertencimentos e amplia zonas de conflito (II). Também remete à interpenetração das forças comprometidas com a ruptura do instituído e com o instituinte (III). A transversalidade não produz harmonia: ela potencializa o grupo como grupo-sujeito. Por isso a resposta é D.",
+  "dificuldade": 3,
+  "anulada": false
+ }
+]

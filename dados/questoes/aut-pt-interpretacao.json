@@ -1,0 +1,266 @@
+[
+  {
+    "id": "aut-pt-interpretacao-001",
+    "disciplina": "portugues",
+    "assunto": "pt-interpretacao",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "texto": "O cansaço que não tira férias\n\nHá um tipo de cansaço que não passa com o fim de semana. Quem o conhece sabe: a segunda-feira chega e o corpo, embora tenha dormido, continua pesado, como se carregasse a semana anterior inteira. Os especialistas chamam esse estado de esgotamento profissional, e a Organização Mundial da Saúde já o reconhece como fenômeno ligado ao trabalho.\n\nNão se trata, porém, de simples preguiça ou falta de força de vontade. O esgotamento costuma atingir justamente os mais dedicados, aqueles que respondem a mensagens à meia-noite e acreditam que descansar é um luxo. Por isso, a solução não pode ser apenas individual: de nada adianta ensinar técnicas de respiração a quem trabalha doze horas por dia sem pausa.\n\nAs empresas que levam o problema a sério revisam metas, redistribuem tarefas e, sobretudo, respeitam o direito de desconectar. Já as que preferem ignorá-lo pagam a conta mais tarde, em afastamentos, rotatividade e perda de talentos.\n\nTalvez o primeiro passo seja mudar a pergunta. Em vez de indagar por que o trabalhador não aguenta, deveríamos perguntar o que, no trabalho, se tornou insuportável.\n\n(Texto autoral, escrito para fins didáticos.)",
+    "enunciado": "A tese central defendida no texto é a de que",
+    "alternativas": [
+      "o esgotamento profissional atinge principalmente os trabalhadores pouco dedicados e sem força de vontade.",
+      "o esgotamento profissional deve ser enfrentado sobretudo com mudanças nas condições de trabalho, e não apenas com iniciativas individuais.",
+      "as técnicas de respiração são a forma mais eficaz de combater o esgotamento profissional.",
+      "o descanso de fim de semana é suficiente para eliminar o cansaço acumulado no trabalho.",
+      "o esgotamento profissional ainda não é reconhecido como fenômeno ligado ao trabalho."
+    ],
+    "gabarito": 1,
+    "comentario": "O texto afirma que 'a solução não pode ser apenas individual' e elogia empresas que revisam metas e respeitam o direito de desconectar; a tese, portanto, é a da responsabilidade das condições de trabalho. O texto diz o contrário sobre os 'mais dedicados', considera inútil ensinar respiração a quem trabalha doze horas, afirma que o cansaço 'não passa com o fim de semana' e informa que a OMS já reconhece o fenômeno.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-interpretacao-002",
+    "disciplina": "portugues",
+    "assunto": "pt-interpretacao",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "texto": "O cansaço que não tira férias\n\nHá um tipo de cansaço que não passa com o fim de semana. Quem o conhece sabe: a segunda-feira chega e o corpo, embora tenha dormido, continua pesado, como se carregasse a semana anterior inteira. Os especialistas chamam esse estado de esgotamento profissional, e a Organização Mundial da Saúde já o reconhece como fenômeno ligado ao trabalho.\n\nNão se trata, porém, de simples preguiça ou falta de força de vontade. O esgotamento costuma atingir justamente os mais dedicados, aqueles que respondem a mensagens à meia-noite e acreditam que descansar é um luxo. Por isso, a solução não pode ser apenas individual: de nada adianta ensinar técnicas de respiração a quem trabalha doze horas por dia sem pausa.\n\nAs empresas que levam o problema a sério revisam metas, redistribuem tarefas e, sobretudo, respeitam o direito de desconectar. Já as que preferem ignorá-lo pagam a conta mais tarde, em afastamentos, rotatividade e perda de talentos.\n\nTalvez o primeiro passo seja mudar a pergunta. Em vez de indagar por que o trabalhador não aguenta, deveríamos perguntar o que, no trabalho, se tornou insuportável.\n\n(Texto autoral, escrito para fins didáticos.)",
+    "enunciado": "No trecho \"Já as que preferem ignorá-lo pagam a conta mais tarde\", o pronome \"-lo\" retoma",
+    "alternativas": [
+      "o direito de desconectar.",
+      "o trabalhador que não aguenta.",
+      "o talento perdido pelas empresas.",
+      "o problema do esgotamento, mencionado na frase anterior.",
+      "o afastamento do trabalhador."
+    ],
+    "gabarito": 3,
+    "comentario": "Trata-se de coesão referencial anafórica: 'As empresas que levam o problema a sério [...]. Já as que preferem ignorá-lo' — ignorar o problema, isto é, o esgotamento. As demais opções apontam termos que não funcionam como antecedente: 'direito de desconectar' é o que as empresas sérias respeitam, e afastamentos e perda de talentos aparecem depois, como consequência.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-interpretacao-003",
+    "disciplina": "portugues",
+    "assunto": "pt-interpretacao",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "texto": "O cansaço que não tira férias\n\nHá um tipo de cansaço que não passa com o fim de semana. Quem o conhece sabe: a segunda-feira chega e o corpo, embora tenha dormido, continua pesado, como se carregasse a semana anterior inteira. Os especialistas chamam esse estado de esgotamento profissional, e a Organização Mundial da Saúde já o reconhece como fenômeno ligado ao trabalho.\n\nNão se trata, porém, de simples preguiça ou falta de força de vontade. O esgotamento costuma atingir justamente os mais dedicados, aqueles que respondem a mensagens à meia-noite e acreditam que descansar é um luxo. Por isso, a solução não pode ser apenas individual: de nada adianta ensinar técnicas de respiração a quem trabalha doze horas por dia sem pausa.\n\nAs empresas que levam o problema a sério revisam metas, redistribuem tarefas e, sobretudo, respeitam o direito de desconectar. Já as que preferem ignorá-lo pagam a conta mais tarde, em afastamentos, rotatividade e perda de talentos.\n\nTalvez o primeiro passo seja mudar a pergunta. Em vez de indagar por que o trabalhador não aguenta, deveríamos perguntar o que, no trabalho, se tornou insuportável.\n\n(Texto autoral, escrito para fins didáticos.)",
+    "enunciado": "Ao propor, no último parágrafo, que se troque a pergunta \"por que o trabalhador não aguenta\" por \"o que, no trabalho, se tornou insuportável\", o autor desloca o foco",
+    "alternativas": [
+      "do indivíduo, visto como incapaz de suportar, para as condições de trabalho que se tornaram excessivas.",
+      "das empresas para o trabalhador, que deve buscar técnicas de relaxamento.",
+      "da Organização Mundial da Saúde para os especialistas em esgotamento.",
+      "dos colegas de trabalho para a família do trabalhador.",
+      "do presente para o passado, quando não havia esgotamento profissional."
+    ],
+    "gabarito": 0,
+    "comentario": "A primeira pergunta põe a falha no trabalhador; a segunda investiga o que há de insuportável no próprio trabalho. É a conclusão coerente com a tese de que a solução não é apenas individual. As outras opções invertem o deslocamento ou mencionam elementos que o texto não relaciona à pergunta final.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-interpretacao-004",
+    "disciplina": "portugues",
+    "assunto": "pt-interpretacao",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "texto": "O cansaço que não tira férias\n\nHá um tipo de cansaço que não passa com o fim de semana. Quem o conhece sabe: a segunda-feira chega e o corpo, embora tenha dormido, continua pesado, como se carregasse a semana anterior inteira. Os especialistas chamam esse estado de esgotamento profissional, e a Organização Mundial da Saúde já o reconhece como fenômeno ligado ao trabalho.\n\nNão se trata, porém, de simples preguiça ou falta de força de vontade. O esgotamento costuma atingir justamente os mais dedicados, aqueles que respondem a mensagens à meia-noite e acreditam que descansar é um luxo. Por isso, a solução não pode ser apenas individual: de nada adianta ensinar técnicas de respiração a quem trabalha doze horas por dia sem pausa.\n\nAs empresas que levam o problema a sério revisam metas, redistribuem tarefas e, sobretudo, respeitam o direito de desconectar. Já as que preferem ignorá-lo pagam a conta mais tarde, em afastamentos, rotatividade e perda de talentos.\n\nTalvez o primeiro passo seja mudar a pergunta. Em vez de indagar por que o trabalhador não aguenta, deveríamos perguntar o que, no trabalho, se tornou insuportável.\n\n(Texto autoral, escrito para fins didáticos.)",
+    "enunciado": "No terceiro parágrafo, \"afastamentos, rotatividade e perda de talentos\" são apresentados como",
+    "alternativas": [
+      "causas do esgotamento profissional apontadas pela OMS.",
+      "medidas adotadas pelas empresas que levam o problema a sério.",
+      "consequências enfrentadas pelas empresas que ignoram o problema.",
+      "exemplos de técnicas individuais de combate ao estresse.",
+      "sintomas físicos do cansaço que não passa com o fim de semana."
+    ],
+    "gabarito": 2,
+    "comentario": "As empresas que ignoram o esgotamento 'pagam a conta mais tarde, em afastamentos, rotatividade e perda de talentos': os três termos explicam qual é essa 'conta', isto é, o prejuízo. Não são causas nem sintomas, e as medidas das empresas sérias são outras (revisar metas, redistribuir tarefas, respeitar a desconexão).",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-interpretacao-005",
+    "disciplina": "portugues",
+    "assunto": "pt-interpretacao",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "texto": "Bancos para pessoas\n\nMoro num bairro onde as praças foram, aos poucos, substituídas por estacionamentos. Ninguém decidiu isso numa reunião; aconteceu como acontecem as coisas nas cidades grandes, sem aviso e sem culpados. Um dia, percebi que já não havia onde sentar.\n\nA psicologia urbana tem um nome para os lugares que nos fazem bem: espaços de convivência. Neles, encontramos desconhecidos sem a obrigação de conversar, mas com a possibilidade de fazê-lo. É ali que o idoso troca duas palavras com o jornaleiro, que a criança aprende a dividir o balanço, que o recém-chegado deixa de ser estranho.\n\nQuando esses espaços somem, a solidão não aparece de repente. Ela se instala devagar, disfarçada de rotina: casa, carro, trabalho, carro, casa. Os vizinhos viram rostos sem nome, e o bairro, um endereço.\n\nNão quero romantizar o passado, que tinha seus próprios problemas. Mas desconfio de que uma cidade se mede menos pela quantidade de vagas que oferece aos automóveis do que pelos bancos que oferece às pessoas.\n\n(Texto autoral, escrito para fins didáticos.)",
+    "enunciado": "No terceiro parágrafo, a enumeração \"casa, carro, trabalho, carro, casa\" sugere",
+    "alternativas": [
+      "a variedade de atividades que a cidade oferece aos moradores.",
+      "a preferência do autor pelo automóvel em relação ao transporte público.",
+      "a mudança gradual do autor para um bairro mais afastado.",
+      "o crescimento econômico do bairro após a construção dos estacionamentos.",
+      "a monotonia de uma rotina circular e repetitiva, sem espaço para encontros."
+    ],
+    "gabarito": 4,
+    "comentario": "A sequência começa e termina em 'casa' e repete 'carro', desenhando um circuito fechado; é a 'rotina' sob a qual a solidão 'se instala devagar'. Nada no trecho fala de variedade, comparação com o transporte público, mudança de bairro ou crescimento econômico.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-interpretacao-006",
+    "disciplina": "portugues",
+    "assunto": "pt-interpretacao",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "texto": "Bancos para pessoas\n\nMoro num bairro onde as praças foram, aos poucos, substituídas por estacionamentos. Ninguém decidiu isso numa reunião; aconteceu como acontecem as coisas nas cidades grandes, sem aviso e sem culpados. Um dia, percebi que já não havia onde sentar.\n\nA psicologia urbana tem um nome para os lugares que nos fazem bem: espaços de convivência. Neles, encontramos desconhecidos sem a obrigação de conversar, mas com a possibilidade de fazê-lo. É ali que o idoso troca duas palavras com o jornaleiro, que a criança aprende a dividir o balanço, que o recém-chegado deixa de ser estranho.\n\nQuando esses espaços somem, a solidão não aparece de repente. Ela se instala devagar, disfarçada de rotina: casa, carro, trabalho, carro, casa. Os vizinhos viram rostos sem nome, e o bairro, um endereço.\n\nNão quero romantizar o passado, que tinha seus próprios problemas. Mas desconfio de que uma cidade se mede menos pela quantidade de vagas que oferece aos automóveis do que pelos bancos que oferece às pessoas.\n\n(Texto autoral, escrito para fins didáticos.)",
+    "enunciado": "De acordo com o segundo parágrafo, os espaços de convivência caracterizam-se por",
+    "alternativas": [
+      "obrigar os frequentadores a interagir com estranhos.",
+      "ser planejados em reuniões com a participação dos moradores.",
+      "permitir o encontro com desconhecidos sem a obrigação de conversar, mas com a possibilidade de fazê-lo.",
+      "destinar-se exclusivamente a idosos e crianças.",
+      "substituir as relações de vizinhança por contatos virtuais."
+    ],
+    "gabarito": 2,
+    "comentario": "O texto define: 'encontramos desconhecidos sem a obrigação de conversar, mas com a possibilidade de fazê-lo'. Idosos e crianças aparecem só como exemplos, não como público exclusivo. As reuniões são citadas no primeiro parágrafo, a propósito da substituição das praças, e o texto não fala de contatos virtuais.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-interpretacao-007",
+    "disciplina": "portugues",
+    "assunto": "pt-interpretacao",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "texto": "Bancos para pessoas\n\nMoro num bairro onde as praças foram, aos poucos, substituídas por estacionamentos. Ninguém decidiu isso numa reunião; aconteceu como acontecem as coisas nas cidades grandes, sem aviso e sem culpados. Um dia, percebi que já não havia onde sentar.\n\nA psicologia urbana tem um nome para os lugares que nos fazem bem: espaços de convivência. Neles, encontramos desconhecidos sem a obrigação de conversar, mas com a possibilidade de fazê-lo. É ali que o idoso troca duas palavras com o jornaleiro, que a criança aprende a dividir o balanço, que o recém-chegado deixa de ser estranho.\n\nQuando esses espaços somem, a solidão não aparece de repente. Ela se instala devagar, disfarçada de rotina: casa, carro, trabalho, carro, casa. Os vizinhos viram rostos sem nome, e o bairro, um endereço.\n\nNão quero romantizar o passado, que tinha seus próprios problemas. Mas desconfio de que uma cidade se mede menos pela quantidade de vagas que oferece aos automóveis do que pelos bancos que oferece às pessoas.\n\n(Texto autoral, escrito para fins didáticos.)",
+    "enunciado": "Ao afirmar \"Não quero romantizar o passado, que tinha seus próprios problemas\", o autor",
+    "alternativas": [
+      "antecipa uma possível objeção e admite limites da comparação com o passado, sem abandonar sua crítica.",
+      "contradiz a tese que defendeu nos parágrafos anteriores.",
+      "revela que prefere os estacionamentos às antigas praças.",
+      "afirma que o passado era melhor em todos os aspectos.",
+      "introduz um tema novo, sem relação com o restante do texto."
+    ],
+    "gabarito": 0,
+    "comentario": "É uma estratégia argumentativa de concessão: o autor se protege da acusação de saudosismo e logo retoma a tese com 'Mas desconfio de que uma cidade se mede [...] pelos bancos que oferece às pessoas'. Ele não se contradiz nem elogia os estacionamentos, e é justamente o 'em todos os aspectos' que ele nega.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-interpretacao-008",
+    "disciplina": "portugues",
+    "assunto": "pt-interpretacao",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "texto": "Bancos para pessoas\n\nMoro num bairro onde as praças foram, aos poucos, substituídas por estacionamentos. Ninguém decidiu isso numa reunião; aconteceu como acontecem as coisas nas cidades grandes, sem aviso e sem culpados. Um dia, percebi que já não havia onde sentar.\n\nA psicologia urbana tem um nome para os lugares que nos fazem bem: espaços de convivência. Neles, encontramos desconhecidos sem a obrigação de conversar, mas com a possibilidade de fazê-lo. É ali que o idoso troca duas palavras com o jornaleiro, que a criança aprende a dividir o balanço, que o recém-chegado deixa de ser estranho.\n\nQuando esses espaços somem, a solidão não aparece de repente. Ela se instala devagar, disfarçada de rotina: casa, carro, trabalho, carro, casa. Os vizinhos viram rostos sem nome, e o bairro, um endereço.\n\nNão quero romantizar o passado, que tinha seus próprios problemas. Mas desconfio de que uma cidade se mede menos pela quantidade de vagas que oferece aos automóveis do que pelos bancos que oferece às pessoas.\n\n(Texto autoral, escrito para fins didáticos.)",
+    "enunciado": "Em \"Ninguém decidiu isso numa reunião\", o pronome \"isso\" refere-se",
+    "alternativas": [
+      "à mudança do autor para o bairro.",
+      "à ausência de reuniões entre os moradores.",
+      "à inexistência de culpados nas cidades grandes.",
+      "à substituição gradual das praças por estacionamentos.",
+      "ao hábito de sentar nas praças do bairro."
+    ],
+    "gabarito": 3,
+    "comentario": "'Isso' é anafórico e resume o conteúdo da oração anterior: as praças 'foram, aos poucos, substituídas por estacionamentos'. As demais opções apontam ideias que não estão no antecedente ou aparecem só depois, como 'sem culpados'.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-interpretacao-009",
+    "disciplina": "portugues",
+    "assunto": "pt-interpretacao",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "texto": "Elogio da espera\n\nAntigamente, esperar era um tempo morto. Na fila do banco ou no consultório, restava observar as pessoas, ler os avisos na parede ou simplesmente pensar em nada. Hoje, o celular ocupa cada um desses intervalos, e o tédio, que parecia um inimigo, tornou-se quase uma raridade.\n\nPesquisadores da atenção alertam, no entanto, que o tédio cumpre uma função. É nos momentos vazios que a mente divaga, associa ideias distantes e, não raro, encontra soluções que o esforço concentrado não alcançou. Sem eles, vivemos estimulados o tempo todo, mas criamos pouco.\n\nIsso não significa que devamos jogar o aparelho fora. A tecnologia aproxima familiares distantes, facilita o acesso a serviços e, para muitos, é ferramenta de trabalho. O problema não está no objeto, mas no hábito de recorrer a ele sempre que surge um segundo de silêncio.\n\nExperimente, na próxima espera, deixar o telefone no bolso. Os primeiros minutos serão desconfortáveis; depois, talvez você reencontre um velho conhecido: seu próprio pensamento.\n\n(Texto autoral, escrito para fins didáticos.)",
+    "enunciado": "Um título que resumiria adequadamente a ideia central do texto, além do que ele já tem, seria",
+    "alternativas": [
+      "Abaixo os celulares",
+      "As filas de banco de antigamente",
+      "A tecnologia que une famílias",
+      "Como ser mais produtivo no trabalho",
+      "O tédio como espaço do pensamento"
+    ],
+    "gabarito": 4,
+    "comentario": "O texto defende que os momentos vazios favorecem a divagação e a criatividade e convida o leitor a reencontrar 'seu próprio pensamento'. 'Abaixo os celulares' contraria o terceiro parágrafo, que recusa jogar o aparelho fora. As filas e a união das famílias são detalhes, e a produtividade no trabalho não é tema do texto.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-interpretacao-010",
+    "disciplina": "portugues",
+    "assunto": "pt-interpretacao",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "texto": "Elogio da espera\n\nAntigamente, esperar era um tempo morto. Na fila do banco ou no consultório, restava observar as pessoas, ler os avisos na parede ou simplesmente pensar em nada. Hoje, o celular ocupa cada um desses intervalos, e o tédio, que parecia um inimigo, tornou-se quase uma raridade.\n\nPesquisadores da atenção alertam, no entanto, que o tédio cumpre uma função. É nos momentos vazios que a mente divaga, associa ideias distantes e, não raro, encontra soluções que o esforço concentrado não alcançou. Sem eles, vivemos estimulados o tempo todo, mas criamos pouco.\n\nIsso não significa que devamos jogar o aparelho fora. A tecnologia aproxima familiares distantes, facilita o acesso a serviços e, para muitos, é ferramenta de trabalho. O problema não está no objeto, mas no hábito de recorrer a ele sempre que surge um segundo de silêncio.\n\nExperimente, na próxima espera, deixar o telefone no bolso. Os primeiros minutos serão desconfortáveis; depois, talvez você reencontre um velho conhecido: seu próprio pensamento.\n\n(Texto autoral, escrito para fins didáticos.)",
+    "enunciado": "No terceiro parágrafo, o autor",
+    "alternativas": [
+      "contradiz o parágrafo anterior e passa a defender o uso contínuo do celular.",
+      "faz uma concessão, reconhecendo benefícios da tecnologia, para precisar que o problema está no hábito, e não no objeto.",
+      "propõe que o aparelho seja abandonado definitivamente.",
+      "apresenta dados estatísticos sobre o uso de celulares em filas.",
+      "narra uma experiência pessoal vivida em um consultório."
+    ],
+    "gabarito": 1,
+    "comentario": "O parágrafo começa com 'Isso não significa que devamos jogar o aparelho fora', admite vantagens (aproximar familiares, facilitar serviços, servir de ferramenta de trabalho) e conclui que 'O problema não está no objeto, mas no hábito'. É uma concessão que delimita a crítica, sem contradição nem proposta de abandono. Não há estatísticas nem narrativa pessoal no trecho.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-interpretacao-011",
+    "disciplina": "portugues",
+    "assunto": "pt-interpretacao",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "texto": "Elogio da espera\n\nAntigamente, esperar era um tempo morto. Na fila do banco ou no consultório, restava observar as pessoas, ler os avisos na parede ou simplesmente pensar em nada. Hoje, o celular ocupa cada um desses intervalos, e o tédio, que parecia um inimigo, tornou-se quase uma raridade.\n\nPesquisadores da atenção alertam, no entanto, que o tédio cumpre uma função. É nos momentos vazios que a mente divaga, associa ideias distantes e, não raro, encontra soluções que o esforço concentrado não alcançou. Sem eles, vivemos estimulados o tempo todo, mas criamos pouco.\n\nIsso não significa que devamos jogar o aparelho fora. A tecnologia aproxima familiares distantes, facilita o acesso a serviços e, para muitos, é ferramenta de trabalho. O problema não está no objeto, mas no hábito de recorrer a ele sempre que surge um segundo de silêncio.\n\nExperimente, na próxima espera, deixar o telefone no bolso. Os primeiros minutos serão desconfortáveis; depois, talvez você reencontre um velho conhecido: seu próprio pensamento.\n\n(Texto autoral, escrito para fins didáticos.)",
+    "enunciado": "No último parágrafo, a expressão \"um velho conhecido\" refere-se a",
+    "alternativas": [
+      "o tédio dos tempos antigos.",
+      "o telefone celular.",
+      "o próprio pensamento do leitor.",
+      "os pesquisadores da atenção.",
+      "as pessoas observadas na fila."
+    ],
+    "gabarito": 2,
+    "comentario": "O referente vem logo depois dos dois-pontos ('um velho conhecido: seu próprio pensamento'): é uma referência catafórica, que anuncia algo apresentado a seguir. O tédio é tema do texto, mas não é o termo que os dois-pontos especificam.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-interpretacao-012",
+    "disciplina": "portugues",
+    "assunto": "pt-interpretacao",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "texto": "Elogio da espera\n\nAntigamente, esperar era um tempo morto. Na fila do banco ou no consultório, restava observar as pessoas, ler os avisos na parede ou simplesmente pensar em nada. Hoje, o celular ocupa cada um desses intervalos, e o tédio, que parecia um inimigo, tornou-se quase uma raridade.\n\nPesquisadores da atenção alertam, no entanto, que o tédio cumpre uma função. É nos momentos vazios que a mente divaga, associa ideias distantes e, não raro, encontra soluções que o esforço concentrado não alcançou. Sem eles, vivemos estimulados o tempo todo, mas criamos pouco.\n\nIsso não significa que devamos jogar o aparelho fora. A tecnologia aproxima familiares distantes, facilita o acesso a serviços e, para muitos, é ferramenta de trabalho. O problema não está no objeto, mas no hábito de recorrer a ele sempre que surge um segundo de silêncio.\n\nExperimente, na próxima espera, deixar o telefone no bolso. Os primeiros minutos serão desconfortáveis; depois, talvez você reencontre um velho conhecido: seu próprio pensamento.\n\n(Texto autoral, escrito para fins didáticos.)",
+    "enunciado": "Segundo o segundo parágrafo, a falta de momentos vazios tem como consequência o fato de que",
+    "alternativas": [
+      "deixamos de nos comunicar com familiares distantes.",
+      "nos tornamos mais criativos e concentrados.",
+      "passamos a sentir mais tédio do que antigamente.",
+      "perdemos o acesso aos serviços públicos.",
+      "vivemos estimulados o tempo todo, mas criamos pouco."
+    ],
+    "gabarito": 4,
+    "comentario": "O parágrafo conclui: 'Sem eles [os momentos vazios], vivemos estimulados o tempo todo, mas criamos pouco'. Diz-se que a criatividade diminui, e não que aumenta. O tédio, segundo o texto, tornou-se raro, e familiares e serviços aparecem como benefícios da tecnologia.",
+    "dificuldade": 1,
+    "anulada": false
+  }
+]

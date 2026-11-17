@@ -1,0 +1,332 @@
+[
+  {
+    "id": "aut-leg-res13-2022-001",
+    "disciplina": "legislacao",
+    "assunto": "leg-res13-2022",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://abmes.org.br/public/arquivos/legislacoes/Resolucao-CFP-013-2022-06-15.pdf"
+    },
+    "enunciado": "Para os fins da Resolução CFP nº 13/2022, psicoterapia é uma prática de intervenção sustentada por um campo de conhecimentos teóricos e técnicos fundamentados cientificamente, embasada por princípios éticos da profissão, que se desenvolve",
+    "alternativas": [
+      "exclusivamente em consultório particular, junto a indivíduos adultos, com o objetivo de curar transtornos mentais diagnosticados.",
+      "em contexto clínico e em um relacionamento interpessoal, junto a indivíduos, casais, famílias e demais grupos, decorrente de uma demanda psicológica, com o objetivo de promover a saúde mental e propiciar condições para o enfrentamento de conflitos ou transtornos psíquicos.",
+      "em qualquer contexto institucional, inclusive por meio de aconselhamento espiritual, desde que haja demanda do usuário.",
+      "em contexto clínico, exclusivamente presencial, com o objetivo de eliminar sintomas em prazo previamente determinado.",
+      "em contexto educacional, junto a grupos, com o objetivo de orientação vocacional."
+    ],
+    "gabarito": 1,
+    "comentario": "Art. 1º, parágrafo único, da Res. CFP 13/2022: a definição abrange contexto clínico, relacionamento interpessoal, indivíduos, casais, famílias e demais grupos, demanda psicológica, promoção da saúde mental e enfrentamento de conflitos ou transtornos psíquicos. A Resolução admite outras modalidades além da presencial (art. 16) e se baseia na cientificidade e laicidade (art. 17, parágrafo único).",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res13-2022-002",
+    "disciplina": "legislacao",
+    "assunto": "leg-res13-2022",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://abmes.org.br/public/arquivos/legislacoes/Resolucao-CFP-013-2022-06-15.pdf"
+    },
+    "enunciado": "Segundo a Resolução CFP nº 13/2022, ao prestar serviços de psicoterapia, a psicóloga e o psicólogo devem estabelecer contrato com a pessoa atendida ou responsável legal. Esse contrato",
+    "alternativas": [
+      "deve ser obrigatoriamente escrito e registrado no Conselho Regional.",
+      "pode ser verbal ou escrito, mas deve prever número fixo de sessões e garantia de resultado.",
+      "deve ser escrito apenas quando a psicoterapia for remunerada, dispensado no atendimento voluntário.",
+      "pode ser verbal ou escrito e deve evidenciar, entre outros pontos, a possibilidade de interrupção do serviço a qualquer momento, a impossibilidade de fazer previsões taxativas de resultados e a informação de que os serviços devem ser registrados.",
+      "pode ser verbal ou escrito e deve conter cláusula de eleição de foro na jurisdição do domicílio do paciente."
+    ],
+    "gabarito": 3,
+    "comentario": "Art. 3º, I, da Res. CFP 13/2022: contrato verbal ou escrito evidenciando direitos e deveres (inclusive possibilidade de interrupção a qualquer momento), condições, objetivos, honorários, frequência e tempo de sessão, impossibilidade de previsões taxativas, modalidade de atendimento e informação de que os serviços devem ser registrados. Cláusula de foro é exigência dos contratos mediados por TDICs (Res. CFP 9/2024, art. 7º, III), fixada na jurisdição da inscrição principal da psicóloga.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res13-2022-003",
+    "disciplina": "legislacao",
+    "assunto": "leg-res13-2022",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://abmes.org.br/public/arquivos/legislacoes/Resolucao-CFP-013-2022-06-15.pdf"
+    },
+    "enunciado": "Uma clínica privada exige que seus psicoterapeutas façam sessões de 20 minutos para pacientes de convênio e de 50 minutos para pacientes particulares. À luz da Resolução CFP nº 13/2022,",
+    "alternativas": [
+      "a exigência é válida, pois o tempo de sessão é definido pela instituição contratante.",
+      "a exigência é válida, desde que informada previamente ao paciente no contrato.",
+      "a exigência só seria vedada se a sessão tivesse menos de 15 minutos.",
+      "a exigência é incompatível com a norma, pois é vedado condicionar o tempo de sessão a honorário ou gratuidade, a volume de atendimentos ou a exigências institucionais contrárias aos critérios técnicos, teóricos e éticos.",
+      "a exigência é válida para atendimentos por convênio, mas não para atendimentos voluntários."
+    ],
+    "gabarito": 3,
+    "comentario": "Art. 4º da Res. CFP 13/2022: o tempo de sessão é definido pela psicóloga, considerando critérios técnicos, teóricos e éticos e a qualidade do atendimento; é vedado condicioná-lo a honorário ou gratuidade, volume de atendimentos ou exigências institucionais contrárias a esses critérios (inciso III).",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res13-2022-004",
+    "disciplina": "legislacao",
+    "assunto": "leg-res13-2022",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://abmes.org.br/public/arquivos/legislacoes/Resolucao-CFP-013-2022-06-15.pdf"
+    },
+    "enunciado": "Um ex-paciente de uma psicoterapeuta pede que ela atue como sua assistente técnica em ação judicial de guarda. Segundo a Resolução CFP nº 13/2022,",
+    "alternativas": [
+      "a atuação é permitida, pois o atendimento já foi encerrado.",
+      "a atuação é permitida como assistente técnica, mas vedada como perita.",
+      "a atuação é permitida, desde que o ex-paciente autorize por escrito a quebra de sigilo.",
+      "a atuação é vedada apenas se o atendimento tiver ocorrido nos últimos 5 anos.",
+      "é vedado à psicoterapeuta atuar como perita ou assistente técnica de pessoa por ela atendida, atual ou anteriormente, bem como de familiar ou terceiro vinculado ao atendido."
+    ],
+    "gabarito": 4,
+    "comentario": "Art. 6º da Res. CFP 13/2022: é vedado à psicoterapeuta atuar como perita ou assistente técnica de pessoa atendida, atual ou anteriormente, ou de familiar ou terceiro vinculado ao atendido. A regra se harmoniza com o art. 2º, 'k', do Código de Ética.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res13-2022-005",
+    "disciplina": "legislacao",
+    "assunto": "leg-res13-2022",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://abmes.org.br/public/arquivos/legislacoes/Resolucao-CFP-013-2022-06-15.pdf"
+    },
+    "enunciado": "Sobre o atendimento psicoterápico voluntário, a Resolução CFP nº 13/2022 estabelece que",
+    "alternativas": [
+      "é permitido apenas em instituições públicas, vedado em consultórios particulares.",
+      "é o serviço prestado sem cobrança de honorários, realizado por escolha da psicóloga, sendo vedado utilizá-lo para induzir pessoas ou organizações a recorrerem aos seus serviços e alterar a natureza voluntária da prestação.",
+      "pode ser convertido em atendimento remunerado após o terceiro mês, se o paciente concordar.",
+      "dispensa a observância da mesma qualidade técnica exigida no atendimento remunerado.",
+      "é obrigatório para todo psicoterapeuta, em percentual mínimo de sua agenda."
+    ],
+    "gabarito": 1,
+    "comentario": "Art. 7º da Res. CFP 13/2022: atendimento voluntário é o prestado sem honorários, por escolha da psicóloga; deve garantir direitos e assegurar qualidade teórica, técnica e ética (inciso I); é vedado usá-lo para induzir clientela e alterar sua natureza voluntária (inciso II).",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res13-2022-006",
+    "disciplina": "legislacao",
+    "assunto": "leg-res13-2022",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://abmes.org.br/public/arquivos/legislacoes/Resolucao-CFP-013-2022-06-15.pdf"
+    },
+    "enunciado": "Uma psicóloga experiente pretende supervisionar estagiários de Psicologia que atendem em psicoterapia. De acordo com a Resolução CFP nº 13/2022, na atividade de supervisão e orientação em psicoterapia, ela deve, entre outros deveres,",
+    "alternativas": [
+      "possuir título de especialista em Psicologia Clínica registrado no CRP.",
+      "assinar os prontuários sem necessidade de acompanhar os atendimentos.",
+      "estar regularmente inscrita no CRP, ter experiência como psicoterapeuta e informar às pessoas atendidas pelos estagiários que se trata de atividade educativa supervisionada.",
+      "omitir dos usuários que o atendimento é feito por estagiários, para preservar o vínculo terapêutico.",
+      "ser docente vinculada à instituição de ensino superior do estagiário."
+    ],
+    "gabarito": 2,
+    "comentario": "Art. 8º da Res. CFP 13/2022: o supervisor deve estar regularmente inscrito no CRP (I); ter experiência como psicoterapeuta (II); zelar pela qualidade técnica e rigor ético da psicoterapia praticada pelos estagiários (III); e informar às pessoas atendidas que se trata de atividade educativa supervisionada (IV). A Resolução não exige título de especialista.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res13-2022-007",
+    "disciplina": "legislacao",
+    "assunto": "leg-res13-2022",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://abmes.org.br/public/arquivos/legislacoes/Resolucao-CFP-013-2022-06-15.pdf"
+    },
+    "enunciado": "Um psicoterapeuta precisa preencher a notificação compulsória de um caso atendido. Em relação à possibilidade de quebra de sigilo, a Resolução CFP nº 13/2022 determina que a psicóloga e o psicólogo deverão",
+    "alternativas": [
+      "entregar cópia integral do prontuário à autoridade notificada.",
+      "abster-se de notificar, pois o sigilo profissional prevalece sobre a notificação compulsória.",
+      "notificar apenas após autorização expressa da pessoa atendida.",
+      "comunicar o caso ao Conselho Regional, que fará a notificação em seu nome.",
+      "prestar informações estritamente necessárias, considerar os impactos da quebra e a vulnerabilidade social da pessoa atendida e indicar dados sigilosos apenas em formulários, sistemas ou equipamentos de políticas públicas que assegurem o sigilo."
+    ],
+    "gabarito": 4,
+    "comentario": "Art. 10 da Res. CFP 13/2022: para assegurar o menor prejuízo ao proceder a notificações compulsórias, depor em juízo e outros casos legais, o psicoterapeuta presta informações estritamente necessárias (I), considera impactos e vulnerabilidade (II), indica dados sigilosos apenas em formulários e sistemas que assegurem o sigilo (III) e presta explicações judiciais pelo padrão de documentos da Res. 06/2019 (IV).",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res13-2022-008",
+    "disciplina": "legislacao",
+    "assunto": "leg-res13-2022",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://abmes.org.br/public/arquivos/legislacoes/Resolucao-CFP-013-2022-06-15.pdf"
+    },
+    "enunciado": "Um psicoterapeuta deseja gravar em áudio as sessões de um paciente adulto para fins de estudo do caso. Segundo a Resolução CFP nº 13/2022, a gravação",
+    "alternativas": [
+      "pode ser feita com consentimento verbal, desde que registrado no prontuário.",
+      "é vedada em qualquer hipótese na psicoterapia.",
+      "dispensa consentimento quando destinada a supervisão clínica.",
+      "deve ser consentida em caráter livre, prévio, informado e por escrito, justificada pela finalidade ou método de trabalho, com garantia de sigilo, e compõe o registro documental.",
+      "pode ser usada livremente pelo psicoterapeuta em aulas e eventos científicos após o fim do tratamento."
+    ],
+    "gabarito": 3,
+    "comentario": "Art. 11 da Res. CFP 13/2022: gravação por áudio ou vídeo exige consentimento livre, prévio, informado e por escrito; deve ser justificada pela finalidade ou método (I) e garantir sigilo (II); é vedado o uso alheio às finalidades e ao método previamente estabelecidos (§ 2º); a gravação compõe o registro documental (§ 3º).",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res13-2022-009",
+    "disciplina": "legislacao",
+    "assunto": "leg-res13-2022",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://abmes.org.br/public/arquivos/legislacoes/Resolucao-CFP-013-2022-06-15.pdf"
+    },
+    "enunciado": "Para gravar sessões de psicoterapia de uma criança de 9 anos, conforme a Resolução CFP nº 13/2022, a psicóloga precisa",
+    "alternativas": [
+      "apenas do consentimento verbal de um dos responsáveis.",
+      "do consentimento dos responsáveis, livre, prévio, informado e por escrito, e da subsequente anuência da criança.",
+      "apenas da anuência da criança, dispensado o consentimento dos responsáveis.",
+      "de autorização judicial, por se tratar de pessoa incapaz.",
+      "do consentimento escrito de ambos os genitores, dispensada a anuência da criança."
+    ],
+    "gabarito": 1,
+    "comentario": "Art. 11, § 1º, da Res. CFP 13/2022: a gravação de atendimento de criança, adolescente ou interdito é condicionada ao consentimento dos responsáveis, livre, prévio, informado e por escrito, e à subsequente anuência da pessoa a ser atendida.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res13-2022-010",
+    "disciplina": "legislacao",
+    "assunto": "leg-res13-2022",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://abmes.org.br/public/arquivos/legislacoes/Resolucao-CFP-013-2022-06-15.pdf"
+    },
+    "enunciado": "De acordo com a Resolução CFP nº 13/2022, ao prestar serviços de psicoterapia à criança e ao adolescente, a psicóloga e o psicólogo devem",
+    "alternativas": [
+      "ter autorização, por escrito, de ao menos um responsável legalmente constituído antes do início do acompanhamento psicoterapêutico.",
+      "ter autorização, por escrito, de ambos os responsáveis legais, sob pena de nulidade do atendimento.",
+      "ter autorização verbal de qualquer adulto que acompanhe a criança.",
+      "dispensar autorização quando o adolescente tiver mais de 16 anos.",
+      "ter autorização do Conselho Tutelar em todos os casos."
+    ],
+    "gabarito": 0,
+    "comentario": "Art. 12, I, da Res. CFP 13/2022: exige-se autorização por escrito de, ao menos, um responsável legalmente constituído antes do início do acompanhamento (o Anexo I traz modelo). A Resolução também manda primar pela proteção integral e propor a participação dos responsáveis (incisos II e III). O Código de Ética (art. 8º) já exigia autorização de ao menos um responsável.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res13-2022-011",
+    "disciplina": "legislacao",
+    "assunto": "leg-res13-2022",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://abmes.org.br/public/arquivos/legislacoes/Resolucao-CFP-013-2022-06-15.pdf"
+    },
+    "enunciado": "Durante o acompanhamento de um adolescente, o psicoterapeuta recebe informação que indica suspeita de violência sexual praticada contra ele. Nos termos da Resolução CFP nº 13/2022, o psicoterapeuta deverá",
+    "alternativas": [
+      "preencher formulário de notificação obrigatória disponibilizado pelo Ministério da Saúde e encaminhá-lo ao Conselho Tutelar ou à autoridade competente de sua região.",
+      "aguardar a confirmação da violência antes de qualquer comunicação, para não violar o sigilo.",
+      "comunicar apenas aos pais do adolescente, que decidirão sobre a notificação.",
+      "encaminhar o caso ao Conselho Regional de Psicologia, que fará a notificação.",
+      "registrar o fato apenas no prontuário, pois a notificação é atribuição exclusiva de médicos."
+    ],
+    "gabarito": 0,
+    "comentario": "Art. 13 da Res. CFP 13/2022: ao ter informação relativa a violência ou SUSPEITA de violência contra criança ou adolescente, o psicoterapeuta deve preencher a notificação obrigatória do Ministério da Saúde e encaminhá-la ao Conselho Tutelar ou à autoridade competente. Não é preciso confirmação prévia.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res13-2022-012",
+    "disciplina": "legislacao",
+    "assunto": "leg-res13-2022",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://abmes.org.br/public/arquivos/legislacoes/Resolucao-CFP-013-2022-06-15.pdf"
+    },
+    "enunciado": "Segundo a Resolução CFP nº 13/2022, a psicóloga e o psicólogo psicoterapeutas têm autonomia para conduzir a prestação de serviços no âmbito da abordagem que adotam, desde que garantidos determinados critérios. NÃO é um desses critérios",
+    "alternativas": [
+      "a fundamentação ético-científico-epistemológica.",
+      "a teoria clínica explicativa do sofrimento humano.",
+      "o registro prévio da abordagem psicoterapêutica no Conselho Federal de Psicologia.",
+      "a comprovação, por meio da literatura científica, que evidencie benefícios à saúde.",
+      "a aplicação em observância às diversidades humanas e realidades locais."
+    ],
+    "gabarito": 2,
+    "comentario": "Art. 14 da Res. CFP 13/2022: os critérios são respeito ao Código de Ética e demais normativas; fundamentação ético-científico-epistemológica; fundamentação científica sobre o desenvolvimento humano; teoria clínica explicativa do sofrimento; comprovação, na literatura científica, de benefícios à saúde; observância às diversidades e realidades locais; e requisitos formativos. Não há registro de abordagens no CFP.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res13-2022-013",
+    "disciplina": "legislacao",
+    "assunto": "leg-res13-2022",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://abmes.org.br/public/arquivos/legislacoes/Resolucao-CFP-013-2022-06-15.pdf"
+    },
+    "enunciado": "Considere as afirmativas sobre a Resolução CFP nº 13/2022.\nI. O espaço psicoterapêutico deve ser compreendido como o campo relacional que se estabelece durante o processo, incluindo o ambiente, as pessoas envolvidas e a relação suscitada.\nII. É facultada a oferta de psicoterapia por meio de Tecnologias da Informação e da Comunicação, em observância às normativas vigentes.\nIII. A psicóloga e o psicólogo psicoterapeutas devem basear-se nos princípios da cientificidade e da laicidade da psicologia.\nEstá correto o que se afirma em",
+    "alternativas": [
+      "I, apenas.",
+      "II, apenas.",
+      "I e III, apenas.",
+      "II e III, apenas.",
+      "I, II e III."
+    ],
+    "gabarito": 4,
+    "comentario": "Todas corretas: I – art. 15 da Res. CFP 13/2022; II – art. 16; III – art. 17, parágrafo único. Pelo art. 15, parágrafo único, o espaço deve atender a normas de segurança, acessibilidade e protocolos sanitários e garantir sigilo e privacidade nas diversas modalidades.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res13-2022-014",
+    "disciplina": "legislacao",
+    "assunto": "leg-res13-2022",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://abmes.org.br/public/arquivos/legislacoes/Resolucao-CFP-013-2022-06-15.pdf"
+    },
+    "enunciado": "Ao divulgar seus serviços de psicoterapia em rede social, segundo a Resolução CFP nº 13/2022, o psicoterapeuta deve",
+    "alternativas": [
+      "informar seu nome social e o valor das sessões, vedada a menção ao CRP.",
+      "divulgar depoimentos de pacientes atendidos, com autorização verbal deles.",
+      "observar o Código de Ética e as regras de sigilo da profissão e informar seu nome completo, o CRP e o número de registro profissional.",
+      "informar apenas a abordagem teórica, dispensada a identificação profissional.",
+      "obter autorização prévia do Conselho Regional para cada publicação."
+    ],
+    "gabarito": 2,
+    "comentario": "Art. 5º e parágrafo único da Res. CFP 13/2022: a divulgação deve seguir o Código de Ética e as regras de sigilo, informando nome completo, CRP e número de registro. O Código de Ética veda usar o preço como propaganda (art. 20, 'd'), e depoimentos de pacientes expõem pessoas atendidas.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res13-2022-015",
+    "disciplina": "legislacao",
+    "assunto": "leg-res13-2022",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://abmes.org.br/public/arquivos/legislacoes/Resolucao-CFP-013-2022-06-15.pdf"
+    },
+    "enunciado": "A Resolução CFP nº 13/2022, que dispõe sobre diretrizes e deveres para o exercício da psicoterapia, revogou a Resolução CFP nº 10/2000 e",
+    "alternativas": [
+      "entrou em vigor 30 dias após sua publicação oficial.",
+      "entrou em vigor na data de sua publicação.",
+      "entrou em vigor 90 dias após sua publicação oficial.",
+      "entrou em vigor 180 dias após sua publicação, para adaptação dos consultórios.",
+      "entrou em vigor apenas após homologação pela APAF."
+    ],
+    "gabarito": 0,
+    "comentario": "Arts. 18 e 19 da Res. CFP 13/2022: fica revogada a Res. CFP 10/2000, e a Resolução entra em vigor 30 dias após a publicação oficial (publicada no DOU em 21/06/2022). Compare: a Res. 06/2019 entrou em vigor 90 dias após a publicação; a Res. 07/2023, na data da publicação; a Res. 09/2024, após 30 dias.",
+    "dificuldade": 3,
+    "anulada": false
+  }
+]

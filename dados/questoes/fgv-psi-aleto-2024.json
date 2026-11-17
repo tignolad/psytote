@@ -1,0 +1,702 @@
+[
+ {
+  "id": "fgv-aleto-2024-psi-41",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALE-TO",
+   "ano": 2024,
+   "cargo": "Analista Legislativo – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-psicologiacns116-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-policial-legislativo-ii-tecnico-legislativo-e-analista-legislativo_dsa1c.pdf",
+   "questao_original": 41,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "O psicólogo Alberto está coordenando um programa antitabagismo em uma unidade básica de saúde usando estratégias voltadas para a prevenção secundária. Nesse caso, o psicólogo tem como público alvo",
+  "alternativas": [
+   "crianças em idade escolar e adolescentes, com o objetivo de evitar a iniciação no uso do cigarro.",
+   "pessoas que desejam parar de fumar, mas não conseguem abandonar esse hábito sem ajuda.",
+   "pacientes que apresentam agravos do tabagismo grave, como doença pulmonar obstrutiva crônica;",
+   "tabagistas que pretendem substituir os cigarros convencionais pelos cigarros eletrônicos.",
+   "usuários com dependência primária do álcool e que têm o tabaco como dependência secundária."
+  ],
+  "gabarito": 1,
+  "comentario": "A prevenção secundária atua quando o problema já está instalado e busca detectá-lo cedo e intervir antes que traga agravos maiores. No tabagismo, o alvo são os fumantes, sobretudo os que querem parar e precisam de apoio (B). Evitar a iniciação em crianças e adolescentes (A) é prevenção primária. Cuidar de quem já tem agravos graves, como DPOC (C), é prevenção terciária. Trocar o cigarro convencional pelo eletrônico (D) não é estratégia de cessação recomendada.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-aleto-2024-psi-42",
+  "disciplina": "legislacao",
+  "assunto": "leg-idoso-pcd",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALE-TO",
+   "ano": 2024,
+   "cargo": "Analista Legislativo – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-psicologiacns116-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-policial-legislativo-ii-tecnico-legislativo-e-analista-legislativo_dsa1c.pdf",
+   "questao_original": 42,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Marcelo é um jovem de 23 anos com paralisia cerebral que foi selecionado em uma empresa para ocupar uma vaga destinada a pessoas com deficiência. De acordo com a Lei Brasileira de Inclusão da Pessoa com Deficiência, avalie as medidas a seguir:\nI. adaptações razoáveis no ambiente de trabalho;\nII. tecnologia assistiva compatível com sua deficiência;\nIII. acessibilidade em cursos de formação e capacitismo;\nIV. oferta de transporte particular adaptado à deficiência. As medidas que devem ser disponibilizadas para garantir a Marcelo a permanência no trabalho em condições de igualdade com os demais funcionários, são",
+  "alternativas": [
+   "II e III, apenas.",
+   "I e IV, apenas.",
+   "I, II e IV.",
+   "I e II, apenas.",
+   "III, apenas."
+  ],
+  "gabarito": 3,
+  "comentario": "A Lei Brasileira de Inclusão (Lei nº 13.146/2015) garante à pessoa com deficiência no trabalho adaptações razoáveis, recursos de tecnologia assistiva e acessibilidade em cursos de formação e de capacitação. Por isso I e II estão corretas. O item III troca 'capacitação' por 'capacitismo', termo que designa a discriminação contra pessoas com deficiência, e assim fica errado. A lei não obriga o empregador a oferecer transporte particular adaptado (IV).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-aleto-2024-psi-43",
+  "disciplina": "especificos",
+  "assunto": "esp-trabalho",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALE-TO",
+   "ano": 2024,
+   "cargo": "Analista Legislativo – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-psicologiacns116-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-policial-legislativo-ii-tecnico-legislativo-e-analista-legislativo_dsa1c.pdf",
+   "questao_original": 43,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "No final de 2023, o Ministério da Saúde atualizou a lista de doenças ocupacionais. De acordo com essa lista, transtornos mentais e comportamentais podem estar relacionados a fatores psicossociais relacionados ao trabalho. Entre estes fatores psicossociais de risco para a saúde mental não se pode identificar",
+  "alternativas": [
+   "o assédio moral horizontal no ambiente de trabalho.",
+   "o trabalho sob forte pressão por resultados e metas.",
+   "as avaliações periódicas de desempenho da equipe.",
+   "a deficiência nas formas de comunicação na equipe de trabalho.",
+   "o trabalho como pessoa jurídica sem férias remuneradas e 13º salário."
+  ],
+  "gabarito": 2,
+  "comentario": "A lista de doenças relacionadas ao trabalho atualizada pelo Ministério da Saúde em 2023 passou a reconhecer fatores psicossociais como causa de transtornos mentais. Entre eles estão assédio, pressão excessiva por metas, falhas de comunicação e organização do trabalho e vínculos precários sem direitos. A avaliação periódica de desempenho, em si, é um instrumento normal de gestão e não um fator de risco (C). Ela só se tornaria nociva se fosse usada de forma abusiva, o que a alternativa não descreve.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-aleto-2024-psi-44",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALE-TO",
+   "ano": 2024,
+   "cargo": "Analista Legislativo – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-psicologiacns116-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-policial-legislativo-ii-tecnico-legislativo-e-analista-legislativo_dsa1c.pdf",
+   "questao_original": 44,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Tereza é uma professora universitária aposentada de 63 anos, viúva, filhos adultos e independentes, que mora sozinha. Há um mês, Tereza sente que vem perdendo o interesse em sair com os amigos, não tem mais vontade de se arrumar, se sente vazia e sem propósitos na vida e chega a pensar que seria bom se fosse dormir e não acordasse mais. De acordo com o DSM-5, é possível identificar em Tereza um quadro de",
+  "alternativas": [
+   "luto patológico.",
+   "transtorno bipolar misto.",
+   "demência senil.",
+   "fobia social.",
+   "transtorno depressivo maior."
+  ],
+  "gabarito": 4,
+  "comentario": "Tereza tem há um mês perda de interesse (anedonia), sensação de vazio, falta de propósito e ideação de morte passiva. Esses sintomas, com duração mínima de duas semanas, são compatíveis com episódio depressivo maior pelo DSM-5 (E). O enunciado não menciona perda recente que caracterize luto (A) nem sintomas maníacos (B). Também não há déficit cognitivo, que indicaria demência (C), nem medo de avaliação social, típico da fobia social (D).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-aleto-2024-psi-45",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALE-TO",
+   "ano": 2024,
+   "cargo": "Analista Legislativo – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-psicologiacns116-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-policial-legislativo-ii-tecnico-legislativo-e-analista-legislativo_dsa1c.pdf",
+   "questao_original": 45,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "O uso abusivo da Cannabis pode trazer consequências para a saúde mental. Considerando o transtorno por uso dessa substância psicoativa, assinale a afirmativa correta.",
+  "alternativas": [
+   "O princípio ativo tetrahidrocanabidiol (THC) tem propriedades antieméticas e pode ajudar a aliviar o enjoo em pacientes em quimioterapia.",
+   "A tolerância se manifesta pela necessidade de quantidades progressivamente maiores da substância psicoativa para atingir o mesmo grau de intoxicação.",
+   "A estratégia da redução de danos na dependência química da maconha se desenvolve a partir da abstinência completa do uso da substância psicoativa.",
+   "O THC atua nos receptores de cannabinoides no cérebro melhorando com o uso prolongado a função cognitiva e a motivação dos usuários.",
+   "A Cannabis em suas diversas formas de apresentação é reconhecida como uma droga estimulante do Sistema Nervoso Central, com efeitos semelhantes ao do LSD."
+  ],
+  "gabarito": 1,
+  "comentario": "Tolerância é a necessidade de quantidades cada vez maiores da substância para obter o mesmo efeito, ou o efeito menor com a mesma dose. É um dos critérios do transtorno por uso de substâncias, inclusive da Cannabis (B). A redução de danos não exige abstinência completa (C). O uso prolongado tende a prejudicar, e não a melhorar, a cognição e a motivação (D). A Cannabis também não é classificada como estimulante semelhante ao LSD (E). Obs.: o efeito antiemético do THC é reconhecido. A alternativa A provavelmente foi descartada porque erra o nome do princípio ativo (tetra-hidrocanabinol, não 'tetrahidrocanabidiol') e porque não trata do transtorno por uso, mas essa é uma ressalva ao gabarito.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-aleto-2024-psi-46",
+  "disciplina": "especificos",
+  "assunto": "esp-praticas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALE-TO",
+   "ano": 2024,
+   "cargo": "Analista Legislativo – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-psicologiacns116-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-policial-legislativo-ii-tecnico-legislativo-e-analista-legislativo_dsa1c.pdf",
+   "questao_original": 46,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "O Código de Ética Profissional do Psicólogo preconiza que, entre os deveres fundamentais do(a) psicólogo(a), está o de prestar serviços profissionais em situações de calamidade pública ou de emergência, sem visar benefício pessoal. Entre as técnicas psicológicas mais alinhadas com a abordagem da intervenção em crise, encontram-se",
+  "alternativas": [
+   "a psicoeducação e a escuta ativa.",
+   "o matriciamento e a atenção flutuante.",
+   "a dramatização e o condicionamento operante.",
+   "a gestão do stress e o psicodiagnóstico diferencial.",
+   "as técnicas de regulação emocional e de associação livre."
+  ],
+  "gabarito": 0,
+  "comentario": "A intervenção em crise e os primeiros cuidados psicológicos se apoiam em acolhimento, escuta ativa e psicoeducação sobre as reações esperadas ao evento, para estabilizar a pessoa e ativar seus recursos (A). Atenção flutuante e associação livre são técnicas psicanalíticas de tratamento prolongado, inadequadas ao momento agudo. Condicionamento operante, dramatização e psicodiagnóstico diferencial também não são os recursos centrais desse tipo de atendimento breve e focal.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-aleto-2024-psi-47",
+  "disciplina": "especificos",
+  "assunto": "esp-praticas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALE-TO",
+   "ano": 2024,
+   "cargo": "Analista Legislativo – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-psicologiacns116-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-policial-legislativo-ii-tecnico-legislativo-e-analista-legislativo_dsa1c.pdf",
+   "questao_original": 47,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "O modelo de entrevista originalmente desenvolvido para abordar pacientes com dependência química, visando a avaliar a ambivalência do paciente e sua prontidão para mudança, é a entrevista",
+  "alternativas": [
+   "motivacional.",
+   "investigativa.",
+   "psicodiagnóstica.",
+   "estruturada.",
+   "devolutiva."
+  ],
+  "gabarito": 0,
+  "comentario": "A entrevista motivacional foi desenvolvida por Miller e Rollnick no contexto da dependência de álcool e outras drogas. Ela trabalha a ambivalência do paciente e sua prontidão para mudança, em diálogo com o modelo transteórico de Prochaska e DiClemente (A). As demais modalidades existem, mas não têm esse foco: a estruturada se define pelo formato do roteiro, e a devolutiva comunica resultados de avaliação.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-aleto-2024-psi-48",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALE-TO",
+   "ano": 2024,
+   "cargo": "Analista Legislativo – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-psicologiacns116-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-policial-legislativo-ii-tecnico-legislativo-e-analista-legislativo_dsa1c.pdf",
+   "questao_original": 48,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Heitor perdeu o pai Alberto em tenra idade. Sua mãe Camila sempre falou de Alberto para Heitor e o menino tem boas referências sobre seu genitor. Camila se casou com Lucas, que é um padrasto muito presente, e Heitor passou a dar a ele o tratamento de pai. Lucas deseja registrar Heitor em seu nome para que o menino tenha todos os direitos legais como filho, mas sem retirar o nome do genitor de Heitor de sua certidão de nascimento. A esse arranjo dá-se o nome de",
+  "alternativas": [
+   "adoção.",
+   "guarda.",
+   "tutela.",
+   "poligamia.",
+   "multiparentalidade."
+  ],
+  "gabarito": 4,
+  "comentario": "A multiparentalidade é o reconhecimento simultâneo da filiação biológica e da socioafetiva, com os dois pais (ou mães) constando no registro e efeitos jurídicos plenos (E). O STF admitiu essa possibilidade em tese de repercussão geral. A adoção (A) romperia o vínculo com o genitor biológico, o que Lucas não deseja. Guarda (B) e tutela (C) não criam filiação, e poligamia (D) se refere a casamento, não a parentalidade.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-aleto-2024-psi-49",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALE-TO",
+   "ano": 2024,
+   "cargo": "Analista Legislativo – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-psicologiacns116-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-policial-legislativo-ii-tecnico-legislativo-e-analista-legislativo_dsa1c.pdf",
+   "questao_original": 49,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Sérgio acordou com dor de cabeça e tremores e mandou sua mulher Celia ligar para seu trabalho e avisar que ele estava doente. Em seguida, Sérgio foi para o bar, onde tomou sua primeira dose de conhaque do dia. Celia já conversou com o marido para ele procurar um médico, mas Sérgio afirma que tem controle sobre a bebida e que está apenas passando por uma fase ruim na repartição. Nesse momento, Sérgio está usando com relação à sua dependência química o mecanismo de defesa de",
+  "alternativas": [
+   "contemplação.",
+   "identificação projetiva.",
+   "sublimação.",
+   "negação.",
+   "formação reativa."
+  ],
+  "gabarito": 3,
+  "comentario": "Sérgio recusa reconhecer um fato evidente, a dependência do álcool, e atribui o problema a uma 'fase ruim'. Isso caracteriza o mecanismo de defesa de negação (D), muito comum nas dependências químicas. Contemplação (A) é um estágio do modelo transteórico de mudança, não um mecanismo de defesa. Sublimação é desviar a pulsão para fins socialmente valorizados, e formação reativa é adotar uma atitude oposta ao desejo reprimido. Nenhuma delas descreve o caso.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-aleto-2024-psi-50",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALE-TO",
+   "ano": 2024,
+   "cargo": "Analista Legislativo – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-psicologiacns116-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-policial-legislativo-ii-tecnico-legislativo-e-analista-legislativo_dsa1c.pdf",
+   "questao_original": 50,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Com relação ao processo de envelhecimento, analise as afirmativas a seguir.\nI. O envelhecimento ativo é o processo de otimização das oportunidades de saúde, participação e segurança, com o objetivo de melhorar a qualidade de vida à medida que as pessoas ficam mais velhas.\nII. O envelhecimento configura-se como uma experiência heterogênea, que dependerá de como o indivíduo organiza sua vida a partir de circunstâncias histórico-culturais, incidência de patologias e interação entre fatores genéticos e ambientais.\nIII. A velhice está necessariamente associada à decadência, à dependência e à incapacidade para as atividades simples de vida diária, como, andar, vestir-se, cuidar da casa e dos netos.\nEstá correto o que se afirma em",
+  "alternativas": [
+   "I, apenas.",
+   "II, apenas.",
+   "III, apenas.",
+   "I e II, apenas.",
+   "I, II e III."
+  ],
+  "gabarito": 3,
+  "comentario": "O item I reproduz a definição de envelhecimento ativo da OMS: otimizar oportunidades de saúde, participação e segurança para melhorar a qualidade de vida com o avanço da idade. O item II está correto ao apresentar o envelhecimento como experiência heterogênea, influenciada por fatores histórico-culturais, patologias, genética e ambiente. O item III é falso porque associa a velhice 'necessariamente' a decadência e dependência. Essa visão estereotipada (idadista) é contrária à gerontologia contemporânea.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-aleto-2024-psi-51",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALE-TO",
+   "ano": 2024,
+   "cargo": "Analista Legislativo – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-psicologiacns116-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-policial-legislativo-ii-tecnico-legislativo-e-analista-legislativo_dsa1c.pdf",
+   "questao_original": 51,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "O conceito criado por Kurt Lewin que é definido como a totalidade de fatos que determinam o comportamento de um indivíduo em certo momento é",
+  "alternativas": [
+   "espaço vital psicológico.",
+   "tempo vital psicológico.",
+   "ressonância psicológica individual.",
+   "bagagem psicológica individual.",
+   "processo psicológico individual."
+  ],
+  "gabarito": 0,
+  "comentario": "Na teoria de campo de Kurt Lewin, o espaço vital (espaço de vida psicológico) é a totalidade dos fatos que determinam o comportamento de uma pessoa em determinado momento. Ele inclui a própria pessoa e o ambiente psicológico tal como ela o percebe, o que Lewin resumiu na fórmula C = f(P, A) (A). As outras expressões ('tempo vital', 'ressonância', 'bagagem' e 'processo psicológico individual') não são conceitos lewinianos e funcionam apenas como distratores.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-aleto-2024-psi-52",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALE-TO",
+   "ano": 2024,
+   "cargo": "Analista Legislativo – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-psicologiacns116-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-policial-legislativo-ii-tecnico-legislativo-e-analista-legislativo_dsa1c.pdf",
+   "questao_original": 52,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Os princípios pensados na Abordagem Emmi Pikler, para a promoção do pleno desenvolvimento infantil, são",
+  "alternativas": [
+   "a superação da díade confiança/desconfiança; o amadurecimento no processo de autonomia/dúvida e vergonha; o equilíbrio entre os sentimentos de iniciativa/culpa; e a identificação da produtividade.",
+   "a testagem dos reflexos e movimentos; o desenvolvimento da imitação no momento da aquisição da linguagem; o desenvolvimento da capacidade de se colocar no lugar do outro; e a capacidade dedutiva.",
+   "a valorização do vínculo entre cuidador (e/ou mãe) e o bebê; o reconhecimento e o respeito à individualidade dos bebês; a promoção da autonomia por meio da liberdade de movimentos, do brincar livre; e o respeito ao tempo e espaço necessário ao desenvolvimento sadio.",
+   "o equilíbrio entre os sentimentos de iniciativa/culpa; o respeito ao tempo e espaço necessário ao desenvolvimento sadio; o desenvolvimento da capacidade de se colocar no lugar do outro; e a identificação da produtividade X inferioridade na chegada da adolescência.",
+   "a superação da díade confiança/desconfiança no primeiro ano de vida; o reconhecimento e o respeito à individualidade dos bebês; a promoção da autonomia por meio da liberdade de movimentos; o desenvolvimento da imitação no momento da aquisição da linguagem; o desenvolvimento da empatia."
+  ],
+  "gabarito": 2,
+  "comentario": "A abordagem de Emmi Pikler, desenvolvida no Instituto Lóczy (Budapeste), valoriza o vínculo construído nos cuidados entre adulto e bebê e o respeito à individualidade de cada criança. Também defende a autonomia pela liberdade de movimento e pelo brincar livre e o respeito ao ritmo próprio do desenvolvimento (C). As alternativas A, D e E misturam conceitos de outras teorias, como as crises psicossociais de Erikson (confiança/desconfiança, iniciativa/culpa, produtividade/inferioridade). B lista aquisições do desenvolvimento cognitivo e da linguagem que não formam os princípios piklerianos.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-aleto-2024-psi-53",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALE-TO",
+   "ano": 2024,
+   "cargo": "Analista Legislativo – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-psicologiacns116-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-policial-legislativo-ii-tecnico-legislativo-e-analista-legislativo_dsa1c.pdf",
+   "questao_original": 53,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Ao pensar o desenvolvimento infantil, Vygostsky se refere à capacidade da criança em desempenhar tarefas desde que seja auxiliada e com orientações adequadas de adultos ou crianças maiores e mais capacitadas como zona de desenvolvimento",
+  "alternativas": [
+   "real.",
+   "potencial.",
+   "proximal.",
+   "auxiliado.",
+   "projetado."
+  ],
+  "gabarito": 1,
+  "comentario": "Vygotsky distingue o nível de desenvolvimento real, que é o que a criança faz sozinha, do nível de desenvolvimento potencial, que é o que ela realiza com a ajuda de adultos ou de pares mais capazes. O enunciado descreve exatamente essa capacidade de realizar tarefas com auxílio, e por isso o gabarito é 'potencial' (B). A zona de desenvolvimento proximal (C) é a distância entre esses dois níveis, e não a capacidade em si. Obs.: algumas traduções usam 'zona de desenvolvimento potencial' como sinônimo de zona proximal, o que pode confundir o candidato. A redação do enunciado ('zona de desenvolvimento') deixa a distinção ambígua.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-aleto-2024-psi-54",
+  "disciplina": "especificos",
+  "assunto": "esp-praticas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALE-TO",
+   "ano": 2024,
+   "cargo": "Analista Legislativo – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-psicologiacns116-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-policial-legislativo-ii-tecnico-legislativo-e-analista-legislativo_dsa1c.pdf",
+   "questao_original": 54,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Com relação à abordagem psicodramática, analise as afirmativas a seguir.\nI. Busca promover estados espontâneos, discriminando e integrando o individual com o coletivo, o mundo interno com a realidade compartilhada.\nII. Produz catarse emocional e insights cognitivos.\nIII. Faz uso tanto a comunicação verbal como a não verbal.\nEstá correto o que se afirma em",
+  "alternativas": [
+   "I, apenas.",
+   "II, apenas.",
+   "III, apenas.",
+   "I e II, apenas.",
+   "I, II e III."
+  ],
+  "gabarito": 4,
+  "comentario": "As três afirmativas estão corretas (E). O psicodrama de Moreno busca promover a espontaneidade e a criatividade, integrando o individual e o coletivo, o mundo interno e a realidade compartilhada (I). A dramatização produz catarse de integração e insights (II). O método usa a comunicação verbal e também a não verbal (corpo, gesto, ação), e é justamente a ação dramática que o diferencia das terapias apenas verbais (III).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-aleto-2024-psi-55",
+  "disciplina": "legislacao",
+  "assunto": "leg-lei13140",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALE-TO",
+   "ano": 2024,
+   "cargo": "Analista Legislativo – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-psicologiacns116-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-policial-legislativo-ii-tecnico-legislativo-e-analista-legislativo_dsa1c.pdf",
+   "questao_original": 55,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Jussara trabalha na escuta de famílias em conflito, facilitando o diálogo entre elas, sem atuar de forma impositiva e nem sugerindo soluções para as controvérsias, de forma a que os próprios interessados apresentem suas soluções. Portanto, é correto afirmar que Jussara atua como",
+  "alternativas": [
+   "árbitra judicial.",
+   "árbitra extrajudicial.",
+   "mediadora.",
+   "conciliadora",
+   "juíza."
+  ],
+  "gabarito": 2,
+  "comentario": "A mediação é conduzida por um terceiro imparcial, sem poder decisório, que facilita o diálogo para que as próprias partes construam a solução. É indicada sobretudo quando há vínculo anterior entre os envolvidos, como nos conflitos familiares (C). Na conciliação (D), o terceiro pode sugerir soluções, o que Jussara não faz. O árbitro (A e B) e o juiz (E) decidem a controvérsia, impondo a solução às partes.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-aleto-2024-psi-56",
+  "disciplina": "especificos",
+  "assunto": "esp-praticas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALE-TO",
+   "ano": 2024,
+   "cargo": "Analista Legislativo – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-psicologiacns116-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-policial-legislativo-ii-tecnico-legislativo-e-analista-legislativo_dsa1c.pdf",
+   "questao_original": 56,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "As opções a seguir apresentam técnicas da terapia cognitivo-comportamental, à exceção de uma. Assinale-a.",
+  "alternativas": [
+   "Psicoeducação.",
+   "Registro de pensamentos disfuncionais.",
+   "Dessensibilização sistemática.",
+   "Enfrentamento do estresse.",
+   "Análise dos sentidos inconscientes dos sonhos."
+  ],
+  "gabarito": 4,
+  "comentario": "Psicoeducação, registro de pensamentos disfuncionais, dessensibilização sistemática e técnicas de enfrentamento (manejo) do estresse fazem parte do repertório da terapia cognitivo-comportamental. A análise dos sentidos inconscientes dos sonhos (E) é própria da psicanálise e das abordagens psicodinâmicas, pois pressupõe a interpretação de conteúdos inconscientes, o que não é feito na TCC.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-aleto-2024-psi-57",
+  "disciplina": "especificos",
+  "assunto": "esp-praticas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALE-TO",
+   "ano": 2024,
+   "cargo": "Analista Legislativo – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-psicologiacns116-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-policial-legislativo-ii-tecnico-legislativo-e-analista-legislativo_dsa1c.pdf",
+   "questao_original": 57,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "A teoria de grupos de Irvin Yalom é uma técnica que busca a superação de conflitos e dificuldades pessoais, no âmbito de um grupo. Para esse autor um grupo pode produzir uma influência curativa nos indivíduos que fazem parte dele desde que se introduzam alguns fatores na terapia grupal como:\nI. universalidade: o grupo serve para que as pessoas descubram que os outros vivenciam um sofrimento semelhante ao seu, o que produz alívio.\nII. desenvolvimento de técnicas de socialização: a presença do grupo favorece o desenvolvimento de habilidades sociais básicas, elemento essencial para a superação de comportamentos desadaptativos.\nIII. recapitulação do grupo familiar primário. As pessoas tendem a reproduzir seu papel familiar primário no grupo. Se esses comportamentos são examinados e analisados, muitos condicionamentos se tornam conscientes.\nEstá correto o que se afirma em",
+  "alternativas": [
+   "I, apenas.",
+   "II, apenas.",
+   "III, apenas.",
+   "I e II, apenas.",
+   "I, II e III."
+  ],
+  "gabarito": 4,
+  "comentario": "Universalidade, desenvolvimento de técnicas de socialização e recapitulação corretiva do grupo familiar primário estão entre os fatores terapêuticos descritos por Irvin Yalom. A lista dele também inclui instilação de esperança, compartilhamento de informações, altruísmo, comportamento imitativo, aprendizagem interpessoal, coesão grupal, catarse e fatores existenciais. As três descrições estão corretas, logo a resposta é E.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-aleto-2024-psi-58",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALE-TO",
+   "ano": 2024,
+   "cargo": "Analista Legislativo – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-psicologiacns116-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-policial-legislativo-ii-tecnico-legislativo-e-analista-legislativo_dsa1c.pdf",
+   "questao_original": 58,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Assinale a opção que apresenta características de uma pessoa com transtorno de personalidade histriônica.",
+  "alternativas": [
+   "Alterações no humor, com prevalência de sentimentos de tristeza, podendo também apresentar mudanças nos pensamentos e lentificação do ritmo corporal.",
+   "Exigência de ser o centro das atenções e com frequência o faz ao vestir-se e agir de maneira indevidamente sedutora e provocante e ao se expressar de maneira muito dramática.",
+   "Comportamentos compulsivos e precisa estar no controle, tendendo a ser solitária em seus esforços, e desconfiar da ajuda dos outros.",
+   "Alteração do estado mental, perdendo o contato com a realidade e podendo apresentar delírios, além de não possuindo controle sobre suas ações.",
+   "Nervosismo e preocupação excessivos em relação a diversas atividades ou acontecimentos, com possíveis alterações no sono e apetite."
+  ],
+  "gabarito": 1,
+  "comentario": "O transtorno da personalidade histriônica caracteriza-se por emotividade excessiva e busca de atenção, com desconforto quando não se é o centro das atenções. Também envolve comportamento sedutor ou provocativo inadequado, uso da aparência para chamar atenção e expressão teatral e dramática das emoções (B). A descreve sintomas depressivos e C se aproxima de traços obsessivo-compulsivos. D descreve um quadro psicótico e E o transtorno de ansiedade generalizada.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-aleto-2024-psi-59",
+  "disciplina": "legislacao",
+  "assunto": "leg-nt01-2022",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALE-TO",
+   "ano": 2024,
+   "cargo": "Analista Legislativo – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-psicologiacns116-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-policial-legislativo-ii-tecnico-legislativo-e-analista-legislativo_dsa1c.pdf",
+   "questao_original": 59,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "O Conselho Federal de Psicologia publicou a Nota Técnica nº 1/2022/SOE/PLENÁRIA com objetivo de instruir a categoria quanto aos critérios que precisam ser atendidos para as divulgações profissionais nas redes sociais. A esse respeito, analise as afirmativas a seguir.\nI. É vedada a publicidade profissional no perfil pessoal nas redes sociais, dada a inevitável confusão entre as informações provenientes da vida privada ou da vida pública.\nII. Ao promover publicamente os seus serviços em qualquer meio, é obrigatório que a profissional e o profissional informem o seu nome completo, ou nome social, a titulação “psicóloga” ou “psicólogo”, bem como o CRP em que está inscrita ou inscrito e seu número de registro.\nIII. Recomenda-se que a profissional e o profissional, em sua publicidade, façam uso de depoimentos de pessoas atendidas ou usuários, ou compartilhamento de depoimentos e fotos das pessoas atendidas, visando dar maior credibilidade aos serviços prestados.\nEstá correto o que se afirma em",
+  "alternativas": [
+   "I, apenas.",
+   "II, apenas.",
+   "III, apenas.",
+   "I e II, apenas.",
+   "II e III, apenas."
+  ],
+  "gabarito": 1,
+  "comentario": "A Nota Técnica CFP nº 1/2022 exige que a publicidade profissional informe nome completo ou nome social, a titulação 'psicóloga' ou 'psicólogo', o CRP de inscrição e o número de registro (II). O item I é falso porque a nota não proíbe a divulgação no perfil pessoal. Ela orienta o profissional a separar a vida privada da atuação profissional e a observar as mesmas regras éticas. O item III é falso: o uso de depoimentos e fotos de pessoas atendidas para promover os serviços é vedado, por expor usuários e configurar sensacionalismo.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-aleto-2024-psi-60",
+  "disciplina": "legislacao",
+  "assunto": "leg-res13-2022",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALE-TO",
+   "ano": 2024,
+   "cargo": "Analista Legislativo – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-psicologiacns116-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-policial-legislativo-ii-tecnico-legislativo-e-analista-legislativo_dsa1c.pdf",
+   "questao_original": 60,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "A Resolução nº 13, de 15/06/2022, dispõe sobre diretrizes e deveres para o exercício da psicoterapia por psicóloga e por psicólogo. A esse respeito, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.\n( ) Ao prestar serviços de psicoterapia, a psicóloga e o psicólogo devem estabelecer contrato, verbal ou escrito, com a pessoa atendida ou responsável legal, que evidencie direitos e deveres das partes, inclusive no que se refere à possibilidade de interrupção do serviço a qualquer momento.\n( ) À psicóloga e ao psicólogo psicoterapeutas, é vedado atuar como perito ou assistente técnico de pessoa por ela e por ele atendida, atual ou anteriormente, bem como de familiar ou terceiro vinculado ao atendido.\n( ) Em relação à possibilidade de quebra de sigilo profissional, para assegurar o menor prejuízo, proceder a notificações compulsórias, depor em juízo e em outros casos previstos em lei, a psicóloga e o psicólogo psicoterapeutas deverão indicar dados sigilosos apenas em formulários, sistemas ou equipamentos de políticas públicas correspondentes que assegurem o sigilo de informações.\nAs afirmativas são, respectivamente,",
+  "alternativas": [
+   "F – F – F.",
+   "F – V – V.",
+   "V – F – F.",
+   "V – V – F.",
+   "V – V – V."
+  ],
+  "gabarito": 4,
+  "comentario": "As três afirmativas reproduzem deveres da Resolução CFP nº 13/2022 (E). O psicoterapeuta deve firmar contrato, verbal ou escrito, que explicite direitos e deveres, inclusive a possibilidade de interrupção. É vedado atuar como perito ou assistente técnico de quem atende ou atendeu, ou de familiares e terceiros vinculados, regra que também decorre do Código de Ética. Nas situações de quebra de sigilo previstas em lei, como as notificações compulsórias, deve informar apenas o necessário, em formulários e sistemas que assegurem o sigilo, para causar o menor prejuízo.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-aleto-2024-psi-61",
+  "disciplina": "especificos",
+  "assunto": "esp-avaliacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALE-TO",
+   "ano": 2024,
+   "cargo": "Analista Legislativo – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-psicologiacns116-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-policial-legislativo-ii-tecnico-legislativo-e-analista-legislativo_dsa1c.pdf",
+   "questao_original": 61,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "A Resolução nº 9, de 25 de abril de 2018, estabelece diretrizes para a realização de Avaliação Psicológica no exercício profissional da psicóloga e do psicólogo, regulamenta o Sistema de Avaliação de Testes Psicológicos - SATEPSI e revoga algumas Resoluções anteriores. De acordo com tal Resolução, é correto afirmar que",
+  "alternativas": [
+   "os protocolos de observação de comportamentos, obtidos por meio de processo grupal, são fontes complementares de informação.",
+   "um teste psicológico tem por objetivo revelar, interpretar, classificar e mensurar características psicológicas, por meio de procedimentos de análise e descrição do comportamento humano.",
+   "define-se Atualização de Normas o estudo com amostras que possuam características sociodemográficas diferentes das especificadas no Manual do teste aprovado pelo SATEPSI.",
+   "os testes psicológicos, para serem reconhecidos para uso profissional de psicólogas e psicólogos, devem atender ao requisito de apresentação de fundamentação teórica, com especial ênfase na definição do(s) construto(s), descrevendo seus aspectos constitutivo e operacional.",
+   "a psicóloga e o psicólogo, na realização de atividades voltadas para a produção de conhecimento e desenvolvimento de tecnologias, devem considerar os processos de desenvolvimento humano e de sexualidade e orientação sexual como algo intrínseco e natural da identidade humana."
+  ],
+  "gabarito": 3,
+  "comentario": "Entre os requisitos mínimos para que um teste seja reconhecido para uso profissional, a Resolução CFP nº 9/2018 exige fundamentação teórica com especial ênfase na definição do(s) construto(s), descrevendo seus aspectos constitutivo e operacional (D). A erra porque entrevistas e protocolos de observação estão entre as fontes fundamentais de informação, e não entre as complementares. Nas demais alternativas, a banca alterou definições e deslocou trechos da norma, como a definição de teste psicológico e o conceito de atualização de normas. Atenção: a Resolução nº 9/2018 foi depois substituída pela Resolução CFP nº 31/2022, que manteve essa lógica de requisitos técnicos para o SATEPSI.",
+  "dificuldade": 3,
+  "anulada": false
+ },
+ {
+  "id": "fgv-aleto-2024-psi-62",
+  "disciplina": "legislacao",
+  "assunto": "leg-res06-2019",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALE-TO",
+   "ano": 2024,
+   "cargo": "Analista Legislativo – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-psicologiacns116-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-policial-legislativo-ii-tecnico-legislativo-e-analista-legislativo_dsa1c.pdf",
+   "questao_original": 62,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "A Resolução n.º 6, de 29 de março de 2019 institui regras para a elaboração de documentos escritos produzidos pela(o) psicóloga(o) no exercício profissional. A esse respeito, analise as afirmativas a seguir.\nI. A declaração, o atestado e o laudo são documentos oriundos de avaliação psicológica.\nII. Os documentos psicológicos não devem apresentar descrições literais dos atendimentos realizados, salvo quando tais descrições se justifiquem tecnicamente.\nIII. O documento escrito resultante da prestação de serviços psicológicos deve considerar o aspecto essencial e definitivo do fenômeno psicológico.\nEstá correto o que se afirma em",
+  "alternativas": [
+   "I, apenas.",
+   "II, apenas.",
+   "III, apenas.",
+   "I e II.",
+   "I e III."
+  ],
+  "gabarito": 1,
+  "comentario": "Pela Resolução CFP nº 6/2019, os documentos não devem trazer descrições literais dos atendimentos, salvo quando houver justificativa técnica (II, correta). O item I é falso porque a declaração não decorre de avaliação psicológica, já que registra apenas informações objetivas, como comparecimento e horários. Atestado e laudo, por sua vez, resultam de avaliação psicológica. O item III é falso porque a resolução determina considerar a natureza dinâmica, não definitiva e não cristalizada do fenômeno psicológico.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-aleto-2024-psi-63",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALE-TO",
+   "ano": 2024,
+   "cargo": "Analista Legislativo – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-psicologiacns116-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-policial-legislativo-ii-tecnico-legislativo-e-analista-legislativo_dsa1c.pdf",
+   "questao_original": 63,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Para Sándor Ferenczi, psicanalista contemporâneo e amigo de Sigmund Freud, o trauma torna-se patogênico para a criança em pelo menos dois momentos. No primeiro, a criança sofre a experiência traumática oriunda das atitudes passionais do adulto, como se observa em pais que abusam sexualmente de seus filhos ou os tratam com violência desmedida. Por sua vez, tal experiência se torna ainda mais traumática e patológica para a criança quando ela busca ajuda em outro adulto que lhe inspira confiança e a reconhece como protetora, que, no entanto, realiza o que Ferenczi define como",
+  "alternativas": [
+   "desmentido.",
+   "recalque.",
+   "foraclusão.",
+   "sublimação.",
+   "deslocamento."
+  ],
+  "gabarito": 0,
+  "comentario": "Em 'Confusão de línguas entre os adultos e a criança', Ferenczi descreve o trauma em dois tempos. Primeiro vem a violência ou o abuso pelo adulto. Depois, quando a criança procura outro adulto de confiança, este nega ou desqualifica o que ela viveu. Esse segundo tempo é o desmentido (A), que torna o trauma patogênico ao invalidar a percepção da criança. Recalque, foraclusão, sublimação e deslocamento são mecanismos psíquicos descritos por Freud e Lacan, e não se referem a essa resposta do adulto.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-aleto-2024-psi-64",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALE-TO",
+   "ano": 2024,
+   "cargo": "Analista Legislativo – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-psicologiacns116-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-policial-legislativo-ii-tecnico-legislativo-e-analista-legislativo_dsa1c.pdf",
+   "questao_original": 64,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Encontramos, no contexto brasileiro, desde a década de 1980, uma psicologia social que afirma historicamente um compromisso ético e político com a transformação social, renunciando a um viés pragmático e investindo nas singularidades segregadas do campo social. De onde a importância do método cartográfico, remetido inicialmente ao pensamento de Deleuze e Guattari, que se refere a um mapa a ser produzido e modificável a partir de múltiplas linhas de fuga. Nesse contexto, a intervenção psicológica com base na cartografia é um movimento ligado à subjetivação que implica",
+  "alternativas": [
+   "a inquirição e a produção de provas que demonstrem a ocorrência de um fato pretérito.",
+   "a coleta de dados e informações apriorísticos, capazes de traduzir a totalidade real da experiência vivida.",
+   "a criação de brechas capazes de engendrar novas configurações de pensamento e de experiências.",
+   "a subtração das variações e modulações dos enunciados para atingir a correspondência fiel da linguagem com a ordem das coisas.",
+   "a representação que os indivíduos fazem de objetos ou sentimentos, com ênfase nos componentes linguísticos lexicais e sintáticos da frase."
+  ],
+  "gabarito": 2,
+  "comentario": "A cartografia, inspirada em Deleuze e Guattari e desenvolvida no Brasil por autores como Suely Rolnik, Eduardo Passos e Virgínia Kastrup, é um método de acompanhamento de processos, e não de representação de objetos. Intervir cartograficamente é abrir brechas que permitam novas configurações de pensamento e de experiência, ou seja, produzir subjetividade (C). As outras alternativas descrevem posturas representacionais ou investigativas que o método recusa: produzir prova de fatos passados (A), coletar dados apriorísticos de uma suposta totalidade (B), buscar correspondência fiel entre linguagem e coisas (D) e analisar representações linguísticas (E).",
+  "dificuldade": 3,
+  "anulada": false
+ },
+ {
+  "id": "fgv-aleto-2024-psi-65",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALE-TO",
+   "ano": 2024,
+   "cargo": "Analista Legislativo – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-psicologiacns116-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-policial-legislativo-ii-tecnico-legislativo-e-analista-legislativo_dsa1c.pdf",
+   "questao_original": 65,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Freud designa um estado precoce em que a criança investe toda a sua libido em si mesma, antes de escolher objetos exteriores. Este estado intermediário entre o autoerotismo e o amor de objeto, na qual o sujeito toma a si mesmo como objeto de amor, é o que permite a primeira unificação das pulsões sexuais. O fragmento acima faz referência ao conceito de",
+  "alternativas": [
+   "fase oral.",
+   "fase anal.",
+   "narcisismo.",
+   "falocentrismo.",
+   "complexo de Édipo."
+  ],
+  "gabarito": 2,
+  "comentario": "Em 'Introdução ao narcisismo' (1914), Freud descreve o narcisismo primário como o estado em que a libido investe o próprio eu. Ele fica entre o autoerotismo, em que as pulsões parciais se satisfazem de forma fragmentada, e a escolha de objetos externos, e permite uma primeira unificação das pulsões (C). As fases oral e anal são organizações da libido segundo zonas erógenas. O complexo de Édipo envolve escolhas de objeto parentais, e 'falocentrismo' não é o conceito freudiano descrito.",
+  "dificuldade": 1,
+  "anulada": false
+ }
+]

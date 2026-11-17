@@ -1,0 +1,464 @@
+[
+  {
+    "id": "aut-leg-res06-2019-001",
+    "disciplina": "legislacao",
+    "assunto": "leg-res06-2019",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://abmes.org.br/public/arquivos/legislacoes/Resolucao-CFP-006-2019-03-29.pdf"
+    },
+    "enunciado": "A Resolução CFP nº 06/2019, que institui regras para a elaboração de documentos escritos produzidos pela(o) psicóloga(o), revogou expressamente",
+    "alternativas": [
+      "as Resoluções CFP nº 01/2009 e nº 05/2010.",
+      "a Resolução CFP nº 10/2005 (Código de Ética).",
+      "as Resoluções CFP nº 09/2018 e nº 11/2018.",
+      "apenas a Resolução CFP nº 07/2003, que instituía o Manual de Elaboração de Documentos.",
+      "as Resoluções CFP nº 15/1996, nº 07/2003 e nº 04/2019."
+    ],
+    "gabarito": 4,
+    "comentario": "Art. 20 da Res. CFP 06/2019: revogam-se as Res. CFP 15/1996, 07/2003 (antigo Manual de Documentos) e 04/2019. A Res. 01/2009 (registro documental, alterada pela 05/2010) continua vigente e é referida diversas vezes pela própria Res. 06/2019.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res06-2019-002",
+    "disciplina": "legislacao",
+    "assunto": "leg-res06-2019",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://abmes.org.br/public/arquivos/legislacoes/Resolucao-CFP-006-2019-03-29.pdf"
+    },
+    "enunciado": "Segundo a Resolução CFP nº 06/2019, a não observância de suas regras",
+    "alternativas": [
+      "constitui mera irregularidade administrativa, sanável por orientação, sem repercussão disciplinar.",
+      "constitui infração funcional, apurada pela Secretaria de Orientação e Ética do CFP.",
+      "constitui crime de falsidade ideológica, a ser comunicado ao Ministério Público.",
+      "só gera consequência se o documento for apresentado em processo judicial.",
+      "constitui falta ético-disciplinar, passível de capitulação nos dispositivos referentes ao exercício profissional do Código de Ética Profissional do Psicólogo, sem prejuízo de outros que possam ser arguidos."
+    ],
+    "gabarito": 4,
+    "comentario": "Art. 3º, § 2º, da Res. CFP 06/2019: a não observância da norma constitui falta ético-disciplinar, capitulável nos dispositivos do Código de Ética relativos ao exercício profissional. Os casos omissos são resolvidos pela orientação e jurisprudência dos CRPs e, no que couber, pelo CFP (§ 1º).",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res06-2019-003",
+    "disciplina": "legislacao",
+    "assunto": "leg-res06-2019",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://abmes.org.br/public/arquivos/legislacoes/Resolucao-CFP-006-2019-03-29.pdf"
+    },
+    "enunciado": "De acordo com a Resolução CFP nº 06/2019, constituem modalidades de documentos psicológicos:",
+    "alternativas": [
+      "declaração, atestado psicológico, relatório psicológico, laudo psicológico, parecer psicológico e prontuário.",
+      "atestado, relatório, laudo, parecer e certidão psicológica.",
+      "declaração, relatório, laudo e parecer, tendo sido extinto o atestado psicológico.",
+      "declaração, atestado psicológico, relatório (psicológico e multiprofissional), laudo psicológico e parecer psicológico.",
+      "laudo e parecer, apenas, sendo os demais documentos de natureza administrativa."
+    ],
+    "gabarito": 3,
+    "comentario": "Art. 8º da Res. CFP 06/2019: são modalidades de documentos psicológicos a declaração, o atestado psicológico, o relatório (psicológico e multiprofissional), o laudo psicológico e o parecer psicológico. O prontuário é forma de registro documental (Res. 01/2009), não modalidade de documento escrito.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res06-2019-004",
+    "disciplina": "legislacao",
+    "assunto": "leg-res06-2019",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://abmes.org.br/public/arquivos/legislacoes/Resolucao-CFP-006-2019-03-29.pdf"
+    },
+    "enunciado": "Uma paciente pede à sua psicóloga um documento para justificar ao empregador o comparecimento às sessões semanais. A psicóloga opta por emitir uma declaração. À luz da Resolução CFP nº 06/2019, essa declaração",
+    "alternativas": [
+      "pode registrar o comparecimento, o acompanhamento psicológico realizado ou em realização e informações sobre tempo de acompanhamento, dias e horários, sendo vedado o registro de sintomas, situações ou estados psicológicos.",
+      "deve informar o diagnóstico da paciente pela CID, para justificar as ausências ao trabalho.",
+      "pode registrar sintomas, desde que a paciente autorize por escrito.",
+      "deve conter descrição da demanda, procedimento, análise e conclusão.",
+      "só pode ser emitida após processo de avaliação psicológica."
+    ],
+    "gabarito": 0,
+    "comentario": "Art. 9º da Res. CFP 06/2019: a declaração registra, de forma objetiva e sucinta, comparecimento, acompanhamento e informações de tempo, dias e horários; é vedado registrar sintomas, situações ou estados psicológicos (§ 1º). Descrição de demanda, procedimento e análise são itens do relatório; e o documento que decorre de avaliação psicológica é o atestado (art. 10, § 2º).",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res06-2019-005",
+    "disciplina": "legislacao",
+    "assunto": "leg-res06-2019",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://abmes.org.br/public/arquivos/legislacoes/Resolucao-CFP-006-2019-03-29.pdf"
+    },
+    "enunciado": "Sobre o atestado psicológico, a Resolução CFP nº 06/2019 estabelece que ele",
+    "alternativas": [
+      "registra apenas o comparecimento da pessoa atendida, sem qualquer informação sobre seu estado psicológico.",
+      "é um pronunciamento escrito que responde a uma questão-problema ou a documentos psicológicos questionados.",
+      "certifica, com fundamento em um diagnóstico psicológico, uma determinada situação, estado ou funcionamento psicológico, resultando de uma avaliação psicológica, diferentemente da declaração.",
+      "dispensa fundamentação em registro documental, por ser documento sucinto.",
+      "deve conter obrigatoriamente o código da CID, sob pena de nulidade."
+    ],
+    "gabarito": 2,
+    "comentario": "Art. 10 da Res. CFP 06/2019: o atestado certifica, com fundamento em diagnóstico psicológico, situação, estado ou funcionamento psicológico, e resulta de avaliação psicológica (§ 2º); deve fundamentar-se no registro documental (§ 3º); o uso da CID é FACULTADO quando justificadamente necessário (§ 6º, V). A resposta a uma questão-problema é o parecer (art. 14).",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res06-2019-006",
+    "disciplina": "legislacao",
+    "assunto": "leg-res06-2019",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://abmes.org.br/public/arquivos/legislacoes/Resolucao-CFP-006-2019-03-29.pdf"
+    },
+    "enunciado": "Um psicólogo emitiu atestado psicológico para fins de porte de arma. Dois anos depois, o Conselho Regional solicitou-lhe a fundamentação técnico-científica do documento. De acordo com a Resolução CFP nº 06/2019,",
+    "alternativas": [
+      "o pedido é legítimo, pois os Conselhos Regionais podem, no prazo de até cinco anos, solicitar ao psicólogo a apresentação da fundamentação técnico-científica do atestado.",
+      "o pedido é ilegítimo, pois o prazo para solicitar a fundamentação é de um ano.",
+      "o pedido é ilegítimo, pois a fundamentação do atestado é protegida por sigilo absoluto em relação ao Conselho.",
+      "o pedido só seria legítimo mediante ordem judicial.",
+      "o pedido é legítimo, mas o psicólogo pode recusá-lo se já tiver descartado o registro documental após 12 meses."
+    ],
+    "gabarito": 0,
+    "comentario": "Art. 10, § 4º, da Res. CFP 06/2019: os CRPs podem, no prazo de até cinco anos, solicitar ao psicólogo a fundamentação técnico-científica do atestado. Além disso, a emissão do atestado deve estar fundamentada no registro documental, que deve ser guardado pelo prazo mínimo de 5 anos (art. 10, § 3º; art. 15).",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res06-2019-007",
+    "disciplina": "legislacao",
+    "assunto": "leg-res06-2019",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://abmes.org.br/public/arquivos/legislacoes/Resolucao-CFP-006-2019-03-29.pdf"
+    },
+    "enunciado": "Na estrutura do atestado psicológico definida pela Resolução CFP nº 06/2019, as informações",
+    "alternativas": [
+      "deverão ser registradas em texto corrido, separadas apenas pela pontuação, sem parágrafos, e, se necessária a utilização de parágrafos, os espaços devem ser preenchidos com traços, para evitar riscos de adulteração.",
+      "deverão ser apresentadas em itens numerados, com espaços em branco para complementação posterior.",
+      "deverão ser registradas em formulário padronizado fornecido pelo Conselho Regional.",
+      "deverão ser registradas com descrição literal das sessões realizadas.",
+      "deverão ser registradas em tópicos de identificação, demanda, procedimento, análise e conclusão."
+    ],
+    "gabarito": 0,
+    "comentario": "Art. 10, § 5º, I e II, da Res. CFP 06/2019: no atestado, a formulação restringe-se à informação solicitada, em texto corrido, separado apenas pela pontuação, sem parágrafos; se forem necessários parágrafos, os espaços devem ser preenchidos com traços, evitando adulteração. A estrutura em cinco itens é a do relatório.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res06-2019-008",
+    "disciplina": "legislacao",
+    "assunto": "leg-res06-2019",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://abmes.org.br/public/arquivos/legislacoes/Resolucao-CFP-006-2019-03-29.pdf"
+    },
+    "enunciado": "Conforme a Resolução CFP nº 06/2019, o relatório psicológico",
+    "alternativas": [
+      "é o resultado de um processo de avaliação psicológica, com a finalidade de subsidiar decisões e produzir diagnóstico.",
+      "registra apenas comparecimento, dias e horários de atendimento.",
+      "visa comunicar a atuação profissional em processos de trabalho já desenvolvidos ou em desenvolvimento, podendo gerar orientações, recomendações, encaminhamentos e intervenções, não tendo como finalidade produzir diagnóstico psicológico.",
+      "é uma resposta a consulta sobre questão-problema, não decorrente de intervenção psicológica.",
+      "deve corresponder à descrição literal das sessões realizadas."
+    ],
+    "gabarito": 2,
+    "comentario": "Art. 11 da Res. CFP 06/2019: o relatório é exposição escrita, descritiva e circunstanciada, que comunica a atuação profissional e pode gerar orientações e encaminhamentos, sem finalidade de produzir diagnóstico psicológico; não corresponde à descrição literal das sessões, salvo justificativa técnica (inciso III). O laudo decorre de avaliação psicológica (art. 13) e o parecer responde a uma questão-problema (art. 14).",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res06-2019-009",
+    "disciplina": "legislacao",
+    "assunto": "leg-res06-2019",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://abmes.org.br/public/arquivos/legislacoes/Resolucao-CFP-006-2019-03-29.pdf"
+    },
+    "enunciado": "Segundo a Resolução CFP nº 06/2019, o relatório psicológico é composto pelos seguintes itens:",
+    "alternativas": [
+      "identificação, descrição da demanda, procedimento, análise e conclusão.",
+      "identificação, descrição da demanda, procedimento, análise, conclusão e referências.",
+      "identificação, descrição da demanda, análise, conclusão e referências.",
+      "título, finalidade, diagnóstico e prognóstico.",
+      "identificação, histórico clínico, testes aplicados e resultado."
+    ],
+    "gabarito": 0,
+    "comentario": "Art. 11, § 1º, I, da Res. CFP 06/2019: o relatório psicológico tem 5 itens — identificação, descrição da demanda, procedimento, análise e conclusão. O laudo tem 6 itens, acrescentando referências (art. 13, § 1º), e o parecer tem 5 itens, sem procedimento e com referências (art. 14, § 1º).",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res06-2019-010",
+    "disciplina": "legislacao",
+    "assunto": "leg-res06-2019",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://abmes.org.br/public/arquivos/legislacoes/Resolucao-CFP-006-2019-03-29.pdf"
+    },
+    "enunciado": "Um laudo psicológico, segundo a Resolução CFP nº 06/2019, é composto de seis itens. Assinale a alternativa que os apresenta corretamente.",
+    "alternativas": [
+      "Identificação, descrição da demanda, procedimento, análise, conclusão e prognóstico.",
+      "Identificação, descrição da demanda, procedimento, análise, conclusão e referências.",
+      "Identificação, finalidade, procedimento, análise, conclusão e referências.",
+      "Identificação, descrição da demanda, análise, conclusão, referências e anexos.",
+      "Identificação, histórico, procedimento, resultados dos testes, conclusão e referências."
+    ],
+    "gabarito": 1,
+    "comentario": "Art. 13, § 1º, I, da Res. CFP 06/2019: o laudo é composto de identificação, descrição da demanda, procedimento, análise, conclusão e referências. Pelo § 7º, é obrigatória a informação das fontes científicas ou referências bibliográficas, preferencialmente em nota de rodapé.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res06-2019-011",
+    "disciplina": "legislacao",
+    "assunto": "leg-res06-2019",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://abmes.org.br/public/arquivos/legislacoes/Resolucao-CFP-006-2019-03-29.pdf"
+    },
+    "enunciado": "Considere as afirmativas sobre o laudo psicológico, conforme a Resolução CFP nº 06/2019.\nI. É o resultado de um processo de avaliação psicológica, com finalidade de subsidiar decisões relacionadas ao contexto em que surgiu a demanda.\nII. Em equipes multiprofissionais, havendo solicitação de documento decorrente da avaliação, o laudo ou as informações da avaliação psicológica poderão compor um documento único.\nIII. Na conclusão, podem ser indicados encaminhamentos, intervenções, diagnóstico, prognóstico, hipótese diagnóstica, evolução do caso e orientação ou sugestão de projeto terapêutico.\nEstá correto o que se afirma em",
+    "alternativas": [
+      "I, apenas.",
+      "I e II, apenas.",
+      "I e III, apenas.",
+      "II e III, apenas.",
+      "I, II e III."
+    ],
+    "gabarito": 4,
+    "comentario": "Todas corretas: I – art. 13, caput; II – art. 13, V; III – art. 13, § 6º, I, da Res. CFP 06/2019.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res06-2019-012",
+    "disciplina": "legislacao",
+    "assunto": "leg-res06-2019",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://abmes.org.br/public/arquivos/legislacoes/Resolucao-CFP-006-2019-03-29.pdf"
+    },
+    "enunciado": "Um juiz solicita a uma psicóloga especialista em avaliação psicológica a análise técnica de um laudo produzido por outro profissional, cuja metodologia está sendo questionada no processo. O documento adequado, nos termos da Resolução CFP nº 06/2019, é o",
+    "alternativas": [
+      "laudo psicológico, por exigir nova avaliação da pessoa envolvida.",
+      "relatório psicológico, por comunicar a atuação profissional em processo de trabalho.",
+      "atestado psicológico, por certificar a validade do laudo anterior.",
+      "relatório multiprofissional, por envolver mais de um profissional.",
+      "parecer psicológico, que não é resultante de processo de avaliação ou de intervenção psicológica e cujo resultado pode ser indicativo ou conclusivo."
+    ],
+    "gabarito": 4,
+    "comentario": "Art. 14 da Res. CFP 06/2019: o parecer psicológico é pronunciamento escrito com análise técnica que responde a uma questão-problema ou a documentos psicológicos questionados; é resposta a uma consulta, exige conhecimento específico e competência no assunto, seu resultado pode ser indicativo ou conclusivo e NÃO decorre de avaliação ou intervenção psicológica.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res06-2019-013",
+    "disciplina": "legislacao",
+    "assunto": "leg-res06-2019",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://abmes.org.br/public/arquivos/legislacoes/Resolucao-CFP-006-2019-03-29.pdf"
+    },
+    "enunciado": "Segundo a Resolução CFP nº 06/2019, na identificação do parecer psicológico, além do nome do(a) autor(a) e da inscrição no CRP, deve constar",
+    "alternativas": [
+      "a cópia do diploma de graduação em Psicologia.",
+      "a titulação que comprove o conhecimento específico e a competência no assunto.",
+      "a declaração de ausência de vínculo com a parte, assinada por duas testemunhas.",
+      "o número de sessões realizadas com a pessoa objeto do parecer.",
+      "o código CID da pessoa objeto do parecer."
+    ],
+    "gabarito": 1,
+    "comentario": "Art. 14, § 2º, V, da Res. CFP 06/2019: no parecer, a identificação da autora ou do autor inclui nome completo ou nome social, inscrição no CRP e titulação que comprove o conhecimento específico e a competência no assunto. Como o parecer não decorre de atendimento, não há número de sessões a informar.",
+    "dificuldade": 3,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res06-2019-014",
+    "disciplina": "legislacao",
+    "assunto": "leg-res06-2019",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://abmes.org.br/public/arquivos/legislacoes/Resolucao-CFP-006-2019-03-29.pdf"
+    },
+    "enunciado": "No relatório multiprofissional, conforme a Resolução CFP nº 06/2019,",
+    "alternativas": [
+      "os procedimentos de todos os profissionais devem ser descritos de forma integrada, sem distinção de autoria.",
+      "a análise deve ser feita conjuntamente, sendo vedada a análise separada por categoria profissional.",
+      "a conclusão deve ser feita separadamente por cada profissional, vedada a conclusão conjunta.",
+      "a descrição dos procedimentos e/ou técnicas privativas da Psicologia deve vir separada das descritas pelos demais profissionais, e o relatório multiprofissional não isenta a psicóloga de realizar o registro documental.",
+      "o relatório multiprofissional substitui o registro documental da psicóloga."
+    ],
+    "gabarito": 3,
+    "comentario": "Art. 12 da Res. CFP 06/2019: os procedimentos privativos da Psicologia vêm separados dos demais (§ 5º); orienta-se que cada profissional faça sua análise separadamente, com subtítulo (§ 6º); a conclusão pode ser conjunta (§ 8º); e o relatório multiprofissional não isenta do registro documental (§ 7º, I).",
+    "dificuldade": 3,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res06-2019-015",
+    "disciplina": "legislacao",
+    "assunto": "leg-res06-2019",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://abmes.org.br/public/arquivos/legislacoes/Resolucao-CFP-006-2019-03-29.pdf"
+    },
+    "enunciado": "Quanto aos princípios da linguagem técnica dos documentos psicológicos, a Resolução CFP nº 06/2019 determina que os documentos",
+    "alternativas": [
+      "devem ser escritos de forma impessoal, na terceira pessoa, e não devem apresentar descrições literais dos atendimentos, salvo quando tais descrições se justifiquem tecnicamente.",
+      "devem ser escritos na primeira pessoa, para evidenciar a responsabilidade do autor.",
+      "podem utilizar linguagem coloquial, para facilitar a compreensão do destinatário.",
+      "devem trazer transcrições literais das falas da pessoa atendida, para garantir fidedignidade.",
+      "devem conter as referências teóricas sempre no corpo do texto, vedada a nota de rodapé."
+    ],
+    "gabarito": 0,
+    "comentario": "Art. 6º, §§ 3º a 5º, da Res. CFP 06/2019: linguagem baseada na norma culta, impessoal, na terceira pessoa, sem descrições literais dos atendimentos, salvo justificativa técnica. As referências devem ser colocadas preferencialmente em nota de rodapé (art. 5º, § 7º).",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res06-2019-016",
+    "disciplina": "legislacao",
+    "assunto": "leg-res06-2019",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://abmes.org.br/public/arquivos/legislacoes/Resolucao-CFP-006-2019-03-29.pdf"
+    },
+    "enunciado": "Segundo a Resolução CFP nº 06/2019, toda e qualquer modalidade de documento psicológico deverá ter",
+    "alternativas": [
+      "todas as laudas assinadas e com firma reconhecida.",
+      "apenas a última lauda numerada e assinada.",
+      "todas as laudas numeradas, rubricadas da primeira até a penúltima lauda, e a assinatura da(o) psicóloga(o) na última página.",
+      "todas as laudas rubricadas, inclusive a última, dispensada a numeração.",
+      "carimbo do Conselho Regional em todas as laudas."
+    ],
+    "gabarito": 2,
+    "comentario": "Art. 5º, § 8º, da Res. CFP 06/2019: todas as laudas numeradas, rubricadas da primeira até a penúltima, e assinatura na última página. O encerramento com local, data, carimbo com nome e inscrição profissional também é exigido nas estruturas de cada documento.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res06-2019-017",
+    "disciplina": "legislacao",
+    "assunto": "leg-res06-2019",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://abmes.org.br/public/arquivos/legislacoes/Resolucao-CFP-006-2019-03-29.pdf"
+    },
+    "enunciado": "Sobre a guarda, o destino e o envio dos documentos, a Resolução CFP nº 06/2019 estabelece que",
+    "alternativas": [
+      "os documentos devem ser guardados pelo prazo mínimo de 2 anos, dispensado o protocolo de entrega quando o documento for enviado por e-mail.",
+      "os documentos devem ser enviados preferencialmente pelo correio ao solicitante, sem entrevista devolutiva.",
+      "os documentos e todo o material que os fundamentou devem ser guardados pelo prazo mínimo de 5 anos, e é obrigatório manter protocolo de entrega, com assinatura do solicitante, comprovando o recebimento e a responsabilidade pelo uso e sigilo.",
+      "a responsabilidade pela guarda é exclusiva da instituição, eximindo-se a psicóloga.",
+      "o material que fundamentou o documento deve ser destruído após a entrega, para preservar o sigilo."
+    ],
+    "gabarito": 2,
+    "comentario": "Arts. 15 e 16 da Res. CFP 06/2019: guarda mínima de 5 anos dos documentos e do material que os fundamentou, com responsabilidade da psicóloga em conjunto com a instituição (art. 15, § 1º); entrega direta ao beneficiário, responsável legal e/ou solicitante em entrevista devolutiva (art. 16), com protocolo de entrega assinado (art. 16, § 1º).",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res06-2019-018",
+    "disciplina": "legislacao",
+    "assunto": "leg-res06-2019",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://abmes.org.br/public/arquivos/legislacoes/Resolucao-CFP-006-2019-03-29.pdf"
+    },
+    "enunciado": "Uma psicóloga concluiu processo de avaliação psicológica e elaborou laudo. Segundo a Resolução CFP nº 06/2019, para a entrega do relatório e do laudo psicológico,",
+    "alternativas": [
+      "a entrevista devolutiva é facultativa e só ocorre se o usuário solicitar.",
+      "a entrevista devolutiva é obrigatória para todos os documentos, inclusive declarações.",
+      "o documento deve ser enviado ao solicitante por correspondência, dispensada a devolutiva.",
+      "a entrevista devolutiva deve ser realizada com a presença de um conselheiro do CRP.",
+      "é dever realizar ao menos uma entrevista devolutiva à pessoa, grupo, instituição atendida ou responsáveis legais, devendo a psicóloga explicitar suas razões caso ela não possa ser realizada."
+    ],
+    "gabarito": 4,
+    "comentario": "Art. 18 da Res. CFP 06/2019: para entrega do relatório e do laudo é DEVER realizar ao menos uma entrevista devolutiva; na impossibilidade, a psicóloga deve explicitar as razões (§ 1º). Nos demais documentos, a devolutiva é RECOMENDADA sempre que solicitada (§ 2º).",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res06-2019-019",
+    "disciplina": "legislacao",
+    "assunto": "leg-res06-2019",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://abmes.org.br/public/arquivos/legislacoes/Resolucao-CFP-006-2019-03-29.pdf"
+    },
+    "enunciado": "De acordo com a Resolução CFP nº 06/2019, o prazo de validade do conteúdo do documento escrito decorrente da prestação de serviços psicológicos",
+    "alternativas": [
+      "é de 6 meses para todos os documentos, salvo o laudo, que vale 1 ano.",
+      "deverá ser indicado no último parágrafo do documento, considerando a normatização vigente na área e, não havendo definição normativa, os objetivos do serviço, os procedimentos, os aspectos analisados e as conclusões.",
+      "é fixado pelo Conselho Regional em tabela anual.",
+      "não precisa ser indicado, pois os documentos psicológicos têm validade indeterminada.",
+      "deve ser indicado no cabeçalho do documento, junto à identificação."
+    ],
+    "gabarito": 1,
+    "comentario": "Art. 17 da Res. CFP 06/2019: o prazo de validade do conteúdo deve ser indicado no último parágrafo, considerando a normatização da área e a natureza dinâmica do trabalho (§ 1º); não havendo norma, a psicóloga o indica com base nos objetivos, procedimentos, aspectos analisados e conclusões (§ 2º). Não há prazo único fixado pela Resolução.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res06-2019-020",
+    "disciplina": "legislacao",
+    "assunto": "leg-res06-2019",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://abmes.org.br/public/arquivos/legislacoes/Resolucao-CFP-006-2019-03-29.pdf"
+    },
+    "enunciado": "Segundo a Resolução CFP nº 06/2019, a confecção do documento psicológico deve ser realizada",
+    "alternativas": [
+      "apenas por determinação judicial ou requisição de autoridade policial.",
+      "somente a pedido do próprio usuário maior de idade, vedada a solicitação por terceiros.",
+      "exclusivamente ao final de processos de avaliação psicológica, vedada em outros contextos.",
+      "mediante solicitação do usuário, de seus responsáveis legais, de um profissional específico, das equipes multidisciplinares ou das autoridades, ou ser resultado de um processo de avaliação psicológica, sendo dever da psicóloga elaborá-lo e fornecê-lo sempre que solicitada.",
+      "a critério exclusivo da psicóloga, que pode recusar o fornecimento mesmo quando solicitada."
+    ],
+    "gabarito": 3,
+    "comentario": "Art. 4º, § 1º, e art. 7º, § 6º, da Res. CFP 06/2019: o documento é confeccionado mediante solicitação do usuário, responsáveis, profissional, equipes ou autoridades, ou como resultado de avaliação psicológica; e é dever da psicóloga elaborar e fornecer documentos sempre que solicitada ou ao final de avaliação psicológica.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res06-2019-021",
+    "disciplina": "legislacao",
+    "assunto": "leg-res06-2019",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://abmes.org.br/public/arquivos/legislacoes/Resolucao-CFP-006-2019-03-29.pdf"
+    },
+    "enunciado": "Ao final de um laudo psicológico, a psicóloga deseja incluir ressalva sobre o uso do documento. Conforme a Resolução CFP nº 06/2019, é facultado destacar que o documento",
+    "alternativas": [
+      "tem validade nacional e pode ser utilizado para quaisquer finalidades pelo destinatário.",
+      "não poderá ser utilizado para fins diferentes do apontado no item de identificação, possui caráter sigiloso, trata-se de documento extrajudicial e a psicóloga não se responsabiliza pelo uso dado por parte da pessoa, grupo ou instituição após a entrega em entrevista devolutiva.",
+      "só terá validade se reconhecido pelo Conselho Regional de Psicologia.",
+      "pode ser utilizado por terceiros sem autorização, desde que preservada a identidade da pessoa avaliada.",
+      "dispensa entrevista devolutiva, por conter ressalva expressa de uso."
+    ],
+    "gabarito": 1,
+    "comentario": "Art. 13, § 6º, III, da Res. CFP 06/2019: é facultado destacar, ao final do laudo, que ele não pode ser usado para fins diversos do indicado na identificação, que é sigiloso, extrajudicial e que a psicóloga não se responsabiliza pelo uso dado após a entrega em entrevista devolutiva. A ressalva não dispensa a devolutiva, obrigatória para laudos (art. 18).",
+    "dificuldade": 1,
+    "anulada": false
+  }
+]

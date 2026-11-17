@@ -1,0 +1,252 @@
+[
+ {
+  "id": "fgv-bbts-2023-ana-11",
+  "disciplina": "rlm",
+  "assunto": "rlm-problemas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "BB Tecnologia e Serviços",
+   "ano": 2023,
+   "cargo": "Analista – Perfil Tecnológico",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns001-analista-tecnologicocns001-tipo-1.pdf"
+  },
+  "enunciado": "Um conjunto é formado por 83 números ímpares e 139 números pares, todos diferentes. Os 222 números são usados para formar 111 pares ordenados, em que cada um dos 222 números é usado apenas uma vez.\nEm exatamente 27 pares ordenados, os dois números usados em cada um deles são ímpares.\nO número de pares ordenados nos quais, em cada um deles, os dois números usados são pares é",
+  "alternativas": [
+   "56.",
+   "55.",
+   "54.",
+   "53.",
+   "52."
+  ],
+  "gabarito": 1,
+  "comentario": "Os 27 pares só de ímpares consomem 27 × 2 = 54 ímpares; sobram 83 − 54 = 29 ímpares, que obrigatoriamente formam pares mistos com 29 números pares. Restam 139 − 29 = 110 pares, que formam 110 ÷ 2 = 55 pares ordenados só de pares. Conferência: 27 + 29 + 55 = 111 pares. Logo, 55 (B).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-bbts-2023-ana-12",
+  "disciplina": "rlm",
+  "assunto": "rlm-medidas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "BB Tecnologia e Serviços",
+   "ano": 2023,
+   "cargo": "Analista – Perfil Tecnológico",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns001-analista-tecnologicocns001-tipo-1.pdf"
+  },
+  "enunciado": "O ponto de coordenadas (7, 4) é rotacionado de 90°, no sentido anti-horário, em torno da origem. A seguir, ele sofre uma reflexão no eixo das abcissas, resultando no ponto (a, b).\nO valor de a − b é",
+  "alternativas": [
+   "3.",
+   "−3.",
+   "4.",
+   "−4.",
+   "11."
+  ],
+  "gabarito": 0,
+  "comentario": "A rotação de 90° anti-horária em torno da origem leva (x, y) em (−y, x): (7, 4) → (−4, 7). A reflexão no eixo das abscissas troca o sinal da ordenada: (−4, 7) → (−4, −7). Assim, a − b = −4 − (−7) = 3. Errar o sentido da rotação levaria a (4, −7) e depois (4, 7), dando −3 (B).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-bbts-2023-ana-13",
+  "disciplina": "rlm",
+  "assunto": "rlm-numeros",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "BB Tecnologia e Serviços",
+   "ano": 2023,
+   "cargo": "Analista – Perfil Tecnológico",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns001-analista-tecnologicocns001-tipo-1.pdf"
+  },
+  "enunciado": "Sobre a igualdade √(a² − b²) = a − b , sendo a e b números reais, é correto afirmar que",
+  "alternativas": [
+   "nunca é verdadeira.",
+   "é verdadeira se, e somente se, a ≥ b.",
+   "é verdadeira se, e somente se, a > b e b = 0.",
+   "é verdadeira se, e somente se, a = b ou (b = 0 e a > 0).",
+   "sempre é verdadeira."
+  ],
+  "gabarito": 3,
+  "comentario": "Para a igualdade valer, o lado direito não pode ser negativo (a − b ≥ 0) e, elevando ao quadrado, a² − b² = a² − 2ab + b², ou seja, 2b² − 2ab = 0 ⇒ b(b − a) = 0 ⇒ b = 0 ou a = b. Se a = b, ambos os lados valem 0. Se b = 0, fica √(a²) = |a| = a, o que exige a ≥ 0 (o caso a = 0 já está em a = b). Logo, vale se, e somente se, a = b ou (b = 0 e a > 0). A opção B falha, por exemplo, em a = 3, b = 1 (√8 ≠ 2).",
+  "dificuldade": 3,
+  "anulada": false
+ },
+ {
+  "id": "fgv-bbts-2023-ana-14",
+  "disciplina": "rlm",
+  "assunto": "rlm-numeros",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "BB Tecnologia e Serviços",
+   "ano": 2023,
+   "cargo": "Analista – Perfil Tecnológico",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns001-analista-tecnologicocns001-tipo-1.pdf"
+  },
+  "enunciado": "A soma de dois números naturais é 22253. Um deles é múltiplo de 10 e retirando-se o seu algarismo das unidades obtém-se o outro número.\nA diferença entre o maior e o menor número é",
+  "alternativas": [
+   "18207.",
+   "17109.",
+   "16011.",
+   "15831.",
+   "14103."
+  ],
+  "gabarito": 0,
+  "comentario": "Se o menor é k, o maior (múltiplo de 10 cujo algarismo das unidades, 0, foi retirado) é 10k. Então 10k + k = 11k = 22253, logo k = 2023 e o maior é 20230. A diferença é 20230 − 2023 = 18207, ou seja, 9k = 9 × 2023 = 18207.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-bbts-2023-ana-15",
+  "disciplina": "rlm",
+  "assunto": "rlm-numeros",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "BB Tecnologia e Serviços",
+   "ano": 2023,
+   "cargo": "Analista – Perfil Tecnológico",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns001-analista-tecnologicocns001-tipo-1.pdf"
+  },
+  "enunciado": "Seja N = 8^2023.\nO valor de N/32 pode ser escrito como",
+  "alternativas": [
+   "2^2018.",
+   "4^3032.",
+   "8^2018.",
+   "16^1564.",
+   "32^758."
+  ],
+  "gabarito": 1,
+  "comentario": "Escrevendo tudo na base 2: N = 8^2023 = 2^(3·2023) = 2^6069 e 32 = 2^5. Logo N/32 = 2^(6069 − 5) = 2^6064 = (2²)^3032 = 4^3032. As demais não batem: 8^2018 = 2^6054, 16^1564 = 2^6256, 32^758 = 2^3790 e 2^2018 é muito menor.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-bbts-2023-ana-16",
+  "disciplina": "rlm",
+  "assunto": "rlm-proposicoes",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "BB Tecnologia e Serviços",
+   "ano": 2023,
+   "cargo": "Analista – Perfil Tecnológico",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns001-analista-tecnologicocns001-tipo-1.pdf"
+  },
+  "enunciado": "Myriam tem 17 gatos, dos quais 5 são cinzas e 6 são felizes.\nSabe-se que\n• todos os gatos felizes conseguem somar;\n• nenhum gato cinza consegue subtrair;\n• todos os gatos que não conseguem subtrair, também não conseguem somar.\nNesse sentido, é correto concluir que",
+  "alternativas": [
+   "todos os gatos cinza são felizes.",
+   "todos os gatos cinza conseguem somar.",
+   "nenhum gato feliz é cinza.",
+   "nenhum gato feliz consegue subtrair.",
+   "nenhum gato que consegue subtrair é feliz."
+  ],
+  "gabarito": 2,
+  "comentario": "Encadeando: gato cinza → não subtrai → não soma. Mas todo gato feliz soma; logo um gato cinza (que não soma) não pode ser feliz. Portanto, nenhum gato feliz é cinza (C). A e B contradizem essa cadeia; D e E não decorrem das premissas (pela contrapositiva, quem soma consegue subtrair, então os felizes até subtraem).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-bbts-2023-ana-17",
+  "disciplina": "rlm",
+  "assunto": "rlm-problemas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "BB Tecnologia e Serviços",
+   "ano": 2023,
+   "cargo": "Analista – Perfil Tecnológico",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns001-analista-tecnologicocns001-tipo-1.pdf"
+  },
+  "enunciado": "Em uma urna há somente bolas pretas e bolas vermelhas.\nA probabilidade de uma bola vermelha ser sorteada ao acaso é 2/5.\nPor outro lado, se adicionarmos 10 bolas vermelhas à urna, a probabilidade de uma bola preta ser sorteada ao acaso é 3/7.\nO número de bolas pretas na urna é",
+  "alternativas": [
+   "10.",
+   "12.",
+   "14.",
+   "15.",
+   "20."
+  ],
+  "gabarito": 3,
+  "comentario": "Sejam V vermelhas e P pretas. V/(V + P) = 2/5 ⇒ 5V = 2V + 2P ⇒ 3V = 2P. Com 10 vermelhas a mais: P/(V + P + 10) = 3/7 ⇒ 7P = 3V + 3P + 30 ⇒ 4P = 3V + 30 = 2P + 30 ⇒ P = 15 (e V = 10). Conferência: 10/25 = 2/5 e 15/35 = 3/7.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-bbts-2023-ana-18",
+  "disciplina": "rlm",
+  "assunto": "rlm-problemas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "BB Tecnologia e Serviços",
+   "ano": 2023,
+   "cargo": "Analista – Perfil Tecnológico",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns001-analista-tecnologicocns001-tipo-1.pdf"
+  },
+  "enunciado": "Um dado cúbico honesto, com as faces numeradas de 1 a 6, é lançado 4 vezes consecutivas. Considere como resultado a sequência dos 4 números sorteados.\nAssinale a opção que indica o número de resultados possíveis de ocorrer, de tal modo que o produto dos 4 números sorteados não seja divisível por 4.",
+  "alternativas": [
+   "132.",
+   "165.",
+   "231.",
+   "264.",
+   "297."
+  ],
+  "gabarito": 4,
+  "comentario": "O produto não é divisível por 4 quando tem no máximo um fator 2. Isso ocorre se todos os números forem ímpares (1, 3, 5): 3^4 = 81 sequências; ou se exatamente um deles for 2 ou 6 (um único fator 2) e os outros três forem ímpares: 4 posições × 2 escolhas × 3³ = 216. O 4 nunca pode aparecer. Total: 81 + 216 = 297.",
+  "dificuldade": 3,
+  "anulada": false
+ },
+ {
+  "id": "fgv-bbts-2023-ana-19",
+  "disciplina": "rlm",
+  "assunto": "rlm-medidas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "BB Tecnologia e Serviços",
+   "ano": 2023,
+   "cargo": "Analista – Perfil Tecnológico",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns001-analista-tecnologicocns001-tipo-1.pdf"
+  },
+  "enunciado": "Chama-se distância do taxista entre dois pontos do plano cartesiano, (x1, y1) e (x2, y2), ao número real não negativo dado por |x1 − x2| + |y1 − y2|.\nO número de pontos do plano cartesiano, com coordenadas inteiras, cuja distância do taxista à origem do sistema de coordenadas é igual a 10 é",
+  "alternativas": [
+   "30.",
+   "32.",
+   "36.",
+   "38.",
+   "40."
+  ],
+  "gabarito": 4,
+  "comentario": "Queremos |x| + |y| = 10 com x, y inteiros. Os pontos com y = 0 ou x = 0 são 4: (±10, 0) e (0, ±10). Para |x| = 1, …, 9, |y| = 10 − |x| é positivo e há 2 sinais para x e 2 para y: 9 × 4 = 36. Total: 36 + 4 = 40 (o 'losango' tem 4 × 10 pontos inteiros).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-bbts-2023-ana-20",
+  "disciplina": "rlm",
+  "assunto": "rlm-medidas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "BB Tecnologia e Serviços",
+   "ano": 2023,
+   "cargo": "Analista – Perfil Tecnológico",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns001-analista-tecnologicocns001-tipo-1.pdf"
+  },
+  "enunciado": "Com 27 cubos unitários, 1 x 1 x 1, pode-se formar um cubo maior, 3 x 3 x 3, colando-se faces dos cubos unitários, conforme sugerido na figura. Esse cubo maior pode ser manipulado de modo a poder observar toda a sua superfície externa.\n[Figura: cubo 3 x 3 x 3 formado por cubinhos.]\nImagine que se tenha 13 cubos unitários brancos e 14 vermelhos para se formar o cubo maior, 3 x 3 x 3.\nNa superfície externa desse cubo maior, o número máximo de quadradinhos vermelhos que se pode ter é",
+  "alternativas": [
+   "18.",
+   "27.",
+   "36.",
+   "48.",
+   "54."
+  ],
+  "gabarito": 2,
+  "comentario": "No cubo 3 × 3 × 3, os 8 cubinhos de vértice mostram 3 faces, os 12 de aresta mostram 2, os 6 de centro de face mostram 1 e o central não aparece. Para maximizar, coloque os vermelhos onde mais aparecem: 8 nos vértices (8 × 3 = 24) e os 6 restantes em arestas (6 × 2 = 12). Total: 24 + 12 = 36 quadradinhos vermelhos.",
+  "dificuldade": 2,
+  "anulada": false
+ }
+]

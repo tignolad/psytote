@@ -1,0 +1,662 @@
+[
+  {
+    "id": "aut-esp-praticas-001",
+    "disciplina": "especificos",
+    "assunto": "esp-praticas",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Res. CFP nº 13/2022 – https://abmes.org.br/public/arquivos/legislacoes/Resolucao-CFP-013-2022-06-15.pdf"
+    },
+    "enunciado": "Segundo a Resolução CFP nº 13/2022, psicoterapia é",
+    "alternativas": [
+      "prática de intervenção sustentada por campo de conhecimentos teóricos e técnicos fundamentados cientificamente, embasada por princípios éticos, desenvolvida em contexto clínico e em relacionamento interpessoal, a partir de demanda psicológica, para promover saúde mental e propiciar condições de enfrentamento de conflitos ou transtornos psíquicos.",
+      "qualquer prática de cuidado emocional exercida por profissional de saúde, independentemente de fundamentação científica.",
+      "atividade privativa de médicos psiquiatras, que pode ser delegada a psicólogos mediante supervisão.",
+      "prática de aconselhamento restrita ao atendimento individual, vedada a casais, famílias e grupos.",
+      "processo de avaliação psicológica com finalidade diagnóstica, delimitado no tempo."
+    ],
+    "gabarito": 0,
+    "comentario": "O art. 1º, parágrafo único, da Res. CFP 13/2022 define a psicoterapia como intervenção fundamentada cientificamente e em princípios éticos, desenvolvida em contexto clínico e relação interpessoal. Ela atende indivíduos, casais, famílias e grupos, a partir de demanda psicológica, para promover saúde mental e enfrentar conflitos ou transtornos. Não se restringe ao atendimento individual nem se confunde com avaliação psicológica.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-praticas-002",
+    "disciplina": "especificos",
+    "assunto": "esp-praticas",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Res. CFP nº 13/2022 – https://abmes.org.br/public/arquivos/legislacoes/Resolucao-CFP-013-2022-06-15.pdf"
+    },
+    "enunciado": "Ao iniciar uma psicoterapia, a psicóloga deve estabelecer contrato com a pessoa atendida. Segundo a Resolução CFP nº 13/2022, esse contrato",
+    "alternativas": [
+      "deve ser obrigatoriamente escrito e registrado no Conselho Regional.",
+      "pode ser verbal ou escrito e deve evidenciar, entre outros pontos, a impossibilidade de fazer previsões taxativas de resultados e a possibilidade de interrupção do serviço a qualquer momento.",
+      "deve garantir resultado mínimo em prazo determinado, para proteção do consumidor.",
+      "dispensa informações sobre honorários quando o atendimento é particular.",
+      "pode ser verbal ou escrito, mas não deve informar que os atendimentos serão registrados, para preservar o vínculo."
+    ],
+    "gabarito": 1,
+    "comentario": "O art. 3º, I, da Res. CFP 13/2022 prevê contrato verbal ou escrito que evidencie direitos e deveres, inclusive a possibilidade de interrupção a qualquer momento. Deve tratar também de condições, objetivos, honorários, frequência e tempo de sessão, da impossibilidade de previsões taxativas, da modalidade de atendimento e do registro dos serviços. Garantir resultados contraria a própria norma e o art. 20, e, do Código de Ética.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-praticas-003",
+    "disciplina": "especificos",
+    "assunto": "esp-praticas",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Res. CFP nº 13/2022 – https://abmes.org.br/public/arquivos/legislacoes/Resolucao-CFP-013-2022-06-15.pdf"
+    },
+    "enunciado": "Uma clínica social determina que as sessões dos pacientes de valor reduzido durem 25 minutos, enquanto as dos pacientes de valor integral durem 50 minutos. À luz da Resolução CFP nº 13/2022, essa regra é",
+    "alternativas": [
+      "permitida, pois o tempo de sessão é livremente definido pela instituição contratante.",
+      "permitida, desde que informada no contrato terapêutico.",
+      "permitida apenas em serviços públicos, para ampliar o acesso.",
+      "vedada apenas se o tempo for inferior a 20 minutos.",
+      "vedada, pois a psicóloga não pode condicionar o tempo de sessão a honorário ou gratuidade, ao volume de atendimentos ou a exigências institucionais contrárias aos critérios técnicos."
+    ],
+    "gabarito": 4,
+    "comentario": "O art. 4º da Res. CFP 13/2022 atribui à(ao) psicoterapeuta a definição do tempo de sessão, segundo critérios técnicos, teóricos e éticos da abordagem e a qualidade do atendimento. O inciso III veda condicionar esse tempo a honorário ou gratuidade, ao volume de atendimentos ou a exigências institucionais contrárias a esses critérios. A norma não fixa duração mínima em minutos.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-praticas-004",
+    "disciplina": "especificos",
+    "assunto": "esp-praticas",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Res. CFP nº 13/2022 – https://abmes.org.br/public/arquivos/legislacoes/Resolucao-CFP-013-2022-06-15.pdf"
+    },
+    "enunciado": "Um psicólogo oferece \"primeira sessão gratuita\" em atendimento psicoterápico voluntário e, nela, convence as pessoas a contratarem pacotes pagos em seu consultório. Segundo a Resolução CFP nº 13/2022, essa conduta",
+    "alternativas": [
+      "é permitida, por se tratar de estratégia legítima de captação de clientes.",
+      "é permitida, desde que o valor dos pacotes seja inferior ao de mercado.",
+      "é vedada apenas se o psicólogo atuar em instituição pública.",
+      "é permitida se a pessoa assinar termo de ciência.",
+      "é vedada, pois no atendimento voluntário é proibido usá-lo para induzir pessoas a recorrerem aos serviços do profissional e alterar sua natureza voluntária."
+    ],
+    "gabarito": 4,
+    "comentario": "O art. 7º da Res. CFP 13/2022 define o atendimento voluntário como serviço sem cobrança, realizado por escolha da(o) psicóloga(o). O inciso II veda usá-lo para induzir pessoas ou organizações a recorrer aos serviços do profissional e alterar sua natureza voluntária. A conduta também se aproxima do uso do preço como forma de propaganda, vedado pelo art. 20, d, do Código de Ética.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-praticas-005",
+    "disciplina": "especificos",
+    "assunto": "esp-praticas",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Res. CFP nº 13/2022 – https://abmes.org.br/public/arquivos/legislacoes/Resolucao-CFP-013-2022-06-15.pdf"
+    },
+    "enunciado": "Os pais de uma criança de 7 anos estão separados e apenas a mãe procura a psicóloga para iniciar psicoterapia. Segundo a Resolução CFP nº 13/2022, para iniciar o acompanhamento é necessário",
+    "alternativas": [
+      "autorização por escrito de ambos os genitores, sob pena de nulidade.",
+      "autorização judicial, por se tratar de pais separados.",
+      "apenas o consentimento verbal da criança.",
+      "autorização por escrito de, ao menos, um responsável legalmente constituído.",
+      "autorização do Conselho Tutelar."
+    ],
+    "gabarito": 3,
+    "comentario": "O art. 12, I, da Res. CFP 13/2022 exige autorização por escrito de, ao menos, um responsável legalmente constituído antes do início do acompanhamento de criança ou adolescente (o anexo traz modelo). A norma orienta ainda a pautar-se pela proteção integral e pelo melhor interesse da criança e a propor a participação dos responsáveis no processo. Não se exige a assinatura de ambos os genitores nem autorização judicial.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-praticas-006",
+    "disciplina": "especificos",
+    "assunto": "esp-praticas",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Res. CFP nº 13/2022 – https://abmes.org.br/public/arquivos/legislacoes/Resolucao-CFP-013-2022-06-15.pdf"
+    },
+    "enunciado": "A Resolução CFP nº 13/2022 garante à(ao) psicoterapeuta autonomia para conduzir a prestação de serviços no âmbito da abordagem adotada, desde que garantidos certos critérios. NÃO é um desses critérios:",
+    "alternativas": [
+      "fundamentação ético-científico-epistemológica.",
+      "filiação da(o) profissional a sociedade ou escola formadora reconhecida pelo Conselho Federal de Psicologia.",
+      "teoria clínica explicativa do sofrimento humano.",
+      "comprovação, por meio da literatura científica, que evidencie benefícios à saúde.",
+      "aplicação em observância às diversidades humanas e realidades locais."
+    ],
+    "gabarito": 1,
+    "comentario": "O art. 14 da Res. CFP 13/2022 lista como critérios: respeito ao Código de Ética e às normativas, fundamentação ético-científico-epistemológica, fundamentação científica sobre o desenvolvimento humano, teoria clínica explicativa do sofrimento, comprovação de benefícios pela literatura científica, observância das diversidades e realidades locais e requisitos formativos. Não há exigência de filiação a sociedade ou escola, e o CFP não credencia escolas de abordagem para esse fim.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-praticas-007",
+    "disciplina": "especificos",
+    "assunto": "esp-praticas",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Res. CFP nº 13/2022 – https://abmes.org.br/public/arquivos/legislacoes/Resolucao-CFP-013-2022-06-15.pdf"
+    },
+    "enunciado": "Uma psicóloga supervisiona estagiárias que atendem em psicoterapia numa clínica-escola. Segundo a Resolução CFP nº 13/2022, entre seus deveres está",
+    "alternativas": [
+      "assumir pessoalmente todos os atendimentos, cabendo às estagiárias apenas observar.",
+      "dispensar o registro documental, por se tratar de atividade de ensino.",
+      "ter título de especialista em psicologia clínica concedido pelo CFP.",
+      "assinar todos os documentos como se fosse a terapeuta, omitindo a participação das estagiárias.",
+      "informar às pessoas diretamente envolvidas no atendimento que se trata de atividade educativa supervisionada."
+    ],
+    "gabarito": 4,
+    "comentario": "O art. 8º da Res. CFP 13/2022 exige que quem supervisiona esteja inscrito no CRP e tenha experiência como psicoterapeuta. Também deve zelar pela qualidade técnica e ética da psicoterapia feita por estagiários e informar às pessoas envolvidas que se trata de atividade educativa supervisionada. A norma não exige título de especialista, e o registro documental deve identificar supervisor e estagiário (Res. 01/2009, art. 3º).",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-praticas-008",
+    "disciplina": "especificos",
+    "assunto": "esp-praticas",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Res. CFP nº 13/2022 – https://abmes.org.br/public/arquivos/legislacoes/Resolucao-CFP-013-2022-06-15.pdf"
+    },
+    "enunciado": "Ao proceder a notificação compulsória de violência envolvendo paciente em psicoterapia, a psicóloga, conforme a Resolução CFP nº 13/2022, deve",
+    "alternativas": [
+      "indicar dados sigilosos apenas em formulários, sistemas ou equipamentos de políticas públicas que assegurem o sigilo, prestando as informações estritamente necessárias.",
+      "enviar cópia integral do prontuário ao órgão notificado, para subsidiar a investigação.",
+      "divulgar o caso à equipe de toda a instituição, para proteção coletiva.",
+      "prestar as informações por aplicativo de mensagens pessoal, pela agilidade.",
+      "abster-se de considerar a vulnerabilidade social da paciente, para garantir a imparcialidade."
+    ],
+    "gabarito": 0,
+    "comentario": "O art. 10 da Res. CFP 13/2022 orienta, nas situações de quebra de sigilo, notificação compulsória e depoimento, a prestar só as informações estritamente necessárias e a considerar os impactos da quebra e a vulnerabilidade social. Dados sigilosos só devem ser indicados em formulários, sistemas ou equipamentos de políticas públicas que assegurem o sigilo, e explicações judiciais seguem o padrão da Res. 06/2019. Enviar o prontuário integral ou usar canais inseguros contraria essas diretrizes.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-praticas-009",
+    "disciplina": "especificos",
+    "assunto": "esp-praticas",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Res. CFP nº 13/2022 – https://abmes.org.br/public/arquivos/legislacoes/Resolucao-CFP-013-2022-06-15.pdf"
+    },
+    "enunciado": "A Resolução CFP nº 13/2022 orienta a psicóloga a compreender como espaço psicoterapêutico",
+    "alternativas": [
+      "exclusivamente a sala física do consultório, com dimensões mínimas definidas pelo CFP.",
+      "o local registrado no Conselho Regional como sede da pessoa jurídica.",
+      "apenas o ambiente virtual, nos atendimentos mediados por tecnologia.",
+      "o conjunto de instrumentos e testes utilizados na avaliação inicial.",
+      "o campo relacional que se estabelece durante o processo, incluindo o ambiente, as pessoas envolvidas e a relação suscitada."
+    ],
+    "gabarito": 4,
+    "comentario": "O art. 15 da Res. CFP 13/2022 define o espaço psicoterapêutico como campo relacional que inclui ambiente, pessoas envolvidas e relação suscitada. O parágrafo único exige atender às normas locais de segurança, acessibilidade e protocolos sanitários e garantir sigilo e privacidade nas diversas modalidades. A noção vale para atendimentos presenciais e mediados por tecnologia, sem metragem padronizada.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-praticas-010",
+    "disciplina": "especificos",
+    "assunto": "esp-praticas",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Res. CFP nº 09/2024 – https://abmes.org.br/arquivos/legislacoes/Resolucao-cfp-009-2024-07-18.pdf"
+    },
+    "enunciado": "Uma psicóloga atende on-line um paciente que, durante a sessão, relata plano estruturado de suicídio para aquela noite. Segundo a Resolução CFP nº 09/2024, diante de situações que envolvam risco de morte, violência ou urgência, a psicóloga deve",
+    "alternativas": [
+      "encerrar imediatamente o atendimento, pois a resolução proíbe o atendimento on-line nessas situações.",
+      "considerar a possibilidade de atendimento concomitante ou de encaminhamento para a rede de proteção presencial, registrando no prontuário todas as ações, notificações e articulações realizadas.",
+      "manter exclusivamente o atendimento on-line, por ser vedado o encaminhamento durante o processo.",
+      "aguardar a sessão seguinte para avaliar a evolução do risco.",
+      "comunicar o caso apenas ao Conselho Regional, que providenciará o atendimento presencial."
+    ],
+    "gabarito": 1,
+    "comentario": "O art. 5º da Res. CFP 09/2024 determina que a psicóloga considere serviço concomitante ou encaminhamento para a rede de proteção presencial, ou para serviços exclusivamente presenciais, diante de risco de morte ou à integridade, violência ou violação de direitos. O mesmo vale para privação de liberdade e urgências e emergências. O §2º exige registrar no prontuário todas as ações, notificações e articulações. O art. 4º, VI, já obriga a prever meios de atender ou direcionar urgências.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-praticas-011",
+    "disciplina": "especificos",
+    "assunto": "esp-praticas",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Res. CFP nº 09/2024 – https://abmes.org.br/arquivos/legislacoes/Resolucao-cfp-009-2024-07-18.pdf"
+    },
+    "enunciado": "Uma psicóloga com inscrição principal no CRP/05 (RJ) passa a atender, por videochamada, pacientes residentes em vários estados. De acordo com a Resolução CFP nº 09/2024,",
+    "alternativas": [
+      "ela deve obter inscrição secundária em cada estado onde residam seus pacientes.",
+      "ela só pode atender pacientes residentes no estado do Rio de Janeiro.",
+      "ela pode oferecer o serviço mediado por TDICs em todo o território nacional, ficando dispensada da inscrição secundária nos demais Conselhos Regionais.",
+      "ela deve solicitar autorização prévia ao CFP para cada paciente de outro estado.",
+      "ela deve transferir sua inscrição principal para o estado com mais pacientes."
+    ],
+    "gabarito": 2,
+    "comentario": "O art. 6º da Res. CFP 09/2024 permite à psicóloga, independentemente do estado da inscrição principal, oferecer serviço mediado por TDICs em território nacional. O §1º dispensa da inscrição secundária quem atua por TDICs. Profissionais que residem em outros países devem obedecer à legislação local (§2º).",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-praticas-012",
+    "disciplina": "especificos",
+    "assunto": "esp-praticas",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Res. CFP nº 09/2024 – https://abmes.org.br/arquivos/legislacoes/Resolucao-cfp-009-2024-07-18.pdf"
+    },
+    "enunciado": "Sobre os contratos de prestação de serviços psicológicos mediados por TDICs, a Resolução CFP nº 09/2024 estabelece que eles",
+    "alternativas": [
+      "devem ser obrigatoriamente escritos e registrados em cartório.",
+      "devem prever foro no domicílio do paciente, por se tratar de relação de consumo.",
+      "dispensam informar os recursos tecnológicos, por serem de conhecimento geral.",
+      "podem ser escritos ou verbais, devendo prever, entre outros pontos, cláusula de eleição de foro na jurisdição da inscrição principal e os recursos tecnológicos usados para garantir o sigilo.",
+      "só são necessários quando o atendimento for prestado por pessoa jurídica."
+    ],
+    "gabarito": 3,
+    "comentario": "O art. 7º da Res. CFP 09/2024 admite contratos escritos ou verbais, que devem abarcar características do trabalho e direitos e deveres. Devem prever também os recursos tecnológicos utilizados, cláusula de eleição de foro na jurisdição da inscrição principal e dados da empresa ou instituição, quando houver. O parágrafo único obriga a especificar os recursos que garantem o sigilo e a informar o cliente sobre eles.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-praticas-013",
+    "disciplina": "especificos",
+    "assunto": "esp-praticas",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Res. CFP nº 09/2024 – https://abmes.org.br/arquivos/legislacoes/Resolucao-cfp-009-2024-07-18.pdf"
+    },
+    "enunciado": "Uma psicóloga deseja aplicar on-line um teste psicológico desenvolvido para aplicação presencial com lápis e papel. Segundo a Resolução CFP nº 09/2024, o uso de testes no exercício mediado por TDICs exige",
+    "alternativas": [
+      "apenas que a psicóloga acompanhe a aplicação por vídeo.",
+      "parecer favorável do SATEPSI, com padronização e normatização específicas para essa finalidade.",
+      "autorização do paciente por escrito, dispensado o parecer do SATEPSI.",
+      "que o teste tenha sido traduzido para o meio digital pela própria psicóloga.",
+      "parecer favorável do SATEPSI para a versão presencial, que se estende automaticamente à versão on-line."
+    ],
+    "gabarito": 1,
+    "comentario": "O art. 2º, parágrafo único, da Res. CFP 09/2024 reconhece o uso de instrumentos psicológicos regulamentados nas TDICs. Os testes, porém, devem ter parecer favorável do SATEPSI, com padronização e normatização específicas para essa finalidade. A aprovação da versão presencial não se transfere automaticamente para a aplicação remota, e adaptações feitas pela própria profissional não suprem essa exigência.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-praticas-014",
+    "disciplina": "especificos",
+    "assunto": "esp-praticas",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Res. CFP nº 09/2024 – https://abmes.org.br/arquivos/legislacoes/Resolucao-cfp-009-2024-07-18.pdf"
+    },
+    "enunciado": "Segundo a Resolução CFP nº 09/2024, ao avaliar a viabilidade e os impactos do uso de ferramentas digitais, a psicóloga deve considerar, entre outros aspectos,",
+    "alternativas": [
+      "apenas a velocidade de conexão à internet do paciente.",
+      "exclusivamente a preferência do paciente, sendo vedado à psicóloga recusar a modalidade on-line.",
+      "a existência de cadastro do paciente em plataforma credenciada pelo CFP.",
+      "as características das pessoas atendidas quanto a deficiências, diferenças culturais e linguísticas e faixa etária, e os riscos à saúde associados ao uso de TDICs, como sedentarismo e comportamentos aditivos.",
+      "somente as competências técnicas da psicóloga, desconsiderando as do usuário."
+    ],
+    "gabarito": 3,
+    "comentario": "O art. 4º da Res. CFP 09/2024 manda considerar, entre outros pontos, as condições de confidencialidade, as competências da profissional e dos usuários no manejo das TDICs, a compatibilidade da tecnologia com o serviço e as produções científicas sobre o tema. Também pede verificar deficiências, diferenças culturais e linguísticas e faixa etária dos atendidos (VIII) e os riscos à saúde, como sedentarismo, exposição à luz e comportamentos aditivos (XI). A avaliação é multidimensional e de responsabilidade da profissional.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-praticas-015",
+    "disciplina": "especificos",
+    "assunto": "esp-praticas",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Res. CFP nº 07/2023 – https://abmes.org.br/arquivos/legislacoes/Resolucao-cfp-007-2023-04-06.pdf"
+    },
+    "enunciado": "Uma psicóloga cria um perfil profissional com o nome \"Psicóloga Cristã Ana Souza – terapia à luz da Palavra\". À luz da Resolução CFP nº 07/2023, essa conduta",
+    "alternativas": [
+      "é vedada, pois a resolução proíbe utilizar o título de psicóloga associado a vertentes religiosas e usar crenças religiosas como forma de publicidade.",
+      "é permitida, pois expressa a liberdade religiosa da profissional.",
+      "é permitida, desde que ela atenda também pacientes de outras religiões.",
+      "é vedada apenas se ela utilizar técnicas religiosas nas sessões.",
+      "é permitida em perfis pessoais, ainda que usados para divulgar serviços."
+    ],
+    "gabarito": 0,
+    "comentario": "O art. 3º da Res. CFP 07/2023 veda utilizar o título de psicóloga ou psicólogo associado a vertentes religiosas (inciso V) e utilizar crenças religiosas como forma de publicidade e propaganda (inciso IX). A profissional mantém sua liberdade religiosa pessoal, mas não pode vincular o exercício da Psicologia a uma religião. O relator da ADI 7.426 no STF votou pela constitucionalidade desses dispositivos.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-praticas-016",
+    "disciplina": "especificos",
+    "assunto": "esp-praticas",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Res. CFP nº 07/2023 – https://abmes.org.br/arquivos/legislacoes/Resolucao-cfp-007-2023-04-06.pdf"
+    },
+    "enunciado": "Um paciente relata que sua fé é central em sua vida e que deseja falar, na psicoterapia, sobre suas dúvidas religiosas. Considerando a Resolução CFP nº 07/2023, a psicóloga deve",
+    "alternativas": [
+      "acolher o tema, considerando a religiosidade e a espiritualidade como elementos formativos da subjetividade, sem induzir crenças nem associar técnicas psicológicas a preceitos religiosos.",
+      "recusar a abordagem do tema, pois a laicidade impede falar de religião em sessão.",
+      "encaminhar o paciente a um líder religioso, já que o tema não é psicológico.",
+      "orientar o paciente segundo a religião da psicóloga, para ajudá-lo a resolver as dúvidas.",
+      "incorporar orações à sessão, por ser a forma mais adequada de acolher a fé do paciente."
+    ],
+    "gabarito": 0,
+    "comentario": "O art. 2º da Res. CFP 07/2023 manda considerar a religiosidade e a espiritualidade como elemento formativo das subjetividades e das coletividades, além das experiências a-religiosas, agnósticas e ateístas. Laicidade não é evitar o tema: é não induzir crenças (art. 3º, II) nem associar conceitos, métodos e técnicas da Psicologia a crenças religiosas (art. 3º, VI). A fé do paciente pode e deve ser objeto de escuta respeitosa.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-praticas-017",
+    "disciplina": "especificos",
+    "assunto": "esp-praticas",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Res. CFP nº 07/2023 – https://abmes.org.br/arquivos/legislacoes/Resolucao-cfp-007-2023-04-06.pdf"
+    },
+    "enunciado": "Um psicólogo passa a conduzir orações e \"imposição de mãos\" durante as sessões, apresentando-as como técnicas terapêuticas para tratar ansiedade. Segundo a Resolução CFP nº 07/2023, essa prática",
+    "alternativas": [
+      "é permitida se o paciente compartilhar da mesma religião.",
+      "é permitida desde que o psicólogo não cobre a parte religiosa da sessão.",
+      "é vedada, por associar conceitos, métodos e técnicas da ciência psicológica a crenças religiosas.",
+      "é permitida, pois a resolução só proíbe práticas de religiões não cristãs.",
+      "é vedada apenas em serviços públicos de saúde."
+    ],
+    "gabarito": 2,
+    "comentario": "O art. 3º, VI, da Res. CFP 07/2023 veda associar conceitos, métodos e técnicas da Psicologia a crenças religiosas. O art. 2º exige técnicas reconhecidamente fundamentadas na ciência psicológica, e a Res. 13/2022 (art. 17, parágrafo único) põe a cientificidade e a laicidade como princípios da psicoterapia. A vedação vale em qualquer contexto, mesmo com concordância religiosa do paciente.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-praticas-018",
+    "disciplina": "especificos",
+    "assunto": "esp-praticas",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Nota Técnica CFP nº 01/2023 (constelação familiar) – https://site.cfp.org.br/documentos/nota-tecnica-1-2023-visa-a-orientar-psicologas-e-psicologos-sobre-a-pratica-da-constelacao-familiar-tambem-denominada-constelacoes-familiares-sistemicas/"
+    },
+    "enunciado": "Na Nota Técnica CFP nº 01/2023, o Sistema Conselhos de Psicologia posicionou-se sobre a constelação familiar. Segundo esse documento,",
+    "alternativas": [
+      "a constelação familiar é técnica psicológica reconhecida, de uso privativo de psicólogos.",
+      "a prática é recomendada nas varas de família como método de resolução de conflitos.",
+      "a prática não se configura como método ou técnica psicológica e apresenta incompatibilidades éticas com o exercício da Psicologia, como riscos de desorganização psíquica, reforço de violências de gênero e exposição pública de sessões.",
+      "a prática é permitida a psicólogos desde que realizada fora do consultório.",
+      "a constelação familiar foi incorporada ao SATEPSI como instrumento de avaliação familiar."
+    ],
+    "gabarito": 2,
+    "comentario": "A Nota Técnica CFP 01/2023 concluiu que a constelação familiar não se configura como método ou técnica psicológica e apontou incompatibilidades éticas com a profissão. Entre elas estão sessões que podem provocar sofrimento e desorganização psíquica sem manejo adequado, a defesa de hierarquias que naturalizam violências contra mulheres e meninas e a transmissão aberta de sessões, incompatível com o sigilo. O CFP também levou o tema ao Ministério da Saúde e ao CNJ.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-praticas-019",
+    "disciplina": "especificos",
+    "assunto": "esp-praticas",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Res. CFP nº 01/1999, 01/2018 e 08/2022 – https://site.cfp.org.br/wp-content/uploads/1999/03/resolucao1999_1.pdf ; https://abmes.org.br/public/arquivos/legislacoes/Resolucao-CFP-008-2022-05-17.pdf"
+    },
+    "enunciado": "Uma psicóloga é procurada por um jovem que deseja \"deixar de ser bissexual\" a pedido da família religiosa. Considerando as normas do CFP sobre orientação sexual, a psicóloga",
+    "alternativas": [
+      "pode conduzir a reorientação, pois o pedido partiu do próprio jovem.",
+      "não pode conduzir processo de conversão ou reorientação, mas pode acolher o sofrimento do jovem e trabalhar os conflitos familiares e o preconceito vivido.",
+      "deve recusar qualquer atendimento ao jovem, para não se envolver em conflito religioso.",
+      "pode conduzir a reorientação desde que use técnicas cientificamente validadas.",
+      "deve encaminhar o jovem a grupo religioso de apoio à mudança de orientação."
+    ],
+    "gabarito": 1,
+    "comentario": "A Res. CFP 08/2022 (art. 6º) veda conduzir processos de conversão, reversão, readequação ou reorientação de pessoas bissexuais e não monossexuais em psicoterapia ou outros serviços psicológicos. A Res. 01/1999 veda a patologização das homossexualidades e a colaboração com serviços de \"cura\", e a Res. 01/2018 faz o mesmo quanto à identidade de gênero. O acolhimento do sofrimento e do contexto de preconceito, porém, é atribuição legítima e necessária.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-praticas-020",
+    "disciplina": "especificos",
+    "assunto": "esp-praticas",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Código de Ética Profissional do Psicólogo – https://site.cfp.org.br/wp-content/uploads/2012/07/codigo-de-etica-psicologia.pdf"
+    },
+    "enunciado": "Um psicólogo divulga em suas redes que oferece, como serviço psicológico, \"leitura de aura para tratamento de traumas\". Considerando o Código de Ética Profissional do Psicólogo, a conduta é irregular porque o psicólogo, ao promover publicamente seus serviços,",
+    "alternativas": [
+      "não pode utilizar redes sociais para divulgação profissional.",
+      "deve obter autorização prévia do CRP para cada publicação.",
+      "deve divulgar somente qualificações, atividades e recursos relativos a técnicas e práticas reconhecidas ou regulamentadas pela profissão.",
+      "só pode divulgar técnicas aprendidas em curso de pós-graduação.",
+      "deve informar o preço do serviço em todas as publicações."
+    ],
+    "gabarito": 2,
+    "comentario": "O art. 20, c, do Código de Ética determina que o psicólogo divulgue somente qualificações, atividades e recursos relativos a técnicas e práticas reconhecidas ou regulamentadas pela profissão. O art. 1º, c, exige prestar serviços com princípios, conhecimentos e técnicas reconhecidamente fundamentados na ciência psicológica. As redes sociais podem ser usadas, sem autorização prévia, e o preço não pode ser usado como forma de propaganda (art. 20, d).",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-praticas-021",
+    "disciplina": "especificos",
+    "assunto": "esp-praticas",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "JAPIASSU, H. Interdisciplinaridade e patologia do saber. Rio de Janeiro: Imago, 1976"
+    },
+    "enunciado": "Em uma equipe de saúde, profissionais de diferentes áreas atendem o mesmo usuário, mas cada um realiza sua intervenção de forma independente, sem troca entre saberes nem construção comum do plano de cuidado. Segundo a distinção clássica de Japiassu, essa forma de trabalho é",
+    "alternativas": [
+      "multidisciplinar, pois há justaposição de disciplinas sem integração ou interação recíproca.",
+      "interdisciplinar, pois várias disciplinas atuam sobre o mesmo objeto.",
+      "transdisciplinar, pois os saberes se fundem em um sistema comum.",
+      "interdisciplinar, pois há divisão clara de atribuições.",
+      "transdisciplinar, pois o usuário é atendido por diversos profissionais."
+    ],
+    "gabarito": 0,
+    "comentario": "A multidisciplinaridade é a justaposição de disciplinas sobre um tema, sem integração. A interdisciplinaridade supõe troca, intercâmbio e integração real entre os saberes, com construção conjunta, como no projeto terapêutico singular. A transdisciplinaridade vai além, rumo a um sistema que ultrapassa as fronteiras disciplinares. O caso descreve apenas atendimentos paralelos.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-praticas-022",
+    "disciplina": "especificos",
+    "assunto": "esp-praticas",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Código de Ética Profissional do Psicólogo – https://site.cfp.org.br/wp-content/uploads/2012/07/codigo-de-etica-psicologia.pdf"
+    },
+    "enunciado": "No trabalho com profissionais não psicólogos, o Código de Ética Profissional do Psicólogo determina que o psicólogo",
+    "alternativas": [
+      "compartilhe somente informações relevantes para qualificar o serviço prestado, resguardando o caráter confidencial e assinalando a responsabilidade de quem as recebe de preservar o sigilo.",
+      "não compartilhe nenhuma informação, pois o sigilo é absoluto perante outras profissões.",
+      "compartilhe todas as informações disponíveis, já que todos os profissionais estão sujeitos a sigilo.",
+      "compartilhe informações apenas com médicos, por serem responsáveis pelo diagnóstico.",
+      "subordine suas decisões técnicas ao profissional que coordena a equipe."
+    ],
+    "gabarito": 0,
+    "comentario": "O art. 6º, b, do Código de Ética determina que o psicólogo compartilhe com não psicólogos somente informações relevantes para qualificar o serviço, resguardando o caráter confidencial e assinalando a responsabilidade de quem as recebe de preservar o sigilo. O art. 6º, a, manda encaminhar demandas que extrapolem seu campo. A interdisciplinaridade exige troca, mas com limites éticos e sem subordinação técnica.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-praticas-023",
+    "disciplina": "especificos",
+    "assunto": "esp-praticas",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Código de Ética Profissional do Psicólogo – https://site.cfp.org.br/wp-content/uploads/2012/07/codigo-de-etica-psicologia.pdf"
+    },
+    "enunciado": "Uma psicóloga publica nas redes: \"Promoção! Pacote de 4 sessões por R$ 200 – supere sua ansiedade em um mês, garantido!\". Considerando o Código de Ética Profissional do Psicólogo, a publicação viola, entre outras, as vedações de",
+    "alternativas": [
+      "divulgar serviços em meio digital e oferecer atendimento por pacote.",
+      "informar o CRP na publicação e atender casos de ansiedade.",
+      "divulgar serviços sem autorização do Conselho e citar transtornos mentais.",
+      "atender por tempo determinado e realizar psicoterapia breve.",
+      "usar o preço do serviço como forma de propaganda e fazer previsão taxativa de resultados."
+    ],
+    "gabarito": 4,
+    "comentario": "O art. 20 do Código de Ética proíbe, na promoção pública de serviços, utilizar o preço como forma de propaganda (alínea d) e fazer previsão taxativa de resultados (alínea e). Também veda a divulgação sensacionalista (alínea h). A Res. CFP 13/2022 manda informar no contrato a impossibilidade de previsões taxativas de resultados. Divulgar em meio digital e propor intervenções breves não é vedado em si.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-praticas-024",
+    "disciplina": "especificos",
+    "assunto": "esp-praticas",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Nota Técnica CFP nº 01/2022 (redes sociais e publicidade) – https://site.cfp.org.br/documentos/nota-tecnica-sobre-uso-profissional-das-redes-sociais-publicidade-e-cuidados-eticos/ | Código de Ética Profissional do Psicólogo – https://site.cfp.org.br/wp-content/uploads/2012/07/codigo-de-etica-psicologia.pdf"
+    },
+    "enunciado": "Para engajar seguidores, um psicólogo publica vídeos narrando \"casos reais\" de pacientes, trocando nomes, mas mantendo profissão, bairro e detalhes marcantes das histórias. Considerando o Código de Ética e a Nota Técnica CFP nº 01/2022, a conduta",
+    "alternativas": [
+      "é adequada, pois a troca de nomes é suficiente para preservar o sigilo.",
+      "é adequada, desde que os vídeos tenham finalidade educativa.",
+      "é inadequada apenas se o psicólogo cobrar pelo conteúdo.",
+      "é inadequada, pois expõe informações obtidas no exercício profissional que permitem identificar pessoas, violando o sigilo, e banaliza a profissão ao explorar o sofrimento alheio para engajamento.",
+      "é adequada, pois o sigilo não se aplica a conteúdos publicados na internet."
+    ],
+    "gabarito": 3,
+    "comentario": "O art. 9º do Código de Ética impõe o sigilo para proteger, pela confidencialidade, a intimidade das pessoas atendidas. Trocar o nome não basta quando outros dados permitem identificar a pessoa. A Nota Técnica CFP 01/2022 trata como banalização da profissão expor casos reais e dramatizar a dor alheia para engajamento, além de vedar depoimentos de pessoas atendidas. A finalidade educativa não autoriza a exposição.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-praticas-025",
+    "disciplina": "especificos",
+    "assunto": "esp-praticas",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Res. CFP nº 09/2024 – https://abmes.org.br/arquivos/legislacoes/Resolucao-cfp-009-2024-07-18.pdf | Código de Ética Profissional do Psicólogo – https://site.cfp.org.br/wp-content/uploads/2012/07/codigo-de-etica-psicologia.pdf"
+    },
+    "enunciado": "Para agilizar a escrita, uma psicóloga cola em um chatbot de inteligência artificial de uso público as anotações completas das sessões de um paciente, com nome e dados pessoais, pedindo que a ferramenta redija um relatório. À luz do Código de Ética e da Resolução CFP nº 09/2024, essa conduta",
+    "alternativas": [
+      "é adequada, pois ferramentas digitais são neutras e não armazenam informações.",
+      "é adequada, desde que o relatório final seja revisado pela psicóloga.",
+      "é inadequada apenas se o paciente descobrir o uso da ferramenta.",
+      "é adequada, pois a responsabilidade pelo conteúdo passa a ser da empresa da ferramenta.",
+      "é inadequada, pois expõe dados sensíveis a terceiros sem garantias de confidencialidade, e a psicóloga responde ética e tecnicamente pelo registro, pela guarda e pelo conteúdo dos documentos que assina."
+    ],
+    "gabarito": 4,
+    "comentario": "A Res. CFP 09/2024 inclui no exercício mediado por TDICs o registro e a guarda de informações, com responsabilidade ética pelo manuseio de dados sensíveis e suas implicações para o sigilo (art. 3º, II e IV). Exige também avaliar as condições de confidencialidade das ferramentas usadas (art. 4º, I). Inserir dados identificáveis em serviço de terceiros sem garantias viola o dever de sigilo (Código de Ética, art. 9º). Pela Res. 06/2019, a psicóloga responde pelo conteúdo dos documentos que assina, e a revisão posterior não sana a exposição já ocorrida.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-praticas-026",
+    "disciplina": "especificos",
+    "assunto": "esp-praticas",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Res. CFP nº 13/2022 – https://abmes.org.br/public/arquivos/legislacoes/Resolucao-CFP-013-2022-06-15.pdf | Res. CFP nº 09/2024 – https://abmes.org.br/arquivos/legislacoes/Resolucao-cfp-009-2024-07-18.pdf"
+    },
+    "enunciado": "Uma empresa de tecnologia propõe a um psicólogo assinar como responsável por um aplicativo que oferece \"psicoterapia\" integralmente conduzida por inteligência artificial, sem qualquer acompanhamento profissional. Considerando a Resolução CFP nº 13/2022 e a Resolução CFP nº 09/2024, é correto afirmar que",
+    "alternativas": [
+      "o psicólogo pode assinar, pois a resolução sobre TDICs autoriza qualquer serviço automatizado.",
+      "a psicoterapia é definida como intervenção que se desenvolve em relacionamento interpessoal conduzido por psicóloga(o), e cabe à(ao) profissional avaliar a viabilidade e adequação das TDICs com base no Código de Ética e nas evidências científicas, respondendo pelos serviços que assume.",
+      "o psicólogo pode assinar desde que o aplicativo seja gratuito.",
+      "não há qualquer implicação ética, pois o serviço é prestado por uma máquina e não pelo profissional.",
+      "o psicólogo pode assinar, pois a responsabilidade técnica é exclusiva da empresa desenvolvedora."
+    ],
+    "gabarito": 1,
+    "comentario": "A Res. CFP 13/2022 define a psicoterapia como intervenção que se desenvolve em relacionamento interpessoal, com deveres atribuídos à psicóloga e ao psicólogo psicoterapeutas. A Res. CFP 09/2024 (art. 3º, §1º) atribui à profissional a avaliação da viabilidade e adequação das TDICs, à luz do Código de Ética e das evidências científicas. Emprestar o nome a um serviço automatizado não acompanhado não transfere a responsabilidade à empresa. O Código de Ética (art. 1º, b) também impõe assumir apenas responsabilidades para as quais se esteja capacitado.",
+    "dificuldade": 3,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-praticas-027",
+    "disciplina": "especificos",
+    "assunto": "esp-praticas",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Res. CFP nº 13/2022 – https://abmes.org.br/public/arquivos/legislacoes/Resolucao-CFP-013-2022-06-15.pdf"
+    },
+    "enunciado": "Segundo a Resolução CFP nº 13/2022, ao divulgar serviços de psicoterapia, a psicóloga deve",
+    "alternativas": [
+      "informar apenas o nome social e a abordagem teórica.",
+      "informar o valor da sessão e a duração média do tratamento.",
+      "informar o título de especialista em psicologia clínica, requisito para divulgar psicoterapia.",
+      "informar o nome completo, o CRP e o número de registro profissional, observando o Código de Ética e as regras de sigilo.",
+      "obter aprovação prévia do texto da divulgação pelo Conselho Regional."
+    ],
+    "gabarito": 3,
+    "comentario": "O art. 5º da Res. CFP 13/2022 determina que a divulgação de psicoterapia observe o Código de Ética e as regras de sigilo. O parágrafo único exige informar nome completo, CRP e número de registro profissional, o que repete o art. 20, a, do Código. Não se exige título de especialista nem aprovação prévia pelo CRP, e o preço não deve ser usado como propaganda.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-praticas-028",
+    "disciplina": "especificos",
+    "assunto": "esp-praticas",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Res. CFP nº 13/2022 – https://abmes.org.br/public/arquivos/legislacoes/Resolucao-CFP-013-2022-06-15.pdf"
+    },
+    "enunciado": "Considere as afirmativas sobre a Resolução CFP nº 13/2022.\nI. É facultada a oferta de psicoterapia por meio de Tecnologias da Informação e da Comunicação, observadas as normativas vigentes.\nII. A psicóloga e o psicólogo psicoterapeutas devem basear-se nos princípios da cientificidade e da laicidade da Psicologia.\nIII. É vedado à psicóloga psicoterapeuta atuar como perita de pessoa por ela atendida anteriormente, mas é permitido atuar como assistente técnica dessa pessoa.\nEstá correto o que se afirma em",
+    "alternativas": [
+      "I, apenas.",
+      "II, apenas.",
+      "I e II, apenas.",
+      "II e III, apenas.",
+      "I, II e III."
+    ],
+    "gabarito": 2,
+    "comentario": "A I reproduz o art. 16 e a II reproduz o art. 17, parágrafo único, da Res. CFP 13/2022. A III está errada: o art. 6º veda atuar como perito ou assistente técnico de pessoa atendida, atual ou anteriormente, e também de familiar ou terceiro vinculado ao atendido.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-praticas-029",
+    "disciplina": "especificos",
+    "assunto": "esp-praticas",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Res. CFP nº 13/2022 – https://abmes.org.br/public/arquivos/legislacoes/Resolucao-CFP-013-2022-06-15.pdf"
+    },
+    "enunciado": "A Resolução CFP nº 13/2022 elenca princípios para a prestação de serviços de psicoterapia. Entre eles está o compromisso ético de",
+    "alternativas": [
+      "atender exclusivamente pessoas sem qualquer vínculo social com a psicóloga, inclusive em cidades pequenas, sob pena de cassação.",
+      "manter neutralidade absoluta, abstendo-se de considerar aspectos sociais e culturais do sofrimento.",
+      "não estabelecer, com a pessoa atendida, família, casais, demais grupos e conhecidos, vínculo que possa interferir negativamente e causar prejuízo aos objetivos do serviço prestado.",
+      "priorizar a abordagem teórica da psicóloga sobre as necessidades da pessoa atendida.",
+      "evitar encaminhamentos multiprofissionais, para preservar o vínculo terapêutico."
+    ],
+    "gabarito": 2,
+    "comentario": "O art. 2º, III, da Res. CFP 13/2022 prevê o compromisso de não estabelecer vínculo que possa interferir negativamente e prejudicar os objetivos do serviço, o que remete às relações duais. A norma não proíbe genericamente qualquer conhecimento prévio, mas exige avaliar o prejuízo. Ela também valoriza a dimensão interdisciplinar, integral e interseccional (inciso V) e determina encaminhamentos, inclusive multiprofissionais, quando necessários (art. 3º, VI).",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-praticas-030",
+    "disciplina": "especificos",
+    "assunto": "esp-praticas",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Res. CFP nº 09/2024 – https://abmes.org.br/arquivos/legislacoes/Resolucao-cfp-009-2024-07-18.pdf | Nota Técnica CFP nº 01/2022 (redes sociais e publicidade) – https://site.cfp.org.br/documentos/nota-tecnica-sobre-uso-profissional-das-redes-sociais-publicidade-e-cuidados-eticos/"
+    },
+    "enunciado": "Uma psicóloga contrata agência de marketing para gerir seu perfil profissional, e a agência publica conteúdo sensacionalista prometendo \"cura definitiva\" da depressão. Questionada pelo CRP, a psicóloga alega que não escreveu o texto. À luz da Resolução CFP nº 09/2024 e do Código de Ética, a alegação",
+    "alternativas": [
+      "a exime, pois a responsabilidade pela publicidade é exclusiva da agência contratada.",
+      "a exime, desde que ela apague a publicação após a notificação do CRP.",
+      "não a exime apenas se ela tiver aprovado previamente o texto por escrito.",
+      "não a exime, pois é responsabilidade da profissional as manifestações públicas relativas aos serviços prestados, incluindo divulgação, propaganda e veiculação de conteúdos por meio das TDICs.",
+      "a exime, pois o Código de Ética não se aplica a conteúdos publicados em redes sociais."
+    ],
+    "gabarito": 3,
+    "comentario": "O art. 3º, §2º, da Res. CFP 09/2024 atribui à profissional a responsabilidade pelas manifestações públicas sobre os serviços prestados, incluindo divulgação, propaganda, produção e veiculação de conteúdos por TDICs. A Nota Técnica CFP 01/2022 reforça que a psicóloga continua eticamente responsável mesmo quando a divulgação é feita por terceiros. O conteúdo viola ainda o art. 20, e e h, do Código de Ética (previsão taxativa de resultados e divulgação sensacionalista).",
+    "dificuldade": 2,
+    "anulada": false
+  }
+]

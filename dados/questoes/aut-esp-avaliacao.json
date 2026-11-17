@@ -1,0 +1,662 @@
+[
+  {
+    "id": "aut-esp-avaliacao-001",
+    "disciplina": "especificos",
+    "assunto": "esp-avaliacao",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://ses.sp.bvs.br/wp-content/uploads/2022/12/U_RS-CFP-31_151222.pdf (Res. CFP 31/2022)"
+    },
+    "enunciado": "Uma psicóloga de um CAPSi realiza avaliação psicológica de uma criança. Utiliza entrevista com os pais, observação lúdica, um teste com parecer favorável no SATEPSI e o relatório da equipe multiprofissional do serviço. Segundo a Resolução CFP nº 31/2022, é fonte complementar de informação, entre os recursos citados,",
+    "alternativas": [
+      "o relatório da equipe multiprofissional.",
+      "a entrevista com os pais.",
+      "a observação lúdica registrada em protocolo.",
+      "o teste psicológico com parecer favorável no SATEPSI.",
+      "a anamnese realizada com a família."
+    ],
+    "gabarito": 0,
+    "comentario": "O art. 3º da Res. CFP 31/2022 define como fontes fundamentais: testes psicológicos aprovados pelo CFP; entrevistas psicológicas e anamneses; e protocolos ou registros de observação de comportamentos. O art. 4º define como fontes complementares as técnicas e instrumentos não psicológicos com respaldo científico e os documentos técnicos, como protocolos ou relatórios de equipes multiprofissionais. Assim, o relatório da equipe é complementar, e as demais alternativas são fontes fundamentais.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-avaliacao-002",
+    "disciplina": "especificos",
+    "assunto": "esp-avaliacao",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://ses.sp.bvs.br/wp-content/uploads/2022/12/U_RS-CFP-31_151222.pdf (Res. CFP 31/2022)"
+    },
+    "enunciado": "Um psicólogo afirma, em supervisão, que “toda avaliação psicológica válida exige obrigatoriamente a aplicação de pelo menos um teste psicológico aprovado no SATEPSI”. À luz da Resolução CFP nº 31/2022, a afirmação está",
+    "alternativas": [
+      "correta, pois a resolução torna obrigatório o uso de testes em todas as avaliações psicológicas.",
+      "correta, desde que a avaliação se destine a contexto judicial ou de concurso público.",
+      "incorreta, pois a resolução proíbe o uso de testes em avaliações clínicas.",
+      "incorreta, pois a avaliação psicológica pode basear-se exclusivamente em fontes complementares.",
+      "incorreta, pois a decisão deve basear-se obrigatoriamente em fontes fundamentais, que incluem testes, entrevistas e anamneses e protocolos de observação, de forma alternativa ou combinada, cabendo ao psicólogo escolher os métodos com fundamentação científica."
+    ],
+    "gabarito": 4,
+    "comentario": "O art. 2º da Res. CFP 31/2022 exige que a decisão se baseie obrigatoriamente em métodos, técnicas e instrumentos reconhecidos cientificamente (fontes fundamentais), e o art. 3º os lista ligados pela expressão “e/ou”: testes aprovados, entrevistas e anamneses, protocolos de observação. O art. 5º confere ao psicólogo a prerrogativa de escolher os métodos, desde que fundamentados. Não há obrigatoriedade geral de testes nem proibição em contexto clínico, e as fontes complementares não podem substituir as fundamentais.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-avaliacao-003",
+    "disciplina": "especificos",
+    "assunto": "esp-avaliacao",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://ses.sp.bvs.br/wp-content/uploads/2022/12/U_RS-CFP-31_151222.pdf (Res. CFP 31/2022)"
+    },
+    "enunciado": "Uma psicóloga clínica utiliza, em avaliações de adultos, um teste de personalidade que consta da lista de testes com parecer desfavorável no SATEPSI, alegando que ele “funciona bem na prática”. Segundo a Resolução CFP nº 31/2022, essa conduta",
+    "alternativas": [
+      "é permitida, pois o psicólogo tem autonomia para escolher os instrumentos.",
+      "será considerada falta ética, ressalvados os usos em pesquisa amparada pela legislação e em situações de ensino com objetivo formativo e histórico.",
+      "é permitida desde que o laudo informe que o teste tem parecer desfavorável.",
+      "é falta ética apenas se o teste for utilizado em concurso público.",
+      "é permitida em consultório particular, sendo vedada apenas em serviços públicos."
+    ],
+    "gabarito": 1,
+    "comentario": "O art. 12 da Res. CFP 31/2022 considera falta ética a utilização de testes com parecer desfavorável ou que constem da lista de testes não avaliados no SATEPSI, conforme os arts. 1º, c, e 2º, f, do Código de Ética; o parágrafo único excepciona a pesquisa amparada pela legislação e as situações de ensino com objetivo formativo e histórico. A autonomia do art. 5º limita-se a métodos cientificamente fundamentados e conformes às normas do CFP. Não há exceção por aviso no laudo ou por contexto privado.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-avaliacao-004",
+    "disciplina": "especificos",
+    "assunto": "esp-avaliacao",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://ses.sp.bvs.br/wp-content/uploads/2022/12/U_RS-CFP-31_151222.pdf (Res. CFP 31/2022)"
+    },
+    "enunciado": "Segundo a Resolução CFP nº 31/2022, os estudos de validade, precisão e normas dos testes psicológicos aprovados após sua vigência terão prazo máximo de",
+    "alternativas": [
+      "15 anos, contados da data de aprovação do teste pelo Plenário do CFP, perdendo o teste a condição de uso se não for apresentada a revisão nesse prazo.",
+      "10 anos para todos os estudos, contados da publicação do manual.",
+      "20 anos para normas e 15 anos para validade, contados da primeira comercialização.",
+      "prazo indeterminado, desde que o teste continue sendo comercializado.",
+      "5 anos, renováveis automaticamente pela editora responsável."
+    ],
+    "gabarito": 0,
+    "comentario": "O art. 22 da Res. CFP 31/2022 fixa prazo máximo de 15 anos para os estudos de validade, precisão e normas, a contar da aprovação pelo Plenário do CFP; não apresentada a revisão, o teste perde a condição de uso e é excluído da relação de favoráveis (§ 3º). Para testes aprovados antes da resolução, mantém-se a vigência de 20 anos para validade e 15 anos para normas (§ 1º) — a alternativa que menciona 20 anos inverte essa regra e muda o marco inicial.",
+    "dificuldade": 3,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-avaliacao-005",
+    "disciplina": "especificos",
+    "assunto": "esp-avaliacao",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://ses.sp.bvs.br/wp-content/uploads/2022/12/U_RS-CFP-31_151222.pdf (Res. CFP 31/2022)"
+    },
+    "enunciado": "Um CRP recebe consulta sobre um questionário de rastreio de sintomas, vendido livremente, e há dúvida se ele é teste psicológico de uso privativo ou instrumento não privativo. Segundo a Resolução CFP nº 31/2022,",
+    "alternativas": [
+      "a classificação cabe exclusivamente à editora, que informa no manual se o uso é privativo.",
+      "todo questionário é automaticamente instrumento não privativo, dispensada qualquer análise.",
+      "o CRP está legitimado a submeter o instrumento à Comissão Consultiva em Avaliação Psicológica (CCAP), que o classificará como “instrumento não privativo” ou “teste psicológico”, este último incluído na lista de testes não avaliados até sua avaliação final.",
+      "o CRP decide definitivamente, por seu Plenário, sem participação do CFP.",
+      "apenas o autor do instrumento pode solicitar a classificação, mediante pagamento de taxa."
+    ],
+    "gabarito": 2,
+    "comentario": "O art. 13 da Res. CFP 31/2022 legitima os CRPs a submeter à CCAP, para apreciação, o instrumento cuja classificação seja duvidosa; a CCAP o classificará como “instrumento não privativo” (incluído na lista de não privativos) ou “teste psicológico” (incluído na lista de testes não avaliados até ser submetido à avaliação final pelo responsável técnico). O art. 14 permite que a(o) psicóloga(o) requeira ao CRP essa submissão. Não cabe à editora nem ao CRP isoladamente a classificação final.",
+    "dificuldade": 3,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-avaliacao-006",
+    "disciplina": "especificos",
+    "assunto": "esp-avaliacao",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://ses.sp.bvs.br/wp-content/uploads/2022/12/U_RS-CFP-31_151222.pdf (Res. CFP 31/2022)"
+    },
+    "enunciado": "Um teste de atenção aprovado no SATEPSI apenas na versão lápis e papel passa a ser aplicado por uma clínica em versão informatizada, criada por ela mesma, sem nenhum estudo adicional. Segundo a Resolução CFP nº 31/2022,",
+    "alternativas": [
+      "a versão com formato de aplicação diferente do aprovado constitui versão equivalente que deve ser submetida à apreciação da CCAP, com estudos de equivalência, antes do uso profissional.",
+      "a mudança de formato é livre, desde que as normas da versão impressa sejam utilizadas.",
+      "somente mudanças no formato de correção exigem nova avaliação pelo SATEPSI.",
+      "a versão informatizada pode ser usada por até 15 anos antes de qualquer submissão.",
+      "basta comunicar a mudança ao CRP da jurisdição da clínica."
+    ],
+    "gabarito": 0,
+    "comentario": "O art. 24 da Res. CFP 31/2022 define como versão equivalente aquela com formato de aplicação diferente do aprovado, que deve ser submetida à CCAP com estudo de equivalência (art. 25), cabendo ao responsável técnico a submissão. Já o formato diferente de correção não exige nova avaliação, desde que seguidos rigorosamente os procedimentos do manual (§ 2º) — o oposto do que afirma um distrator. A aplicação sem estudos compromete a padronização e as normas.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-avaliacao-007",
+    "disciplina": "especificos",
+    "assunto": "esp-avaliacao",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://ses.sp.bvs.br/wp-content/uploads/2022/12/U_RS-CFP-31_151222.pdf (Res. CFP 31/2022)"
+    },
+    "enunciado": "Segundo a Resolução CFP nº 31/2022, o uso profissional dos testes psicológicos é privativo da(o) psicóloga(o), conforme a Lei nº 4.119/1962, e os testes psicológicos abarcam",
+    "alternativas": [
+      "apenas testes de inteligência e de personalidade publicados por editoras credenciadas.",
+      "somente instrumentos com aplicação individual, excluídos os coletivos.",
+      "apenas métodos projetivos, sendo escalas e inventários de uso livre.",
+      "testes, escalas, inventários, questionários e métodos projetivos e expressivos.",
+      "quaisquer instrumentos utilizados por profissionais de saúde, inclusive os de outras áreas."
+    ],
+    "gabarito": 3,
+    "comentario": "Os arts. 8º e 10 da Res. CFP 31/2022 estabelecem que o uso profissional dos testes é privativo do psicólogo (art. 13 da Lei 4.119/1962) e que os testes abarcam testes, escalas, inventários, questionários e métodos projetivos e expressivos. A definição não se restringe a inteligência e personalidade, nem à aplicação individual. Instrumentos de outras áreas não são testes psicológicos; dúvidas de classificação seguem o art. 13.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-avaliacao-008",
+    "disciplina": "especificos",
+    "assunto": "esp-avaliacao",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://ses.sp.bvs.br/wp-content/uploads/2022/12/U_RS-CFP-31_151222.pdf (Res. CFP 31/2022); Pasquali, Psicometria: teoria dos testes na psicologia e na educação; Urbina, Fundamentos da testagem psicológica; Hutz, Bandeira & Trentini (orgs.), Psicometria"
+    },
+    "enunciado": "Para “agilizar” uma avaliação, uma psicóloga reduz pela metade o tempo-limite de um teste de raciocínio e corrige os resultados com as tabelas normativas do manual. Segundo a Resolução CFP nº 31/2022 e os fundamentos psicométricos, a conduta",
+    "alternativas": [
+      "é adequada, desde que a redução seja aplicada igualmente a todos os avaliados.",
+      "é inadequada, pois a aplicação, correção e interpretação devem seguir rigorosamente a padronização e a normatização do manual técnico aprovado, sem o que a comparação com as normas perde sentido.",
+      "é adequada, pois a padronização refere-se apenas à correção, e não à aplicação.",
+      "é inadequada apenas se o teste for de personalidade, sendo livre nos de raciocínio.",
+      "é adequada, desde que a psicóloga multiplique os escores por dois."
+    ],
+    "gabarito": 1,
+    "comentario": "O art. 11 da Res. CFP 31/2022 exige que aplicação, correção e interpretação sigam rigorosamente as orientações, a padronização e a normatização do manual técnico aprovado. Padronização é a uniformidade das condições de aplicação e correção que permite comparar o escore do avaliado ao do grupo normativo, testado nas mesmas condições; alterar o tempo invalida a comparação. Ajustes aritméticos improvisados não restauram a validade do uso, e a exigência vale para qualquer tipo de teste.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-avaliacao-009",
+    "disciplina": "especificos",
+    "assunto": "esp-avaliacao",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Pasquali, Psicometria: teoria dos testes na psicologia e na educação; Urbina, Fundamentos da testagem psicológica; Hutz, Bandeira & Trentini (orgs.), Psicometria"
+    },
+    "enunciado": "Uma empresa aplica, na seleção de vendedores, um teste cujos escores se correlacionaram positivamente com o volume de vendas desses profissionais medido um ano depois da contratação. Esse dado constitui, sobretudo, evidência de validade",
+    "alternativas": [
+      "de conteúdo, por representar adequadamente o domínio de vendas.",
+      "baseada na estrutura interna, por indicar a dimensionalidade do teste.",
+      "baseada na relação com outras variáveis, do tipo critério preditivo.",
+      "de face, por parecer adequado aos candidatos.",
+      "concorrente, pois teste e critério foram medidos no mesmo momento."
+    ],
+    "gabarito": 2,
+    "comentario": "Evidência de validade de critério preditiva é obtida quando os escores do teste se relacionam com um critério medido posteriormente — aqui, as vendas um ano depois. Na terminologia dos Standards (AERA/APA/NCME), integra as evidências baseadas na relação com outras variáveis. A validade concorrente envolve critério medido simultaneamente. Conteúdo refere-se à representatividade dos itens em relação ao domínio; estrutura interna, à dimensionalidade (ex.: análise fatorial); validade de face é aparência, não evidência técnica.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-avaliacao-010",
+    "disciplina": "especificos",
+    "assunto": "esp-avaliacao",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Pasquali, Psicometria: teoria dos testes na psicologia e na educação; Urbina, Fundamentos da testagem psicológica; Hutz, Bandeira & Trentini (orgs.), Psicometria"
+    },
+    "enunciado": "Na construção de uma escala de ansiedade, os pesquisadores encontram correlação alta com outra escala consagrada de ansiedade e correlação próxima de zero com uma medida de vocabulário. Esses resultados constituem evidências de validade",
+    "alternativas": [
+      "convergente e discriminante, respectivamente.",
+      "discriminante e convergente, respectivamente.",
+      "de conteúdo e de face, respectivamente.",
+      "de precisão teste-reteste e de consistência interna, respectivamente.",
+      "preditiva e incremental, respectivamente."
+    ],
+    "gabarito": 0,
+    "comentario": "Evidência convergente é a correlação elevada com medidas do mesmo construto ou de construtos teoricamente relacionados; evidência discriminante é a correlação baixa com medidas de construtos distintos (aqui, vocabulário). Ambas compõem as evidências baseadas na relação com outras variáveis (matriz multitraço-multimétodo de Campbell e Fiske). A ordem inversa está errada. Teste-reteste e consistência interna são estimativas de precisão, não de validade.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-avaliacao-011",
+    "disciplina": "especificos",
+    "assunto": "esp-avaliacao",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Pasquali, Psicometria: teoria dos testes na psicologia e na educação; Urbina, Fundamentos da testagem psicológica; Hutz, Bandeira & Trentini (orgs.), Psicometria"
+    },
+    "enunciado": "Ao aplicar uma análise fatorial aos itens de um inventário, pesquisadores verificam que eles se agrupam em três fatores, conforme previsto pela teoria que fundamenta o instrumento. Esse procedimento fornece, principalmente, evidência de validade",
+    "alternativas": [
+      "baseada no conteúdo.",
+      "de critério concorrente.",
+      "baseada nas consequências da testagem.",
+      "baseada na estrutura interna.",
+      "de precisão por formas paralelas."
+    ],
+    "gabarito": 3,
+    "comentario": "A análise fatorial investiga como os itens se relacionam entre si e se agrupam em dimensões, verificando se a estrutura empírica corresponde à teoria — evidência baseada na estrutura interna (tradicionalmente associada à validade de construto). Validade de conteúdo é tipicamente avaliada por juízes quanto à representatividade dos itens. Critério concorrente exige uma medida externa simultânea. Consequências dizem respeito aos efeitos do uso do teste, e formas paralelas são método de estimar precisão.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-avaliacao-012",
+    "disciplina": "especificos",
+    "assunto": "esp-avaliacao",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Pasquali, Psicometria: teoria dos testes na psicologia e na educação; Urbina, Fundamentos da testagem psicológica; Hutz, Bandeira & Trentini (orgs.), Psicometria"
+    },
+    "enunciado": "Um pesquisador aplica um teste de humor momentâneo e o reaplica, nas mesmas pessoas, três meses depois, encontrando correlação baixa entre as duas aplicações. A conclusão mais adequada é que",
+    "alternativas": [
+      "o teste é necessariamente inválido, pois toda medida psicológica deve ser estável no tempo.",
+      "a correlação baixa demonstra alta consistência interna dos itens.",
+      "o resultado indica validade discriminante entre as duas aplicações.",
+      "o método teste-reteste avalia estabilidade temporal e pode ser pouco apropriado para construtos que, por natureza, variam no tempo, como estados de humor.",
+      "o intervalo de três meses é sempre curto demais para estimar precisão."
+    ],
+    "gabarito": 3,
+    "comentario": "A precisão teste-reteste estima a estabilidade dos escores ao longo do tempo; é adequada para traços relativamente estáveis, mas pode subestimar a precisão de medidas de estados que mudam legitimamente, como o humor. Precisão baixa nesse método não implica, por si, invalidade do instrumento. Consistência interna (ex.: alfa) é outro método, aplicado em uma única administração. Correlação entre aplicações do mesmo teste não é evidência discriminante.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-avaliacao-013",
+    "disciplina": "especificos",
+    "assunto": "esp-avaliacao",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Pasquali, Psicometria: teoria dos testes na psicologia e na educação; Urbina, Fundamentos da testagem psicológica; Hutz, Bandeira & Trentini (orgs.), Psicometria"
+    },
+    "enunciado": "Sobre o coeficiente alfa de Cronbach, amplamente relatado em manuais de testes, é correto afirmar que ele",
+    "alternativas": [
+      "demonstra que o teste mede o construto que se propõe a medir.",
+      "exige duas aplicações do teste em momentos distintos.",
+      "estima a concordância entre dois avaliadores independentes.",
+      "é tanto maior quanto menor for o número de itens, mantidas as demais condições.",
+      "estima a precisão por consistência interna, indicando o grau de covariação entre os itens em uma única aplicação, mas não constitui, por si só, evidência de validade."
+    ],
+    "gabarito": 4,
+    "comentario": "O alfa de Cronbach é uma estimativa de precisão do tipo consistência interna, calculada a partir de uma única aplicação, com base na covariação entre os itens; valores altos indicam homogeneidade, não que o teste mede o construto pretendido, o que exige evidências de validade. A estimativa com duas aplicações é o teste-reteste, e a concordância entre avaliadores é estimada por coeficientes como o kappa. Mantidas as demais condições, mais itens tendem a elevar, e não reduzir, o alfa.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-avaliacao-014",
+    "disciplina": "especificos",
+    "assunto": "esp-avaliacao",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Pasquali, Psicometria: teoria dos testes na psicologia e na educação; Urbina, Fundamentos da testagem psicológica; Hutz, Bandeira & Trentini (orgs.), Psicometria"
+    },
+    "enunciado": "Em um método projetivo cuja codificação depende do julgamento do examinador, a estimativa de precisão mais diretamente relevante para garantir que diferentes psicólogos classifiquem as respostas da mesma forma é a",
+    "alternativas": [
+      "precisão por formas paralelas.",
+      "precisão teste-reteste com intervalo de um ano.",
+      "precisão por consistência interna via alfa de Cronbach.",
+      "validade de face.",
+      "precisão entre avaliadores (concordância interjuízes)."
+    ],
+    "gabarito": 4,
+    "comentario": "Quando a pontuação envolve julgamento do avaliador — como na codificação de métodos projetivos ou de protocolos de observação —, a fonte de erro principal é a variação entre examinadores, estimada pela precisão entre avaliadores (ex.: kappa, correlação intraclasse). Formas paralelas e teste-reteste avaliam outras fontes de erro (conteúdo e tempo). O alfa aplica-se a itens homogêneos somados, e validade de face não é estimativa de precisão.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-avaliacao-015",
+    "disciplina": "especificos",
+    "assunto": "esp-avaliacao",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Pasquali, Psicometria: teoria dos testes na psicologia e na educação; Urbina, Fundamentos da testagem psicológica; Hutz, Bandeira & Trentini (orgs.), Psicometria"
+    },
+    "enunciado": "Sobre a relação entre precisão (fidedignidade) e validade de um teste psicológico, é correto afirmar que",
+    "alternativas": [
+      "um teste válido pode ter precisão nula, pois validade e precisão são independentes.",
+      "a precisão é condição suficiente para a validade, de modo que testes precisos são sempre válidos.",
+      "validade e precisão são sinônimos na psicometria contemporânea.",
+      "a precisão é condição necessária, mas não suficiente, para a validade: um teste pode ser preciso sem medir o construto pretendido.",
+      "a precisão só importa para testes projetivos, e a validade, para testes objetivos."
+    ],
+    "gabarito": 3,
+    "comentario": "A precisão limita a validade: escores com muito erro aleatório não podem se relacionar fortemente com critérios, por isso a precisão é necessária. Porém, um instrumento pode medir algo de forma consistente e ainda assim não medir o construto pretendido (ex.: uma balança estável usada para medir altura), logo a precisão não é suficiente. Os conceitos não são sinônimos, e ambos se aplicam a qualquer tipo de teste.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-avaliacao-016",
+    "disciplina": "especificos",
+    "assunto": "esp-avaliacao",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Pasquali, Psicometria: teoria dos testes na psicologia e na educação; Urbina, Fundamentos da testagem psicológica; Hutz, Bandeira & Trentini (orgs.), Psicometria"
+    },
+    "enunciado": "O manual de um teste informa erro-padrão de medida (EPM) de 3 pontos. Um avaliado obteve escore 100. Com base na teoria clássica dos testes, é correto afirmar que",
+    "alternativas": [
+      "o escore verdadeiro do avaliado é exatamente 100, pois o EPM se refere ao grupo normativo.",
+      "quanto maior a precisão do teste, maior será o EPM.",
+      "pode-se construir um intervalo de confiança em torno do escore observado (por exemplo, cerca de 94 a 106 para aproximadamente 95% de confiança), e quanto maior a precisão do teste, menor o EPM.",
+      "o EPM indica a validade do teste para o critério.",
+      "o escore verdadeiro está necessariamente entre 97 e 103."
+    ],
+    "gabarito": 2,
+    "comentario": "Na teoria clássica, o escore observado é a soma do escore verdadeiro com o erro; o EPM (DP × √(1 − precisão)) permite estimar intervalos de confiança para o escore verdadeiro — cerca de ±1,96 EPM para 95%, ou seja, aproximadamente 94 a 106. Quanto maior o coeficiente de precisão, menor o EPM. O escore observado não é o verdadeiro, e o intervalo de ±1 EPM (97 a 103) corresponde a cerca de 68% de confiança, não certeza. O EPM refere-se à precisão, não à validade.",
+    "dificuldade": 3,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-avaliacao-017",
+    "disciplina": "especificos",
+    "assunto": "esp-avaliacao",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Pasquali, Psicometria: teoria dos testes na psicologia e na educação; Urbina, Fundamentos da testagem psicológica; Hutz, Bandeira & Trentini (orgs.), Psicometria"
+    },
+    "enunciado": "Em um teste com interpretação referenciada à norma, um adolescente obteve percentil 85 no grupo normativo correspondente à sua idade. Isso significa que",
+    "alternativas": [
+      "ele acertou 85% dos itens do teste.",
+      "ele está 85 pontos acima da média do grupo normativo.",
+      "seu desempenho foi igual ou superior ao de aproximadamente 85% das pessoas do grupo normativo.",
+      "apenas 85% das pessoas do grupo normativo responderam ao teste.",
+      "seu escore está a 0,85 desvio-padrão acima da média."
+    ],
+    "gabarito": 2,
+    "comentario": "O percentil indica a posição relativa do escore na distribuição do grupo normativo: percentil 85 significa desempenho igual ou superior ao de cerca de 85% das pessoas da amostra de referência. Não é porcentagem de acertos (que seria interpretação absoluta), nem distância em pontos ou em desvios-padrão (que seriam escores padronizados, como z ou T). Por isso a amostra normativa deve ser representativa da população à qual o avaliado pertence.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-avaliacao-018",
+    "disciplina": "especificos",
+    "assunto": "esp-avaliacao",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Pasquali, Psicometria: teoria dos testes na psicologia e na educação; Urbina, Fundamentos da testagem psicológica; Hutz, Bandeira & Trentini (orgs.), Psicometria"
+    },
+    "enunciado": "Em um teste cujos escores são convertidos em escores T (média 50, desvio-padrão 10), um avaliado obteve escore z = +1,5. Seu escore T e a interpretação em termos de QI de desvio (média 100, desvio-padrão 15) equivalente são, respectivamente,",
+    "alternativas": [
+      "65 e 122,5.",
+      "51,5 e 101,5.",
+      "60 e 115.",
+      "65 e 115.",
+      "75 e 130."
+    ],
+    "gabarito": 0,
+    "comentario": "Escores padronizados são transformações lineares do escore z: T = 50 + 10z = 50 + 15 = 65; QI de desvio = 100 + 15z = 100 + 22,5 = 122,5. A alternativa “60 e 115” corresponde a z = +1. Somar o z diretamente à média (51,5 e 101,5) ignora o desvio-padrão. “75 e 130” corresponderia a z = +2,5 e +2,0, respectivamente, misturando valores.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-avaliacao-019",
+    "disciplina": "especificos",
+    "assunto": "esp-avaliacao",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://ses.sp.bvs.br/wp-content/uploads/2022/12/U_RS-CFP-31_151222.pdf (Res. CFP 31/2022); Pasquali, Psicometria: teoria dos testes na psicologia e na educação; Urbina, Fundamentos da testagem psicológica; Hutz, Bandeira & Trentini (orgs.), Psicometria"
+    },
+    "enunciado": "Sobre as formas de interpretação de escores previstas na Resolução CFP nº 31/2022 e na psicometria, é correto afirmar que",
+    "alternativas": [
+      "a interpretação referenciada a critério compara o avaliado com a média de seu grupo etário.",
+      "na interpretação referenciada à norma, o escore é comparado ao de um grupo de referência, cujas características devem ser descritas de forma explícita e exaustiva; outras formas de interpretação devem ter seu embasamento teórico e lógica justificados.",
+      "a resolução admite apenas interpretação referenciada à norma.",
+      "a descrição da amostra de normatização é dispensável quando o teste é estrangeiro.",
+      "a interpretação referenciada à norma dispensa amostra representativa, bastando amostra de conveniência."
+    ],
+    "gabarito": 1,
+    "comentario": "O art. 15, VIII, da Res. CFP 31/2022 exige sistema de correção e interpretação explícito, que pode ser referenciado à norma — com características da amostra de normatização relatadas de forma explícita e exaustiva, comparadas preferencialmente a estimativas nacionais — ou diferente da norma, com embasamento teórico e justificativa da lógica do procedimento. A interpretação referenciada a critério compara o desempenho com um padrão de domínio, e não com a média do grupo. Testes estrangeiros devem apresentar estudos com amostras brasileiras.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-avaliacao-020",
+    "disciplina": "especificos",
+    "assunto": "esp-avaliacao",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://ses.sp.bvs.br/wp-content/uploads/2022/12/U_RS-CFP-31_151222.pdf (Res. CFP 31/2022)"
+    },
+    "enunciado": "Uma psicóloga traduz por conta própria um inventário de personalidade publicado em revista internacional, com boas evidências de validade em amostras norte-americanas, e passa a utilizá-lo em sua prática clínica. À luz da Resolução CFP nº 31/2022, é correto afirmar que",
+    "alternativas": [
+      "as evidências obtidas no país de origem dispensam estudos com amostras brasileiras.",
+      "a tradução feita por psicóloga habilita o uso do teste, independentemente de avaliação pelo SATEPSI.",
+      "o uso é permitido desde que a psicóloga informe no laudo que o teste é estrangeiro.",
+      "testes estrangeiros adaptados para uso no Brasil devem atender aos requisitos mínimos e apresentar estudos com amostras da população brasileira, sem os quais o instrumento não pode ser usado profissionalmente como teste psicológico.",
+      "testes estrangeiros são automaticamente classificados como instrumentos não privativos."
+    ],
+    "gabarito": 3,
+    "comentario": "O art. 15, § 1º, da Res. CFP 31/2022 determina que testes estrangeiros adaptados ao Brasil atendam aos requisitos mínimos e apresentem, nos manuais, estudos científicos com amostras da população brasileira. Sem parecer favorável, o instrumento não pode ser usado profissionalmente (art. 12), salvo pesquisa e ensino. Evidências estrangeiras não se transferem automaticamente, dadas diferenças linguísticas e culturais (equivalência). Avisos no laudo não suprem a exigência, e não há classificação automática como não privativo.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-avaliacao-021",
+    "disciplina": "especificos",
+    "assunto": "esp-avaliacao",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Pasquali, Psicometria: teoria dos testes na psicologia e na educação; Urbina, Fundamentos da testagem psicológica; Hutz, Bandeira & Trentini (orgs.), Psicometria"
+    },
+    "enunciado": "Na Teoria de Resposta ao Item (TRI), em contraste com a Teoria Clássica dos Testes (TCT), é correto afirmar que",
+    "alternativas": [
+      "o escore do respondente corresponde sempre ao número total de acertos, como na TCT.",
+      "a dificuldade de um item depende exclusivamente da amostra em que foi calibrado.",
+      "os parâmetros dos itens (como dificuldade e discriminação) são, em princípio, invariantes em relação à amostra, e o nível do traço latente do respondente é estimado com base no padrão de respostas aos itens.",
+      "a TRI dispensa a hipótese de que os itens medem um traço latente.",
+      "o parâmetro de discriminação indica a probabilidade de acerto ao acaso."
+    ],
+    "gabarito": 2,
+    "comentario": "Na TRI, a probabilidade de resposta a um item é modelada em função do traço latente (θ) e dos parâmetros do item: no modelo logístico de três parâmetros, a (discriminação), b (dificuldade) e c (acerto ao acaso). Uma de suas vantagens é a invariância dos parâmetros (dos itens e do traço) em relação à amostra, ao contrário dos índices da TCT, que dependem do grupo. O escore não é a simples soma de acertos, e a TRI pressupõe justamente um traço latente. Acerto ao acaso é o parâmetro c, não o a.",
+    "dificuldade": 3,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-avaliacao-022",
+    "disciplina": "especificos",
+    "assunto": "esp-avaliacao",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2012/07/codigo-de-etica-psicologia.pdf (Res. CFP 10/2005); Rovinski, Fundamentos da perícia psicológica forense"
+    },
+    "enunciado": "Em ação de guarda na Vara de Família, uma das partes contrata psicóloga para acompanhar a perícia determinada pelo juiz e analisar criticamente o laudo da perita nomeada. Sobre as funções envolvidas, é correto afirmar que",
+    "alternativas": [
+      "a psicóloga contratada pela parte é quem elabora o laudo pericial que vincula o juiz.",
+      "perita e assistente técnica exercem a mesma função, devendo assinar laudo conjunto.",
+      "a assistente técnica deve ser, preferencialmente, a psicoterapeuta de uma das partes, pelo conhecimento prévio do caso.",
+      "a perita deve ouvir apenas a parte que solicitou a perícia, para preservar o sigilo.",
+      "a perita é auxiliar do juízo, nomeada para responder a quesitos com imparcialidade, enquanto a psicóloga contratada atua como assistente técnica da parte, podendo formular quesitos e emitir parecer sobre o trabalho pericial."
+    ],
+    "gabarito": 4,
+    "comentario": "Na perícia judicial, a perita é nomeada pelo juízo e atua como sua auxiliar, com imparcialidade; o assistente técnico é indicado e contratado pela parte, podendo formular quesitos, acompanhar diligências e apresentar parecer crítico — o próprio CPD do Sistema Conselhos reproduz essa lógica ao tratar de prova pericial. O laudo não vincula o juiz e não é conjunto. O Código de Ética (art. 2º, k) veda atuar como perito ou avaliador quando vínculos atuais ou anteriores — como o psicoterapêutico — possam comprometer o trabalho, e a perícia deve considerar todas as partes envolvidas.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-avaliacao-023",
+    "disciplina": "especificos",
+    "assunto": "esp-avaliacao",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2012/07/codigo-de-etica-psicologia.pdf (Res. CFP 10/2005); Rovinski, Fundamentos da perícia psicológica forense; Res. CFP 06/2019"
+    },
+    "enunciado": "Uma psicóloga perita judicial inicia avaliação de um adulto em processo criminal. Diferentemente de uma avaliação clínica a pedido do próprio paciente, nesse contexto a perita deve",
+    "alternativas": [
+      "garantir ao avaliado sigilo absoluto, como em qualquer atendimento psicológico.",
+      "dispensar entrevista devolutiva e qualquer informação ao avaliado, pois o destinatário é o juiz.",
+      "esclarecer ao avaliado a finalidade da avaliação, quem é o destinatário do documento e os limites do sigilo, já que as informações pertinentes aos quesitos serão comunicadas ao juízo.",
+      "omitir do avaliado que se trata de perícia, para evitar respostas defensivas.",
+      "incluir no laudo todas as informações obtidas, ainda que alheias aos quesitos."
+    ],
+    "gabarito": 2,
+    "comentario": "No contexto forense, o destinatário do documento é o juízo, e o avaliado deve ser informado da natureza e finalidade da avaliação e dos limites do sigilo (art. 1º, f, do Código de Ética). Ainda assim, aplica-se o princípio de transmitir somente o necessário à decisão (arts. 1º, g, e 10), não tudo o que foi obtido. Ocultar a finalidade viola o dever de informação, e o sigilo não é absoluto nesse contexto.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-avaliacao-024",
+    "disciplina": "especificos",
+    "assunto": "esp-avaliacao",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Cunha, J. A. et al., Psicodiagnóstico-V (Artmed)"
+    },
+    "enunciado": "Em um ambulatório, a psicóloga é chamada a avaliar se as dificuldades de atenção de uma criança de 8 anos decorrem de TDAH ou de um quadro de ansiedade. Segundo a classificação de objetivos do psicodiagnóstico proposta por Jurema Alcides Cunha, trata-se, principalmente, de",
+    "alternativas": [
+      "classificação simples.",
+      "perícia forense.",
+      "prevenção.",
+      "diagnóstico diferencial.",
+      "entendimento dinâmico."
+    ],
+    "gabarito": 3,
+    "comentario": "Cunha (Psicodiagnóstico-V) lista objetivos como classificação simples, descrição, classificação nosológica, diagnóstico diferencial, avaliação compreensiva, entendimento dinâmico, prevenção, prognóstico e perícia forense. O diagnóstico diferencial busca discriminar entre hipóteses diagnósticas com sintomas semelhantes, como no caso. Classificação simples compara o escore a normas (ex.: QI), entendimento dinâmico enfoca a dinâmica intrapsíquica, prevenção busca identificar riscos precocemente e perícia forense responde a quesitos judiciais.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-avaliacao-025",
+    "disciplina": "especificos",
+    "assunto": "esp-avaliacao",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://abmes.org.br/public/arquivos/legislacoes/Resolucao-CFP-006-2019-03-29.pdf (Res. CFP 06/2019)"
+    },
+    "enunciado": "Uma psicóloga conclui avaliação psicológica de um adulto, solicitada pelo próprio avaliado, e elabora o documento resultante. Segundo a Resolução CFP nº 06/2019, o documento adequado e a forma de entrega são",
+    "alternativas": [
+      "a declaração, entregue por e-mail, sem necessidade de devolutiva.",
+      "o laudo psicológico, resultado de processo de avaliação psicológica, entregue em pelo menos uma entrevista devolutiva, com protocolo de entrega assinado.",
+      "o atestado psicológico, que dispensa devolutiva por ser documento sucinto.",
+      "o parecer psicológico, que é o documento próprio de toda avaliação.",
+      "o relatório multiprofissional, entregue diretamente ao empregador do avaliado."
+    ],
+    "gabarito": 1,
+    "comentario": "O art. 13 da Res. CFP 06/2019 define o laudo psicológico como resultado de um processo de avaliação psicológica, com finalidade de subsidiar decisões; o art. 18 impõe ao psicólogo o dever de realizar ao menos uma entrevista devolutiva para entrega de relatório e laudo, e o art. 16, § 1º, exige protocolo de entrega assinado. A declaração não apresenta resultados de avaliação; o atestado certifica condição psicológica específica; o parecer responde a consulta técnica sobre questão em tese; e o relatório multiprofissional é produzido em equipe.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-avaliacao-026",
+    "disciplina": "especificos",
+    "assunto": "esp-avaliacao",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://ses.sp.bvs.br/wp-content/uploads/2022/12/U_RS-CFP-31_151222.pdf (Res. CFP 31/2022); Res. CFP 01/2019"
+    },
+    "enunciado": "Um perito examinador de trânsito, ao realizar a avaliação psicológica de candidatos à habilitação, decide usar um teste de atenção ainda não submetido ao SATEPSI, por considerá-lo mais rápido. Considerando a Resolução CFP nº 31/2022, é correto afirmar que",
+    "alternativas": [
+      "a conduta é permitida, pois a perícia de trânsito segue apenas as normas do órgão de trânsito.",
+      "a conduta é permitida se o teste for de uso internacional consagrado.",
+      "a conduta é permitida desde que o candidato concorde por escrito.",
+      "a conduta só seria irregular se o candidato fosse considerado inapto.",
+      "a conduta é falta ética, pois na avaliação psicológica profissional, inclusive no trânsito, só podem ser usados como testes instrumentos com parecer favorável no SATEPSI, aplicados conforme o manual e com normas adequadas à população avaliada."
+    ],
+    "gabarito": 4,
+    "comentario": "A Res. CFP 31/2022 aplica-se à avaliação psicológica em todos os contextos, incluído o trânsito (regulado também pela Res. CFP 01/2019): usar teste não avaliado ou com parecer desfavorável é falta ética (art. 12), e a aplicação deve seguir a padronização e as normas do manual (art. 11). Normas de órgãos de trânsito não afastam as normas profissionais, e consentimento do candidato, prestígio internacional ou resultado da avaliação não tornam o instrumento válido para uso profissional.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-avaliacao-027",
+    "disciplina": "especificos",
+    "assunto": "esp-avaliacao",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.826.htm (Lei 10.826/2003); Res. CFP 31/2022"
+    },
+    "enunciado": "Para obter o registro e a autorização de porte de arma de fogo, o Estatuto do Desarmamento (Lei nº 10.826/2003) exige, entre outros requisitos, a comprovação de aptidão psicológica para o manuseio de arma de fogo. No âmbito do Sistema Nacional de Armas, essa avaliação é realizada por",
+    "alternativas": [
+      "qualquer médico psiquiatra, mediante atestado de sanidade mental.",
+      "psicóloga(o) credenciada(o) pela Polícia Federal, que atesta a aptidão psicológica na forma da regulamentação.",
+      "qualquer psicóloga(o) inscrita(o) no CRP, sem necessidade de credenciamento.",
+      "instrutor de tiro credenciado, que avalia simultaneamente a capacidade técnica e a psicológica.",
+      "Conselho Regional de Psicologia, que emite certidão de aptidão psicológica."
+    ],
+    "gabarito": 1,
+    "comentario": "O art. 4º, III, da Lei 10.826/2003 exige comprovação de capacidade técnica e de aptidão psicológica para o manuseio de arma de fogo, atestadas na forma do regulamento. Para o registro e o porte junto ao SINARM, a avaliação é feita por psicóloga(o) credenciada(o) pela Polícia Federal, que deve observar as normas do CFP, inclusive o uso de testes com parecer favorável no SATEPSI. O atestado de instrutor refere-se à capacidade técnica, e o CRP não emite certidão de aptidão.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-avaliacao-028",
+    "disciplina": "especificos",
+    "assunto": "esp-avaliacao",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "Súmula Vinculante 44/STF; Res. CFP 08/2025; Res. CFP 31/2022"
+    },
+    "enunciado": "Um edital de concurso para guarda municipal prevê “avaliação psicológica de caráter eliminatório”, sem previsão em lei, sem indicar os critérios de avaliação e sem possibilidade de recurso. À luz da jurisprudência do STF e das diretrizes profissionais, é correto afirmar que",
+    "alternativas": [
+      "a avaliação psicológica pode ser prevista apenas no edital, sendo dispensável previsão legal.",
+      "a avaliação pode ser sigilosa, vedando-se ao candidato conhecer os motivos da inaptidão.",
+      "o psicólogo pode utilizar critérios subjetivos, desde que justificados no laudo após o resultado.",
+      "a avaliação psicológica é vedada em qualquer concurso público.",
+      "só por lei se pode sujeitar a exame psicotécnico a habilitação de candidato a cargo público, e a avaliação deve ter critérios objetivos e científicos previamente divulgados, com direito do candidato a conhecer o resultado e a recorrer."
+    ],
+    "gabarito": 4,
+    "comentario": "A Súmula Vinculante 44 do STF dispõe que “só por lei se pode sujeitar a exame psicotécnico a habilitação de candidato a cargo público”, e a jurisprudência exige critérios objetivos, científicos e publicizados, além da possibilidade de recurso. A Res. CFP 08/2025, que regulamenta a avaliação psicológica em concursos públicos e processos seletivos (revogando a Res. CFP 02/2016), dedica seção própria à devolutiva do resultado, e o Código de Ética impõe o dever de informar a quem de direito os resultados (art. 1º, g). Avaliação sigilosa, subjetiva ou sem base legal é irregular, mas a avaliação em si não é vedada.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-avaliacao-029",
+    "disciplina": "especificos",
+    "assunto": "esp-avaliacao",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://ses.sp.bvs.br/wp-content/uploads/2022/12/U_RS-CFP-31_151222.pdf (Res. CFP 31/2022)"
+    },
+    "enunciado": "Entre os requisitos mínimos obrigatórios que a Resolução CFP nº 31/2022 exige para que um teste psicológico seja avaliado favoravelmente, há um que NÃO se aplica aos métodos projetivos ou expressivos. Trata-se da exigência de",
+    "alternativas": [
+      "apresentar fundamentação teórica com definição do construto.",
+      "apresentar evidências empíricas sobre as características técnicas dos itens.",
+      "apresentar evidências empíricas de validade e estimativas de precisão.",
+      "explicitar o processo de aplicação e correção para garantir a uniformidade dos procedimentos.",
+      "apresentar ficha síntese com autor, objetivo, público-alvo e síntese dos estudos psicométricos."
+    ],
+    "gabarito": 1,
+    "comentario": "O art. 15 da Res. CFP 31/2022 lista os requisitos mínimos; o inciso VII exige evidências empíricas sobre as características técnicas dos itens (ex.: dificuldade, discriminação), “exceto para os métodos projetivos ou expressivos”, que não se estruturam em itens pontuados da mesma forma. Fundamentação teórica (I), evidências de validade e precisão (VI), processo explícito de aplicação e correção (IX) e ficha síntese (X) são exigidos de todos os testes, inclusive projetivos.",
+    "dificuldade": 3,
+    "anulada": false
+  },
+  {
+    "id": "aut-esp-avaliacao-030",
+    "disciplina": "especificos",
+    "assunto": "esp-avaliacao",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://ses.sp.bvs.br/wp-content/uploads/2022/12/U_RS-CFP-31_151222.pdf (Res. CFP 31/2022)"
+    },
+    "enunciado": "Uma equipe de pesquisa desenvolve um teste de “aptidão para cargos de liderança” cujas normas atribuem automaticamente escores menores a mulheres e a pessoas negras, sob a justificativa de que “historicamente ocupam menos cargos de chefia”. À luz da Resolução CFP nº 31/2022, essa conduta",
+    "alternativas": [
+      "é vedada, pois as(os) psicólogas(os) não podem elaborar, validar, adaptar, normatizar ou comercializar instrumentos para criar, manter ou reforçar preconceitos, estigmas ou estereótipos.",
+      "é permitida, desde que as normas reflitam dados estatísticos reais da população.",
+      "é permitida em pesquisa, mas vedada apenas na comercialização do teste.",
+      "é vedada apenas se o teste for usado em concurso público.",
+      "é permitida, pois a resolução trata apenas de requisitos psicométricos, e não de direitos humanos."
+    ],
+    "gabarito": 0,
+    "comentario": "O Capítulo VI da Res. CFP 31/2022 trata da justiça e proteção dos direitos humanos na avaliação psicológica: o art. 40 veda práticas que caracterizem negligência, preconceito ou opressão; o art. 41 proíbe elaborar, validar, traduzir, adaptar, normatizar, comercializar e fomentar instrumentos para criar, manter ou reforçar preconceitos, estigmas ou estereótipos; e o art. 42 manda considerar gênero, identidade étnico-racial e classe como construções sociais e históricas. O cumprimento desses artigos é requisito mínimo dos testes (art. 15, XII). Dados históricos de desigualdade não justificam normas discriminatórias, e a vedação alcança todas as etapas.",
+    "dificuldade": 2,
+    "anulada": false
+  }
+]

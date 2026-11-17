@@ -1,0 +1,377 @@
+[
+ {
+  "id": "fgv-mpu-2025-psi-1",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MPU",
+   "ano": 2025,
+   "cargo": "Analista do MPU – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/a30-analista-do-mpu-psicologiaa30-tipo-1.pdf"
+  },
+  "enunciado": "Leia o texto abaixo:\n“O problema em matéria de audição vem do fato de que o cérebro é um órgão muito rápido e que se pensa muito mais depressa do que se fala. Assim que escutamos uma pessoa, solicitamos ao cérebro que trabalhe muito mais lentamente em comparação com sua capacidade. Entretanto, não chegamos realmente a reduzir a velocidade do cérebro; enquanto registramos as palavras transmitidas pelo emissor, o cérebro continua a tratar as centenas de palavras e a fazer associações de ideias. Em outros termos, quando escutamos, nos resta algum tempo livre para pensar. É o emprego desse tempo livre que torna a escuta boa ou má”.\nLevando em consideração que o conteúdo temático do texto é de difícil acesso pelo leitor comum, o processo utilizado para tornar esse conteúdo mais claro foi:",
+  "alternativas": [
+   "indicar a estruturação do texto no início da leitura;",
+   "acrescentar exemplos práticos ao texto;",
+   "reformular as informações já dadas;",
+   "utilizar sinônimos mais comuns para termos difíceis;",
+   "repetir informações com os mesmos termos."
+  ],
+  "gabarito": 2,
+  "comentario": "Para facilitar a compreensão, o autor reformula o que já disse: “Em outros termos, quando escutamos, nos resta algum tempo livre para pensar” retoma, de modo mais simples, a explicação sobre a velocidade do cérebro (C). O texto não anuncia sua estrutura no início (A), não traz exemplos práticos (B), não troca termos difíceis por sinônimos (D) e não repete informações com as mesmas palavras (E).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mpu-2025-psi-2",
+  "disciplina": "portugues",
+  "assunto": "pt-reescrita",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MPU",
+   "ano": 2025,
+   "cargo": "Analista do MPU – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/a30-analista-do-mpu-psicologiaa30-tipo-1.pdf"
+  },
+  "enunciado": "Todas as frases abaixo contêm pleonasmos, ou seja, repetições desnecessárias de palavras, que foram modificadas na reescritura dessas frases.\nA frase em que o processo de reescrituração NÃO elimina o pleonasmo original é:",
+  "alternativas": [
+   "Tenho o desejo de rever de novo o filme O Protetor 2 / Tenho o desejo de ver de novo o filme O Protetor 2;",
+   "Segundo ele, ele crê que esse vocábulo é um neologismo / Ele crê que esse vocábulo é um neologismo;",
+   "Os alunos dessa turma mutuamente se ajudam / Os alunos dessa turma se ajudam;",
+   "Os exterminadores de insetos eliminaram completamente as pulgas dos cães / Os exterminadores eliminaram completamente as pulgas dos cães;",
+   "Analisaram a situação e depois, em seguida, propuseram soluções / Analisaram a situação; em seguida propuseram soluções."
+  ],
+  "gabarito": 3,
+  "comentario": "Em (D), a reescrita só retira “de insetos”, mas mantém “eliminaram completamente”, redundância (eliminar já é suprimir por completo) — o pleonasmo continua. Nas demais o pleonasmo some: “rever de novo” → “ver de novo” (A); “Segundo ele, ele crê” → “Ele crê” (B); “mutuamente se ajudam” → “se ajudam” (C); “depois, em seguida” → “em seguida” (E).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mpu-2025-psi-3",
+  "disciplina": "portugues",
+  "assunto": "pt-reescrita",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MPU",
+   "ano": 2025,
+   "cargo": "Analista do MPU – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/a30-analista-do-mpu-psicologiaa30-tipo-1.pdf"
+  },
+  "enunciado": "Observe a seguinte frase:\n“Ele ficou esgotado porque correu muito”.\nA maneira de reescrevê-la que modifica o seu sentido original é:",
+  "alternativas": [
+   "Se ele correu muito, ficou esgotado;",
+   "Ele sentiu-se esgotado por ter corrido muito;",
+   "Já que correu muito, sentiu-se esgotado;",
+   "Porque correu muito, ficou esgotado;",
+   "Seu esgotamento ocorreu por ter corrido muito."
+  ],
+  "gabarito": 0,
+  "comentario": "A frase original afirma uma relação de causa real: ele ficou esgotado porque correu. Em (A), “Se ele correu muito” transforma a causa em condição/hipótese, alterando o sentido. As demais mantêm a relação causal com outros recursos: “por ter corrido” (B e E), “Já que” (C) e “Porque” anteposto (D).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mpu-2025-psi-4",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MPU",
+   "ano": 2025,
+   "cargo": "Analista do MPU – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/a30-analista-do-mpu-psicologiaa30-tipo-1.pdf"
+  },
+  "enunciado": "Todas as frases abaixo empregaram processos para evitar-se a repetição de termos idênticos.\nA frase em que o processo usado foi a utilização de um termo de sentido mais geral (hiperônimo) é:",
+  "alternativas": [
+   "Meus alunos estudaram bastante e, por isso, eles merecem uma recompensa;",
+   "Entrou na avenida batendo tambor, mas o instrumento não resistiu por muito tempo;",
+   "Arrumando os discos, decidi vender aqueles que eu não escuto mais;",
+   "O proprietário do imóvel reuniu os inquilinos e, após alguns minutos, esse grande orador nos convenceu do aumento;",
+   "Traga suas fotografias para que eu as possa ver; as minhas fotos eu mostro depois."
+  ],
+  "gabarito": 1,
+  "comentario": "Em (B), “tambor” é retomado por “o instrumento”, termo de sentido mais geral (hiperônimo). Nas demais há outros recursos: pronome pessoal “eles” (A); pronome demonstrativo “aqueles” (C); uma expressão avaliativa (epíteto) “esse grande orador” para “o proprietário” (D); e pronome “as” e sinônimo “fotos” (E).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mpu-2025-psi-5",
+  "disciplina": "portugues",
+  "assunto": "pt-morfologia",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MPU",
+   "ano": 2025,
+   "cargo": "Analista do MPU – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/a30-analista-do-mpu-psicologiaa30-tipo-1.pdf"
+  },
+  "enunciado": "Em todas as frases abaixo, há termos de ligação sublinhados.\nA frase em que esse termo se refere à estrutura do texto e não a fatos reais é:",
+  "alternativas": [
+   "Cheguei atrasado ao trabalho e, [por causa] disso, fui multado em 10% dos meus vencimentos;",
+   "[À proporção que] leio o livro, mais me apaixono pela figura humana de Van Gogh;",
+   "[Logo após] o relato de sua doença, o personagem interrompeu a narrativa por vários dias;",
+   "Os estudantes ficaram [tão] chateados com os resultados da prova, [que] decidiram fazer uma greve;",
+   "Os alunos leram os livros encomendados pelo mestre, [mas] alguns deles não apreciaram a tarefa."
+  ],
+  "gabarito": 2,
+  "comentario": "Em (C), “Logo após” situa a interrupção em relação ao “relato” e à “narrativa”, isto é, a partes do próprio texto, e não a fatos do mundo. Nas demais, os conectores ligam fatos reais: causa e consequência no trabalho (A), proporção entre ler e apaixonar-se (B), consequência da chateação (D) e oposição entre ler e não apreciar (E).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mpu-2025-psi-6",
+  "disciplina": "portugues",
+  "assunto": "pt-semantica",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MPU",
+   "ano": 2025,
+   "cargo": "Analista do MPU – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/a30-analista-do-mpu-psicologiaa30-tipo-1.pdf"
+  },
+  "enunciado": "Em todas as frases abaixo, as orações adjetivas sublinhadas foram substituídas por termos de sentido equivalente.\nA única substituição que mostra um termo equivalente de sentido diferente do que se mostra na oração sublinhada é:",
+  "alternativas": [
+   "O secretário tem um caráter [que muda frequentemente] / instável;",
+   "Ele mostra um tipo de risada [que se comunica facilmente] / estridente;",
+   "Era um político [que sabia tirar partido das circunstâncias] / esperto;",
+   "Era um homem [que mantinha sua palavra] / honrado;",
+   "Eles tinham prestado ajuda a uma população [que morria de fome] / faminta."
+  ],
+  "gabarito": 1,
+  "comentario": "Uma risada “que se comunica facilmente” é uma risada contagiante; “estridente” significa aguda, penetrante, de som forte — sentido diferente (B). As demais substituições são equivalentes: caráter que muda frequentemente = instável (A); quem sabe tirar partido das circunstâncias = esperto (C); quem mantém a palavra = honrado (D); população que morre de fome = faminta (E).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mpu-2025-psi-7",
+  "disciplina": "portugues",
+  "assunto": "pt-semantica",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MPU",
+   "ano": 2025,
+   "cargo": "Analista do MPU – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/a30-analista-do-mpu-psicologiaa30-tipo-1.pdf"
+  },
+  "enunciado": "As frases abaixo mostram uma palavra sublinhada para a qual se apresenta um substituto entre parênteses.\nA frase em que o novo termo assinala uma progressão ascendente de significação é:",
+  "alternativas": [
+   "Picasso era um pintor [talentoso] (genial);",
+   "Um [conflito] (diferença) opõe patrões e empregados;",
+   "Foram feitos progressos [notáveis] (apreciáveis);",
+   "O conferencista falava de forma [polida] (delicada);",
+   "Seus termos foram [grosseiros] (vulgares)."
+  ],
+  "gabarito": 0,
+  "comentario": "“Genial” é grau mais intenso que “talentoso”: há progressão ascendente de significação (A). Nas demais, o substituto é de intensidade igual ou menor: “diferença” é mais fraco que “conflito” (B); “apreciáveis” é mais fraco que “notáveis” (C); “delicada” e “polida” são praticamente equivalentes (D); “vulgares” e “grosseiros” também (E).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mpu-2025-psi-8",
+  "disciplina": "portugues",
+  "assunto": "pt-vocabulario",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MPU",
+   "ano": 2025,
+   "cargo": "Analista do MPU – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/a30-analista-do-mpu-psicologiaa30-tipo-1.pdf"
+  },
+  "enunciado": "A definição de um vocábulo deve respeitar a natureza do vocábulo.\nEntre as definições abaixo, aquela que procede desse modo, tornando-se uma definição válida, é:",
+  "alternativas": [
+   "refutação: destruir por argumentos sólidos as afirmações de outrem;",
+   "molestar: quando se provoca violência a alguém;",
+   "indolente: deixar de trabalhar, ficar passivo;",
+   "sucintamente: expressar-se em poucas palavras;",
+   "correto: aquele que age com correção."
+  ],
+  "gabarito": 4,
+  "comentario": "Uma boa definição usa expressão da mesma classe gramatical do termo definido. Em (E), o adjetivo “correto” é definido por uma expressão de valor adjetivo (“aquele que age com correção”). Nas demais há desajuste: substantivo definido por verbo (A — “refutação: destruir...”), verbo definido por oração temporal (B — “molestar: quando se provoca...”), adjetivo definido por verbo (C — “indolente: deixar de trabalhar”) e advérbio definido por verbo (D — “sucintamente: expressar-se...”).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mpu-2025-psi-9",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MPU",
+   "ano": 2025,
+   "cargo": "Analista do MPU – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/a30-analista-do-mpu-psicologiaa30-tipo-1.pdf"
+  },
+  "enunciado": "Observe o seguinte texto:\n“Nem sempre os ditados populares dão aulas positivas; como dizia Millôr Fernandes, ‘Devagar se vai ao longe, mas quando se chega lá, não se encontra mais ninguém’”.\nNesse texto, a citação tem a função de:",
+  "alternativas": [
+   "participar a descoberta de um texto que traz prazer;",
+   "fazer progredir culturalmente um texto;",
+   "dar a conhecer uma opinião diversa da do autor;",
+   "indicar algo que apoia a ideia do texto;",
+   "fornecer um exemplo típico do estilo de um autor."
+  ],
+  "gabarito": 3,
+  "comentario": "O autor afirma que nem sempre os ditados populares ensinam algo positivo e cita Millôr Fernandes, que subverte o ditado “devagar se vai ao longe”, para reforçar essa ideia: a citação funciona como argumento de apoio (D). Ela não exprime opinião contrária à do autor (C), nem é mostrada como exemplo de estilo (E), descoberta prazerosa (A) ou progressão cultural (B).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mpu-2025-psi-10",
+  "disciplina": "portugues",
+  "assunto": "pt-sintaxe",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MPU",
+   "ano": 2025,
+   "cargo": "Analista do MPU – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/a30-analista-do-mpu-psicologiaa30-tipo-1.pdf"
+  },
+  "enunciado": "Observe a seguinte frase: “Dá-lhes o dinheiro necessário!”.\nA única frase abaixo em que houve uma forma adequada de apassivação dessa frase é:",
+  "alternativas": [
+   "Que lhes seja dado o dinheiro necessário;",
+   "Dá-se-lhes o dinheiro necessário;",
+   "O dinheiro necessário lhes será dado;",
+   "Tem-lhes dado o dinheiro necessário;",
+   "O dinheiro necessário lhes teria sido dado."
+  ],
+  "gabarito": 1,
+  "comentario": "Para a banca, a apassivação adequada é a passiva sintética “Dá-se-lhes o dinheiro necessário”, que mantém o verbo “dar” no mesmo tempo (presente), tem “o dinheiro necessário” como sujeito paciente e conserva o objeto indireto “lhes”. As demais alteram o tempo/modo verbal: subjuntivo “seja dado” (A), futuro “será dado” (C), pretérito perfeito composto “tem dado” (D) e futuro do pretérito composto “teria sido dado” (E).",
+  "dificuldade": 3,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mpu-2025-psi-11",
+  "disciplina": "portugues",
+  "assunto": "pt-linguagem",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MPU",
+   "ano": 2025,
+   "cargo": "Analista do MPU – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/a30-analista-do-mpu-psicologiaa30-tipo-1.pdf"
+  },
+  "enunciado": "Todas as frases abaixo mostram solicitações ou conselhos de forma direta ou indireta.\nA frase que mostra uma forma indireta é:",
+  "alternativas": [
+   "Você aceita uma sobremesa?",
+   "Proíbo você de continuar com essa história;",
+   "Aconselho a todos a leitura de Guimarães Rosa;",
+   "Eu te peço para comprares a casa;",
+   "Se seu pai venceu na vida, ele trabalhou muito!"
+  ],
+  "gabarito": 4,
+  "comentario": "Em (E), não há verbo de pedido ou conselho: ao dizer que o pai venceu porque trabalhou muito, o falante aconselha indiretamente o interlocutor a trabalhar também. Nas demais, a solicitação ou o conselho é expresso diretamente: oferta/pergunta explícita (A), proibição com “Proíbo” (B), conselho com “Aconselho” (C) e pedido com “peço” (D).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mpu-2025-psi-12",
+  "disciplina": "portugues",
+  "assunto": "pt-linguagem",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MPU",
+   "ano": 2025,
+   "cargo": "Analista do MPU – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/a30-analista-do-mpu-psicologiaa30-tipo-1.pdf"
+  },
+  "enunciado": "Na frase “Infelizmente, meu amigo se esqueceu de dar o aviso da entrevista para o pobre Marcelo”, cruzam-se duas funções de linguagem, que são:",
+  "alternativas": [
+   "referencial e fática;",
+   "conativa e metalinguística;",
+   "metalinguística e referencial;",
+   "emotiva e conativa;",
+   "fática e emotiva."
+  ],
+  "gabarito": 3,
+  "comentario": "Para a banca, cruzam-se a função emotiva — marcada pela avaliação subjetiva do emissor em “Infelizmente” e “o pobre Marcelo” — e a função conativa, por se dirigir ao interlocutor (“meu amigo” lido como vocativo). Não há foco no canal (fática) nem no próprio código (metalinguística), o que descarta as demais combinações.",
+  "dificuldade": 3,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mpu-2025-psi-13",
+  "disciplina": "portugues",
+  "assunto": "pt-morfologia",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MPU",
+   "ano": 2025,
+   "cargo": "Analista do MPU – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/a30-analista-do-mpu-psicologiaa30-tipo-1.pdf"
+  },
+  "enunciado": "A frase abaixo que mostra uma forma verbal inaceitável em relação à norma culta da língua portuguesa é:",
+  "alternativas": [
+   "Se você requerer o diploma, ele lhe será dado;",
+   "Se você dispuser de dinheiro, tudo fica mais fácil;",
+   "Se você vir o filme, vai ficar contente;",
+   "Se você intervier na discussão, ela termina;",
+   "Se você dizer a verdade, será melhor para todos."
+  ],
+  "gabarito": 4,
+  "comentario": "O futuro do subjuntivo de “dizer” é “disser”: “Se você disser a verdade”; “dizer” (infinitivo) é inaceitável (E). As demais estão corretas: “requerer” é regular no futuro do subjuntivo (A); “dispuser” vem de “pôr” (B); “vir” é o futuro do subjuntivo de “ver” (C); e “intervier” segue “vir” (D).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mpu-2025-psi-14",
+  "disciplina": "portugues",
+  "assunto": "pt-linguagem",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MPU",
+   "ano": 2025,
+   "cargo": "Analista do MPU – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/a30-analista-do-mpu-psicologiaa30-tipo-1.pdf"
+  },
+  "enunciado": "Compare as duas frases abaixo:\n- Dê-me aquela caixa.\n- Me dá aquela caixa.\nA segunda frase mostra o seguinte efeito em relação à primeira:",
+  "alternativas": [
+   "atenuação do valor de formalidade;",
+   "ênfase na ideia de ordem;",
+   "supressão da polidez;",
+   "suavização da ideia de pedido;",
+   "realce da ideia de tempo presente."
+  ],
+  "gabarito": 0,
+  "comentario": "“Dê-me” (ênclise, imperativo da 3ª pessoa) segue a norma formal; “Me dá” (próclise em início de frase, imperativo de tratamento informal) é típico da fala coloquial. Assim, a segunda frase atenua o grau de formalidade (A), sem enfatizar a ordem (B), suprimir a polidez (C), suavizar o pedido (D) ou realçar o tempo presente (E).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mpu-2025-psi-15",
+  "disciplina": "portugues",
+  "assunto": "pt-semantica",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MPU",
+   "ano": 2025,
+   "cargo": "Analista do MPU – Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/a30-analista-do-mpu-psicologiaa30-tipo-1.pdf"
+  },
+  "enunciado": "Observe a seguinte frase:\n“Não cheguei a assistir o início do show no final de ano”.\nA frase abaixo em que o verbo “assistir” é empregado no mesmo sentido que mostra na frase acima é:",
+  "alternativas": [
+   "Não assiste a você o dever de estar presente;",
+   "O professor deve assistir a todos os alunos;",
+   "O avô sempre foi assistido por todos os netos;",
+   "Não se pode assistir parado a uma agressão dessas;",
+   "O médico lhe assistiu nos últimos momentos."
+  ],
+  "gabarito": 3,
+  "comentario": "Em “assistir o início do show”, o verbo significa ver, presenciar (na norma culta, “assistir a”). Em (D), “assistir parado a uma agressão” tem o mesmo sentido de presenciar. Nas demais, “assistir” significa caber, competir (A) ou ajudar, prestar assistência (B, C e E).",
+  "dificuldade": 2,
+  "anulada": false
+ }
+]

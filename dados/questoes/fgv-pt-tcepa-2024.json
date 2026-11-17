@@ -1,0 +1,252 @@
+[
+ {
+  "id": "fgv-tcepa-2024-psi-1",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TCE-PA",
+   "ano": 2024,
+   "cargo": "Auditor de Controle Externo – Área Administrativa / Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns112-auditor-de-controle-externo-administrativa-psicologiacns112-tipo-1.pdf"
+  },
+  "enunciado": "Os documentos públicos e os jornais são infeccionados diariamente com expressões impróprias, às quais o povo se acostuma, à força, ao lê-las. (Voltaire)\nAssinale a afirmativa correta sobre o significado ou estruturação da frase apresentada.",
+  "alternativas": [
+   "As “expressões impróprias” aludidas na frase se referem a expressões grosseiras, pouco educadas.",
+   "A imprensa, segundo Voltaire, tem a finalidade de educar o público leitor.",
+   "A frase alude ao problema de alguns documentos públicos se utilizarem de linguagem inadequada, já que se trata de textos de grande número de leitores.",
+   "A semelhança entre os documentos públicos e os jornais é a preocupação com a educação dos leitores.",
+   "A preocupação com a modernidade pode provocar, segundo a frase, mudanças linguísticas."
+  ],
+  "gabarito": 2,
+  "comentario": "Voltaire critica o fato de documentos públicos e jornais, lidos por muita gente, “infeccionarem” a língua com expressões impróprias, às quais o povo acaba se acostumando pela leitura repetida — é o que diz a C. “Impróprias” significa inadequadas, não necessariamente grosseiras (A). A frase não atribui à imprensa finalidade educativa (B), nem aponta preocupação com a educação como ponto comum (D). A modernidade não é mencionada (E).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tcepa-2024-psi-2",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TCE-PA",
+   "ano": 2024,
+   "cargo": "Auditor de Controle Externo – Área Administrativa / Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns112-auditor-de-controle-externo-administrativa-psicologiacns112-tipo-1.pdf"
+  },
+  "enunciado": "Leia a frase abaixo com atenção:\nA carta é telefonema antiquado, do tempo em que as pessoas sabiam escrever e ler.\nAssinale a afirmativa correta acerca da frase apresentada.",
+  "alternativas": [
+   "A frase mostra a superioridade da língua escrita sobre a língua falada.",
+   "A frase traz uma crítica à educação moderna.",
+   "A carta é comparada a um telefonema por ambos os meios serem considerados antiquados.",
+   "O autor da frase indica um aspecto da modernidade superior aos tempos passados.",
+   "Saber escrever e ler não é visto na frase como traço se qualidade superior."
+  ],
+  "gabarito": 1,
+  "comentario": "Ao dizer que a carta é “do tempo em que as pessoas sabiam escrever e ler”, o autor sugere que hoje as pessoas já não sabem — uma crítica irônica à educação moderna (B). Não há comparação de superioridade entre escrita e fala (A); só a carta é chamada de antiquada, não o telefonema (C). A modernidade aparece como inferior, não superior (D), e saber ler e escrever é apresentado justamente como qualidade valorizada (E).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tcepa-2024-psi-3",
+  "disciplina": "portugues",
+  "assunto": "pt-reescrita",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TCE-PA",
+   "ano": 2024,
+   "cargo": "Auditor de Controle Externo – Área Administrativa / Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns112-auditor-de-controle-externo-administrativa-psicologiacns112-tipo-1.pdf"
+  },
+  "enunciado": "Um dos problemas da escrita é o emprego desnecessário de palavras.\nAssinale a frase a seguir em que não ocorre esse problema.",
+  "alternativas": [
+   "Todas as interações humanas são oportunidades ou para aprender ou para ensinar.",
+   "O destino do mundo depende em primeiro lugar dos estadistas. Em segundo lugar, dos intérpretes.",
+   "Para o seu próprio bem, não fale demais.",
+   "Umas vezes penso; outras vezes, existo.",
+   "Uma hora de conversação vale mais que 50 cartas."
+  ],
+  "gabarito": 4,
+  "comentario": "Em E nenhuma palavra pode ser retirada sem perda de sentido. Nas demais há excessos: em A, o primeiro “ou” é dispensável (“oportunidades para aprender ou para ensinar”); em B, a repetição de “lugar” poderia ser evitada; em C, “seu próprio” é redundante (“para o seu bem”); em D, o segundo “vezes” pode ser omitido (“Umas vezes penso; outras, existo”).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tcepa-2024-psi-4",
+  "disciplina": "portugues",
+  "assunto": "pt-tipologia",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TCE-PA",
+   "ano": 2024,
+   "cargo": "Auditor de Controle Externo – Área Administrativa / Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns112-auditor-de-controle-externo-administrativa-psicologiacns112-tipo-1.pdf"
+  },
+  "enunciado": "Observe o texto a seguir:\nDe fato, na língua falada, o homem vive a sua vida sobre a terra. Cada uma das medidas naturais de sua existência está inscrita em quatro palavras. As duas primeiras ‘Bom dia’. Ao dizê-las, ingressamos em um dia a mais, nos preparamos para consumir uma mais dessas unidades de tempo, feitas do céu, do sol e da luz. E, quando, já usado, nos corre por entre as mãos esse pedaço da nossa existência, nos despedimos com outras duas palavras: ‘Boa noite’ ou ‘Até amanhã’. Essas duas formas verbais nos contam o transcorrer de nossos passos sobre a terra.\nEsse segmento textual deve estar inserido no modo expositivo de organização discursiva.\nUma marca que caracteriza esse modo de organização é a",
+  "alternativas": [
+   "apresentação de uma série de fatos cronologicamente sucessivos que dão conta de um período de tempo.",
+   "exposição de um tema de forma coerente, ordenada e clara, de modo que possa ser lido com fluidez e interpretado com facilidade.",
+   "indicação de um conjunto de traços de uma realidade qualquer de forma que a possamos identificar.",
+   "defesa de uma ideia diante de uma realidade que permite mais de um posicionamento ideológico.",
+   "demonstração de uma ideia apoiada em diferentes meios de comprovação ou apoio para convencimento do leitor."
+  ],
+  "gabarito": 1,
+  "comentario": "O modo expositivo tem por objetivo explicar/apresentar um tema de maneira clara e ordenada, para que o leitor o compreenda — alternativa B. A sequência cronológica de fatos (A) caracteriza a narração; a enumeração de traços para identificar algo (C), a descrição; a defesa de uma ideia (D) e a busca de convencimento com provas (E), a argumentação.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tcepa-2024-psi-5",
+  "disciplina": "portugues",
+  "assunto": "pt-vocabulario",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TCE-PA",
+   "ano": 2024,
+   "cargo": "Auditor de Controle Externo – Área Administrativa / Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns112-auditor-de-controle-externo-administrativa-psicologiacns112-tipo-1.pdf"
+  },
+  "enunciado": "Assinale a frase em que houve troca indevida entre A e HÁ.",
+  "alternativas": [
+   "Os atletas estão há poucos dias das Olimpíadas.",
+   "Não há muito o que fazer nessas circunstâncias.",
+   "Dentro da caixa há uma série de brinquedos.",
+   "O que há de novo na guerra Rússia X Ucrânia?",
+   "Sem problemas, pois há dois meses até o pagamento."
+  ],
+  "gabarito": 0,
+  "comentario": "“Há” (verbo haver) indica existência ou tempo decorrido; “a” (preposição) indica distância ou tempo futuro. Em A, “poucos dias das Olimpíadas” é uma distância temporal para o futuro, por isso o correto seria “estão a poucos dias”. Em B, C e D, “há” significa “existe(m)”; em E, “há dois meses até o pagamento” também tem valor existencial (“existem dois meses”), daí estar adequado.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tcepa-2024-psi-6",
+  "disciplina": "portugues",
+  "assunto": "pt-morfologia",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TCE-PA",
+   "ano": 2024,
+   "cargo": "Auditor de Controle Externo – Área Administrativa / Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns112-auditor-de-controle-externo-administrativa-psicologiacns112-tipo-1.pdf"
+  },
+  "enunciado": "Assinale a frase em que não está presente qualquer processo de abreviação vocabular ou textual.",
+  "alternativas": [
+   "Expressei-me clara e calmamente.",
+   "Foram abordados os micro e macroproblemas do país.",
+   "Os EUA participaram da conferência sobre o clima.",
+   "Os países anglo-saxônicos são bem desenvolvidos.",
+   "Os animais e os humanos participam do mesmo mundo."
+  ],
+  "gabarito": 4,
+  "comentario": "Em E não há nenhuma forma reduzida. Em A, o sufixo -mente é omitido no primeiro advérbio (“clara[mente] e calmamente”); em B, “micro” representa “microproblemas” (supressão do radical repetido); em C, “EUA” é sigla; em D, “anglo” é forma reduzida usada em compostos (de “anglos/ingleses”).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tcepa-2024-psi-7",
+  "disciplina": "portugues",
+  "assunto": "pt-morfologia",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TCE-PA",
+   "ano": 2024,
+   "cargo": "Auditor de Controle Externo – Área Administrativa / Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns112-auditor-de-controle-externo-administrativa-psicologiacns112-tipo-1.pdf"
+  },
+  "enunciado": "Verbos abundantes são aqueles que possuem mais de uma forma de valor equivalente, o que ocorre principalmente no particípio.\nAssinale a opção que mostra uma forma inadequada de particípio.",
+  "alternativas": [
+   "aceitar / aceitado e aceite.",
+   "entregar / entregado e entregue.",
+   "chegar / chegado e chego.",
+   "pegar / pegado e pego.",
+   "expressar / expressado e expresso."
+  ],
+  "gabarito": 2,
+  "comentario": "O verbo “chegar” tem apenas o particípio regular “chegado”; “chego” como particípio (“tinha chego”) não é aceito pela norma-padrão — alternativa C. Os demais são verbos abundantes reconhecidos: aceitado/aceite (ou aceito), entregado/entregue, pegado/pego e expressado/expresso.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tcepa-2024-psi-8",
+  "disciplina": "portugues",
+  "assunto": "pt-morfologia",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TCE-PA",
+   "ano": 2024,
+   "cargo": "Auditor de Controle Externo – Área Administrativa / Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns112-auditor-de-controle-externo-administrativa-psicologiacns112-tipo-1.pdf"
+  },
+  "enunciado": "Entre as frases abaixo – do livro A Cidade e as Serras, de Eça de Queiroz -, aquela em que a forma debaixo está mal-empregada, é:",
+  "alternativas": [
+   "“-Ainda estive para me abrigar em casa do Esgueira, que é um caseiro de cá. Aquela casa, ali debaixo, onde está a figueira...”.",
+   "“Os séculos rolam; e sempre imutáveis farrapos lhe cobrem o corpo, e sempre debaixo deles, através do longo dia, os homens labutarão e as mulheres chorarão”.",
+   "“No Inverno, logo que na amável cidade começavam a morrer de frio, debaixo das pontes, criancinhas sem abrigo – ela preparava com comovido cuidado os seus vestidos de patinagem”.",
+   "“Findou pôr voltar ao montão de jornais amarrotados, ergueu melancolicamente um velho Diário de Notícias, e com ele debaixo do braço subiu ao seu quarto, para dormir, para esquecer”.",
+   "“Assobiando o fado meigo tirei debaixo da cama a minha velha mala, e meti solicitamente entre calças e peúgas um Tratado de direito civil, para aprender enfim, nos vagares da aldeia, estendido sob a faia, as leis que regem os homens”."
+  ],
+  "gabarito": 0,
+  "comentario": "Pela norma-padrão, “debaixo” se emprega seguido de complemento com “de” (debaixo de algo), com o sentido de “sob”; sem complemento, para indicar posição inferior/lugar mais baixo, usa-se “embaixo” ou “abaixo”. Em A, “ali debaixo” aparece sem complemento, indicando lugar mais abaixo — uso considerado inadequado pela banca. Em B, C, D e E há sempre “debaixo de” + complemento (deles, das pontes, do braço, da cama).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tcepa-2024-psi-9",
+  "disciplina": "portugues",
+  "assunto": "pt-morfologia",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TCE-PA",
+   "ano": 2024,
+   "cargo": "Auditor de Controle Externo – Área Administrativa / Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns112-auditor-de-controle-externo-administrativa-psicologiacns112-tipo-1.pdf"
+  },
+  "enunciado": "As frases a seguir mostram um adjetivo sublinhado. Assinale a frase em que esse adjetivo tem valor de estado.",
+  "alternativas": [
+   "Fazemos o que não podemos deixar de fazer, e classificamos isto com os mais [belos] nomes.",
+   "Pensar é o trabalho mais [duro] que há.",
+   "Todo homem [trabalhador] tem sempre uma oportunidade.",
+   "A direção recomendou que alunos [gripados] fossem separados dos demais a fim de evitar-se a contaminação.",
+   "A concorrência é um estilo de vida. Se você não tem um concorrente [forte], você é obrigado a inventar um."
+  ],
+  "gabarito": 3,
+  "comentario": "Adjetivos de estado indicam uma condição transitória, passageira; adjetivos de qualidade indicam característica mais permanente do ser. “Gripados” (D) expressa uma situação momentânea dos alunos — estão gripados, depois deixam de estar. Já “belos”, “duro”, “trabalhador” e “forte” atribuem qualidades/características aos substantivos, sem ideia de estado temporário.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tcepa-2024-psi-10",
+  "disciplina": "portugues",
+  "assunto": "pt-morfologia",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TCE-PA",
+   "ano": 2024,
+   "cargo": "Auditor de Controle Externo – Área Administrativa / Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns112-auditor-de-controle-externo-administrativa-psicologiacns112-tipo-1.pdf"
+  },
+  "enunciado": "As frases a seguir mostram locuções adjetivas que foram substituídas por adjetivos, indicados entre parênteses.\nEntre as substituições propostas, assinale aquela que é possível e adequada.",
+  "alternativas": [
+   "O artista tem uma concepção original do infinito (infinita).",
+   "A vida da cidade (suburbana) é um inferno, mas ninguém quer mudar-se para o paraíso.",
+   "Escrever humor é um método de lucro (lucrativo) engraçado.",
+   "O dever da literatura (literário) é levar a pessoa a inserir-se na história.",
+   "Fora o cachorro, o livro é o melhor amigo do homem (humano)."
+  ],
+  "gabarito": null,
+  "comentario": "A banca anulou esta questão no gabarito definitivo. Analisando as opções: “infinita” mudaria o sentido (A); “da cidade” equivale a “urbana”, não a “suburbana” (B); “humano” altera o sentido de “amigo do homem” (E). Restam C (“de lucro” → “lucrativo”) e D (“da literatura” → “literário”), ambas discutíveis quanto à adequação e ao sentido, o que provavelmente impediu a identificação de uma única resposta inequívoca.",
+  "dificuldade": 3,
+  "anulada": true
+ }
+]

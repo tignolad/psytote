@@ -1,0 +1,310 @@
+[
+  {
+    "id": "aut-leg-nt01-2022-001",
+    "disciplina": "legislacao",
+    "assunto": "leg-nt01-2022",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2022/06/SEI_CFP-0612475-Nota-Tecnica.pdf"
+    },
+    "enunciado": "Segundo a Nota Técnica CFP nº 1/2022, ao promover publicamente seus serviços em qualquer meio, inclusive nas redes sociais, a psicóloga deve obrigatoriamente informar:",
+    "alternativas": [
+      "nome completo ou nome social, a titulação \"psicóloga\", o CRP em que está inscrita e seu número de registro.",
+      "nome completo, a abordagem teórica adotada, o CRP em que está inscrita e o endereço do local de atendimento.",
+      "nome completo ou nome social, o número de registro no CRP e o valor cobrado por sessão.",
+      "nome civil completo, vedado o uso de nome social, a titulação \"psicóloga\" e o número de registro no CRP.",
+      "nome completo ou apelido, a especialidade registrada no CFP e o número de registro no CRP."
+    ],
+    "gabarito": 0,
+    "comentario": "A NT 1/2022 (tópico 'Uso de Apelidos e Uso de Logomarcas') torna obrigatório informar nome completo ou nome social (Res. CFP 10/2018), a titulação 'psicóloga/psicólogo', o CRP de inscrição e o número de registro. Abordagem e endereço podem ser destacados, mas não são obrigatórios; o preço não deve ser usado como propaganda; o nome social é expressamente admitido; e o apelido não substitui o nome completo, apenas pode ser usado junto aos requisitos.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-nt01-2022-002",
+    "disciplina": "legislacao",
+    "assunto": "leg-nt01-2022",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2022/06/SEI_CFP-0612475-Nota-Tecnica.pdf"
+    },
+    "enunciado": "Luana, psicóloga, criou um perfil profissional no Instagram com o nome \"Psi Lulu\" e uma logomarca colorida. Na biografia do perfil constam apenas o apelido e a logomarca. À luz da Nota Técnica CFP nº 1/2022, é correto afirmar que:",
+    "alternativas": [
+      "o uso de apelido é vedado na publicidade profissional, devendo o perfil ser renomeado com o nome civil.",
+      "o uso de logomarca é vedado nas redes sociais por caracterizar autopromoção em detrimento de outros profissionais.",
+      "apelido e logomarca são permitidos, mas o perfil está irregular por não vincular a eles o nome completo ou social, a titulação, o CRP e o número de inscrição.",
+      "apelido e logomarca são permitidos sem outras exigências, pois a obrigação de identificação completa (nome, CRP e número de inscrição) se restringe a materiais impressos e placas de consultório.",
+      "a logomarca é permitida, mas o apelido só pode ser usado se previamente registrado no CRP."
+    ],
+    "gabarito": 2,
+    "comentario": "A NT 1/2022 permite o uso de apelidos e de nomes de povos originários e tradicionais, 'desde que obedeçam os requisitos elencados', e permite logomarca 'desde que vinculado ao nome completo ou nome social' e ao número de inscrição e CRP. Assim, nenhum dos dois é vedado, mas a identificação obrigatória vale para qualquer meio, inclusive virtual. A NT não exige registro prévio de apelido no CRP.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-nt01-2022-003",
+    "disciplina": "legislacao",
+    "assunto": "leg-nt01-2022",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2022/06/SEI_CFP-0612475-Nota-Tecnica.pdf"
+    },
+    "enunciado": "Um psicólogo deseja divulgar seu consultório nas redes sociais. Considerando a orientação da Nota Técnica CFP nº 1/2022 sobre preço e divulgação, assinale a única prática que a nota expressamente admite.",
+    "alternativas": [
+      "Anunciar \"atendimento com preço social para estudantes\".",
+      "Oferecer cupom de desconto para os primeiros dez seguidores que agendarem.",
+      "Divulgar \"pacote promocional de quatro sessões\" com valor reduzido.",
+      "Realizar sorteio de uma sessão gratuita entre os seguidores do perfil.",
+      "Informar os convênios mantidos com clínicas e instituições de ensino."
+    ],
+    "gabarito": 4,
+    "comentario": "A NT 1/2022 orienta que o preço não seja usado como forma de propaganda (art. 20, 'd', do CEPP), abstendo-se de termos como 'preço social', 'desconto', 'pacote promocional' e 'valor acessível', e informa que não é permitido o uso de cupons promocionais e sorteios. Por outro lado, afirma que 'a divulgação de convênios com instituições, universidades, faculdades, clínicas é permitida'.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-nt01-2022-004",
+    "disciplina": "legislacao",
+    "assunto": "leg-nt01-2022",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2022/06/SEI_CFP-0612475-Nota-Tecnica.pdf"
+    },
+    "enunciado": "Recém-formada, uma psicóloga planeja anunciar nas redes sociais vagas de atendimento voluntário, com a intenção declarada de, após algumas sessões, converter essas pessoas em pacientes pagantes. Segundo a Nota Técnica CFP nº 1/2022, essa estratégia é:",
+    "alternativas": [
+      "adequada, pois a divulgação de trabalho voluntário é livre e não sofre restrições.",
+      "inadequada, porque a nota considera inadequado o atendimento voluntário com a finalidade de captação de clientes.",
+      "inadequada, porque a nota proíbe qualquer divulgação de trabalho voluntário pelas redes sociais, admitindo-a só em instituições.",
+      "adequada, desde que o número de sessões gratuitas seja informado previamente ao CRP e a cobrança só comece após o término do ciclo voluntário anunciado.",
+      "adequada, desde que a profissional informe no anúncio o valor que passará a ser cobrado."
+    ],
+    "gabarito": 1,
+    "comentario": "Segundo a NT 1/2022, 'a divulgação de trabalho voluntário não está impedida', mas a psicóloga deve analisar a viabilidade e só oferecê-lo quando puder garantir a continuidade e a qualidade do serviço; e 'é inadequado o atendimento voluntário com a finalidade de captação de clientes'. A divulgação do voluntariado não é proibida em si, e não há previsão de comunicação ao CRP; anunciar valores também iria contra a orientação de não usar o preço como propaganda.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-nt01-2022-005",
+    "disciplina": "legislacao",
+    "assunto": "leg-nt01-2022",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2022/06/SEI_CFP-0612475-Nota-Tecnica.pdf"
+    },
+    "enunciado": "Uma paciente adulta, satisfeita com o processo terapêutico, oferece à sua psicóloga um depoimento com foto para ser publicado no perfil profissional da terapeuta. De acordo com a Nota Técnica CFP nº 1/2022, a utilização de fotos e depoimentos de pessoas atendidas:",
+    "alternativas": [
+      "é vedada em qualquer hipótese, ainda que haja consentimento do paciente.",
+      "é permitida e recomendada, por dar transparência aos resultados do serviço.",
+      "é permitida mediante consentimento verbal do paciente, desde que registrado no prontuário e que a foto não permita ver o rosto da pessoa atendida.",
+      "é permitida, mas não recomendada, desde que haja consentimento expresso, por escrito, do paciente ou usuário.",
+      "é permitida apenas com autorização prévia do CRP em que a psicóloga está inscrita, renovável a cada publicação."
+    ],
+    "gabarito": 3,
+    "comentario": "A NT 1/2022 estabelece como regra que a publicidade não faça uso de depoimentos e fotos de pessoas atendidas, mas destaca que, 'se houver o consentimento expresso, por escrito, do paciente ou do usuário dos serviços, a utilização de fotos e depoimentos é permitida, mas não recomendada', pela possibilidade de exposição, em especial de crianças e adolescentes (art. 9º do CEPP e art. 17 do ECA). Consentimento verbal não basta e não há autorização do CRP prevista.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-nt01-2022-006",
+    "disciplina": "legislacao",
+    "assunto": "leg-nt01-2022",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2022/06/SEI_CFP-0612475-Nota-Tecnica.pdf"
+    },
+    "enunciado": "Um psicólogo cadastrado em uma plataforma coletiva de atendimento on-line teve seu perfil divulgado pela própria plataforma com a frase \"resultados garantidos em 5 sessões\", redigida pela equipe de marketing da empresa. Conforme a Nota Técnica CFP nº 1/2022:",
+    "alternativas": [
+      "a responsabilidade pela publicidade é exclusiva da plataforma, por ter sido ela quem elaborou o conteúdo, cabendo ao CRP notificá-la, e não ao psicólogo cadastrado.",
+      "o psicólogo só responde se tiver assinado contrato autorizando expressamente aquele texto.",
+      "continua sendo do psicólogo a responsabilidade de verificar se o conteúdo cumpre as diretrizes éticas, podendo responder pela publicidade indevida.",
+      "a responsabilidade recai sobre o responsável técnico da plataforma, excluída a do psicólogo cadastrado.",
+      "não há infração, pois a previsão de resultados só é vedada em publicidade feita em meio físico."
+    ],
+    "gabarito": 2,
+    "comentario": "A NT 1/2022 reforça que, mesmo quando a divulgação é elaborada com auxílio de empresas terceirizadas, plataformas coletivas on-line ou profissionais de marketing, 'continua sendo responsabilidade da psicóloga e do psicólogo verificar se o conteúdo cumpre as diretrizes éticas', podendo ser responsabilizado pela publicidade indevida (art. 2º, 'd', e art. 3º do CEPP). A previsão taxativa de resultados é vedada em qualquer meio, físico ou virtual.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-nt01-2022-007",
+    "disciplina": "legislacao",
+    "assunto": "leg-nt01-2022",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2022/06/SEI_CFP-0612475-Nota-Tecnica.pdf"
+    },
+    "enunciado": "Uma clínica, pessoa jurídica que presta serviços de Psicologia, lançou campanha publicitária sobre as atividades de seus psicólogos. Segundo a Nota Técnica CFP nº 1/2022, a observância do cumprimento das normativas de publicidade nesse caso é função:",
+    "alternativas": [
+      "do sócio-administrador da pessoa jurídica, ainda que não seja psicólogo.",
+      "da Responsável Técnica ou do Responsável Técnico da pessoa jurídica.",
+      "do Conselho Regional de Psicologia, por meio de aprovação prévia das peças publicitárias.",
+      "da agência de publicidade contratada, por ter elaborado a campanha.",
+      "de cada psicólogo individualmente, não se aplicando as diretrizes da nota a pessoas jurídicas."
+    ],
+    "gabarito": 1,
+    "comentario": "No tópico 'Pessoas Jurídicas', a NT 1/2022 afirma que as PJs que prestam serviços de Psicologia também devem seguir as diretrizes da nota quando houver publicidade sobre as atividades de psicólogas e psicólogos, 'sendo função da Responsável Técnica e do Responsável Técnico a observância do cumprimento das normativas mencionadas'. Não há aprovação prévia pelo CRP, e as diretrizes se aplicam, sim, às PJs.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-nt01-2022-008",
+    "disciplina": "legislacao",
+    "assunto": "leg-nt01-2022",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2022/06/SEI_CFP-0612475-Nota-Tecnica.pdf"
+    },
+    "enunciado": "Considere as afirmativas sobre a Nota Técnica CFP nº 1/2022.\nI. A psicóloga pode destacar em sua publicidade, por exemplo, sua formação, o público que atende, a abordagem teórica e a metodologia de trabalho.\nII. É admitida a previsão de resultados na publicidade, desde que fundamentada em estudos científicos citados no anúncio.\nIII. Sendo a graduação em Psicologia uma formação generalista, cabe à profissional refletir se está capacitada pessoal, teórica e tecnicamente para oferecer determinado serviço.\nEstá correto o que se afirma em:",
+    "alternativas": [
+      "I, apenas.",
+      "II, apenas.",
+      "I e II, apenas.",
+      "II e III, apenas.",
+      "I e III, apenas."
+    ],
+    "gabarito": 4,
+    "comentario": "I está correta: a NT 1/2022 cita expressamente formação, público, abordagem e metodologia como conteúdos que podem ser destacados. II está errada: a nota orienta que a publicidade não tenha 'previsão taxativa de resultados', prática vedada pelo CEPP, sem a exceção mencionada. III está correta: a nota lembra que a graduação é generalista e que cabe à profissional refletir sobre sua capacitação pessoal, teórica e técnica.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-nt01-2022-009",
+    "disciplina": "legislacao",
+    "assunto": "leg-nt01-2022",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2022/06/SEI_CFP-0612475-Nota-Tecnica.pdf"
+    },
+    "enunciado": "De acordo com a Nota Técnica CFP nº 1/2022, ao realizar publicidade profissional, tanto em meio físico quanto virtual, a psicóloga deverá seguir rigorosamente o Código de Ética Profissional do Psicólogo e também:",
+    "alternativas": [
+      "a Consolidação das Resoluções (Resolução CFP nº 3/2007, arts. 53 a 58) e o Código de Proteção e Defesa do Consumidor (Lei nº 8.078/1990).",
+      "a Resolução CFP nº 6/2019 e o Marco Civil da Internet (Lei nº 12.965/2014).",
+      "a Resolução CFP nº 31/2022 e o Código de Proteção e Defesa do Consumidor (Lei nº 8.078/1990).",
+      "a Consolidação das Resoluções (Resolução CFP nº 3/2007, arts. 53 a 58) e o Código Brasileiro de Autorregulamentação Publicitária, editado pelo CONAR.",
+      "a Lei nº 4.119/1962 e as normas do Conselho Nacional de Autorregulamentação Publicitária."
+    ],
+    "gabarito": 0,
+    "comentario": "No tópico 'Publicidade nas Redes Sociais: CEPP', a NT 1/2022 determina que a psicóloga siga rigorosamente os Princípios Fundamentais e artigos do CEPP, 'e também da Consolidação das Resoluções (Resolução CFP nº 3, de 12 de fevereiro de 2007, arts. 53 a 58)', além do Código de Proteção e Defesa do Consumidor (Lei nº 8.078/1990). As demais combinações trocam uma das normas expressamente indicadas.",
+    "dificuldade": 3,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-nt01-2022-010",
+    "disciplina": "legislacao",
+    "assunto": "leg-nt01-2022",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2022/06/SEI_CFP-0612475-Nota-Tecnica.pdf"
+    },
+    "enunciado": "Para ilustrar seu trabalho, uma psicóloga publicou em seu perfil profissional uma \"análise de caso\" com idade, bairro, profissão e detalhes da história de uma paciente, sem citar o nome. Conforme a Nota Técnica CFP nº 1/2022, a conduta:",
+    "alternativas": [
+      "é regular, pois a omissão do nome afasta a identificação da pessoa atendida.",
+      "é regular, desde que a publicação tenha finalidade educativa e científica.",
+      "é irregular apenas se a paciente for criança ou adolescente, em razão do art. 17 do ECA, já que para adultos basta omitir o nome e as iniciais.",
+      "é irregular somente se a publicação for patrocinada ou impulsionada.",
+      "é irregular, pois a publicidade não deve conter análise de caso que, de alguma forma, identifique a pessoa atendida."
+    ],
+    "gabarito": 4,
+    "comentario": "A NT 1/2022 orienta que a profissional, em sua publicidade, não utilize 'diagnóstico psicológico, análise de caso, aconselhamento ou orientação psicológica que, de alguma forma, identifiquem a pessoa atendida, sob pena de violação do sigilo (art. 9º do CEPP) e da Resolução CFP nº 3/2007 (art. 54)'. Dados como idade, bairro e profissão podem identificar a pessoa mesmo sem o nome. A vedação vale para qualquer idade e independe de impulsionamento.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-nt01-2022-011",
+    "disciplina": "legislacao",
+    "assunto": "leg-nt01-2022",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2022/06/SEI_CFP-0612475-Nota-Tecnica.pdf"
+    },
+    "enunciado": "Um psicólogo utiliza seu perfil pessoal em rede social, onde também publica fotos de família e opiniões variadas, para divulgar seus serviços profissionais. Sobre essa situação, a Nota Técnica CFP nº 1/2022:",
+    "alternativas": [
+      "proíbe a publicidade profissional em perfil pessoal, exigindo perfil exclusivamente profissional.",
+      "recomenda cuidado ao fazê-la, para que não haja confusão quanto às informações divulgadas.",
+      "permite a publicidade no perfil pessoal somente se o perfil for configurado como privado.",
+      "exige que o perfil pessoal seja previamente cadastrado no CRP para fins de fiscalização.",
+      "considera a prática indiferente, pois as publicações pessoais não se submetem a nenhuma reflexão ética."
+    ],
+    "gabarito": 1,
+    "comentario": "A NT 1/2022 dispõe: 'Caso a publicidade profissional seja feita em seu perfil pessoal, o CFP recomenda cuidado ao fazê-la para que não haja confusão quanto às informações divulgadas', e orienta analisar as fronteiras entre o espaço profissional e o pessoal. Não há proibição, exigência de perfil privado ou cadastro no CRP; e a nota destaca justamente que publicações associadas à imagem do profissional merecem atenção ética.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-nt01-2022-012",
+    "disciplina": "legislacao",
+    "assunto": "leg-nt01-2022",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2022/06/SEI_CFP-0612475-Nota-Tecnica.pdf"
+    },
+    "enunciado": "Questionada pelo CRP sobre conteúdos sem base científica que publicava ao se apresentar como psicóloga, uma profissional alegou exercer sua liberdade de expressão. À luz da Nota Técnica CFP nº 1/2022, assinale a afirmativa correta.",
+    "alternativas": [
+      "A liberdade de expressão afasta a incidência do CEPP sobre qualquer conteúdo publicado em redes sociais.",
+      "A liberdade de expressão é garantida, mas não se pode prescindir da ética profissional quando a pessoa se anuncia como psicóloga e divulga seu trabalho.",
+      "O pronunciamento de psicólogas em redes sociais não tem diretrizes próprias no CEPP, regendo-se apenas pela legislação civil e pelos termos de uso de cada plataforma.",
+      "O CEPP só alcança publicações feitas em veículos de comunicação tradicionais, como rádio, TV e jornal.",
+      "A liberdade de expressão de psicólogas é restrita, sendo vedada qualquer manifestação pública fora do consultório."
+    ],
+    "gabarito": 1,
+    "comentario": "A NT 1/2022 salienta que o pronunciamento profissional tem diretrizes próprias no art. 19 do CEPP, que responsabiliza a profissional pela disseminação de informações qualificadas sobre temas da Psicologia. A nota afirma que 'a liberdade de expressão de qualquer cidadão é garantida. Contudo, não se pode prescindir da ética profissional quando se trata do exercício da Psicologia, inclusive quando a pessoa se anuncia como psicóloga'.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-nt01-2022-013",
+    "disciplina": "legislacao",
+    "assunto": "leg-nt01-2022",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2022/06/SEI_CFP-0612475-Nota-Tecnica.pdf"
+    },
+    "enunciado": "Considere as afirmativas sobre a Nota Técnica CFP nº 1/2022.\nI. A publicidade profissional não deve propor atividades que sejam atribuições privativas de outras categorias profissionais, conforme o art. 20 do CEPP.\nII. Práticas que apresentem divergências com a ética profissional devem ser evidentemente separadas dos serviços de Psicologia, inclusive de sua publicidade.\nIII. A psicóloga deve submeter ao CRP, para aprovação prévia, os meios de comunicação e as plataformas que utilizará na divulgação.\nEstá correto o que se afirma em:",
+    "alternativas": [
+      "I, apenas.",
+      "III, apenas.",
+      "I e III, apenas.",
+      "I e II, apenas.",
+      "I, II e III."
+    ],
+    "gabarito": 3,
+    "comentario": "I e II reproduzem a NT 1/2022: a publicidade não deve propor atividades privativas de outras categorias (art. 20 do CEPP) e práticas divergentes da ética devem ser evidentemente separadas dos serviços de Psicologia e de sua divulgação. III está errada: a nota afirma que a psicóloga tem autonomia para escolher os meios de divulgação, avaliando os mais adequados eticamente e assumindo a responsabilidade por essa decisão, sem aprovação prévia do CRP.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-nt01-2022-014",
+    "disciplina": "legislacao",
+    "assunto": "leg-nt01-2022",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2022/06/SEI_CFP-0612475-Nota-Tecnica.pdf"
+    },
+    "enunciado": "Entre os pontos de discussão sobre o uso de ferramentas digitais destacados na introdução da Nota Técnica CFP nº 1/2022, NÃO se inclui:",
+    "alternativas": [
+      "a perenidade das informações veiculadas pelos profissionais.",
+      "a possibilidade de conexão dos serviços psicológicos com informações em desacordo com os aspectos éticos da profissão.",
+      "publicações associadas à imagem do profissional na internet que não sejam adequadas ao exercício profissional.",
+      "a obrigatoriedade de manutenção de perfil profissional verificado pela plataforma digital.",
+      "a importância de manejar essas informações com conhecimento adequado das ferramentas digitais e dos riscos éticos envolvidos."
+    ],
+    "gabarito": 3,
+    "comentario": "A introdução da NT 1/2022 lista quatro pontos: (1) a perenidade das informações; (2) a possibilidade de conexão dos serviços com informações em desacordo com a ética; (3) publicações associadas à imagem do profissional inadequadas ao exercício profissional; e (4) a importância de manejar as informações com conhecimento das ferramentas e dos riscos éticos. Não há qualquer exigência de perfil 'verificado' pela plataforma.",
+    "dificuldade": 2,
+    "anulada": false
+  }
+]

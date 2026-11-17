@@ -1,0 +1,254 @@
+[
+  {
+    "id": "aut-rlm-numeros-001",
+    "disciplina": "rlm",
+    "assunto": "rlm-numeros",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "O valor de uma sessão de psicoterapia era R$ 200,00. Ele sofreu um aumento de 15% e, meses depois, o novo valor teve um desconto de 10%. O valor final da sessão passou a ser:",
+    "alternativas": [
+      "R$ 195,00",
+      "R$ 200,00",
+      "R$ 205,00",
+      "R$ 207,00",
+      "R$ 210,00"
+    ],
+    "gabarito": 3,
+    "comentario": "Aumentos e descontos sucessivos se multiplicam: 200 × 1,15 = 230; 230 × 0,90 = 207. Não se pode simplesmente fazer 15% − 10% = 5% (daria R$ 210,00), porque o desconto incide sobre o valor já aumentado.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-rlm-numeros-002",
+    "disciplina": "rlm",
+    "assunto": "rlm-numeros",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Um preço sofreu um aumento de 20% e, em seguida, uma redução de 20%. Em relação ao preço inicial, o preço final teve:",
+    "alternativas": [
+      "redução de 4%.",
+      "redução de 2%.",
+      "nenhuma variação.",
+      "aumento de 2%.",
+      "aumento de 4%."
+    ],
+    "gabarito": 0,
+    "comentario": "Fator total: 1,20 × 0,80 = 0,96, ou seja, o preço final é 96% do inicial, uma redução de 4%. A ideia de que +20% e −20% se anulam é a armadilha clássica: a redução incide sobre uma base maior.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-rlm-numeros-003",
+    "disciplina": "rlm",
+    "assunto": "rlm-numeros",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Um psicólogo dedica 1/3 da sua carga horária semanal a atendimentos, 1/4 a supervisões e as 10 horas restantes a estudo. A carga horária semanal desse psicólogo é de:",
+    "alternativas": [
+      "20 horas",
+      "24 horas",
+      "30 horas",
+      "36 horas",
+      "40 horas"
+    ],
+    "gabarito": 1,
+    "comentario": "Atendimentos e supervisões ocupam 1/3 + 1/4 = 7/12 da carga; restam 5/12, que correspondem a 10 horas. Logo, a carga total é 10 ÷ (5/12) = 10 × 12/5 = 24 horas. Conferência: 8 h + 6 h + 10 h = 24 h.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-rlm-numeros-004",
+    "disciplina": "rlm",
+    "assunto": "rlm-numeros",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Três grupos terapêuticos se reúnem em um mesmo centro: o primeiro a cada 6 dias, o segundo a cada 8 dias e o terceiro a cada 10 dias. Se hoje os três se reuniram, a próxima vez em que voltarão a se reunir no mesmo dia será daqui a:",
+    "alternativas": [
+      "24 dias",
+      "48 dias",
+      "60 dias",
+      "120 dias",
+      "480 dias"
+    ],
+    "gabarito": 3,
+    "comentario": "Procura-se o MMC(6, 8, 10). 6 = 2·3, 8 = 2³, 10 = 2·5 → MMC = 2³·3·5 = 120 dias. O produto 6·8·10 = 480 também é múltiplo comum, mas não é o menor.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-rlm-numeros-005",
+    "disciplina": "rlm",
+    "assunto": "rlm-numeros",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Uma equipe vai montar kits de divulgação idênticos com 84 folhetos e 126 cartazes, sem sobrar material e com o maior número possível de kits. Cada kit terá, ao todo, quantos itens (folhetos mais cartazes)?",
+    "alternativas": [
+      "3",
+      "5",
+      "6",
+      "7",
+      "14"
+    ],
+    "gabarito": 1,
+    "comentario": "O maior número de kits é o MDC(84, 126) = 42 (84 = 2²·3·7; 126 = 2·3²·7; MDC = 2·3·7 = 42). Cada kit terá 84/42 = 2 folhetos e 126/42 = 3 cartazes, ou seja, 5 itens.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-rlm-numeros-006",
+    "disciplina": "rlm",
+    "assunto": "rlm-numeros",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Em um serviço-escola, 40% das pessoas atendidas são crianças, e 25% dessas crianças têm diagnóstico de TDAH. Em relação ao total de pessoas atendidas, as crianças com diagnóstico de TDAH representam:",
+    "alternativas": [
+      "10%",
+      "15%",
+      "25%",
+      "40%",
+      "65%"
+    ],
+    "gabarito": 0,
+    "comentario": "Percentual de percentual se multiplica: 25% de 40% = 0,25 × 0,40 = 0,10 = 10% do total. Somar (65%) ou subtrair (15%) os percentuais não tem sentido, pois eles se referem a bases diferentes.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-rlm-numeros-007",
+    "disciplina": "rlm",
+    "assunto": "rlm-numeros",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "O valor da expressão 0,25 × 0,4 + 1,5 ÷ 0,3 é:",
+    "alternativas": [
+      "0,6",
+      "1,6",
+      "5,1",
+      "5,4",
+      "6,0"
+    ],
+    "gabarito": 2,
+    "comentario": "Multiplicação e divisão vêm antes da adição: 0,25 × 0,4 = 0,1 e 1,5 ÷ 0,3 = 5. Somando: 0,1 + 5 = 5,1.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-rlm-numeros-008",
+    "disciplina": "rlm",
+    "assunto": "rlm-numeros",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "O número de inscritos em um curso de extensão passou de 240 para 312. O aumento percentual no número de inscritos foi de:",
+    "alternativas": [
+      "7,2%",
+      "23%",
+      "28%",
+      "30%",
+      "72%"
+    ],
+    "gabarito": 3,
+    "comentario": "Aumento absoluto: 312 − 240 = 72. Aumento relativo: 72/240 = 0,30 = 30%. Calcular 72/312 ≈ 23% seria usar a base errada (o valor final).",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-rlm-numeros-009",
+    "disciplina": "rlm",
+    "assunto": "rlm-numeros",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Após obter um desconto de 25%, uma pessoa pagou R$ 150,00 por um livro de psicologia. O preço do livro sem desconto era:",
+    "alternativas": [
+      "R$ 180,00",
+      "R$ 187,50",
+      "R$ 200,00",
+      "R$ 210,00",
+      "R$ 225,00"
+    ],
+    "gabarito": 2,
+    "comentario": "Com 25% de desconto paga-se 75% do preço: 0,75 × P = 150 → P = 200. Acrescentar 25% ao valor pago (150 × 1,25 = 187,50) é erro comum, pois o desconto foi calculado sobre o preço original.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-rlm-numeros-010",
+    "disciplina": "rlm",
+    "assunto": "rlm-numeros",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "O menor número inteiro positivo que deixa resto 3 quando dividido por 5 e resto 2 quando dividido por 4 é:",
+    "alternativas": [
+      "8",
+      "13",
+      "18",
+      "23",
+      "28"
+    ],
+    "gabarito": 2,
+    "comentario": "Números com resto 3 na divisão por 5: 3, 8, 13, 18, 23, 28… Testando a divisão por 4: 3 → resto 3; 8 → resto 0; 13 → resto 1; 18 → resto 2. Logo, 18 é o menor. (23 tem resto 3 e 28 tem resto 0 na divisão por 4.)",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-rlm-numeros-011",
+    "disciplina": "rlm",
+    "assunto": "rlm-numeros",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "No banco de horas de uma servidora, o saldo inicial era de −6 horas. Ao longo do mês, foram registrados, em sequência: +4 h, +3 h, −5 h e +7 h. O saldo final do banco de horas é:",
+    "alternativas": [
+      "−5 h",
+      "−3 h",
+      "−1 h",
+      "+1 h",
+      "+3 h"
+    ],
+    "gabarito": 4,
+    "comentario": "−6 + 4 = −2; −2 + 3 = +1; +1 − 5 = −4; −4 + 7 = +3. O saldo final é de +3 horas.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-rlm-numeros-012",
+    "disciplina": "rlm",
+    "assunto": "rlm-numeros",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Entre os números 3/5, 0,58, 5/8, 0,62 e 2/3, o maior é:",
+    "alternativas": [
+      "3/5",
+      "0,58",
+      "5/8",
+      "0,62",
+      "2/3"
+    ],
+    "gabarito": 4,
+    "comentario": "Convertendo para decimais: 3/5 = 0,6; 5/8 = 0,625; 2/3 ≈ 0,667. Comparando 0,6; 0,58; 0,625; 0,62 e 0,667, o maior é 2/3.",
+    "dificuldade": 1,
+    "anulada": false
+  }
+]

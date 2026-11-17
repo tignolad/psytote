@@ -1,0 +1,252 @@
+[
+ {
+  "id": "fgv-pgmrio-2025-ana-1",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "PGM-Rio",
+   "ano": 2025,
+   "cargo": "Analista de Procuradoria – Especialidade Administrativa",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-de-procuradoria-especialidade-administrativa-pgmcns203-tipo-1.pdf"
+  },
+  "enunciado": "Assinale a frase que mostra uma imagem positiva do que chamamos “imaginação”.",
+  "alternativas": [
+   "A imaginação desgoverna o mundo.",
+   "A imaginação não faz castelos no ar, mas transforma cabanas em castelos no ar.",
+   "A imaginação humana é imensamente mais pobre do que a realidade.",
+   "A imaginação é tão mais robusta quanto mais fraco é o raciocínio.",
+   "A imaginação nos mostra que a humanidade não consegue suportar muita realidade."
+  ],
+  "gabarito": 1,
+  "comentario": "Em B, a imaginação aparece como força transformadora: ela não cria do nada (\"castelos no ar\"), mas engrandece o que é humilde (\"transforma cabanas em castelos\"), imagem claramente positiva. Em A, ela \"desgoverna\" o mundo; em C, é \"mais pobre\" que a realidade; em D, cresce à custa da fraqueza do raciocínio; em E, aparece ligada à incapacidade humana de suportar a realidade — todas imagens negativas ou depreciativas.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-pgmrio-2025-ana-2",
+  "disciplina": "portugues",
+  "assunto": "pt-semantica",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "PGM-Rio",
+   "ano": 2025,
+   "cargo": "Analista de Procuradoria – Especialidade Administrativa",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-de-procuradoria-especialidade-administrativa-pgmcns203-tipo-1.pdf"
+  },
+  "enunciado": "Quando falamos ou escrevemos, sujeitamo-nos a equívocos entre palavras que apresentam certa afinidade de forma ou de sentido. Assinale a opção em que esse problema aparece, em uma frase propositalmente adulterada.",
+  "alternativas": [
+   "“Carolina é como ela se chama: os apelidos manda a minha proverbial discrição calá-los.” (Camilo Castelo Branco)",
+   "“Ultimamente a goiabada mole de bananas, manufatura econômica do despenseiro.” (Raul Pompeia)",
+   "“Havia para mim um regime de exceção.” (J. Lins do Rego)",
+   "“O pior é que ele dispendia o ganho e mais.” (Machado de Assis)",
+   "“A figura do general é ainda um intricado enigma.” (Euclides da Cunha)"
+  ],
+  "gabarito": 3,
+  "comentario": "A questão trata de parônimos. Em D, a forma \"dispendia\" é a adulteração: o verbo é \"despender\" (gastar), logo o correto seria \"despendia\"; \"dispêndio\" é o substantivo, mas o verbo se escreve com \"e\". Nas demais, as palavras estão empregadas corretamente: \"despenseiro\" (quem cuida da despensa), \"exceção\" (com ç) e \"intricado\" (variante legítima de \"intrincado\").",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-pgmrio-2025-ana-3",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "PGM-Rio",
+   "ano": 2025,
+   "cargo": "Analista de Procuradoria – Especialidade Administrativa",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-de-procuradoria-especialidade-administrativa-pgmcns203-tipo-1.pdf"
+  },
+  "enunciado": "Leia com atenção o trecho a seguir.\nAs ilusões caem uma após a outra, como as cascas de uma fruta, e a fruta é a experiência. Seu sabor é amargo; no entanto, ela possui algo acre que a fortifica.\nG. de Nerval, escritor francês, 1808-1855, Angelique.\nIndique a afirmativa correta quanto à sua significação ou estruturação.",
+  "alternativas": [
+   "Na vida, as experiências não trazem boas consequências.",
+   "A metáfora “fruta” é empregada, na frase, como termo de comparação para as ilusões.",
+   "As cascas das frutas representam as passageiras ilusões, que passam rápido na vida.",
+   "O conectivo “no entanto” opõe ilusões à experiência.",
+   "No segmento “a fortifica”, o pronome “a” substitui o substantivo “fruta”."
+  ],
+  "gabarito": 2,
+  "comentario": "Na comparação do trecho, as ilusões são as cascas que caem uma após a outra, ou seja, são passageiras, e o que sobra (a fruta) é a experiência — por isso C está correta. A erra porque o texto diz que a experiência, embora amarga, \"fortifica\"; B erra porque \"fruta\" representa a experiência, não as ilusões; D erra porque \"no entanto\" opõe o sabor amargo à qualidade de fortificar; E erra porque, na leitura da banca, o \"a\" de \"a fortifica\" retoma \"ela\", isto é, a experiência (o sentido real da metáfora), e não o substantivo \"fruta\".",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-pgmrio-2025-ana-4",
+  "disciplina": "portugues",
+  "assunto": "pt-semantica",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "PGM-Rio",
+   "ano": 2025,
+   "cargo": "Analista de Procuradoria – Especialidade Administrativa",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-de-procuradoria-especialidade-administrativa-pgmcns203-tipo-1.pdf"
+  },
+  "enunciado": "Assinale a afirmativa em que se trocou adequadamente uma oração adjetiva por um adjetivo de valor equivalente.",
+  "alternativas": [
+   "O estudo é uma atividade que não para nunca. / descontínua",
+   "É para muitos um sucesso que ficou pouco tempo. / alternativo",
+   "O maior problema é uma doença que se prolonga por muito tempo. / inata",
+   "O objetivo é um governo que só dura certo tempo. / instável",
+   "O concurso público é um esforço que dura pouco. / efêmero"
+  ],
+  "gabarito": 4,
+  "comentario": "\"Que dura pouco\" equivale exatamente a \"efêmero\" (passageiro, de curta duração), por isso E está correta. Em A, \"que não para nunca\" seria \"contínua/incessante\", o contrário de \"descontínua\"; em B, \"que ficou pouco tempo\" seria \"passageiro/efêmero\", não \"alternativo\"; em C, \"que se prolonga por muito tempo\" é \"crônica\", e não \"inata\" (de nascença); em D, \"que só dura certo tempo\" é \"temporário\", e não \"instável\".",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-pgmrio-2025-ana-5",
+  "disciplina": "portugues",
+  "assunto": "pt-sintaxe",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "PGM-Rio",
+   "ano": 2025,
+   "cargo": "Analista de Procuradoria – Especialidade Administrativa",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-de-procuradoria-especialidade-administrativa-pgmcns203-tipo-1.pdf"
+  },
+  "enunciado": "Todas as frases a seguir estão descritas em discurso indireto. Assinale a opção em que a reescritura dessa frase, em discurso direto, está correta.",
+  "alternativas": [
+   "No primeiro dia de aula, o professor de artes marciais disse aos alunos que exigia ordem e disciplina. / Eu exijo ordem e disciplina.",
+   "O piloto declarou na investigação que seus reflexos não funcionaram porque estava cansado demais. / Os reflexos não funcionam porque estou cansado demais.",
+   "Quando passei por ele, o aventureiro estava dizendo que tinha valido a pena voar, ainda que fosse para descobrir novos aspectos de coisas conhecidas. / Valera a pena voar, ainda que tivesse sido apenas para descobrir novos aspectos de coisas conhecidas.",
+   "O médico disse ao pai do menino que seu filho precisava realizar uma cirurgia. / Meu filho precisa realizar uma cirurgia.",
+   "Meu pai me tinha dito que não estava contente comigo. / Eu não estive contente com você, meu filho."
+  ],
+  "gabarito": 0,
+  "comentario": "Na passagem do indireto para o direto, o pretérito imperfeito (\"exigia\") volta ao presente (\"exijo\") e a 3ª pessoa do relato vira a 1ª do falante — exatamente o que ocorre em A. Em B, o piloto diria \"Meus reflexos não funcionaram porque eu estava cansado demais\": o fato é passado, e a reescrita o passou indevidamente para o presente; em C, o mais-que-perfeito \"tinha valido\" corresponderia, no discurso direto, a \"Valeu a pena voar\", e não a \"Valera\"; em D, o médico diria ao pai \"Seu filho precisa…\", e não \"Meu filho\"; em E, \"não estava contente\" corresponderia a \"Não estou contente com você\", e não a \"não estive\".",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-pgmrio-2025-ana-6",
+  "disciplina": "portugues",
+  "assunto": "pt-sintaxe",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "PGM-Rio",
+   "ano": 2025,
+   "cargo": "Analista de Procuradoria – Especialidade Administrativa",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-de-procuradoria-especialidade-administrativa-pgmcns203-tipo-1.pdf"
+  },
+  "enunciado": "Todas as opções a seguir mostram a substituição do termo sublinhado por um pronome pessoal. Identifique aquela em que essa substituição mostra-se inadequada em relação à norma culta da língua. [sublinhado = [ ]]",
+  "alternativas": [
+   "Como o automóvel estivesse escangalhado, solicitamos à oficina que consertasse [o automóvel]. / que o consertasse.",
+   "Fizemos o bem a todo o mundo, mas não fizemos o bem [a nós mesmos]. / não fizemo-nos o bem.",
+   "Depois de analisar a secretaria, o diretor do colégio conclui que era necessário modificar [a secretaria]. / modificá-la.",
+   "O professor mudou-se, por isso o aluno não pôde entregar o trabalho [ao professor]. / não lhe pode entregar o trabalho.",
+   "Aquele aluno é desatento. Precisamos sempre lembrar [ao aluno] os seus trabalhos escolares. / lhe lembrar os seus trabalhos escolares."
+  ],
+  "gabarito": 1,
+  "comentario": "Em B, a palavra negativa \"não\" é fator de próclise; portanto, a forma culta seria \"não nos fizemos o bem\", e a ênclise \"não fizemo-nos\" é inadequada. Nas demais, a substituição está de acordo com a norma: objeto direto \"o automóvel\" → \"o\" com próclise atraída por \"que\" (A); \"modificar a secretaria\" → \"modificá-la\" (C); objetos indiretos \"ao professor\" e \"ao aluno\" → \"lhe\" (D e E), com próclise após \"não\" em D.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-pgmrio-2025-ana-7",
+  "disciplina": "portugues",
+  "assunto": "pt-sintaxe",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "PGM-Rio",
+   "ano": 2025,
+   "cargo": "Analista de Procuradoria – Especialidade Administrativa",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-de-procuradoria-especialidade-administrativa-pgmcns203-tipo-1.pdf"
+  },
+  "enunciado": "Nas frases a seguir, há alguns casos de abuso no uso dos pronomes. Assinale a opção cuja construção está correta quanto ao emprego pronominal.",
+  "alternativas": [
+   "Você, o que você quer é que eu faça o trabalho.",
+   "É por isso que você está preocupado.",
+   "Este automóvel, temos que enviá-lo para a oficina.",
+   "As mãos, não devemos movimentá-las demais ao falar.",
+   "Seus cavalos, ele não os tem bem treinados."
+  ],
+  "gabarito": 1,
+  "comentario": "B não apresenta repetição pronominal: \"é… que\" é apenas expressão de realce, e \"você\" aparece uma única vez. Nas demais há pleonasmo pronominal (anacoluto/topicalização seguida de retomada): em A, \"Você\" é repetido; em C, \"Este automóvel\" é retomado por \"-lo\"; em D, \"As mãos\" é retomado por \"-las\"; em E, \"Seus cavalos\" é retomado por \"os\". São construções de abuso no uso de pronomes, que é o que o enunciado aponta.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-pgmrio-2025-ana-8",
+  "disciplina": "portugues",
+  "assunto": "pt-semantica",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "PGM-Rio",
+   "ano": 2025,
+   "cargo": "Analista de Procuradoria – Especialidade Administrativa",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-de-procuradoria-especialidade-administrativa-pgmcns203-tipo-1.pdf"
+  },
+  "enunciado": "O pleonasmo vicioso denota uma repetição desnecessária de palavras ou ideias, o que gera redundância na comunicação. Assinale a frase em que ocorre esse vício de linguagem.",
+  "alternativas": [
+   "Estas são suas obras póstumas, que foram publicadas após sua morte.",
+   "A questão do desarmamento não se resolverá antes de um século.",
+   "O sargento, com seu novo uniforme, exibe-se para o público.",
+   "Suba lá para o segundo andar e diga a Pedro que desça.",
+   "O avião se deslocava a grande velocidade."
+  ],
+  "gabarito": 0,
+  "comentario": "\"Póstumas\" já significa \"publicadas após a morte do autor\"; acrescentar \"que foram publicadas após sua morte\" repete a ideia sem acréscimo de informação — pleonasmo vicioso (A). Nas demais não há redundância: B indica prazo, C e E apenas descrevem a cena, e em D \"suba lá para o segundo andar\" indica direção e destino, sem o vício clássico de \"subir para cima\".",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-pgmrio-2025-ana-9",
+  "disciplina": "portugues",
+  "assunto": "pt-morfologia",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "PGM-Rio",
+   "ano": 2025,
+   "cargo": "Analista de Procuradoria – Especialidade Administrativa",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-de-procuradoria-especialidade-administrativa-pgmcns203-tipo-1.pdf"
+  },
+  "enunciado": "Nas frases a seguir, extraídas do livro A alma encantadora das ruas (1908), de João do Rio, a palavra “estrangeiro” está destacada. Assinale aquela em que o termo exemplifica a classe do substantivo.",
+  "alternativas": [
+   "Os ferros retiniam sempre a música sinistra. Encostados à amurada, damas roçagando sedas e cavalheiros estrangeiros de smoking, debochavam, em inglês, as belezas da nossa baía.",
+   "Todos nós conhecemos o tipo do rapaz do Largo do Machado: cabelo à americana, roupas amplas à inglesa, lencinho minúsculo no punho largo, bengala de volta, pretensões às línguas estrangeiras, calças dobradas como Eduardo VII.",
+   "Se isso era possível em 1880! Depois, quer saber? A República trouxe a Bolsa, uma porção de cocheiros estrangeiros, uns gringos e ingleses de cara raspada, com uns carros que até nem eu lhes sabia o nome!",
+   "Nesse tempo não havia a associação, não havia o sentimento de classe e os pobres estrangeiros pegados na Marítima trabalhavam por três mil réis dez horas de sol a sol.",
+   "Esse esquisito sentimento dos poetas da calçada tem uma sequência lógica – o jacobinismo pândego, a crítica acerba, toda de alto, com desprezo das coisas estrangeiras."
+  ],
+  "gabarito": 3,
+  "comentario": "Em D, \"estrangeiros\" é o núcleo do sujeito (\"os pobres estrangeiros… trabalhavam\"), determinado pelo artigo \"os\" e caracterizado pelo adjetivo \"pobres\" — portanto, substantivo. Nas demais, \"estrangeiro(s/as)\" caracteriza um substantivo, funcionando como adjetivo: \"cavalheiros estrangeiros\" (A), \"línguas estrangeiras\" (B), \"cocheiros estrangeiros\" (C) e \"coisas estrangeiras\" (E).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-pgmrio-2025-ana-10",
+  "disciplina": "portugues",
+  "assunto": "pt-pontuacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "PGM-Rio",
+   "ano": 2025,
+   "cargo": "Analista de Procuradoria – Especialidade Administrativa",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-de-procuradoria-especialidade-administrativa-pgmcns203-tipo-1.pdf"
+  },
+  "enunciado": "Entre as frases a seguir, indique aquela que mostra um erro de pontuação no que diz respeito ao emprego da vírgula.",
+  "alternativas": [
+   "Você terá alcançado a excelência como líder quando as pessoas o seguirem a qualquer lugar, nem que seja por curiosidade.",
+   "Um líder tem que ser sincero, para que acreditem nele. Quando perde a credibilidade, por mais competente que seja, tudo fica perdido.",
+   "Evite que seu ego fique muito próximo de sua posição para que, quando sua posição cair, seu ego não vá junto.",
+   "Na história de qualquer problema, há um momento em que ele é suficientemente grande para ser identificado, mas pequeno demais para ser resolvido.",
+   "Se você não respeitar os membros de sua equipe, eles também não tratarão bem outras pessoas."
+  ],
+  "gabarito": 1,
+  "comentario": "A banca apontou B como a frase com erro: a oração final \"para que acreditem nele\" vem na ordem direta, logo após a principal, e está intimamente ligada a ela, razão pela qual a banca considerou a vírgula indevida. Nas demais, as vírgulas estão justificadas: em A, isola-se a oração concessiva \"nem que seja por curiosidade\"; em C, intercala-se a oração temporal \"quando sua posição cair\"; em D, separa-se o adjunto adverbial deslocado e a oração coordenada com \"mas\"; em E, a oração condicional anteposta.",
+  "dificuldade": 2,
+  "anulada": false
+ }
+]

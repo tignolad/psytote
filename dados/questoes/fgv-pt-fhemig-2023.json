@@ -1,0 +1,252 @@
+[
+ {
+  "id": "fgv-fhemig-2023-psi-1",
+  "disciplina": "portugues",
+  "assunto": "pt-semantica",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "FHEMIG",
+   "ano": 2023,
+   "cargo": "Analista de Gestão e Assistência à Saúde – Psicólogo Clínico",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-de-gestao-e-assistencia-a-saude-agas-psicologo-clinico-nivel-icns118-tipo-1.pdf"
+  },
+  "enunciado": "Nas opções a seguir, há a indicação de uma figura de linguagem com um exemplo correspondente.\nAssinale a opção em que a indicação do exemplo está correta.",
+  "alternativas": [
+   "Personificação: Por mim, teria evitado casar até mesmo com a sabedoria, caso ela me quisesse.",
+   "Antítese: A esposa diligente é a coroa do seu marido; e a que lhe causa problemas é o câncer dos seus ossos.",
+   "Eufemismo: Um marido nunca deve ser o primeiro a pegar no sono nem o último a acordar.",
+   "Paradoxo: Estou para realizar minha última viagem, um grande salto no escuro.",
+   "Hipérbole: O infinito é uma esfera infinita, cujo centro está em toda parte e a circunferência em nenhum lugar."
+  ],
+  "gabarito": 0,
+  "comentario": "Em (A), a sabedoria é tratada como uma pessoa que poderia “querer” casar com alguém: personificação (prosopopeia). Nas demais, a figura indicada não corresponde ao exemplo: (B) constrói-se sobretudo por metáforas (“coroa”, “câncer dos seus ossos”); (C) é um conselho em linguagem literal, sem eufemismo; (D) “grande salto no escuro” é eufemismo para a morte, não paradoxo; (E) a esfera infinita cujo centro está em toda parte é um paradoxo, não hipérbole.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-fhemig-2023-psi-2",
+  "disciplina": "portugues",
+  "assunto": "pt-morfologia",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "FHEMIG",
+   "ano": 2023,
+   "cargo": "Analista de Gestão e Assistência à Saúde – Psicólogo Clínico",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-de-gestao-e-assistencia-a-saude-agas-psicologo-clinico-nivel-icns118-tipo-1.pdf"
+  },
+  "enunciado": "Biscoito significa “cozido duas vezes” (bis+ coctu), pois era, na verdade, o que acontecia: coziam a massa duas vezes para que, endurecida pela desidratação, pudesse durar mais tempo, o que era muito útil nas viagens demoradas pelo mar. BIS é um radical latino - também assume a forma BI (biforme) ou BA (balança) -, que entra como primeiro elemento na construção de novos vocábulos, com valor semântico de “dois ou duas vezes”.\nAssinale a opção em que, usando esse radical, o vocábulo indicado está correto.",
+  "alternativas": [
+   "Que tem dois pés: bipedestre.",
+   "Que ocorre de dois em dois meses: bimensal.",
+   "Que ocorre uma vez a cada dois anos: bianual.",
+   "Casado com duas esposas: bígamo.",
+   "Que fala duas línguas: biarticulado."
+  ],
+  "gabarito": 3,
+  "comentario": "“Bígamo” é quem está casado com duas pessoas ao mesmo tempo — uso correto do radical bi-. Os demais estão errados: quem tem dois pés é “bípede” (A); o que ocorre de dois em dois meses é “bimestral” (“bimensal” = duas vezes por mês) (B); o que ocorre a cada dois anos é “bienal” (“bianual” = duas vezes por ano) (C); quem fala duas línguas é “bilíngue” (E).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-fhemig-2023-psi-3",
+  "disciplina": "portugues",
+  "assunto": "pt-vocabulario",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "FHEMIG",
+   "ano": 2023,
+   "cargo": "Analista de Gestão e Assistência à Saúde – Psicólogo Clínico",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-de-gestao-e-assistencia-a-saude-agas-psicologo-clinico-nivel-icns118-tipo-1.pdf"
+  },
+  "enunciado": "Assinale a opção em que todos os vocábulos grafados com e ou i estão escritos corretamente.",
+  "alternativas": [
+   "adiante / lampião / crâneo.",
+   "veado / pior / casimira.",
+   "palitó / Pireneus / arrepio.",
+   "irriquieto / digladiar / dilapidar.",
+   "crioulo / pátio / confissionário."
+  ],
+  "gabarito": 1,
+  "comentario": "“Veado”, “pior” e “casimira” estão grafados corretamente. Nas demais há erro: “crânio” (A), “paletó” (C), “irrequieto” (D) e “confessionário” (E).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-fhemig-2023-psi-4",
+  "disciplina": "portugues",
+  "assunto": "pt-sintaxe",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "FHEMIG",
+   "ano": 2023,
+   "cargo": "Analista de Gestão e Assistência à Saúde – Psicólogo Clínico",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-de-gestao-e-assistencia-a-saude-agas-psicologo-clinico-nivel-icns118-tipo-1.pdf"
+  },
+  "enunciado": "“Uns homens sobem por leves como os vapores e gazes, outros como os projetis pela força do engenho e dos talentos.”\nMarquês de Maricá.\nSobre a estruturação dessa frase, assinale a observação incorreta.",
+  "alternativas": [
+   "O termo “Uns” corresponde estruturalmente a “outros”.",
+   "A forma verbal “sobem” está omitida na oração seguinte.",
+   "A preposição “por” tem o valor de “causa”.",
+   "O termo “como os vapores e gases” corresponde estruturalmente a “como os projetis”.",
+   "Os termos “por leves” e “pela força dos engenhos e dos talentos” correspondem-se estrutural e semanticamente."
+  ],
+  "gabarito": 4,
+  "comentario": "A frase tem estrutura paralela: “Uns homens sobem [por leves] [como os vapores e gazes], outros [sobem] [como os projetis] [pela força do engenho e dos talentos]”. Assim, “Uns” corresponde a “outros” (A), o verbo “sobem” está elíptico na segunda oração (B), “por” indica causa (C) e as duas comparações se correspondem (D). A observação incorreta é (E): embora ocupem posições paralelas, “por leves” (sobem por serem leves, sem substância) e “pela força do engenho e dos talentos” (sobem por mérito) têm sentidos opostos, não se correspondem semanticamente.",
+  "dificuldade": 3,
+  "anulada": false
+ },
+ {
+  "id": "fgv-fhemig-2023-psi-5",
+  "disciplina": "portugues",
+  "assunto": "pt-semantica",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "FHEMIG",
+   "ano": 2023,
+   "cargo": "Analista de Gestão e Assistência à Saúde – Psicólogo Clínico",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-de-gestao-e-assistencia-a-saude-agas-psicologo-clinico-nivel-icns118-tipo-1.pdf"
+  },
+  "enunciado": "O processo de reificação corresponde a tratar-se o ser humano como uma coisa, um objeto qualquer. Esse processo aparece nas opções a seguir, à exceção de uma. Assinale-a.",
+  "alternativas": [
+   "As garrafas de refrigerantes, quando retiradas da geladeira, ficam imediatamente suadas.",
+   "Nas grandes cidades, os passageiros vêm espremidos nos ônibus para o trabalho.",
+   "Após a violenta briga no final do show, alguns assistentes tinham a cara amassada.",
+   "Alguns clientes do bar, após beberem por muito tempo, saíam derrapando pelo chão de cerâmica.",
+   "O problema com as crianças é que elas não são retornáveis."
+  ],
+  "gabarito": 0,
+  "comentario": "Reificação é tratar uma pessoa como coisa. Em (A) ocorre o inverso: as garrafas (coisas) recebem uma característica humana (“suadas”), o que é personificação. Nas demais, seres humanos são tratados como objetos: passageiros “espremidos”, “cara amassada”, clientes “derrapando” como veículos e crianças que “não são retornáveis” como embalagens.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-fhemig-2023-psi-6",
+  "disciplina": "portugues",
+  "assunto": "pt-semantica",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "FHEMIG",
+   "ano": 2023,
+   "cargo": "Analista de Gestão e Assistência à Saúde – Psicólogo Clínico",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-de-gestao-e-assistencia-a-saude-agas-psicologo-clinico-nivel-icns118-tipo-1.pdf"
+  },
+  "enunciado": "Assinale a opção em que houve troca indevida entre “em vez de” e “ao invés de”, segundo o emprego tradicional dessas expressões.",
+  "alternativas": [
+   "— Com todos os diabos! será possível que tenha eu inspirado um ódio tão grande e tão rancoroso, que, ao cabo de tanto tempo, ao invés de extinguir-se, recrudesça com mais fúria?!",
+   "Entretanto, se o senhor o acender e insistir em fumá-lo, far-lhe-á ele uma ferida na língua. Desdobre-o! Há de achar dentro, em vez de tabaco, papelão!",
+   "...como também que o carro já não levava a direção de Laranjeiras, porque no Largo da Lapa, ao invés de subir para o Catete, tomou pela rua dos Arcos.",
+   "Eu formei o plano do ataque, e os resultados foram excelentes; apenas, em vez de ser para nós ambos, foram unicamente para ti...",
+   "“— E é exato. Esta existência calma, entre cascatas e mangueiras, em vez de acalmar-me os nervos, tem a propriedade de irritá-los..."
+  ],
+  "gabarito": null,
+  "comentario": "Questão anulada pela banca. Pelo emprego tradicional, “ao invés de” significa “ao contrário de” (ideias opostas) e “em vez de” significa “no lugar de”. A opção (C) seria a candidata a troca indevida, pois subir para o Catete e tomar a rua dos Arcos não são ações opostas; a anulação provavelmente se deve à falta de consenso sobre esses empregos (por exemplo, “em vez de” também é aceito para ideias opostas, como em (E)), o que comprometeu a resposta única.",
+  "dificuldade": 3,
+  "anulada": true
+ },
+ {
+  "id": "fgv-fhemig-2023-psi-7",
+  "disciplina": "portugues",
+  "assunto": "pt-semantica",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "FHEMIG",
+   "ano": 2023,
+   "cargo": "Analista de Gestão e Assistência à Saúde – Psicólogo Clínico",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-de-gestao-e-assistencia-a-saude-agas-psicologo-clinico-nivel-icns118-tipo-1.pdf"
+  },
+  "enunciado": "Assinale a opção em que o termo sublinhado mostra emprego normal, sem a intenção de expressividade.",
+  "alternativas": [
+   "Ela sorriu, mostrando [quilômetros] de gengivas.",
+   "Fiquei por três [meses] esperando o documento.",
+   "Fiquei uma [eternidade] esperando por ela.",
+   "Por medo, fiquei [congelado] por mais de uma hora.",
+   "[Enterrei] as mãos nos bolsos, protegendo o dinheiro."
+  ],
+  "gabarito": 1,
+  "comentario": "Em (B), “três meses” indica um período real de espera, em sentido literal, sem intenção expressiva. Nas demais, há linguagem figurada expressiva: hipérbole em “quilômetros de gengivas” (A) e “uma eternidade” (C); metáfora em “congelado” de medo (D) e em “Enterrei as mãos nos bolsos” (E).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-fhemig-2023-psi-8",
+  "disciplina": "portugues",
+  "assunto": "pt-linguagem",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "FHEMIG",
+   "ano": 2023,
+   "cargo": "Analista de Gestão e Assistência à Saúde – Psicólogo Clínico",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-de-gestao-e-assistencia-a-saude-agas-psicologo-clinico-nivel-icns118-tipo-1.pdf"
+  },
+  "enunciado": "Assinale a opção que apresenta uma variação popular de linguagem.",
+  "alternativas": [
+   "Meu computador parou de funcionar; eu já deveria ter trocado o bloco de alimentação, o que se chama comumente power supply.",
+   "Ah! Não! Roubaram meu dinheiro! Estou desesperado!",
+   "Encontrei um pequeno apartamento em Paris para passar férias e eu o adorei! Adorei!!",
+   "Observem que o tal consórcio da imprensa reúne grandes jornais relacionados a uma mesma ideologia.",
+   "Dizem que o termo brega é proveniente de Nóbrega, nome de uma rua de má fama em São Paulo."
+  ],
+  "gabarito": 3,
+  "comentario": "Em (D), a expressão “o tal consórcio da imprensa”, com o “tal” depreciativo, é marca da linguagem coloquial/popular. (A) usa termo técnico estrangeiro (variação técnica), (B) e (C) mostram linguagem emotiva/expressiva, e (E) apresenta uma informação etimológica em registro neutro.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-fhemig-2023-psi-9",
+  "disciplina": "portugues",
+  "assunto": "pt-linguagem",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "FHEMIG",
+   "ano": 2023,
+   "cargo": "Analista de Gestão e Assistência à Saúde – Psicólogo Clínico",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-de-gestao-e-assistencia-a-saude-agas-psicologo-clinico-nivel-icns118-tipo-1.pdf"
+  },
+  "enunciado": "Nas situações de comunicação a seguir, estão indicados, correta e respectivamente, o emissor (o produtor da mensagem), o receptor (a quem se dirige a mensagem) e o código (o meio empregado na comunicação).\nI. Rosa leu o folheto do supermercado e ficou contente de ver, com 25% de redução, a foto das suas frutas preferidas / O supermercado – Rosa – verbal + imagens.\nII. Duda começou a latir para mostrar a seu dono que estava satisfeita em vê-lo / Duda – o dono – latidos.\nIII. Diante do pedido de informação do turista, um transeunte respondeu, dando de ombros / o turista – o transeunte – verbal e gestual.\nEstá correto o que se afirma em",
+  "alternativas": [
+   "I, apenas.",
+   "III, apenas.",
+   "I e II, apenas.",
+   "II e III, apenas.",
+   "I, II e III."
+  ],
+  "gabarito": 4,
+  "comentario": "I está correta: o supermercado produz o folheto (emissor), Rosa o lê (receptora) e o código é verbal + imagens. II está correta: Duda emite os latidos para o dono. III está errada: quem responde é o transeunte (emissor) ao turista (receptor), e o código é apenas gestual (“dando de ombros”), não verbal. Logo, I e II apenas.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-fhemig-2023-psi-10",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "FHEMIG",
+   "ano": 2023,
+   "cargo": "Analista de Gestão e Assistência à Saúde – Psicólogo Clínico",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-de-gestao-e-assistencia-a-saude-agas-psicologo-clinico-nivel-icns118-tipo-1.pdf"
+  },
+  "enunciado": "Leia o texto a seguir\n“Contrariamente ao que ocorria outrora, a [excelência] hoje não se afirma pela duração; a preeminência sobre grande número de competidores e concorrentes se afirma rapidamente e tem pouca duração.”\nPara evitar a repetição da palavra sublinhada o autor do texto apelou para a seguinte estratégia:\n[sublinhado entre colchetes]",
+  "alternativas": [
+   "elipse do termo.",
+   "substituição por sinônimo.",
+   "substituição por uma perífrase.",
+   "substituição por um pronome.",
+   "ampliação do termo inicial."
+  ],
+  "gabarito": 2,
+  "comentario": "A palavra “excelência” é retomada por “a preeminência sobre grande número de competidores e concorrentes”, uma expressão mais longa que designa o mesmo conceito: substituição por perífrase. Não há elipse (A), pronome (D) ou mera ampliação do mesmo termo (E), e “preeminência” sozinha não funciona como sinônimo simples, mas integra a perífrase.",
+  "dificuldade": 2,
+  "anulada": false
+ }
+]

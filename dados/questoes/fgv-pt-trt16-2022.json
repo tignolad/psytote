@@ -1,0 +1,252 @@
+[
+ {
+  "id": "fgv-trt16-2022-ana-1",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TRT-16",
+   "ano": 2022,
+   "cargo": "Analista Judiciário – Biblioteconomia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_judiciario_area_administrativa_-_biblioteconomiacnsm005_tipo_1.pdf"
+  },
+  "enunciado": "Abaixo estão cinco silogismos. Assinale a opção que mostra uma estruturação válida.",
+  "alternativas": [
+   "Todos os brasileiros gostam de Copacabana / Pedro é brasileiro / Pedro gosta de Copacabana.",
+   "Todos os brasileiros gostam de Copacabana / Pedro não gosta de Copacabana / Pedro não é brasileiro.",
+   "Se você é brasileiro, gosta de Copacabana / Você é brasileiro / Você gosta de Copacabana.",
+   "Ou você não é brasileiro ou você gosta de Copacabana / Você não é brasileiro / Você gosta de Copacabana.",
+   "Ou você não é brasileiro ou você gosta de Copacabana / Você é brasileiro / Você não gosta de Copacabana."
+  ],
+  "gabarito": 0,
+  "comentario": "A opção A traz o silogismo categórico clássico: premissa maior universal (todos os brasileiros gostam de Copacabana), premissa menor que inclui Pedro no grupo (Pedro é brasileiro) e conclusão necessária (Pedro gosta de Copacabana); é a resposta da banca. D e E são inválidas: em D, saber que “você não é brasileiro” já satisfaz a disjunção e nada permite concluir sobre gostar de Copacabana; em E, sendo brasileiro, a disjunção obriga a concluir que você GOSTA, e não o contrário. Observe que, do ponto de vista da lógica formal, as estruturas de B (modus tollens) e C (modus ponens) também são válidas; a banca, porém, manteve A como única resposta, considerando a forma típica do silogismo.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-trt16-2022-ana-2",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TRT-16",
+   "ano": 2022,
+   "cargo": "Analista Judiciário – Biblioteconomia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_judiciario_area_administrativa_-_biblioteconomiacnsm005_tipo_1.pdf"
+  },
+  "enunciado": "Observe o seguinte raciocínio: A gramática portuguesa é de difícil aprendizagem, por isso acho conveniente a contratação de novos professores. Nesse caso, a premissa inicial do raciocínio corresponde a",
+  "alternativas": [
+   "um fato comprovado.",
+   "uma opinião do enunciador.",
+   "um testemunho de autoridade.",
+   "uma dúvida sobre um fato.",
+   "uma certeza comprovada."
+  ],
+  "gabarito": 1,
+  "comentario": "Afirmar que a gramática portuguesa “é de difícil aprendizagem” é um juízo subjetivo, uma opinião de quem fala, não um fato comprovado (A, E). Não há citação de especialista (C) nem expressão de dúvida (D). Por isso, B.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-trt16-2022-ana-3",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TRT-16",
+   "ano": 2022,
+   "cargo": "Analista Judiciário – Biblioteconomia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_judiciario_area_administrativa_-_biblioteconomiacnsm005_tipo_1.pdf"
+  },
+  "enunciado": "Assinale a opção que mostra uma premissa antes de uma conclusão.",
+  "alternativas": [
+   "A passadeira não deve ter vindo / Minhas camisas estão amarrotadas.",
+   "É possível que o Vasco seja promovido para a série A /O Vasco tem ganho vários jogos.",
+   "O governo deve lançar novo plano contra a inflação / A inflação é uma das preocupações do governo.",
+   "As ruas amanheceram inundadas / Choveu durante a noite.",
+   "Pedro é mau professor / Muitos alunos de Pedro pediram transferência de turma."
+  ],
+  "gabarito": 3,
+  "comentario": "Em D, o dado observado (ruas inundadas) funciona como premissa e dele se conclui que choveu durante a noite: premissa antes da conclusão. Nas demais, a ordem é inversa: a conclusão vem primeiro e a premissa que a sustenta depois (camisas amarrotadas → a passadeira não veio; o Vasco tem ganho jogos → pode ser promovido; a inflação preocupa → novo plano; alunos pediram transferência → Pedro é mau professor).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-trt16-2022-ana-4",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TRT-16",
+   "ano": 2022,
+   "cargo": "Analista Judiciário – Biblioteconomia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_judiciario_area_administrativa_-_biblioteconomiacnsm005_tipo_1.pdf"
+  },
+  "enunciado": "Observe o seguinte texto: “’Há muita gente atrapalhando a vida do governador, inclusive o próprio governador’, costuma dizer um deputado muito conhecido. Trata-se de um comentário muito comum na Assembleia Legislativa”. A introdução utilizada nesse texto pode ser identificada como",
+  "alternativas": [
+   "uma alusão histórica.",
+   "uma interrogação.",
+   "uma citação.",
+   "uma definição.",
+   "uma divisão de temas."
+  ],
+  "gabarito": 2,
+  "comentario": "O texto começa reproduzindo literalmente a fala de um deputado, entre aspas, seguida do verbo “dizer”: trata-se de introdução por citação (C). Não há referência a fato histórico (A), pergunta (B), definição de conceito (D) nem anúncio de tópicos (E).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-trt16-2022-ana-5",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TRT-16",
+   "ano": 2022,
+   "cargo": "Analista Judiciário – Biblioteconomia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_judiciario_area_administrativa_-_biblioteconomiacnsm005_tipo_1.pdf"
+  },
+  "enunciado": "Para que um texto progrida de forma organizada, é preciso que a informação nele contida seja apresentada de forma conveniente. Veja, por exemplo, o texto a seguir: “A Corte Suprema dos Estados Unidos, cuja composição 1983-1984 terminou há pouco, parece ter mostrado uma direção mais conservadora que a anterior, notadamente no que concerne aos direitos dos indivíduos diante do Estado. Ela decretou que os prisioneiros não tinham nenhum direito sobre sua vida privada e que os juízes, e não os jurados, devem decidir sobre a pena de morte. Ela também apoiou a posição do governo de Ronald Reagan em vários casos que envolviam liberdades civis ou de discriminação”. A organização da informação nesse texto pode ser identificada do seguinte modo:",
+  "alternativas": [
+   "cada frase parte de um mesmo elemento, dado como conhecido desde o primeiro momento, a que se acrescentam novas informações.",
+   "cada frase parte do tema explorado na frase precedente, tornando-se ela mesma um novo tema, completado por uma nova informação.",
+   "o tema da primeira frase é decomposto em múltiplos elementos, tomados como temas sucessivos das frases seguintes.",
+   "dois temas são apresentados em sequência e analisados de forma paralela, com informações contrastantes.",
+   "dois temas são apresentados inicialmente e informações comuns aos dois são dadas progressivamente."
+  ],
+  "gabarito": 0,
+  "comentario": "Todas as frases têm o mesmo ponto de partida: “A Corte Suprema dos Estados Unidos”, retomada por “Ela” na segunda e na terceira frases, e a cada uma se acrescentam informações novas (progressão de tema constante) — opção A. B descreve progressão linear (o comentário de uma frase vira tema da seguinte); C, a progressão por tema dividido; D e E supõem dois temas, que não existem no trecho.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-trt16-2022-ana-6",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TRT-16",
+   "ano": 2022,
+   "cargo": "Analista Judiciário – Biblioteconomia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_judiciario_area_administrativa_-_biblioteconomiacnsm005_tipo_1.pdf"
+  },
+  "enunciado": "De cada uma das pequenas notícias abaixo, foi feita uma inferência, ou seja, algo que pode ser deduzido do que se leu. Assinale a opção em que a inferência é adequada.",
+  "alternativas": [
+   "Mulheres já podem entrar para a Polícia / o número de mulheres na população está aumentando.",
+   "A soja brasileira é muito bem aceita no mercado internacional / o agronegócio está prosperando.",
+   "O Sampaio Correia vai comprar um craque internacional / O Sampaio Correia vai demitir outros jogadores.",
+   "Haverá uma feira internacional de tecnologia em São Luís / O trânsito na capital vai ficar menos congestionado.",
+   "Calor no Rio chega a 42º / Muitos turistas vão deixar de vir ao Rio."
+  ],
+  "gabarito": 1,
+  "comentario": "Em B, se a soja (produto do agronegócio) é bem aceita no exterior, é razoável inferir que o agronegócio prospera. Nas demais, a conclusão não decorre da notícia: permitir mulheres na Polícia nada diz sobre o crescimento da população feminina (A); comprar um craque não implica demitir outros (C); uma feira tende a aumentar, não diminuir, o trânsito (D); e calor intenso não leva necessariamente à fuga de turistas (E).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-trt16-2022-ana-7",
+  "disciplina": "portugues",
+  "assunto": "pt-sintaxe",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TRT-16",
+   "ano": 2022,
+   "cargo": "Analista Judiciário – Biblioteconomia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_judiciario_area_administrativa_-_biblioteconomiacnsm005_tipo_1.pdf"
+  },
+  "enunciado": "Em todas as opções abaixo mostram-se duas frases independentes, com termos repetidos; para evitar a repetição, elas foram unidas por meio de um pronome relativo. Assinale a frase em que essa modificação foi feita de forma adequada.",
+  "alternativas": [
+   "Li o novo livro de Eduardo Gianetti / Comprei o novo livro de Eduardo Gianetti na nova livraria do bairro --- Li o novo livro de Eduardo Gianetti, cujo foi comprado na nova livraria do bairro.",
+   "Estudei durante dois anos em Madrid / Em Madrid aprendi bastante --- Estudei durante dois anos em Madrid, aonde aprendi bastante.",
+   "Comprei um carro novo na agência Oxford / O preço do carro foi baixo --- Comprei, na agência Oxford, um carro novo cujo preço foi baixo.",
+   "Gostei muito da salada / Os legumes da salada são frescos --- Gostei muito de salada onde os legumes são frescos.",
+   "Encontrei Maria e João / Maria é minha amiga --- Encontrei Maria e João, que é minha amiga."
+  ],
+  "gabarito": 2,
+  "comentario": "“Cujo” indica posse e liga dois substantivos (o carro → o preço do carro), concordando com o possuído: “um carro novo cujo preço foi baixo” (C). Em A, “cujo” foi usado sem substantivo possuído (o adequado seria “que foi comprado”); em B, “aonde” indica movimento, e “aprender em Madrid” pede “onde”; em D, perdeu-se o artigo (“da salada”) e “onde” não se refere a lugar físico, cabendo “cujos legumes”; em E, “que é minha amiga” fica ambíguo/mal referido, pois o antecedente é “Maria e João”.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-trt16-2022-ana-8",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TRT-16",
+   "ano": 2022,
+   "cargo": "Analista Judiciário – Biblioteconomia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_judiciario_area_administrativa_-_biblioteconomiacnsm005_tipo_1.pdf"
+  },
+  "enunciado": "Numa reunião de departamento, um professor mostrou os péssimos resultados de seus alunos no primeiro semestre para demonstrar a falência do ensino universitário. Essa argumentação do professor mostra um problema, que é",
+  "alternativas": [
+   "um círculo vicioso, pois a primeira e a segunda parte do raciocínio mostram o mesmo significado.",
+   "uma falsa relação de causa e efeito, pois a primeira parte indica uma causa não verdadeira para a conclusão.",
+   "um estereótipo, pois hoje se consideram os alunos universitários como símbolos da incompetência.",
+   "uma falsa analogia, já que os elementos comparados são diferentes em um ponto essencial.",
+   "uma generalização excessiva, pois fez uma dedução para um todo (o ensino universitário), que pode ser injusta."
+  ],
+  "gabarito": 4,
+  "comentario": "O professor parte de um caso particular (os resultados de seus próprios alunos em um semestre) para concluir algo sobre todo o ensino universitário: é uma generalização apressada/excessiva (E). Não há repetição da mesma ideia nas duas partes (A), nem atribuição de causa falsa (B), nem uso de estereótipo (C), nem comparação entre elementos distintos (D).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-trt16-2022-ana-9",
+  "disciplina": "portugues",
+  "assunto": "pt-semantica",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TRT-16",
+   "ano": 2022,
+   "cargo": "Analista Judiciário – Biblioteconomia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_judiciario_area_administrativa_-_biblioteconomiacnsm005_tipo_1.pdf"
+  },
+  "enunciado": "Em todas as frases abaixo, para evitar-se repetição, houve substituição do termo em destaque. Assinale a frase em que o processo utilizado na substituição está adequadamente identificado.",
+  "alternativas": [
+   "A polícia declarou que cercou [os criminosos], mas alguns dos [bandidos] conseguiram escapar / hiperônimo.",
+   "Em fiz [o discurso] em uma hora, mas levei tempo para melhorá-[lo] / qualificação.",
+   "A [guerra] na Ucrânia está demorando a acabar, pois o [conflito] mostra, a cada dia, novas etapas / símbolo.",
+   "O [PTB] vai mostrar sua força nas próximas eleições, pois [o partido] já fez numerosos acordos / abreviação.",
+   "Esqueci [o celular] no aeroporto e, a essas alturas, [o aparelho] já está voando para outro país / caracterização."
+  ],
+  "gabarito": 3,
+  "comentario": "Os termos destacados (sublinhados no original) estão entre colchetes. A banca considerou correta a D, associando a retomada de “PTB” por “o partido” ao processo de abreviação (a sigla é a forma abreviada do nome do partido). Nas demais, a identificação está errada: em A, “criminosos/bandidos” são sinônimos, não hiperônimos; em B, a retomada se faz por pronome (“lo”), não por qualificação; em C, “conflito” é hiperônimo de “guerra”, não símbolo; em E, “aparelho” é também termo mais geral (hiperônimo) de “celular”, não caracterização.",
+  "dificuldade": 3,
+  "anulada": false
+ },
+ {
+  "id": "fgv-trt16-2022-ana-10",
+  "disciplina": "portugues",
+  "assunto": "pt-tipologia",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TRT-16",
+   "ano": 2022,
+   "cargo": "Analista Judiciário – Biblioteconomia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_judiciario_area_administrativa_-_biblioteconomiacnsm005_tipo_1.pdf"
+  },
+  "enunciado": "Observe o parágrafo a seguir: “A imprensa brasileira está sendo criticada por todos os partidos políticos em função de seu partidarismo, de suas coberturas deficientes e de sua má redação dos textos”. Indique a opção em que seu desenvolvimento foi adequadamente identificado.",
+  "alternativas": [
+   "pergunta e resposta.",
+   "paralelo e contraste.",
+   "enumeração de detalhes.",
+   "exemplificação e ilustração.",
+   "apresentação de razões."
+  ],
+  "gabarito": 4,
+  "comentario": "Após a afirmação inicial (a imprensa é criticada por todos os partidos), a expressão “em função de” introduz os motivos dessas críticas: partidarismo, coberturas deficientes e má redação. O desenvolvimento é, portanto, por apresentação de razões (E). Embora os motivos apareçam em sequência, não se trata de mera enumeração de detalhes (C), pois eles explicam a causa da crítica; não há pergunta, contraste nem exemplos.",
+  "dificuldade": 2,
+  "anulada": false
+ }
+]

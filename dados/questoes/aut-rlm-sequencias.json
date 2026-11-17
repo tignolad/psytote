@@ -1,0 +1,254 @@
+[
+  {
+    "id": "aut-rlm-sequencias-001",
+    "disciplina": "rlm",
+    "assunto": "rlm-sequencias",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Observe a sequência numérica: 2, 5, 11, 23, 47, …\nMantido o padrão, o próximo termo é",
+    "alternativas": [
+      "71",
+      "94",
+      "95",
+      "96",
+      "141"
+    ],
+    "gabarito": 2,
+    "comentario": "Cada termo é o dobro do anterior mais 1: 2·2+1=5, 5·2+1=11, 11·2+1=23, 23·2+1=47. Logo, 47·2+1=95. As diferenças (3, 6, 12, 24) também dobram, confirmando 47+48=95.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-rlm-sequencias-002",
+    "disciplina": "rlm",
+    "assunto": "rlm-sequencias",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Na sequência 3, 7, 13, 21, 31, …, o termo seguinte a 31 é",
+    "alternativas": [
+      "41",
+      "43",
+      "45",
+      "47",
+      "51"
+    ],
+    "gabarito": 1,
+    "comentario": "As diferenças entre termos consecutivos são 4, 6, 8, 10, crescendo de 2 em 2. A próxima diferença é 12, logo 31 + 12 = 43.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-rlm-sequencias-003",
+    "disciplina": "rlm",
+    "assunto": "rlm-sequencias",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Considere o alfabeto de 26 letras (incluindo K, W e Y) e a sequência: A, C, F, J, O, …\nMantido o padrão, a próxima letra é",
+    "alternativas": [
+      "R",
+      "S",
+      "T",
+      "U",
+      "V"
+    ],
+    "gabarito": 3,
+    "comentario": "As posições das letras são 1, 3, 6, 10, 15: os saltos são +2, +3, +4, +5. O próximo salto é +6, levando à posição 21, que corresponde à letra U.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-rlm-sequencias-004",
+    "disciplina": "rlm",
+    "assunto": "rlm-sequencias",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Hoje é quarta-feira. Daqui a 100 dias será",
+    "alternativas": [
+      "domingo.",
+      "segunda-feira.",
+      "terça-feira.",
+      "quinta-feira.",
+      "sexta-feira."
+    ],
+    "gabarito": 4,
+    "comentario": "Os dias da semana se repetem a cada 7 dias. Como 100 = 7·14 + 2, avançar 100 dias equivale a avançar 2 dias: de quarta-feira para sexta-feira.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-rlm-sequencias-005",
+    "disciplina": "rlm",
+    "assunto": "rlm-sequencias",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "A palavra PSICOLOGIA é escrita repetidamente, sem espaços: PSICOLOGIAPSICOLOGIAPSICOLOGIA…\nA 2026ª letra escrita é",
+    "alternativas": [
+      "A",
+      "C",
+      "G",
+      "I",
+      "L"
+    ],
+    "gabarito": 4,
+    "comentario": "O bloco PSICOLOGIA tem 10 letras. Como 2026 = 10·202 + 6, a 2026ª letra é a 6ª do bloco: P-S-I-C-O-L, ou seja, L.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-rlm-sequencias-006",
+    "disciplina": "rlm",
+    "assunto": "rlm-sequencias",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Um grupo terapêutico teve uma primeira sessão iniciada às 14h50, com duração de 1h35min. Depois, houve intervalo de 25 minutos e, em seguida, uma segunda sessão de 1h20min.\nA segunda sessão terminou às",
+    "alternativas": [
+      "17h45",
+      "18h00",
+      "18h10",
+      "18h35",
+      "18h50"
+    ],
+    "gabarito": 2,
+    "comentario": "14h50 + 1h35 = 16h25; + 25 min = 16h50 (início da segunda sessão); + 1h20 = 18h10.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-rlm-sequencias-007",
+    "disciplina": "rlm",
+    "assunto": "rlm-sequencias",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Em um exercício de orientação espacial, uma pessoa está de frente para o Norte. Ela gira 90° para a direita, depois gira 180° e, por fim, gira 90° para a esquerda.\nAo final, ela está de frente para o",
+    "alternativas": [
+      "Norte.",
+      "Sul.",
+      "Leste.",
+      "Oeste.",
+      "Nordeste."
+    ],
+    "gabarito": 1,
+    "comentario": "Do Norte, 90° à direita leva ao Leste; 180° leva do Leste ao Oeste; 90° à esquerda, a partir do Oeste, leva ao Sul. Em termos líquidos: +90° +180° −90° = 180°, o oposto do Norte.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-rlm-sequencias-008",
+    "disciplina": "rlm",
+    "assunto": "rlm-sequencias",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Na sequência 2, 3, 5, 8, 13, 21, …, cada termo, a partir do terceiro, é a soma dos dois anteriores.\nO 9º termo dessa sequência é",
+    "alternativas": [
+      "34",
+      "55",
+      "68",
+      "89",
+      "144"
+    ],
+    "gabarito": 3,
+    "comentario": "Continuando: 7º = 13+21 = 34; 8º = 21+34 = 55; 9º = 34+55 = 89.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-rlm-sequencias-009",
+    "disciplina": "rlm",
+    "assunto": "rlm-sequencias",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Considere a sequência 1, 2, 4, 7, 11, 16, …, em que a diferença entre termos consecutivos aumenta uma unidade a cada passo.\nO 20º termo dessa sequência é",
+    "alternativas": [
+      "191",
+      "200",
+      "210",
+      "211",
+      "221"
+    ],
+    "gabarito": 0,
+    "comentario": "As diferenças são 1, 2, 3, …; o n-ésimo termo é 1 + (1 + 2 + … + (n−1)) = 1 + n(n−1)/2. Para n = 20: 1 + 20·19/2 = 1 + 190 = 191. (211 seria o 21º termo.)",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-rlm-sequencias-010",
+    "disciplina": "rlm",
+    "assunto": "rlm-sequencias",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Em uma sequência, o primeiro termo é 5 e cada termo seguinte é obtido somando 4 ao anterior.\nO termo igual a 81 ocupa a posição",
+    "alternativas": [
+      "19ª",
+      "20ª",
+      "21ª",
+      "22ª",
+      "23ª"
+    ],
+    "gabarito": 1,
+    "comentario": "Termo geral: aₙ = 5 + 4(n − 1). Fazendo 5 + 4(n − 1) = 81, obtém-se 4(n − 1) = 76, n − 1 = 19 e n = 20.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-rlm-sequencias-011",
+    "disciplina": "rlm",
+    "assunto": "rlm-sequencias",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Um ambulatório marcou reuniões de equipe seguindo um padrão de meses: janeiro, março, junho, outubro, …\nMantido o padrão, a próxima reunião ocorrerá em",
+    "alternativas": [
+      "novembro.",
+      "dezembro.",
+      "janeiro.",
+      "fevereiro.",
+      "março."
+    ],
+    "gabarito": 4,
+    "comentario": "Os intervalos entre os meses crescem: +2 (jan→mar), +3 (mar→jun), +4 (jun→out). O próximo é +5: outubro + 5 meses = março do ano seguinte.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-rlm-sequencias-012",
+    "disciplina": "rlm",
+    "assunto": "rlm-sequencias",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Em um ano não bissexto, o dia 1º de janeiro caiu em uma segunda-feira.\nNesse ano, o dia 1º de maio caiu em uma",
+    "alternativas": [
+      "terça-feira.",
+      "quarta-feira.",
+      "quinta-feira.",
+      "sexta-feira.",
+      "sábado."
+    ],
+    "gabarito": 0,
+    "comentario": "De 1º/jan a 1º/mai passam 31 + 28 + 31 + 30 = 120 dias. Como 120 = 7·17 + 1, o dia da semana avança 1: de segunda-feira para terça-feira.",
+    "dificuldade": 2,
+    "anulada": false
+  }
+]

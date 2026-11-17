@@ -1,0 +1,272 @@
+[
+  {
+    "id": "aut-leg-res01-2019-001",
+    "disciplina": "legislacao",
+    "assunto": "leg-res01-2019",
+    "origem": {"tipo": "autoral", "banca": "Claude (autoral)", "fonte": "https://www.in.gov.br/web/dou/-/resolucao-n-1-de-7-de-fevereiro-de-2019-62976886"},
+    "enunciado": "De acordo com a Resolução CFP nº 01/2019, que institui normas e procedimentos para a perícia psicológica no contexto do trânsito, a perícia psicológica é definida como",
+    "alternativas": [
+      "uma avaliação psicológica direcionada a responder demanda legal específica, constituindo processo técnico-científico de coleta de dados, estudo e interpretação de informações sobre fenômenos psicológicos.",
+      "uma avaliação de caráter clínico voltada ao diagnóstico de transtornos mentais que contraindiquem a condução de veículos automotores.",
+      "um procedimento de triagem facultativo, complementar ao exame de aptidão física e mental realizado pelo médico de tráfego.",
+      "uma avaliação psicológica de caráter orientativo, cujo resultado tem natureza de recomendação não vinculante ao órgão de trânsito.",
+      "um conjunto padronizado de testes psicológicos aplicados coletivamente, dispensada a realização de entrevista."
+    ],
+    "gabarito": 0,
+    "comentario": "O art. 2º, § 1º, da Res. CFP 01/2019 define a perícia psicológica como avaliação psicológica direcionada a responder demanda legal específica, processo técnico-científico que utiliza métodos, técnicas e instrumentos reconhecidos pela Psicologia, realizado por psicóloga(o) qualificada(o). Não se trata de diagnóstico clínico (B) nem de triagem facultativa ou recomendação não vinculante (C e D): o resultado deve ser conclusivo (§ 20). A entrevista é obrigatória e individual (§ 9º), o que afasta a E.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res01-2019-002",
+    "disciplina": "legislacao",
+    "assunto": "leg-res01-2019",
+    "origem": {"tipo": "autoral", "banca": "Claude (autoral)", "fonte": "https://www.in.gov.br/web/dou/-/resolucao-n-1-de-7-de-fevereiro-de-2019-62976886"},
+    "enunciado": "Segundo a Resolução CFP nº 01/2019, as(os) candidatas(os) à Carteira Nacional de Habilitação e condutoras(es) de veículos automotores devem ser avaliadas(os), quanto aos aspectos cognitivos, em relação a",
+    "alternativas": [
+      "atenção concentrada, atenção difusa, memória auditiva e inteligência.",
+      "atenção concentrada, atenção dividida, atenção alternada, memória visual e inteligência.",
+      "atenção sustentada, memória de trabalho, raciocínio espacial e inteligência.",
+      "atenção concentrada, atenção dividida, memória visual e tempo de reação.",
+      "atenção alternada, memória visual, raciocínio verbal e inteligência."
+    ],
+    "gabarito": 1,
+    "comentario": "O art. 2º, § 2º, I, lista como aspectos cognitivos: atenção concentrada, atenção dividida, atenção alternada, memória visual e inteligência. Memória auditiva, atenção difusa, memória de trabalho, raciocínio espacial e raciocínio verbal não constam da lista. O tempo de reação aparece no inciso II (juízo crítico/comportamento), e não entre os aspectos cognitivos, o que torna a D incorreta.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res01-2019-003",
+    "disciplina": "legislacao",
+    "assunto": "leg-res01-2019",
+    "origem": {"tipo": "autoral", "banca": "Claude (autoral)", "fonte": "https://www.in.gov.br/web/dou/-/resolucao-n-1-de-7-de-fevereiro-de-2019-62976886"},
+    "enunciado": "Em perícia psicológica para obtenção da CNH, a psicóloga constata que o candidato apresenta agressividade muito diminuída, ainda que sem qualquer indício de agressividade exacerbada. À luz da Resolução CFP nº 01/2019, é correto afirmar que",
+    "alternativas": [
+      "o achado é irrelevante, pois a resolução só considera inadequada a agressividade exacerbada.",
+      "a resolução não trata de agressividade, mas apenas de extroversão e estabilidade emocional.",
+      "a resolução exige que impulsividade, agressividade e ansiedade estejam adequadas, não podendo estar exacerbadas nem muito diminuídas.",
+      "traços de personalidade não integram a perícia no trânsito, que se restringe aos aspectos cognitivos.",
+      "apenas a ansiedade deve ser avaliada entre os traços de personalidade, por interferir no tempo de reação."
+    ],
+    "gabarito": 2,
+    "comentario": "O art. 2º, § 2º, III, determina a avaliação dos traços de personalidade: impulsividade, agressividade e ansiedade adequadas, cada uma 'não podendo estar exacerbada ou muito diminuída'. Assim, tanto o excesso quanto a diminuição acentuada são relevantes (erra a A). A resolução não menciona extroversão (B), inclui traços de personalidade ao lado dos cognitivos (D) e não restringe a análise à ansiedade (E).",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res01-2019-004",
+    "disciplina": "legislacao",
+    "assunto": "leg-res01-2019",
+    "origem": {"tipo": "autoral", "banca": "Claude (autoral)", "fonte": "https://www.in.gov.br/web/dou/-/resolucao-n-1-de-7-de-fevereiro-de-2019-62976886"},
+    "enunciado": "Uma clínica credenciada pelo DETRAN, para agilizar o atendimento, propõe que a entrevista psicológica da perícia seja realizada em pequenos grupos de candidatos ou dispensada nos casos de renovação. Conforme a Resolução CFP nº 01/2019, na perícia psicológica no contexto do trânsito, a entrevista tem caráter",
+    "alternativas": [
+      "coletivo e facultativo.",
+      "individual e facultativo, a critério da(o) psicóloga(o).",
+      "coletivo e obrigatório, desde que em grupos reduzidos.",
+      "individual e obrigatório.",
+      "individual, sendo obrigatória apenas para candidatos à primeira habilitação."
+    ],
+    "gabarito": 3,
+    "comentario": "O art. 2º, § 9º, é expresso: 'Na perícia psicológica realizada no contexto do trânsito, a entrevista tem caráter individual e obrigatório'. Logo, não pode ser coletiva (A e C), nem fica a critério da(o) profissional (B), nem pode ser dispensada em determinados processos, como a renovação (E). A entrevista é conversação dirigida ao propósito da perícia e deve ser planejada a partir de indicadores objetivos (§§ 6º e 7º).",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res01-2019-005",
+    "disciplina": "legislacao",
+    "assunto": "leg-res01-2019",
+    "origem": {"tipo": "autoral", "banca": "Claude (autoral)", "fonte": "https://www.in.gov.br/web/dou/-/resolucao-n-1-de-7-de-fevereiro-de-2019-62976886"},
+    "enunciado": "Quanto à escolha dos testes psicológicos empregados na perícia psicológica de candidatos à CNH, a Resolução CFP nº 01/2019 estabelece que",
+    "alternativas": [
+      "cabe ao DETRAN de cada Estado definir a bateria de testes a ser utilizada pelas clínicas credenciadas.",
+      "devem ser utilizados exclusivamente os testes listados em anexo da própria resolução.",
+      "pode ser utilizado qualquer teste com validade científica publicada em periódico, independentemente de avaliação pelo Satepsi.",
+      "a escolha compete à(ao) responsável técnica(o) da clínica credenciada, vinculando as(os) demais psicólogas(os).",
+      "a(o) psicóloga(o) tem a prerrogativa de decidir quais testes empregar, desde que tenham parecer favorável do Satepsi e estejam em consonância com a resolução."
+    ],
+    "gabarito": 4,
+    "comentario": "Pelo art. 2º, § 4º, a(o) psicóloga(o) tem a prerrogativa de decidir quais testes psicológicos serão empregados, desde que com parecer favorável do Sistema de Avaliação de Testes Psicológicos (Satepsi) do CFP e em consonância com a resolução. A escolha não é do DETRAN (A) nem da(o) responsável técnica(o) (D), a resolução não traz lista anexa de testes (B) e o parecer favorável do Satepsi é indispensável (C).",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res01-2019-006",
+    "disciplina": "legislacao",
+    "assunto": "leg-res01-2019",
+    "origem": {"tipo": "autoral", "banca": "Claude (autoral)", "fonte": "https://www.in.gov.br/web/dou/-/resolucao-n-1-de-7-de-fevereiro-de-2019-62976886"},
+    "enunciado": "Durante fiscalização do CRP em clínica de trânsito, verifica-se que o psicólogo utiliza cópias reprográficas nítidas das folhas de resposta de um teste com parecer favorável no Satepsi, sem qualquer outra alteração em relação ao manual. Segundo a Resolução CFP nº 01/2019, essa conduta",
+    "alternativas": [
+      "implica falta ético-disciplinar, assim como qualquer alteração não prevista no manual do teste.",
+      "é permitida, desde que a qualidade de impressão das cópias seja boa.",
+      "é permitida em aplicações coletivas, mediante autorização do DETRAN.",
+      "configura mera irregularidade administrativa, de responsabilidade exclusiva da pessoa jurídica.",
+      "é permitida, salvo se o manual do teste a proibir expressamente."
+    ],
+    "gabarito": 0,
+    "comentario": "O art. 2º, § 12 (repetido no § 13), determina que a aplicação siga rigorosamente as instruções do manual e que qualquer alteração não prevista, 'assim como a utilização de cópias reprográficas ou originais com baixa qualidade de impressão', implica falta ético-disciplinar. A vedação às cópias reprográficas independe da qualidade (B) ou de autorização do DETRAN (C), não é mera irregularidade da PJ (D) e não depende de proibição no manual (E).",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res01-2019-007",
+    "disciplina": "legislacao",
+    "assunto": "leg-res01-2019",
+    "origem": {"tipo": "autoral", "banca": "Claude (autoral)", "fonte": "https://www.in.gov.br/web/dou/-/resolucao-n-1-de-7-de-fevereiro-de-2019-62976886"},
+    "enunciado": "No início da perícia psicológica para renovação da CNH, um motorista relata à psicóloga que saiu de um plantão noturno, dormiu duas horas e não se alimentou. Considerando a Resolução CFP nº 01/2019, a conduta adequada é",
+    "alternativas": [
+      "aplicar normalmente os testes, já que o rapport só é exigido em aplicações individuais de primeira habilitação.",
+      "considerar o relato durante o rapport, etapa anterior à testagem, podendo optar por não proceder à testagem naquele momento, para não prejudicar o candidato.",
+      "aplicar os testes e, posteriormente, registrar o relato apenas na entrevista devolutiva.",
+      "concluir de imediato pela inaptidão, uma vez que o candidato se apresentou em condições inadequadas.",
+      "aplicar os testes e corrigi-los com tolerância maior que a prevista no manual, compensando a condição do candidato."
+    ],
+    "gabarito": 1,
+    "comentario": "O art. 2º, § 14, determina que o rapport seja estabelecido antes da aplicação dos testes, como parte integrante da perícia, permitindo identificar situações que possam interferir negativamente e optar por não testar naquele momento. O § 15 manda verificar se o candidato tomou medicação, tem problemas visuais, está bem alimentado e descansado. Concluir pela inaptidão (D) desconsidera essa possibilidade, e corrigir fora das normas do manual (E) viola o § 19.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res01-2019-008",
+    "disciplina": "legislacao",
+    "assunto": "leg-res01-2019",
+    "origem": {"tipo": "autoral", "banca": "Claude (autoral)", "fonte": "https://www.in.gov.br/web/dou/-/resolucao-n-1-de-7-de-fevereiro-de-2019-62976886"},
+    "enunciado": "Sobre a entrevista devolutiva na perícia psicológica no contexto do trânsito, a Resolução CFP nº 01/2019 dispõe que",
+    "alternativas": [
+      "é facultativa, cabendo à(ao) psicóloga(o) decidir sobre sua realização mesmo quando solicitada.",
+      "é obrigatória para todos os candidatos, independentemente de solicitação.",
+      "quando solicitada, a(o) psicóloga(o) fica obrigada(o) a realizá-la, apresentando de forma objetiva o resultado e possíveis encaminhamentos, se for o caso.",
+      "é devida apenas aos candidatos considerados inaptos, para fins de recurso à junta.",
+      "deve ser realizada exclusivamente por escrito, por meio do órgão executivo de trânsito."
+    ],
+    "gabarito": 2,
+    "comentario": "Conforme o art. 2º, § 22, 'quando solicitado, fica a(o) psicóloga(o) obrigada(o) a realizar a entrevista devolutiva à(ao) candidata(o), apresentando de forma objetiva o resultado da perícia psicológica e possíveis encaminhamentos, se for o caso'. A obrigação nasce da solicitação: não é facultativa (A), nem automática para todos (B), nem restrita aos inaptos (D), e trata-se de entrevista, não de comunicação escrita via órgão de trânsito (E).",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res01-2019-009",
+    "disciplina": "legislacao",
+    "assunto": "leg-res01-2019",
+    "origem": {"tipo": "autoral", "banca": "Claude (autoral)", "fonte": "https://www.in.gov.br/web/dou/-/resolucao-n-1-de-7-de-fevereiro-de-2019-62976886"},
+    "enunciado": "Acerca do resultado da perícia psicológica de candidatas(os) à CNH, a Resolução CFP nº 01/2019 estabelece que ele deve",
+    "alternativas": [
+      "ser descritivo e sem conclusão, cabendo ao órgão executivo de trânsito decidir sobre a aptidão.",
+      "detalhar todos os escores e traços avaliados, em nome da transparência perante o órgão de trânsito.",
+      "obedecer exclusivamente às normas do CFP, sendo irrelevantes as normativas do CONTRAN.",
+      "ser conclusivo e obedecer às normativas vigentes do CONTRAN, restringindo-se às informações estritamente necessárias à solicitação e preservando a individualidade da(o) candidata(o).",
+      "ser inconclusivo sempre que houver dúvida, com encaminhamento automático do caso à junta psicológica."
+    ],
+    "gabarito": 3,
+    "comentario": "O art. 2º, § 20, determina que o resultado seja conclusivo, obedeça às normativas vigentes do CONTRAN e se restrinja às informações estritamente necessárias à solicitação, preservando a individualidade da(o) candidata(o). O § 21 reforça que a conclusão deve embasar o resultado 'sem margem de dúvidas'. Por isso erram a A e a E; a B viola a restrição às informações necessárias, e a C ignora a remissão expressa ao CONTRAN.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res01-2019-010",
+    "disciplina": "legislacao",
+    "assunto": "leg-res01-2019",
+    "origem": {"tipo": "autoral", "banca": "Claude (autoral)", "fonte": "https://www.in.gov.br/web/dou/-/resolucao-n-1-de-7-de-fevereiro-de-2019-62976886"},
+    "enunciado": "Um candidato à CNH com deficiência física comparece para a perícia psicológica. De acordo com a Resolução CFP nº 01/2019, nesse caso a perícia",
+    "alternativas": [
+      "fica dispensada, cabendo apenas o exame de aptidão física e mental.",
+      "deve ser realizada exclusivamente por junta composta por psicólogo e médico.",
+      "deve utilizar os mesmos testes e procedimentos dos demais candidatos, sem qualquer consideração específica.",
+      "restringe-se à entrevista psicológica, vedada a aplicação de testes.",
+      "deve ser realizada considerando os aspectos de funcionalidade da(o) candidata(o)."
+    ],
+    "gabarito": 4,
+    "comentario": "O art. 2º, § 16, estabelece que, em casos de pessoas com deficiência, a perícia psicológica deve ser realizada considerando os aspectos de funcionalidade da(o) candidata(o). A resolução não dispensa a perícia (A), não exige junta (B), não veda testes (D) e não impõe tratamento idêntico sem consideração da funcionalidade (C).",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res01-2019-011",
+    "disciplina": "legislacao",
+    "assunto": "leg-res01-2019",
+    "origem": {"tipo": "autoral", "banca": "Claude (autoral)", "fonte": "https://www.in.gov.br/web/dou/-/resolucao-n-1-de-7-de-fevereiro-de-2019-62976886"},
+    "enunciado": "Considere as afirmativas sobre a Resolução CFP nº 01/2019.\nI. Os Conselhos Regionais de Psicologia são responsáveis pela verificação do cumprimento da resolução, do Código de Ética Profissional e das demais normas do exercício profissional.\nII. A desobediência à resolução constitui falta ético-disciplinar passível de capitulação nos dispositivos do Código de Ética Profissional referentes ao exercício profissional.\nIII. A resolução revogou as Resoluções CFP nº 007/2009 e 009/2011 e entrou em vigor noventa dias após a sua publicação.\nEstá correto o que se afirma em",
+    "alternativas": [
+      "I e II, apenas.",
+      "I, apenas.",
+      "II e III, apenas.",
+      "I e III, apenas.",
+      "I, II e III."
+    ],
+    "gabarito": 0,
+    "comentario": "A afirmativa I reproduz o art. 1º, § 2º, e a II, o art. 1º, § 3º. A III erra quanto à vigência: embora a resolução tenha de fato revogado as Resoluções CFP 007/2009 e 009/2011 (art. 4º), o art. 3º determina que ela entra em vigor na data de sua publicação, sem vacatio de noventa dias.",
+    "dificuldade": 3,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res01-2019-012",
+    "disciplina": "legislacao",
+    "assunto": "leg-res01-2019",
+    "origem": {"tipo": "autoral", "banca": "Claude (autoral)", "fonte": "https://www.in.gov.br/web/dou/-/resolucao-n-1-de-7-de-fevereiro-de-2019-62976886"},
+    "enunciado": "A Resolução CFP nº 01/2019 determina que a(o) psicóloga(o) verifique as normas relativas ao grupo de referência a que pertencem os sujeitos avaliados. Sobre essas normas, a resolução afirma que",
+    "alternativas": [
+      "são universais e permanentes, uma vez aprovadas pelo Satepsi.",
+      "são restritas à população da qual foram derivadas, não são absolutas, universais ou permanentes e podem variar conforme a época, os costumes e a evolução da cultura.",
+      "devem ser obrigatoriamente nacionais, vedado o uso de normas regionais ou locais.",
+      "são fixadas pelo CONTRAN para todo o território nacional.",
+      "só precisam ser atualizadas quando houver alteração do Código de Trânsito Brasileiro."
+    ],
+    "gabarito": 1,
+    "comentario": "O art. 2º, § 5º, dispõe que qualquer norma é restrita à população da qual foi derivada, que as normas não são absolutas, universais ou permanentes e podem variar com a época, os costumes e a evolução da cultura, daí a necessidade de pesquisas periódicas de atualização. Acrescenta que podem ser nacionais, regionais, locais ou específicas, o que afasta a C. As normas não são fixadas pelo CONTRAN (D) nem atreladas a mudanças do CTB (E).",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res01-2019-013",
+    "disciplina": "legislacao",
+    "assunto": "leg-res01-2019",
+    "origem": {"tipo": "autoral", "banca": "Claude (autoral)", "fonte": "https://www.in.gov.br/web/dou/-/resolucao-n-1-de-7-de-fevereiro-de-2019-62976886"},
+    "enunciado": "Segundo a Resolução CFP nº 01/2019, a avaliação do juízo crítico/comportamento da(o) candidata(o) à CNH deverá ser realizada",
+    "alternativas": [
+      "exclusivamente por meio de teste projetivo de personalidade com parecer favorável do Satepsi.",
+      "por consulta ao prontuário de infrações do condutor junto ao órgão de trânsito, dispensada a entrevista.",
+      "por meio de entrevista e criação de situações hipotéticas sobre reações e decisões no trânsito, obtendo-se ainda informações sobre histórico de acidentes e opiniões sobre cidadania e mobilidade humana e urbana.",
+      "apenas no caso de condutores reincidentes em infrações gravíssimas.",
+      "por meio de simulador de direção, conforme parâmetros definidos pelo CONTRAN."
+    ],
+    "gabarito": 2,
+    "comentario": "O art. 2º, § 2º, II, prevê que o juízo crítico/comportamento seja avaliado por meio de entrevista e criação de situações hipotéticas sobre reações e decisões adequadas no trânsito, tempo de reação e capacidade de perceber se as ações são adequadas. A(o) psicóloga(o) deve ainda obter informações sobre o histórico de acidentes e opiniões sobre cidadania e mobilidade humana e urbana. A resolução não prevê teste projetivo exclusivo, simulador, consulta a prontuário de infrações nem restrição a reincidentes.",
+    "dificuldade": 3,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res01-2019-014",
+    "disciplina": "legislacao",
+    "assunto": "leg-res01-2019",
+    "origem": {"tipo": "autoral", "banca": "Claude (autoral)", "fonte": "https://www.in.gov.br/web/dou/-/resolucao-n-1-de-7-de-fevereiro-de-2019-62976886"},
+    "enunciado": "Quanto ao documento psicológico resultante da perícia no contexto do trânsito, a Resolução CFP nº 01/2019 determina que ele",
+    "alternativas": [
+      "seja entregue ao candidato juntamente com os protocolos dos testes, que lhe pertencem.",
+      "seja arquivado pelo órgão executivo de trânsito, dispensando a guarda pela(o) psicóloga(o).",
+      "dispense conclusão, bastando a transcrição dos escores obtidos nos testes.",
+      "seja produzido pela(o) psicóloga(o) e arquivado junto aos protocolos dos testes e demais instrumentos utilizados, sendo a conclusão a sua parte mais importante.",
+      "possa ser elaborado por técnico administrativo da clínica, com assinatura posterior da(o) psicóloga(o)."
+    ],
+    "gabarito": 3,
+    "comentario": "O art. 2º, § 21, estabelece que o documento psicológico deverá ser produzido pela(o) psicóloga(o) e arquivado junto aos protocolos dos testes e demais instrumentos utilizados, respeitando as normas do CFP. A conclusão é a parte mais importante e deve embasar o resultado sem margem de dúvidas, o que afasta a C. Não há previsão de entrega dos protocolos ao candidato (A), de guarda exclusiva pelo órgão de trânsito (B) ou de elaboração por terceiro não psicólogo (E).",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res01-2019-015",
+    "disciplina": "legislacao",
+    "assunto": "leg-res01-2019",
+    "origem": {"tipo": "autoral", "banca": "Claude (autoral)", "fonte": "https://www.in.gov.br/web/dou/-/resolucao-n-1-de-7-de-fevereiro-de-2019-62976886"},
+    "enunciado": "Em relação ao ambiente em que se realiza a perícia psicológica no contexto do trânsito, a Resolução CFP nº 01/2019 dispõe que",
+    "alternativas": [
+      "o ambiente é questão de responsabilidade exclusiva da pessoa jurídica, sem repercussão para a(o) psicóloga(o).",
+      "basta que a sala ofereça iluminação adequada, sendo os demais aspectos facultativos.",
+      "os requisitos de ambiente são definidos pelo Conselho Regional de Psicologia de cada jurisdição.",
+      "a aplicação em ambiente inadequado é permitida desde que registrada no documento resultante.",
+      "deve ser adequado em termos acústicos, de climatização, iluminação e ventilação, livre de interferências, seguindo a(o) psicóloga(o) as determinações das resoluções vigentes do CONTRAN."
+    ],
+    "gabarito": 4,
+    "comentario": "O art. 2º, § 18, afirma ser imprescindível considerar a adequação do ambiente em termos acústicos, de climatização, iluminação e ventilação, livre de interferências que possam prejudicar a perícia, devendo a(o) psicóloga(o) seguir as determinações das resoluções vigentes do Conselho Nacional de Trânsito. O dever recai sobre a(o) psicóloga(o) (A), abrange todos esses aspectos (B), remete ao CONTRAN e não ao CRP (C) e não admite a mera ressalva documental (D).",
+    "dificuldade": 3,
+    "anulada": false
+  }
+]

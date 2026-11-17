@@ -1,0 +1,257 @@
+[
+  {
+    "id": "aut-pt-vocabulario-001",
+    "disciplina": "portugues",
+    "assunto": "pt-vocabulario",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "texto": "Durante muito tempo, o luto foi tratado como assunto privado, quase um tabu. Hoje, porém, ele ganhou espaço nas redes: há perfis dedicados às memórias de quem partiu, grupos de apoio on-line e até o que alguns já chamam de \"lutocast\", programas de áudio em que enlutados compartilham suas experiências.\n\nA psicologia contemporânea tem revisto a ideia de que o luto deveria cumprir etapas fixas e terminar num prazo determinado. Em vez de \"superar\" a perda, fala-se em reorganizar a vida em torno dela, mantendo vínculos simbólicos com quem se foi. O aniversário do falecido, uma receita de família, uma música no rádio: tudo pode reacender a saudade, e isso não indica, necessariamente, um problema.\n\nHá, contudo, situações em que o sofrimento se prolonga e paralisa a vida cotidiana. Nesses casos, o acompanhamento profissional é indicado — não para apressar o processo, mas para que a pessoa não o atravesse sozinha.",
+    "enunciado": "O vocábulo \"lutocast\" (1º parágrafo), formado pela junção de \"luto\" com parte de \"podcast\", é um exemplo de:",
+    "alternativas": [
+      "arcaísmo",
+      "latinismo",
+      "regionalismo",
+      "neologismo",
+      "barbarismo gráfico"
+    ],
+    "gabarito": 3,
+    "comentario": "Neologismo é palavra ou expressão nova, criada para nomear uma realidade recente; o próprio texto sinaliza a novidade com aspas e com 'o que alguns já chamam de'. 'Lutocast' combina uma palavra portuguesa com parte de um estrangeirismo. Não se trata de palavra antiga (arcaísmo), latina, regional ou de erro de grafia.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-vocabulario-002",
+    "disciplina": "portugues",
+    "assunto": "pt-vocabulario",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "texto": "Durante muito tempo, o luto foi tratado como assunto privado, quase um tabu. Hoje, porém, ele ganhou espaço nas redes: há perfis dedicados às memórias de quem partiu, grupos de apoio on-line e até o que alguns já chamam de \"lutocast\", programas de áudio em que enlutados compartilham suas experiências.\n\nA psicologia contemporânea tem revisto a ideia de que o luto deveria cumprir etapas fixas e terminar num prazo determinado. Em vez de \"superar\" a perda, fala-se em reorganizar a vida em torno dela, mantendo vínculos simbólicos com quem se foi. O aniversário do falecido, uma receita de família, uma música no rádio: tudo pode reacender a saudade, e isso não indica, necessariamente, um problema.\n\nHá, contudo, situações em que o sofrimento se prolonga e paralisa a vida cotidiana. Nesses casos, o acompanhamento profissional é indicado — não para apressar o processo, mas para que a pessoa não o atravesse sozinha.",
+    "enunciado": "Entre as palavras do texto, aquela que constitui estrangeirismo não adaptado à grafia portuguesa é:",
+    "alternativas": [
+      "on-line",
+      "tabu",
+      "perfis",
+      "simbólicos",
+      "cotidiana"
+    ],
+    "gabarito": 0,
+    "comentario": "'On-line' é palavra inglesa usada com sua grafia original (registrada no VOLP como estrangeirismo). 'Tabu', embora de origem estrangeira (polinésia), já está plenamente adaptada ao português. 'Perfis', 'simbólicos' e 'cotidiana' são palavras vernáculas.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-vocabulario-003",
+    "disciplina": "portugues",
+    "assunto": "pt-vocabulario",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Assinale a opção em que todas as palavras são acentuadas pela mesma regra que justifica o acento de \"simbólicos\".",
+    "alternativas": [
+      "psicólogo — saúde — médico",
+      "fácil — médico — síndrome",
+      "também — lâmpada — ônibus",
+      "táxi — sábado — pássaro",
+      "psicólogo — médico — síndrome"
+    ],
+    "gabarito": 4,
+    "comentario": "'Simbólicos' é proparoxítona, e todas as proparoxítonas são acentuadas — regra que vale para 'psicólogo', 'médico' e 'síndrome'. 'Saúde' é acentuada pela regra do hiato (u tônico); 'fácil' é paroxítona terminada em -l; 'também' é oxítona terminada em -em; e 'táxi' é paroxítona terminada em -i.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-vocabulario-004",
+    "disciplina": "portugues",
+    "assunto": "pt-vocabulario",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Assinale a frase em que todas as palavras estão grafadas de acordo com o Acordo Ortográfico vigente.",
+    "alternativas": [
+      "A idéia de um voo heroico não para de crescer na plateia.",
+      "A ideia de um voo heroico não para de crescer na plateia.",
+      "Eles crêem que a assembléia votará hoje.",
+      "O vôo atrasou, e eles lêem o aviso no painel.",
+      "A jibóia surgiu no sonho paranóico do menino."
+    ],
+    "gabarito": 1,
+    "comentario": "Pelo Acordo de 1990, perderam o acento os ditongos abertos 'ei' e 'oi' em paroxítonas ('ideia', 'plateia', 'heroico', 'jiboia', 'paranoico', 'assembleia'), o 'oo' ('voo'), o 'ee' de formas como 'creem' e 'leem', e o acento diferencial de 'para' (verbo). Cada uma das demais frases mantém pelo menos uma grafia anterior ao Acordo.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-vocabulario-005",
+    "disciplina": "portugues",
+    "assunto": "pt-vocabulario",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Assinale a opção em que todas as palavras estão grafadas corretamente quanto ao emprego do hífen, segundo o Acordo Ortográfico vigente.",
+    "alternativas": [
+      "auto-estima — antissocial — micro-ondas — coautor",
+      "autoestima — anti-social — micro-ondas — coautor",
+      "autoestima — antissocial — micro-ondas — coautor",
+      "autoestima — antissocial — microondas — coautor",
+      "autoestima — antissocial — micro-ondas — co-autor"
+    ],
+    "gabarito": 2,
+    "comentario": "Pelo Acordo, prefixo terminado em vogal junta-se sem hífen à palavra iniciada por vogal diferente ('autoestima'); diante de 'r' ou 's', a consoante é duplicada ('antissocial'); usa-se hífen quando a vogal final do prefixo é igual à inicial da palavra seguinte ('micro-ondas'); e o prefixo 'co-' aglutina-se ('coautor'). Cada distrator contém uma grafia em desacordo com essas regras.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-vocabulario-006",
+    "disciplina": "portugues",
+    "assunto": "pt-vocabulario",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Em um relatório, lê-se: \"A comissão realizou visita ________ ao serviço para verificar as condições de atendimento.\" O latinismo que preenche adequadamente a lacuna, com o sentido de \"no próprio local\", é:",
+    "alternativas": [
+      "a priori",
+      "sui generis",
+      "ad hoc",
+      "in loco",
+      "ipsis litteris"
+    ],
+    "gabarito": 3,
+    "comentario": "'In loco' significa 'no próprio lugar'. 'A priori' quer dizer 'antes da experiência, de antemão'; 'sui generis', 'singular, único em seu gênero'; 'ad hoc', 'para esta finalidade específica'; e 'ipsis litteris', 'com as mesmas letras, literalmente'. Os latinismos são grafados sem hífen e sem acento, de preferência destacados (itálico ou aspas).",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-vocabulario-007",
+    "disciplina": "portugues",
+    "assunto": "pt-vocabulario",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Assinale a opção que apresenta um arcaísmo, isto é, palavra ou forma que caiu em desuso na língua corrente.",
+    "alternativas": [
+      "vosmecê",
+      "deletar",
+      "selfie",
+      "internetês",
+      "imexível"
+    ],
+    "gabarito": 0,
+    "comentario": "'Vosmecê' é forma antiga de tratamento (de 'Vossa Mercê'), hoje em desuso, e representa um arcaísmo. 'Deletar' é empréstimo adaptado do inglês; 'selfie' é estrangeirismo; 'internetês' e 'imexível' são neologismos.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-vocabulario-008",
+    "disciplina": "portugues",
+    "assunto": "pt-vocabulario",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "texto": "Durante muito tempo, o luto foi tratado como assunto privado, quase um tabu. Hoje, porém, ele ganhou espaço nas redes: há perfis dedicados às memórias de quem partiu, grupos de apoio on-line e até o que alguns já chamam de \"lutocast\", programas de áudio em que enlutados compartilham suas experiências.\n\nA psicologia contemporânea tem revisto a ideia de que o luto deveria cumprir etapas fixas e terminar num prazo determinado. Em vez de \"superar\" a perda, fala-se em reorganizar a vida em torno dela, mantendo vínculos simbólicos com quem se foi. O aniversário do falecido, uma receita de família, uma música no rádio: tudo pode reacender a saudade, e isso não indica, necessariamente, um problema.\n\nHá, contudo, situações em que o sofrimento se prolonga e paralisa a vida cotidiana. Nesses casos, o acompanhamento profissional é indicado — não para apressar o processo, mas para que a pessoa não o atravesse sozinha.",
+    "enunciado": "Leia o verbete hipotético:\n\nenlutado (en.lu.ta.do) adj. s.m. 1. Que está de luto. 2. Fig. Que tem aspecto triste, sombrio: céu enlutado. ⇒ Cf. luto.\n\nCom base no verbete, é correto afirmar que ele:",
+    "alternativas": [
+      "classifica a palavra exclusivamente como verbo.",
+      "apresenta separação silábica em desacordo com a norma.",
+      "informa a origem latina da palavra.",
+      "indica que a palavra é um estrangeirismo.",
+      "registra um sentido próprio e outro figurado da palavra, este acompanhado de exemplo de uso."
+    ],
+    "gabarito": 4,
+    "comentario": "O verbete traz duas acepções: a primeira, em sentido próprio ('que está de luto'); a segunda, marcada pela abreviatura 'Fig.', em sentido figurado, com o exemplo 'céu enlutado'. A classificação gramatical é 'adj. s.m.' (adjetivo e substantivo), não verbo; a divisão 'en.lu.ta.do' está correta; não há informação etimológica; e 'Cf. luto' apenas remete a outro verbete.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-vocabulario-009",
+    "disciplina": "portugues",
+    "assunto": "pt-vocabulario",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Assinale a frase em que todas as palavras estão grafadas corretamente.",
+    "alternativas": [
+      "A paralização do serviço gerou ansiedade e hesitação entre os usuários.",
+      "A paralisação do serviço gerou ansiedade e hesitação entre os usuários.",
+      "A análize do caso exigiu discrição da equipe.",
+      "O excesso de previlégios gerou insatisfação.",
+      "Houve uma excessão na concessão do benefício."
+    ],
+    "gabarito": 1,
+    "comentario": "Estão corretas 'paralisação' (de 'paralisar', com s), 'ansiedade' e 'hesitação'. As demais trazem erros: 'paralização' (correto: paralisação), 'análize' (análise), 'previlégios' (privilégios) e 'excessão' (exceção).",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-vocabulario-010",
+    "disciplina": "portugues",
+    "assunto": "pt-vocabulario",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Assinale a frase em que o emprego de \"por que\", \"porque\", \"por quê\" ou \"porquê\" está de acordo com a norma-padrão.",
+    "alternativas": [
+      "Não sei porque ela chorou; talvez porque sentisse saudade.",
+      "Ela chorou por quê sentia saudade.",
+      "Não sei por que ela chorou; talvez porque sentisse saudade.",
+      "Ninguém explicou o por que da ausência.",
+      "Ela faltou à sessão porquê?"
+    ],
+    "gabarito": 2,
+    "comentario": "Usa-se 'por que' (separado) em interrogativas diretas e indiretas, como em 'Não sei por que ela chorou'; 'porque' (junto) é conjunção causal/explicativa ('talvez porque sentisse saudade'). 'Por quê' (com acento) aparece em final de frase, e 'porquê' é substantivo ('o porquê da ausência'). Os distratores invertem essas regras.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-vocabulario-011",
+    "disciplina": "portugues",
+    "assunto": "pt-vocabulario",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Assinale a frase correta quanto ao emprego do acento diferencial e da acentuação de formas verbais.",
+    "alternativas": [
+      "Ontem ela não pôde ir ao velório, mas os filhos tem ido ao cemitério.",
+      "Os enlutados vêem na música um consolo.",
+      "É preciso por fim ao silêncio sobre o luto.",
+      "Ontem ela não pôde ir ao velório, mas os filhos têm ido ao cemitério.",
+      "Ela pára diante da foto sempre que passa pela sala."
+    ],
+    "gabarito": 3,
+    "comentario": "'Pôde' (pretérito) mantém o acento diferencial em relação a 'pode' (presente), e 'têm' leva acento por concordar com sujeito plural ('os filhos'). Erram: 'tem' com sujeito plural; 'vêem', que perdeu o acento ('veem'); 'por fim', em que o verbo exige acento ('pôr fim'); e 'pára', que perdeu o acento diferencial com o Acordo ('para').",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-vocabulario-012",
+    "disciplina": "portugues",
+    "assunto": "pt-vocabulario",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Assinale a opção em que todos os vocábulos são estrangeirismos já adaptados à grafia portuguesa.",
+    "alternativas": [
+      "estresse — xampu — futebol",
+      "stress — xampu — futebol",
+      "estresse — shampoo — futebol",
+      "estresse — xampu — football",
+      "online — mouse — delivery"
+    ],
+    "gabarito": 0,
+    "comentario": "'Estresse' (de 'stress'), 'xampu' (de 'shampoo') e 'futebol' (de 'football') são empréstimos do inglês já aportuguesados e registrados no VOLP. Nas demais opções aparece ao menos uma forma com a grafia original estrangeira, não adaptada.",
+    "dificuldade": 1,
+    "anulada": false
+  }
+]

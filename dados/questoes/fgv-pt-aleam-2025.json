@@ -1,0 +1,380 @@
+[
+ {
+  "id": "fgv-aleam-2025-psi-1",
+  "disciplina": "portugues",
+  "assunto": "pt-sintaxe",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALE-AM",
+   "ano": 2025,
+   "cargo": "Analista Legislativo – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-psicologo-cns325-tipo-1.pdf"
+  },
+  "enunciado": "Uma marca estrutural de um texto é a presença do paralelismo sintático, ou seja, da repetição de uma mesma construção. Assinale a opção que documenta essa estrutura.",
+  "alternativas": [
+   "Há flores em todas as estações, assim como loucuras em todas as idades.(Jouy)",
+   "Eu sou homem na natureza antes de ser da sociedade. (Marquês de Sade)",
+   "Considerai como crescem os lírios do campo; eles não trabalham nem fiam. (Mateus 6, 28)",
+   "Pois a arte pode errar, mas a natureza não falha. (John Dryden)",
+   "Não está provado que a pulga, que vive no camundongo, tema o gato. (Henri Michaux)"
+  ],
+  "gabarito": 0,
+  "comentario": "Paralelismo sintático é a repetição da mesma estrutura: em A, “flores em todas as estações” e “loucuras em todas as idades” repetem o esquema substantivo + “em todas as” + substantivo, ligados por “assim como”. Nas demais, as orações coordenadas ou subordinadas têm estruturas diferentes entre si (por exemplo, em D, “a arte pode errar” × “a natureza não falha”, com locução verbal e negação só na segunda), sem a repetição de uma mesma construção.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-aleam-2025-psi-2",
+  "disciplina": "portugues",
+  "assunto": "pt-semantica",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALE-AM",
+   "ano": 2025,
+   "cargo": "Analista Legislativo – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-psicologo-cns325-tipo-1.pdf"
+  },
+  "enunciado": "Um tipo de figura de retórica muito conhecido é a prosopopeia, na qual se atribuem qualidades e características humanas a seres irracionais ou inanimados. Das seguintes frases retiradas de obras de Machado de Assis, identifique a que exemplifica uma prosopopeia.",
+  "alternativas": [
+   "“Tudo neve; chegava a gelar-nos um sol de neve.” (Memórias Póstumas de Brás Cubas)",
+   "“Foi uma cena de delírio; o cachorro pagava as carícias de Rubião, latindo, pulando, beijando-lhe as mãos”. (Quincas Borba)",
+   "“Ninguém o viu em todo esse tempo nos lugares onde ele era mais assíduo. Foram seis dias, não digo de reclusão, mas de completa solidão.” (A Mão e a Luva)",
+   "“Não estava magra; estava transparente.” (Memórias Póstumas de Brás Cubas)",
+   "“Eu não sou propriamente um autor defunto, mas um defunto autor.” (Memórias Póstumas de Brás Cubas)"
+  ],
+  "gabarito": 1,
+  "comentario": "Na B, o cachorro “pagava as carícias” e “beijava” as mãos de Rubião: ações e sentimentos humanos atribuídos a um animal, o que caracteriza a prosopopeia (personificação). A traz o paradoxo “sol de neve”; C não tem figura de personificação; D é uma hipérbole (“estava transparente”); E é um quiasmo/jogo de palavras (“autor defunto” × “defunto autor”).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-aleam-2025-psi-3",
+  "disciplina": "portugues",
+  "assunto": "pt-tipologia",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALE-AM",
+   "ano": 2025,
+   "cargo": "Analista Legislativo – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-psicologo-cns325-tipo-1.pdf"
+  },
+  "texto": "“Naquela noite de março, desabrida e húmida, uma grande animação fervilhava alacremente ao fundo da Rua do Salitre. Era em 1867. Frente a frente, as Variedades e o Circo Price alinhavam os seus bicos de gás festeiros, a que as vergastadas do noroeste impunham um tremelilhar inquieto. Quinta feira — noite de cabriolas com sobrescrito à fina sociedade. Enchente certa no Circo. De cada lado do portal da entrada, um semicírculo compacto de gente se agitava, tendo por centro cada um seu postigo de bilheteiro, e ambos por igual colados, premidos sofregamente contra a parede verdoenga do barracão, e arredondando pela rua fora, numa irregularidade gritada e confusa, a toda a largura do macadame.”",
+  "enunciado": "Leia com atenção o texto a seguir, retirado do romance lusitano O Barão de Lavos. Sobre a sua tipologia textual, assinale a afirmativa correta.",
+  "alternativas": [
+   "Trata-se de um texto narrativo, que mostra as ações de uma noite de enchente num circo.",
+   "Mostra um texto de tipo informativo sobre uma sequência de acontecimentos ocorridos numa noite de março.",
+   "Exemplifica um texto publicitário, divulgando as atividades de uma empresa circense.",
+   "Apresenta um texto descritivo, tendo por foco o cenário de uma noite agitada em função da presença de um circo.",
+   "Compõe-se de frases que, indiretamente, recomendam ao leitor a ida ao circo, exemplificando um texto injuntivo."
+  ],
+  "gabarito": 3,
+  "comentario": "O trecho é predominantemente descritivo: apresenta o cenário (a noite úmida, os bicos de gás, a multidão diante das bilheterias), com verbos no imperfeito e frases nominais (“Enchente certa no Circo”). Não há progressão de ações de personagens que caracterize narração (A), nem finalidade informativa (B), publicitária (C) ou injuntiva, já que não há recomendação ao leitor (E).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-aleam-2025-psi-4",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALE-AM",
+   "ano": 2025,
+   "cargo": "Analista Legislativo – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-psicologo-cns325-tipo-1.pdf"
+  },
+  "texto": "“Hoje é fácil iludirmo-nos, crendo ver nas revoluções e lutas do ocidente da Península no decurso dos séculos VIII a XII a anarquia feudal, confundindo esta com a anarquia aristocrática. Não era a hierarquia constituindo uma espécie de famílias militares, de clãs ou tribos artificiais, cujos membros estavam ligados por mútuos direitos e deveres, determinados por um certo modo de fruição de domínio territorial, em que se achava incorporada a soberania com exclusão do poder público. Em vez disto, era o individualismo rebelando-se contra esse poder, contra a unidade, contra o direito. Quando as mãos que retinham o cetro eram frouxas ou inabilmente violentas, as perturbações tornavam-se não só possíveis, mas, até, fáceis. A febre da anarquia podia ser ardente: o que não havia era a anarquia crônica, a anarquia organizada.”\n(Alexandre Herculano, O Bobo)",
+  "enunciado": "Observe o texto a seguir. Assinale a opção que mostra uma informação correta sobre aspectos da coesão nele realizada.",
+  "alternativas": [
+   "O pronome demonstrativo “esta” se refere a “anarquia aristocrática”, em exemplo de catáfora.",
+   "O pronome relativo “cujos” tem como referente de coesão o substantivo “membros”.",
+   "O adjetivo “determinados” tem como referente os substantivos “direitos e deveres”.",
+   "O demonstrativo “disto” se refere ao termo “individualismo”, citado a seguir.",
+   "O demonstrativo “esse” se refere a “soberania”."
+  ],
+  "gabarito": 2,
+  "comentario": "“Determinados” concorda com “direitos e deveres” e a eles se refere: são direitos e deveres determinados por um certo modo de fruição do domínio territorial. “Esta” retoma “anarquia feudal”, termo anterior (anáfora, não catáfora) (A). “Cujos” relaciona o possuidor (as famílias militares/clãs/tribos) à coisa possuída, “membros”, que não é seu referente (B). “Disto” retoma o que foi dito antes, não “individualismo”, que vem depois (D), e “esse poder” retoma “poder público” (E).",
+  "dificuldade": 3,
+  "anulada": false
+ },
+ {
+  "id": "fgv-aleam-2025-psi-5",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALE-AM",
+   "ano": 2025,
+   "cargo": "Analista Legislativo – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-psicologo-cns325-tipo-1.pdf"
+  },
+  "enunciado": "Todas as opções a seguir enumeram, respectivamente, um tema textual e uma frase pertinente a ele; todas da autoria de Machado de Assis. Assinale a opção em que a relação tema/frase está inadequada.",
+  "alternativas": [
+   "Religião – Jesus disse: não se colhem figos dos abrolhos”.(Helena)",
+   "Aparências – “As coisas boas são belas por si mesmas; por isso é comum vermos um rosto feio abrigando um elevado espírito.” (Contos)",
+   "Amizade – “Quem não tem dinheiro não tem amigos.” (Crônicas)",
+   "Ambientalismo – “Cumpre vencer o caminho a todo o custo; no fim há sempre uma tenda para descansar, e uma relva para dormir”. (Crônicas)",
+   "Catolicismo – “Quem esperará que a Igreja reconheça nenhum outro matrimônio, além do católico? (A Semana)"
+  ],
+  "gabarito": 3,
+  "comentario": "A frase da D fala em vencer o caminho a todo custo e encontrar descanso no fim, uma reflexão sobre perseverança/vida, sem relação com o tema “Ambientalismo” — por isso a relação está inadequada. Nas demais há pertinência: a citação de Jesus (Religião), beleza interior em rosto feio (Aparências), dinheiro e amigos (Amizade) e o matrimônio reconhecido pela Igreja (Catolicismo).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-aleam-2025-psi-6",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALE-AM",
+   "ano": 2025,
+   "cargo": "Analista Legislativo – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-psicologo-cns325-tipo-1.pdf"
+  },
+  "texto": "“O leão é um animal que há muito tempo não vai ao barbeiro. Senão teria cortado o cabelo e ficaria muito igual à mulher dele. O leão tem a cabeça muito grande que é para não poder fugir da jaula. Agora na jaula quem põe ele lá é o guarda e aí está por que é o rei dos animais. O leão dizem que é feroz, mas deve ser quando a gente não está olhando porque quando a gente está olhando ele fica o tempo todo dormindo e não há jeito de enferocizá-lo e quem fica furioso com isso é o guarda. O leão também papai gosta muito de jogar nele, mas isso só quando sonha com elefante. E aí é que dá cobra.”",
+  "enunciado": "Observe o texto abaixo, retirado do livro “Composições Infantis”, da autoria de Millôr Fernandes. A observação correta sobre esse segmento textual",
+  "alternativas": [
+   "a linguagem empregada no texto mostra um desprezo geral pela gramática da língua, causando incompreensão.",
+   "a descrição do leão é prejudicada pela limitação de conhecimento do observador.",
+   "a descrição feita do leão concentra seu interesse no aspecto físico do animal.",
+   "o final do texto marca traços de infantilidade em função da falta de coerência.",
+   "o texto traz, indiretamente, um protesto contra o jogo do bicho, por sua ilegalidade."
+  ],
+  "gabarito": 1,
+  "comentario": "O texto simula a redação de uma criança: as informações sobre o leão são ingênuas e equivocadas (cabeça grande “para não poder fugir da jaula”, rei porque o guarda o põe lá), ou seja, a descrição é limitada pelo pouco conhecimento do observador. Os desvios gramaticais não impedem a compreensão (A); a descrição não se concentra só no aspecto físico (C); o final (jogo do bicho, sonho com elefante, “dá cobra”) é coerente com a lógica infantil (D) e não há protesto contra o jogo do bicho (E).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-aleam-2025-psi-7",
+  "disciplina": "portugues",
+  "assunto": "pt-sintaxe",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALE-AM",
+   "ano": 2025,
+   "cargo": "Analista Legislativo – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-psicologo-cns325-tipo-1.pdf"
+  },
+  "enunciado": "Assinale a opção que apresenta uma oração reduzida de infinitivo, com valor concessivo",
+  "alternativas": [
+   "Nos outros times, sem sairmos do futebol brasileiro, os técnicos são mais disc retos.",
+   "Por desconhecerem os endereços, não enviam correspondência.",
+   "Agradava-me conversar com o cronista no almoço.",
+   "Vou sair já daqui para fazer as compras.",
+   "O deputado queria a chefia sem ser especialista em Economia."
+  ],
+  "gabarito": 4,
+  "comentario": "Em “sem ser especialista em Economia” há oração reduzida de infinitivo com valor concessivo: equivale a “embora não fosse especialista”. Em A, “sem sairmos do futebol brasileiro” tem valor de condição/restrição; em B, “Por desconhecerem os endereços” é causal; em C, “conversar com o cronista” é oração subjetiva; e em D, “para fazer as compras” é final.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-aleam-2025-psi-8",
+  "disciplina": "portugues",
+  "assunto": "pt-sintaxe",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALE-AM",
+   "ano": 2025,
+   "cargo": "Analista Legislativo – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-psicologo-cns325-tipo-1.pdf"
+  },
+  "enunciado": "No trecho “daí os pedidos com que nos vemos assaltados os médicos” há uma particularidade de concordância, que é",
+  "alternativas": [
+   "a silepse de número.",
+   "a silepse de pessoa.",
+   "a silepse de número e pessoa.",
+   "a concordância por atração.",
+   "a silepse de gênero."
+  ],
+  "gabarito": 1,
+  "comentario": "O sujeito expresso “os médicos” está na 3ª pessoa, mas o verbo e o pronome estão na 1ª pessoa do plural (“nos vemos”), porque quem fala se inclui entre os médicos: é a silepse (concordância ideológica) de pessoa. Não há discordância de número (ambos plurais), de gênero, nem concordância com o termo mais próximo (atração).",
+  "dificuldade": 3,
+  "anulada": false
+ },
+ {
+  "id": "fgv-aleam-2025-psi-9",
+  "disciplina": "portugues",
+  "assunto": "pt-vocabulario",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALE-AM",
+   "ano": 2025,
+   "cargo": "Analista Legislativo – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-psicologo-cns325-tipo-1.pdf"
+  },
+  "enunciado": "Marque a opção em que se errou no emprego de palavras homônimas ou parônimas, sublinhadas nas frases, retiradas do romance O Mulato, de Aluísio Azevedo.",
+  "alternativas": [
+   "“Raimundo aproximou-se do cadáver e, por mera curiosidade descobriu-lhe o rosto — estava lívido, com os raros dentes à mostra, os olhos mal fechados, mostrando um branco baço, cor de sebo; / “...com uma dorzinha de vergonha assistiam-lhe considerações mais favoráveis ao primo; chegava até a doer-se de haver feito um juízo tão mau do pobre rapaz.” [sublinhados: mal / mau]",
+   "“Pois olha: se tivesse de assistir ao teu casamento com um cabra, juro-te, por esta luz que está nos alumiando, que te preferia uma boa morte, minha neta! porque serias a primeira que na família sujava o sangue! “ / “Ele quer saber o porquê, e eu dou-lhe a razão com franqueza! Pois bem! Vejam! este homem deixa de fazer uma viagem, que, para me iludir, fingiu que ia fazer, e, depois de andar por aí a esconder-se de todos, falta à sua palavra de honra, e...” [sublinhados: porque / porquê]",
+   "“Falou do Cais da Sagração, “também não estava concluído”, dos Quartéis, “iam entrar em conserto”, na igreja de Santo Antônio, “nunca chegaram a terminá-la, mas se o conseguissem, seria um belo templo!” / “Os anuns passavam de uma para outra árvore, cortando o silêncio da tarde, com os seus gemidos prolongados e agudíssimos; do fundo tenebroso da floresta vinham de espaço a espaço o gargalhar das raposas e os gritos sensuais dos macacos e saguis. Era já o concerto da noite.” [sublinhados: conserto / concerto]",
+   "“— Qual! apressou-se o fazendeiro a responder. Não estão acostumadas com pessoas de fora...” / “Tratava uma enorme unha no dedo mínimo, com a qual costumava pentear o bigode, feito de longos fios, tingidos e lisos, que lhe velavam a boca.” [sublinhados: acostumadas / costumava]",
+   "“A um canto da varanda resmungava a criada, cozendo trapos.” / “A criadagem de Manuel e Maria Bárbara, contava, além de Brígida e Benedito, de uma cafuza já idosa, chamada Mônica, que amamentara Ana Rosa e lavava a roupa da casa, e mais de uma preta só para engomar, e outra só para coser quitutes.” [sublinhados: cozendo / coser]"
+  ],
+  "gabarito": 4,
+  "comentario": "Em E, “cozendo trapos” deveria ser “cosendo” (de coser = costurar), e “coser quitutes” deveria ser “cozer” (cozinhar): houve troca dos homônimos. Nas demais, o uso está correto: “mal” (advérbio) × “mau” (adjetivo) (A); “porque” conjunção × “o porquê” substantivo (B); “conserto” (reparo) × “concerto” (sinfonia) (C); “acostumadas” e “costumava” empregados com sentido adequado (D).",
+  "dificuldade": 3,
+  "anulada": false
+ },
+ {
+  "id": "fgv-aleam-2025-psi-10",
+  "disciplina": "portugues",
+  "assunto": "pt-vocabulario",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALE-AM",
+   "ano": 2025,
+   "cargo": "Analista Legislativo – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-psicologo-cns325-tipo-1.pdf"
+  },
+  "enunciado": "Tendo em vista que as palavras a seguir aparecem, propositalmente, sem acento gráfico, assinale o conjunto desses vocábulos que apresenta a mesma classificação quanto à sílaba tônica.",
+  "alternativas": [
+   "interim / decada / rubrica / alcoolatra",
+   "gratuito / decano / prototipo / crisantemo",
+   "exodo / alcool / epiteto / maquinaria",
+   "novel / sutil / ruim / refem",
+   "alibi / aziago / avaro / climax."
+  ],
+  "gabarito": 3,
+  "comentario": "Em D todas as palavras são oxítonas: no-VEL, su-TIL, ru-IM, re-FÉM. Nas demais há mistura: A (ínterim, década, alcoólatra são proparoxítonas; rubrica é paroxítona); B (gratuito e decano paroxítonas; protótipo e crisântemo proparoxítonas); C (êxodo e epíteto proparoxítonas; álcool e maquinaria paroxítonas); E (álibi proparoxítona; aziago, avaro e clímax paroxítonas).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-aleam-2025-psi-11",
+  "disciplina": "portugues",
+  "assunto": "pt-reescrita",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALE-AM",
+   "ano": 2025,
+   "cargo": "Analista Legislativo – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-psicologo-cns325-tipo-1.pdf"
+  },
+  "enunciado": "Numa redação de concurso público, um candidato escreveu o seguinte fragmento textual: “De fato, a televisão é um passatempo prejudicial, pois, além de propiciar distração às pessoas, reduz-lhes o tempo que poderia ser dedicado à família.” Nesse caso, o erro detectado é",
+  "alternativas": [
+   "a ausência de paralelismo sintático.",
+   "a ambiguidade de termos.",
+   "a incoerência no emprego do conectivo.",
+   "o erro de regência verbal.",
+   "a falta de concisão."
+  ],
+  "gabarito": 0,
+  "comentario": "A banca apontou como erro a ausência de paralelismo sintático: o primeiro elemento da adição vem numa oração reduzida de infinitivo (“além de propiciar distração às pessoas”) e o segundo numa forma verbal finita (“reduz-lhes o tempo”), estruturas não equivalentes para termos que se somam como causas do prejuízo. Não há ambiguidade de termos (B); a regência de “reduzir” com “lhes” está correta (D) e o trecho não é prolixo (E). Pode-se também questionar a coerência de apresentar “distração” como prejuízo (C), mas a resposta oficial é a falta de paralelismo.",
+  "dificuldade": 3,
+  "anulada": false
+ },
+ {
+  "id": "fgv-aleam-2025-psi-12",
+  "disciplina": "portugues",
+  "assunto": "pt-semantica",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALE-AM",
+   "ano": 2025,
+   "cargo": "Analista Legislativo – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-psicologo-cns325-tipo-1.pdf"
+  },
+  "enunciado": "Entre as seguintes frases, retiradas de obras de Machado de Assis, assinale aquela que não representa um exemplo de pleonasmo semântico.",
+  "alternativas": [
+   "“Marcela juntava as joias todas dentro de uma caixinha de ferro, cuja chave ninguém nunca jamais soube onde ficava;” (Memórias Póstumas de Brás Cubas)",
+   "“Os homens, esses ou não sentem ou abafam o que sentem.” (Ressurreição)",
+   "“Então resolvia embarcar imediatamente para cortar a minha vida em duas metades.” (Memórias Póstumas de Brás Cubas)",
+   "“Casos de estudo, incidentes de nada, um livro, um mote, toda a velha papelada saiu cá fora, e rimos juntos.” (Dom Casmurro)",
+   "“Se alguma vez o reconheceste, não foi ontem; ontem cedeste a um mau preconceito contra as madrastas. (Iaiá Garcia)"
+  ],
+  "gabarito": 1,
+  "comentario": "Em B, o pronome “esses” retoma “Os homens” num realce sintático (topicalização/pleonasmo sintático), e não há redundância de sentido. Nas demais há pleonasmo semântico (repetição de ideia): “nunca jamais” (A), “cortar em duas metades” (C), “saiu cá fora” (D) e “mau preconceito” (o preconceito já é negativo) (E).",
+  "dificuldade": 3,
+  "anulada": false
+ },
+ {
+  "id": "fgv-aleam-2025-psi-13",
+  "disciplina": "portugues",
+  "assunto": "pt-sintaxe",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALE-AM",
+   "ano": 2025,
+   "cargo": "Analista Legislativo – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-psicologo-cns325-tipo-1.pdf"
+  },
+  "enunciado": "Entre as frases abaixo, retiradas do livro O Mulato, de Aluísio Azevedo, aquela que mostra a expressão “é que” com valor sintático, ou seja, não tendo valor de ênfase, é a seguinte:",
+  "alternativas": [
+   "“— Ah!... volveu terrível o Freitas, é que ela hoje é outra coisa!... Hoje não se compara! — há muito mais luxo, mas muito!”",
+   "“— O que lhe posso afiançar, doutor, é que não há criança que, nessa tarde, não tenha a sua pratinha amarrada na ponta do lenço.”",
+   "“Só depois de cinquenta e seis anos, é que o governador Joaquim de Melo e Póvoas mandou abrir uma boa estrada, a qual vem a ser hoje a nossa pitoresca Rua dos Remédios.”",
+   "“— Meu caro senhor Mundico, hoj’em dia já não se acredita em coisa alguma!... por isso é que os tempos estão como estão — cheios de febres, de bexigas, de tísicas e de paralisias, que nem mesmo os doutores de carta sabem o que aquilo é!”",
+   "“— Credo, minha Nossa Senhora! que inferno não irá por esse mundão de esconjurados! Por isso é que agora está se vendo o que se vê, benza-me Deus!”"
+  ],
+  "gabarito": 1,
+  "comentario": "Em B, “é que” não é expletivo: “é” é o verbo de ligação de “O que lhe posso afiançar é...” e “que não há criança...” é a oração predicativa; retirá-lo desmontaria a frase. Nas demais, “é que” é partícula de realce e pode ser retirada sem prejuízo: “ela hoje é outra coisa” (A), “Só depois de cinquenta e seis anos o governador mandou” (C), “por isso os tempos estão como estão” (D) e “Por isso agora está se vendo” (E).",
+  "dificuldade": 3,
+  "anulada": false
+ },
+ {
+  "id": "fgv-aleam-2025-psi-14",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALE-AM",
+   "ano": 2025,
+   "cargo": "Analista Legislativo – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-psicologo-cns325-tipo-1.pdf"
+  },
+  "enunciado": "“Não, não direi que assisti às alvoradas do romantismo, que também eu fui fazer poesia efetiva no regaço da Itália; não direi coisa nenhuma.” (Memórias Póstumas de Brás Cubas) Nessa frase há um aspecto diferente na estruturação, que é",
+  "alternativas": [
+   "a falta de coerência, pois o narrador acaba dizendo o que afirma não dizer.",
+   "a repetição desnecessária de termos, o que ocorre com a expressão “não direi”.",
+   "o descaso com a norma gramatical, com erros de pontuação e concordância.",
+   "a ausência de elementos de coesão, tornando as frases desconexas.",
+   "A utilização excessiva de palavras, causando redundâncias."
+  ],
+  "gabarito": 0,
+  "comentario": "Para a banca, a particularidade está em o narrador dizer exatamente aquilo que afirma que não vai dizer (que assistiu às alvoradas do romantismo e fez poesia na Itália), o que ela classificou como falta de coerência — recurso irônico conhecido como preterição. A repetição de “não direi” é intencional e enfática, não desnecessária (B e E); não há erros de pontuação ou concordância (C) e as orações estão coesas (D).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-aleam-2025-psi-15",
+  "disciplina": "portugues",
+  "assunto": "pt-morfologia",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "ALE-AM",
+   "ano": 2025,
+   "cargo": "Analista Legislativo – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-psicologo-cns325-tipo-1.pdf"
+  },
+  "enunciado": "Em todas as frases a seguir ocorre uma estratégia de evitar-se a repetição de termos idênticos. Assinale a frase em que a estratégia utilizada é a nominalização do termo anterior.",
+  "alternativas": [
+   "Diego Souza foi eleito, em 2018, o melhor jogador do campeonato brasileiro; no ano seguinte, Diego se aposentou.",
+   "Trabalhar é considerado um castigo por muitos, mas o trabalho também tem aspectos positivos.",
+   "A Polícia Federal está encarregada de várias investigações, mas certamente outras chegarão à PF.",
+   "A família acabou de comprar uma casa em Mato Grosso, mas a nova casa ainda demora a ficar reformada.",
+   "Todos os candidatos devem apresentar declarações de renda, mas elas demoram a ficar prontas."
+  ],
+  "gabarito": 1,
+  "comentario": "Nominalização é retomar um verbo (ou outro termo) por um substantivo dele derivado: “Trabalhar” é retomado por “o trabalho”. Em A há repetição parcial do nome próprio (“Diego”); em C, sigla (“PF”); em D, repetição do substantivo com adjetivo (“a nova casa”); em E, pronome (“elas”).",
+  "dificuldade": 1,
+  "anulada": false
+ }
+]

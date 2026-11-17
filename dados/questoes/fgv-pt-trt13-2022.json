@@ -1,0 +1,252 @@
+[
+ {
+  "id": "fgv-trt13-2022-ana-1",
+  "disciplina": "portugues",
+  "assunto": "pt-reescrita",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TRT-13",
+   "ano": 2022,
+   "cargo": "Analista Judiciário – Área Judiciária",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns101_-_analista_judiciario_area_judiciaria_-_graduacao_em_direitocns101_tipo_1.pdf"
+  },
+  "enunciado": "Em todas as frases a seguir foi usada a conjunção “porque”; as opções a seguir apresentam formas adequadas de reescrever essas frases, retirando-se essa conjunção, com a manutenção do sentido original, à exceção de uma. Assinale-a.",
+  "alternativas": [
+   "O invejoso é tirano e verdugo de si próprio: ele sofre porque os outros gozam / Por causa do gozo dos outros, o invejoso sofre e é tirano e verdugo de si próprio.",
+   "Muitos homens são louvados porque são mal conhecidos / Pelo mau conhecimento que se tem de alguns homens, eles são louvados.",
+   "Arguimos a vaidade alheia porque ofende a nossa própria / Por ofensa à nossa própria vaidade, arguimos a vaidade alheia.",
+   "A mocidade é temerária; presume muito porque sabe pouco / Pela pouca sabedoria, a mocidade é temerária e presume muito.",
+   "As nações não envelhecem como as pessoas, porque todos os dias se renovam pelos nascimentos / Pela renovação diária por meio dos nascimentos, as nações, como as pessoas, não envelhecem."
+  ],
+  "gabarito": 4,
+  "comentario": "Na frase original da E, afirma-se que as nações, ao contrário das pessoas, não envelhecem (“não envelhecem como as pessoas”). Na reescrita, “as nações, como as pessoas, não envelhecem” passa a dizer que as pessoas também não envelhecem, o que altera o sentido. Nas demais opções, a causa expressa por “porque” foi convertida em adjunto com “por causa de”/“pelo”/“por”/“pela”, mantendo a relação causal original.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-trt13-2022-ana-2",
+  "disciplina": "portugues",
+  "assunto": "pt-reescrita",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TRT-13",
+   "ano": 2022,
+   "cargo": "Analista Judiciário – Área Judiciária",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns101_-_analista_judiciario_area_judiciaria_-_graduacao_em_direitocns101_tipo_1.pdf"
+  },
+  "enunciado": "A oração “Acreditou que venceria facilmente o inimigo” poderia ser reescrita do seguinte modo: “Acreditou em fácil vitória contra o inimigo”. Seguindo esse modelo, assinale a frase que realiza a mesma modificação de forma adequada.",
+  "alternativas": [
+   "O problema necessita ser resolvido urgentemente / o problema precisa de dissolução urgente.",
+   "Essa questão merece ser examinada detidamente / essa questão merece um exame detalhado.",
+   "O Museu será reinaugurado proximamente / o museu terá uma reinauguração próxima.",
+   "Vamos dividir os doces equitativamente / vamos dividir os doces de forma idêntica.",
+   "O deputado declarou repentinamente que sairia do partido / o deputado fez uma declaração repetida de que sairia do partido."
+  ],
+  "gabarito": 2,
+  "comentario": "O modelo transforma verbo + advérbio em -mente em substantivo + adjetivo correspondente (venceria facilmente → fácil vitória). Em C, “será reinaugurado proximamente” vira “uma reinauguração próxima”, com equivalência perfeita. Em A, “dissolução” não equivale a “resolução”; em B, “detidamente” corresponderia a “detido”, não “detalhado”; em D, “equitativamente” (com equidade) não é “idêntica”; em E, “repentinamente” corresponderia a “repentina”, não “repetida”.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-trt13-2022-ana-3",
+  "disciplina": "portugues",
+  "assunto": "pt-semantica",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TRT-13",
+   "ano": 2022,
+   "cargo": "Analista Judiciário – Área Judiciária",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns101_-_analista_judiciario_area_judiciaria_-_graduacao_em_direitocns101_tipo_1.pdf"
+  },
+  "enunciado": "Em todas as frases abaixo substituímos por um particípio o segmento sublinhado. Assinale a frase em que essa substituição foi feita de forma inadequada.",
+  "alternativas": [
+   "Um edifício [que está] sobre quatro colunas / erigido.",
+   "Os carros [que estão] em fila dupla / estacionados.",
+   "O território [que está] entre Rio e São Paulo / localizado, situado.",
+   "Os presos [que estão] nessa cela / inseridos.",
+   "Uma esmeralda [que está] nesse anel / encrustada."
+  ],
+  "gabarito": 3,
+  "comentario": "Os segmentos sublinhados estão indicados entre colchetes. Presos que estão numa cela estão “encarcerados”, “recolhidos” ou “detidos”; “inseridos” não é o particípio adequado a esse contexto, por isso D é a substituição inadequada. Nas demais, os particípios combinam com o contexto: edifício erigido sobre colunas, carros estacionados em fila dupla, território localizado/situado entre dois estados, esmeralda encrustada no anel.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-trt13-2022-ana-4",
+  "disciplina": "portugues",
+  "assunto": "pt-semantica",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TRT-13",
+   "ano": 2022,
+   "cargo": "Analista Judiciário – Área Judiciária",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns101_-_analista_judiciario_area_judiciaria_-_graduacao_em_direitocns101_tipo_1.pdf"
+  },
+  "enunciado": "Em todas as frases abaixo está presente o verbo “ver”. A substituição desse verbo por outro, adequada ao contexto, é:",
+  "alternativas": [
+   "Ficamos paralisados, vendo a paisagem maravilhosa / contemplando.",
+   "É difícil ver a diferença de cores neste quadro / apreciar.",
+   "O diretor verá hoje os requerimentos dos alunos / notará.",
+   "Os médicos veem muitos pacientes por dia / percebem.",
+   "Não conseguiram ver a grandeza das ações / destacar."
+  ],
+  "gabarito": 0,
+  "comentario": "Em A, “ver a paisagem maravilhosa” equivale a “contemplar” (olhar com admiração). Nas demais, o sentido de “ver” seria melhor traduzido por outro verbo: B “perceber/distinguir” a diferença; C “examinar/analisar” os requerimentos; D “atender/examinar” pacientes; E “perceber/reconhecer” a grandeza das ações.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-trt13-2022-ana-5",
+  "disciplina": "portugues",
+  "assunto": "pt-semantica",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TRT-13",
+   "ano": 2022,
+   "cargo": "Analista Judiciário – Área Judiciária",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns101_-_analista_judiciario_area_judiciaria_-_graduacao_em_direitocns101_tipo_1.pdf"
+  },
+  "enunciado": "Assinale a frase abaixo cujo vocábulo sublinhado não apresenta uma impropriedade léxica (vocábulo mal-empregado no contexto da frase).",
+  "alternativas": [
+   "Recebeu um elogio pelo ato heroico que [cometeu].",
+   "O carro deslizou na pista [graças à] chuva da noite anterior.",
+   "Eu [garanto] que não fui eu o autor do crime.",
+   "Os passageiros fizeram um esforço [sobre-humano] para escapar.",
+   "O paciente chegou ao hospital [gozando] de má saúde."
+  ],
+  "gabarito": 3,
+  "comentario": "Os vocábulos sublinhados estão entre colchetes. “Sobre-humano” (acima das forças humanas) está bem empregado em D. Nas demais há impropriedade: “cometer” associa-se a atos negativos (crime, erro), e um ato heroico se “pratica”; “graças a” indica causa favorável, inadequada para um acidente (melhor “por causa da”); “garantir” não cabe bem para negar a própria autoria (melhor “juro/afirmo”); “gozar” tem sentido positivo e não combina com “má saúde”.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-trt13-2022-ana-6",
+  "disciplina": "portugues",
+  "assunto": "pt-semantica",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TRT-13",
+   "ano": 2022,
+   "cargo": "Analista Judiciário – Área Judiciária",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns101_-_analista_judiciario_area_judiciaria_-_graduacao_em_direitocns101_tipo_1.pdf"
+  },
+  "enunciado": "Nas frases abaixo, os adjetivos sublinhados estão relacionados à ideia de “movimento”. Assinale a opção na qual o adjetivo foi selecionado adequadamente para o contexto da frase.",
+  "alternativas": [
+   "Assim que a orquestra iniciou a valsa, os formandos começaram a dançar com movimentos [frenéticos].",
+   "Os soldados, perfeitamente perfilados, exibiam uma marcha [ritmada].",
+   "O passante sofreu um ataque e caiu ao chão com movimentos [oscilantes].",
+   "O pêndulo do relógio mostrava um movimento [giratório].",
+   "O mar se chocava contra as rochas com força [convulsiva]."
+  ],
+  "gabarito": 1,
+  "comentario": "Os adjetivos sublinhados estão entre colchetes. Uma marcha de soldados perfilados é “ritmada” (cadenciada), o que torna B adequada. A valsa é dança lenta e suave, incompatível com movimentos “frenéticos”; quem sofre um ataque cai com movimentos “convulsivos”, não “oscilantes”; o pêndulo faz movimento “oscilante/pendular”, não “giratório”; e “convulsiva” se aplica a corpos em convulsão, não à força do mar (melhor “violenta”).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-trt13-2022-ana-7",
+  "disciplina": "portugues",
+  "assunto": "pt-sintaxe",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TRT-13",
+   "ano": 2022,
+   "cargo": "Analista Judiciário – Área Judiciária",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns101_-_analista_judiciario_area_judiciaria_-_graduacao_em_direitocns101_tipo_1.pdf"
+  },
+  "enunciado": "Assinale a frase em que há problema de norma culta em função da confusão entre “todo-a” / “todo o - toda a”.",
+  "alternativas": [
+   "[Toda alegria] é uma vitória, e uma vitória é uma vitória, por menor que seja.",
+   "Quem não sabe chorar de [todo o coração] também não sabe rir.",
+   "Ele chorou [todo o dia] após receber a notícia trágica.",
+   "[Todo trabalho] ficou manchado do vinho derramado.",
+   "[Toda tristeza] deve ser afastada de nossa vida."
+  ],
+  "gabarito": 3,
+  "comentario": "Os trechos sublinhados estão entre colchetes. Sem artigo, “todo/toda” significa “qualquer, cada” (“toda alegria” = qualquer alegria); com artigo, “todo o/toda a” significa “inteiro”. Em D, o sentido é que o trabalho inteiro ficou manchado pelo vinho, o que exige “Todo o trabalho”. Em A e E o sentido genérico (qualquer alegria/tristeza) está correto, e em B e C “todo o coração” e “todo o dia” indicam totalidade, também corretamente.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-trt13-2022-ana-8",
+  "disciplina": "portugues",
+  "assunto": "pt-sintaxe",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TRT-13",
+   "ano": 2022,
+   "cargo": "Analista Judiciário – Área Judiciária",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns101_-_analista_judiciario_area_judiciaria_-_graduacao_em_direitocns101_tipo_1.pdf"
+  },
+  "enunciado": "Assinale a frase em que houve emprego correto do pronome LHE.",
+  "alternativas": [
+   "“Se você de fato leva a sério a preparação de seu filho para o futuro, não lhe ensine a subtrair – ensine a deduzir”.",
+   "“Os que são incapazes de recordar o passado são condenados a repetir-lhe”.",
+   "“Se você conta os anos, o tempo parecer-lhe-á breve”.",
+   "“Lembre-se – quando você achar que tudo está perdido, o futuro ainda lhe aguardará”.",
+   "“A história é um cavalo que galopa atravessando a janela, e você deve decidir se saltará para montar-lhe ou não”."
+  ],
+  "gabarito": 2,
+  "comentario": "“Lhe” é pronome de objeto indireto. Em C, “o tempo parecerá breve a você” → “parecer-lhe-á breve”, com mesóclise correta no futuro do presente. Em B, “repetir” é transitivo direto (repeti-lo); em D, “aguardar” é transitivo direto (o aguardará); em E, “montar” o cavalo pede objeto direto (montá-lo). Em A, na construção “ensinar alguém a fazer algo”, a pessoa é objeto direto (não o ensine a subtrair), de modo que a banca considerou o “lhe” inadequado.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-trt13-2022-ana-9",
+  "disciplina": "portugues",
+  "assunto": "pt-semantica",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TRT-13",
+   "ano": 2022,
+   "cargo": "Analista Judiciário – Área Judiciária",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns101_-_analista_judiciario_area_judiciaria_-_graduacao_em_direitocns101_tipo_1.pdf"
+  },
+  "enunciado": "Em todas as frases abaixo ocorre a presença do adjetivo “bom” / “boa” com diferentes sentidos. Assinale a frase em que há a indicação de um sinônimo inadequado para esse adjetivo.",
+  "alternativas": [
+   "Uma [boa] risada é um raio de sol na casa / barulhenta.",
+   "É um prazer navegar com [bom] tempo / estável.",
+   "Aquele apartamento está sendo vendido por [bom] preço / barato.",
+   "Acho que esse vestido está [bom] nela / bem ajustado.",
+   "Aquele aluno tem uma [boa] letra / legível."
+  ],
+  "gabarito": 0,
+  "comentario": "Os adjetivos sublinhados estão entre colchetes. Em A, “boa risada” significa risada gostosa, sincera, prazerosa — não necessariamente “barulhenta”, que é o sinônimo inadequado. Nas demais, os sinônimos funcionam: bom tempo = estável; bom preço = barato (vantajoso); vestido bom nela = bem ajustado; boa letra = legível.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-trt13-2022-ana-10",
+  "disciplina": "portugues",
+  "assunto": "pt-morfologia",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TRT-13",
+   "ano": 2022,
+   "cargo": "Analista Judiciário – Área Judiciária",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns101_-_analista_judiciario_area_judiciaria_-_graduacao_em_direitocns101_tipo_1.pdf"
+  },
+  "enunciado": "O diminutivo em língua portuguesa mostra valores variados. Assinale a frase abaixo em que o diminutivo tem valor afetivo.",
+  "alternativas": [
+   "Nesse frio, bom mesmo é um [cobertorzinho] amigo.",
+   "O governo deseja que a inflação vá embora [depressinha].",
+   "O deputado mostrava em seu pulso um [reloginho] barato.",
+   "Na Europa ocorre agora uma [guerrinha] suja.",
+   "A mobília da boneca tinha apenas duas [cadeirinhas]."
+  ],
+  "gabarito": 0,
+  "comentario": "Os diminutivos sublinhados estão entre colchetes. Em A, “cobertorzinho amigo” expressa carinho, aconchego: valor afetivo. Em B, “depressinha” intensifica a ideia de rapidez; em C, “reloginho barato” e em D, “guerrinha suja” têm valor pejorativo (desprezo); em E, “cadeirinhas” de boneca indica tamanho pequeno (valor dimensional).",
+  "dificuldade": 1,
+  "anulada": false
+ }
+]

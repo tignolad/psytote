@@ -1,0 +1,252 @@
+[
+ {
+  "id": "fgv-tcerr-2025-ana-1",
+  "disciplina": "portugues",
+  "assunto": "pt-linguagem",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TCE-RR",
+   "ano": 2025,
+   "cargo": "Analista Administrativo – TI – Banco de Dados",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-administrativo-tecnologia-com-especialidade-em-banco-de-dadoscns402-tipo-1.pdf"
+  },
+  "enunciado": "Uma fábrica de tênis anunciou uma nova criação com preço bastante reduzido; o anúncio vinha acompanhado com uma bela foto de um par do tênis e com promessas de grande elegância.\nSobre a mensagem do anúncio, assinale a afirmativa inadequada.",
+  "alternativas": [
+   "O emissor da mensagem, nesse caso, não é um indivíduo, mas uma empresa.",
+   "Para convencer o cliente a comprar um par de tênis, o texto apela também para a vaidade do comprador.",
+   "O código empregado na veiculação da mensagem envolve palavras e imagens.",
+   "O produto anunciado traz, implicitamente a mensagem de que o comprador potencial é o jovem urbano.",
+   "Um dos elementos utilizados pelo anunciante destaca o interesse do comprador: a redução do preço do produto."
+  ],
+  "gabarito": 3,
+  "comentario": "Nada no anúncio descrito (preço reduzido, foto bonita, promessa de elegância) indica que o público-alvo seja o jovem urbano; a afirmativa D extrapola a situação, por isso é a inadequada. As demais são corretas: o emissor é a fábrica (A), a promessa de elegância apela à vaidade (B), o código é verbal e visual — palavras e foto (C), e o preço reduzido atende ao interesse econômico do comprador (E).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tcerr-2025-ana-2",
+  "disciplina": "portugues",
+  "assunto": "pt-semantica",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TCE-RR",
+   "ano": 2025,
+   "cargo": "Analista Administrativo – TI – Banco de Dados",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-administrativo-tecnologia-com-especialidade-em-banco-de-dadoscns402-tipo-1.pdf"
+  },
+  "enunciado": "Um dos problemas da comunicação entre as pessoas é a possibilidade de ambiguidade da mensagem.\nAssinale a frase em que há essa possibilidade de ambiguidade.",
+  "alternativas": [
+   "O secretário e a gerente da loja vão casar-se.",
+   "O ciclista percorreu 120 km em pouco tempo.",
+   "Ayrton Senna foi nosso melhor piloto de Fórmula 1.",
+   "Os celulares fazem parte do mundo moderno.",
+   "Os dentistas trabalham em nossa boca."
+  ],
+  "gabarito": 0,
+  "comentario": "Em A, \"vão casar-se\" pode significar que o secretário e a gerente vão se casar um com o outro (sentido recíproco) ou que cada um vai se casar com outra pessoa — há ambiguidade. As demais frases têm uma única leitura possível: um percurso em pouco tempo (B), um juízo sobre Senna (C), uma constatação sobre celulares (D) e o local de trabalho dos dentistas (E).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tcerr-2025-ana-3",
+  "disciplina": "portugues",
+  "assunto": "pt-linguagem",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TCE-RR",
+   "ano": 2025,
+   "cargo": "Analista Administrativo – TI – Banco de Dados",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-administrativo-tecnologia-com-especialidade-em-banco-de-dadoscns402-tipo-1.pdf"
+  },
+  "enunciado": "Um turista brasileiro, que viveu 50 anos nos Estados Unidos, ao chegar ao Rio não pôde compreender uma manchete de um jornal carioca.\nNessa circunstância comunicativa, o fracasso da comunicação se deve à(ao)",
+  "alternativas": [
+   "falta de clareza na linguagem empregada.",
+   "desconhecimento do código pelo receptor.",
+   "canal inadequado de comunicação.",
+   "formulação inadequada da mensagem.",
+   "deficiência na linguagem empregada pelo jornal."
+  ],
+  "gabarito": 1,
+  "comentario": "Após 50 anos fora do país, o receptor (o turista) deixou de dominar o código — a língua portuguesa atual, com suas gírias e referências locais usadas nas manchetes cariocas. A falha está no receptor, não na mensagem nem no canal: o jornal escreve para seu público e o canal (jornal impresso) é adequado, o que afasta A, C, D e E.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tcerr-2025-ana-4",
+  "disciplina": "portugues",
+  "assunto": "pt-morfologia",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TCE-RR",
+   "ano": 2025,
+   "cargo": "Analista Administrativo – TI – Banco de Dados",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-administrativo-tecnologia-com-especialidade-em-banco-de-dadoscns402-tipo-1.pdf"
+  },
+  "enunciado": "Assinale a frase em que a forma do gerúndio está mal-empregada pelo fato de as ações expressas não poderem ser simultâneas.",
+  "alternativas": [
+   "Entrou no recinto cantando o hino nacional.",
+   "Encontrei Pedro passeando pelo parque.",
+   "Tendo sido advertido, passou a obedecer.",
+   "Chovendo muito, não sairia de casa.",
+   "Acordou, escrevendo uma reclamação para a empresa."
+  ],
+  "gabarito": 4,
+  "comentario": "O gerúndio simples indica ação simultânea à da oração principal. Em E, acordar e escrever uma reclamação não ocorrem ao mesmo tempo — a escrita é posterior (o adequado seria \"Acordou e escreveu...\"). Em A e B as ações são simultâneas; em C o gerúndio composto (\"tendo sido advertido\") indica anterioridade corretamente; em D o gerúndio tem valor condicional (\"se chovesse muito\"), uso legítimo.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tcerr-2025-ana-5",
+  "disciplina": "portugues",
+  "assunto": "pt-pontuacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TCE-RR",
+   "ano": 2025,
+   "cargo": "Analista Administrativo – TI – Banco de Dados",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-administrativo-tecnologia-com-especialidade-em-banco-de-dadoscns402-tipo-1.pdf"
+  },
+  "enunciado": "Assinale a frase abaixo que está corretamente pontuada.",
+  "alternativas": [
+   "A Internet é uma solução, à procura de um problema.",
+   "Vencer é 90% suor e 40%, técnica.",
+   "Os tempos futuros trarão, muitíssimos, outros inventos.",
+   "Cheguei atrasado e ela, adiantada.",
+   "Os erros, mais curtos, são os melhores."
+  ],
+  "gabarito": 3,
+  "comentario": "Em D, a vírgula marca corretamente a elipse do verbo (\"ela [chegou] adiantada\"). Nas demais a vírgula é indevida: separa o nome de seu complemento/adjunto em A (\"solução à procura de um problema\"), separa \"40%\" de \"técnica\" em B, isola o adjunto \"muitíssimos\" do termo que ele modifica em C e transforma em explicativo o adjunto restritivo \"mais curtos\" em E, alterando o sentido.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tcerr-2025-ana-6",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TCE-RR",
+   "ano": 2025,
+   "cargo": "Analista Administrativo – TI – Banco de Dados",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-administrativo-tecnologia-com-especialidade-em-banco-de-dadoscns402-tipo-1.pdf"
+  },
+  "enunciado": "Observe o seguinte texto:\nÉ necessária a criação de novas leis, como, por exemplo, uma que permita a mudança do nome próprio, pois, às vezes, as pessoas carregam nomes que se tornaram esquisitos, nomes dados por pais idiotas porque as leis não lhes permitem o direito de escolha.\n[termos sublinhados no original: uma, que, nomes, lhes, escolha]\nO termo sublinhado no texto acima que não estabelece coesão com algum termo anterior, é",
+  "alternativas": [
+   "uma.",
+   "que.",
+   "nomes.",
+   "lhes.",
+   "escolha."
+  ],
+  "gabarito": 4,
+  "comentario": "\"Escolha\" é um termo novo no texto, não retoma nenhum elemento anterior. Os demais são elementos coesivos: \"uma\" retoma \"leis\" (uma lei), \"que\" é pronome relativo que retoma \"uma\", \"nomes\" é repetição que retoma \"nomes\" anterior (coesão por reiteração) e \"lhes\" retoma \"pessoas\" (ou \"pais\").",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tcerr-2025-ana-7",
+  "disciplina": "portugues",
+  "assunto": "pt-reescrita",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TCE-RR",
+   "ano": 2025,
+   "cargo": "Analista Administrativo – TI – Banco de Dados",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-administrativo-tecnologia-com-especialidade-em-banco-de-dadoscns402-tipo-1.pdf"
+  },
+  "enunciado": "As frases abaixo mostram uma nova forma de escritura que evita a presença de um pronome relativo.\nAssinale a frase em que essa nova forma se mostra inadequada.",
+  "alternativas": [
+   "Santos Dumont, que criou o avião, é brasileiro / Santos Dumont, criador do avião, é brasileiro.",
+   "Guimarães Rosa, que escreveu esse romance, é mineiro / Guimarães Rosa, autor desse romance, é mineiro.",
+   "O político, que perturbou o debate, foi advertido / O político, destruidor do debate, foi advertido.",
+   "Aquele aluno, que observe bem os fatos, se destaca na turma / Aquele aluno, bom observador dos fatos, se destaca na turma.",
+   "Os professores, que teceram elogios a Churchill, se arrependeram / Os professores, admiradores de Churchill, se arrependeram."
+  ],
+  "gabarito": 2,
+  "comentario": "Em C, \"perturbar\" não equivale a \"destruir\": o substantivo correspondente seria \"perturbador do debate\", e \"destruidor\" altera e exagera o sentido. Nas demais, o substantivo mantém o sentido da oração adjetiva: criou → criador (A), escreveu → autor (B), observa bem → bom observador (D), teceram elogios → admiradores (E).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tcerr-2025-ana-8",
+  "disciplina": "portugues",
+  "assunto": "pt-sintaxe",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TCE-RR",
+   "ano": 2025,
+   "cargo": "Analista Administrativo – TI – Banco de Dados",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-administrativo-tecnologia-com-especialidade-em-banco-de-dadoscns402-tipo-1.pdf"
+  },
+  "enunciado": "As frases abaixo foram modificadas da forma de voz passiva com o verbo ser para a forma de voz passiva com o pronome se.\nAssinale a frase em que a modificação foi feita de forma correta.",
+  "alternativas": [
+   "Este ano será editada uma nova Constituição / se editará.",
+   "O limão é usado como desinfetante / usou-se.",
+   "A parede é demolida por risco de desabar / demoliu-se.",
+   "Os pássaros foram assustados pelo ruído / assustou-se.",
+   "Os crimes foram esclarecidos / Esclareceu-se."
+  ],
+  "gabarito": 0,
+  "comentario": "Na passagem da passiva analítica para a sintética, o verbo deve manter o tempo e concordar com o sujeito. Em A, \"será editada\" (futuro, singular) → \"se editará\" está correto. Em B e C há troca de tempo (presente → pretérito: \"usou-se\", \"demoliu-se\"); em D, além da concordância (\"pássaros\" exige plural), a passiva sintética não admite agente expresso (\"pelo ruído\"); em E falta a concordância com \"os crimes\" (\"Esclareceram-se\").",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tcerr-2025-ana-9",
+  "disciplina": "portugues",
+  "assunto": "pt-vocabulario",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TCE-RR",
+   "ano": 2025,
+   "cargo": "Analista Administrativo – TI – Banco de Dados",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-administrativo-tecnologia-com-especialidade-em-banco-de-dadoscns402-tipo-1.pdf"
+  },
+  "enunciado": "Assinale a frase em que a expressão sublinhada está bem empregada.",
+  "alternativas": [
+   "O ciclista perdeu o controle e foi ao encontro do muro.",
+   "O jornalista não estava ao par do tema.",
+   "Era iminente a chegada do temporal.",
+   "Os jogadores não eram boas companias.",
+   "Derrepente começou a chorar."
+  ],
+  "gabarito": 2,
+  "comentario": "\"Iminente\" (prestes a acontecer) está bem empregado em C — não confundir com \"eminente\" (ilustre). Em A, o choque exige \"de encontro ao\" (\"ao encontro de\" indica aproximação favorável); em B o correto é \"a par do\" (\"ao par\" refere-se a câmbio); em D a grafia é \"companhias\"; em E, \"de repente\" se escreve separado.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tcerr-2025-ana-10",
+  "disciplina": "portugues",
+  "assunto": "pt-sintaxe",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TCE-RR",
+   "ano": 2025,
+   "cargo": "Analista Administrativo – TI – Banco de Dados",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-administrativo-tecnologia-com-especialidade-em-banco-de-dadoscns402-tipo-1.pdf"
+  },
+  "enunciado": "Assinale a frase em que houve troca indevida entre A, À ou HÁ.",
+  "alternativas": [
+   "Estou a duas horas de casa.",
+   "Há cinco semanas te espero.",
+   "Fica a dois dias de viagem.",
+   "Não o vajo à luz do dia.",
+   "À quanto está a dúzia da laranja?"
+  ],
+  "gabarito": 4,
+  "comentario": "Em E não há crase: \"quanto\" é pronome que não admite artigo feminino, logo o correto é \"A quanto está a dúzia...\". Em A e C, \"a\" (preposição) indica distância; em B, \"há\" (verbo haver) indica tempo decorrido; em D, \"à luz do dia\" é locução adverbial feminina com crase correta.",
+  "dificuldade": 1,
+  "anulada": false
+ }
+]

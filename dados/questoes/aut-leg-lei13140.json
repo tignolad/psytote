@@ -1,0 +1,332 @@
+[
+  {
+    "id": "aut-leg-lei13140-001",
+    "disciplina": "legislacao",
+    "assunto": "leg-lei13140",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13140.htm"
+    },
+    "enunciado": "Nos termos do parágrafo único do art. 1º da Lei 13.140/2015, considera-se mediação",
+    "alternativas": [
+      "a atividade técnica exercida por terceiro imparcial sem poder decisório, que, escolhido ou aceito pelas partes, as auxilia e estimula a identificar ou desenvolver soluções consensuais para a controvérsia.",
+      "a atividade técnica exercida por terceiro imparcial com poder decisório, escolhido pelas partes, que profere decisão vinculante sobre a controvérsia.",
+      "a atividade exercida pelo juiz, no curso do processo, para propor às partes os termos de um acordo que encerre a controvérsia.",
+      "a atividade técnica exercida por profissional inscrito em conselho de classe, que avalia o conflito e emite parecer às partes.",
+      "a atividade exercida por terceiro de confiança de uma das partes, que a representa na negociação com a parte contrária."
+    ],
+    "gabarito": 0,
+    "comentario": "Gabarito: A. O art. 1º, parágrafo único, da Lei 13.140/2015 define mediação como a atividade técnica exercida por terceiro imparcial SEM poder decisório, que, escolhido ou aceito pelas partes, as auxilia e estimula a identificar ou desenvolver soluções consensuais. Quem decide com caráter vinculante é o árbitro (arbitragem), não o mediador; e o mediador extrajudicial não precisa ser inscrito em conselho (art. 9º).",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-lei13140-002",
+    "disciplina": "legislacao",
+    "assunto": "leg-lei13140",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13140.htm"
+    },
+    "enunciado": "O art. 2º da Lei 13.140/2015 enumera os princípios que orientam a mediação. NÃO está entre eles o princípio da",
+    "alternativas": [
+      "imparcialidade do mediador.",
+      "oralidade.",
+      "autonomia da vontade das partes.",
+      "publicidade.",
+      "boa-fé."
+    ],
+    "gabarito": 3,
+    "comentario": "Gabarito: D. São princípios da mediação (art. 2º): imparcialidade do mediador, isonomia entre as partes, oralidade, informalidade, autonomia da vontade das partes, busca do consenso, confidencialidade e boa-fé. A publicidade não consta e, ao contrário, a confidencialidade é princípio expresso, detalhado nos arts. 30 e 31.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-lei13140-003",
+    "disciplina": "legislacao",
+    "assunto": "leg-lei13140",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13140.htm"
+    },
+    "enunciado": "Duas sócias firmaram contrato com cláusula de mediação. Surgido o conflito, uma delas convida a outra para a mediação. Considerando o art. 2º da Lei 13.140/2015, a parte convidada",
+    "alternativas": [
+      "poderá recusar-se a comparecer à primeira reunião, pois ninguém é obrigado a participar de mediação.",
+      "deverá comparecer à primeira reunião de mediação, mas não será obrigada a permanecer no procedimento.",
+      "deverá comparecer a todas as reuniões até a lavratura do termo final, em razão da cláusula contratual.",
+      "deverá comparecer à primeira reunião e só poderá deixar o procedimento com autorização do mediador.",
+      "ficará obrigada a celebrar acordo, já que a cláusula de mediação tem natureza vinculante."
+    ],
+    "gabarito": 1,
+    "comentario": "Gabarito: B. Pelo art. 2º, § 1º, havendo previsão contratual de cláusula de mediação, as partes deverão comparecer à primeira reunião de mediação. O § 2º, porém, garante que ninguém será obrigado a permanecer em procedimento de mediação, o que decorre da autonomia da vontade. Não há obrigação de acordo nem de presença em todas as reuniões.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-lei13140-004",
+    "disciplina": "legislacao",
+    "assunto": "leg-lei13140",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13140.htm"
+    },
+    "enunciado": "A respeito do objeto da mediação, conforme o art. 3º da Lei 13.140/2015, é correto afirmar que",
+    "alternativas": [
+      "somente conflitos sobre direitos disponíveis podem ser objeto de mediação, vedada qualquer mediação sobre direitos indisponíveis.",
+      "pode ser objeto de mediação o conflito sobre direitos indisponíveis que admitam transação, sendo o acordo válido independentemente de homologação judicial.",
+      "a mediação deve versar sobre a totalidade do conflito, vedada a mediação parcial.",
+      "pode ser objeto de mediação o conflito sobre direitos indisponíveis que admitam transação, dispensada a oitiva do Ministério Público na homologação.",
+      "pode ser objeto de mediação o conflito que verse sobre direitos disponíveis ou sobre direitos indisponíveis que admitam transação, devendo o consenso envolvendo estes últimos ser homologado em juízo, exigida a oitiva do Ministério Público."
+    ],
+    "gabarito": 4,
+    "comentario": "Gabarito: E. O art. 3º admite mediação sobre direitos disponíveis ou indisponíveis que admitam transação; o § 1º permite que ela verse sobre todo o conflito ou parte dele; e o § 2º determina que o consenso envolvendo direitos indisponíveis, mas transigíveis, seja homologado em juízo, exigida a oitiva do Ministério Público. As alternativas incorretas suprimem algum desses elementos.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-lei13140-005",
+    "disciplina": "legislacao",
+    "assunto": "leg-lei13140",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13140.htm"
+    },
+    "enunciado": "Uma psicóloga atuou como mediadora em conflito entre dois irmãos sobre os cuidados com a mãe idosa; a última audiência ocorreu em março de 2026. Em setembro de 2026, um dos irmãos pede que ela o assessore em ação contra o outro sobre o mesmo tema. Segundo a Lei 13.140/2015, a mediadora",
+    "alternativas": [
+      "pode aceitar, pois o impedimento é de seis meses, contado do término da última audiência.",
+      "está impedida pelo prazo de dois anos, contado da lavratura do termo final da mediação.",
+      "está impedida de assessorar, representar ou patrocinar qualquer das partes pelo prazo de um ano, contado do término da última audiência em que atuou.",
+      "pode aceitar, desde que a outra parte concorde expressamente.",
+      "está impedida pelo prazo de um ano, contado da primeira reunião de mediação."
+    ],
+    "gabarito": 2,
+    "comentario": "Gabarito: C. O art. 6º da Lei 13.140/2015 estabelece que o mediador fica impedido, pelo prazo de um ano, contado do término da última audiência em que atuou, de assessorar, representar ou patrocinar qualquer das partes. Como apenas seis meses se passaram, ela está impedida. A lei não prevê dispensa da quarentena por concordância da outra parte.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-lei13140-006",
+    "disciplina": "legislacao",
+    "assunto": "leg-lei13140",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13140.htm"
+    },
+    "enunciado": "Ao término de uma mediação frustrada, uma das partes ajuíza ação e arrola o mediador como testemunha sobre o que foi dito nas sessões. Considerando a Lei 13.140/2015, o mediador",
+    "alternativas": [
+      "deve depor como testemunha, mas pode recusar-se a responder sobre fatos sigilosos.",
+      "pode atuar como testemunha se ambas as partes o autorizarem por escrito.",
+      "não pode atuar como testemunha em processos judiciais ou arbitrais pertinentes a conflito em que tenha atuado como mediador.",
+      "não pode atuar como testemunha, mas pode ser nomeado árbitro no mesmo conflito, se as partes concordarem.",
+      "pode atuar como testemunha, desde que já tenha decorrido o prazo de um ano do término da mediação."
+    ],
+    "gabarito": 2,
+    "comentario": "Gabarito: C. O art. 7º da Lei 13.140/2015 dispõe que o mediador não poderá atuar como árbitro nem funcionar como testemunha em processos judiciais ou arbitrais pertinentes a conflito em que tenha atuado como mediador. A vedação é dupla (árbitro e testemunha) e não se submete ao prazo de um ano do art. 6º, que trata de assessoria, representação ou patrocínio das partes.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-lei13140-007",
+    "disciplina": "legislacao",
+    "assunto": "leg-lei13140",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13140.htm"
+    },
+    "enunciado": "Um psicólogo com formação em mediação, mas não cadastrado em nenhum tribunal, é convidado por dois vizinhos a mediar extrajudicialmente um conflito. À luz do art. 9º da Lei 13.140/2015, ele",
+    "alternativas": [
+      "não pode atuar, pois a mediação extrajudicial exige inscrição em cadastro de tribunal.",
+      "pode atuar apenas se estiver graduado há pelo menos dois anos em curso superior reconhecido pelo MEC.",
+      "pode atuar somente se estiver inscrito em câmara privada de mediação credenciada pelo tribunal.",
+      "não pode atuar, pois a mediação é atividade privativa de bacharel em Direito inscrito na OAB.",
+      "pode funcionar como mediador extrajudicial, por ser pessoa capaz, da confiança das partes e capacitada, independentemente de integrar conselho, entidade de classe ou associação, ou nele inscrever-se."
+    ],
+    "gabarito": 4,
+    "comentario": "Gabarito: E. Pelo art. 9º, poderá funcionar como mediador extrajudicial qualquer pessoa capaz que tenha a confiança das partes e seja capacitada para fazer mediação, independentemente de integrar qualquer tipo de conselho, entidade de classe ou associação, ou nele inscrever-se. A exigência de graduação há pelo menos dois anos e de cadastro no tribunal refere-se ao mediador JUDICIAL (arts. 11 e 12).",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-lei13140-008",
+    "disciplina": "legislacao",
+    "assunto": "leg-lei13140",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13140.htm"
+    },
+    "enunciado": "Para atuar como mediador judicial, o art. 11 da Lei 13.140/2015 exige que a pessoa seja capaz,",
+    "alternativas": [
+      "graduada há pelo menos dois anos em curso de ensino superior de instituição reconhecida pelo MEC e capacitada em escola ou instituição de formação de mediadores reconhecida pela ENFAM ou pelos tribunais, observados os requisitos mínimos do CNJ e do Ministério da Justiça.",
+      "graduada há pelo menos três anos em Direito, Psicologia ou Serviço Social e aprovada em concurso promovido pelo tribunal.",
+      "graduada há pelo menos dois anos em curso superior e inscrita na OAB, dispensada a capacitação específica.",
+      "graduada em qualquer curso superior, sem exigência de tempo mínimo, e capacitada em curso reconhecido pelo CNJ.",
+      "graduada há pelo menos cinco anos em curso superior e com experiência comprovada em conciliação."
+    ],
+    "gabarito": 0,
+    "comentario": "Gabarito: A. O art. 11 da Lei 13.140/2015 exige do mediador judicial: ser pessoa capaz, graduada há pelo menos dois anos em curso de ensino superior de instituição reconhecida pelo Ministério da Educação, e capacitada em escola ou instituição de formação de mediadores reconhecida pela ENFAM ou pelos tribunais, observados os requisitos mínimos estabelecidos pelo CNJ em conjunto com o Ministério da Justiça. A graduação pode ser em qualquer área.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-lei13140-009",
+    "disciplina": "legislacao",
+    "assunto": "leg-lei13140",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13140.htm"
+    },
+    "enunciado": "Na mediação extrajudicial, uma parte envia à outra, por e-mail, convite para iniciar o procedimento, indicando o escopo, a data e o local da primeira reunião. Não há cláusula contratual de mediação. De acordo com a Lei 13.140/2015, o convite",
+    "alternativas": [
+      "é inválido, pois deve ser feito por notificação extrajudicial em cartório.",
+      "considerar-se-á aceito se não for respondido em até dez dias úteis do recebimento.",
+      "considerar-se-á rejeitado se não for respondido em até quinze dias da data do envio.",
+      "considerar-se-á rejeitado se não for respondido em até trinta dias da data de seu recebimento.",
+      "obriga a parte convidada a comparecer à primeira reunião, sob pena de multa."
+    ],
+    "gabarito": 3,
+    "comentario": "Gabarito: D. O art. 21 da Lei 13.140/2015 permite que o convite seja feito por qualquer meio de comunicação, estipulando escopo, data e local da primeira reunião; seu parágrafo único dispõe que o convite será considerado rejeitado se não for respondido em até trinta dias da data de seu recebimento. Sem cláusula contratual, não há obrigação de comparecer.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-lei13140-010",
+    "disciplina": "legislacao",
+    "assunto": "leg-lei13140",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13140.htm"
+    },
+    "enunciado": "Um contrato prevê cláusula de mediação, mas não traz os elementos exigidos pelo art. 22 da Lei 13.140/2015. Aplicam-se, então, os critérios supletivos do § 2º desse artigo. Sobre eles, assinale a afirmativa correta.",
+    "alternativas": [
+      "A primeira reunião deve ocorrer no prazo mínimo de cinco dias úteis e máximo de seis meses, contados do envio do convite.",
+      "Será enviada lista de cinco nomes de mediadores capacitados; se a parte convidada não se manifestar, considerar-se-á aceito o primeiro nome da lista.",
+      "Será enviada lista de três nomes de mediadores; se a parte convidada não se manifestar, o mediador será indicado pelo tribunal.",
+      "O não comparecimento da parte convidada à primeira reunião acarretará a assunção de cem por cento das custas e honorários sucumbenciais em processo posterior.",
+      "O não comparecimento da parte convidada à primeira reunião acarretará o encerramento da mediação e a presunção de veracidade dos fatos alegados pela parte convidante."
+    ],
+    "gabarito": 1,
+    "comentario": "Gabarito: B. O art. 22, § 2º, prevê, na falta de previsão contratual completa: I – prazo mínimo de dez dias úteis e máximo de três meses para a primeira reunião, contados do recebimento do convite; II – local adequado a reunião que possa envolver informações confidenciais; III – lista de cinco nomes de mediadores capacitados, considerando-se aceito o primeiro nome se a parte convidada não se manifestar; IV – o não comparecimento da parte convidada acarreta a assunção de cinquenta por cento das custas e honorários sucumbenciais caso venha a ser vencedora em procedimento arbitral ou judicial posterior.",
+    "dificuldade": 3,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-lei13140-011",
+    "disciplina": "legislacao",
+    "assunto": "leg-lei13140",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13140.htm"
+    },
+    "enunciado": "Em uma mediação judicial, a primeira sessão ocorreu em 1º de agosto. Segundo a Lei 13.140/2015, o procedimento deverá ser concluído em até",
+    "alternativas": [
+      "trinta dias, contados da primeira sessão, prorrogáveis uma única vez pelo juiz.",
+      "sessenta dias, contados da primeira sessão, salvo quando as partes, de comum acordo, requererem sua prorrogação.",
+      "sessenta dias, contados da distribuição da petição inicial, improrrogáveis.",
+      "noventa dias, contados da primeira sessão, salvo prorrogação determinada pelo mediador.",
+      "cento e vinte dias, contados da citação do réu, salvo acordo das partes."
+    ],
+    "gabarito": 1,
+    "comentario": "Gabarito: B. O art. 28 da Lei 13.140/2015 estabelece que o procedimento de mediação judicial deverá ser concluído em até sessenta dias, contados da primeira sessão, salvo quando as partes, de comum acordo, requererem sua prorrogação. Se houver acordo, os autos são encaminhados ao juiz, que determinará o arquivamento e, se requerido, homologará o acordo por sentença (parágrafo único).",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-lei13140-012",
+    "disciplina": "legislacao",
+    "assunto": "leg-lei13140",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13140.htm"
+    },
+    "enunciado": "Analise as afirmativas sobre a mediação judicial na Lei 13.140/2015.\nI. Na mediação judicial, os mediadores não estarão sujeitos à prévia aceitação das partes, observado o disposto no art. 5º (impedimento e suspeição).\nII. Solucionado o conflito pela mediação antes da citação do réu, não serão devidas custas judiciais finais.\nIII. Na mediação judicial, as partes poderão ser assistidas por advogados ou defensores públicos, sendo essa assistência sempre facultativa.\nEstá correto o que se afirma em",
+    "alternativas": [
+      "I, apenas.",
+      "II, apenas.",
+      "II e III, apenas.",
+      "I, II e III.",
+      "I e II, apenas."
+    ],
+    "gabarito": 4,
+    "comentario": "Gabarito: E. I reproduz o art. 25 e II o art. 29 da Lei 13.140/2015. III está errada: na mediação judicial, o art. 26 determina que as partes DEVERÃO ser assistidas por advogados ou defensores públicos, ressalvadas as hipóteses das Leis 9.099/1995 e 10.259/2001 (juizados especiais). A assistência facultativa é a regra da mediação extrajudicial (art. 10).",
+    "dificuldade": 3,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-lei13140-013",
+    "disciplina": "legislacao",
+    "assunto": "leg-lei13140",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13140.htm"
+    },
+    "enunciado": "Durante uma mediação familiar, um dos participantes revela ao mediador que agrediu fisicamente o ex-cônjuge, fato que configura crime de ação pública. Quanto à confidencialidade, a Lei 13.140/2015 estabelece que",
+    "alternativas": [
+      "toda informação relativa ao procedimento é confidencial, inclusive a relativa a crime, salvo autorização expressa de ambas as partes.",
+      "a informação sobre crime só pode ser revelada se for indispensável para o cumprimento do acordo obtido.",
+      "a informação sobre crime só pode ser revelada mediante requisição judicial, vedada a comunicação espontânea.",
+      "não está abrigada pela regra de confidencialidade a informação relativa à ocorrência de crime de ação pública.",
+      "a confidencialidade alcança apenas o mediador, podendo as partes revelar livremente o que foi dito nas sessões."
+    ],
+    "gabarito": 3,
+    "comentario": "Gabarito: D. O art. 30 da Lei 13.140/2015 estabelece a confidencialidade de toda informação relativa ao procedimento, salvo se as partes decidirem de forma diversa ou quando a divulgação for exigida por lei ou necessária ao cumprimento do acordo; o § 3º dispõe expressamente que não está abrigada pela confidencialidade a informação relativa à ocorrência de crime de ação pública. O § 1º estende o dever ao mediador, às partes, prepostos, advogados, assessores técnicos e outras pessoas de confiança que tenham participado.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-lei13140-014",
+    "disciplina": "legislacao",
+    "assunto": "leg-lei13140",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13140.htm"
+    },
+    "enunciado": "Analise as afirmativas sobre a confidencialidade na Lei 13.140/2015.\nI. O dever de confidencialidade alcança o reconhecimento de fato por qualquer das partes no curso do procedimento de mediação.\nII. A prova apresentada em desacordo com as regras de confidencialidade poderá ser admitida em processo judicial, a critério do juiz.\nIII. A informação prestada por uma parte em sessão privada não poderá ser revelada às demais, exceto se expressamente autorizado pela parte que a prestou.\nEstá correto o que se afirma em",
+    "alternativas": [
+      "I e III, apenas.",
+      "I, apenas.",
+      "III, apenas.",
+      "I e II, apenas.",
+      "II e III, apenas."
+    ],
+    "gabarito": 0,
+    "comentario": "Gabarito: A. I está correta: o art. 30, § 1º, II, inclui o reconhecimento de fato por qualquer das partes entre o que o dever de confidencialidade alcança. III reproduz o art. 31. II está errada: o art. 30, § 2º, dispõe que a prova apresentada em desacordo com o artigo NÃO será admitida em processo arbitral ou judicial.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-lei13140-015",
+    "disciplina": "legislacao",
+    "assunto": "leg-lei13140",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13140.htm"
+    },
+    "enunciado": "Sobre o início, o encerramento e os efeitos da mediação na Lei 13.140/2015, assinale a afirmativa correta.",
+    "alternativas": [
+      "Considera-se instituída a mediação na data em que a parte convidada aceita o convite, ficando interrompido o prazo prescricional.",
+      "O procedimento só pode ser encerrado por declaração do mediador, vedado o encerramento por manifestação de uma das partes.",
+      "O termo final de mediação, na hipótese de celebração de acordo, constitui título executivo extrajudicial e, quando homologado judicialmente, título executivo judicial.",
+      "O termo final de mediação com acordo constitui título executivo judicial, independentemente de homologação.",
+      "Enquanto transcorrer o procedimento de mediação, o prazo prescricional continua a correr normalmente."
+    ],
+    "gabarito": 2,
+    "comentario": "Gabarito: C. Pelo art. 20, o procedimento é encerrado com a lavratura do termo final, quando celebrado acordo ou quando não se justificarem novos esforços, seja por declaração do mediador, seja por manifestação de qualquer das partes; o parágrafo único atribui ao termo com acordo natureza de título executivo extrajudicial e, quando homologado, judicial. Pelo art. 17, a mediação se considera instituída na data marcada para a primeira reunião, e o prazo prescricional fica SUSPENSO (não interrompido) enquanto durar o procedimento.",
+    "dificuldade": 3,
+    "anulada": false
+  }
+]

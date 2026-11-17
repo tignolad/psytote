@@ -1,0 +1,1122 @@
+[
+ {
+  "id": "fgv-mpes-2026-psi-21",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-ES",
+   "ano": 2026,
+   "cargo": "Agente Técnico – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/agente-tecnico-psicologo-cns129-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-mpes-servidor-31082026.pdf",
+   "questao_original": 21,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Gabriel, 16 anos, está apresentando um quadro de intensa agitação psicomotora e comportamentos auto e heteroagressivos em decorrência da intoxicação aguda por uso de crack. Considerando a organização da Rede de Atenção Psicossocial (RAPS), a assistência a Gabriel nesse momento deverá ser prestada",
+  "alternativas": [
+   "pelo Conselho Tutelar, considerando se tratar de menor de idade.",
+   "pelo SAMU – Serviço de Atendimento Móvel de Urgência e/ou pela UPA 24 horas.",
+   "pelo CAPS do território, para acolhimento e elaboração do plano terapêutico singular.",
+   "por uma comunidade terapêutica especializada no atendimento a dependentes químicos.",
+   "por meio de reabilitação psicossocial em Centro de Convivência vinculado ao CRAS do território."
+  ],
+  "gabarito": 1,
+  "comentario": "Intoxicação aguda com agitação psicomotora intensa e risco de auto e heteroagressão é uma situação de urgência e emergência. Na RAPS (Portaria 3.088/2011), quem responde a ela é o componente de atenção de urgência e emergência: SAMU 192, UPA 24h e portas hospitalares (B). Depois da estabilização, o CAPS (no caso de adolescente, CAPSi ou CAPS AD) é o ponto de continuidade do cuidado e de elaboração do Projeto Terapêutico Singular, e não do atendimento à crise aguda com risco clínico (C). O Conselho Tutelar não presta assistência à saúde (A), e comunidade terapêutica (D) e centro de convivência (E) não atendem urgências.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mpes-2026-psi-22",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-ES",
+   "ano": 2026,
+   "cargo": "Agente Técnico – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/agente-tecnico-psicologo-cns129-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-mpes-servidor-31082026.pdf",
+   "questao_original": 22,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Amplamente divulgado na mídia, o Estatuto Digital da Criança e do Adolescente, conhecido como ECA Digital, é a nova norma brasileira de proteção de crianças e adolescentes em ambientes digitais. Entre outras medidas, a lei estabeleceu a restrição de estratégias comumente utilizadas nessas plataformas, como a rolagem infinita e as recompensas pelo tempo de uso. Considerando as categorias existentes no CID 11, essa providência pode prevenir o risco de desenvolvimento da(o)",
+  "alternativas": [
+   "compulsão à repetição.",
+   "síndrome de tolerância.",
+   "transtorno de jogo eletrônico.",
+   "transtorno de personalidade dependente.",
+   "transtorno de déficit de atenção e hiperatividade."
+  ],
+  "gabarito": 2,
+  "comentario": "A CID-11 incluiu o 'transtorno de jogo eletrônico' (gaming disorder) entre os transtornos devidos a comportamentos aditivos. Ele se caracteriza por perda de controle sobre o jogo, prioridade crescente ao jogo sobre outras atividades e persistência apesar de prejuízos. Recursos de design como rolagem infinita e recompensas por tempo de uso exploram o reforço intermitente e favorecem o uso compulsivo, e por isso restringi-los é uma medida preventiva (C). Compulsão à repetição é um conceito psicanalítico, e 'síndrome de tolerância' não é categoria da CID. Transtorno de personalidade dependente e TDAH não são o alvo dessa medida.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mpes-2026-psi-23",
+  "disciplina": "especificos",
+  "assunto": "esp-direitos-humanos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-ES",
+   "ano": 2026,
+   "cargo": "Agente Técnico – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/agente-tecnico-psicologo-cns129-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-mpes-servidor-31082026.pdf",
+   "questao_original": 23,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "O debate sobre o direito das mulheres se ampliou com discussões em torno da tipificação da misoginia como crime. Assinale a opção que exemplifica um comportamento misógino no contexto laboral.",
+  "alternativas": [
+   "Alessandra é uma chefe autoritária e temida por suas colegas e subordinadas.",
+   "Andréa pediu transferência de setor por causa da perseguição de seu ex-marido.",
+   "Frederico sempre interrompe Suzana e Cláudia durante as reuniões de equipe.",
+   "O gerente mandou Luana manter seus cabelos cacheados presos em um rabo de cavalo.",
+   "Beatriz foi demitida por Rui, por não atingir as metas de produtividade da sociedade empresária."
+  ],
+  "gabarito": 2,
+  "comentario": "Misoginia é aversão, desprezo ou desvalorização das mulheres por serem mulheres. No trabalho, uma forma típica e sutil é interromper sistematicamente as mulheres nas reuniões ('manterrupting'), silenciando sua participação, como faz Frederico (C). Uma chefe autoritária (A) não indica misoginia. A perseguição pelo ex-marido (B) é violência doméstica, fora do contexto laboral. A ordem sobre os cabelos cacheados (D) sugere sobretudo discriminação estética ou racial. A demissão por metas (E) não tem relação com o gênero.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mpes-2026-psi-24",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-ES",
+   "ano": 2026,
+   "cargo": "Agente Técnico – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/agente-tecnico-psicologo-cns129-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-mpes-servidor-31082026.pdf",
+   "questao_original": 24,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "A psicopatologia estuda as alterações dos processos psicológicos básicos, que incluem percepção, atenção, motivação, cognição, memória, entre outros. As disfunções dessas funções mentais são critérios diagnósticos para os diferentes transtornos mentais. Considerando as categorias do DSM-5, assinale a opção que indica os transtornos para os quais as alterações da percepção e da cognição são parte dos critérios diagnósticos essenciais.",
+  "alternativas": [
+   "Esquizofrenia e Doença de Alzheimer.",
+   "Transtorno Bipolar e Doença de Parkinson.",
+   "Psicose Maníaco Depressiva e Anorexia Nervosa.",
+   "TDAH e Transtorno de Personalidade Borderline.",
+   "Transtorno de Estresse pós-traumático e Depressão."
+  ],
+  "gabarito": 0,
+  "comentario": "Na esquizofrenia, os critérios do DSM-5 incluem alucinações (alteração da sensopercepção) e delírios e desorganização do pensamento (cognição). Na doença de Alzheimer, que corresponde ao transtorno neurocognitivo maior ou leve devido à doença de Alzheimer, o critério central é o declínio cognitivo, sobretudo de memória e aprendizagem, e são comuns agnosias e alterações perceptivas. Por isso a resposta é A. Nos outros pares ao menos um transtorno não tem percepção e cognição como critérios essenciais: bipolar e depressão são transtornos do humor, Parkinson é doença do movimento, anorexia é transtorno alimentar e borderline é transtorno de personalidade. Além disso, 'psicose maníaco-depressiva' é uma nomenclatura antiga.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mpes-2026-psi-25",
+  "disciplina": "especificos",
+  "assunto": "esp-praticas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-ES",
+   "ano": 2026,
+   "cargo": "Agente Técnico – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/agente-tecnico-psicologo-cns129-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-mpes-servidor-31082026.pdf",
+   "questao_original": 25,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Uma gincana escolar promovida para integrar os alunos no início do ano letivo se transformou em motivo de conflito entre os alunos. O grupo perdedor atribuiu a derrota em uma das tarefas à colega Débora, que tem baixa visão e necessita de adaptações para a realização das atividades. Em razão disso, Débora passou a se isolar e a manifestar desejo de mudar de escola. No contexto descrito acima, assinale a opção que indica o objetivo que se afasta das propostas da mediação escolar.",
+  "alternativas": [
+   "Trabalhar o respeito e a tolerância às diferenças pessoais e o apoio às necessidades da aluna.",
+   "Facilitar a comunicação entre Débora e os colegas visando à restauração das relações no ambiente escolar.",
+   "Envolver Débora, os colegas, a comunidade escolar e as famílias na busca de uma pacificação do conflito.",
+   "Proporcionar um atendimento para Débora e responsabilizar os alunos envolvidos na violência emocional contra ela.",
+   "Promover a educação em valores e na cultura de paz, prevenindo novos conflitos e capacitando os alunos para o diálogo."
+  ],
+  "gabarito": 3,
+  "comentario": "A mediação escolar se baseia no diálogo, na restauração das relações, no envolvimento da comunidade escolar e na cultura de paz (A, B, C, E). Ela não tem caráter punitivo nem busca apontar culpados. Por isso responsabilizar os alunos, como propõe D, se afasta da proposta da mediação, que trabalha com corresponsabilização e reparação construídas pelos próprios envolvidos. Oferecer atendimento a Débora pode ser necessário, mas é outra intervenção, e não um objetivo da mediação.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mpes-2026-psi-26",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-ES",
+   "ano": 2026,
+   "cargo": "Agente Técnico – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/agente-tecnico-psicologo-cns129-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-mpes-servidor-31082026.pdf",
+   "questao_original": 26,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "B.F. Skinner é um psicólogo americano conhecido pelos estudos em torno do comportamento humano e criador do Behaviorismo Radical. Considere a situação a seguir: Rodrigo dirige dentro dos limites de velocidade para evitar multas e a perda de pontos na carteira de habilitação. De acordo com a teoria de Skinner, o comportamento de Rodrigo é um exemplo de",
+  "alternativas": [
+   "reforço positivo.",
+   "reforço negativo.",
+   "punição positiva.",
+   "punição negativa.",
+   "condicionamento clássico."
+  ],
+  "gabarito": 1,
+  "comentario": "No reforço negativo, um comportamento se torna mais frequente porque remove ou evita um estímulo aversivo. Rodrigo mantém o comportamento de dirigir dentro do limite de velocidade porque assim evita a multa e a perda de pontos, ou seja, é um comportamento de esquiva mantido por reforço negativo (B). No reforço positivo seria acrescentado algo agradável. A punição, positiva ou negativa, diminui um comportamento, e o enunciado descreve a manutenção de um comportamento. Condicionamento clássico envolve respostas reflexas eliciadas, não operantes.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mpes-2026-psi-27",
+  "disciplina": "especificos",
+  "assunto": "esp-direitos-humanos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-ES",
+   "ano": 2026,
+   "cargo": "Agente Técnico – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/agente-tecnico-psicologo-cns129-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-mpes-servidor-31082026.pdf",
+   "questao_original": 27,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Fernando, 74 anos, servidor público, será aposentado compulsoriamente quando completar 75 anos de idade. Com relação a essa situação, assinale a afirmativa correta.",
+  "alternativas": [
+   "Fernando fará jus ao Benefício de Prestação Continuada – BPC, pago a todos os cidadãos a partir dos 65 anos de idade.",
+   "A aposentadoria compulsória aos 75 anos tem como fundamento o natural declínio mental de pessoas dessa faixa etária.",
+   "Fernando poderá exercer outras atividades de forma remunerada ou voluntária, de forma a aproveitar seus potenciais e expertise.",
+   "Os planos de incentivo à aposentadoria preveem a oferta de assistência em saúde mental como prevenção terciária contra o surgimento de depressão.",
+   "Com o aumento da expectativa de vida, é recomendável que sejam realizadas campanhas educativas promovendo o capacitismo da terceira idade."
+  ],
+  "gabarito": 2,
+  "comentario": "A aposentadoria compulsória do servidor aos 75 anos é uma regra jurídica de idade, e não presume incapacidade mental (B erra). Ela não impede Fernando de exercer outras atividades, remuneradas ou voluntárias, aproveitando sua experiência, o que está de acordo com o Estatuto da Pessoa Idosa, que garante o direito ao trabalho (C). O BPC se destina a idosos a partir de 65 anos em situação de baixa renda, e não a todos (A). Prevenir o surgimento de depressão seria prevenção primária, e não terciária (D). E erra porque capacitismo é discriminação, e não algo a ser promovido.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mpes-2026-psi-28",
+  "disciplina": "especificos",
+  "assunto": "esp-direitos-humanos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-ES",
+   "ano": 2026,
+   "cargo": "Agente Técnico – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/agente-tecnico-psicologo-cns129-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-mpes-servidor-31082026.pdf",
+   "questao_original": 28,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "O Brasil dispõe de uma legislação voltada para a garantia da dignidade das pessoas com deficiência. Sílvio, deficiente físico, candidato a um cargo público, obteve o direito de realizar o teste de aptidão física adaptado às suas condições. A situação descrita é um exemplo de",
+  "alternativas": [
+   "meritocracia, pois o candidato obteve a aprovação no certame apesar de sua deficiência física.",
+   "privilégio, por introduzir tratamento diferenciado não extensível aos demais candidatos.",
+   "equidade, pois garante adaptações razoáveis que consideram as necessidades especiais de Sílvio.",
+   "igualdade, uma vez que assegura a aplicação uniforme das regras editalícias a todos os candidatos.",
+   "impessoalidade, pois proporciona um tratamento materialmente isonômico na aplicação das regras do certame."
+  ],
+  "gabarito": 2,
+  "comentario": "A Lei Brasileira de Inclusão (Lei 13.146/2015) assegura adaptações razoáveis para que a pessoa com deficiência participe em igualdade de oportunidades, inclusive em concursos. Tratar de forma diferente quem está em situação diferente, para alcançar igualdade real, é equidade, ou igualdade material (C). Isso não é privilégio (B) nem aplicação uniforme das regras (D). O enunciado não fala em aprovação, o que afasta A. A impessoalidade (E) é um princípio da administração pública que veda favorecimentos pessoais, e não é o conceito que descreve a adaptação.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mpes-2026-psi-29",
+  "disciplina": "especificos",
+  "assunto": "esp-praticas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-ES",
+   "ano": 2026,
+   "cargo": "Agente Técnico – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/agente-tecnico-psicologo-cns129-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-mpes-servidor-31082026.pdf",
+   "questao_original": 29,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "A obesidade é reconhecida como uma doença multifatorial, em que fatores genéticos, metabólicos, sociais, psicológicos e ambientais estão envolvidos. O profissional de Psicologia pode integrar as equipes de Atenção Básica à Saúde em programas de tratamento da obesidade. Sobre a atuação do Psicólogo nesses programas, assinale a afirmativa correta.",
+  "alternativas": [
+   "A universalização das cirurgias bariátricas e das canetas emagrecedoras é uma estratégia de prevenção primária à obesidade, cabendo ao Psicólogo a avaliação dos pacientes elegíveis para as intervenções.",
+   "A culpabilização e a discriminação de pessoas com sobrepeso e com obesidade são estímulos aversivos que podem ser usados como fatores de proteção e de incentivo à adesão aos tratamentos visando à perda de peso.",
+   "A prevalência da obesidade nas camadas socioeconômicas mais privilegiadas é comprovada por numerosos estudos, em função do acesso facilitado a alimentos ultraprocessados e de maiores níveis de ansiedade e depressão.",
+   "O atendimento grupal de adolescentes com distúrbios alimentares como anorexia nervosa e bulimia nervosa tem se mostrado estratégia eficaz no tratamento de transtornos da imagem corporal que levam à obesidade.",
+   "A entrevista motivacional é uma abordagem colaborativa centrada no paciente, que incorpora escuta ativa, habilidades interpessoais e apoio para conduzir o paciente da ambivalência à mudança de hábitos obesogênicos."
+  ],
+  "gabarito": 4,
+  "comentario": "A entrevista motivacional (Miller e Rollnick) é uma abordagem colaborativa e centrada na pessoa que trabalha a ambivalência e fortalece a motivação para mudar, usando escuta reflexiva, perguntas abertas e empatia. Por isso é útil no tratamento da obesidade (E). Cirurgia bariátrica e medicamentos não são prevenção primária (A). Culpabilizar e discriminar pioram a adesão e a saúde mental (B). A obesidade tende a ser mais prevalente nas camadas socioeconômicas mais vulneráveis (C). Anorexia e bulimia não são transtornos que 'levam à obesidade' (D).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mpes-2026-psi-30",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-ES",
+   "ano": 2026,
+   "cargo": "Agente Técnico – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/agente-tecnico-psicologo-cns129-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-mpes-servidor-31082026.pdf",
+   "questao_original": 30,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Mariana, 17 anos, deixou de frequentar o tratamento contra a obesidade na Unidade Básica de Saúde (UBS). Durante busca ativa, verificou-se que Mariana havia abandonado a escola, passava o dia em seu quarto no escuro e estava se automutilando. Sobre o caso apresentado, assinale a opção que indica a estratégia que pode ser adotada pela equipe da UBS em consonância com as diretrizes do Sistema Único de Saúde (SUS).",
+  "alternativas": [
+   "Providenciar a internação psiquiátrica involuntária de Mariana, considerando o quadro de depressão.",
+   "Aguardar Mariana retornar espontaneamente ao tratamento, considerando a importância da adesão voluntária.",
+   "Solicitar à equipe do Centro de Atenção Psicossocial Infanto- Juvenil (CAPSi) o apoio matricial para o caso de Mariana.",
+   "Desligar Mariana do programa de tratamento na UBS e encaminhá-la para atendimento em unidade especializada.",
+   "Comunicar ao Conselho Tutelar e à Vara da Infância e da Juventude o abandono do tratamento para medidas com relação aos pais."
+  ],
+  "gabarito": 2,
+  "comentario": "O apoio matricial é o arranjo do SUS em que equipes especializadas, como o CAPSi para crianças e adolescentes com sofrimento psíquico grave, dão retaguarda técnico-pedagógica e assistencial às equipes da Atenção Básica, compartilhando o caso sem desresponsabilizá-las (C). A internação involuntária é recurso extremo e não é a primeira estratégia (A). Esperar diante de automutilação seria negligência (B). Desligar e encaminhar rompe o vínculo e a coordenação do cuidado pela UBS (D). E transforma a situação em questão punitiva antes de se oferecer cuidado.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mpes-2026-psi-31",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-ES",
+   "ano": 2026,
+   "cargo": "Agente Técnico – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/agente-tecnico-psicologo-cns129-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-mpes-servidor-31082026.pdf",
+   "questao_original": 31,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "O Ministério Público propôs ação de Perda do Poder Familiar de uma mulher de 28 anos com relação aos filhos, com fundamento em reiteradas denúncias de negligência. A mulher foi denunciada por abandono por deixar a filha de 8 anos cuidando do irmão de 5 anos, quando saía para trabalhar como diarista. Um estudo psicológico dessa situação que leve em consideração a interseccionalidade e o SUAS envolverá analisar as categorias listadas a seguir, à exceção de uma. Assinale-a.",
+  "alternativas": [
+   "Gênero e raça.",
+   "Territorialidade e saúde mental.",
+   "Contexto socioeconômico e escolaridade.",
+   "Configuração da rede familiar e comunitária.",
+   "Religião e acesso às políticas públicas de assistencialismo."
+  ],
+  "gabarito": 4,
+  "comentario": "Uma análise interseccional desse caso considera gênero e raça (A), território (B), contexto socioeconômico e escolaridade (C) e a rede familiar e comunitária de apoio (D). Com isso se percebe que a suposta 'negligência' pode refletir a falta de creche, de escola em tempo integral e de rede de proteção para uma mãe trabalhadora. A exceção é E, sobretudo pelo termo 'assistencialismo': no SUAS, a assistência social é um direito de cidadania e uma política pública, e não caridade ou assistencialismo. A religião também não é uma categoria central dessa análise.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mpes-2026-psi-32",
+  "disciplina": "legislacao",
+  "assunto": "leg-codigo-etica",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-ES",
+   "ano": 2026,
+   "cargo": "Agente Técnico – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/agente-tecnico-psicologo-cns129-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-mpes-servidor-31082026.pdf",
+   "questao_original": 32,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "O psicólogo Marcos foi intimado a depor em Juízo, em uma audiência criminal de um processo de abuso sexual de uma criança por ele atendida. Sobre o caso, de acordo com o Código de Ética Profissional do Psicólogo, assinale a afirmativa correta.",
+  "alternativas": [
+   "Marcos poderá quebrar o sigilo a fim de garantir a proteção da criança.",
+   "É vedada a participação de psicólogos como depoentes em audiências.",
+   "Marcos poderá participar, mas não poderá quebrar o sigilo em nenhuma hipótese.",
+   "Marcos poderá ser o entrevistador da criança em tela, durante o depoimento especial.",
+   "Marcos poderá quebrar o sigilo mediante autorização expressa de um ou ambos os responsáveis."
+  ],
+  "gabarito": 0,
+  "comentario": "O Código de Ética (art. 10) admite a quebra de sigilo em situações de conflito, baseando a decisão na busca do menor prejuízo, e restringe a revelação ao estritamente necessário. O art. 11 prevê que, quando requisitado a depor em juízo, o psicólogo pode prestar informações considerando o previsto no Código. Para proteger a criança vítima de abuso, Marcos pode, portanto, quebrar o sigilo (A). B e C erram ao vedar o depoimento ou a quebra de sigilo em qualquer hipótese. E erra porque a decisão é técnico-ética do psicólogo e não depende de autorização dos responsáveis, que podem até ser os autores do abuso. D erra porque quem atende a criança não deve acumular o papel de entrevistador no depoimento especial, já que essa sobreposição de papéis compromete a técnica e a ética.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mpes-2026-psi-33",
+  "disciplina": "especificos",
+  "assunto": "esp-direitos-humanos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-ES",
+   "ano": 2026,
+   "cargo": "Agente Técnico – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/agente-tecnico-psicologo-cns129-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-mpes-servidor-31082026.pdf",
+   "questao_original": 33,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Miguel, 10 anos, tem o diagnóstico de TEA com nível 3 de suporte. São direitos de Miguel no tocante à educação:\nI. Educação exclusiva em escolas especializadas da rede pública ou privada.\nII. Integração em atividades extraclasse recreativas, esportivas e de lazer.\nIII. Plano educacional individualizado, com adaptação curricular e de avaliação.\nIV. Matrícula facultativa nas unidades de ensino públicas ou privadas.\nV. Profissional de apoio escolar para acompanhamento em sala de aula.\nEstá correto o que se apresenta em",
+  "alternativas": [
+   "I, II e III, apenas.",
+   "I, II e IV, apenas.",
+   "I, IV e V, apenas.",
+   "II, III e V, apenas.",
+   "III, IV e V, apenas."
+  ],
+  "gabarito": 3,
+  "comentario": "A Lei 12.764/2012 (Política Nacional de Proteção dos Direitos da Pessoa com TEA) e a Lei Brasileira de Inclusão garantem educação inclusiva em classes comuns. Isso inclui participação em todas as atividades escolares, também as extraclasse (II), adaptações curriculares e de avaliação em plano individualizado (III) e profissional de apoio ou acompanhante especializado quando necessário (V). O item I erra porque a educação não deve ser exclusiva em escolas especiais: o paradigma é inclusivo. O item IV erra porque a escola não pode recusar a matrícula, e a lei prevê punição ao gestor que a recusar. Resposta: II, III e V (D).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mpes-2026-psi-34",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-ES",
+   "ano": 2026,
+   "cargo": "Agente Técnico – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/agente-tecnico-psicologo-cns129-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-mpes-servidor-31082026.pdf",
+   "questao_original": 34,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "A fase da adolescência é objeto da atenção de diferentes teóricos do desenvolvimento e da personalidade. A teoria do desenvolvimento humano do psicólogo Erik Erikson organiza a vida em etapas psicossociais, cada uma marcada por um conflito central que precisa ser resolvido. Segundo Erik Erikson, o conflito central na fase da adolescência se dá entre",
+  "alternativas": [
+   "persona X sombra.",
+   "verdadeiro self X falso self.",
+   "identidade X confusão de papéis.",
+   "fase genital X controle superegoico.",
+   "operações concretas X operações formais."
+  ],
+  "gabarito": 2,
+  "comentario": "Na teoria psicossocial de Erik Erikson, cada uma das oito etapas tem uma crise central. Na adolescência, a crise é identidade versus confusão de papéis (ou de identidade), e sua virtude é a fidelidade (C). Persona e sombra são conceitos de Jung (A), verdadeiro e falso self vêm de Winnicott (B), fase genital e superego pertencem à psicanálise freudiana (D) e as operações concretas e formais são estágios cognitivos de Piaget (E).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mpes-2026-psi-35",
+  "disciplina": "especificos",
+  "assunto": "esp-avaliacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-ES",
+   "ano": 2026,
+   "cargo": "Agente Técnico – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/agente-tecnico-psicologo-cns129-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-mpes-servidor-31082026.pdf",
+   "questao_original": 35,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "A anamnese é uma das fontes fundamentais de informação no processo de avaliação psicológica. João, 30 anos, procurou a psicóloga Ana Paula com uma queixa de ansiedade e insônia. Assinale a opção que indica o que a anamnese, nesse contexto, deve envolver.",
+  "alternativas": [
+   "O encaminhamento para realizar exames complementares de saúde.",
+   "A coleta de informações sobre o histórico pessoal, familiar e social de João.",
+   "A aplicação de técnicas de relaxamento e de dessensibilização da ansiedade.",
+   "A aplicação de testes aprovados pelo Sistema de Avaliação de Testes Psicológicos do CFP.",
+   "A elaboração de parecer psicológico para os responsáveis pela demanda de tratamento."
+  ],
+  "gabarito": 1,
+  "comentario": "A anamnese é a coleta sistemática da história de vida do avaliando: dados pessoais, desenvolvimento, saúde, família, escolaridade, trabalho, relações sociais e história da queixa atual (B). Encaminhar para exames (A), aplicar técnicas terapêuticas (C) ou testes (D) e elaborar documentos (E) podem fazer parte do processo, mas não constituem a anamnese.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mpes-2026-psi-36",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-ES",
+   "ano": 2026,
+   "cargo": "Agente Técnico – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/agente-tecnico-psicologo-cns129-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-mpes-servidor-31082026.pdf",
+   "questao_original": 36,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Sobre a Psicologia Institucional de Bleger, assinale a afirmativa correta.",
+  "alternativas": [
+   "Cada grupo é constituído por um conjunto de instituições que têm a tendência de se estabelecer como uma organização.",
+   "O instituído é uma dimensão do processo de institucionalização em que os sentidos e as ações ainda estão em movimento e constituição.",
+   "O instituinte representa a cristalização do processo de institucionalização em uma estrutura que já está estabelecida e estática.",
+   "O psicólogo institucional deve pensar em termos rizomáticos, nos quais as intervenções sejam horizontais, múltiplas e não hierárquicas.",
+   "O pensamento arbóreo tem um fundamento que funciona como a raiz, do qual pode resultar um pensamento inflexível e um modo sedentário de viver."
+  ],
+  "gabarito": 0,
+  "comentario": "Para José Bleger, grupos, instituições e organizações se interpenetram: todo grupo é atravessado por instituições, como normas, valores e papéis, e tende a se cristalizar em organização, o que corresponde à alternativa A. B e C invertem os conceitos da análise institucional francesa (Lourau): o instituído é o que já está cristalizado, e o instituinte é a força de transformação em movimento. D e E trazem as noções de rizoma e pensamento arborescente de Deleuze e Guattari, que não pertencem à psicologia institucional de Bleger.",
+  "dificuldade": 3,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mpes-2026-psi-37",
+  "disciplina": "especificos",
+  "assunto": "esp-direitos-humanos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-ES",
+   "ano": 2026,
+   "cargo": "Agente Técnico – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/agente-tecnico-psicologo-cns129-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-mpes-servidor-31082026.pdf",
+   "questao_original": 37,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "O Brasil vem buscando desenvolver estratégias que sejam mais inclusivas e respeitosas para todos, independentemente de gênero e etnia. Sobre os estudos que apontam para o pacto de branquitude, analise as afirmativas a seguir.\nI. Está relacionado ao lugar de prestígio da brancura como “salário público e psicológico”, que resulta em acesso a bens materiais e simbólicos que os negros não podem usufruir.\nII. Indica uma “naturalização” e uma “normalização” da identidade “branca”, estabelecendo a ideia de que aqueles que têm raça e etnia são os “outros” racializados, ou seja, indígenas e negros.\nIII. Dilui a negritude a partir do processo de assimilação da população mestiça por padrões brancos, com os mestiços passando a incorporar os mesmos privilégios de classe, raça e status dos brancos.\nEstá correto o que se afirma em",
+  "alternativas": [
+   "I, apenas.",
+   "II, apenas.",
+   "III, apenas.",
+   "I e II, apenas.",
+   "II e III, apenas."
+  ],
+  "gabarito": 3,
+  "comentario": "Na obra de Cida Bento, o pacto da branquitude é um acordo tácito entre brancos que preserva privilégios. A ideia de 'salário público e psicológico', retomada de Du Bois, expressa os ganhos materiais e simbólicos da brancura (I). O pacto também naturaliza o branco como norma universal, não racializada, de modo que 'ter raça' fica sendo atributo dos 'outros', negros e indígenas (II). A afirmativa III erra porque a ideologia do branqueamento e da mestiçagem não conferiu aos mestiços os mesmos privilégios dos brancos, já que pardos e pretos seguem em desvantagem social. Resposta: I e II (D).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mpes-2026-psi-38",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-ES",
+   "ano": 2026,
+   "cargo": "Agente Técnico – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/agente-tecnico-psicologo-cns129-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-mpes-servidor-31082026.pdf",
+   "questao_original": 38,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Lucas tem 17 anos e foi adotado legalmente com 1 mês de nascido. Desde a chegada à adolescência, ele pensa em ter acesso às suas origens, desejando conhecer sua família biológica, contando com amplo apoio de seus pais, Murilo e Jaime. Diante do caso apresentado, assinale a afirmativa correta.",
+  "alternativas": [
+   "Lucas só poderá acessar o processo de adoção depois dos 18 anos.",
+   "Aos 18 anos, Lucas terá o direito de conhecer o processo de adoção e suas origens biológicas.",
+   "Em caso da morte de Murilo e Jaime o poder familiar dos pais naturais será restabelecido automaticamente.",
+   "Na adoção por família homoafetiva, apenas o nome de um dos pais constará da Certidão de Nascimento.",
+   "A qualquer tempo, Lucas deverá solicitar autorização por escrito dos adotantes para buscar a família biológica."
+  ],
+  "gabarito": 1,
+  "comentario": "O art. 48 do ECA garante ao adotado o direito de conhecer sua origem biológica e de ter acesso irrestrito ao processo de adoção após completar 18 anos (B). O parágrafo único permite esse acesso antes dos 18, a pedido do adotado, com orientação e assistência jurídica e psicológica, por isso A erra ao usar 'só'. A morte dos adotantes não restabelece o poder familiar dos pais biológicos (art. 49), o que afasta C. Na adoção homoparental constam os nomes de ambos os pais (D). Não há exigência de autorização escrita dos adotantes (E).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mpes-2026-psi-39",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-ES",
+   "ano": 2026,
+   "cargo": "Agente Técnico – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/agente-tecnico-psicologo-cns129-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-mpes-servidor-31082026.pdf",
+   "questao_original": 39,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Um bebê foi encontrado sozinho em uma rua de madrugada e a polícia acionou o plantão do Conselho Tutelar, que acolheu a criança imediatamente. Sobre a dinâmica descrita, assinale a afirmativa correta.",
+  "alternativas": [
+   "O abrigo pode se recusar a acolher sem saber quem são os responsáveis pelo bebê.",
+   "A direção do abrigo deve informar que o bebê foi acolhido, em até 24 horas, à Vara de Infância.",
+   "O Conselho Tutelar deveria ter demandado autorização judicial para acolher o bebê primeiro.",
+   "Em caso de possível arrependimento da mãe biológica, o bebê lhe será entregue assim que ela pedir.",
+   "Apenas o Ministério Público pode mandar acolher uma criança sem ter que pedir antes ao Juiz da Infância."
+  ],
+  "gabarito": 1,
+  "comentario": "O art. 93 do ECA permite que entidades de acolhimento institucional acolham crianças e adolescentes sem prévia determinação judicial, em caráter excepcional e de urgência. Nesse caso, devem comunicar o fato ao Juiz da Infância e da Juventude em até 24 horas (B). Por isso o abrigo não pode recusar o acolhimento emergencial (A), e não era necessária autorização judicial prévia (C). A entrega da criança depende de avaliação e de decisão judicial, e não do simples pedido da mãe (D). A prerrogativa descrita em E não é exclusiva do Ministério Público.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mpes-2026-psi-40",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-ES",
+   "ano": 2026,
+   "cargo": "Agente Técnico – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/agente-tecnico-psicologo-cns129-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-mpes-servidor-31082026.pdf",
+   "questao_original": 40,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Jamile tem 11 anos e cursa o 5° ano do ensino fundamental. Irritada por ter tirado nota baixa, jogou uma pedra no carro da professora. Diante desse comportamento, assinale a afirmativa correta.",
+  "alternativas": [
+   "O Juiz pode determinar medida socioeducativa de internação psiquiátrica.",
+   "O Promotor pode sugerir pena de prestação de serviços à comunidade.",
+   "O Conselheiro Tutelar poderá avaliar a medida protetiva mais adequada diante do caso.",
+   "A Diretora da escola será ouvida sobre a medida socioeducativa mais adequada a ser tomada pelo Juiz.",
+   "O comportamento de Jamile não pode ser considerado infracional, pois só adolescentes cometem atos infracionais."
+  ],
+  "gabarito": 2,
+  "comentario": "Para o ECA, criança é quem tem até 12 anos incompletos. A conduta de Jamile, descrita como crime ou contravenção, é ato infracional (art. 103), mas a criança não recebe medida socioeducativa: recebe medidas de proteção (art. 105), que o Conselho Tutelar pode aplicar (art. 136). Por isso C está correta. E erra porque crianças também praticam ato infracional, apenas com consequência diferente. A erra porque internação psiquiátrica não é medida socioeducativa e o caso não é de adolescente. B e D erram porque não se fala em 'pena' para crianças e porque não cabe medida socioeducativa.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mpes-2026-psi-41",
+  "disciplina": "legislacao",
+  "assunto": "leg-idoso-pcd",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-ES",
+   "ano": 2026,
+   "cargo": "Agente Técnico – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/agente-tecnico-psicologo-cns129-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-mpes-servidor-31082026.pdf",
+   "questao_original": 41,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "O Estatuto da Pessoa Idosa fala que os idosos têm prioridade na restituição do Imposto sobre a Renda. Maurício tem 60 anos e realizou, recentemente, sua declaração fiscal. Em relação à situação de Maurício quanto ao direito à prioridade na restituição do Imposto sobre a Renda, assinale a afirmativa correta.",
+  "alternativas": [
+   "Sim, a prioridade na restituição é cabível para pessoas acima de 55 anos.",
+   "Sim, a prioridade na restituição é cabível para pessoas acima de 60 anos.",
+   "Não, a prioridade na restituição só é cabível para pessoas acima de 65 anos.",
+   "Não, a prioridade na restituição só é cabível para pessoas acima de 70 anos",
+   "Depende, Maurício só pode ter prioridade na restituição se for guardião de criança abaixo de 7 anos."
+  ],
+  "gabarito": 1,
+  "comentario": "O Estatuto da Pessoa Idosa (Lei 10.741/2003) protege pessoas com idade igual ou superior a 60 anos. Entre as garantias de prioridade (art. 3º, parágrafo único), inclui a prioridade no recebimento da restituição do Imposto de Renda. Maurício, com 60 anos, já tem direito a ela (B). As outras idades citadas (55, 65, 70) não correspondem ao marco legal, e a lei não condiciona a prioridade à guarda de criança (E). Obs.: a alternativa fala em 'acima de 60 anos', mas a lei usa 'igual ou superior a 60'; a banca aceitou essa formulação como correta.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mpes-2026-psi-42",
+  "disciplina": "legislacao",
+  "assunto": "leg-idoso-pcd",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-ES",
+   "ano": 2026,
+   "cargo": "Agente Técnico – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/agente-tecnico-psicologo-cns129-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-mpes-servidor-31082026.pdf",
+   "questao_original": 42,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "João, viúvo, 75 anos de idade, tem dois filhos de dois casamentos diferentes. Da primeira união com Estela teve Alberto e, da segunda relação com Beatriz, Helena. Alberto é um homem muito rico, enquanto Helena é funcionária pública municipal. João está passando por grandes dificuldades e ingressou com pedido de pensão alimentícia apenas diante do filho. Sobre a solicitação de João, segundo o Estatuto do Idoso, assinale a afirmativa correta.",
+  "alternativas": [
+   "Helena deve pagar a pensão alimentícia, ainda que não seja exigido dela.",
+   "Alberto deve exigir que sua irmã pague metade da pensão alimentícia para o pai.",
+   "João pode escolher quem será o responsável por assumir a pensão alimentícia.",
+   "O idoso não tem o direito de decidir qual o prestador da pensão alimentícia.",
+   "O advogado detém o poder de decidir quem deve pagar os alimentos ao idoso."
+  ],
+  "gabarito": 2,
+  "comentario": "O art. 12 do Estatuto da Pessoa Idosa estabelece que a obrigação alimentar é solidária e que a pessoa idosa pode escolher, entre os obrigados, de quem cobrará os alimentos. João pode, portanto, demandar apenas Alberto, o filho com mais recursos (C). Essa regra afasta as alternativas que obrigam Helena (A), impõem divisão entre os filhos (B), negam a escolha ao idoso (D) ou a transferem ao advogado (E).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mpes-2026-psi-43",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-ES",
+   "ano": 2026,
+   "cargo": "Agente Técnico – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/agente-tecnico-psicologo-cns129-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-mpes-servidor-31082026.pdf",
+   "questao_original": 43,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Maurílio tem 10 anos e foi adotado pela família de Antônio e Maristela. Desde a sua chegada na família, o menino vem tomando as ações de Antônio como exemplo, pois ele se vinculou bastante à figura paterna. Em função disso, desde a sua adoção, as atitudes de Maurílio estão sendo transformadas porque ele imita e reproduz os comportamentos de seu pai. O comportamento de Maurílio é um exemplo de",
+  "alternativas": [
+   "modelo panóptico.",
+   "incentivo especular.",
+   "reforço testemunhal.",
+   "aprendizado cinestésico.",
+   "aprendizagem vicariante."
+  ],
+  "gabarito": 4,
+  "comentario": "Na teoria social cognitiva de Albert Bandura, a aprendizagem vicariante, ou por observação (modelação), ocorre quando o sujeito adquire comportamentos ao observar e imitar um modelo, sobretudo um modelo significativo e com quem tem vínculo, como Antônio para Maurílio (E). 'Panóptico' é um conceito de Bentham e Foucault ligado à vigilância. 'Incentivo especular', 'reforço testemunhal' e 'aprendizado cinestésico' não são conceitos que descrevam esse processo.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mpes-2026-psi-44",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-ES",
+   "ano": 2026,
+   "cargo": "Agente Técnico – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/agente-tecnico-psicologo-cns129-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-mpes-servidor-31082026.pdf",
+   "questao_original": 44,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "A teoria psicológica reconhecida como terceira força, que postula que as pessoas têm um desejo inato de crescimento pessoal e autorrealização, cuja abordagem é centrada na pessoa, é conhecida como",
+  "alternativas": [
+   "positiva.",
+   "humanista.",
+   "behaviorista.",
+   "psicanalítica.",
+   "psicodramática."
+  ],
+  "gabarito": 1,
+  "comentario": "A psicologia humanista, de Maslow e Rogers, ficou conhecida como a 'terceira força', depois da psicanálise e do behaviorismo. Ela enfatiza a tendência inata ao crescimento e à autorrealização, e uma de suas principais vertentes é a Abordagem Centrada na Pessoa, de Carl Rogers (B). A psicologia positiva (A) é um movimento posterior, de Seligman. Behaviorismo e psicanálise (C, D) são justamente as 'primeira' e 'segunda' forças. O psicodrama (E) é o método de Moreno.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mpes-2026-psi-45",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-ES",
+   "ano": 2026,
+   "cargo": "Agente Técnico – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/agente-tecnico-psicologo-cns129-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-mpes-servidor-31082026.pdf",
+   "questao_original": 45,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Sobre a Teoria do Apego de Bowlby, analise as afirmativas a seguir.\nI. As crianças não se apegam a figuras abusivas, rejeitando inconscientemente esses vínculos.\nII. As primeiras relações de apego, estabelecidas na infância, afetam o estilo de apego do indivíduo ao longo de sua vida.\nIII. O modelo representacional interno criado pela criança sobre si mesma permite, quando o sentimento é de segurança em relação aos cuidadores, acreditar em si própria, tornar-se independente e explorar sua liberdade.\nEstá correto o que se afirma em",
+  "alternativas": [
+   "I, apenas.",
+   "II, apenas.",
+   "III, apenas.",
+   "I e II, apenas.",
+   "II e III, apenas."
+  ],
+  "gabarito": 4,
+  "comentario": "Para Bowlby, as primeiras relações de apego formam modelos operativos internos de si e dos outros, que influenciam os vínculos ao longo da vida (II). Quando a criança se sente segura com seus cuidadores, ela os usa como base segura para explorar o mundo e desenvolver autoconfiança e autonomia (III). A afirmativa I é falsa porque crianças também se apegam a figuras abusivas. Nesses casos, o vínculo tende a ser inseguro ou desorganizado, mas existe, já que o apego é um sistema biológico de busca de proximidade. Resposta: II e III (E).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mpes-2026-psi-46",
+  "disciplina": "legislacao",
+  "assunto": "leg-idoso-pcd",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-ES",
+   "ano": 2026,
+   "cargo": "Agente Técnico – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/agente-tecnico-psicologo-cns129-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-mpes-servidor-31082026.pdf",
+   "questao_original": 46,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Ruan foi acolhido aos 8 anos de idade, após ser abandonado pela família. Ele tem severo déficit cognitivo. Foi realizado longo acompanhamento pela rede de proteção e pelo sistema de garantias de direitos, mas ele chegou à maioridade absolutamente dependente de cuidados, sem condições de se autogerir e sem quaisquer vínculos familiares. Na hipótese descrita, segundo o que preconiza o Estatuto da Pessoa com Deficiência, Ruan deveria ser inserido em um(a)",
+  "alternativas": [
+   "CAPS.",
+   "hospital geral.",
+   "residência inclusiva.",
+   "unidade manicomial.",
+   "moradia para a vida independente."
+  ],
+  "gabarito": 2,
+  "comentario": "A Lei Brasileira de Inclusão (Lei 13.146/2015) define a residência inclusiva como unidade de oferta do SUAS, situada em área residencial, destinada a jovens e adultos com deficiência em situação de dependência, sem condições de autossustentabilidade e com vínculos familiares fragilizados ou rompidos. É exatamente o caso de Ruan (C). A moradia para a vida independente (E) é para pessoas com deficiência com autonomia, que recebem apoios pontuais. O CAPS e o hospital geral (A, B) são serviços de saúde, não de moradia. Unidades manicomiais (D) contrariam a lógica de inclusão e a Reforma Psiquiátrica.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mpes-2026-psi-47",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-ES",
+   "ano": 2026,
+   "cargo": "Agente Técnico – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/agente-tecnico-psicologo-cns129-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-mpes-servidor-31082026.pdf",
+   "questao_original": 47,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Larissa está fazendo um curso preparatório para o ENEM e está bastante preocupada com as provas, estudando muito, diariamente. Ao longo do último ano, ela está tendo dificuldades para dormir, irritabilidade diária, fadiga e extrema inquietação. Apesar de sabermos da complexidade envolvendo a avaliação psicodiagnóstica, os comportamentos de Larissa parecem ser sugestivos de",
+  "alternativas": [
+   "Baby blues.",
+   "Síndrome de boreout.",
+   "Transtorno de pânico.",
+   "Transtorno depressivo maior.",
+   "Transtorno de ansiedade generalizada."
+  ],
+  "gabarito": 4,
+  "comentario": "O transtorno de ansiedade generalizada (DSM-5) se caracteriza por ansiedade e preocupação excessivas, difíceis de controlar, na maioria dos dias por pelo menos 6 meses. Também exige ao menos três destes sintomas: inquietação, fadiga, dificuldade de concentração, irritabilidade, tensão muscular e perturbação do sono. Larissa apresenta esse quadro há um ano (E). O baby blues é uma tristeza transitória do pós-parto (A). Boreout é o adoecimento pelo tédio no trabalho (B). O transtorno de pânico exige ataques de pânico recorrentes (C). O transtorno depressivo maior exige humor deprimido ou anedonia (D), o que não é descrito.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mpes-2026-psi-48",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-ES",
+   "ano": 2026,
+   "cargo": "Agente Técnico – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/agente-tecnico-psicologo-cns129-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-mpes-servidor-31082026.pdf",
+   "questao_original": 48,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "De acordo com Winnicott, a criança nasce indefesa e com potencial a se desenvolver. No entanto, para que esse potencial se concretize, é necessário que o ambiente seja propício para que ela passe da fase da dependência à fase da independência. O conceito desenvolvido pelo autor, que define o ponto de apoio mediador do bebê no processo de separação entre o eu e o não eu, transmitindo-lhe um sentimento de segurança e conforto, e que o ajuda na passagem da dependência absoluta da mãe, para uma dependência relativa à figura materna, é denominado",
+  "alternativas": [
+   "Holding.",
+   "Handling.",
+   "Falso self.",
+   "Objeto transicional.",
+   "Onipotência do bebê."
+  ],
+  "gabarito": 3,
+  "comentario": "Para Winnicott, o objeto transicional, como um paninho ou um ursinho, é a primeira 'possessão não-eu' do bebê. Ele ocupa uma área intermediária entre o subjetivo e o objetivo, ajuda a suportar a separação da mãe e a passar da dependência absoluta à dependência relativa (D). Holding é o sustentar, físico e psíquico, que a mãe oferece (A). Handling é o manejo dos cuidados corporais (B). O falso self é uma defesa diante de falhas ambientais (C). A onipotência é a ilusão inicial do bebê de criar o objeto (E).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mpes-2026-psi-49",
+  "disciplina": "especificos",
+  "assunto": "esp-direitos-humanos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-ES",
+   "ano": 2026,
+   "cargo": "Agente Técnico – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/agente-tecnico-psicologo-cns129-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-mpes-servidor-31082026.pdf",
+   "questao_original": 49,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Olívia e Marcos namoram há 5 meses e, em meio à crise de ciúmes por ver a namorada conversando com um colega de trabalho, Marcos a esganou e esbofeteou no carro após ela ter saído da empresa. Diante da situação descrita, assinale a afirmativa correta.",
+  "alternativas": [
+   "Marcos agiu de forma fisicamente violenta contra a namorada.",
+   "Não há que se falar em violência, pois o namorado agiu motivado por amor.",
+   "Marcos praticou violência moral contra a namorada de acordo com os direitos vigentes.",
+   "Olívia foi vítima de violência psicológica praticada por Marcos, segundo as regras vigentes.",
+   "O caso poderia ser entendido como um exemplo de violência doméstica e familiar apenas se eles já morassem juntos."
+  ],
+  "gabarito": 0,
+  "comentario": "Esganar e esbofetear são formas de violência física, entendida como qualquer conduta que ofenda a integridade ou a saúde corporal (Lei 11.340/2006, art. 7º, I), por isso A está correta. A Lei Maria da Penha abrange qualquer relação íntima de afeto, independentemente de coabitação (art. 5º, III), o que torna E errada. Ciúme ou 'amor' não descaracterizam a violência (B). Violência moral é calúnia, difamação ou injúria (C), e violência psicológica envolve dano emocional, ameaça ou controle (D). Nenhuma das duas é a forma central descrita no caso.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mpes-2026-psi-50",
+  "disciplina": "especificos",
+  "assunto": "esp-avaliacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-ES",
+   "ano": 2026,
+   "cargo": "Agente Técnico – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/agente-tecnico-psicologo-cns129-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-mpes-servidor-31082026.pdf",
+   "questao_original": 50,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Monique é psicóloga do Ministério Público e realizou uma entrevista com o núcleo familiar do menino Afonso. Nessa entrevista, a psicóloga necessariamente precisou abordar alguns temas e assuntos relacionados ao procedimento ministerial, mas também teve liberdade em alterar a ordem das questões, aprofundando-as conforme avaliou ser necessário. Assinale a opção que indica como a entrevista de Monique se classifica.",
+  "alternativas": [
+   "Livre.",
+   "Aberta.",
+   "Estruturada.",
+   "Semiestruturada.",
+   "Não estruturada."
+  ],
+  "gabarito": 3,
+  "comentario": "A entrevista semiestruturada combina temas obrigatórios, previamente definidos, com liberdade para mudar a ordem, aprofundar e acrescentar perguntas conforme a necessidade. Foi o que Monique fez (D). A entrevista estruturada segue roteiro fixo e padronizado (C). As entrevistas livre, aberta ou não estruturada não têm temas obrigatórios predefinidos (A, B, E).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mpes-2026-psi-51",
+  "disciplina": "legislacao",
+  "assunto": "leg-res06-2019",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-ES",
+   "ano": 2026,
+   "cargo": "Agente Técnico – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/agente-tecnico-psicologo-cns129-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-mpes-servidor-31082026.pdf",
+   "questao_original": 51,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "De acordo com a resolução nº 6/2019, que instituiu regras para a elaboração de documentos escritos produzidos pela(o) psicóloga(o) no exercício profissional, assinale a afirmativa correta.",
+  "alternativas": [
+   "A descrição da demanda no laudo psicológico é um requisito dispensável quando feita por determinação judicial.",
+   "Na elaboração de laudos, é facultativa a informação das fontes científicas ou das referências bibliográficas utilizadas.",
+   "No relatório multiprofissional, a análise deve ser feita conjuntamente, devendo ser a conclusão em separado.",
+   "O parecer é o resultado de avaliação psicológica com finalidade de subsidiar decisões relacionadas ao contexto em que surgiu a demanda.",
+   "O documento é o resultado de uma avaliação e/ou uma intervenção psicológica, observados os condicionantes históricos e sociais e seus efeitos."
+  ],
+  "gabarito": null,
+  "comentario": "A questão cobra a Resolução CFP 06/2019. No laudo, a descrição da demanda é item obrigatório, mesmo quando há determinação judicial (A erra), e as referências que fundamentaram o trabalho também devem ser informadas (B erra). O parecer não é resultado de avaliação psicológica: é uma resposta técnica a uma consulta sobre uma questão específica (D erra). A alternativa E se aproxima da noção de documento psicológico da resolução, que manda considerar os condicionantes históricos e sociais e seus efeitos. A questão foi anulada no gabarito definitivo, possivelmente por imprecisão de redação em relação ao texto normativo, o que pode ter deixado margem a mais de uma interpretação.",
+  "dificuldade": 2,
+  "anulada": true
+ },
+ {
+  "id": "fgv-mpes-2026-psi-52",
+  "disciplina": "especificos",
+  "assunto": "esp-avaliacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-ES",
+   "ano": 2026,
+   "cargo": "Agente Técnico – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/agente-tecnico-psicologo-cns129-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-mpes-servidor-31082026.pdf",
+   "questao_original": 52,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Sobre a entrevista psicológica, analise as afirmativas a seguir.\nI. A entrevista com objetivo de pesquisa científica ou a entrevista que se realiza para um terceiro (uma instituição) requer que o entrevistador desperte interesse e participação do entrevistado, ao contrário do que se espera de uma consulta clínica psicológica.\nII. Uma das finalidades da entrevista de devolução é consentir ao entrevistado exprimir seus pensamentos e seus sentimentos em relação às conclusões e recomendações do entrevistador.\nIII. A entrevista aberta permite uma melhor comparação sistemática de dados, além de outras vantagens próprias de todo método padronizado.\nEstá correto o que se afirma em",
+  "alternativas": [
+   "I, apenas.",
+   "II, apenas.",
+   "III, apenas.",
+   "I e II, apenas.",
+   "II e III, apenas."
+  ],
+  "gabarito": 3,
+  "comentario": "As afirmativas seguem Bleger e Ocampo. Na consulta clínica é o entrevistado quem busca ajuda. Já na entrevista de pesquisa ou solicitada por terceiros, como uma instituição, o entrevistador precisa despertar interesse e participação (I). Na entrevista devolutiva, o entrevistado deve poder expressar pensamentos e sentimentos sobre as conclusões e recomendações (II). A afirmativa III descreve a entrevista fechada ou estruturada, e não a aberta: é a padronização que permite comparar sistematicamente os dados. Resposta: I e II (D).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mpes-2026-psi-53",
+  "disciplina": "especificos",
+  "assunto": "esp-fundamentos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-ES",
+   "ano": 2026,
+   "cargo": "Agente Técnico – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/agente-tecnico-psicologo-cns129-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-mpes-servidor-31082026.pdf",
+   "questao_original": 53,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Em sua teoria da sexualidade infantil, Freud apontou para o desenvolvimento de etapas da libido na criança lactente até a fase adulta. Na segunda fase da evolução psicossexual, a relação de objeto possui os valores simbólicos de dom e recusa, delineando traços de caráter que persistirão na vida adulta (ordem, parcimônia, teimosia). Assinale a opção que indica a denominação dessa fase.",
+  "alternativas": [
+   "Oral.",
+   "Anal.",
+   "Fálica.",
+   "Latente.",
+   "Narcísica."
+  ],
+  "gabarito": 1,
+  "comentario": "Na fase anal, a segunda da sequência oral–anal–fálica–latência–genital, a zona erógena é a mucosa anal, e as fezes ganham valor simbólico de dom (presente) ou recusa ligado ao controle esfincteriano. Freud ('Caráter e erotismo anal', 1908) associou a essa fase os traços de ordem, parcimônia e obstinação (B). A fase oral é a primeira, a fálica é a terceira, e a latência é um período e não uma fase da organização libidinal. O narcisismo não integra essa sequência de fases.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mpes-2026-psi-54",
+  "disciplina": "especificos",
+  "assunto": "esp-avaliacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-ES",
+   "ano": 2026,
+   "cargo": "Agente Técnico – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/agente-tecnico-psicologo-cns129-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-mpes-servidor-31082026.pdf",
+   "questao_original": 54,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "A entrevista psicológica de crianças e adolescentes vítimas de abuso sexual é algo complexo, podendo se tornar revitimizadora se for malconduzida. Nesse contexto de discussão, assinale a opção que indica uma conduta / ação que torna a entrevista revitimizadora.",
+  "alternativas": [
+   "Fazer perguntas repetidas para averiguar a veracidade dos fatos relatados pela vítima.",
+   "Assumir uma postura sugestiva e indutiva para demonstrar à vítima que a está escutando e entendendo.",
+   "Dizer que sabe exatamente o que aconteceu, de modo a estimular o rompimento do pacto de silêncio.",
+   "Descrever os sentimentos da criança para ajudá-la a identificar o que sente e, também, para sentir-se compreendida.",
+   "Evitar o uso de palavras do vocabulário infantil e sim de termos técnicos ou formais para fazer referência às zonas anatômicas ou às práticas abusivas."
+  ],
+  "gabarito": null,
+  "comentario": "A questão trata da escuta de crianças e adolescentes vítimas de violência sexual sem revitimização (ver Lei 13.431/2017 e protocolos de entrevista forense). Perguntas repetidas (A), postura sugestiva ou indutiva (B), afirmar que já sabe o que aconteceu (C) e impor termos técnicos em vez do vocabulário da criança (E) são condutas inadequadas, que podem revitimizar e contaminar o relato. Interpretar ou nomear os sentimentos da criança por ela (D) também pode ser indutivo. Como várias alternativas descrevem condutas revitimizadoras e a questão pedia apenas uma, ela foi anulada no gabarito definitivo, provavelmente por admitir mais de uma resposta.",
+  "dificuldade": 2,
+  "anulada": true
+ },
+ {
+  "id": "fgv-mpes-2026-psi-55",
+  "disciplina": "especificos",
+  "assunto": "esp-avaliacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-ES",
+   "ano": 2026,
+   "cargo": "Agente Técnico – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/agente-tecnico-psicologo-cns129-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-mpes-servidor-31082026.pdf",
+   "questao_original": 55,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Susane é psicóloga e atuará como perita numa ação judicial, na qual foi designado André, também psicólogo, para atuar como assistente técnico de uma das partes. Sobre o caso apresentado, de acordo com a Resolução CFP 008/2010, assinale a afirmativa correta.",
+  "alternativas": [
+   "André deverá estar presente em todos os procedimentos metodológicos conduzidos por Susane na avaliação.",
+   "Susane deverá aplicar testes psicológicos em seu trabalho pericial, sob risco de infração ética caso não o faça.",
+   "Susane poderá, na conclusão de sua avaliação pericial, sugerir decisões judiciais que favoreçam o bem-estar psicológico.",
+   "André poderá ouvir pessoas envolvidas, solicitar documentos em poder das partes, entre outros meios previstos no Código de Processo Civil.",
+   "Susane não pode ser psicoterapeuta das partes envolvidas, mas essa proibição não se aplica a André na qualidade de assistente técnico."
+  ],
+  "gabarito": 3,
+  "comentario": "A Resolução CFP 08/2010 trata da atuação do psicólogo como perito e como assistente técnico no Poder Judiciário. O assistente técnico pode valer-se dos meios previstos no Código de Processo Civil, como ouvir pessoas, solicitar documentos e obter informações, para fundamentar seu parecer (D). A erra porque a resolução determina que o assistente técnico não esteja presente nos procedimentos do perito, e vice-versa, para não interferir na dinâmica da avaliação. Testes não são obrigatórios: os métodos são escolha técnica do perito (B). O perito não deve adentrar nas decisões, que são exclusivas do juiz (C). A vedação de atuar sendo psicoterapeuta das partes vale para perito e assistente técnico (E).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mpes-2026-psi-56",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-ES",
+   "ano": 2026,
+   "cargo": "Agente Técnico – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/agente-tecnico-psicologo-cns129-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-mpes-servidor-31082026.pdf",
+   "questao_original": 56,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Com a influência do movimento institucionalista, as práticas grupais superam a sua dimensão técnica para alcançar uma dimensão política. De acordo com essa perspectiva, assinale a opção que indica as potencialidades dessas práticas em serviços de saúde.",
+  "alternativas": [
+   "Possuem dimensão sócio-histórica e podem ampliar as relações de tutela nos serviços de saúde.",
+   "São o tratamento indicado pelos serviços públicos de saúde para aumentar a capacidade da demanda atendida.",
+   "Configuram-se como tratamento de melhor custo-efetividade e são acessíveis à população com poucos recursos financeiros.",
+   "Possibilitam a reabilitação psicossocial, embora sejam menos efetivas quando comparadas às técnicas clínicas individuais.",
+   "Caminham na direção contrária aos movimentos individualizantes e podem produzir a autonomia e a cidadania ativa."
+  ],
+  "gabarito": 4,
+  "comentario": "Na perspectiva institucionalista, os grupos não são apenas uma técnica mais barata ou capaz de atender mais pessoas: são dispositivos políticos. Eles podem romper com a individualização e a psicologização do sofrimento, produzir coletivos, autonomia e cidadania ativa (E). A erra ao dizer que ampliam a tutela, quando o objetivo é reduzi-la. B e C reduzem o grupo a critérios de demanda e custo, justamente a dimensão técnica que a questão diz ser superada. D supõe sem fundamento que o grupo seja inferior à clínica individual.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mpes-2026-psi-57",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-ES",
+   "ano": 2026,
+   "cargo": "Agente Técnico – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/agente-tecnico-psicologo-cns129-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-mpes-servidor-31082026.pdf",
+   "questao_original": 57,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Goffman (1963) conceitua o estigma como uma construção social que representa uma marca cujo portador possui um status desvalorizado em relação aos outros membros da sociedade. Com relação ao estigma social vivenciado por pessoas que sofrem com a dependência de drogas, assinale a afirmativa correta.",
+  "alternativas": [
+   "As mulheres são tão estigmatizadas quanto os homens quando se tornam dependentes de drogas.",
+   "A família é a esfera de maior proteção dos dependentes de drogas, contribuindo para a superação do estigma social.",
+   "As pessoas que sofrem com dependência de drogas evitam buscar ajuda para o tratamento de suas condições, em razão do estigma.",
+   "O enfrentamento do estigma vivenciado por usuários de drogas somente será efetivo com o acesso à psicoterapia individualizada.",
+   "Os trabalhadores da saúde tendem a ter consciência da estigmatização vivenciada por usuários de drogas, estando preparados para abordá-la."
+  ],
+  "gabarito": 2,
+  "comentario": "O estigma, no sentido de Goffman, leva usuários de drogas a esconder sua condição e a evitar os serviços por medo de discriminação, o que é uma das principais barreiras ao tratamento (C). As mulheres usuárias tendem a ser mais estigmatizadas que os homens, por expectativas de gênero e de maternidade (A erra). A família também pode reproduzir o estigma (B erra). O enfrentamento do estigma é coletivo, institucional e cultural, e não depende só de psicoterapia individual (D). Trabalhadores da saúde frequentemente reproduzem atitudes estigmatizantes (E).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mpes-2026-psi-58",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-ES",
+   "ano": 2026,
+   "cargo": "Agente Técnico – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/agente-tecnico-psicologo-cns129-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-mpes-servidor-31082026.pdf",
+   "questao_original": 58,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Considerando uma perspectiva crítica para a construção das políticas públicas para a população em situação de rua, assinale a afirmativa correta.",
+  "alternativas": [
+   "As políticas públicas voltadas à população em situação de rua têm superado práticas higienistas e disciplinares.",
+   "A identificação dos aspectos homogêneos dessa população poderá beneficiá-la com a inserção em um mesmo tipo de dispositivo socioassistencial.",
+   "A compreensão das trajetórias de vida dessa população evidencia a predominância de problemas de personalidade que justificam sua institucionalização.",
+   "A tendência à institucionalização disciplinar da população em situação de rua, posição contrária aos princípios da luta antimanicomial, hospitalar e de abrigos.",
+   "A priorização da assistência desses sujeitos em comunidades terapêuticas, em razão da forte correlação entre dependência de drogas e a população em situação de rua."
+  ],
+  "gabarito": null,
+  "comentario": "A questão pede uma leitura crítica das políticas para a população em situação de rua (ver Política Nacional instituída pelo Decreto 7.053/2009). Essas políticas ainda convivem com práticas higienistas e disciplinares (A erra). A população é heterogênea e exige ofertas diversificadas (B erra). Sua condição é determinada por fatores sociais e estruturais, e não por 'problemas de personalidade' (C erra). Priorizar comunidades terapêuticas contraria a lógica antimanicomial e de cuidado em liberdade (E erra). A alternativa D expressa a ideia crítica esperada, mas está truncada, sem verbo principal. A questão foi anulada no gabarito definitivo, possivelmente por esse defeito de redação.",
+  "dificuldade": 2,
+  "anulada": true
+ },
+ {
+  "id": "fgv-mpes-2026-psi-59",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-ES",
+   "ano": 2026,
+   "cargo": "Agente Técnico – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/agente-tecnico-psicologo-cns129-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-mpes-servidor-31082026.pdf",
+   "questao_original": 59,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Instituída pela Portaria nº 3088/2011, a Rede de Atenção Psicossocial (RAPS) representou um marco para a garantia do cuidado em saúde mental no Brasil. Tendo em vista a perspectiva da Reforma Psiquiátrica Brasileira, assinale a opção que apresenta desafios contemporâneos para o fortalecimento da RAPS.",
+  "alternativas": [
+   "Ampliar a medicalização da população e o acesso a consultas especializadas com médicos e psicólogos.",
+   "Priorizar as tecnologias duras de cuidado no campo da saúde, em detrimento de sua articulação intersetorial.",
+   "Estimular o financiamento da rede hospitalar, possibilitando o incremento de leitos para dar suporte às crises psiquiátricas.",
+   "Superar a precarização no trabalho, haja vista as equipes incompletas e a sobrecarga de trabalho dos profissionais que atuam na saúde mental.",
+   "Promover uma transformação assistencial nos Centros de Atenção Psicossocial, pois estes utilizam grupos em detrimento de técnicas clínicas consagradas."
+  ],
+  "gabarito": 3,
+  "comentario": "Entre os desafios atuais da RAPS na perspectiva da Reforma Psiquiátrica está superar a precarização do trabalho: equipes incompletas, vínculos frágeis, sobrecarga e subfinanciamento (D). As demais alternativas contrariam os princípios da Reforma. Elas propõem ampliar a medicalização (A), priorizar tecnologias duras em vez das tecnologias leves e da intersetorialidade (B), reforçar leitos hospitalares em vez de serviços comunitários (C) e desqualificar os grupos como recurso de cuidado nos CAPS (E).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-mpes-2026-psi-60",
+  "disciplina": "especificos",
+  "assunto": "esp-politicas-publicas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "MP-ES",
+   "ano": 2026,
+   "cargo": "Agente Técnico – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/agente-tecnico-psicologo-cns129-tipo-1.pdf",
+   "fonte_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-mpes-servidor-31082026.pdf",
+   "questao_original": 60,
+   "caderno": "Tipo 1"
+  },
+  "enunciado": "Em História da Loucura (1961), Foucault criou o paradigma asilar que abriu caminho para a radicalização de um processo de dominação, no qual o louco passou a ser objetivado medicamente como alienado. Considerando as contribuições do autor, assinale a opção que indica as consequências do paradigma asilar para o campo “psi”.",
+  "alternativas": [
+   "Instaurou a cura da doença mental, libertando-a de sua relação com a moralidade e do controle social do louco.",
+   "Possibilitou que a loucura fosse objetivamente conhecida em seus atributos psicológicos, tendo a sua essência definida.",
+   "Produziu a patologização do louco, que emergiu do interior das instituições asilares e tornou-se indissociável da cientificidade do campo “psi”.",
+   "Constituiu um gesto humanista, em que os loucos passaram a ser reconhecidos como doentes mentais e puderam ter acesso aos cuidados “psi”.",
+   "Promoveu a superação das lógicas sociais de exclusão pelo campo “psi”, haja vista o imbricamento entre as causas econômicas e sociais que sustentam tal paradigma."
+  ],
+  "gabarito": 2,
+  "comentario": "Em 'História da Loucura', Foucault mostra que o saber psiquiátrico nasce no interior do asilo. A loucura passa a ser objetivada como doença mental a partir da prática asilar, de modo que a patologização do louco se torna indissociável da constituição das ciências 'psi' (C). Foucault critica justamente a leitura humanista de Pinel como libertação dos loucos (D). Para ele, o asilo não superou a moralização e o controle social, mas os reconfigurou (A), e não revelou uma 'essência' da loucura (B). As lógicas de exclusão também não foram superadas (E).",
+  "dificuldade": 2,
+  "anulada": false
+ }
+]

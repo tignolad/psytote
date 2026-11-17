@@ -1,0 +1,199 @@
+### Q21   GABARITO DEFINITIVO: D
+A respeito dos termos que compõem a expressão Sistema Único de Saúde (SUS), analise as afirmativas a seguir. I. O termo sistema indica o somatório das ações assistenciais direcionadas a segmentos populacionais específicos, classificados com base em critérios nosológicos. II. O termo único refere-se à universalização do acesso a todas as ações e cuidados da rede assistencial pública e privada contratada e ao comando único em cada esfera de governo. III. O termo saúde é entendido como resultante e condicionante de condições de vida, trabalho e acesso a bens e serviços e, portanto, como componente da cidadania e não apenas como ausência de doença. Está correto o que se afirma em
+(A) I, apenas.
+(B) II, apenas.
+(C) I e II, apenas.
+(D) II e III, apenas.
+(E) I, II e III.
+
+### Q22   GABARITO DEFINITIVO: E
+O Sistema Único de Saúde (SUS) pauta-se em um conjunto de princípios e diretrizes organizativas, traduzidas corretamente em ações voltadas para
+(A) o fomento da participação popular direta, mediante a criação de Comissões Intergestores Tripartites e de Secretarias Municipais de Saúde.
+(B) a promoção da integralidade, para superar a situação de desigualdade na assistência à saúde da população e investir mais onde a carência é maior.
+(C) a centralização da prestação dos serviços no nível estadual, de modo a assegurar maior qualidade e garantir o controle e a fiscalização por parte dos cidadãos.
+(D) a obrigatoriedade do atendimento público de qualquer cidadão, com o estabelecimento da cobrança progressiva em dinheiro com base em faixas de renda socioeconômicas.
+(E) a organização dos serviços em níveis crescentes de complexidade, circunscritos a uma determinada área geográfica e planejados a partir de critérios epidemiológicos.
+
+### Q23   GABARITO DEFINITIVO: C
+Em relação ao modo como os entes federados devem se articular para formular, implementar e avaliar a política de saúde, considerando a Lei nº 8.080/90, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) É atribuição específica dos Municípios definir, coordenar e executar os programas de vigilância epidemiológica e sanitária. ( ) É uma prerrogativa comum a Estados e Municípios participar do controle dos agravos ao meio ambiente. ( ) Cabe à União, com recursos próprios, financiar o Subsistema de Atenção à Saúde Indígena. As afirmativas são, na ordem apresentada, respectivamente,
+(A) V – V – F.
+(B) V – F – V.
+(C) F – V – V.
+(D) F – V – F.
+(E) V – V – V.
+
+### Q24   GABARITO DEFINITIVO: B
+O usuário do SUS possui o direito de decidir se seus familiares e acompanhantes deverão ser informados sobre seu estado de saúde, bem como tem o direito de ter acesso à anestesia em todas as situações em que for indicada. Essas garantias constam na Carta dos Direitos dos Usuários do SUS e materializam um dos princípios básicos de cidadania que assegura ao brasileiro o ingresso digno nos sistemas de saúde, seja ele público ou privado. A esse respeito, assinale a opção que indica o princípio básico de cidadania que fundamenta os direitos do usuário do SUS citados no trecho.
+(A) O acesso ordenado e organizado aos sistemas de saúde.
+(B) O tratamento adequado e efetivo para seu problema.
+(C) O atendimento que respeite a pessoa, os valores e os direitos do cidadão.
+(D) O atendimento humanizado, acolhedor e livre de qualquer discriminação.
+(E) O comprometimento dos gestores de saúde para que os princípios de cidadania do usuário do SUS sejam cumpridos.
+
+### Q25   GABARITO DEFINITIVO: A
+A respeito da estrutura e funcionamento das instituições e suas relações com a gestão dos serviços de saúde, assinale a afirmativa que caracteriza corretamente um dos órgãos gestores do SUS.
+(A) O Conselho Nacional de Secretários de Saúde (Conass) representa os Estados e o Distrito Federal na Comissão Intergestores Tripartite (CIT) para tratar dos principais temas de saúde.
+(B) A Comissão Intergestores Tripartite (CIT) atua como espaço estratégico de reivindicação, formulação, controle e avaliação da execução das políticas públicas de saúde.
+(C) A Secretária Estadual da Saúde (SES) formula, normatiza, coordena e fiscaliza o Sistema Único de Saúde, em articulação com o Conselho Nacional de Saúde, além de coordenar as ações de atendimento de alta complexidade.
+(D) As Comissões de Saúde são fóruns públicos que se reúnem de quatro em quatro anos, para avaliar e propor diretrizes para a formulação da política de saúde, com a participação de segmentos sociais representativos do SUS
+(E) A Comissão Intergestores Bipartite (CIB) é um órgão deliberativo, constituído por um foro de negociação e pactuação entre gestores federais, estaduais e municipais, quanto aos aspectos operacionais do SUS.
+
+### Q26   GABARITO DEFINITIVO: C
+Os Conselhos de Saúde são o principal canal de participação popular nas decisões da Administração Pública que envolvem o Sistema Único de Saúde (SUS) e, por isso, devem representar a diversidade social e cultural da sociedade. Por meio dos conselhos, a população pode colaborar de forma participativa do planejamento e da fiscalização das políticas públicas na área da saúde. https://www.saude.mg.gov.br/ (Adaptado) Considerando o trecho, assinale a opção que caracteriza corretamente o Conselho de Saúde.
+(A) É um órgão colegiado e paritário do SUS, presente em cada esfera de governo, constituído em situações emergenciais.
+(B) Os conselheiros são representantes do Ministério da Saúde, do Conselho Nacional de Secretários de Saúde e do Conselho Nacional de Secretarias Municipais de Saúde.
+(C) É uma instância deliberativa que analisa e aprova o plano de saúde e analisa e aprova o relatório de gestão.
+(D) Os conselheiros são indicados pelos respectivos gestores executivos da Saúde dos municípios, dos estados e do governo federal.
+(E) É uma instância submetida às secretarias de saúde dos municípios, dos estados e do governo federal.
+
+### Q27   GABARITO DEFINITIVO: A
+As afirmativas a seguir indicam corretamente políticas que enfatizam a promoção da equidade em saúde no âmbito do Sistema Único de Saúde, à exceção de uma. Assinale-a.
+(A) Programa Nacional de Imunizações.
+(B) Política Nacional de Saúde Integral da População Negra.
+(C) Ações e Diretrizes em Saúde para a População em Situação de Rua.
+(D) Política Nacional de Saúde Integral das Populações do Campo e da Floresta.
+(E) Política Nacional de Saúde Integral de Lésbicas, Gays, Bissexuais, Travestis e Transexuais.
+
+### Q28   GABARITO DEFINITIVO: D
+A Política Nacional de Humanização (PNH) está pautada em uma série de diretrizes que expressam métodos adotados para promover a inclusão em saúde. Sobre uma dessas diretrizes, leia a descrição a seguir. Processo constitutivo das práticas de produção e promoção de saúde que implica responsabilização do trabalhador/equipe pelo usuário, desde a sua chegada até a sua saída. Ouvindo sua queixa, considerando suas preocupações e angústias, fazendo uso de uma escuta qualificada que possibilite analisar a demanda e garantir atenção integral, resolutiva e responsável. https://www.gov.br/saude/pt-br (Adaptado) Assinale a opção que indica a diretriz da PNH descrita no trecho acima.
+(A) Vínculo.
+(B) Co-gestão.
+(C) Participação.
+(D) Acolhimento.
+(E) Atendimento.
+
+### Q29   GABARITO DEFINITIVO: B
+Considerando os requisitos de boas práticas de funcionamento para os serviços de saúde, detalhados na Resolução de Diretoria Colegiada RDC 63/2011, assinale a opção que indica o(s) serviço(s) de saúde que, segundo o seu tipo de atividade, documentação e registro, deve(m) se manter disponível(eis).
+(A) O projeto básico de arquitetura, com aprovação pelo Corpo de Bombeiros da Polícia Militar.
+(B) O controle de saúde ocupacional e o controle de qualidade da água.
+(C) Os contratos de serviços terceirizados e a certificação de qualidade em transparência pública.
+(D) A manutenção dos equipamentos e das condições adequadas para a comercialização de produtos químicos.
+(E) O gerenciamento de resíduos de serviços de saúde e o relatório de impacto ambiental.
+
+### Q30   GABARITO DEFINITIVO: E
+Para fortalecer a capacidade de resposta do Sistema Único de Saúde a emergências e desastres ocasionados pela seca e estiagem em Minas Gerais, a Secretaria de Saúde de Minas Gerais (SES/MG) elaborou um Plano de Preparação e Resposta (PPR) específico. Em relação às possíveis ações indicadas nesse documento para fazer frente às emergências ocasionadas pela seca e estiagem em Minas Gerais, analise as ações a seguir. I. No campo da atenção primária, estabelecer previamente articulação e acordos nas Regiões de Saúde, com outros setores e municípios, para cooperação e garantia de recursos, principalmente humanos, materiais e suprimentos de saúde. II. No campo da vigilância em saúde, identificar municípios mineiros atendidos pelo programa Transporte e Distribuição de Água Potável da Defesa Civil/MG e reportar ao Ministério da Saúde a situação do Estado de Minas Gerais no cenário de seca e estiagem. III. No campo da assistência farmacêutica, apoiar a vigilância em saúde no suprimento de hipoclorito de sódio a 2,5% para desinfecção caseira da água para consumo humano, quando necessário. São pertinentes as ações descritas em
+(A) I, apenas.
+(B) II, apenas.
+(C) I e II, apenas.
+(D) II e III, apenas.
+(E) I, II e III.
+
+### Q31   GABARITO DEFINITIVO: *
+Regina procurou a unidade do Programa de Saúde da Família para obter ajuda para sua filha Bianca. Ela relatou à enfermeira da unidade que sua filha Bianca, de 16 anos, não quer sair do quarto para ir à escola e tem se cortado com gilete. Assinale a opção que indica a forma de apoio matricial proposto.
+(A) Marcação de consulta individual de Bianca com o psiquiatra do NASF.
+(B) Encaminhamento da adolescente para o CAPS do território.
+(C) Contrarreferência da adolescente e da mãe a um serviço de psicologia aplicada.
+(D) Consulta conjunta com um profissional da equipe de saúde mental do NASF.
+(E) Internação da jovem em leito psiquiátrico em hospital geral.
+
+### Q32   GABARITO DEFINITIVO: B
+A Lei nº 10.216/2001 dispõe sobre a proteção e os direitos das pessoas portadoras de transtornos mentais e redireciona o modelo assistencial em saúde mental. João, 19 anos, está em surto psicótico, com alucinações auditivas e delírios de conteúdo persecutório. Seu pai chamou o SAMU porque João está com uma faca e ameaça os membros da família. De acordo com a referida lei, assinale a afirmativa correta.
+(A) O SAMU deverá proceder à internação compulsória de João em unidade de pronto atendimento.
+(B) A internação involuntária poderá ser realizada mediante laudo médico circunstanciado, que caracterize os motivos.
+(C) João deverá ser prontamente encaminhado para tratamento ambulatorial no CAPSi de referência.
+(D) A reabilitação psicossocial de João deverá ser conduzida em um serviço residencial terapêutico.
+(E) A internação do paciente em instituição asilar será indicada porque os recursos extra-hospitalares se mostraram insuficientes.
+
+### Q33   GABARITO DEFINITIVO: C
+Na lista das doenças elaborada pelo Ministério da Saúde e pela Organização Pan-Americana da Saúde no Brasil, o trabalho é posto como um dos fatores psicossociais de risco para os transtornos mentais e do comportamento, inclusive o alcoolismo crônico. As opções a seguir apresentam condições de trabalho adversas que podem favorecer o alcoolismo, à exceção de uma. Assinale-a.
+(A) A impossibilidade de progressão na carreira.
+(B) As ocupações que envolvem afastamento prolongado do lar.
+(C) A involução nas taxas de acidentes ocupacionais.
+(D) As situações de tensão, estresse ou perigo.
+(E) As exigências excessivas de responsabilidade.
+
+### Q34   GABARITO DEFINITIVO: E
+O trabalho com pequenos grupos é um recurso fundamental nas práticas de saúde desenvolvidas na atenção primária. Da. Neuza, 79 anos, viúva, paciente poliqueixosa, que frequentemente procura a unidade básica de saúde de seu bairro para pedir remédios, foi convidada a participar de um grupo de convivência para mulheres idosas. Assinale a opção que indica, em um grupo dessa natureza, o mecanismo terapêutico para Da. Neuza.
+(A) A terapia ocupacional para minorar seu declínio cognitivo.
+(B) O favorecimento da adesão ao tratamento medicamentoso.
+(C) A análise das causas infantis de seu comportamento depressivo.
+(D) O tratamento das doenças físicas subjacentes ao mal-estar emocional.
+(E) O desenvolvimento da socialização com mulheres de sua faixa etária.
+
+### Q35   GABARITO DEFINITIVO: A
+Um objetivo da Rede de Atenção Psicossocial (RAPS) é promover o acesso das pessoas com transtornos mentais e com necessidades decorrentes do uso de crack, álcool e outras drogas e suas famílias aos pontos de atenção. Sobre o CAPS AD IV, cuja implantação é prevista em municípios com população acima de 500.000 habitantes, bem como nas capitais estaduais, analise as afirmativas a seguir. I. O CAPS AD IV é um serviço aberto, que fornece atenção contínua aos usuários durante 24 horas e em todos os dias da semana, inclusive finais de semana e feriados. II. O CAPS AD IV tem como uma de suas diretrizes funcionar de forma articulada com as equipes de Consultório na Rua, que atuarão junto aos usuários nas cenas de uso. III. O CAPS AD IV não atenderá crianças ou adolescentes com necessidades relacionadas ao consumo de álcool, crack e outras drogas, devendo esses usuários ser encaminhados a outros equipamentos da RAPS. As afirmativas são, na ordem apresentada, respectivamente,
+(A) V – V – F.
+(B) V – F – V.
+(C) F – V – V.
+(D) V – V – V.
+(E) V – F – F.
+
+### Q36   GABARITO DEFINITIVO: B
+Durante a década de 1970, muitos profissionais denunciaram as condições degradantes em que os hospitais psiquiátricos funcionavam no país. Em 1979 e 1987 foram criados, respectivamente, o Movimento dos Trabalhadores em Saúde Mental (MTSM) e o Movimento Anti-Manicomial, que expressavam a luta dos profissionais por uma nova psiquiatria. É correto afirmar que o tratamento de pessoas com transtornos mentais, a partir da década de 1960, teve como primeira fonte inspiradora as abordagens e terapias desenvolvidas por
+(A) Paulo Amarante.
+(B) Franco Basaglia.
+(C) Nise da Silveira.
+(D) Erving Goffman.
+(E) Pedro Gabriel Delgado.
+
+### Q37   GABARITO DEFINITIVO: C
+Com relação aos Núcleos de Apoio à Saúde da Família (NASF), analise as afirmativas a seguir. I. Eles devem buscar instituir a plena integralidade do cuidado físico e mental aos usuários do SUS, por intermédio da qualificação e complementaridade do trabalho das Equipes Saúde da Família – ESF. II. Eles são a porta de entrada do sistema e devem atuar de forma integrada à rede de serviços de saúde, a partir das demandas identificadas no trabalho conjunto com as equipes Saúde da Família. III. Eles têm o objetivo de ampliar a abrangência, o escopo e a resolutividade das ações da atenção básica. Está correto o que se afirma em
+(A) I, apenas.
+(B) I e II, apenas.
+(C) I e III, apenas.
+(D) II e III, apenas.
+(E) I, II e III.
+
+### Q38   GABARITO DEFINITIVO: A
+Valéria ingressou recentemente em uma equipe de trabalho e passou a ter problemas na interação com os colegas, pois descreve-se de forma superior aos demais, exagerando sua importância, acreditando-se merecedora de tratamento especial e atenção. Além disso, Valéria tem apresentado falta de empatia com as dificuldades vividas pelos colegas, ao mesmo tempo em que minimiza suas próprias falhas, não demonstrando arrependimento ainda que reconhecendo os problemas que criou e relatando que tem inveja dos outros, embora fale de forma invejosa de alguns colegas. Com base nesses comportamentos, é correto afirmar que Valéria apresenta um transtorno de personalidade
+(A) narcisista.
+(B) esquiva.
+(C) paranoide.
+(D) esquizoide.
+(E) esquizotípica.
+
+### Q39   GABARITO DEFINITIVO: E
+De acordo com o Manual de Diagnóstico e Estatísticas das Perturbações Mentais (DSM), o Transtorno Depressivo Maior (TDM) é a representação clássica dos grupos de transtornos depressivos. Sobre os sintomas do TDM, analise os itens a seguir. I. Irritabilidade, ansiedade e angústia. II. Diminuição ou incapacidade de sentir alegria e prazer. III. Perda ou aumento do apetite e do peso. Está correto o que se afirma em
+(A) I, apenas.
+(B) I e II, apenas.
+(C) I e III, apenas.
+(D) II e III, apenas.
+(E) I, II e III.
+
+### Q40   GABARITO DEFINITIVO: D
+O envelhecimento é um processo multifatorial e singular, pois além de se articular às predisposições genéticas, ao nível de escolaridade, ao trabalho, à renda, ao suporte social, também podemos verificar que cada pessoa envelhece à sua maneira, a partir de suas experiências e estilo de vida. Nas discussões sobre envelhecimento da população, destaca-se o etarismo. Sobre etarismo, assinale a afirmativa correta.
+(A) É a maior sensibilidade a agressões do ambiente interno e externo por pessoas idosas.
+(B) É a conservação do nível de adaptação do indivíduo de mais de 60 anos ao meio, em comparação com a idade cronológica.
+(C) É a avaliação de como o indivíduo com mais de 60 anos se comporta e desempenha papéis no meio em que se insere.
+(D) É um tipo de discriminação contra pessoas ou grupos, baseado na idade.
+(E) É a capacidade de buscar o sentido da vida, da aprendizagem e do autoconhecimento em pessoas com mais de 60 anos.
+
+### Q41   GABARITO DEFINITIVO: A
+O psiquiatra e psicanalista Sandor Ferenczi, admirado por Freud, empenhou-se na elasticidade da técnica psicanalítica, sendo uma de suas principais inovações a técnica que consistia em intervir diretamente no tratamento. Ao perceber o deslocamento libidinal do paciente para fantasias e gratificações corporais inconscientes, a técnica proposta por Ferenczi visa à intervenção do analista durante as sessões por meio de ordens e proibições, em vez de ficar limitado a fazer interpretações. Tal técnica é chamada de
+(A) ativa.
+(B) catarse.
+(C) contratransferência.
+(D) hipnose e sugestão.
+(E) tempo lógico da sessão.
+
+### Q42   GABARITO DEFINITIVO: B
+Sob a influência do estruturalismo, Lacan desenvolveu, na primeira parte de seu ensino, uma teoria norteada pela primazia do simbólico, por meio da qual estabeleceu uma diferença determinante entre as psicoses e as neuroses. O critério fundamental de distinção é a ausência ou a presença do significante do Nome-do-Pai na organização subjetiva. Para tanto, introduz um termo original, tomado de empréstimo do Direito, para designar um mecanismo específico da psicose, diferente da operação de recalque no campo das neuroses. Tal termo chama-se
+(A) projeção.
+(B) forclusão.
+(C) interdição.
+(D) sublimação.
+(E) denegação.
+
+### Q43   GABARITO DEFINITIVO: E
+Com relação à atuação da(o) psicóloga(o) em situações de violência sexual contra a criança e o adolescente, analise as afirmativas a seguir: I. O atendimento à criança ou ao adolescente pode ser individual, grupal e/ou familiar nas dimensões psicoterapêuticas e psicossociais, sendo que nestas situações a abordagem psicossocial é idêntica à da psicoterapia. II. No contexto da saúde, sugere-se que o atendimento individual seja utilizado apenas nas entrevistas iniciais, como forma de avaliação preliminar e preparação da criança e do adolescente para a entrada nos grupos, ou quando, a partir dessa avaliação, ficar constatado que o trabalho em grupo não é indicado. III. Na proteção social básica os atendimentos ofertados objetivam fortalecer a capacidade protetiva das famílias e prevenir as situações de violência e de violação de direitos da criança e do adolescente, além de direcioná-los à proteção social especial para o atendimento especializado, quando essas situações forem identificadas. Está correto o que se afirma em
+(A) I, apenas.
+(B) II, apenas.
+(C) III, apenas.
+(D) I e III, apenas.
+(E) II e III, apenas.
+
+### Q44   GABARITO DEFINITIVO: B
+Segundo a teoria de Jean Piaget, comumente chamada de epistemologia genética ou construtivismo, o desenvolvimento humano está dividido em estágios. Em sendo assim, por volta dos dois aos sete anos, a criança experimenta o mundo por meio de representações mentais, desenvolvendo a capacidade de simbolizar objeto ou ação ausente. Nesta fase, não há o princípio da reversibilidade como recurso de pensamento e a fala da criança é de caráter egocêntrico. Tal estágio denomina-se
+(A) sensório motor.
+(B) pré-operatório.
+(C) operatório formal.
+(D) operatório concreto.
+(E) narcisismo secundário.
+
+### Q45   GABARITO DEFINITIVO: C
+Freud descreve a instância da personalidade resultante da convergência do narcisismo infantil e das identificações com os pais, com os seus substitutos individuais e coletivos. Tal instância é o modelo ao qual o sujeito procura se conformar e serve para explicar a fascinação amorosa e a submissão a líderes por meio da qual se constituem os grupos humanos. Tal instância denomina-se:
+(A) Id.
+(B) Ego.
+(C) Ideal de Ego.
+(D) Pai totêmico.
+(E) Narcisismo primário.

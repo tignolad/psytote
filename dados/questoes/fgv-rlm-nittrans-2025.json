@@ -1,0 +1,102 @@
+[
+ {
+  "id": "fgv-nittrans-2025-adm-23",
+  "disciplina": "rlm",
+  "assunto": "rlm-proporcao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "NITTRANS",
+   "ano": 2025,
+   "cargo": "Administrador",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/administradorcns002-tipo-1.pdf"
+  },
+  "enunciado": "Uma empresa de transportes possui vans de cinco modelos diferentes e todas usam mesmo tipo de combustível. No período de uma semana, foram anotados os números de quilômetros percorridos por cada uma das vans e a quantidade de combustível, em litros, que cada uma consumiu. Os dados estão na tabela abaixo.\nVan | Quilômetros | Litros\nVan A | 180 | 20\nVan B | 250 | 30\nVan C | 310 | 32\nVan D | 360 | 34\nVan E | 400 | 40\nEm consumo de combustível, km/litro, a van mais econômica é a",
+  "alternativas": [
+   "Van A.",
+   "Van B.",
+   "Van C.",
+   "Van D.",
+   "Van E."
+  ],
+  "gabarito": 3,
+  "comentario": "Basta calcular km/litro de cada van: A = 180/20 = 9; B = 250/30 ≈ 8,33; C = 310/32 ≈ 9,69; D = 360/34 ≈ 10,59; E = 400/40 = 10. O maior rendimento (mais quilômetros por litro) é o da Van D, ≈ 10,59 km/L. Cuidado: a Van E percorre mais quilômetros, mas consome proporcionalmente mais.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-nittrans-2025-adm-24",
+  "disciplina": "rlm",
+  "assunto": "rlm-medidas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "NITTRANS",
+   "ano": 2025,
+   "cargo": "Administrador",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/administradorcns002-tipo-1.pdf"
+  },
+  "enunciado": "A figura abaixo mostra um retângulo ABCD e um paralelogramo MNPQ inscrito.\n[Figura: retângulo com A no canto inferior esquerdo, B no inferior direito, C no superior direito e D no superior esquerdo; M está no lado AB, N no lado BC, P no lado CD e Q no lado DA.]\nSão dadas as medidas: AM = 8, MB = 4, BN = 3 e NC = 6 em alguma unidade. Os pontos móveis X e Y são tais que:\n• X percorre o contorno do retângulo no sentido anti-horário partindo do ponto A;\n• Y percorre o contorno do paralelogramo no sentido anti-horário partindo do ponto M;\n• a velocidade de Y é o dobro da velocidade de X;\n• os dois móveis partem simultaneamente.\nNo instante em que o móvel X termina sua oitava volta, o móvel Y está",
+  "alternativas": [
+   "no ponto P.",
+   "em um ponto do segmento MN.",
+   "em um ponto do segmento NP.",
+   "em um ponto do segmento PQ.",
+   "em um ponto do segmento QM."
+  ],
+  "gabarito": 2,
+  "comentario": "Retângulo: AB = 8 + 4 = 12 e BC = 3 + 6 = 9, perímetro = 2·(12 + 9) = 42; em 8 voltas X percorre 8·42 = 336. Y, com o dobro da velocidade, percorre 672. No paralelogramo, CP = AM = 8 e DQ = BN = 3, então MN = √(4² + 3²) = 5 e NP = √(6² + 8²) = 10; perímetro = 2·(5 + 10) = 30. 672 = 22·30 + 12, ou seja, Y completa 22 voltas e anda mais 12 a partir de M: 5 até N e mais 7 sobre NP (que mede 10). Logo, Y está em um ponto do segmento NP.",
+  "dificuldade": 3,
+  "anulada": false
+ },
+ {
+  "id": "fgv-nittrans-2025-adm-25",
+  "disciplina": "rlm",
+  "assunto": "rlm-problemas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "NITTRANS",
+   "ano": 2025,
+   "cargo": "Administrador",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/administradorcns002-tipo-1.pdf"
+  },
+  "enunciado": "Uma empresa de transportes interestaduais possui 160 funcionários: uns são motoristas e os demais trabalham na administração da empresa. Os funcionários com mais de 5 anos de casa são chamados de “antigos”, e os demais são os funcionários “novos”. Sabe-se que:\n• há 48 motoristas a mais do que funcionários administrativos.\n• os funcionários antigos são 62.\n• são 30 os funcionários novos que trabalham na administração.\nNessa empresa, o número de motoristas novos supera o número de motoristas antigos em",
+  "alternativas": [
+   "32.",
+   "34.",
+   "36.",
+   "38.",
+   "40."
+  ],
+  "gabarito": 0,
+  "comentario": "Motoristas (M) + administrativos (A) = 160 e M − A = 48, logo 2M = 208, M = 104 e A = 56. Administrativos novos = 30, então administrativos antigos = 56 − 30 = 26. Antigos = 62, logo motoristas antigos = 62 − 26 = 36 e motoristas novos = 104 − 36 = 68. A diferença é 68 − 36 = 32.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-nittrans-2025-adm-26",
+  "disciplina": "rlm",
+  "assunto": "rlm-problemas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "NITTRANS",
+   "ano": 2025,
+   "cargo": "Administrador",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/administradorcns002-tipo-1.pdf"
+  },
+  "enunciado": "Dois dados comuns (com faces contendo os números de 1 a 6) são lançados simultaneamente. Seja P a probabilidade de que as faces superiores não mostrem números consecutivos. Entre as opções a seguir, a que mais se aproxima de P é:",
+  "alternativas": [
+   "0,67.",
+   "0,72.",
+   "0,77.",
+   "0,81.",
+   "0,86."
+  ],
+  "gabarito": 1,
+  "comentario": "Há 6·6 = 36 resultados possíveis. Pares consecutivos: (1,2), (2,3), (3,4), (4,5), (5,6) e os mesmos na ordem inversa, totalizando 10. Logo, os casos sem números consecutivos são 36 − 10 = 26 e P = 26/36 ≈ 0,722, mais próximo de 0,72.",
+  "dificuldade": 2,
+  "anulada": false
+ }
+]

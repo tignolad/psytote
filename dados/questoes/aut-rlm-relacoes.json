@@ -1,0 +1,254 @@
+[
+  {
+    "id": "aut-rlm-relacoes-001",
+    "disciplina": "rlm",
+    "assunto": "rlm-relacoes",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Ana, Bruna e Carla são psicólogas que atendem, cada uma, em um bairro diferente — Botafogo, Tijuca e Méier — e adotam, cada uma, uma abordagem diferente — TCC, psicanálise e humanista. Sabe-se que:\n• Ana não atende na Tijuca e não é psicanalista;\n• a psicóloga humanista atende no Méier;\n• Carla atende em Botafogo;\n• Bruna não é humanista;\n• a psicanalista não atende em Botafogo.\nÉ correto concluir que",
+    "alternativas": [
+      "Bruna atende no Méier.",
+      "Ana é psicanalista.",
+      "Carla adota a TCC.",
+      "Bruna adota a TCC.",
+      "Ana atende em Botafogo."
+    ],
+    "gabarito": 2,
+    "comentario": "Carla está em Botafogo; como Ana não está na Tijuca, Ana está no Méier e Bruna na Tijuca. A humanista atende no Méier, logo Ana é humanista. A psicanalista não está em Botafogo, então não é Carla: é Bruna (Tijuca). Sobra a TCC para Carla. As demais afirmações contrariam essa única distribuição possível.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-rlm-relacoes-002",
+    "disciplina": "rlm",
+    "assunto": "rlm-relacoes",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Cinco integrantes de um grupo terapêutico — Ana, Beto, Caio, Duda e Eva — sentam-se em torno de uma mesa redonda, em cinco cadeiras igualmente espaçadas. Sabe-se que Caio senta-se ao lado de Ana e também ao lado de Eva, e que Beto não se senta ao lado de Eva.\nAs pessoas sentadas ao lado de Duda são",
+    "alternativas": [
+      "Ana e Beto.",
+      "Ana e Caio.",
+      "Caio e Eva.",
+      "Beto e Caio.",
+      "Eva e Beto."
+    ],
+    "gabarito": 4,
+    "comentario": "Caio fica entre Ana e Eva: Ana–Caio–Eva em sequência. Restam duas cadeiras: uma vizinha de Eva e outra vizinha de Ana (e as duas vizinhas entre si). Como Beto não pode ficar ao lado de Eva, ele ocupa a cadeira vizinha de Ana, e Duda fica entre Eva e Beto.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-rlm-relacoes-003",
+    "disciplina": "rlm",
+    "assunto": "rlm-relacoes",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Cinco pacientes — Lia, Mário, Nina, Otto e Pedro — aguardam em uma fila única de atendimento. Sabe-se que:\n• Nina é a terceira da fila;\n• Otto está imediatamente atrás de Lia;\n• Pedro não é o primeiro nem o último;\n• Mário está à frente de Nina.\nO último da fila é",
+    "alternativas": [
+      "Lia.",
+      "Mário.",
+      "Otto.",
+      "Pedro.",
+      "Nina."
+    ],
+    "gabarito": 2,
+    "comentario": "Mário está à frente de Nina, logo na 1ª ou 2ª posição. Se Lia e Otto ocupassem 1ª e 2ª, não sobraria lugar para Mário; então Lia é a 4ª e Otto o 5º. Pedro, que não pode ser o 1º, fica em 2º, e Mário em 1º. Ordem: Mário, Pedro, Nina, Lia, Otto.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-rlm-relacoes-004",
+    "disciplina": "rlm",
+    "assunto": "rlm-relacoes",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Júlia comentou na sessão: “O avô paterno da minha filha tem três filhos homens”. Entre os filhos homens do avô paterno da filha de Júlia, aquele que não é tio da menina é",
+    "alternativas": [
+      "o pai da menina.",
+      "o irmão de Júlia.",
+      "o sogro de Júlia.",
+      "o avô materno da menina.",
+      "o primo da menina."
+    ],
+    "gabarito": 0,
+    "comentario": "O avô paterno da menina é o pai do pai dela. Seus filhos homens são o pai da menina e os irmãos dele; estes últimos são tios da menina. Logo, o único filho que não é tio é o próprio pai da menina. Irmão de Júlia e avô materno pertencem à família materna, e o sogro de Júlia é o próprio avô paterno.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-rlm-relacoes-005",
+    "disciplina": "rlm",
+    "assunto": "rlm-relacoes",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Rui, Saulo e Teo têm idades diferentes e profissões diferentes: um é psicólogo, outro é médico e o outro é advogado. Sabe-se que:\n• o psicólogo é o mais novo dos três;\n• Rui é mais novo que o médico;\n• Teo não é o psicólogo;\n• Saulo é mais velho que Teo;\n• o advogado é mais novo que Saulo.\nÉ correto afirmar que",
+    "alternativas": [
+      "Rui é advogado.",
+      "Saulo é médico.",
+      "Teo é médico.",
+      "Saulo é advogado.",
+      "Rui é o mais velho."
+    ],
+    "gabarito": 1,
+    "comentario": "O psicólogo é o mais novo; não é Teo, nem Saulo (que é mais velho que Teo). Logo Rui é o psicólogo e o mais novo. O advogado é mais novo que Saulo, então o advogado não é Saulo: é Teo. Sobra Saulo como médico, coerente com “Rui é mais novo que o médico”.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-rlm-relacoes-006",
+    "disciplina": "rlm",
+    "assunto": "rlm-relacoes",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Em um serviço-escola, Ana, Bia, Ciro e Davi foram alocados, cada um, em um setor diferente: Recepção, Triagem, Grupo e Plantão. Sabe-se que:\n• Ana não está na Triagem nem no Plantão;\n• Bia não está na Recepção, na Triagem nem no Plantão;\n• Ciro não está na Recepção nem no Grupo;\n• Davi está na Triagem ou na Recepção.\nCiro foi alocado no setor de",
+    "alternativas": [
+      "Recepção.",
+      "Triagem.",
+      "Grupo.",
+      "Plantão.",
+      "Triagem ou Plantão, não sendo possível determinar qual."
+    ],
+    "gabarito": 3,
+    "comentario": "Bia está no Grupo. Ana, que não está na Triagem nem no Plantão e não pode estar no Grupo, fica na Recepção. Davi, então, fica na Triagem, e Ciro, no Plantão. A distribuição é única, de modo que não há indeterminação.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-rlm-relacoes-007",
+    "disciplina": "rlm",
+    "assunto": "rlm-relacoes",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Cinco salas de atendimento, P, Q, R, S e T, têm áreas diferentes. Sabe-se que P é maior que Q, R é menor que S, Q é maior que S e T é a menor de todas.\nA sala que ocupa a terceira posição quando as salas são ordenadas da maior para a menor é",
+    "alternativas": [
+      "Q.",
+      "S.",
+      "R.",
+      "P.",
+      "T."
+    ],
+    "gabarito": 1,
+    "comentario": "Das informações: P > Q, Q > S e S > R, e T é a menor. Logo, P > Q > S > R > T, e a terceira maior é S.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-rlm-relacoes-008",
+    "disciplina": "rlm",
+    "assunto": "rlm-relacoes",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Um prédio de cinco andares (1º ao 5º) tem um consultório por andar, ocupados por Fábio, Gil, Hugo, Iara e Júlia, um em cada andar. Sabe-se que:\n• Gil ocupa o 2º andar;\n• Hugo não ocupa o 1º andar;\n• Iara está em andar abaixo do de Hugo;\n• Fábio está no andar imediatamente acima do de Júlia.\nÉ necessariamente verdade que",
+    "alternativas": [
+      "Hugo ocupa o 5º andar.",
+      "Júlia ocupa o 3º andar.",
+      "Fábio ocupa o 5º andar.",
+      "Iara ocupa o 1º andar.",
+      "Hugo ocupa o 3º andar."
+    ],
+    "gabarito": 3,
+    "comentario": "Sobram os andares 1, 3, 4 e 5. Júlia e Fábio ocupam andares consecutivos: 3 e 4 ou 4 e 5. Se 3 e 4, sobram 1 e 5; Hugo não está no 1º, então Hugo no 5º e Iara no 1º. Se 4 e 5, sobram 1 e 3; Hugo no 3º e Iara no 1º. Nas duas possibilidades, Iara está no 1º andar; as demais afirmações valem em apenas um dos casos.",
+    "dificuldade": 3,
+    "anulada": false
+  },
+  {
+    "id": "aut-rlm-relacoes-009",
+    "disciplina": "rlm",
+    "assunto": "rlm-relacoes",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Na chegada a uma oficina terapêutica, observou-se que Bruno chegou antes de Caio e depois de Denise; Eduardo chegou depois de Caio; e Flávia chegou antes de Denise. Não houve chegadas simultâneas.\nA terceira pessoa a chegar foi",
+    "alternativas": [
+      "Bruno.",
+      "Caio.",
+      "Denise.",
+      "Eduardo.",
+      "Flávia."
+    ],
+    "gabarito": 0,
+    "comentario": "Montando a ordem: Flávia antes de Denise, Denise antes de Bruno, Bruno antes de Caio, Caio antes de Eduardo. Ordem: Flávia, Denise, Bruno, Caio, Eduardo. O terceiro é Bruno.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-rlm-relacoes-010",
+    "disciplina": "rlm",
+    "assunto": "rlm-relacoes",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Três caixas de material de um ateliê terapêutico têm as etiquetas “canetas”, “lápis” e “canetas e lápis”. Uma caixa contém só canetas, outra só lápis e outra canetas e lápis misturados, mas TODAS as etiquetas estão erradas. Retirou-se um único objeto da caixa com a etiqueta “canetas e lápis”, e ele era um lápis.\nConclui-se que a caixa com a etiqueta “lápis” contém",
+    "alternativas": [
+      "apenas canetas.",
+      "apenas lápis.",
+      "canetas e lápis.",
+      "apenas lápis ou canetas e lápis.",
+      "apenas canetas ou canetas e lápis."
+    ],
+    "gabarito": 0,
+    "comentario": "A caixa “canetas e lápis” não é a mista (etiqueta errada) e dela saiu um lápis, logo contém apenas lápis. A caixa “canetas” não pode ter só canetas e não tem só lápis (já atribuídos), então é a mista. Resta à caixa “lápis” conter apenas canetas.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-rlm-relacoes-011",
+    "disciplina": "rlm",
+    "assunto": "rlm-relacoes",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Seis profissionais — Ana, Bia, Caio, Davi, Elisa e Fred — sentam-se em torno de uma mesa redonda com seis cadeiras igualmente espaçadas, de modo que cada pessoa tem exatamente outra sentada à sua frente. Sabe-se que:\n• Ana está sentada em frente a Bia;\n• Caio está ao lado de Ana e também ao lado de Davi;\n• Elisa não está ao lado de Bia.\nQuem está sentado em frente a Fred é",
+    "alternativas": [
+      "Ana.",
+      "Bia.",
+      "Caio.",
+      "Davi.",
+      "Elisa."
+    ],
+    "gabarito": 2,
+    "comentario": "Numere as cadeiras de 0 a 5, com Ana na 0 e Bia na 3 (em frente). Caio, vizinho de Ana, fica na 1 (por simetria) e Davi na 2. Restam as cadeiras 4 e 5; a 4 é vizinha de Bia, então Elisa fica na 5 e Fred na 4. Em frente à cadeira 4 está a cadeira 1, de Caio.",
+    "dificuldade": 3,
+    "anulada": false
+  },
+  {
+    "id": "aut-rlm-relacoes-012",
+    "disciplina": "rlm",
+    "assunto": "rlm-relacoes",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Três casais participam de um grupo de orientação familiar. Os homens são Jorge, Leo e Marcos; as mulheres, Nara, Olga e Paula. Sabe-se que Leo não é casado com Olga e que Marcos não é casado com Nara nem com Olga.\nÉ correto concluir que",
+    "alternativas": [
+      "Jorge é casado com Nara.",
+      "Leo é casado com Paula.",
+      "Marcos é casado com Olga.",
+      "Jorge é casado com Paula.",
+      "Leo é casado com Nara."
+    ],
+    "gabarito": 4,
+    "comentario": "Marcos não é casado com Nara nem com Olga, logo é casado com Paula. Olga não é esposa de Leo nem de Marcos, então é esposa de Jorge. Sobra Nara para Leo.",
+    "dificuldade": 1,
+    "anulada": false
+  }
+]

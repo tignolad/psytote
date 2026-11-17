@@ -1,0 +1,264 @@
+[
+  {
+    "id": "aut-pt-reescrita-001",
+    "disciplina": "portugues",
+    "assunto": "pt-reescrita",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "texto": "Cuidar da mente perto de casa\n\nA atenção básica é, para a maior parte da população, a porta de entrada do sistema de saúde. É na unidade perto de casa que a mãe leva o filho para vacinar, que o idoso mede a pressão e que, muitas vezes, alguém revela pela primeira vez que não consegue dormir há semanas.\n\nEstima-se que boa parte das queixas atendidas nesses serviços tenha algum componente de sofrimento psíquico. Isso exige que as equipes estejam preparadas para acolher, e não apenas para encaminhar. Acolher significa escutar sem pressa, considerar o contexto de vida da pessoa e construir, junto com ela, um plano de cuidado.\n\nO matriciamento surgiu como resposta a essa necessidade. Nele, profissionais de saúde mental apoiam as equipes da atenção básica, discutindo casos e realizando atendimentos conjuntos. Assim, o conhecimento circula, e o paciente deixa de ser enviado de um serviço a outro sem que ninguém se responsabilize por ele.\n\nEmbora enfrente obstáculos, como a falta de profissionais e a alta demanda, esse modelo tem mostrado que cuidar da mente começa no mesmo lugar em que se cuida do corpo.\n\n(Texto autoral, escrito para fins didáticos.)",
+    "enunciado": "Assinale a reescrita do trecho \"Embora enfrente obstáculos, como a falta de profissionais e a alta demanda, esse modelo tem mostrado que cuidar da mente começa no mesmo lugar em que se cuida do corpo\" que mantém o sentido e a correção do original.",
+    "alternativas": [
+      "Porque enfrenta obstáculos, como a falta de profissionais e a alta demanda, esse modelo tem mostrado que cuidar da mente começa no mesmo lugar em que se cuida do corpo.",
+      "Esse modelo enfrenta obstáculos, como a falta de profissionais e a alta demanda; portanto, tem mostrado que cuidar da mente começa no mesmo lugar em que se cuida do corpo.",
+      "Esse modelo, apesar de enfrentar obstáculos, como a falta de profissionais e a alta demanda, tem mostrado que cuidar da mente começa no mesmo lugar em que se cuida do corpo.",
+      "Caso enfrente obstáculos, como a falta de profissionais e a alta demanda, esse modelo mostrará que cuidar da mente começa no mesmo lugar em que se cuida do corpo.",
+      "Esse modelo tem mostrado que cuidar da mente começa no mesmo lugar em que se cuida do corpo, visto que enfrenta obstáculos, como a falta de profissionais e a alta demanda."
+    ],
+    "gabarito": 2,
+    "comentario": "'Embora' indica concessão, e 'apesar de' + infinitivo mantém essa relação. 'Porque' e 'visto que' indicam causa, 'portanto' indica conclusão e 'Caso' indica condição (com mudança de tempo verbal): todas alteram o sentido.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-reescrita-002",
+    "disciplina": "portugues",
+    "assunto": "pt-reescrita",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "texto": "O cansaço que não tira férias\n\nHá um tipo de cansaço que não passa com o fim de semana. Quem o conhece sabe: a segunda-feira chega e o corpo, embora tenha dormido, continua pesado, como se carregasse a semana anterior inteira. Os especialistas chamam esse estado de esgotamento profissional, e a Organização Mundial da Saúde já o reconhece como fenômeno ligado ao trabalho.\n\nNão se trata, porém, de simples preguiça ou falta de força de vontade. O esgotamento costuma atingir justamente os mais dedicados, aqueles que respondem a mensagens à meia-noite e acreditam que descansar é um luxo. Por isso, a solução não pode ser apenas individual: de nada adianta ensinar técnicas de respiração a quem trabalha doze horas por dia sem pausa.\n\nAs empresas que levam o problema a sério revisam metas, redistribuem tarefas e, sobretudo, respeitam o direito de desconectar. Já as que preferem ignorá-lo pagam a conta mais tarde, em afastamentos, rotatividade e perda de talentos.\n\nTalvez o primeiro passo seja mudar a pergunta. Em vez de indagar por que o trabalhador não aguenta, deveríamos perguntar o que, no trabalho, se tornou insuportável.\n\n(Texto autoral, escrito para fins didáticos.)",
+    "enunciado": "Em \"Por isso, a solução não pode ser apenas individual\", o conector \"Por isso\" poderia ser substituído, sem alteração de sentido, por",
+    "alternativas": [
+      "Contudo,",
+      "Conquanto",
+      "Porquanto",
+      "Todavia,",
+      "Por conseguinte,"
+    ],
+    "gabarito": 4,
+    "comentario": "'Por isso' introduz uma conclusão a partir do que foi dito antes, e 'Por conseguinte' tem o mesmo valor conclusivo. 'Contudo' e 'Todavia' são adversativos, 'Conquanto' é concessivo e 'Porquanto' é causal (equivale a 'porque').",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-reescrita-003",
+    "disciplina": "portugues",
+    "assunto": "pt-reescrita",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "texto": "O cansaço que não tira férias\n\nHá um tipo de cansaço que não passa com o fim de semana. Quem o conhece sabe: a segunda-feira chega e o corpo, embora tenha dormido, continua pesado, como se carregasse a semana anterior inteira. Os especialistas chamam esse estado de esgotamento profissional, e a Organização Mundial da Saúde já o reconhece como fenômeno ligado ao trabalho.\n\nNão se trata, porém, de simples preguiça ou falta de força de vontade. O esgotamento costuma atingir justamente os mais dedicados, aqueles que respondem a mensagens à meia-noite e acreditam que descansar é um luxo. Por isso, a solução não pode ser apenas individual: de nada adianta ensinar técnicas de respiração a quem trabalha doze horas por dia sem pausa.\n\nAs empresas que levam o problema a sério revisam metas, redistribuem tarefas e, sobretudo, respeitam o direito de desconectar. Já as que preferem ignorá-lo pagam a conta mais tarde, em afastamentos, rotatividade e perda de talentos.\n\nTalvez o primeiro passo seja mudar a pergunta. Em vez de indagar por que o trabalhador não aguenta, deveríamos perguntar o que, no trabalho, se tornou insuportável.\n\n(Texto autoral, escrito para fins didáticos.)",
+    "enunciado": "Assinale a opção que transpõe corretamente para a voz passiva analítica, mantendo tempo e modo verbais, a frase \"Os especialistas chamam esse estado de esgotamento profissional\".",
+    "alternativas": [
+      "Esse estado é chamado de esgotamento profissional pelos especialistas.",
+      "Esse estado foi chamado de esgotamento profissional pelos especialistas.",
+      "Esse estado são chamados de esgotamento profissional pelos especialistas.",
+      "Os especialistas são chamados de esgotamento profissional por esse estado.",
+      "Esse estado vem sendo chamado de esgotamento profissional pelos especialistas."
+    ],
+    "gabarito": 0,
+    "comentario": "Na passiva analítica, o objeto direto ('esse estado') vira sujeito, o verbo fica em ser + particípio no mesmo tempo da ativa (presente: 'é chamado') e o antigo sujeito vira agente da passiva ('pelos especialistas'). 'Foi chamado' muda o tempo, 'vem sendo' muda o aspecto, 'são chamados' erra a concordância, e a frase que torna 'os especialistas' sujeito paciente inverte os papéis.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-reescrita-004",
+    "disciplina": "portugues",
+    "assunto": "pt-reescrita",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "texto": "O cansaço que não tira férias\n\nHá um tipo de cansaço que não passa com o fim de semana. Quem o conhece sabe: a segunda-feira chega e o corpo, embora tenha dormido, continua pesado, como se carregasse a semana anterior inteira. Os especialistas chamam esse estado de esgotamento profissional, e a Organização Mundial da Saúde já o reconhece como fenômeno ligado ao trabalho.\n\nNão se trata, porém, de simples preguiça ou falta de força de vontade. O esgotamento costuma atingir justamente os mais dedicados, aqueles que respondem a mensagens à meia-noite e acreditam que descansar é um luxo. Por isso, a solução não pode ser apenas individual: de nada adianta ensinar técnicas de respiração a quem trabalha doze horas por dia sem pausa.\n\nAs empresas que levam o problema a sério revisam metas, redistribuem tarefas e, sobretudo, respeitam o direito de desconectar. Já as que preferem ignorá-lo pagam a conta mais tarde, em afastamentos, rotatividade e perda de talentos.\n\nTalvez o primeiro passo seja mudar a pergunta. Em vez de indagar por que o trabalhador não aguenta, deveríamos perguntar o que, no trabalho, se tornou insuportável.\n\n(Texto autoral, escrito para fins didáticos.)",
+    "enunciado": "Assinale a reescrita do trecho \"a solução não pode ser apenas individual\" que mantém o seu sentido original.",
+    "alternativas": [
+      "apenas a solução não pode ser individual",
+      "a solução não pode ser individual apenas",
+      "a solução apenas não pode ser individual",
+      "a solução não pode ser individual",
+      "a solução pode ser apenas não individual"
+    ],
+    "gabarito": 1,
+    "comentario": "No original, 'apenas' modifica 'individual': a solução pode ter uma parte individual, mas não pode se limitar a ela. Pôr 'apenas' logo depois de 'individual' preserva esse sentido. Antes de 'a solução', o advérbio passa a restringir o sujeito; antes de 'não pode', restringe a negação. Sem ele, a frase proíbe qualquer solução individual, e 'apenas não individual' inverte a ideia.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-reescrita-005",
+    "disciplina": "portugues",
+    "assunto": "pt-reescrita",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "texto": "Bancos para pessoas\n\nMoro num bairro onde as praças foram, aos poucos, substituídas por estacionamentos. Ninguém decidiu isso numa reunião; aconteceu como acontecem as coisas nas cidades grandes, sem aviso e sem culpados. Um dia, percebi que já não havia onde sentar.\n\nA psicologia urbana tem um nome para os lugares que nos fazem bem: espaços de convivência. Neles, encontramos desconhecidos sem a obrigação de conversar, mas com a possibilidade de fazê-lo. É ali que o idoso troca duas palavras com o jornaleiro, que a criança aprende a dividir o balanço, que o recém-chegado deixa de ser estranho.\n\nQuando esses espaços somem, a solidão não aparece de repente. Ela se instala devagar, disfarçada de rotina: casa, carro, trabalho, carro, casa. Os vizinhos viram rostos sem nome, e o bairro, um endereço.\n\nNão quero romantizar o passado, que tinha seus próprios problemas. Mas desconfio de que uma cidade se mede menos pela quantidade de vagas que oferece aos automóveis do que pelos bancos que oferece às pessoas.\n\n(Texto autoral, escrito para fins didáticos.)",
+    "enunciado": "Em \"Quando esses espaços somem, a solidão não aparece de repente\", o conector \"Quando\" poderia ser substituído, sem alteração de sentido, por",
+    "alternativas": [
+      "Uma vez que",
+      "Se bem que",
+      "À medida que",
+      "No momento em que",
+      "Contanto que"
+    ],
+    "gabarito": 3,
+    "comentario": "'Quando' introduz uma oração adverbial temporal, e 'No momento em que' conserva essa ideia. 'Uma vez que' indica causa, 'Se bem que' indica concessão, 'À medida que' indica proporção e 'Contanto que' indica condição.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-reescrita-006",
+    "disciplina": "portugues",
+    "assunto": "pt-reescrita",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Considere a frase \"Muitos trabalhadores preferem mais responder a mensagens de madrugada do que parecer descomprometidos.\" Assinale a reescrita que a corrige segundo a norma culta.",
+    "alternativas": [
+      "Muitos trabalhadores preferem responder a mensagens de madrugada a parecer descomprometidos.",
+      "Muitos trabalhadores preferem responder a mensagens de madrugada do que parecer descomprometidos.",
+      "Muitos trabalhadores preferem mais responder a mensagens de madrugada que parecer descomprometidos.",
+      "Muitos trabalhadores preferem antes responder a mensagens de madrugada do que parecer descomprometidos.",
+      "Muitos trabalhadores preferem muito mais responder a mensagens de madrugada a parecer descomprometidos."
+    ],
+    "gabarito": 0,
+    "comentario": "Segundo a norma culta, o verbo 'preferir' rege a preposição 'a' (prefere-se uma coisa a outra) e rejeita intensificadores como 'mais', 'antes' ou 'muito mais', porque a ideia de preferência já está no próprio verbo. Só a reescrita sem intensificador e com 'a' atende às duas exigências. As demais mantêm 'do que'/'que' ou algum intensificador.",
+    "dificuldade": 3,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-reescrita-007",
+    "disciplina": "portugues",
+    "assunto": "pt-reescrita",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "texto": "Elogio da espera\n\nAntigamente, esperar era um tempo morto. Na fila do banco ou no consultório, restava observar as pessoas, ler os avisos na parede ou simplesmente pensar em nada. Hoje, o celular ocupa cada um desses intervalos, e o tédio, que parecia um inimigo, tornou-se quase uma raridade.\n\nPesquisadores da atenção alertam, no entanto, que o tédio cumpre uma função. É nos momentos vazios que a mente divaga, associa ideias distantes e, não raro, encontra soluções que o esforço concentrado não alcançou. Sem eles, vivemos estimulados o tempo todo, mas criamos pouco.\n\nIsso não significa que devamos jogar o aparelho fora. A tecnologia aproxima familiares distantes, facilita o acesso a serviços e, para muitos, é ferramenta de trabalho. O problema não está no objeto, mas no hábito de recorrer a ele sempre que surge um segundo de silêncio.\n\nExperimente, na próxima espera, deixar o telefone no bolso. Os primeiros minutos serão desconfortáveis; depois, talvez você reencontre um velho conhecido: seu próprio pensamento.\n\n(Texto autoral, escrito para fins didáticos.)",
+    "enunciado": "Assinale a reescrita do trecho \"Sem eles, vivemos estimulados o tempo todo, mas criamos pouco\" que mantém a relação de sentido entre as orações.",
+    "alternativas": [
+      "Como, sem eles, vivemos estimulados o tempo todo, criamos pouco.",
+      "Sem eles, vivemos estimulados o tempo todo; portanto, criamos pouco.",
+      "Embora, sem eles, vivamos estimulados o tempo todo, criamos pouco.",
+      "Se, sem eles, vivermos estimulados o tempo todo, criaremos pouco.",
+      "Sem eles, vivemos estimulados o tempo todo, pois criamos pouco."
+    ],
+    "gabarito": 2,
+    "comentario": "A oposição marcada por 'mas' (há muito estímulo e, ainda assim, pouca criação) se mantém com a concessiva 'Embora', que exige o subjuntivo ('vivamos'). 'Como' introduz causa, 'portanto' conclusão, 'Se' condição e 'pois' explicação: todas mudam a relação entre as orações.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-reescrita-008",
+    "disciplina": "portugues",
+    "assunto": "pt-reescrita",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "texto": "Cuidar da mente perto de casa\n\nA atenção básica é, para a maior parte da população, a porta de entrada do sistema de saúde. É na unidade perto de casa que a mãe leva o filho para vacinar, que o idoso mede a pressão e que, muitas vezes, alguém revela pela primeira vez que não consegue dormir há semanas.\n\nEstima-se que boa parte das queixas atendidas nesses serviços tenha algum componente de sofrimento psíquico. Isso exige que as equipes estejam preparadas para acolher, e não apenas para encaminhar. Acolher significa escutar sem pressa, considerar o contexto de vida da pessoa e construir, junto com ela, um plano de cuidado.\n\nO matriciamento surgiu como resposta a essa necessidade. Nele, profissionais de saúde mental apoiam as equipes da atenção básica, discutindo casos e realizando atendimentos conjuntos. Assim, o conhecimento circula, e o paciente deixa de ser enviado de um serviço a outro sem que ninguém se responsabilize por ele.\n\nEmbora enfrente obstáculos, como a falta de profissionais e a alta demanda, esse modelo tem mostrado que cuidar da mente começa no mesmo lugar em que se cuida do corpo.\n\n(Texto autoral, escrito para fins didáticos.)",
+    "enunciado": "Assinale a reescrita do trecho \"Isso exige que as equipes estejam preparadas para acolher\" que, por meio de nominalização, mantém o sentido e a correção.",
+    "alternativas": [
+      "Isso exigiu que as equipes estivessem preparadas para acolher.",
+      "Isso dispensa o preparo das equipes para o acolhimento.",
+      "Isso exige que as equipes preparem o acolhimento dos encaminhamentos.",
+      "Isso exige às equipes de que estejam preparadas para acolher.",
+      "Isso exige o preparo das equipes para o acolhimento."
+    ],
+    "gabarito": 4,
+    "comentario": "Na nominalização, a oração 'que as equipes estejam preparadas para acolher' vira o sintagma 'o preparo das equipes para o acolhimento', com o mesmo sentido. A outra versão com 'exige' muda o que se pede às equipes, 'exigiu/estivessem' muda o tempo, 'dispensa' inverte o sentido e 'exige às equipes de que' tem erro de regência.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-reescrita-009",
+    "disciplina": "portugues",
+    "assunto": "pt-reescrita",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Assinale a frase que apresenta problema de paralelismo sintático.",
+    "alternativas": [
+      "O programa visa acolher os pacientes e reduzir as filas.",
+      "O programa visa ao acolhimento dos pacientes e à redução das filas.",
+      "O programa pretende acolher os pacientes e reduzir as filas.",
+      "O programa visa acolher os pacientes e à redução das filas.",
+      "O programa tem como objetivos o acolhimento dos pacientes e a redução das filas."
+    ],
+    "gabarito": 3,
+    "comentario": "Termos coordenados devem ter a mesma estrutura. Na frase com problema, um complemento é verbal ('acolher os pacientes') e o outro é nominal e preposicionado ('à redução das filas'). As demais coordenam infinitivo com infinitivo ou substantivo com substantivo.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-reescrita-010",
+    "disciplina": "portugues",
+    "assunto": "pt-reescrita",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "texto": "O cansaço que não tira férias\n\nHá um tipo de cansaço que não passa com o fim de semana. Quem o conhece sabe: a segunda-feira chega e o corpo, embora tenha dormido, continua pesado, como se carregasse a semana anterior inteira. Os especialistas chamam esse estado de esgotamento profissional, e a Organização Mundial da Saúde já o reconhece como fenômeno ligado ao trabalho.\n\nNão se trata, porém, de simples preguiça ou falta de força de vontade. O esgotamento costuma atingir justamente os mais dedicados, aqueles que respondem a mensagens à meia-noite e acreditam que descansar é um luxo. Por isso, a solução não pode ser apenas individual: de nada adianta ensinar técnicas de respiração a quem trabalha doze horas por dia sem pausa.\n\nAs empresas que levam o problema a sério revisam metas, redistribuem tarefas e, sobretudo, respeitam o direito de desconectar. Já as que preferem ignorá-lo pagam a conta mais tarde, em afastamentos, rotatividade e perda de talentos.\n\nTalvez o primeiro passo seja mudar a pergunta. Em vez de indagar por que o trabalhador não aguenta, deveríamos perguntar o que, no trabalho, se tornou insuportável.\n\n(Texto autoral, escrito para fins didáticos.)",
+    "enunciado": "Assinale a reescrita do trecho \"Não se trata, porém, de simples preguiça\" que está de acordo com a norma culta.",
+    "alternativas": [
+      "Porém, não trata-se de simples preguiça.",
+      "Porém, não se trata de simples preguiça.",
+      "Não trata-se, porém, de simples preguiça.",
+      "Não se tratam, porém, de simples preguiça.",
+      "Porém, não se trata em simples preguiça."
+    ],
+    "gabarito": 1,
+    "comentario": "O advérbio de negação 'não' atrai o pronome átono, o que torna a próclise obrigatória ('não se trata'). 'Trata-se de' fica sempre no singular, porque o sujeito é indeterminado, e exige a preposição 'de'. As opções erradas têm ênclise depois de 'não', o plural 'tratam' ou a preposição 'em'.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-reescrita-011",
+    "disciplina": "portugues",
+    "assunto": "pt-reescrita",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "texto": "Elogio da espera\n\nAntigamente, esperar era um tempo morto. Na fila do banco ou no consultório, restava observar as pessoas, ler os avisos na parede ou simplesmente pensar em nada. Hoje, o celular ocupa cada um desses intervalos, e o tédio, que parecia um inimigo, tornou-se quase uma raridade.\n\nPesquisadores da atenção alertam, no entanto, que o tédio cumpre uma função. É nos momentos vazios que a mente divaga, associa ideias distantes e, não raro, encontra soluções que o esforço concentrado não alcançou. Sem eles, vivemos estimulados o tempo todo, mas criamos pouco.\n\nIsso não significa que devamos jogar o aparelho fora. A tecnologia aproxima familiares distantes, facilita o acesso a serviços e, para muitos, é ferramenta de trabalho. O problema não está no objeto, mas no hábito de recorrer a ele sempre que surge um segundo de silêncio.\n\nExperimente, na próxima espera, deixar o telefone no bolso. Os primeiros minutos serão desconfortáveis; depois, talvez você reencontre um velho conhecido: seu próprio pensamento.\n\n(Texto autoral, escrito para fins didáticos.)",
+    "enunciado": "Em \"e, não raro, encontra soluções que o esforço concentrado não alcançou\", a expressão \"não raro\" pode ser substituída, sem alteração de sentido, por",
+    "alternativas": [
+      "raramente",
+      "nunca",
+      "eventualmente",
+      "dificilmente",
+      "frequentemente"
+    ],
+    "gabarito": 4,
+    "comentario": "'Não raro' é uma lítotes: nega o contrário para afirmar algo, e 'não raro' equivale a 'com frequência'. 'Raramente', 'nunca' e 'dificilmente' indicam o oposto. 'Eventualmente', em português, significa 'ocasionalmente, por acaso', o que também não corresponde.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-reescrita-012",
+    "disciplina": "portugues",
+    "assunto": "pt-reescrita",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "texto": "O cansaço que não tira férias\n\nHá um tipo de cansaço que não passa com o fim de semana. Quem o conhece sabe: a segunda-feira chega e o corpo, embora tenha dormido, continua pesado, como se carregasse a semana anterior inteira. Os especialistas chamam esse estado de esgotamento profissional, e a Organização Mundial da Saúde já o reconhece como fenômeno ligado ao trabalho.\n\nNão se trata, porém, de simples preguiça ou falta de força de vontade. O esgotamento costuma atingir justamente os mais dedicados, aqueles que respondem a mensagens à meia-noite e acreditam que descansar é um luxo. Por isso, a solução não pode ser apenas individual: de nada adianta ensinar técnicas de respiração a quem trabalha doze horas por dia sem pausa.\n\nAs empresas que levam o problema a sério revisam metas, redistribuem tarefas e, sobretudo, respeitam o direito de desconectar. Já as que preferem ignorá-lo pagam a conta mais tarde, em afastamentos, rotatividade e perda de talentos.\n\nTalvez o primeiro passo seja mudar a pergunta. Em vez de indagar por que o trabalhador não aguenta, deveríamos perguntar o que, no trabalho, se tornou insuportável.\n\n(Texto autoral, escrito para fins didáticos.)",
+    "enunciado": "Assinale a reescrita de \"Há um tipo de cansaço que não passa com o fim de semana\" que, ao pôr \"tipo\" no plural, está de acordo com a norma culta.",
+    "alternativas": [
+      "Há tipos de cansaço que não passam com o fim de semana.",
+      "Hão tipos de cansaço que não passam com o fim de semana.",
+      "Há tipos de cansaço que não passa com o fim de semana.",
+      "Existe tipos de cansaço que não passam com o fim de semana.",
+      "Devem haver tipos de cansaço que não passam com o fim de semana."
+    ],
+    "gabarito": 0,
+    "comentario": "'Haver' no sentido de 'existir' é impessoal e fica no singular, inclusive quando é o principal de uma locução ('Deve haver'). O verbo da oração adjetiva concorda com o antecedente de 'que' ('tipos... que não passam'). 'Existir' é pessoal e exigiria 'Existem'.",
+    "dificuldade": 1,
+    "anulada": false
+  }
+]

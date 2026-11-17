@@ -1,0 +1,170 @@
+[
+ {
+  "id": "fgv-sesmt-2024-psi-13",
+  "disciplina": "rlm",
+  "assunto": "rlm-proposicoes",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "SES-MT",
+   "ano": 2024,
+   "cargo": "Psicólogo – Especialista em Psicomotricidade ou Neuropsicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns109-esp-psicologo-especialista-em-psicomotricidade-ou-neuropsicologiacns109-tipo-1.pdf"
+  },
+  "enunciado": "Considere a frase:\nSe você é cuiabano, então é mato-grossense.\nÉ logicamente equivalente à frase acima, a seguinte proposição:",
+  "alternativas": [
+   "Se você é mato-grossense, então é cuiabano.",
+   "Se você é cuiabano, então não é mato-grossense.",
+   "Se você não é mato-grossense, então não é cuiabano.",
+   "Se você não é cuiabano, então não é mato-grossense."
+  ],
+  "gabarito": 2,
+  "comentario": "A condicional 'Se p, então q' é equivalente à sua contrapositiva 'Se não q, então não p'. Com p = 'você é cuiabano' e q = 'é mato-grossense', obtém-se: 'Se você não é mato-grossense, então não é cuiabano' (C). (A) é a recíproca e (D) a inversa, que não são equivalentes; (B) contradiz a original.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-sesmt-2024-psi-14",
+  "disciplina": "rlm",
+  "assunto": "rlm-problemas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "SES-MT",
+   "ano": 2024,
+   "cargo": "Psicólogo – Especialista em Psicomotricidade ou Neuropsicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns109-esp-psicologo-especialista-em-psicomotricidade-ou-neuropsicologiacns109-tipo-1.pdf"
+  },
+  "enunciado": "Em uma reunião de uma unidade hospitalar, estavam presentes 8 servidores, sendo 6 médicos e 2 enfermeiros. Todos sentaram-se ao redor de uma mesa redonda. A quantidade de maneiras distintas que essa mesa pode ser organizada de forma que entre os dois enfermeiros tenha sempre três médicos é",
+  "alternativas": [
+   "120.",
+   "240.",
+   "480.",
+   "720."
+  ],
+  "gabarito": 3,
+  "comentario": "São 8 lugares em volta da mesa. Se entre os dois enfermeiros há sempre três médicos, sobram 6 − 3 = 3 médicos do outro lado: os enfermeiros ficam em posições diametralmente opostas. Fixando um enfermeiro (para eliminar as rotações da mesa redonda), a posição do outro fica determinada, e os 6 médicos ocupam os 6 lugares restantes de 6! = 720 maneiras (D).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-sesmt-2024-psi-16",
+  "disciplina": "rlm",
+  "assunto": "rlm-numeros",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "SES-MT",
+   "ano": 2024,
+   "cargo": "Psicólogo – Especialista em Psicomotricidade ou Neuropsicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns109-esp-psicologo-especialista-em-psicomotricidade-ou-neuropsicologiacns109-tipo-1.pdf"
+  },
+  "enunciado": "Sobre números inteiros, racionais e reais, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.\n( ) Há mais números racionais que números inteiros.\n( ) A soma de dois números irracionais resulta sempre em um número irracional.\n( ) A dízima periódica 6,999... é igual ao número inteiro 7.\nAs afirmativas são, respectivamente,",
+  "alternativas": [
+   "F – F – V.",
+   "F – V – V.",
+   "V – F – F.",
+   "V – V – F."
+  ],
+  "gabarito": 0,
+  "comentario": "I – Falsa: racionais e inteiros são ambos conjuntos infinitos enumeráveis, com a mesma cardinalidade; não há 'mais' racionais. II – Falsa: √2 + (−√2) = 0, que é racional. III – Verdadeira: x = 6,999... → 10x = 69,999... → 9x = 63 → x = 7. Sequência F – F – V (A).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-sesmt-2024-psi-17",
+  "disciplina": "rlm",
+  "assunto": "rlm-numeros",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "SES-MT",
+   "ano": 2024,
+   "cargo": "Psicólogo – Especialista em Psicomotricidade ou Neuropsicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns109-esp-psicologo-especialista-em-psicomotricidade-ou-neuropsicologiacns109-tipo-1.pdf"
+  },
+  "enunciado": "Os atendimentos realizados por 6 médicos de uma unidade hospitalar em determinado dia foram registrados. Porém, no fim da semana, percebeu-se que a informação dos atendimentos realizados por um desses médicos foi perdida, conforme a lista apresentada a seguir.\n10, 9, 15, 9, X, 12\nSabe-se que, nesse dia, nenhum médico fez menos que 6 e mais que 15 atendimentos e que a média de atendimentos é um número inteiro. Assim, a mediana da lista é",
+  "alternativas": [
+   "10.",
+   "10,5.",
+   "11.",
+   "11,5."
+  ],
+  "gabarito": 1,
+  "comentario": "Soma dos valores conhecidos: 10 + 9 + 15 + 9 + 12 = 55. Para a média (55 + X)/6 ser inteira com 6 ≤ X ≤ 15, 55 + X deve ser múltiplo de 6: X = 11 (soma 66, média 11). Lista ordenada: 9, 9, 10, 11, 12, 15; mediana = (10 + 11)/2 = 10,5 (B).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-sesmt-2024-psi-18",
+  "disciplina": "rlm",
+  "assunto": "rlm-problemas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "SES-MT",
+   "ano": 2024,
+   "cargo": "Psicólogo – Especialista em Psicomotricidade ou Neuropsicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns109-esp-psicologo-especialista-em-psicomotricidade-ou-neuropsicologiacns109-tipo-1.pdf"
+  },
+  "enunciado": "A Federação Mato-grossense de Futebol (FMF) realiza anualmente a competição “Copa FMF” na modalidade masculina. Na edição de 2023, a fase final foi disputada por Cuiabá, Mixto, Nova Mutum e Operário VG em um formato quadrangular, no qual todos se enfrentam apenas uma vez. Em relação aos gols ocorridos nesta fase, sabe-se que:\n• Mixto fez o triplo de gols que tomou;\n• Cuiabá e Nova Mutum tomaram 6 gols cada;\n• Operário VG fez 1 gol e tomou 2 gols;\n• Cuiabá fez um gol a mais que Nova Mutum;\n• foram feitos 17 gols no total.\nDessa forma, a quantidade de gols feitos pela equipe Nova Mutum foi igual a",
+  "alternativas": [
+   "5.",
+   "4.",
+   "3.",
+   "2."
+  ],
+  "gabarito": 2,
+  "comentario": "Total de gols feitos = total de gols tomados = 17. Tomados: Cuiabá 6 + Nova Mutum 6 + Operário 2 + Mixto m = 17 → m = 3; logo Mixto fez 3 × 3 = 9. Feitos: Mixto 9 + Operário 1 + Cuiabá + Nova Mutum = 17 → Cuiabá + Nova Mutum = 7. Como Cuiabá fez um a mais: N + (N + 1) = 7 → N = 3 (C).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-sesmt-2024-psi-19",
+  "disciplina": "rlm",
+  "assunto": "rlm-relacoes",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "SES-MT",
+   "ano": 2024,
+   "cargo": "Psicólogo – Especialista em Psicomotricidade ou Neuropsicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns109-esp-psicologo-especialista-em-psicomotricidade-ou-neuropsicologiacns109-tipo-1.pdf"
+  },
+  "enunciado": "A serviço de uma unidade do Sistema Único de Saúde há três veículos: um automóvel, um ônibus e uma van. Um deles tem a cor azul, outro tem a cor amarela e outro tem a cor verde. Das afirmativas a seguir, apenas uma é verdadeira:\nI. O automóvel é verde.\nII. O ônibus não é amarelo.\nIII. A van não é verde.\nAssim, é correto afirmar que",
+  "alternativas": [
+   "o automóvel é amarelo.",
+   "o automóvel é azul.",
+   "o ônibus é verde.",
+   "a van é amarela."
+  ],
+  "gabarito": 0,
+  "comentario": "Testando qual é a única verdadeira: se I for verdadeira (automóvel verde), III é falsa (van verde) — dois veículos verdes, contradição. Se III for verdadeira, I falsa (automóvel não verde) e III verdadeira (van não verde) obrigam o ônibus a ser verde, mas II falsa exige ônibus amarelo — contradição. Logo II é a verdadeira: van verde (III falsa), ônibus não amarelo e não verde → azul, e o automóvel fica amarelo (A).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-sesmt-2024-psi-20",
+  "disciplina": "rlm",
+  "assunto": "rlm-proporcao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "SES-MT",
+   "ano": 2024,
+   "cargo": "Psicólogo – Especialista em Psicomotricidade ou Neuropsicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns109-esp-psicologo-especialista-em-psicomotricidade-ou-neuropsicologiacns109-tipo-1.pdf"
+  },
+  "enunciado": "Em uma fábrica de desfibriladores, foi verificado que eram necessários 8 dias para produzir determinada quantidade de aparelhos, usando a mão de obra de 6 trabalhadores por 4 horas em cada dia. Para reduzir o tempo de produção para 2 dias, será necessário:",
+  "alternativas": [
+   "duplicar o número de trabalhadores.",
+   "triplicar o número de horas trabalhadas por dia.",
+   "duplicar o número de horas trabalhadas por dia.",
+   "duplicar o número de trabalhadores e o número de horas trabalhadas por dia."
+  ],
+  "gabarito": 3,
+  "comentario": "Trabalho total: 8 dias × 6 trabalhadores × 4 h = 192 horas-trabalhador. Em 2 dias, são necessárias 192/2 = 96 horas-trabalhador por dia. Duplicando trabalhadores e horas: 12 × 8 = 96 ✓ (D). Só duplicar trabalhadores (12 × 4 = 48) ou horas (6 × 8 = 48), ou triplicar horas (6 × 12 = 72), não basta.",
+  "dificuldade": 2,
+  "anulada": false
+ }
+]

@@ -1,0 +1,127 @@
+[
+ {
+  "id": "fgv-tcepa-2024-psi-11",
+  "disciplina": "rlm",
+  "assunto": "rlm-proposicoes",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TCE-PA",
+   "ano": 2024,
+   "cargo": "Auditor de Controle Externo – Área Administrativa / Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns112-auditor-de-controle-externo-administrativa-psicologiacns112-tipo-1.pdf"
+  },
+  "enunciado": "A negação de Paulo gosta de futebol ou João gosta de basquetebol é",
+  "alternativas": [
+   "Paulo gosta de futebol e João não gosta de basquetebol.",
+   "Paulo não gosta de futebol ou João gosta de basquetebol.",
+   "Paulo pode gostar de futebol e João pode não gostar de basquetebol.",
+   "Paulo não gosta de futebol e João gosta de basquetebol.",
+   "Nem Paulo gosta de futebol nem João gosta de basquetebol."
+  ],
+  "gabarito": 4,
+  "comentario": "Sejam p: “Paulo gosta de futebol” e q: “João gosta de basquetebol”. A proposição é p ∨ q e, pela lei de De Morgan, ~(p ∨ q) ≡ ~p ∧ ~q: “Paulo não gosta de futebol e João não gosta de basquetebol”. A forma “Nem p nem q” expressa exatamente ~p ∧ ~q, por isso a E é a correta. As demais negam só uma das partes ou mantêm o conectivo “ou”.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tcepa-2024-psi-12",
+  "disciplina": "rlm",
+  "assunto": "rlm-numeros",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TCE-PA",
+   "ano": 2024,
+   "cargo": "Auditor de Controle Externo – Área Administrativa / Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns112-auditor-de-controle-externo-administrativa-psicologiacns112-tipo-1.pdf"
+  },
+  "enunciado": "Em relação ao sistema francês de amortização, avalie se as afirmativas a seguir são falsas (F) ou verdadeiras (V):\nI. Todas as prestações (pagamentos) são de mesmo valor.\nII. Um exemplo de uso comum são financiamentos de bem de consumo em geral.\nIII. O valor da prestação P é calculado pelo produto do valor financiado pelo coeficiente K dado pela fórmula\nK = i(1 + i)^n / [(1 + i)^n − 1]\nem que i é a taxa ao período e n é o número de períodos.\nEstá correto o que se afirma em",
+  "alternativas": [
+   "I, apenas.",
+   "I e II, apenas.",
+   "I e III, apenas.",
+   "II e III, apenas.",
+   "I, II e III."
+  ],
+  "gabarito": 4,
+  "comentario": "No sistema francês (Tabela Price), as prestações são constantes (I verdadeira); a amortização cresce e os juros decrescem ao longo do tempo. É o sistema típico do crédito ao consumidor, como financiamento de bens de consumo (II verdadeira). A prestação é P = PV × K, com K = i(1 + i)^n / [(1 + i)^n − 1], o fator de recuperação de capital (III verdadeira). Logo, I, II e III estão corretas.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tcepa-2024-psi-13",
+  "disciplina": "rlm",
+  "assunto": "rlm-problemas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TCE-PA",
+   "ano": 2024,
+   "cargo": "Auditor de Controle Externo – Área Administrativa / Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns112-auditor-de-controle-externo-administrativa-psicologiacns112-tipo-1.pdf"
+  },
+  "enunciado": "Com os algarismos 0, 1, 2, 3, 4 e 5 é possível formar a seguinte quantidade de números de 3 algarismos:",
+  "alternativas": [
+   "120.",
+   "144.",
+   "156.",
+   "180.",
+   "216."
+  ],
+  "gabarito": 3,
+  "comentario": "Como o enunciado não proíbe repetição, usa-se o princípio multiplicativo com repetição permitida. Centena: não pode ser 0 → 5 opções (1 a 5). Dezena: 6 opções. Unidade: 6 opções. Total = 5 × 6 × 6 = 180. (Sem repetição seriam 5 × 5 × 4 = 100, valor que não está entre as opções.)",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tcepa-2024-psi-14",
+  "disciplina": "rlm",
+  "assunto": "rlm-graficos",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TCE-PA",
+   "ano": 2024,
+   "cargo": "Auditor de Controle Externo – Área Administrativa / Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns112-auditor-de-controle-externo-administrativa-psicologiacns112-tipo-1.pdf"
+  },
+  "enunciado": "A amostra de idades a seguir foi obtida:\n20 35 23 54 46 22 41 50 38 40 35 18 32 29 31 56 37\nA mediana dessas idades é igual a",
+  "alternativas": [
+   "34",
+   "35",
+   "36",
+   "37",
+   "38"
+  ],
+  "gabarito": 1,
+  "comentario": "São 17 valores. Ordenando: 18, 20, 22, 23, 29, 31, 32, 35, 35, 37, 38, 40, 41, 46, 50, 54, 56. Com n = 17 (ímpar), a mediana é o termo central, de posição (17 + 1)/2 = 9ª. O 9º valor é 35, logo a mediana é 35.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tcepa-2024-psi-15",
+  "disciplina": "rlm",
+  "assunto": "rlm-problemas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TCE-PA",
+   "ano": 2024,
+   "cargo": "Auditor de Controle Externo – Área Administrativa / Psicologia",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/cns112-auditor-de-controle-externo-administrativa-psicologiacns112-tipo-1.pdf"
+  },
+  "enunciado": "A urna I contém 6 bolas brancas e 10 bolas azuis; a urna II contém 8 bolas brancas e 11 bolas azuis. Sorteamos ao caso uma bola da urna I e a colocamos na urna II sem observar sua cor. Em seguida, sorteamos duas bolas da urna II, sem reposição.\nA probabilidade de que as duas bolas sorteadas da urna II sejam brancas é aproximadamente igual a",
+  "alternativas": [
+   "0,180.",
+   "0,305.",
+   "0,366.",
+   "0,466.",
+   "0,482."
+  ],
+  "gabarito": 0,
+  "comentario": "Use a probabilidade total. Se a bola transferida for branca (6/16 = 3/8), a urna II fica com 9 brancas em 20: P = (9/20)(8/19) = 72/380. Se for azul (10/16 = 5/8), fica com 8 brancas em 20: P = (8/20)(7/19) = 56/380. Total = (3/8)(72/380) + (5/8)(56/380) = (216 + 280)/3040 = 496/3040 ≈ 0,163. O valor calculado fica entre 0,16 e 0,17; a banca manteve no gabarito definitivo a opção A (0,180), que é a alternativa mais próxima desse resultado — as demais (0,305 em diante) estão muito acima.",
+  "dificuldade": 3,
+  "anulada": false
+ }
+]

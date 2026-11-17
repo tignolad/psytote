@@ -1,0 +1,332 @@
+[
+  {
+    "id": "aut-leg-dec79822-001",
+    "disciplina": "legislacao",
+    "assunto": "leg-dec79822",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://legis.senado.leg.br/norma/502462/publicacao/15643316"
+    },
+    "enunciado": "Segundo o Decreto nº 79.822/1977, o exercício da profissão de Psicólogo, nas suas diferentes categorias, em todo o território nacional, somente será permitido ao portador de",
+    "alternativas": [
+      "diploma de Psicólogo registrado no Conselho Federal de Psicologia.",
+      "Carteira de Identidade Profissional expedida pelo Conselho Federal de Psicologia, válida em qualquer região.",
+      "Carteira de Identidade Profissional expedida pelo Conselho Regional de Psicologia da respectiva jurisdição.",
+      "certificado de aprovação em exame de proficiência aplicado pelo Conselho Federal.",
+      "diploma de Psicólogo registrado no Ministério do Trabalho."
+    ],
+    "gabarito": 2,
+    "comentario": "Art. 1º do Decreto 79.822/77: o exercício profissional somente é permitido ao portador de Carteira de Identidade Profissional expedida pelo Conselho REGIONAL da respectiva jurisdição. A carteira não é expedida pelo CFP, não há exame de proficiência e o registro em ministério não substitui a inscrição no Regional.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-dec79822-002",
+    "disciplina": "legislacao",
+    "assunto": "leg-dec79822",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://legis.senado.leg.br/norma/502462/publicacao/15643316"
+    },
+    "enunciado": "Nos termos do Decreto nº 79.822/1977, o Conselho Federal e os Conselhos Regionais de Psicologia constituem, em seu conjunto, uma autarquia federal dotada de personalidade jurídica de direito público, com autonomia administrativa e financeira,",
+    "alternativas": [
+      "vinculada ao Ministério da Educação.",
+      "vinculada ao Ministério da Saúde.",
+      "vinculada ao Ministério do Trabalho.",
+      "subordinada à Presidência da República.",
+      "vinculada ao Ministério da Justiça."
+    ],
+    "gabarito": 2,
+    "comentario": "Art. 2º do Decreto 79.822/77: a autarquia formada pelo CFP e pelos CRPs é vinculada ao Ministério do Trabalho (texto original do regulamento). As demais pastas não constam do dispositivo.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-dec79822-003",
+    "disciplina": "legislacao",
+    "assunto": "leg-dec79822",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://legis.senado.leg.br/norma/502462/publicacao/15643316"
+    },
+    "enunciado": "De acordo com o Decreto nº 79.822/1977, o Conselho Federal de Psicologia delibera com a presença da maioria absoluta de seus membros. Exige-se, porém, aprovação por 2/3 de seus membros para a matéria relativa a",
+    "alternativas": [
+      "expedir resoluções sobre procedimento eleitoral.",
+      "eleger sua Diretoria.",
+      "funcionar como órgão consultivo em matéria de psicologia.",
+      "publicar anualmente o relatório dos trabalhos e a relação dos psicólogos inscritos.",
+      "julgar, em última instância, os recursos das deliberações dos Conselhos Regionais."
+    ],
+    "gabarito": 0,
+    "comentario": "Art. 8º do Decreto 79.822/77: exigem 2/3 dos membros as matérias dos itens XII (resoluções e instruções para o funcionamento dos Conselhos), XIII (resoluções sobre procedimento eleitoral), XVI (fixar a composição dos Regionais) e XXIV (intervenção nos Regionais por insolvência) do art. 6º. Eleger a Diretoria, atuar como órgão consultivo, publicar relatório e julgar recursos seguem a regra geral da maioria absoluta.",
+    "dificuldade": 3,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-dec79822-004",
+    "disciplina": "legislacao",
+    "assunto": "leg-dec79822",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://legis.senado.leg.br/norma/502462/publicacao/15643316"
+    },
+    "enunciado": "Quanto ao patrimônio dos Conselhos de Psicologia, o Decreto nº 79.822/1977 estabelece que as anuidades, taxas, emolumentos e multas arrecadados pelos Conselhos Regionais integram o patrimônio",
+    "alternativas": [
+      "do Conselho Federal, na proporção de 2/3, e dos Conselhos Regionais, na proporção de 1/3.",
+      "do Conselho Federal, na proporção de 1/3, e dos Conselhos Regionais, na proporção de 2/3.",
+      "do Conselho Federal e dos Conselhos Regionais, em partes iguais.",
+      "exclusivamente dos Conselhos Regionais, cabendo ao Federal apenas dotações orçamentárias da União.",
+      "do Conselho Federal, na proporção de 1/5, e dos Conselhos Regionais, na proporção de 4/5."
+    ],
+    "gabarito": 1,
+    "comentario": "Arts. 9º, IV, e 15, IV, do Decreto 79.822/77: o patrimônio do CFP inclui 1/3 das anuidades, taxas, emolumentos e multas arrecadados pelos Regionais, e o dos Regionais inclui 2/3. A regra repete a Lei 5.766/71 (art. 16, parágrafo único).",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-dec79822-005",
+    "disciplina": "legislacao",
+    "assunto": "leg-dec79822",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://legis.senado.leg.br/norma/502462/publicacao/15643316"
+    },
+    "enunciado": "Segundo o Decreto nº 79.822/1977, os Conselhos Regionais de Psicologia terão sede e foro",
+    "alternativas": [
+      "no Distrito Federal, com jurisdição em todo o território nacional.",
+      "no Município com maior número de psicólogos inscritos, conforme decisão da Assembleia Geral.",
+      "na Capital do Estado, obrigatoriamente, sendo vedada a jurisdição sobre mais de um Estado.",
+      "em local escolhido pela Assembleia dos Delegados Regionais.",
+      "na Capital do Estado, ou de um dos Estados ou Territórios, a critério do Conselho Federal."
+    ],
+    "gabarito": 4,
+    "comentario": "Art. 11 do Decreto 79.822/77: os Regionais terão sede e foro na Capital do Estado, ou de um dos Estados ou Territórios, a critério do Conselho Federal — o que admite Regionais com jurisdição sobre mais de um Estado. Sede no Distrito Federal com jurisdição nacional é característica do CFP (art. 4º).",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-dec79822-006",
+    "disciplina": "legislacao",
+    "assunto": "leg-dec79822",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://legis.senado.leg.br/norma/502462/publicacao/15643316"
+    },
+    "enunciado": "Considere as competências abaixo, previstas no Decreto nº 79.822/1977:\nI. Decidir sobre os pedidos de inscrição do Psicólogo.\nII. Instituir e modificar o modelo da Carteira de Identidade Profissional.\nIII. Promover, perante o juízo competente, a cobrança das anuidades, taxas, emolumentos e multas, esgotados os meios de cobrança amigável.\nCompetem aos Conselhos Regionais as atribuições descritas em",
+    "alternativas": [
+      "I, apenas.",
+      "II, apenas.",
+      "I e III, apenas.",
+      "II e III, apenas.",
+      "I, II e III."
+    ],
+    "gabarito": 2,
+    "comentario": "Art. 13 do Decreto 79.822/77: compete aos Regionais decidir sobre os pedidos de inscrição (VI) e promover a cobrança judicial após esgotada a cobrança amigável (XVII) — itens I e III. Instituir e modificar o modelo da Carteira de Identidade Profissional é competência do Conselho Federal (art. 6º, XVIII); ao Regional cabe expedi-la (art. 13, VIII).",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-dec79822-007",
+    "disciplina": "legislacao",
+    "assunto": "leg-dec79822",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://legis.senado.leg.br/norma/502462/publicacao/15643316"
+    },
+    "enunciado": "Sobre a Assembleia dos Delegados Regionais, disciplinada pelo Decreto nº 79.822/1977, assinale a afirmativa correta.",
+    "alternativas": [
+      "É constituída por todos os conselheiros efetivos dos Conselhos Regionais e delibera sempre por maioria simples.",
+      "É constituída por 2 delegados eleitores de cada Conselho Regional, com mandato de 2 anos, independente do mandato de conselheiro regional.",
+      "É constituída por 2 delegados eleitores de cada Conselho Regional e, nas eleições de membros do Conselho Federal, exige o voto favorável de pelo menos 2/3 dos delegados eleitores presentes.",
+      "Reúne-se ordinariamente a cada três anos, apenas para eleger os membros do Conselho Federal.",
+      "Em primeira convocação, reúne-se com qualquer número de membros e delibera por 2/3 dos presentes em todas as matérias."
+    ],
+    "gabarito": 2,
+    "comentario": "Arts. 16, 17, 19, 21 e 22 do Decreto 79.822/77: a ADR é formada por 2 delegados eleitores de cada Regional, cujo mandato coincide com o de conselheiro regional; reúne-se ordinariamente ao menos uma vez por ano; em primeira convocação exige maioria absoluta; delibera pela maioria absoluta dos presentes, exceto na eleição do CFP, que exige 2/3 dos delegados eleitores presentes.",
+    "dificuldade": 3,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-dec79822-008",
+    "disciplina": "legislacao",
+    "assunto": "leg-dec79822",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://legis.senado.leg.br/norma/502462/publicacao/15643316"
+    },
+    "enunciado": "A Assembleia Geral de um Conselho Regional foi convocada extraordinariamente para deliberar sobre a destituição de um de seus conselheiros, acusado de conduta de alta gravidade que atinge o bom nome da classe. Conforme o Decreto nº 79.822/1977, a destituição exige",
+    "alternativas": [
+      "o voto favorável da maioria simples dos presentes.",
+      "o voto favorável da maioria absoluta dos psicólogos inscritos no Regional.",
+      "a prévia condenação do conselheiro em processo ético transitado em julgado.",
+      "o voto favorável de, pelo menos, 2/3 dos presentes.",
+      "a homologação da decisão pela Assembleia dos Delegados Regionais."
+    ],
+    "gabarito": 3,
+    "comentario": "Art. 29 do Decreto 79.822/77: a Assembleia Geral delibera pela maioria dos presentes, exceto quanto à destituição do Conselho Regional ou de qualquer de seus membros, que exige o voto favorável de pelo menos 2/3 dos presentes (no mesmo sentido, art. 24, 'e', da Lei 5.766/71). Não há exigência de condenação ética prévia nem de homologação pela ADR.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-dec79822-009",
+    "disciplina": "legislacao",
+    "assunto": "leg-dec79822",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://legis.senado.leg.br/norma/502462/publicacao/15643316"
+    },
+    "enunciado": "De acordo com o Decreto nº 79.822/1977, a Assembleia Geral do Conselho Regional poderá reunir-se extraordinariamente",
+    "alternativas": [
+      "por convocação do Presidente do Conselho Regional ou a pedido justificado de, pelo menos, 1/3 dos psicólogos inscritos originariamente no Conselho e em pleno gozo de seus direitos.",
+      "somente por convocação do Presidente do Conselho Federal.",
+      "a pedido justificado de, pelo menos, 2/3 dos conselheiros efetivos do Regional.",
+      "a pedido de qualquer psicólogo inscrito, desde que acompanhado de 100 assinaturas.",
+      "por convocação do Presidente do Conselho Regional ou a pedido justificado da maioria absoluta dos psicólogos inscritos."
+    ],
+    "gabarito": 0,
+    "comentario": "Art. 27 do Decreto 79.822/77: a reunião extraordinária da Assembleia Geral ocorre por convocação do Presidente do Conselho Regional ou a pedido justificado de pelo menos 1/3 dos psicólogos inscritos originariamente no Conselho e em pleno gozo de seus direitos. As demais alternativas trocam o legitimado ou a fração exigida.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-dec79822-010",
+    "disciplina": "legislacao",
+    "assunto": "leg-dec79822",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://legis.senado.leg.br/norma/502462/publicacao/15643316"
+    },
+    "enunciado": "Um psicólogo pretende candidatar-se a conselheiro de seu Conselho Regional. Entre os requisitos previstos no Decreto nº 79.822/1977 para a eleição e o exercício do mandato, inclusive na condição de suplente, está",
+    "alternativas": [
+      "ter inscrição principal na jurisdição do Conselho Regional respectivo há mais de 2 anos.",
+      "ter inscrição principal na jurisdição do Conselho Regional respectivo há mais de 5 anos.",
+      "possuir título de especialista registrado no Conselho Regional.",
+      "não ter sofrido condenação criminal de qualquer natureza, ainda que inferior a 2 anos.",
+      "ter participado, como delegado, de ao menos um Congresso Regional de Psicologia."
+    ],
+    "gabarito": 0,
+    "comentario": "Art. 34 do Decreto 79.822/77: são requisitos cidadania brasileira; inscrição principal na jurisdição há mais de 2 anos; pleno gozo dos direitos profissionais, civis e políticos; inexistência de condenação a pena superior a 2 anos por sentença transitada em julgado; e inexistência de penalidade por infração ao Código de Ética. Não se exigem 5 anos, título de especialista ou participação em congresso, e só impede a condenação superior a 2 anos.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-dec79822-011",
+    "disciplina": "legislacao",
+    "assunto": "leg-dec79822",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://legis.senado.leg.br/norma/502462/publicacao/15643316"
+    },
+    "enunciado": "Conforme o Decreto nº 79.822/1977, a extinção ou perda do mandato de membro do Conselho Federal ou dos Conselhos Regionais NÃO ocorrerá",
+    "alternativas": [
+      "por renúncia.",
+      "pelo simples ajuizamento de ação penal contra o conselheiro, antes do trânsito em julgado.",
+      "por superveniência de causa de que resulte o cancelamento da inscrição.",
+      "por ausência, sem motivo justificado, a 5 reuniões, consecutivas ou intercaladas, em cada ano.",
+      "por destituição pela Assembleia dos Delegados Regionais ou pela Assembleia Geral do Conselho Regional."
+    ],
+    "gabarito": 1,
+    "comentario": "Art. 35 do Decreto 79.822/77: o mandato se extingue por renúncia; cancelamento da inscrição; condenação a pena superior a 2 anos por sentença TRANSITADA EM JULGADO; destituição pela ADR ou pela Assembleia Geral; e ausência injustificada a 5 reuniões, consecutivas ou intercaladas, por ano. O mero ajuizamento de ação penal não está entre as hipóteses.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-dec79822-012",
+    "disciplina": "legislacao",
+    "assunto": "leg-dec79822",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://legis.senado.leg.br/norma/502462/publicacao/15643316"
+    },
+    "enunciado": "Uma psicóloga inscrita no Conselho Regional do Rio de Janeiro passou a atender também, de forma presencial e contínua, em consultório localizado em outro Estado, sob jurisdição de outro Regional. À luz do Decreto nº 79.822/1977, esse exercício simultâneo em área de jurisdição diversa da do Regional da inscrição principal fica condicionado",
+    "alternativas": [
+      "à transferência obrigatória da inscrição principal para o novo Regional.",
+      "a simples comunicação ao Conselho Federal, dispensada qualquer inscrição adicional.",
+      "à autorização do Plenário do Regional de origem, renovável anualmente.",
+      "à inscrição secundária no Conselho ou Conselhos da jurisdição.",
+      "ao pagamento de anuidade em dobro ao Regional de origem."
+    ],
+    "gabarito": 3,
+    "comentario": "Art. 43, § 2º, do Decreto 79.822/77: o exercício simultâneo, temporário ou definitivo, em área de jurisdição diversa da do Regional da inscrição principal fica condicionado à inscrição secundária no(s) Conselho(s) da jurisdição. (Observação: para serviços mediados por TDICs, a Res. CFP 9/2024, art. 6º, § 1º, dispensa a inscrição secundária — não é o caso do atendimento presencial descrito.)",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-dec79822-013",
+    "disciplina": "legislacao",
+    "assunto": "leg-dec79822",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://legis.senado.leg.br/norma/502462/publicacao/15643316"
+    },
+    "enunciado": "Sobre anuidades e multas, o Decreto nº 79.822/1977 determina que",
+    "alternativas": [
+      "a anuidade será paga até 31 de março de cada ano, inclusive a primeira, e a multa disciplinar não pode ser acumulada com outra penalidade.",
+      "a anuidade será paga até o último dia do primeiro semestre de cada ano, e o atraso sujeita o devedor a multa fixada pelo Conselho Regional.",
+      "o pagamento da anuidade é condição apenas para votar nas eleições, não interferindo na legitimidade do exercício profissional.",
+      "a multa por atraso da anuidade é fixada pela Assembleia Geral de cada Regional, sem participação do Conselho Federal.",
+      "a anuidade será paga até o último dia do primeiro trimestre de cada ano, salvo a primeira, devida no ato da inscrição, e a multa disciplinar pode ser acumulada com outra penalidade."
+    ],
+    "gabarito": 4,
+    "comentario": "Arts. 50 a 54 do Decreto 79.822/77: o pagamento da anuidade é condição de legitimidade do exercício profissional (art. 50); vence no último dia do primeiro trimestre, salvo a primeira, devida no ato da inscrição (art. 51); o atraso sujeita a multa fixada pelo Conselho FEDERAL (art. 52); a multa pode ser aplicada como sanção disciplinar (art. 53) e acumulada com outra penalidade (art. 54).",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-dec79822-014",
+    "disciplina": "legislacao",
+    "assunto": "leg-dec79822",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://legis.senado.leg.br/norma/502462/publicacao/15643316"
+    },
+    "enunciado": "Um Conselho Regional aplicou a um psicólogo a pena de cassação do exercício profissional, e o profissional deixou transcorrer o prazo sem recorrer. De acordo com o Decreto nº 79.822/1977,",
+    "alternativas": [
+      "a decisão transitará em julgado e será executada imediatamente, pois não há recurso de ofício em matéria disciplinar.",
+      "caberá recurso ex officio ao Conselho Federal, no prazo de 30 dias a contar da decisão, por se tratar de cassação.",
+      "o próprio Regional deverá submeter a decisão à Assembleia Geral, no prazo de 30 dias.",
+      "caberá recurso ex officio ao Conselho Federal apenas se a pena aplicada tivesse sido de multa ou censura.",
+      "o Conselho Federal só poderá revisar a decisão mediante pedido de revisão do apenado, no prazo de 5 anos."
+    ],
+    "gabarito": 1,
+    "comentario": "Art. 61 do Decreto 79.822/77: da imposição de penalidade cabe recurso, com efeito suspensivo, ao CFP: I – voluntário, em 30 dias da ciência; II – ex officio, nas hipóteses dos itens IV e V do art. 57 (suspensão e cassação), em 30 dias a contar da decisão. Hoje o CPD (Res. CFP 11/2019, art. 126) disciplina essa remessa obrigatória como 'reexame necessário'.",
+    "dificuldade": 3,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-dec79822-015",
+    "disciplina": "legislacao",
+    "assunto": "leg-dec79822",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://legis.senado.leg.br/norma/502462/publicacao/15643316"
+    },
+    "enunciado": "Determinado psicólogo foi suspenso por falta de pagamento de anuidades. Nos termos do Decreto nº 79.822/1977, essa suspensão",
+    "alternativas": [
+      "cessará automaticamente após 30 dias, independentemente do pagamento.",
+      "só cessará com a satisfação da dívida, podendo ser cancelada a inscrição após decorridos 5 anos.",
+      "converte-se em cassação após 1 ano, ad referendum do Conselho Federal.",
+      "não pode ser aplicada, pois o inadimplemento gera apenas cobrança judicial.",
+      "só cessará com a satisfação da dívida, podendo ser cancelada a inscrição após decorridos 3 anos."
+    ],
+    "gabarito": 4,
+    "comentario": "Art. 62 do Decreto 79.822/77: a suspensão por falta de pagamento de anuidades, emolumentos, taxas e multas só cessará com a satisfação da dívida, podendo a inscrição ser cancelada após decorridos 3 anos. Não há cessação automática, conversão em cassação ou prazo de 5 anos.",
+    "dificuldade": 2,
+    "anulada": false
+  }
+]

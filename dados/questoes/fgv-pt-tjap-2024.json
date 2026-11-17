@@ -1,0 +1,627 @@
+[
+ {
+  "id": "fgv-tjap-2024-psi-1",
+  "disciplina": "portugues",
+  "assunto": "pt-vocabulario",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-AP",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-judiciario-apoio-especializado-psicologopsi-08-tipo-1.pdf"
+  },
+  "enunciado": "O dicionário de Antônio Houaiss, na pág. 284, registra no verbete “biblioteconomia”: “1. parte da bibliotecologia que trata dos aspectos da armazenagem, do acesso e da circulação das coleções de livros, 2. conjunto de conhecimentos e técnicas necessários à gestão de uma biblioteca. ETIM fr. bibliothéconomie.”\nSobre a estruturação e conteúdo desse verbete, é correto afirmar que:",
+  "alternativas": [
+   "sendo uma definição, o segmento 1 parte de um termo geral e acrescenta especificações;",
+   "os segmentos numerados mostram, em ordem cronológica, os significados adquiridos pelo termo “biblioteconomia”;",
+   "apesar de veiculado em linguagem culta, o verbete traz um erro de concordância nominal;",
+   "segundo o que se apreende do verbete, a bibliotecologia faz parte da biblioteconomia;",
+   "a informação sobre a etimologia da palavra “biblioteconomia” nos indica o significado dos segmentos componentes do vocábulo."
+  ],
+  "gabarito": 0,
+  "comentario": "Uma definição clássica parte de um termo mais geral (gênero) e acrescenta especificações (diferença): “parte da bibliotecologia” + “que trata dos aspectos da armazenagem...” — alternativa A. As acepções numeradas não seguem ordem cronológica (B); “necessários” concorda corretamente com “conhecimentos e técnicas” (C); é a biblioteconomia que faz parte da bibliotecologia, e não o contrário (D); a etimologia informa apenas a origem francesa, não o significado dos componentes (E).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjap-2024-psi-2",
+  "disciplina": "portugues",
+  "assunto": "pt-tipologia",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-AP",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-judiciario-apoio-especializado-psicologopsi-08-tipo-1.pdf"
+  },
+  "enunciado": "Um conto moderno do escritor paranaense Dalton Trevisan começa com a seguinte frase:\n“Primeira noite ele conheceu que Santina não era moça.”\nA marca essencial desse segmento que o insere no conjunto dos textos literários de ficção e não entre os textos informativos, é:",
+  "alternativas": [
+   "a seleção vocabular de linguagem erudita;",
+   "a absoluta correção gramatical na estruturação das frases;",
+   "o emprego da linguagem popular como sinal de inclusão;",
+   "a presença inicial de termos sem referentes na realidade;",
+   "a necessidade de situar no tempo e no espaço o fato referido."
+  ],
+  "gabarito": 3,
+  "comentario": "O texto de ficção cria um mundo próprio: “ele” e “Santina” não remetem a pessoas reais nem a referentes previamente identificados — o leitor entra numa realidade inventada, o que caracteriza a ficção (D). A linguagem não é erudita (A) nem a correção gramatical distingue literatura de informação (B); a linguagem popular não é traço essencial da ficção (C); e situar o fato no tempo e no espaço é exigência típica justamente dos textos informativos (E).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjap-2024-psi-3",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-AP",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-judiciario-apoio-especializado-psicologopsi-08-tipo-1.pdf"
+  },
+  "enunciado": "Os textos, independentemente de seu modo de organização, possuem um conjunto de marcas específicas; entre as frases abaixo, aquela que mostra coesão e coerência, é:",
+  "alternativas": [
+   "O invisível é real. As almas têm seu mundo;",
+   "A palavra é dom de todos. A sabedoria cabe a Deus;",
+   "Em qualquer abundância há falta;",
+   "A melhor maneira de ir devagar é não ir;",
+   "O caminho que sobe é o mesmo que desce."
+  ],
+  "gabarito": 4,
+  "comentario": "Em E, o pronome relativo “que” e o termo “o mesmo” amarram as partes da frase (coesão) e a ideia — o mesmo caminho serve para subir e descer — faz sentido (coerência). Em A e B, os dois períodos são justapostos sem elemento coesivo explícito que os relacione; em C e D, as afirmações soam contraditórias (abundância com falta; ir devagar não indo), comprometendo a coerência, segundo a banca.",
+  "dificuldade": 3,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjap-2024-psi-4",
+  "disciplina": "portugues",
+  "assunto": "pt-morfologia",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-AP",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-judiciario-apoio-especializado-psicologopsi-08-tipo-1.pdf"
+  },
+  "enunciado": "Em muitas frases podemos optar entre a presença de um termo preposicionado ou de um só vocábulo: tempo de escola = tempo escolar.\nA frase abaixo em que o termo preposicionado sublinhado pode ser adequadamente substituído por um só termo, é: [sublinhados entre colchetes]",
+  "alternativas": [
+   "A sabedoria [dos velhos] é um grande erro. Não chegam a ser mais sábios, apenas mais prudentes;",
+   "Abrace muito, beije e ria, já que a vida é [de graça];",
+   "Tente colocar bom senso na cabeça [de um tolo] e ele dirá que é tolice;",
+   "O ótimo é inimigo [do bom];",
+   "Quem se senta no fundo [de um poço] vai achar pequeno o céu."
+  ],
+  "gabarito": 1,
+  "comentario": "Em B, “de graça” equivale a “gratuita” (“a vida é gratuita”), substituição adequada sem alteração de sentido. Nas demais não há adjetivo equivalente adequado: “sabedoria dos velhos” não equivale a “sabedoria senil” (conotação pejorativa); “cabeça de um tolo”, “inimigo do bom” e “fundo de um poço” referem-se a seres específicos (um tolo, o bom, um poço), sem adjetivo correspondente que preserve o sentido.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjap-2024-psi-5",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-AP",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-judiciario-apoio-especializado-psicologopsi-08-tipo-1.pdf"
+  },
+  "enunciado": "Um romance mostra o seguinte segmento:\n“Eu pergunto que tipo de história a menina deseja. Ela responde categoricamente que quer uma história de amor e de ficção científica. Então, comecei: ‘Um robô encontra uma jovem...’ Mas ela não me deixa prosseguir. ‘Você não sabe contar histórias’, disse ela. Uma verdadeira história é obrigatoriamente no passado.\n- Tá bom, se você quer: “Um robô encontrou uma jovem...”\n- Não, tem que ser no passado histórico...\n- Bom, lá vai: “Outrora, há muito tempo, um robô muito inteligente, ainda que totalmente metálico, encontrou num baile uma jovem da nobreza. Eles dançaram e ele lhe disse coisas gentis. Ela ficou corada. Ele se desculpou e recomeçaram a dançar. Ela o achou um pouco ousado, mas encantador... Eles se casaram pouco tempo depois, receberam muitos presentes e partiram em viagem de lua de mel.”\nSobre esse fragmento narrativo, é correto afirmar que:",
+  "alternativas": [
+   "o aspecto de ficção científica da história narrada se restringe ao personagem robô e a suas ações mecânicas;",
+   "a observação de que uma história deve obrigatoriamente ser narrada no passado é verdadeira, mostrando o conhecimento textual da menina;",
+   "o passado histórico solicitado pela menina foi realizado por meio de expressões de tempo distante e de ambientes literariamente idealizados;",
+   "o texto narrativo produzido pelo narrador mostra a preocupação de limitar-se ao absolutamente essencial do enredo;",
+   "o narrador da versão final da história mostra preocupações de usar a linguagem informal, adequada à pouca idade da leitora."
+  ],
+  "gabarito": 2,
+  "comentario": "Para atender ao “passado histórico”, o narrador usa marcas de tempo remoto (“Outrora, há muito tempo”) e um ambiente idealizado de conto de fadas (baile, jovem da nobreza, casamento, lua de mel) — alternativa C. O robô não pratica ações mecânicas, mas humanas (dança, corteja), o que invalida A; histórias não precisam obrigatoriamente estar no passado (B); a versão final acrescenta detalhes não essenciais (D) e usa linguagem formal/literária, não informal (E).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjap-2024-psi-6",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-AP",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-judiciario-apoio-especializado-psicologopsi-08-tipo-1.pdf"
+  },
+  "enunciado": "“Numa peça teatral ou romance, uma palavra imprópria é apenas uma palavra: e a impropriedade, seja ou não percebida, não acarreta consequência alguma. Num código legal – especialmente composto de leis tidas como fundamentais – uma palavra imprópria pode ser uma calamidade nacional: e a guerra civil, a consequência disso. De uma palavra tola podem irromper mil punhais.” (Bentham, 1796)\nA finalidade básica desse fragmento textual é:",
+  "alternativas": [
+   "alertar contra o uso impróprio de palavras, especialmente em textos de grande aplicabilidade social;",
+   "mostrar o uso irresponsável das palavras em textos modernos, mesmo naqueles produzidos por pessoas cultas;",
+   "indicar que a impropriedade vocabular é fruto da inadequação entre o significado da palavra e a situação em que é empregada;",
+   "demonstrar a absoluta necessidade de que os usuários das palavras tenham perfeito conhecimento de seus significados;",
+   "aconselhar que os autores dos textos verifiquem a possibilidade de ambiguidade no uso dos vocábulos a fim de evitarem consequências desastrosas."
+  ],
+  "gabarito": 0,
+  "comentario": "Bentham contrasta a ficção, em que a palavra imprópria não traz consequências, com o código legal, em que ela pode gerar até guerra civil: o objetivo é alertar para o perigo da impropriedade vocabular em textos de grande alcance social, como as leis (A). O texto não fala de textos modernos nem de pessoas cultas (B), não explica a causa da impropriedade (C), não exige conhecimento “perfeito” de todos os usuários (D) e não trata especificamente de ambiguidade (E).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjap-2024-psi-7",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-AP",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-judiciario-apoio-especializado-psicologopsi-08-tipo-1.pdf"
+  },
+  "enunciado": "“O estudo dos textos argumentativos ocupa um lugar importante no ensino de textos. Isso parece amplamente justificado, porque é essencial dominar a argumentação antes de entrar na vida adulta. De um lado, isso permite não se deixar influenciar de maneira inconsciente por aqueles que dominam a argumentação, sejam eles políticos ou publicitários, por exemplo. De outro lado, saber argumentar permite fazer-se entender e realizar seus desejos. Assim, entre dois candidatos a um emprego, se os perfis são idênticos, aquele que sabe argumentar será certamente favorecido.”\nSobre o fragmento argumentativo acima, é correto afirmar que:",
+  "alternativas": [
+   "a tese do texto é a de que se deve aprender argumentação antes de entrar-se na vida adulta;",
+   "o primeiro período do texto mostra a opinião do argumentador sobre o tema discutido;",
+   "ao citar políticos e publicitários, o argumentador aponta pessoas que desonestamente manipulam argumentos;",
+   "o argumentador limita-se a citar exemplos, substituindo os argumentos por eles;",
+   "o público-alvo do texto acima é, prioritariamente, os candidatos a alguma entrevista de emprego."
+  ],
+  "gabarito": 0,
+  "comentario": "A ideia central defendida é “é essencial dominar a argumentação antes de entrar na vida adulta”, sustentada por dois argumentos (não se deixar influenciar; fazer-se entender) e um exemplo (os candidatos a emprego) — alternativa A. O primeiro período é constatação, não opinião (B); políticos e publicitários são citados como quem domina a argumentação, sem acusação de desonestidade (C); há argumentos, não só exemplos (D); o exemplo do emprego não define o público-alvo (E).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjap-2024-psi-8",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-AP",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-judiciario-apoio-especializado-psicologopsi-08-tipo-1.pdf"
+  },
+  "enunciado": "Observe o texto argumentativo a seguir.\n“No século XXI, a igualdade entre mulheres e homens ainda não é uma realidade. Por que é tão difícil atribuir às mulheres as mesmas posições que aos homens? Não há nenhum motivo por que uma mulher receba salário menor do que o de um homem, se o trabalho é o mesmo. E esse é exatamente o caso. Em nossos dias, na França, com o mesmo tempo de trabalho, mesma seção, mesma categoria profissional, a redução do salário feminino chega a 10%. Do mesmo modo, não é normal que postos de trabalho de mais responsabilidade sejam majoritariamente ocupados por homens. Segundo os dados fornecidos pela Comissão Europeia, na França de 2017, só 33% dos quadros superiores são de mulheres. É mais do que nos Países Baixos e na Grécia (25%), muito mais que em Luxemburgo (18%), mas menos que na Polônia ou na Eslovênia (41%), do que na Hungria ou na Suécia (39%). De qualquer modo, nenhum país da comunidade europeia chega à paridade nesse terreno.”\nSobre o fragmento argumentativo acima, é correto afirmar que:",
+  "alternativas": [
+   "o texto não apresenta argumentos em defesa da tese exposta, limitando-se a citar exemplos;",
+   "as estatísticas apresentadas servem para apoiar uma tese contrária à defendida no texto;",
+   "a tese do texto é a de que as mulheres devem receber tratamento igual ao dos homens, no mercado de trabalho;",
+   "os argumentos apresentados no texto são do tipo subjetivo, apoiados basicamente na opinião do argumentador;",
+   "o último período do texto confirma a razão de as mulheres receberem distinção no tratamento profissional."
+  ],
+  "gabarito": 2,
+  "comentario": "O texto defende que mulheres e homens devem ter tratamento igual no trabalho (salários e cargos de responsabilidade) — alternativa C. Há argumentos (diferença salarial injustificada, sub-representação em cargos altos), não só exemplos (A); as estatísticas apoiam a tese, não a contrariam (B); os argumentos são objetivos, baseados em dados da Comissão Europeia (D); o último período reforça a falta de paridade, não justifica a distinção (E).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjap-2024-psi-9",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-AP",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-judiciario-apoio-especializado-psicologopsi-08-tipo-1.pdf"
+  },
+  "enunciado": "“O que eu poderia fazer para vos demonstrar, senhores, a utilidade da agricultura? Quem atende nossas necessidades? Quem fornece meios para nossa subsistência? Não é o agricultor? O agricultor, senhores, que semeia os campos, faz nascer o trigo, o qual, transformado em farinha e levado para as cidades e aos padeiros, torna-se alimento para os ricos e pobres. Não é ainda o agricultor que alimenta, para nossas roupas, seus rebanhos nas pastagens? Como nos vestiríamos ou nos alimentaríamos sem o agricultor?”\nSobre o fragmento argumentativo acima, é correto afirmar que:",
+  "alternativas": [
+   "o argumento utilizado para a defesa da tese é o da autoridade, fundamentada na opinião do argumentador;",
+   "a tese defendida se apoia em dois argumentos, fundamentados no conhecimento livresco dos cidadãos;",
+   "o termo “ainda” mostra a passagem do primeiro para o segundo argumento empregado na defesa da tese;",
+   "a última pergunta do texto tenta convencer o leitor sobre a tese proposta, apoiada na intimidação;",
+   "o convencimento do ouvinte, nesse texto, é feito exclusivamente por meio da racionalidade."
+  ],
+  "gabarito": 2,
+  "comentario": "A tese (utilidade da agricultura) se apoia em dois argumentos: o agricultor fornece o alimento (trigo → farinha) e fornece o material das roupas (rebanhos). O advérbio “ainda”, em “Não é ainda o agricultor...”, tem valor de inclusão e marca a passagem do primeiro para o segundo argumento (C). Não há argumento de autoridade (A); os argumentos vêm da experiência cotidiana, não de conhecimento livresco (B); a última pergunta é retórica, sem intimidação (D); e as perguntas e o vocativo “senhores” mostram apelo também emotivo, não só racional (E).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjap-2024-psi-10",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-AP",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-judiciario-apoio-especializado-psicologopsi-08-tipo-1.pdf"
+  },
+  "enunciado": "Num texto argumentativo, aparecem argumentos e exemplos; a opção abaixo que traz um exemplo e não um argumento, é:",
+  "alternativas": [
+   "O dinheiro faz nascer maus sentimentos em relação aos outros homens;",
+   "Tarzan é um dos heróis de ficção mais amados pelos brasileiros;",
+   "O conhecimento do passado é importante para a compreensão do presente;",
+   "Sonhar nos faz suportar a mediocridade da vida cotidiana;",
+   "É indispensável a adoção de um projeto de combate à poluição do meio ambiente."
+  ],
+  "gabarito": 1,
+  "comentario": "O exemplo é um caso particular, concreto, que ilustra uma ideia; o argumento é uma afirmação geral que sustenta uma tese. “Tarzan é um dos heróis de ficção mais amados pelos brasileiros” (B) é um dado particular, que poderia ilustrar, por exemplo, o gosto do público por heróis de ficção. As demais são afirmações gerais (sobre dinheiro, conhecimento do passado, sonho e poluição), que funcionam como argumentos.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjap-2024-psi-11",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-AP",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-judiciario-apoio-especializado-psicologopsi-08-tipo-1.pdf"
+  },
+  "enunciado": "“Se você escolher a cidade como local de residência, você deve estar preparado para escutar a bela música das buzinas e a respirar um ar saudável, enriquecido de fumaça de todas as espécies. Por outro lado, viver no campo é benéfico porque isso permite que você se aproxime da natureza, que escute os belos cantos dos pássaros, sem contar a solidariedade dos vizinhos em caso de aborrecimento ou doença.”\nSobre esse segmento textual, é correto afirmar que:",
+  "alternativas": [
+   "a tese defendida no texto é a de que a vida no campo e na cidade apresentam diferentes vantagens;",
+   "o conector “Por outro lado”, empregado entre os dois principais segmentos do texto, indica semelhança entre a vida na cidade e a vida no campo;",
+   "o processo utilizado pelo argumentador na desvalorização da vida na cidade é a ironia;",
+   "os argumentos utilizados na defesa da tese pelo argumentador se apoiam em valores humanos, sociais e econômicos;",
+   "o argumentador apresenta de forma imparcial as vantagens e desvantagens de viver-se no campo e na cidade."
+  ],
+  "gabarito": 2,
+  "comentario": "Expressões como “a bela música das buzinas” e “um ar saudável, enriquecido de fumaça” dizem o contrário do que pretendem: é ironia, usada para desvalorizar a cidade (C). A tese é a superioridade da vida no campo, não vantagens equivalentes (A); “Por outro lado” marca contraste, não semelhança (B); não há argumentos de ordem econômica (D); e o autor é claramente parcial a favor do campo (E).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjap-2024-psi-12",
+  "disciplina": "portugues",
+  "assunto": "pt-tipologia",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-AP",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-judiciario-apoio-especializado-psicologopsi-08-tipo-1.pdf"
+  },
+  "enunciado": "Observe o trecho narrativo a seguir, fundamentado na carta de Pero Vaz de Caminha ao rei de Portugal:\n“No dia 23 de abril, pela manhã, saímos de nossa nau, preparamos um batel e dirigimo-nos à terra, onde já nos esperavam alguns índios. Reconheci, entre eles, um que, no dia anterior, me dera um colar de penas em troca de algumas contas. Logo a seguir, passamos a caminhar pela areia, ainda que com alguma dificuldade, porque nossos casacos grandes não ajudavam com o calor e nossas botas grossas atrapalhavam nosso andar. Pensava no que nos estaria aguardando mais tarde, depois que passássemos o pequeno rochedo da extremidade da praia, talvez uma tribo inteira ou alguns animais ferozes. Continuamos nossa caminhada.”\nSobre a estruturação desse texto narrativo, é inadequada a seguinte afirmativa:",
+  "alternativas": [
+   "a marcação do tempo, no início do texto, é feita de forma direta, pela indicação de uma data;",
+   "certas indicações sobre a cronologia da narrativa aparecem de forma indireta por meio das vestimentas dos personagens;",
+   "o ritmo desse texto inclui uma volta ao passado por meio da lembrança de com quem o narrador havia trocado presentes;",
+   "o ritmo dessa narrativa também inclui uma projeção futura, com os fatos imaginados pelo narrador sobre o que o esperava após o rochedo;",
+   "como narrador onisciente que é, o autor do texto tem o cuidado de informar o leitor sobre os fatos mais importantes da narrativa, principalmente sobre a passagem do tempo."
+  ],
+  "gabarito": 4,
+  "comentario": "A afirmativa inadequada é a E: o narrador é de primeira pessoa e participante (“saímos”, “Reconheci”, “Pensava”), com visão limitada — ele apenas imagina o que haverá depois do rochedo; portanto, não é onisciente. As demais são adequadas: a data “23 de abril” marca o tempo diretamente (A); casacos e botas indicam indiretamente a época (B); há retrospecção no encontro do dia anterior (C) e projeção no que o esperaria após o rochedo (D).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjap-2024-psi-13",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-AP",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-judiciario-apoio-especializado-psicologopsi-08-tipo-1.pdf"
+  },
+  "enunciado": "Observe a seguinte frase:\n“Deus deve amar os homens medíocres. Fez vários deles.”\nSobre o significado e a estruturação dessa frase, é correto afirmar que:",
+  "alternativas": [
+   "o primeiro período funciona como causa do segundo;",
+   "o segundo período é um fato deduzido do primeiro;",
+   "considerando a frase como texto argumentativo, a tese defendida é verbalizada no segundo período;",
+   "o argumento que defende a tese exposta no período é de caráter opinativo;",
+   "em lugar do ponto separando os dois períodos, poderia estar empregado o conector “já que”."
+  ],
+  "gabarito": 4,
+  "comentario": "O segundo período justifica o primeiro: “Deus deve amar os homens medíocres, já que fez vários deles” — relação de causa/justificativa explicitável por “já que” (E). Não é o primeiro que causa o segundo (A), nem o segundo é deduzido do primeiro (B); a tese está no primeiro período (C); e o argumento se apoia num fato (a quantidade de medíocres), não numa opinião (D).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjap-2024-psi-14",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-AP",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-judiciario-apoio-especializado-psicologopsi-08-tipo-1.pdf"
+  },
+  "enunciado": "A frase abaixo em que a retomada com o pronome pessoal é feita de forma catafórica, ou seja, referindo-se a algo posterior na frase, é:",
+  "alternativas": [
+   "Velhice é quando vamos a restaurantes que têm sommeliers, e não aos servidos por garçonetes;",
+   "Ainda que a expulses com um forcado, a natureza voltará a aparecer;",
+   "Só os poetas e as mulheres sabem usar o dinheiro como ele merece;",
+   "Quando nós o fizermos, nós o teremos;",
+   "Onde aumentam os bens, aumentam aqueles que os devoram."
+  ],
+  "gabarito": 1,
+  "comentario": "Em B, o pronome “a” (em “a expulses”) antecipa “a natureza”, que só aparece depois: é uma referência catafórica. Em C, “ele” retoma “o dinheiro” (anáfora); em E, “os” retoma “os bens” (anáfora); em D, “o” não tem referente expresso na frase; em A não há retomada por pronome pessoal (“aos” retoma “restaurantes” por elipse, com artigo).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjap-2024-psi-15",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-AP",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-judiciario-apoio-especializado-psicologopsi-08-tipo-1.pdf"
+  },
+  "enunciado": "A única frase de construção aceitável, é:",
+  "alternativas": [
+   "A seção do equipamento de informática evolui numa velocidade incrível e, a cada ano, eles põem no mercado produtos cada vez mais desenvolvidos.",
+   "A exposição apresenta ao público obras pouco conhecidas, pois eles as produziram no início de suas carreiras.",
+   "A reunião dos operários ocorrerá depois do meio-dia, diante do hospital do bairro. De lá, eles irão bloquear a entrada da fábrica.",
+   "Esta manhã, faltava entusiasmo aos alunos. Então, após a recreação, ele começou seu curso de história, propondo uma discussão interessante.",
+   "Estes aviões servem para o treinamento básico. Devem ser efetuadas ao menos cem horas de voo antes de eles passarem à etapa seguinte."
+  ],
+  "gabarito": 2,
+  "comentario": "Em C, o pronome “eles” retoma claramente “os operários”, mencionados antes — referência coesa. Nas demais, o pronome não tem antecedente adequado: em A, “eles” não se refere a nada expresso (seriam os fabricantes); em B, “eles” remete a artistas não mencionados; em D, “ele” (o professor) não aparece antes; em E, “eles” retomaria “aviões”, mas quem passa à etapa seguinte são os pilotos/alunos.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjap-2024-psi-16",
+  "disciplina": "portugues",
+  "assunto": "pt-tipologia",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-AP",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-judiciario-apoio-especializado-psicologopsi-08-tipo-1.pdf"
+  },
+  "enunciado": "Leia o pequeno texto a seguir.\n“Antônio tem sete anos, talvez. Ele sai de um shopping, inteiramente vestido com roupas novas, como para enfrentar uma nova vida. Mas, no momento, ele ainda é uma criança que dá a mão à babá, numa avenida paulista.\nEle não é grande e só vê diante de si pernas de homens e saias muito enfeitadas. No asfalto, centenas de pneus, que rodam ou param diante de policiais nos cruzamentos.”\nSobre a estruturação narrativa desse segmento, é correto afirmar que:",
+  "alternativas": [
+   "trata-se do texto inicial de uma narrativa, composto exclusivamente de segmentos descritivos;",
+   "esse fragmento inicial mostra a primeira fase de um enredo, um estado inicial em que ainda não ocorreu a intervenção de um fato transformador, que dê início à narrativa;",
+   "o narrador do segmento é de ponto de vista externo, não participa do enredo e tem olhar onisciente, dominando as informações sobre os personagens;",
+   "o personagem Antônio é descrito por aspectos físicos e psíquicos, de forma exaustiva;",
+   "a localização dos fatos narrados no segmento é feita de forma precisa, com preocupações de justificarem-se fatos futuros."
+  ],
+  "gabarito": 1,
+  "comentario": "O trecho apresenta a situação inicial do enredo: personagem, lugar e circunstâncias, sem que ainda tenha ocorrido o fato perturbador que move a narrativa (B). Não é exclusivamente descritivo, pois há ações (“sai de um shopping”, “dá a mão”) (A); o narrador não é onisciente — hesita até na idade (“sete anos, talvez”) (C); a caracterização de Antônio é sumária, não exaustiva (D); e a localização é vaga (“um shopping”, “uma avenida paulista”) (E).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjap-2024-psi-17",
+  "disciplina": "portugues",
+  "assunto": "pt-semantica",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-AP",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-judiciario-apoio-especializado-psicologopsi-08-tipo-1.pdf"
+  },
+  "enunciado": "A frase abaixo em que os termos sublinhados caracterizam uma antítese, é:",
+  "alternativas": [
+   "O político deve buscar a [aprovação], porém jamais o [aplauso];",
+   "Com os pequenos, o governo ruge como um [leão]; com os grandes, mia como um [gato];",
+   "A diferença entre o presidente Clinton e mim é que ele tem [contra] si uma maioria organizada e eu tenho [a favor] uma maioria desorganizada;",
+   "A [extensão] é o sinal do meu poderio. O [tempo] é o sinal da minha impotência;",
+   "O que é lei [hoje] não o é [amanhã]."
+  ],
+  "gabarito": 2,
+  "comentario": "Antítese é a aproximação de termos de sentidos opostos. Em C, “contra” e “a favor” são opostos diretos. Em A, “aprovação” e “aplauso” são noções próximas, apenas de intensidade diferente; em B, “leão” e “gato” são termos de comparação, não antônimos; em D, “extensão” e “tempo” não se opõem (a oposição está em poderio/impotência); em E, “hoje” e “amanhã” indicam momentos sucessivos, não contrários, segundo a banca.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjap-2024-psi-18",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-AP",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-judiciario-apoio-especializado-psicologopsi-08-tipo-1.pdf"
+  },
+  "enunciado": "Todos os pensamentos abaixo são compostos de dois segmentos, separados por um ponto. A relação lógica entre esses segmentos que é corretamente indicada, é:",
+  "alternativas": [
+   "A ostra pode não ser um modelo de beleza. A ostra é sempre uma esperança de pérola / relação de oposição;",
+   "O elefante deixa-se acariciar. O piolho, não / relação de explicação;",
+   "Eu adoro répteis. Eles têm uma pele maravilhosa / relação de comparação;",
+   "Gatos nos olham com superioridade. Cachorros nos olham com docilidade / relação de conformidade;",
+   "Eu prefiro a companhia dos animais. Eles são muito mais simples / relação de causa e consequência."
+  ],
+  "gabarito": 0,
+  "comentario": "Em A, os segmentos se opõem (“pode não ser bonita... mas é sempre esperança de pérola”), cabendo um “mas” entre eles — relação de oposição corretamente indicada. Em B, a relação é de oposição/contraste, não de explicação; em C, o segundo segmento explica o primeiro (causa), não compara; em D, há contraste, não conformidade; em E, o segundo segmento é explicação/justificativa do primeiro, e não consequência, segundo a banca.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjap-2024-psi-19",
+  "disciplina": "portugues",
+  "assunto": "pt-interpretacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-AP",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-judiciario-apoio-especializado-psicologopsi-08-tipo-1.pdf"
+  },
+  "enunciado": "Abaixo estão cinco frases com um termo sublinhado que foi retomado a seguir por um termo que sintetiza o elemento anterior sublinhado; a opção em que a retomada é feita de forma distinta, é: [sublinhados entre colchetes]",
+  "alternativas": [
+   "João Bruno convidou Fabíola para [o espetáculo que ele montou com os colegas da empresa]. Este ano, trata-se de uma revista musical.",
+   "[Foi necessária uma hora para chegar à autoestrada, depois andamos lentamente durante duas horas]. Infelizmente essa situação se repete com frequência.",
+   "Para fazer um bom trabalho, seria necessário [retirar as velhas telhas, limpar cuidadosamente a superfície e colocar novas]. Nas atuais circunstâncias, essa solução fica sendo a mais realista.",
+   "Sérgio [se opôs repentinamente à modificação proposta]. Sua atitude surpreendeu a muitos.",
+   "Havia no horizonte [campos e campos de milho e trigo, com espaços aqui e ali de áreas reservadas a cultivos experimentais]. Essa plantação era verdadeiramente impressionante."
+  ],
+  "gabarito": 0,
+  "comentario": "Em B, C, D e E, um termo genérico resume o trecho anterior (“essa situação”, “essa solução”, “Sua atitude”, “Essa plantação”) — retomada por nominalização/síntese. Em A, ao contrário, “uma revista musical” não resume o espetáculo, e sim o especifica, acrescentando informação nova (uma espécie de espetáculo); por isso a retomada se faz de forma distinta.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjap-2024-psi-20",
+  "disciplina": "portugues",
+  "assunto": "pt-tipologia",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-AP",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-judiciario-apoio-especializado-psicologopsi-08-tipo-1.pdf"
+  },
+  "enunciado": "Observe o texto predominantemente descritivo a seguir.\n“Depois de ter passado o sinal de trânsito da esquina, eu perdi de vista a catedral. Eu não via mais que árvores. Atrás delas apareciam as chaminés das usinas. Alguns quilômetros mais adiante, eu percebi com alívio os primeiros prédios da cidade universitária. Dois estudantes com que cruzei na estrada me olharam de forma curiosa. Tinham as mãos nos bolsos e pareciam sentir muito frio debaixo de seus pesados sobretudos.”\nEm relação ao texto descritivo acima, é correto afirmar que:",
+  "alternativas": [
+   "não estão em movimento nem o observador nem os objetos da descrição;",
+   "a descrição é feita com base nos sentidos da visão e do tato;",
+   "nesse texto, as limitações no ato de descrever são causadas pelo distanciamento em relação ao que é descrito;",
+   "o observador responsável pela descrição não interfere com o que é por ele descrito;",
+   "a finalidade básica dessa descrição é identificar economicamente o local observado."
+  ],
+  "gabarito": 2,
+  "comentario": "O observador se desloca e descreve de longe: “perdi de vista a catedral”, “não via mais que árvores”, “percebi... os primeiros prédios” — a distância limita o que ele consegue descrever (C). O observador está em movimento (A); a descrição é visual — o frio dos estudantes é inferido pela aparência, não sentido pelo tato (B); o observador interage com o que descreve (os estudantes o olham) (D); e não há finalidade de caracterizar economicamente o local (E).",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjap-2024-psi-21",
+  "disciplina": "portugues",
+  "assunto": "pt-semantica",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-AP",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-judiciario-apoio-especializado-psicologopsi-08-tipo-1.pdf"
+  },
+  "enunciado": "Todas as frases abaixo mostram a estrutura de uma definição, mas a única que corresponde, de fato, a uma definição, é:",
+  "alternativas": [
+   "A História é uma destilação de intrigas;",
+   "O presente é a viva soma total do passado;",
+   "História é a ciência que estuda eventos passados;",
+   "A história é a filosofia em exemplos;",
+   "Tempo é o suspiro de adeus do sol à terra."
+  ],
+  "gabarito": 2,
+  "comentario": "Uma definição propriamente dita usa linguagem denotativa: indica a categoria geral (ciência) e a especificação (que estuda eventos passados), como em C. As demais têm forma de definição (“X é Y”), mas empregam linguagem figurada/metafórica e opinativa (“destilação de intrigas”, “viva soma total”, “filosofia em exemplos”, “suspiro de adeus do sol”), sendo pensamentos, não definições.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjap-2024-psi-22",
+  "disciplina": "portugues",
+  "assunto": "pt-pontuacao",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-AP",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-judiciario-apoio-especializado-psicologopsi-08-tipo-1.pdf"
+  },
+  "enunciado": "A pontuação foi criada para que os textos se tornassem mais claros. Uma das regras do emprego da vírgula é sua utilização para marcar uma oração adverbial antecipada, como na seguinte frase:",
+  "alternativas": [
+   "Como seriam venturosos os agricultores, se conhecessem a sua fortuna;",
+   "A natureza é grande nas grandes coisas, mas é grandiosa nas pequenas coisas;",
+   "O trabalho do lavrador é o trabalho natural do homem, o único que acalma as paixões e vigoriza o corpo;",
+   "Sentar-se à sombra, num belo dia, e repousar o olhar sobre a verdura é o repouso mais perfeito;",
+   "Quando a última árvore morrer e o último rio for envenenado, você vai perceber que o dinheiro não alimenta."
+  ],
+  "gabarito": 4,
+  "comentario": "Em E, a oração adverbial temporal “Quando a última árvore morrer e o último rio for envenenado” vem antes da principal e por isso é separada por vírgula. Em A, a oração condicional está posposta; em B, a vírgula antecede oração coordenada adversativa (“mas”); em C, isola um aposto; em D, isola um adjunto adverbial (“num belo dia”), não uma oração.",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjap-2024-psi-23",
+  "disciplina": "portugues",
+  "assunto": "pt-tipologia",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-AP",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-judiciario-apoio-especializado-psicologopsi-08-tipo-1.pdf"
+  },
+  "enunciado": "Observe a pequena narrativa a seguir.\n“João estava sentado no degrau do portão de casa, enrolando a linha da pipa, quando Lila se aproximou e lhe disse que estava fugindo de casa, porque já estava cheia de tudo e perguntou se ela podia ficar escondida na casa dele até ver o que acontecia. João ficou atrapalhado, pois tinha que falar com a mãe, mas ia ver se dava um jeito. De repente surge a mãe de Lila, com um chinelo na mão e gritando com a filha para que ela voltasse imediatamente para casa. Amedrontada, Lila obedeceu e João voltou a enrolar o carretel de linha.”\nConsiderando as fases do enredo dessa narrativa, a única afirmativa que está em desacordo com o texto é:",
+  "alternativas": [
+   "o estado inicial da narrativa mostra João enrolando um carretel de linha de pipa na porta de casa;",
+   "o fato que vai perturbar o fato inicial é a chegada de Lila, que estava fugindo de casa;",
+   "o fato culminante da narrativa é o pedido de Lila para ser abrigada na casa de João;",
+   "o estado final da narrativa mostra o estado inicial melhorado, pois João ficou livre do problema apresentado por Lila;",
+   "um novo fato narrativo é a chegada da mãe de Lila, que obriga a que ela volte para casa."
+  ],
+  "gabarito": 3,
+  "comentario": "O clímax (fato culminante) não é o pedido de Lila — que faz parte da complicação introduzida por sua chegada —, mas a chegada repentina da mãe com o chinelo, que resolve a situação; por isso C está em desacordo. As demais seguem a estrutura do enredo: situação inicial (A), complicação com a chegada de Lila (B), novo fato que desencadeia o desfecho (E) e situação final em que João volta ao que fazia, livre do problema (D), conforme a banca.",
+  "dificuldade": 3,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjap-2024-psi-24",
+  "disciplina": "portugues",
+  "assunto": "pt-sintaxe",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-AP",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-judiciario-apoio-especializado-psicologopsi-08-tipo-1.pdf"
+  },
+  "enunciado": "A frase abaixo em que há a possibilidade de dupla concordância nominal na palavra sublinhada, é:",
+  "alternativas": [
+   "O que têm essas mulheres de [estranhas]?;",
+   "Os [alto]-falantes estavam colocados no fundo do palco;",
+   "Veja os nomes [abaixo] assinados;",
+   "Era um crime de [leso]-patriotismo;",
+   "É [proibida] a entrada de bebida alcoólica na festa."
+  ],
+  "gabarito": 0,
+  "comentario": "Em construções do tipo “o que (ter) ... de + adjetivo”, o adjetivo pode concordar com o substantivo (“de estranhas”) ou ficar invariável, concordando com o pronome “o que” (“de estranho”) — dupla concordância possível (A). Em B, “alto” é invariável no composto; em C, “abaixo” é advérbio, invariável; em D, “leso” concorda obrigatoriamente com o substantivo que acompanha (leso-patriotismo, lesa-pátria); em E, com o artigo “a entrada”, a concordância “proibida” é obrigatória.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-tjap-2024-psi-25",
+  "disciplina": "portugues",
+  "assunto": "pt-semantica",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "TJ-AP",
+   "ano": 2024,
+   "cargo": "Analista Judiciário – Psicólogo",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-judiciario-apoio-especializado-psicologopsi-08-tipo-1.pdf"
+  },
+  "enunciado": "AO ENCONTRO DE / DE ENCONTRO A são expressões semelhantes, mas muito diferentes no significado. A frase abaixo em que uma dessas expressões está empregada em lugar da outra, é:",
+  "alternativas": [
+   "O acidente causado pelo motoqueiro fez com que o caminhão se desgovernasse e fosse ao encontro do poste;",
+   "Todo o mercado ficou excitado com as notícias de alívio econômico que iam ao encontro de suas expectativas otimistas;",
+   "O novo carro, por seu desempenho e conforto magníficos, ia ao encontro dos desejos do casal, que acabava de adquiri-lo;",
+   "O horóscopo da semana previa muitas dificuldades, o que ia de encontro às notícias agradáveis que estavam surgindo;",
+   "Os resultados obtidos pelo time em campo iam de encontro aos sonhos dos torcedores, que já estavam preocupados com a queda da equipe para a série B."
+  ],
+  "gabarito": 0,
+  "comentario": "“Ao encontro de” indica aproximação, harmonia, concordância; “de encontro a” indica choque, colisão, oposição. Em A, o caminhão bateu no poste: o correto seria “fosse de encontro ao poste”. Em B e C há harmonia com expectativas e desejos (“ao encontro de” adequado); em D e E há oposição/contrariedade (“de encontro a” adequado).",
+  "dificuldade": 1,
+  "anulada": false
+ }
+]

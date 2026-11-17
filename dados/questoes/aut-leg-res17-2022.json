@@ -1,0 +1,254 @@
+[
+  {
+    "id": "aut-leg-res17-2022-001",
+    "disciplina": "legislacao",
+    "assunto": "leg-res17-2022",
+    "origem": {"tipo": "autoral", "banca": "Claude (autoral)", "fonte": "https://www.in.gov.br/en/web/dou/-/resolucao-n-17-de-19-de-julho-de-2022-418333366"},
+    "enunciado": "A Resolução CFP nº 17/2022 define Hora-Assistencial como a unidade de medida relativa ao tempo médio estimado para a realização das práticas psicológicas em saúde, a qual considera diversas atividades. NÃO está entre as atividades consideradas pela norma:",
+    "alternativas": [
+      "o planejamento de atividades, inclusive leitura de prontuário, escolha, preparo, guarda e descarte de materiais.",
+      "a supervisão, a discussão de casos e as reuniões de equipe.",
+      "o preenchimento de instrumentais de produtividade, a notificação e a vigilância.",
+      "o encaminhamento e o direcionamento de demandas a outros profissionais.",
+      "o tempo de deslocamento da(o) psicóloga(o) entre sua residência e o serviço de saúde."
+    ],
+    "gabarito": 4,
+    "comentario": "O art. 3º, § 1º, lista o que a Hora-Assistencial considera: planejamento (inclusive leitura de prontuário e manejo de materiais), intervenções, ações compartilhadas, supervisão/discussão de casos/reuniões, encaminhamentos e evolução em prontuário, documentos, instrumentais de produtividade, notificação, vigilância e rotinas administrativas. O deslocamento casa–trabalho não integra o conceito.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res17-2022-002",
+    "disciplina": "legislacao",
+    "assunto": "leg-res17-2022",
+    "origem": {"tipo": "autoral", "banca": "Claude (autoral)", "fonte": "https://www.in.gov.br/en/web/dou/-/resolucao-n-17-de-19-de-julho-de-2022-418333366"},
+    "enunciado": "Para fins da Resolução CFP nº 17/2022, “Agenda-Padrão” é",
+    "alternativas": [
+      "o número máximo de atendimentos individuais que a(o) psicóloga(o) pode realizar por dia.",
+      "o modelo de distribuição das ações realizadas ao longo das agendas semanais e mensal, individualmente ou de forma compartilhada com outros profissionais.",
+      "o tempo médio estimado para cada prática psicológica nos diferentes níveis de atenção.",
+      "a escala de plantões definida pelo gestor do serviço de saúde.",
+      "o calendário anual de ações de educação permanente do serviço."
+    ],
+    "gabarito": 1,
+    "comentario": "O art. 3º, § 2º, define Agenda-Padrão como o modelo de distribuição das ações ao longo das agendas semanais e mensal, individualmente ou de forma compartilhada. O tempo médio por prática (C) é a definição de Hora-Assistencial (art. 3º, § 1º); as demais alternativas não correspondem a conceitos da norma.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res17-2022-003",
+    "disciplina": "legislacao",
+    "assunto": "leg-res17-2022",
+    "origem": {"tipo": "autoral", "banca": "Claude (autoral)", "fonte": "https://www.in.gov.br/en/web/dou/-/resolucao-n-17-de-19-de-julho-de-2022-418333366"},
+    "enunciado": "Uma policlínica privada oferta serviço de Psicologia e conta com uma única psicóloga em seu quadro. Segundo a Resolução CFP nº 17/2022,",
+    "alternativas": [
+      "a instituição deve ser registrada ou cadastrada no CRP e ter ao menos um Responsável Técnico por sede, devendo a única psicóloga ser habilitada pela instituição como Responsável Técnica.",
+      "a instituição está dispensada de registro ou cadastro, por ser estabelecimento de saúde fiscalizado por outro conselho.",
+      "a única psicóloga não pode ser Responsável Técnica, devendo a instituição contratar outra profissional para a função.",
+      "a exigência de Responsável Técnico só se aplica a estabelecimentos públicos de saúde.",
+      "a instituição deve indicar como Responsável Técnico o diretor clínico, ainda que não seja psicólogo."
+    ],
+    "gabarito": 0,
+    "comentario": "O art. 4º determina que as instituições de saúde que ofertam serviços psicológicos sejam registradas ou cadastradas no CRP e tenham ao menos um RT por sede, agência, filial ou sucursal; o parágrafo único prevê que, havendo apenas um profissional de Psicologia, ele deverá ser habilitado como RT. A norma alcança estabelecimentos públicos e privados (art. 2º), e o RT é necessariamente psicóloga(o).",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res17-2022-004",
+    "disciplina": "legislacao",
+    "assunto": "leg-res17-2022",
+    "origem": {"tipo": "autoral", "banca": "Claude (autoral)", "fonte": "https://www.in.gov.br/en/web/dou/-/resolucao-n-17-de-19-de-julho-de-2022-418333366"},
+    "enunciado": "Segundo a Resolução CFP nº 17/2022, a atuação da psicóloga na Atenção Básica deve pautar-se nos atributos desse nível de atenção, considerando-se como atributos DERIVADOS",
+    "alternativas": [
+      "a equidade e a integralidade.",
+      "a longitudinalidade e a coordenação do cuidado.",
+      "a clínica ampliada e a reabilitação psicossocial.",
+      "a orientação familiar e comunitária e a competência cultural.",
+      "a atenção no primeiro contato e a universalidade de acesso."
+    ],
+    "gabarito": 3,
+    "comentario": "O art. 5º, parágrafo único, considera atributos derivados da Atenção Básica a orientação familiar e comunitária e a competência cultural. Equidade, integralidade, universalidade, longitudinalidade, primeiro contato e coordenação do cuidado são os atributos do caput (A, B, E). Clínica ampliada e reabilitação são atributos derivados mencionados para a Atenção Secundária (art. 11, § 1º).",
+    "dificuldade": 3,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res17-2022-005",
+    "disciplina": "legislacao",
+    "assunto": "leg-res17-2022",
+    "origem": {"tipo": "autoral", "banca": "Claude (autoral)", "fonte": "https://www.in.gov.br/en/web/dou/-/resolucao-n-17-de-19-de-julho-de-2022-418333366"},
+    "enunciado": "De acordo com a Resolução CFP nº 17/2022, a Agenda-Padrão da Atenção Básica é composta pelos seguintes eixos:",
+    "alternativas": [
+      "Promoção, Prevenção, Tratamento e Reabilitação.",
+      "Acolhimento, Psicoterapia, Grupos e Visitas.",
+      "Atendimento Específico, Ações Compartilhadas, Ações no Território e Outras Ações.",
+      "Assistência Direta, Assistência Indireta e Gestão.",
+      "Atendimento Individual, Matriciamento e Educação Permanente."
+    ],
+    "gabarito": 2,
+    "comentario": "O art. 8º estabelece que a Agenda-Padrão da Atenção Básica tem quatro eixos: Atendimento Específico, Ações Compartilhadas, Ações no Território e Outras Ações (Anexo I). Os mesmos quatro eixos compõem a Agenda-Padrão da Atenção Secundária (art. 14). As demais alternativas não reproduzem a estrutura da norma.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res17-2022-006",
+    "disciplina": "legislacao",
+    "assunto": "leg-res17-2022",
+    "origem": {"tipo": "autoral", "banca": "Claude (autoral)", "fonte": "https://www.in.gov.br/en/web/dou/-/resolucao-n-17-de-19-de-julho-de-2022-418333366"},
+    "enunciado": "Uma psicóloga do Nasf-AB organiza sua agenda conforme a Resolução CFP nº 17/2022. Quanto aos atendimentos individuais e ações de acolhimento, no eixo Atendimento Específico da Atenção Básica, a norma prevê duração de",
+    "alternativas": [
+      "30 a 45 minutos cada, compondo de 5% a 15% da carga horária mensal.",
+      "50 a 60 minutos cada, compondo de 20% a 40% da carga horária mensal.",
+      "30 a 60 minutos cada, compondo de 25% a 35% da carga horária mensal.",
+      "90 a 120 minutos cada, compondo de 5% a 10% da carga horária mensal.",
+      "45 a 60 minutos cada, compondo cerca de 5% da carga horária mensal."
+    ],
+    "gabarito": 0,
+    "comentario": "O art. 10, § 1º, I, prevê, na Atenção Básica, atendimentos individuais e acolhimento de 30 a 45 minutos, compondo de 5% a 15% da carga horária mensal. A faixa de 20% a 40% aparece para atendimentos individuais em Centros Especializados e hospitais de média complexidade (arts. 17 e 18); 90–120 min e 5–10% correspondem à educação permanente na Atenção Básica; 25–35% refere-se à discussão de casos/PTS e reuniões.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res17-2022-007",
+    "disciplina": "legislacao",
+    "assunto": "leg-res17-2022",
+    "origem": {"tipo": "autoral", "banca": "Claude (autoral)", "fonte": "https://www.in.gov.br/en/web/dou/-/resolucao-n-17-de-19-de-julho-de-2022-418333366"},
+    "enunciado": "Na Atenção Básica, segundo a Resolução CFP nº 17/2022, a ação do eixo Ações Compartilhadas que deve ocupar a MAIOR proporção da carga horária mensal da(o) psicóloga(o) é",
+    "alternativas": [
+      "o atendimento compartilhado ou interconsulta, de 5% a 15%.",
+      "as práticas grupais, de 5% a 15%.",
+      "a atenção a familiares, cerca de 5%.",
+      "a visita domiciliar, de 5% a 15%.",
+      "a discussão de casos e elaboração de Projetos Terapêuticos Singulares, com reuniões de equipe, de 25% a 35%."
+    ],
+    "gabarito": 4,
+    "comentario": "O art. 10, § 2º, III, prevê discussão de casos e elaboração de PTS (90 a 120 min) e reuniões de equipe (90 a 180 min) compondo de 25% a 35% da carga horária mensal — a maior fatia do eixo. Interconsulta e práticas grupais ficam entre 5% e 15%, atenção a familiares em cerca de 5%, e a visita domiciliar pertence ao eixo Ações no Território (§ 3º, II).",
+    "dificuldade": 3,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res17-2022-008",
+    "disciplina": "legislacao",
+    "assunto": "leg-res17-2022",
+    "origem": {"tipo": "autoral", "banca": "Claude (autoral)", "fonte": "https://www.in.gov.br/en/web/dou/-/resolucao-n-17-de-19-de-julho-de-2022-418333366"},
+    "enunciado": "Para o dimensionamento de psicólogas(os) na Atenção Terciária, a Resolução CFP nº 17/2022 fixa parâmetros de Hora-Assistencial por tipo de atendimento. Está correta a correspondência:",
+    "alternativas": [
+      "avaliação neuropsicológica — 60 minutos por atendimento.",
+      "Unidade de Terapia Intensiva adulto e pediátrica — 30 a 40 minutos.",
+      "Unidade de Internação Adulto (enfermaria) — 45 a 60 minutos.",
+      "paciente em unidade de cuidados paliativos — 90 a 120 minutos.",
+      "Unidade de Pronto Socorro — 60 a 90 minutos."
+    ],
+    "gabarito": 1,
+    "comentario": "O art. 22, VII, fixa 30 a 40 minutos para UTI adulto e pediátrica. Pelo mesmo artigo, a avaliação neuropsicológica tem 90 a 120 minutos (II), a enfermaria adulto 30 a 45 minutos (V) — 45 a 60 é a enfermaria pediátrica (VI) —, cuidados paliativos 60 minutos (X) e pronto-socorro 30 a 60 minutos (VIII).",
+    "dificuldade": 3,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res17-2022-009",
+    "disciplina": "legislacao",
+    "assunto": "leg-res17-2022",
+    "origem": {"tipo": "autoral", "banca": "Claude (autoral)", "fonte": "https://www.in.gov.br/en/web/dou/-/resolucao-n-17-de-19-de-julho-de-2022-418333366"},
+    "enunciado": "Em um hospital, a equipe de Psicologia planeja um grupo terapêutico com 12 participantes. Segundo as instruções do Anexo III (Atenção Terciária) da Resolução CFP nº 17/2022, esse grupo deve ser coordenado por",
+    "alternativas": [
+      "uma psicóloga ou um psicólogo, já que o limite para coordenação individual é de 15 participantes.",
+      "uma psicóloga ou um psicólogo, com apoio de profissional de outra categoria.",
+      "no mínimo três psicólogas(os), por exceder dez participantes.",
+      "no mínimo duas psicólogas ou dois psicólogos, pois atividades com 9 a 20 participantes exigem essa composição.",
+      "nenhuma configuração específica, pois a resolução não trata do número de participantes."
+    ],
+    "gabarito": 3,
+    "comentario": "O item 5 do Anexo III dispõe que atividades de grupo com 3 a 8 participantes devem ser coordenadas por uma psicóloga ou um psicólogo, e as que tenham entre 9 e 20 participantes, por no mínimo duas psicólogas ou dois psicólogos. Com 12 participantes, exigem-se ao menos duas(dois) profissionais de Psicologia.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res17-2022-010",
+    "disciplina": "legislacao",
+    "assunto": "leg-res17-2022",
+    "origem": {"tipo": "autoral", "banca": "Claude (autoral)", "fonte": "https://www.in.gov.br/en/web/dou/-/resolucao-n-17-de-19-de-julho-de-2022-418333366"},
+    "enunciado": "Pela fórmula geral do Anexo III da Resolução CFP nº 17/2022, NP = (PAA × HAS) / CHA. Em um setor são atendidos, em média, 90 pacientes por semana, cada um com 2 sessões semanais de 30 minutos. Se a Carga Horária Assistencial Semanal Média for de 30 horas, o número de psicólogas(os) necessário é",
+    "alternativas": [
+      "1.",
+      "2.",
+      "3.",
+      "4.",
+      "6."
+    ],
+    "gabarito": 2,
+    "comentario": "HAS = NAP × HAD = 2 × 30 = 60 minutos. HAT = PAA × HAS = 90 × 60 = 5.400 minutos. CHA = 30 × 60 = 1.800 minutos. NP = 5.400 / 1.800 = 3. A fórmula geral consta do Anexo III da Res. CFP 17/2022 (Exemplo 1 segue o mesmo raciocínio).",
+    "dificuldade": 3,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res17-2022-011",
+    "disciplina": "legislacao",
+    "assunto": "leg-res17-2022",
+    "origem": {"tipo": "autoral", "banca": "Claude (autoral)", "fonte": "https://www.in.gov.br/en/web/dou/-/resolucao-n-17-de-19-de-julho-de-2022-418333366"},
+    "enunciado": "Uma unidade hospitalar tem 30 leitos, com taxa de ocupação de 80%. A equipe considera essenciais 5 sessões semanais por leito, de 30 minutos cada. Usando a fórmula auxiliar do Anexo III da Resolução CFP nº 17/2022, NP = (NL × TOL) × (HAD × NAL) / CHA, e uma Carga Horária Assistencial Semanal Média de 30 horas, o número de psicólogas(os) necessário é",
+    "alternativas": [
+      "2.",
+      "3.",
+      "4.",
+      "5.",
+      "1."
+    ],
+    "gabarito": 0,
+    "comentario": "Leitos ocupados: NL × TOL = 30 × 0,8 = 24. Tempo semanal por leito: HAD × NAL = 30 × 5 = 150 minutos. Total: 24 × 150 = 3.600 minutos. CHA = 30 × 60 = 1.800 minutos. NP = 3.600 / 1.800 = 2. É a fórmula para leitos de alta ou média complexidade psicológica do Anexo III.",
+    "dificuldade": 3,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res17-2022-012",
+    "disciplina": "legislacao",
+    "assunto": "leg-res17-2022",
+    "origem": {"tipo": "autoral", "banca": "Claude (autoral)", "fonte": "https://www.in.gov.br/en/web/dou/-/resolucao-n-17-de-19-de-julho-de-2022-418333366"},
+    "enunciado": "Sobre a natureza e a vigência da Resolução CFP nº 17/2022, é correto afirmar que",
+    "alternativas": [
+      "seus parâmetros são tetos obrigatórios de produtividade, cujo descumprimento caracteriza falta ética automática, e ela entrou em vigor na data da publicação.",
+      "seus parâmetros representam normas técnicas mínimas de referência para orientar profissionais, responsáveis técnicos e gestores, e ela entrou em vigor 180 dias após a publicação.",
+      "seus parâmetros aplicam-se apenas a serviços públicos do SUS, e ela entrou em vigor 90 dias após a publicação.",
+      "seus parâmetros substituem as portarias do Ministério da Saúde sobre composição de equipes, e ela entrou em vigor 60 dias após a publicação.",
+      "seus parâmetros são meramente sugestivos para a gestão, sem aplicação às(aos) psicólogas(os), e ela entrou em vigor um ano após a publicação."
+    ],
+    "gabarito": 1,
+    "comentario": "O art. 1º, § 1º, define os parâmetros como normas técnicas mínimas de referência para orientar profissionais, responsáveis técnicos e gestores no planejamento de atribuições e no quantitativo de profissionais; o art. 25 fixa a vigência em 180 dias após a publicação. A norma alcança estabelecimentos públicos e privados (art. 2º) e manda observar as portarias ministeriais (arts. 6º e 12), sem substituí-las.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res17-2022-013",
+    "disciplina": "legislacao",
+    "assunto": "leg-res17-2022",
+    "origem": {"tipo": "autoral", "banca": "Claude (autoral)", "fonte": "https://www.in.gov.br/en/web/dou/-/resolucao-n-17-de-19-de-julho-de-2022-418333366"},
+    "enunciado": "Em um CAPS, a coordenação propõe padronizar em 30 minutos todos os atendimentos psicológicos, com base na Resolução CFP nº 17/2022. Segundo essa resolução, nos atendimentos nos serviços substitutivos em saúde mental,",
+    "alternativas": [
+      "o tempo de atendimento é fixado em 50 minutos, independentemente do usuário.",
+      "prevalece a Hora-Assistencial da Atenção Terciária, por se tratar de serviço especializado.",
+      "devem ser observadas as diretrizes do trabalho multiprofissional e interdisciplinar, nos princípios da reforma psiquiátrica antimanicomial, e o tempo de atendimento deve estar previsto nas especificidades do Projeto Terapêutico Singular de cada usuário.",
+      "o tempo de atendimento é definido exclusivamente pelo gestor, conforme a demanda reprimida.",
+      "a resolução não se aplica, pois os serviços de saúde mental são regidos apenas pelas portarias da RAPS."
+    ],
+    "gabarito": 2,
+    "comentario": "O art. 1º, § 3º, determina que, nos serviços substitutivos em saúde mental, nos três níveis de atenção, sejam observadas as diretrizes do trabalho multiprofissional e interdisciplinar, nos princípios da reforma psiquiátrica antimanicomial, e que o tempo de atendimento esteja previsto no PTS de cada usuário. Assim, uma padronização rígida contraria a norma; as demais alternativas contrariam o mesmo dispositivo ou a aplicação expressa da resolução à RAPS (arts. 12 e 16).",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res17-2022-014",
+    "disciplina": "legislacao",
+    "assunto": "leg-res17-2022",
+    "origem": {"tipo": "autoral", "banca": "Claude (autoral)", "fonte": "https://www.in.gov.br/en/web/dou/-/resolucao-n-17-de-19-de-julho-de-2022-418333366"},
+    "enunciado": "Considere as afirmativas sobre a Resolução CFP nº 17/2022.\nI. Em áreas de grande dispersão territorial, áreas de risco e de vulnerabilidade social, deverá ser alocado, proporcionalmente, um maior quantitativo de psicólogas(os) por habitantes.\nII. No cálculo da quantidade de leitos por psicóloga(o) no atendimento a pacientes hospitalizados, devem ser consideradas, entre outros fatores, a necessidade de atividades que não envolvem assistência direta e a taxa de cobertura exigida pela gestão.\nIII. A Hora-Assistencial é um tempo fixo e obrigatório para cada atendimento, vedada qualquer variação em razão das especificidades da equipe.\nEstá correto o que se afirma em",
+    "alternativas": [
+      "I, apenas.",
+      "II, apenas.",
+      "III, apenas.",
+      "I e II, apenas.",
+      "I, II e III."
+    ],
+    "gabarito": 3,
+    "comentario": "A afirmativa I reproduz o parágrafo único dos arts. 7º e 13; a II corresponde ao art. 23, incisos IV e V. A III está errada: o art. 1º, § 2º, define a Hora-Assistencial como tempo médio para nortear a prática, e os arts. 9º e 15 mandam dimensioná-la conforme as especificidades de cada equipe.",
+    "dificuldade": 2,
+    "anulada": false
+  }
+]

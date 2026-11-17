@@ -1,0 +1,272 @@
+[
+  {
+    "id": "aut-leg-lei11788-001",
+    "disciplina": "legislacao",
+    "assunto": "leg-lei11788",
+    "origem": {"tipo": "autoral", "banca": "Claude (autoral)", "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11788.htm"},
+    "enunciado": "Joana, estudante do 7º período de Psicologia, foi selecionada para estágio em uma clínica-escola conveniada. De acordo com a Lei nº 11.788/2008, a jornada de atividade em estágio de Joana, fora dos períodos em que o curso alterna teoria e prática, não pode ultrapassar:",
+    "alternativas": [
+      "4 horas diárias e 20 horas semanais.",
+      "6 horas diárias e 30 horas semanais.",
+      "6 horas diárias e 36 horas semanais.",
+      "8 horas diárias e 40 horas semanais.",
+      "8 horas diárias e 44 horas semanais."
+    ],
+    "gabarito": 1,
+    "comentario": "Pelo art. 10, II, da Lei nº 11.788/2008, a jornada de estudantes do ensino superior, da educação profissional de nível médio e do ensino médio regular é de até 6 horas diárias e 30 horas semanais. O limite de 4h/20h (art. 10, I) vale para educação especial e anos finais do ensino fundamental na modalidade de EJA. As 40 horas semanais só são admitidas no caso do art. 10, § 1º (cursos que alternam teoria e prática, nos períodos sem aulas presenciais, se previsto no projeto pedagógico). As demais cargas não existem na lei.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-lei11788-002",
+    "disciplina": "legislacao",
+    "assunto": "leg-lei11788",
+    "origem": {"tipo": "autoral", "banca": "Claude (autoral)", "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11788.htm"},
+    "enunciado": "Um estagiário de Psicologia completou um ano de estágio não obrigatório em um hospital, recebendo bolsa mensal. Segundo a Lei nº 11.788/2008, quanto ao recesso, é correto afirmar que ele tem direito a:",
+    "alternativas": [
+      "15 dias de recesso, não remunerado, a ser gozado obrigatoriamente nas férias escolares.",
+      "30 dias de recesso, não remunerado, por se tratar de estágio e não de relação de emprego.",
+      "30 dias de férias acrescidas de um terço, como qualquer trabalhador.",
+      "30 dias de recesso, remunerado, a ser gozado preferencialmente durante as férias escolares.",
+      "recesso apenas se o estágio for obrigatório, na proporção definida pela instituição de ensino."
+    ],
+    "gabarito": 3,
+    "comentario": "O art. 13 assegura ao estagiário, sempre que o estágio tenha duração igual ou superior a 1 ano, recesso de 30 dias, a ser gozado preferencialmente durante as férias escolares; o § 1º determina que o recesso seja remunerado quando o estagiário receber bolsa ou outra forma de contraprestação. Não há adicional de um terço, pois não se trata de férias trabalhistas. Para estágios com menos de 1 ano, os dias são concedidos de forma proporcional (§ 2º). O direito não depende de o estágio ser obrigatório.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-lei11788-003",
+    "disciplina": "legislacao",
+    "assunto": "leg-lei11788",
+    "origem": {"tipo": "autoral", "banca": "Claude (autoral)", "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11788.htm"},
+    "enunciado": "Pedro, estudante de Psicologia com deficiência visual, estagia há dois anos no setor de gestão de pessoas de uma empresa, que deseja mantê-lo como estagiário por mais um ano. À luz da Lei nº 11.788/2008, a pretensão da empresa:",
+    "alternativas": [
+      "é possível, pois o limite de 2 anos de estágio na mesma parte concedente não se aplica ao estagiário portador de deficiência.",
+      "é vedada, pois o estágio na mesma parte concedente não pode exceder 2 anos em nenhuma hipótese.",
+      "é possível apenas se houver autorização expressa do Ministério do Trabalho e Emprego.",
+      "é vedada, pois o limite máximo de duração do estágio na mesma concedente é de 1 ano, prorrogável uma única vez.",
+      "é possível apenas se o estágio for convertido em estágio obrigatório previsto no projeto pedagógico do curso."
+    ],
+    "gabarito": 0,
+    "comentario": "O art. 11 da Lei nº 11.788/2008 estabelece que a duração do estágio, na mesma parte concedente, não poderá exceder 2 anos, exceto quando se tratar de estagiário portador de deficiência. Assim, a manutenção de Pedro é juridicamente possível. A lei não exige autorização ministerial nem conversão em estágio obrigatório, e o limite geral é de 2 anos, não de 1 ano prorrogável.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-lei11788-004",
+    "disciplina": "legislacao",
+    "assunto": "leg-lei11788",
+    "origem": {"tipo": "autoral", "banca": "Claude (autoral)", "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11788.htm"},
+    "enunciado": "Sobre a bolsa e o auxílio-transporte no estágio, nos termos da Lei nº 11.788/2008, assinale a afirmativa correta.",
+    "alternativas": [
+      "São compulsórios em qualquer modalidade de estágio, obrigatório ou não obrigatório.",
+      "São sempre facultativos, cabendo à parte concedente decidir sobre sua concessão.",
+      "São compulsórios no estágio não obrigatório; no estágio obrigatório, o estagiário poderá receber bolsa ou outra forma de contraprestação que venha a ser acordada.",
+      "São compulsórios no estágio obrigatório, por ser requisito para aprovação e obtenção do diploma, e facultativos no não obrigatório.",
+      "A bolsa é compulsória no estágio não obrigatório, mas o auxílio-transporte só é devido quando o estágio superar 20 horas semanais."
+    ],
+    "gabarito": 2,
+    "comentario": "Pelo art. 12, caput, o estagiário poderá receber bolsa ou outra forma de contraprestação que venha a ser acordada, sendo compulsória a sua concessão, bem como a do auxílio-transporte, na hipótese de estágio não obrigatório. No estágio obrigatório, portanto, ambos são facultativos. A lei não condiciona o auxílio-transporte a carga horária mínima. As alternativas que invertem as modalidades ou generalizam a regra estão erradas.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-lei11788-005",
+    "disciplina": "legislacao",
+    "assunto": "leg-lei11788",
+    "origem": {"tipo": "autoral", "banca": "Claude (autoral)", "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11788.htm"},
+    "enunciado": "Entre as obrigações que a Lei nº 11.788/2008 atribui à instituição de ensino em relação aos estágios de seus educandos, está a de exigir do educando a apresentação periódica de relatório das atividades, em prazo não superior a:",
+    "alternativas": [
+      "1 mês.",
+      "2 meses.",
+      "3 meses.",
+      "1 ano.",
+      "6 meses."
+    ],
+    "gabarito": 4,
+    "comentario": "O art. 7º, IV, da Lei nº 11.788/2008 obriga a instituição de ensino a exigir do educando a apresentação periódica, em prazo não superior a 6 meses, de relatório das atividades. Em paralelo, o art. 9º, VII, obriga a parte concedente a enviar à instituição de ensino, com periodicidade mínima de 6 meses, relatório de atividades, com vista obrigatória ao estagiário. Os demais prazos não constam da lei.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-lei11788-006",
+    "disciplina": "legislacao",
+    "assunto": "leg-lei11788",
+    "origem": {"tipo": "autoral", "banca": "Claude (autoral)", "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11788.htm"},
+    "enunciado": "Um Centro de Atenção Psicossocial (CAPS) pretende receber estagiários de Psicologia. Segundo a Lei nº 11.788/2008, a parte concedente deverá indicar funcionário de seu quadro de pessoal para orientar e supervisionar os estagiários, desde que esse funcionário:",
+    "alternativas": [
+      "seja servidor efetivo há pelo menos 3 anos e supervisione até 5 estagiários simultaneamente.",
+      "tenha formação ou experiência profissional na área de conhecimento desenvolvida no curso do estagiário e supervisione até 10 estagiários simultaneamente.",
+      "tenha título de especialista na área e supervisione até 10 estagiários simultaneamente.",
+      "seja indicado pela instituição de ensino e supervisione até 15 estagiários simultaneamente.",
+      "tenha formação na área do curso do estagiário, sem limite de estagiários, desde que haja escala de supervisão."
+    ],
+    "gabarito": 1,
+    "comentario": "O art. 9º, III, determina que a parte concedente indique funcionário de seu quadro de pessoal, com formação ou experiência profissional na área de conhecimento desenvolvida no curso do estagiário, para orientar e supervisionar até 10 estagiários simultaneamente. A lei não exige tempo de serviço nem título de especialista, e o supervisor é indicado pela concedente, não pela instituição de ensino (que indica o professor orientador, art. 7º, III).",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-lei11788-007",
+    "disciplina": "legislacao",
+    "assunto": "leg-lei11788",
+    "origem": {"tipo": "autoral", "banca": "Claude (autoral)", "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11788.htm"},
+    "enunciado": "Quanto ao seguro contra acidentes pessoais em favor do estagiário, a Lei nº 11.788/2008 estabelece que:",
+    "alternativas": [
+      "é obrigação da parte concedente contratá-lo, com apólice compatível com valores de mercado, podendo, no caso de estágio obrigatório, a responsabilidade ser alternativamente assumida pela instituição de ensino.",
+      "é obrigação exclusiva da instituição de ensino, em qualquer modalidade de estágio.",
+      "é facultativo no estágio obrigatório e obrigatório apenas no estágio não obrigatório remunerado.",
+      "deve ser contratado pelo próprio estagiário, que pode deduzir o valor da bolsa recebida.",
+      "é obrigação do agente de integração, quando houver, e da parte concedente nos demais casos."
+    ],
+    "gabarito": 0,
+    "comentario": "O art. 9º, IV, impõe à parte concedente contratar em favor do estagiário seguro contra acidentes pessoais, cuja apólice seja compatível com valores de mercado, conforme fique estabelecido no termo de compromisso. O § 1º do art. 9º prevê que, no caso de estágio obrigatório, essa responsabilidade poderá, alternativamente, ser assumida pela instituição de ensino. O agente de integração pode apenas cuidar da obtenção do seguro (art. 5º, § 1º), sem ser o obrigado; o seguro nunca é ônus do estagiário.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-lei11788-008",
+    "disciplina": "legislacao",
+    "assunto": "leg-lei11788",
+    "origem": {"tipo": "autoral", "banca": "Claude (autoral)", "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11788.htm"},
+    "enunciado": "A filial de uma rede de clínicas foi autuada pela fiscalização do trabalho, pela segunda vez, por manter estagiários em desconformidade com a Lei nº 11.788/2008, com decisão definitiva no processo administrativo. Nos termos da lei, a consequência específica da reincidência é:",
+    "alternativas": [
+      "a proibição de toda a rede, incluindo matriz e demais filiais, de receber estagiários por 2 anos.",
+      "a proibição da filial de receber estagiários por 1 ano, contado da data da segunda autuação.",
+      "a cassação do convênio com a instituição de ensino e multa por estagiário irregular.",
+      "o impedimento de receber estagiários por 2 anos, contados da data da decisão definitiva do processo administrativo, limitado à filial em que ocorreu a irregularidade.",
+      "o impedimento de receber estagiários por 5 anos, limitado à filial em que ocorreu a irregularidade."
+    ],
+    "gabarito": 3,
+    "comentario": "O art. 15, § 1º, prevê que a instituição privada ou pública que reincidir na irregularidade ficará impedida de receber estagiários por 2 anos, contados da data da decisão definitiva do processo administrativo correspondente. O § 2º limita essa penalidade à filial ou agência em que for cometida a irregularidade. Além disso, o caput do art. 15 dispõe que a manutenção de estagiários em desconformidade caracteriza vínculo de emprego para fins trabalhistas e previdenciários.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-lei11788-009",
+    "disciplina": "legislacao",
+    "assunto": "leg-lei11788",
+    "origem": {"tipo": "autoral", "banca": "Claude (autoral)", "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11788.htm"},
+    "enunciado": "Uma clínica de psicologia constituída como pessoa jurídica possui 4 empregados e quer receber 3 estagiários do curso de graduação em Psicologia, todos supervisionados por uma psicóloga do quadro. Considerando as proporções do art. 17 da Lei nº 11.788/2008, é correto afirmar que a clínica:",
+    "alternativas": [
+      "só pode receber 1 estagiário, pois tem entre 1 e 5 empregados.",
+      "pode receber até 2 estagiários, pois o limite é de 50% do quadro de pessoal.",
+      "pode receber os 3 estagiários, pois as proporções do art. 17 não se aplicam aos estágios de nível superior.",
+      "não pode receber estagiários, pois a lei exige quadro mínimo de 6 empregados.",
+      "pode receber os 3 estagiários somente se reservar 10% das vagas a pessoas com deficiência."
+    ],
+    "gabarito": 2,
+    "comentario": "O art. 17 fixa proporções máximas de estagiários em relação ao quadro de pessoal (de 1 a 5 empregados: 1 estagiário; de 6 a 10: até 2; de 11 a 25: até 5; acima de 25: até 20%), mas o § 4º afasta essa regra para os estágios de nível superior e de nível médio profissional. Como se trata de graduação em Psicologia, a limitação não se aplica, respeitado o limite de até 10 estagiários por supervisor (art. 9º, III). A reserva de 10% a pessoas com deficiência (art. 17, § 5º) não é condição para receber os estagiários no caso.",
+    "dificuldade": 3,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-lei11788-010",
+    "disciplina": "legislacao",
+    "assunto": "leg-lei11788",
+    "origem": {"tipo": "autoral", "banca": "Claude (autoral)", "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11788.htm"},
+    "enunciado": "Sobre os agentes de integração, públicos e privados, a Lei nº 11.788/2008 dispõe que:",
+    "alternativas": [
+      "podem cobrar dos estudantes taxa de cadastro, desde que módica e prevista no termo de compromisso.",
+      "podem assinar o termo de compromisso como representantes da parte concedente.",
+      "são os responsáveis legais pela supervisão das atividades do estagiário no local do estágio.",
+      "substituem a instituição de ensino na indicação do professor orientador.",
+      "é vedada a cobrança de qualquer valor dos estudantes a título de remuneração por seus serviços, e eles não podem atuar como representantes de qualquer das partes no termo de compromisso."
+    ],
+    "gabarito": 4,
+    "comentario": "O art. 5º, § 2º, veda a cobrança de qualquer valor dos estudantes a título de remuneração pelos serviços dos agentes de integração, e o art. 16 veda que eles atuem como representantes de qualquer das partes no termo de compromisso. Suas atribuições são auxiliares (identificar oportunidades, ajustar condições, acompanhamento administrativo, encaminhar seguro, cadastrar estudantes – art. 5º, § 1º). A supervisão cabe à concedente (art. 9º, III) e a indicação do professor orientador, à instituição de ensino (art. 7º, III).",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-lei11788-011",
+    "disciplina": "legislacao",
+    "assunto": "leg-lei11788",
+    "origem": {"tipo": "autoral", "banca": "Claude (autoral)", "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11788.htm"},
+    "enunciado": "Mariana, psicóloga clínica autônoma, sem constituir pessoa jurídica, deseja receber uma estagiária de Psicologia em seu consultório. De acordo com a Lei nº 11.788/2008, Mariana:",
+    "alternativas": [
+      "não pode ser parte concedente, pois apenas pessoas jurídicas de direito privado e órgãos da administração pública podem oferecer estágio.",
+      "pode oferecer estágio, pois profissionais liberais de nível superior devidamente registrados em seus respectivos conselhos de fiscalização profissional podem ser parte concedente, observadas as obrigações legais.",
+      "pode oferecer estágio apenas na modalidade não obrigatória, sem necessidade de termo de compromisso.",
+      "pode oferecer estágio, desde que contrate agente de integração para representá-la no termo de compromisso.",
+      "só pode oferecer estágio se a instituição de ensino assumir integralmente a supervisão no local."
+    ],
+    "gabarito": 1,
+    "comentario": "O caput do art. 9º permite que pessoas jurídicas de direito privado, órgãos da administração pública e também profissionais liberais de nível superior devidamente registrados em seus respectivos conselhos de fiscalização profissional ofereçam estágio, observadas as obrigações ali listadas (termo de compromisso, instalações adequadas, supervisor, seguro etc.). O termo de compromisso é requisito de qualquer estágio (art. 3º, II), e o agente de integração não pode representar as partes (art. 16).",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-lei11788-012",
+    "disciplina": "legislacao",
+    "assunto": "leg-lei11788",
+    "origem": {"tipo": "autoral", "banca": "Claude (autoral)", "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11788.htm"},
+    "enunciado": "Analise as afirmativas sobre o vínculo de emprego no estágio, à luz da Lei nº 11.788/2008.\n\nI. O estágio, obrigatório ou não obrigatório, não cria vínculo empregatício de qualquer natureza, desde que observados os requisitos de matrícula e frequência regular, celebração de termo de compromisso e compatibilidade entre as atividades e as previstas no termo.\nII. O descumprimento de qualquer dos requisitos do art. 3º ou de qualquer obrigação contida no termo de compromisso caracteriza vínculo de emprego do educando com a parte concedente, para todos os fins da legislação trabalhista e previdenciária.\nIII. A concessão de benefícios relacionados a transporte, alimentação e saúde, entre outros, caracteriza vínculo empregatício, por constituir salário indireto.\n\nEstá correto o que se afirma em:",
+    "alternativas": [
+      "I e II, apenas.",
+      "I, apenas.",
+      "II, apenas.",
+      "II e III, apenas.",
+      "I, II e III."
+    ],
+    "gabarito": 0,
+    "comentario": "A afirmativa I reproduz o art. 3º, caput, incisos I a III. A afirmativa II corresponde ao art. 3º, § 2º (e o art. 15 reforça a consequência para a manutenção de estagiários em desconformidade). A afirmativa III está errada: o art. 12, § 1º, dispõe justamente que a eventual concessão de benefícios relacionados a transporte, alimentação e saúde, entre outros, NÃO caracteriza vínculo empregatício.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-lei11788-013",
+    "disciplina": "legislacao",
+    "assunto": "leg-lei11788",
+    "origem": {"tipo": "autoral", "banca": "Claude (autoral)", "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11788.htm"},
+    "enunciado": "Carla, estagiária de Psicologia, terá provas finais em duas semanas. A instituição de ensino adota verificações de aprendizagem periódicas e informou as datas à concedente no início do período letivo. Segundo a Lei nº 11.788/2008, nesse período:",
+    "alternativas": [
+      "a jornada de estágio deve ser suspensa integralmente, sem prejuízo da bolsa.",
+      "a jornada é mantida, mas Carla pode compensar as horas de estudo após as provas.",
+      "a carga horária pode ser reduzida em até um quarto, a critério do supervisor.",
+      "a redução de jornada só é devida no estágio obrigatório.",
+      "a carga horária do estágio será reduzida pelo menos à metade, segundo estipulado no termo de compromisso, para garantir o bom desempenho do estudante."
+    ],
+    "gabarito": 4,
+    "comentario": "O art. 10, § 2º, prevê que, se a instituição de ensino adotar verificações de aprendizagem periódicas ou finais, nos períodos de avaliação a carga horária do estágio será reduzida pelo menos à metade, segundo estipulado no termo de compromisso, para garantir o bom desempenho do estudante. Para viabilizar isso, a instituição deve comunicar à concedente, no início do período letivo, as datas de realização das avaliações (art. 7º, VII). A regra não distingue estágio obrigatório de não obrigatório e não prevê suspensão integral.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-lei11788-014",
+    "disciplina": "legislacao",
+    "assunto": "leg-lei11788",
+    "origem": {"tipo": "autoral", "banca": "Claude (autoral)", "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11788.htm"},
+    "enunciado": "A Lei nº 11.788/2008 admite jornada de estágio de até 40 horas semanais na seguinte hipótese:",
+    "alternativas": [
+      "estágio não obrigatório remunerado, mediante acordo escrito entre estagiário e concedente.",
+      "estágio realizado em órgão da administração pública, durante as férias escolares, a critério do supervisor.",
+      "estágio de último ano do curso, desde que autorizado pelo professor orientador.",
+      "estágio relativo a cursos que alternam teoria e prática, nos períodos em que não estão programadas aulas presenciais, desde que isso esteja previsto no projeto pedagógico do curso e da instituição de ensino.",
+      "estágio obrigatório em que o estagiário tenha completado 18 anos, por aplicação analógica da CLT."
+    ],
+    "gabarito": 3,
+    "comentario": "O art. 10, § 1º, dispõe que o estágio relativo a cursos que alternam teoria e prática, nos períodos em que não estão programadas aulas presenciais, poderá ter jornada de até 40 horas semanais, desde que isso esteja previsto no projeto pedagógico do curso e da instituição de ensino. Fora dessa hipótese, valem os limites do art. 10, I e II. Acordo entre as partes, autorização do orientador ou do supervisor não bastam para ampliar a jornada.",
+    "dificuldade": 3,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-lei11788-015",
+    "disciplina": "legislacao",
+    "assunto": "leg-lei11788",
+    "origem": {"tipo": "autoral", "banca": "Claude (autoral)", "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11788.htm"},
+    "enunciado": "Analise as afirmativas a seguir, de acordo com a Lei nº 11.788/2008.\n\nI. Fica assegurado às pessoas portadoras de deficiência o percentual de 10% das vagas oferecidas pela parte concedente do estágio.\nII. O estagiário pode inscrever-se e contribuir como segurado facultativo do Regime Geral de Previdência Social.\nIII. Aplica-se ao estagiário a legislação relacionada à saúde e segurança no trabalho, sendo sua implementação de responsabilidade da instituição de ensino.\n\nEstá correto o que se afirma em:",
+    "alternativas": [
+      "I, apenas.",
+      "III, apenas.",
+      "I e II, apenas.",
+      "II e III, apenas.",
+      "I, II e III."
+    ],
+    "gabarito": 2,
+    "comentario": "A afirmativa I reproduz o art. 17, § 5º, e a II, o art. 12, § 2º. A afirmativa III erra ao atribuir a responsabilidade: segundo o art. 14, aplica-se ao estagiário a legislação relacionada à saúde e segurança no trabalho, sendo sua implementação de responsabilidade da PARTE CONCEDENTE do estágio, e não da instituição de ensino.",
+    "dificuldade": 2,
+    "anulada": false
+  }
+]

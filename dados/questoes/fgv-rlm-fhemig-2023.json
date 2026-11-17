@@ -1,0 +1,127 @@
+[
+ {
+  "id": "fgv-fhemig-2023-psi-11",
+  "disciplina": "rlm",
+  "assunto": "rlm-problemas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "FHEMIG",
+   "ano": 2023,
+   "cargo": "Analista de Gestão e Assistência à Saúde – Psicólogo Clínico",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-de-gestao-e-assistencia-a-saude-agas-psicologo-clinico-nivel-icns118-tipo-1.pdf"
+  },
+  "enunciado": "Marcos estuda sempre durante o dia. Nos 5 dias da última semana, de segunda-feira a sexta-feira, em exatos 3 dias, ele estudou apenas 5 horas. O número de horas de estudo na segunda-feira foi igual ao número de horas de estudo na quinta-feira. Na quarta-feira, ele estudou uma hora a mais do que na terça-feira e uma hora a menos do que na segunda-feira.\nAo todo, nesses 5 dias, Marcos estudou",
+  "alternativas": [
+   "17 horas.",
+   "20 horas.",
+   "22 horas.",
+   "27 horas.",
+   "32 horas."
+  ],
+  "gabarito": 2,
+  "comentario": "Seja x as horas de terça. Então quarta = x + 1 e segunda = quarta + 1 = x + 2; quinta = segunda = x + 2. Terça e quarta são diferentes, então não podem ambas valer 5; se segunda e quinta não valessem 5, haveria no máximo 2 dias com 5 h (um entre terça/quarta e a sexta). Logo segunda = quinta = 5, x = 3, quarta = 4, e o 3º dia de 5 h é a sexta. Total: 5 + 3 + 4 + 5 + 5 = 22 horas.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-fhemig-2023-psi-12",
+  "disciplina": "rlm",
+  "assunto": "rlm-proposicoes",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "FHEMIG",
+   "ano": 2023,
+   "cargo": "Analista de Gestão e Assistência à Saúde – Psicólogo Clínico",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-de-gestao-e-assistencia-a-saude-agas-psicologo-clinico-nivel-icns118-tipo-1.pdf"
+  },
+  "enunciado": "A proposição\n“Se eu passo em concurso público, não fico desempregado”\né logicamente equivalente a",
+  "alternativas": [
+   "“Se eu não passo em concurso público, não fico desempregado.”",
+   "“Se eu não passo em concurso público, fico desempregado.”",
+   "“Eu passo em concurso público e não fico desempregado.”",
+   "“Se eu fico desempregado, não passo em concurso público.”",
+   "“Se eu não fico desempregado, não passo em concurso público.”"
+  ],
+  "gabarito": 3,
+  "comentario": "Uma condicional p → q é equivalente à sua contrapositiva ~q → ~p. Com p = “passo em concurso” e q = “não fico desempregado”, temos ~q = “fico desempregado” e ~p = “não passo em concurso”: “Se eu fico desempregado, não passo em concurso público”. (A) e (B) negam o antecedente (falácia), (C) é uma conjunção e (E) é a recíproca da contrapositiva errada (q → ~p).",
+  "dificuldade": 1,
+  "anulada": false
+ },
+ {
+  "id": "fgv-fhemig-2023-psi-13",
+  "disciplina": "rlm",
+  "assunto": "rlm-problemas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "FHEMIG",
+   "ano": 2023,
+   "cargo": "Analista de Gestão e Assistência à Saúde – Psicólogo Clínico",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-de-gestao-e-assistencia-a-saude-agas-psicologo-clinico-nivel-icns118-tipo-1.pdf"
+  },
+  "enunciado": "Em uma sacola, há 40 bolas. Essas bolas, ou são brancas, ou são azuis. Se uma das bolas brancas for retirada da sacola, a probabilidade de que uma bola sorteada ao acaso seja branca passa a ser 5/13.\nA quantidade de bolas azuis dentro da sacola é",
+  "alternativas": [
+   "25.",
+   "24.",
+   "23.",
+   "16.",
+   "15."
+  ],
+  "gabarito": 1,
+  "comentario": "Seja B o número de bolas brancas. Após retirar uma branca, restam 39 bolas, das quais B − 1 são brancas: (B − 1)/39 = 5/13 ⇒ B − 1 = 15 ⇒ B = 16. Azuis: 40 − 16 = 24.",
+  "dificuldade": 2,
+  "anulada": false
+ },
+ {
+  "id": "fgv-fhemig-2023-psi-14",
+  "disciplina": "rlm",
+  "assunto": "rlm-numeros",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "FHEMIG",
+   "ano": 2023,
+   "cargo": "Analista de Gestão e Assistência à Saúde – Psicólogo Clínico",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-de-gestao-e-assistencia-a-saude-agas-psicologo-clinico-nivel-icns118-tipo-1.pdf"
+  },
+  "enunciado": "Considere uma lista formada por 5 números inteiros positivos cuja mediana e média aritmética valem, ambas, 8.\nAs médias aritméticas dos 4 maiores valores e dos 4 menores valores dessa lista são, respectivamente, 8,50 e 7,25.\nAssinale a opção que mostra o número que não pode integrar essa lista.",
+  "alternativas": [
+   "6.",
+   "7.",
+   "8.",
+   "9.",
+   "10."
+  ],
+  "gabarito": 4,
+  "comentario": "Média 8 com 5 números ⇒ soma 40. Os 4 maiores somam 4 × 8,50 = 34, então o menor é 40 − 34 = 6; os 4 menores somam 4 × 7,25 = 29, então o maior é 40 − 29 = 11. A mediana (3º termo) é 8. Sobra para o 2º e o 4º: 40 − 6 − 8 − 11 = 15, com 6 ≤ 2º ≤ 8 ≤ 4º ≤ 11: (6, 9) ou (7, 8). As listas possíveis são 6, 6, 8, 9, 11 e 6, 7, 8, 8, 11 — o número 10 nunca aparece.",
+  "dificuldade": 3,
+  "anulada": false
+ },
+ {
+  "id": "fgv-fhemig-2023-psi-15",
+  "disciplina": "rlm",
+  "assunto": "rlm-medidas",
+  "origem": {
+   "tipo": "banca",
+   "banca": "FGV",
+   "orgao": "FHEMIG",
+   "ano": 2023,
+   "cargo": "Analista de Gestão e Assistência à Saúde – Psicólogo Clínico",
+   "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-de-gestao-e-assistencia-a-saude-agas-psicologo-clinico-nivel-icns118-tipo-1.pdf"
+  },
+  "enunciado": "Dois pentágonos regulares convexos têm áreas medindo 54cm² e 6cm².\nÉ correto afirmar que a razão entre a medida do lado do pentágono de maior área e o perímetro do pentágono de menor área é",
+  "alternativas": [
+   "0,2.",
+   "0,6.",
+   "0,8.",
+   "3.",
+   "9."
+  ],
+  "gabarito": 1,
+  "comentario": "Os pentágonos regulares são semelhantes; a razão entre as áreas é 54/6 = 9, logo a razão entre os lados é √9 = 3. Se o lado menor é ℓ, o lado maior é 3ℓ e o perímetro do menor é 5ℓ. Razão pedida: 3ℓ/5ℓ = 0,6.",
+  "dificuldade": 2,
+  "anulada": false
+ }
+]

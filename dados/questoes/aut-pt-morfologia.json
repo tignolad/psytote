@@ -1,0 +1,263 @@
+[
+  {
+    "id": "aut-pt-morfologia-001",
+    "disciplina": "portugues",
+    "assunto": "pt-morfologia",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "texto": "Quando a pandemia empurrou milhões de pessoas para o trabalho remoto, muitos celebraram o fim dos deslocamentos exaustivos. Anos depois, o entusiasmo deu lugar a um diagnóstico mais nuançado. Se, por um lado, a flexibilidade de horários trouxe autonomia, por outro, a fronteira entre a casa e o escritório tornou-se praticamente invisível. A mesa da cozinha virou sala de reunião; o quarto, depósito de notebooks e carregadores.\n\nPsicólogos do trabalho observam que o desgaste não decorre apenas do excesso de tarefas, mas também da ausência de rituais de transição. O trajeto até a empresa, por mais cansativo que fosse, funcionava como um intervalo entre papéis: no ônibus, o profissional deixava de ser pai e ainda não era gerente. Sem esse intervalo, o expediente se infiltra no jantar, e as notificações chegam até o travesseiro.\n\nAlgumas empresas já adotam o chamado \"direito à desconexão\", que proíbe o envio de mensagens fora do horário combinado. Outras preferem confiar na autodisciplina dos funcionários — solução evidentemente mais barata, embora nem sempre eficaz.",
+    "enunciado": "O substantivo \"deslocamentos\" (1º parágrafo) foi formado a partir do verbo \"deslocar\" por meio de:",
+    "alternativas": [
+      "derivação prefixal",
+      "derivação sufixal",
+      "derivação parassintética",
+      "derivação regressiva",
+      "composição por aglutinação"
+    ],
+    "gabarito": 1,
+    "comentario": "'Deslocamento' resulta do acréscimo do sufixo nominal '-mento' ao radical do verbo 'deslocar': derivação sufixal. Não houve acréscimo de prefixo nesse processo, nem acréscimo simultâneo de prefixo e sufixo (parassíntese). A derivação regressiva reduz a palavra, e a composição une dois radicais.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-morfologia-002",
+    "disciplina": "portugues",
+    "assunto": "pt-morfologia",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "texto": "Quando a pandemia empurrou milhões de pessoas para o trabalho remoto, muitos celebraram o fim dos deslocamentos exaustivos. Anos depois, o entusiasmo deu lugar a um diagnóstico mais nuançado. Se, por um lado, a flexibilidade de horários trouxe autonomia, por outro, a fronteira entre a casa e o escritório tornou-se praticamente invisível. A mesa da cozinha virou sala de reunião; o quarto, depósito de notebooks e carregadores.\n\nPsicólogos do trabalho observam que o desgaste não decorre apenas do excesso de tarefas, mas também da ausência de rituais de transição. O trajeto até a empresa, por mais cansativo que fosse, funcionava como um intervalo entre papéis: no ônibus, o profissional deixava de ser pai e ainda não era gerente. Sem esse intervalo, o expediente se infiltra no jantar, e as notificações chegam até o travesseiro.\n\nAlgumas empresas já adotam o chamado \"direito à desconexão\", que proíbe o envio de mensagens fora do horário combinado. Outras preferem confiar na autodisciplina dos funcionários — solução evidentemente mais barata, embora nem sempre eficaz.",
+    "enunciado": "O substantivo \"desgaste\" (2º parágrafo) forma-se a partir do verbo \"desgastar\" pelo mesmo processo que originou:",
+    "alternativas": [
+      "\"cansaço\", de \"cansar\"",
+      "\"infiltração\", de \"infiltrar\"",
+      "\"envio\", de \"enviado\"",
+      "\"choro\", de \"chorar\"",
+      "\"descanso\", de \"cansar\""
+    ],
+    "gabarito": 3,
+    "comentario": "'Desgaste' é derivado regressivo (deverbal) de 'desgastar': suprime-se a terminação verbal e acrescenta-se vogal temática. O mesmo ocorre em 'choro', de 'chorar'. 'Cansaço' e 'infiltração' têm sufixos ('-aço', '-ção'). 'Envio' vem do verbo 'enviar', não do particípio 'enviado'; e 'descanso' vem de 'descansar', não diretamente de 'cansar'.",
+    "dificuldade": 3,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-morfologia-003",
+    "disciplina": "portugues",
+    "assunto": "pt-morfologia",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "texto": "Quando a pandemia empurrou milhões de pessoas para o trabalho remoto, muitos celebraram o fim dos deslocamentos exaustivos. Anos depois, o entusiasmo deu lugar a um diagnóstico mais nuançado. Se, por um lado, a flexibilidade de horários trouxe autonomia, por outro, a fronteira entre a casa e o escritório tornou-se praticamente invisível. A mesa da cozinha virou sala de reunião; o quarto, depósito de notebooks e carregadores.\n\nPsicólogos do trabalho observam que o desgaste não decorre apenas do excesso de tarefas, mas também da ausência de rituais de transição. O trajeto até a empresa, por mais cansativo que fosse, funcionava como um intervalo entre papéis: no ônibus, o profissional deixava de ser pai e ainda não era gerente. Sem esse intervalo, o expediente se infiltra no jantar, e as notificações chegam até o travesseiro.\n\nAlgumas empresas já adotam o chamado \"direito à desconexão\", que proíbe o envio de mensagens fora do horário combinado. Outras preferem confiar na autodisciplina dos funcionários — solução evidentemente mais barata, embora nem sempre eficaz.",
+    "enunciado": "Na palavra \"invisível\" (1º parágrafo), o elemento \"in-\" é um:",
+    "alternativas": [
+      "prefixo que expressa negação.",
+      "sufixo que forma adjetivos.",
+      "prefixo que expressa movimento para dentro.",
+      "radical que significa \"ver\".",
+      "prefixo que expressa intensidade."
+    ],
+    "gabarito": 0,
+    "comentario": "Em 'invisível', 'in-' é prefixo de valor negativo ('que não é visível'), como em 'infeliz' e 'incapaz'. Há outro 'in-' (ou 'em-') com sentido de movimento para dentro, como em 'ingerir', que não é o caso. O radical relacionado a 'ver' é 'vis-', e '-vel' é o sufixo adjetival.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-morfologia-004",
+    "disciplina": "portugues",
+    "assunto": "pt-morfologia",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "texto": "Quando a pandemia empurrou milhões de pessoas para o trabalho remoto, muitos celebraram o fim dos deslocamentos exaustivos. Anos depois, o entusiasmo deu lugar a um diagnóstico mais nuançado. Se, por um lado, a flexibilidade de horários trouxe autonomia, por outro, a fronteira entre a casa e o escritório tornou-se praticamente invisível. A mesa da cozinha virou sala de reunião; o quarto, depósito de notebooks e carregadores.\n\nPsicólogos do trabalho observam que o desgaste não decorre apenas do excesso de tarefas, mas também da ausência de rituais de transição. O trajeto até a empresa, por mais cansativo que fosse, funcionava como um intervalo entre papéis: no ônibus, o profissional deixava de ser pai e ainda não era gerente. Sem esse intervalo, o expediente se infiltra no jantar, e as notificações chegam até o travesseiro.\n\nAlgumas empresas já adotam o chamado \"direito à desconexão\", que proíbe o envio de mensagens fora do horário combinado. Outras preferem confiar na autodisciplina dos funcionários — solução evidentemente mais barata, embora nem sempre eficaz.",
+    "enunciado": "Em \"solução evidentemente mais barata\" (3º parágrafo), o advérbio \"evidentemente\" atua como modalizador, expressando:",
+    "alternativas": [
+      "a dúvida do enunciador quanto ao custo da solução.",
+      "o modo como as empresas executam a solução.",
+      "a intensidade da economia obtida pelas empresas.",
+      "o momento em que a solução passou a ser adotada.",
+      "a certeza do enunciador quanto ao que afirma."
+    ],
+    "gabarito": 4,
+    "comentario": "Modalizadores revelam a atitude do enunciador diante do enunciado. 'Evidentemente' indica que o autor considera a informação óbvia, incontestável — modalização de certeza. Não expressa dúvida (como 'talvez'), nem modo de ação, intensidade ('muito') ou tempo.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-morfologia-005",
+    "disciplina": "portugues",
+    "assunto": "pt-morfologia",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "texto": "Quando a pandemia empurrou milhões de pessoas para o trabalho remoto, muitos celebraram o fim dos deslocamentos exaustivos. Anos depois, o entusiasmo deu lugar a um diagnóstico mais nuançado. Se, por um lado, a flexibilidade de horários trouxe autonomia, por outro, a fronteira entre a casa e o escritório tornou-se praticamente invisível. A mesa da cozinha virou sala de reunião; o quarto, depósito de notebooks e carregadores.\n\nPsicólogos do trabalho observam que o desgaste não decorre apenas do excesso de tarefas, mas também da ausência de rituais de transição. O trajeto até a empresa, por mais cansativo que fosse, funcionava como um intervalo entre papéis: no ônibus, o profissional deixava de ser pai e ainda não era gerente. Sem esse intervalo, o expediente se infiltra no jantar, e as notificações chegam até o travesseiro.\n\nAlgumas empresas já adotam o chamado \"direito à desconexão\", que proíbe o envio de mensagens fora do horário combinado. Outras preferem confiar na autodisciplina dos funcionários — solução evidentemente mais barata, embora nem sempre eficaz.",
+    "enunciado": "Em \"a fronteira entre a casa e o escritório tornou-se praticamente invisível\", o advérbio \"praticamente\" tem o efeito de:",
+    "alternativas": [
+      "intensificar a afirmação, indicando que a fronteira desapareceu por completo.",
+      "indicar o modo prático como a fronteira foi apagada.",
+      "atenuar a afirmação, indicando aproximação: a fronteira está quase invisível.",
+      "expressar a dúvida do autor sobre a existência da fronteira.",
+      "indicar o tempo em que a fronteira se tornou invisível."
+    ],
+    "gabarito": 2,
+    "comentario": "'Praticamente' equivale a 'quase', 'por pouco': atenua a afirmação, sugerindo que a fronteira ainda existe, mas mal se percebe. Não intensifica (o sentido seria o oposto), não se liga a 'prática' como modo de execução, não exprime dúvida sobre a existência da fronteira nem situa a ação no tempo.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-morfologia-006",
+    "disciplina": "portugues",
+    "assunto": "pt-morfologia",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "texto": "Quando a pandemia empurrou milhões de pessoas para o trabalho remoto, muitos celebraram o fim dos deslocamentos exaustivos. Anos depois, o entusiasmo deu lugar a um diagnóstico mais nuançado. Se, por um lado, a flexibilidade de horários trouxe autonomia, por outro, a fronteira entre a casa e o escritório tornou-se praticamente invisível. A mesa da cozinha virou sala de reunião; o quarto, depósito de notebooks e carregadores.\n\nPsicólogos do trabalho observam que o desgaste não decorre apenas do excesso de tarefas, mas também da ausência de rituais de transição. O trajeto até a empresa, por mais cansativo que fosse, funcionava como um intervalo entre papéis: no ônibus, o profissional deixava de ser pai e ainda não era gerente. Sem esse intervalo, o expediente se infiltra no jantar, e as notificações chegam até o travesseiro.\n\nAlgumas empresas já adotam o chamado \"direito à desconexão\", que proíbe o envio de mensagens fora do horário combinado. Outras preferem confiar na autodisciplina dos funcionários — solução evidentemente mais barata, embora nem sempre eficaz.",
+    "enunciado": "Em \"o chamado 'direito à desconexão', que proíbe o envio de mensagens\", o vocábulo \"que\" classifica-se como:",
+    "alternativas": [
+      "conjunção integrante",
+      "conjunção consecutiva",
+      "pronome interrogativo",
+      "pronome relativo",
+      "partícula expletiva"
+    ],
+    "gabarito": 3,
+    "comentario": "O 'que' retoma o termo antecedente ('direito à desconexão') e introduz oração adjetiva, podendo ser substituído por 'o qual': é pronome relativo. A conjunção integrante introduz oração substantiva e não retoma termo; a consecutiva relaciona-se a intensificador anterior ('tão... que'); não há pergunta nem 'que' dispensável.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-morfologia-007",
+    "disciplina": "portugues",
+    "assunto": "pt-morfologia",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "texto": "Quando a pandemia empurrou milhões de pessoas para o trabalho remoto, muitos celebraram o fim dos deslocamentos exaustivos. Anos depois, o entusiasmo deu lugar a um diagnóstico mais nuançado. Se, por um lado, a flexibilidade de horários trouxe autonomia, por outro, a fronteira entre a casa e o escritório tornou-se praticamente invisível. A mesa da cozinha virou sala de reunião; o quarto, depósito de notebooks e carregadores.\n\nPsicólogos do trabalho observam que o desgaste não decorre apenas do excesso de tarefas, mas também da ausência de rituais de transição. O trajeto até a empresa, por mais cansativo que fosse, funcionava como um intervalo entre papéis: no ônibus, o profissional deixava de ser pai e ainda não era gerente. Sem esse intervalo, o expediente se infiltra no jantar, e as notificações chegam até o travesseiro.\n\nAlgumas empresas já adotam o chamado \"direito à desconexão\", que proíbe o envio de mensagens fora do horário combinado. Outras preferem confiar na autodisciplina dos funcionários — solução evidentemente mais barata, embora nem sempre eficaz.",
+    "enunciado": "No trecho \"solução evidentemente mais barata, embora nem sempre eficaz\", o conector \"embora\" expressa ideia de:",
+    "alternativas": [
+      "concessão",
+      "causa",
+      "condição",
+      "conclusão",
+      "finalidade"
+    ],
+    "gabarito": 0,
+    "comentario": "'Embora' é conjunção concessiva: apresenta um fato que se opõe ao principal sem anulá-lo (a solução é mais barata, ainda que nem sempre eficaz). Poderia ser substituído por 'ainda que' ou 'conquanto'. Não exprime causa ('porque'), condição ('se'), conclusão ('portanto') nem finalidade ('para que').",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-morfologia-008",
+    "disciplina": "portugues",
+    "assunto": "pt-morfologia",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "texto": "Quando a pandemia empurrou milhões de pessoas para o trabalho remoto, muitos celebraram o fim dos deslocamentos exaustivos. Anos depois, o entusiasmo deu lugar a um diagnóstico mais nuançado. Se, por um lado, a flexibilidade de horários trouxe autonomia, por outro, a fronteira entre a casa e o escritório tornou-se praticamente invisível. A mesa da cozinha virou sala de reunião; o quarto, depósito de notebooks e carregadores.\n\nPsicólogos do trabalho observam que o desgaste não decorre apenas do excesso de tarefas, mas também da ausência de rituais de transição. O trajeto até a empresa, por mais cansativo que fosse, funcionava como um intervalo entre papéis: no ônibus, o profissional deixava de ser pai e ainda não era gerente. Sem esse intervalo, o expediente se infiltra no jantar, e as notificações chegam até o travesseiro.\n\nAlgumas empresas já adotam o chamado \"direito à desconexão\", que proíbe o envio de mensagens fora do horário combinado. Outras preferem confiar na autodisciplina dos funcionários — solução evidentemente mais barata, embora nem sempre eficaz.",
+    "enunciado": "Em \"A mesa da cozinha virou sala de reunião\", o verbo \"virar\" tem o mesmo valor (verbo de ligação, indicando mudança de estado) que em:",
+    "alternativas": [
+      "O tempo virou de repente no fim da tarde.",
+      "Depois de anos de estudo, o estagiário virou um psicólogo experiente.",
+      "Ela virou a página do relatório com cuidado.",
+      "O carro virou na esquina sem sinalizar.",
+      "Ele virou o rosto para não ver a cena."
+    ],
+    "gabarito": 1,
+    "comentario": "Em 'a mesa virou sala de reunião', 'virar' liga o sujeito a um predicativo, indicando mudança de estado (equivale a 'tornou-se'). O mesmo ocorre em 'o estagiário virou um psicólogo experiente'. Nas demais frases, 'virar' é verbo significativo: intransitivo ('o tempo virou', 'o carro virou') ou transitivo direto ('virou a página', 'virou o rosto').",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-morfologia-009",
+    "disciplina": "portugues",
+    "assunto": "pt-morfologia",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Assinale a palavra formada por abreviação vocabular (redução de uma palavra mais longa, sem perda de sentido).",
+    "alternativas": [
+      "pontapé",
+      "amanhecer",
+      "foto",
+      "choro",
+      "infeliz"
+    ],
+    "gabarito": 2,
+    "comentario": "'Foto' é redução de 'fotografia', caso de abreviação vocabular. 'Pontapé' é composição por justaposição; 'amanhecer', derivação parassintética; 'choro', derivação regressiva; e 'infeliz', derivação prefixal.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-morfologia-010",
+    "disciplina": "portugues",
+    "assunto": "pt-morfologia",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Assinale a palavra formada por derivação parassintética.",
+    "alternativas": [
+      "infelizmente",
+      "desleal",
+      "felizmente",
+      "girassol",
+      "entardecer"
+    ],
+    "gabarito": 4,
+    "comentario": "Na parassíntese, prefixo e sufixo são acrescentados simultaneamente, e não existe a forma só com um deles: 'entardecer' (não há 'entarde' nem 'tardecer'). Em 'infelizmente' há prefixação e sufixação, mas não simultâneas, pois existem 'infeliz' e 'felizmente'. 'Desleal' é prefixal, 'felizmente' é sufixal e 'girassol' é composição.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-morfologia-011",
+    "disciplina": "portugues",
+    "assunto": "pt-morfologia",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "texto": "Quando a pandemia empurrou milhões de pessoas para o trabalho remoto, muitos celebraram o fim dos deslocamentos exaustivos. Anos depois, o entusiasmo deu lugar a um diagnóstico mais nuançado. Se, por um lado, a flexibilidade de horários trouxe autonomia, por outro, a fronteira entre a casa e o escritório tornou-se praticamente invisível. A mesa da cozinha virou sala de reunião; o quarto, depósito de notebooks e carregadores.\n\nPsicólogos do trabalho observam que o desgaste não decorre apenas do excesso de tarefas, mas também da ausência de rituais de transição. O trajeto até a empresa, por mais cansativo que fosse, funcionava como um intervalo entre papéis: no ônibus, o profissional deixava de ser pai e ainda não era gerente. Sem esse intervalo, o expediente se infiltra no jantar, e as notificações chegam até o travesseiro.\n\nAlgumas empresas já adotam o chamado \"direito à desconexão\", que proíbe o envio de mensagens fora do horário combinado. Outras preferem confiar na autodisciplina dos funcionários — solução evidentemente mais barata, embora nem sempre eficaz.",
+    "enunciado": "No vocábulo \"carregadores\" (1º parágrafo), o sufixo \"-dor\" forma substantivo que designa:",
+    "alternativas": [
+      "o instrumento que realiza a ação expressa pelo verbo.",
+      "o lugar onde a ação ocorre.",
+      "o resultado de uma ação já concluída.",
+      "um conjunto de objetos da mesma espécie.",
+      "uma forma diminutiva do substantivo."
+    ],
+    "gabarito": 0,
+    "comentario": "O sufixo '-dor' (variante de '-or') forma nomes de agente ou instrumento a partir de verbos: 'carregador' é o objeto que carrega (a bateria). Não indica lugar (como '-douro', em 'bebedouro'), resultado ('-mento'), coletivo ('-ada', '-al') nem diminutivo ('-inho').",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-morfologia-012",
+    "disciplina": "portugues",
+    "assunto": "pt-morfologia",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Assinale a frase em que a expressão modalizadora indica obrigação.",
+    "alternativas": [
+      "Talvez o psicólogo registre o atendimento no prontuário.",
+      "Certamente o psicólogo registrou o atendimento no prontuário.",
+      "Felizmente o psicólogo registrou o atendimento no prontuário.",
+      "É obrigatório que o psicólogo registre o atendimento no prontuário.",
+      "Provavelmente o psicólogo registrará o atendimento no prontuário."
+    ],
+    "gabarito": 3,
+    "comentario": "'É obrigatório que' expressa modalização deôntica, de obrigação. 'Talvez' e 'provavelmente' indicam possibilidade ou probabilidade (modalização epistêmica), 'certamente' indica certeza, e 'felizmente' expressa avaliação afetiva do enunciador.",
+    "dificuldade": 1,
+    "anulada": false
+  }
+]

@@ -1,0 +1,258 @@
+[
+  {
+    "id": "aut-pt-linguagem-001",
+    "disciplina": "portugues",
+    "assunto": "pt-linguagem",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "texto": "Passa da meia-noite, e a tela ainda brilha sobre o rosto de Clara. Ela promete a si mesma que lerá só mais uma mensagem, verá só mais um vídeo, responderá só mais um comentário. A promessa, no entanto, é renovada a cada minuto, como uma dívida que nunca vence. Os especialistas chamam isso de \"procrastinação do sono\": adiar o descanso não por falta de cansaço, mas por uma espécie de vingança contra um dia em que nada nos pertenceu. Se o trabalho e as obrigações tomaram as horas claras, a madrugada parece o único território livre.\n\nO problema é que esse território cobra pedágio. Pesquisas indicam que noites mal dormidas afetam a memória, o humor e a capacidade de lidar com frustrações. O cérebro, privado do sono, torna-se mais reativo a ameaças e menos hábil em colocá-las em perspectiva. Não por acaso, a irritação da manhã seguinte costuma ser atribuída ao chefe, ao trânsito, ao mundo — raramente ao celular.\n\nTalvez a saída não esteja em demonizar a tecnologia, mas em devolver ao dia algum espaço próprio. Quem dispõe de meia hora sua antes do jantar talvez não precise roubá-la da madrugada.",
+    "enunciado": "O trecho do texto em que predomina a função referencial, com informação objetiva apoiada em dados externos ao cronista, é:",
+    "alternativas": [
+      "\"A promessa, no entanto, é renovada a cada minuto, como uma dívida que nunca vence.\"",
+      "\"a madrugada parece o único território livre.\"",
+      "\"Pesquisas indicam que noites mal dormidas afetam a memória, o humor e a capacidade de lidar com frustrações.\"",
+      "\"Talvez a saída não esteja em demonizar a tecnologia\"",
+      "\"Quem dispõe de meia hora sua antes do jantar talvez não precise roubá-la da madrugada.\""
+    ],
+    "gabarito": 2,
+    "comentario": "A função referencial centra-se no referente e transmite informação objetiva; o trecho sobre as pesquisas relata um dado verificável, atribuído a fonte externa. A comparação com a dívida e a imagem do 'território livre' são construções figuradas, de efeito expressivo. Os trechos com 'talvez' trazem opinião e sugestão do cronista, não informação objetiva.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-linguagem-002",
+    "disciplina": "portugues",
+    "assunto": "pt-linguagem",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "texto": "Passa da meia-noite, e a tela ainda brilha sobre o rosto de Clara. Ela promete a si mesma que lerá só mais uma mensagem, verá só mais um vídeo, responderá só mais um comentário. A promessa, no entanto, é renovada a cada minuto, como uma dívida que nunca vence. Os especialistas chamam isso de \"procrastinação do sono\": adiar o descanso não por falta de cansaço, mas por uma espécie de vingança contra um dia em que nada nos pertenceu. Se o trabalho e as obrigações tomaram as horas claras, a madrugada parece o único território livre.\n\nO problema é que esse território cobra pedágio. Pesquisas indicam que noites mal dormidas afetam a memória, o humor e a capacidade de lidar com frustrações. O cérebro, privado do sono, torna-se mais reativo a ameaças e menos hábil em colocá-las em perspectiva. Não por acaso, a irritação da manhã seguinte costuma ser atribuída ao chefe, ao trânsito, ao mundo — raramente ao celular.\n\nTalvez a saída não esteja em demonizar a tecnologia, mas em devolver ao dia algum espaço próprio. Quem dispõe de meia hora sua antes do jantar talvez não precise roubá-la da madrugada.",
+    "enunciado": "No trecho \"uma espécie de vingança contra um dia em que nada nos pertenceu\", o emprego da primeira pessoa do plural produz o efeito de:",
+    "alternativas": [
+      "incluir o cronista e o leitor na experiência descrita, tornando-a coletiva.",
+      "indicar que o cronista fala em nome dos especialistas citados.",
+      "marcar distanciamento entre o cronista e a personagem Clara.",
+      "conferir tom de ordem ao enunciado, dirigindo-se ao leitor.",
+      "restringir a experiência a Clara e a seus colegas de trabalho."
+    ],
+    "gabarito": 0,
+    "comentario": "O 'nos' é um plural inclusivo: o cronista se coloca, junto com o leitor, entre os que sentem que o dia não lhes pertenceu, generalizando a experiência de Clara. Não há atribuição de fala aos especialistas nem distanciamento; ao contrário, há aproximação. Também não há tom imperativo, nem restrição a um grupo específico.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-linguagem-003",
+    "disciplina": "portugues",
+    "assunto": "pt-linguagem",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "texto": "Passa da meia-noite, e a tela ainda brilha sobre o rosto de Clara. Ela promete a si mesma que lerá só mais uma mensagem, verá só mais um vídeo, responderá só mais um comentário. A promessa, no entanto, é renovada a cada minuto, como uma dívida que nunca vence. Os especialistas chamam isso de \"procrastinação do sono\": adiar o descanso não por falta de cansaço, mas por uma espécie de vingança contra um dia em que nada nos pertenceu. Se o trabalho e as obrigações tomaram as horas claras, a madrugada parece o único território livre.\n\nO problema é que esse território cobra pedágio. Pesquisas indicam que noites mal dormidas afetam a memória, o humor e a capacidade de lidar com frustrações. O cérebro, privado do sono, torna-se mais reativo a ameaças e menos hábil em colocá-las em perspectiva. Não por acaso, a irritação da manhã seguinte costuma ser atribuída ao chefe, ao trânsito, ao mundo — raramente ao celular.\n\nTalvez a saída não esteja em demonizar a tecnologia, mas em devolver ao dia algum espaço próprio. Quem dispõe de meia hora sua antes do jantar talvez não precise roubá-la da madrugada.",
+    "enunciado": "Em registro coloquial, a forma verbal \"lerá\" (\"Ela promete a si mesma que lerá só mais uma mensagem\") seria comumente substituída, sem alteração do tempo expresso, por:",
+    "alternativas": [
+      "leria",
+      "lesse",
+      "terá lido",
+      "lia",
+      "vai ler"
+    ],
+    "gabarito": 4,
+    "comentario": "No português coloquial do Brasil, o futuro do presente simples ('lerá') costuma ser substituído pela locução 'ir + infinitivo' ('vai ler'), que mantém a ideia de futuro. 'Leria' é futuro do pretérito; 'lesse', pretérito imperfeito do subjuntivo; 'terá lido', futuro composto (ação concluída); e 'lia', pretérito imperfeito do indicativo — todos alteram o tempo.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-linguagem-004",
+    "disciplina": "portugues",
+    "assunto": "pt-linguagem",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "texto": "Passa da meia-noite, e a tela ainda brilha sobre o rosto de Clara. Ela promete a si mesma que lerá só mais uma mensagem, verá só mais um vídeo, responderá só mais um comentário. A promessa, no entanto, é renovada a cada minuto, como uma dívida que nunca vence. Os especialistas chamam isso de \"procrastinação do sono\": adiar o descanso não por falta de cansaço, mas por uma espécie de vingança contra um dia em que nada nos pertenceu. Se o trabalho e as obrigações tomaram as horas claras, a madrugada parece o único território livre.\n\nO problema é que esse território cobra pedágio. Pesquisas indicam que noites mal dormidas afetam a memória, o humor e a capacidade de lidar com frustrações. O cérebro, privado do sono, torna-se mais reativo a ameaças e menos hábil em colocá-las em perspectiva. Não por acaso, a irritação da manhã seguinte costuma ser atribuída ao chefe, ao trânsito, ao mundo — raramente ao celular.\n\nTalvez a saída não esteja em demonizar a tecnologia, mas em devolver ao dia algum espaço próprio. Quem dispõe de meia hora sua antes do jantar talvez não precise roubá-la da madrugada.",
+    "enunciado": "No primeiro parágrafo, após os dois-pontos, o cronista explica o que significa a expressão \"procrastinação do sono\". Nesse movimento, em que a linguagem se volta para explicar um termo da própria língua, manifesta-se a função:",
+    "alternativas": [
+      "fática",
+      "conativa",
+      "emotiva",
+      "metalinguística",
+      "poética"
+    ],
+    "gabarito": 3,
+    "comentario": "A função metalinguística ocorre quando o código explica o próprio código, como em definições: o trecho após os dois-pontos define a expressão 'procrastinação do sono'. A função fática testa o canal; a conativa busca influenciar o receptor; a emotiva centra-se nas emoções do emissor; a poética, na elaboração da própria mensagem.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-linguagem-005",
+    "disciplina": "portugues",
+    "assunto": "pt-linguagem",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Leia o texto de uma campanha de saúde:\n\n\"Você dormiu bem esta noite? Desligue as telas uma hora antes de deitar. Seu cérebro agradece.\"\n\nA função da linguagem predominante nesse texto é a:",
+    "alternativas": [
+      "referencial, pois o texto apenas informa dados científicos sobre o sono.",
+      "conativa, pois o texto se dirige ao leitor para persuadi-lo a mudar um comportamento.",
+      "emotiva, pois o texto expressa os sentimentos do emissor sobre a própria insônia.",
+      "fática, pois o texto apenas verifica se o canal de comunicação está funcionando.",
+      "metalinguística, pois o texto explica o significado da palavra \"sono\"."
+    ],
+    "gabarito": 1,
+    "comentario": "Textos publicitários e de campanha são típicos da função conativa (apelativa): há verbo no imperativo ('Desligue'), interlocução direta com 'você' e intenção de persuadir. A pergunta inicial não serve para testar o canal, mas para envolver o leitor. Não há definição de palavras nem foco nos sentimentos do emissor ou em dados objetivos.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-linguagem-006",
+    "disciplina": "portugues",
+    "assunto": "pt-linguagem",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Considere o diálogo:\n\n— Alô? Alô? Está me ouvindo?\n— Estou, pode falar.\n— A ligação está cortando... Ainda está aí?\n\nPredomina nesse diálogo a função:",
+    "alternativas": [
+      "fática",
+      "referencial",
+      "poética",
+      "metalinguística",
+      "emotiva"
+    ],
+    "gabarito": 0,
+    "comentario": "A função fática centra-se no canal: as falas servem para abrir, testar e manter o contato ('Alô?', 'Está me ouvindo?', 'Ainda está aí?'), sem transmitir conteúdo propriamente dito. Não há informação sobre um referente, elaboração estética, explicação do código ou expressão de sentimentos do emissor.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-linguagem-007",
+    "disciplina": "portugues",
+    "assunto": "pt-linguagem",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Leia os versos:\n\n\"Noite na rua, lua nua,\na cidade sua, a insônia continua.\"\n\nA função da linguagem que se destaca nesses versos é a:",
+    "alternativas": [
+      "fática, pela repetição de sons que testa a atenção do leitor.",
+      "conativa, pelo emprego de verbos no imperativo dirigidos ao leitor.",
+      "poética, pela exploração das rimas e da sonoridade na construção da mensagem.",
+      "referencial, pela descrição objetiva das condições climáticas da noite.",
+      "metalinguística, pela reflexão sobre o próprio fazer poético."
+    ],
+    "gabarito": 2,
+    "comentario": "Na função poética, o foco está na própria mensagem: os versos trabalham rimas internas e externas (rua/lua/nua/sua/continua) e sonoridade. A repetição sonora não serve para testar o canal; não há imperativos; a descrição não é objetiva; e os versos não falam sobre o ato de fazer poesia.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-linguagem-008",
+    "disciplina": "portugues",
+    "assunto": "pt-linguagem",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "\"Que noite horrível! Não aguento mais acordar às três da manhã com o coração disparado. Estou exausta.\"\n\nNesse trecho de um diário, predomina a função emotiva, porque:",
+    "alternativas": [
+      "o foco recai sobre o receptor, a quem a autora dá ordens.",
+      "o texto informa dados objetivos sobre os distúrbios do sono.",
+      "o texto explica o sentido das palavras \"noite\" e \"exausta\".",
+      "o foco recai sobre o emissor, que expressa os próprios estados e sentimentos em primeira pessoa.",
+      "a mensagem é construída para testar se o leitor está atento."
+    ],
+    "gabarito": 3,
+    "comentario": "A função emotiva (expressiva) centra-se no emissor: a primeira pessoa ('aguento', 'Estou'), a exclamação e os adjetivos avaliativos ('horrível', 'exausta') revelam sentimentos. Não há ordens ao receptor (conativa), dados objetivos (referencial), explicação de palavras (metalinguística) nem teste do canal (fática).",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-linguagem-009",
+    "disciplina": "portugues",
+    "assunto": "pt-linguagem",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Uma psicóloga envia a um paciente, por aplicativo de mensagens, um áudio com orientações. Por falha na conexão de internet, o áudio chega com trechos inaudíveis. No esquema dos elementos da comunicação, o problema relatado afeta diretamente o(a):",
+    "alternativas": [
+      "código",
+      "referente",
+      "emissor",
+      "receptor",
+      "canal"
+    ],
+    "gabarito": 4,
+    "comentario": "Canal é o meio físico ou técnico pelo qual a mensagem circula — aqui, a conexão de internet e o aplicativo. A falha gera ruído no canal. O código (a língua portuguesa) permanece o mesmo; o referente é o assunto das orientações; emissor e receptor são a psicóloga e o paciente, que não estão em questão.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-linguagem-010",
+    "disciplina": "portugues",
+    "assunto": "pt-linguagem",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Em um serviço de saúde, uma paciente surda recebe as orientações da equipe por meio de uma intérprete de Libras. A escolha da Libras diz respeito, sobretudo, a qual elemento da comunicação?",
+    "alternativas": [
+      "Código",
+      "Canal",
+      "Referente",
+      "Mensagem",
+      "Contexto"
+    ],
+    "gabarito": 0,
+    "comentario": "Código é o sistema de signos compartilhado por emissor e receptor; a Libras é uma língua, portanto um código. O canal seria o meio físico (visual, presencial); o referente, o assunto das orientações; a mensagem, o conteúdo efetivamente transmitido; e o contexto, a situação de atendimento.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-linguagem-011",
+    "disciplina": "portugues",
+    "assunto": "pt-linguagem",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Assinale a frase adequada a um ofício redigido conforme a norma-padrão, quanto ao uso do pronome de tratamento e ao registro formal.",
+    "alternativas": [
+      "Solicitamos a Vossa Senhoria que encaminheis vossa documentação até o dia 10.",
+      "Solicitamos a Vossa Senhoria que encaminhe a vossa documentação até o dia 10.",
+      "A gente pede que o senhor mande os papéis até o dia 10.",
+      "Solicitamos a Vossa Senhoria que encaminhe a sua documentação até o dia 10.",
+      "Pedimos pra Vossa Senhoria encaminhar a documentação até o dia 10."
+    ],
+    "gabarito": 3,
+    "comentario": "Os pronomes de tratamento ('Vossa Senhoria') levam verbo e possessivos na terceira pessoa: 'encaminhe a sua documentação'. Usar 'encaminheis' ou 'vossa' rompe essa concordância. 'A gente pede' e 'mande os papéis' são marcas coloquiais, assim como a forma reduzida 'pra', inadequadas ao registro formal do ofício.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-pt-linguagem-012",
+    "disciplina": "portugues",
+    "assunto": "pt-linguagem",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)"
+    },
+    "enunciado": "Em um laudo psicológico, documento de registro formal, a frase que apresenta marca de linguagem coloquial, inadequada ao gênero, é:",
+    "alternativas": [
+      "O avaliado demonstrou ansiedade acentuada durante a entrevista inicial.",
+      "O avaliado tava bastante ansioso durante a entrevista inicial.",
+      "Observou-se, ao longo das sessões, redução dos sintomas relatados.",
+      "Os instrumentos aplicados indicaram rebaixamento do humor.",
+      "Não foram identificados indícios de prejuízo cognitivo."
+    ],
+    "gabarito": 1,
+    "comentario": "A forma 'tava', redução de 'estava', é típica da oralidade informal e não cabe em documento técnico como o laudo. As demais frases empregam vocabulário técnico, impessoalidade (como em 'Observou-se') e a norma-padrão, compatíveis com o registro formal exigido.",
+    "dificuldade": 1,
+    "anulada": false
+  }
+]
