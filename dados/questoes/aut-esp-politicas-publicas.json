@@ -10,9 +10,9 @@
     },
     "enunciado": "Um usuário do SUS com diabetes é acompanhado pela equipe de Saúde da Família, mas, ao apresentar sofrimento psíquico intenso, é informado de que \"ali só se cuida do corpo\". Essa resposta contraria diretamente o princípio do SUS definido na Lei nº 8.080/1990 como",
     "alternativas": [
-      "universalidade de acesso, entendida como garantia de atendimento a brasileiros e estrangeiros.",
-      "descentralização político-administrativa, com direção única em cada esfera de governo.",
-      "integralidade de assistência, entendida como conjunto articulado e contínuo de ações e serviços preventivos e curativos, individuais e coletivos, em todos os níveis de complexidade.",
+      "universalidade de acesso aos serviços de saúde em todos os níveis de assistência, entendida como garantia de atendimento a qualquer pessoa no território nacional, sem exigência de contribuição prévia.",
+      "descentralização político-administrativa, com direção única em cada esfera de governo e ênfase na municipalização dos serviços de saúde.",
+      "integralidade de assistência, entendida como conjunto articulado e contínuo de ações preventivas e curativas, individuais e coletivas, em todos os níveis de complexidade.",
       "participação da comunidade, exercida por meio dos conselhos de saúde.",
       "regionalização e hierarquização da rede de serviços de saúde."
     ],
@@ -32,11 +32,11 @@
     },
     "enunciado": "Sobre as instâncias colegiadas do SUS previstas na Lei nº 8.142/1990, é correto afirmar que",
     "alternativas": [
-      "a Conferência de Saúde reúne-se anualmente e o Conselho de Saúde tem caráter apenas consultivo.",
-      "o Conselho de Saúde é composto apenas por gestores e profissionais de saúde, cabendo aos usuários a Conferência.",
+      "a Conferência de Saúde reúne-se anualmente, convocada pelo Poder Legislativo, e o Conselho de Saúde tem caráter apenas consultivo sobre a execução da política.",
+      "o Conselho de Saúde é composto apenas por gestores e profissionais de saúde, cabendo aos usuários a representação exclusiva na Conferência de Saúde.",
       "a Conferência de Saúde tem caráter permanente e o Conselho reúne-se a cada quatro anos.",
       "os usuários têm metade dos assentos da Conferência, mas no Conselho a composição é livremente definida pelo gestor.",
-      "a Conferência de Saúde reúne-se a cada quatro anos e o Conselho de Saúde tem caráter permanente e deliberativo, com representação paritária dos usuários em relação ao conjunto dos demais segmentos."
+      "a Conferência de Saúde reúne-se a cada quatro anos e o Conselho de Saúde tem caráter permanente e deliberativo, com representação paritária dos usuários."
     ],
     "gabarito": 4,
     "comentario": "O art. 1º da Lei 8.142/90 prevê a Conferência de Saúde a cada quatro anos, para avaliar a situação de saúde e propor diretrizes, e o Conselho de Saúde em caráter permanente e deliberativo. O Conselho reúne governo, prestadores, profissionais e usuários (§2º). O §4º garante representação paritária dos usuários em relação ao conjunto dos demais segmentos nos dois colegiados.",
@@ -54,11 +54,11 @@
     },
     "enunciado": "Segundo a Lei nº 8.080/1990, os níveis de saúde da população expressam a organização social e econômica do país e têm como determinantes e condicionantes, entre outros, alimentação, moradia, saneamento, meio ambiente, trabalho, renda, educação, transporte e lazer. Essa formulação expressa",
     "alternativas": [
-      "a concepção biomédica de saúde como ausência de doença.",
+      "a concepção biomédica de saúde, que a define como ausência de doença e situa seus determinantes no plano individual e orgânico.",
       "a restrição da responsabilidade estatal ao atendimento hospitalar.",
       "a prioridade das ações curativas sobre as preventivas.",
-      "a vinculação do direito à saúde à contribuição previdenciária.",
-      "a concepção ampliada de saúde, que articula o setor saúde a políticas econômicas e sociais e fundamenta a ação intersetorial."
+      "a vinculação do direito à saúde à contribuição previdenciária, como no antigo modelo do INAMPS, restrito aos trabalhadores formais.",
+      "a concepção ampliada de saúde, que a articula a políticas econômicas e sociais e fundamenta a ação intersetorial."
     ],
     "gabarito": 4,
     "comentario": "O art. 3º da Lei 8.080/90 lista determinantes e condicionantes sociais da saúde, expressão de uma concepção ampliada. O art. 2º afirma a saúde como direito fundamental, garantido por políticas econômicas e sociais que reduzam riscos de doenças. Essa visão fundamenta a intersetorialidade, central na atuação da Psicologia em políticas públicas.",
@@ -102,10 +102,10 @@
       "CAPS I.",
       "CAPS II.",
       "CAPS i.",
-      "CAPS AD."
+      "CAPS AD III."
     ],
     "gabarito": 0,
-    "comentario": "A Portaria 3.088/2011 (art. 7º) descreve o CAPS III como serviço de atenção contínua, com funcionamento 24 horas, incluindo feriados e fins de semana, e oferta de acolhimento noturno e retaguarda clínica. Os CAPS I e II não têm funcionamento 24 horas. O CAPS i atende crianças e adolescentes, e o CAPS AD atende necessidades decorrentes do uso de álcool e outras drogas; a versão 24 horas deste é o CAPS AD III.",
+    "comentario": "A Portaria 3.088/2011 (art. 7º) descreve o CAPS III como serviço de atenção contínua, com funcionamento 24 horas, incluindo feriados e fins de semana, e oferta de acolhimento noturno e retaguarda clínica. Os CAPS I e II não têm funcionamento 24 horas. O CAPS i atende crianças e adolescentes, e o CAPS AD III, embora funcione 24 horas, atende necessidades decorrentes do uso de álcool e outras drogas.",
     "dificuldade": 1,
     "anulada": false
   },
@@ -142,9 +142,9 @@
     },
     "enunciado": "Os Serviços Residenciais Terapêuticos, segundo a Portaria GM/MS nº 3.088/2011, são moradias inseridas na comunidade destinadas a acolher pessoas",
     "alternativas": [
-      "em situação de rua com uso abusivo de álcool e outras drogas, pelo prazo de até seis meses.",
-      "egressas de internação de longa permanência (dois anos ou mais ininterruptos), de hospitais psiquiátricos e hospitais de custódia, entre outros.",
-      "em crise aguda, como alternativa à internação em hospital geral.",
+      "em situação de rua com uso abusivo de álcool e outras drogas, pelo prazo de até seis meses, com vaga regulada pelo CAPS AD de referência.",
+      "egressas de internação de longa permanência (dois anos ou mais ininterruptos) em hospitais psiquiátricos e de custódia, entre outros.",
+      "em crise aguda, como alternativa à internação em hospital geral, com permanência máxima de quinze dias em leito de acolhimento noturno.",
       "com transtorno mental leve que optaram por deixar o convívio familiar.",
       "idosas em situação de abandono, independentemente de histórico de internação."
     ],
@@ -165,10 +165,10 @@
     "enunciado": "O Programa de Volta para Casa, instituído pela Lei nº 10.708/2003, tem como principal instrumento",
     "alternativas": [
       "a construção de hospitais psiquiátricos de pequeno porte próximos às famílias.",
-      "o auxílio-reabilitação psicossocial pago a pessoas egressas de longas internações psiquiátricas.",
+      "o auxílio-reabilitação psicossocial a egressos de longas internações psiquiátricas.",
       "o financiamento de comunidades terapêuticas para egressos do sistema prisional.",
-      "o benefício de prestação continuada a todas as pessoas com transtorno mental.",
-      "a internação domiciliar compulsória de pessoas com transtorno mental grave."
+      "o benefício de prestação continuada a todas as pessoas com transtorno mental, independentemente da renda familiar.",
+      "a internação domiciliar compulsória de pessoas com transtorno mental grave, sob supervisão da equipe do CAPS."
     ],
     "gabarito": 1,
     "comentario": "A Lei 10.708/2003 institui o auxílio-reabilitação psicossocial para pacientes acometidos de transtornos mentais egressos de internações de longa permanência, integrando o Programa de Volta para Casa. A Portaria 3.088/2011 (art. 11, §3º) articula o programa aos Serviços Residenciais Terapêuticos. Seu objetivo é a reinserção social, não a criação de novos leitos.",
@@ -187,10 +187,10 @@
     "enunciado": "Entre as diretrizes da Rede de Atenção Psicossocial previstas na Portaria GM/MS nº 3.088/2011, inclui-se",
     "alternativas": [
       "o desenvolvimento de estratégias de redução de danos e o projeto terapêutico singular como eixo central do cuidado.",
-      "a abstinência como condição prévia para o acesso aos serviços.",
-      "a centralidade do hospital psiquiátrico na organização da rede.",
+      "a abstinência como condição prévia para o acesso aos serviços, de modo a garantir a adesão do usuário ao projeto terapêutico.",
+      "a centralidade do hospital psiquiátrico na organização da rede, cabendo aos CAPS a função de triagem para a internação.",
       "a separação entre os cuidados em saúde mental e as ações intersetoriais.",
-      "a prioridade da internação de longa permanência para casos graves."
+      "a prioridade da internação de longa permanência para casos graves, com retaguarda dos serviços de base comunitária."
     ],
     "gabarito": 0,
     "comentario": "O art. 2º da Portaria 3.088/2011 elenca como diretrizes, entre outras, respeito aos direitos humanos, combate a estigmas, serviços de base territorial e comunitária, redução de danos, ações intersetoriais e o projeto terapêutico singular como eixo central. Exigir abstinência prévia contraria a redução de danos. A centralidade hospitalar contraria a lógica da Lei 10.216/2001.",
@@ -212,7 +212,7 @@
       "involuntária.",
       "voluntária.",
       "judicial.",
-      "sanitária."
+      "administrativa."
     ],
     "gabarito": 1,
     "comentario": "O art. 6º, parágrafo único, da Lei 10.216/2001 prevê três tipos de internação, todas dependentes de laudo médico circunstanciado. A voluntária ocorre com o consentimento do usuário. A involuntária ocorre sem o consentimento e a pedido de terceiro. A compulsória é determinada pela Justiça.",
@@ -230,9 +230,9 @@
     },
     "enunciado": "Um hospital realiza a internação involuntária de um jovem em crise. Nos termos da Lei nº 10.216/2001,",
     "alternativas": [
-      "a internação deve ser comunicada à Defensoria Pública em 24 horas pela família do paciente.",
+      "a internação deve ser comunicada à Defensoria Pública em até 24 horas pela família do paciente, que também deve informar a alta, por escrito, ao juízo competente.",
       "a internação depende de autorização judicial prévia, sem a qual não pode ocorrer.",
-      "a internação deve ser comunicada ao Ministério Público Estadual, no prazo de 72 horas, pelo responsável técnico do estabelecimento, procedimento também exigido na alta.",
+      "a internação deve ser comunicada ao Ministério Público Estadual em até 72 horas pelo responsável técnico do estabelecimento, o mesmo valendo para a alta.",
       "a comunicação ao Ministério Público é dispensada se houver laudo médico.",
       "a internação só termina por decisão do Ministério Público."
     ],
@@ -318,9 +318,9 @@
     },
     "enunciado": "Na Política Nacional de Assistência Social (PNAS/2004), a proteção social básica tem como objetivo",
     "alternativas": [
-      "atender famílias e indivíduos cujos direitos já foram violados, como em casos de violência física e sexual.",
-      "garantir acolhimento integral a indivíduos sem referência familiar ou que precisem ser retirados do núcleo familiar.",
-      "prevenir situações de risco por meio do desenvolvimento de potencialidades e aquisições e do fortalecimento de vínculos familiares e comunitários.",
+      "atender famílias e indivíduos cujos direitos já foram violados, como em casos de violência física e sexual, por meio de acompanhamento especializado.",
+      "garantir acolhimento integral, com moradia e alimentação, a indivíduos sem referência familiar ou que precisem ser retirados do núcleo familiar.",
+      "prevenir situações de risco, desenvolvendo potencialidades e aquisições e fortalecendo vínculos familiares e comunitários.",
       "executar as medidas socioeducativas de internação de adolescentes.",
       "prestar assistência médica e psicológica gratuita à população em vulnerabilidade."
     ],
@@ -340,10 +340,10 @@
     },
     "enunciado": "O Serviço de Proteção e Atendimento Integral à Família (PAIF), segundo a Tipificação Nacional dos Serviços Socioassistenciais, é",
     "alternativas": [
-      "ofertado exclusivamente no CRAS e consiste no trabalho social continuado com famílias, para fortalecer sua função protetiva e prevenir a ruptura de vínculos.",
-      "ofertado no CREAS para famílias com membros em situação de violação de direitos.",
+      "ofertado exclusivamente no CRAS e consiste no trabalho social continuado com famílias para fortalecer sua função protetiva.",
+      "ofertado no CREAS para famílias com membros em situação de violação de direitos, com acompanhamento especializado e continuado.",
       "ofertado em CAPS para famílias de usuários com transtorno mental grave.",
-      "um serviço de psicoterapia familiar gratuita, ofertado por psicólogos da assistência social.",
+      "um serviço de psicoterapia familiar gratuita, ofertado por psicólogos da assistência social às famílias referenciadas no território.",
       "um benefício eventual em dinheiro, pago a famílias em situação de calamidade."
     ],
     "gabarito": 0,
@@ -384,11 +384,11 @@
     },
     "enunciado": "Uma psicóloga recém-contratada por um CRAS organiza sua agenda com atendimentos psicoterápicos individuais semanais aos usuários. À luz das referências técnicas do CREPOP para atuação no CRAS/SUAS, essa organização é",
     "alternativas": [
-      "inadequada, pois a atuação no CRAS se orienta pelo trabalho social com famílias e pela dimensão comunitária e preventiva, não pela psicoterapia, que deve ser buscada na rede de saúde quando necessária.",
-      "adequada, pois a psicoterapia é a principal atribuição do psicólogo em qualquer política pública.",
+      "inadequada, pois a atuação no CRAS se orienta pelo trabalho social com famílias e pela prevenção no território, e não pela psicoterapia.",
+      "adequada, pois a psicoterapia é a principal atribuição do psicólogo em qualquer política pública, cabendo à equipe social as demais ações com as famílias.",
       "adequada, desde que os atendimentos não ultrapassem doze sessões por usuário.",
       "inadequada, pois o psicólogo no CRAS deve limitar-se a atividades administrativas de cadastro.",
-      "inadequada, pois no CRAS o psicólogo só pode atuar em grupo, vedado qualquer atendimento individual."
+      "inadequada, pois no CRAS o psicólogo só pode atuar em grupo, sendo vedado qualquer atendimento individual, inclusive o de acolhimento das famílias."
     ],
     "gabarito": 0,
     "comentario": "As referências do CREPOP para o CRAS/SUAS orientam uma atuação voltada ao trabalho social com famílias, ao fortalecimento de vínculos e à prevenção no território, em equipe interdisciplinar. O CRAS não é espaço de psicoterapia. Demandas clínicas devem ser encaminhadas à rede de saúde, em articulação intersetorial. Isso não exclui atendimentos individuais de acolhimento e acompanhamento familiar, nem reduz a psicóloga a tarefas administrativas.",
@@ -472,10 +472,10 @@
     },
     "enunciado": "A Lei nº 13.935/2019 dispõe que as redes públicas de educação básica contarão com serviços de psicologia e de serviço social. Segundo essa lei,",
     "alternativas": [
-      "os psicólogos atuarão individualmente em cada escola, com foco no diagnóstico clínico de alunos com dificuldades de aprendizagem.",
-      "os serviços serão prestados exclusivamente pela rede de saúde, mediante encaminhamento das escolas.",
+      "os psicólogos atuarão individualmente em cada escola, com foco no diagnóstico clínico de alunos com dificuldades de aprendizagem e na emissão de laudos para a educação especial.",
+      "os serviços serão prestados exclusivamente pela rede de saúde, mediante encaminhamento das escolas às equipes da atenção básica e dos CAPS.",
       "as redes de ensino terão cinco anos para se adequar, contados da publicação.",
-      "esses serviços serão prestados por equipes multiprofissionais, que desenvolverão ações para a melhoria da qualidade do processo de ensino-aprendizagem, com participação da comunidade escolar e considerando o projeto político-pedagógico.",
+      "esses serviços serão prestados por equipes multiprofissionais, com ações para melhorar o processo de ensino-aprendizagem, com participação da comunidade escolar.",
       "a contratação de psicólogos é facultativa, cabendo a cada escola decidir conforme sua demanda."
     ],
     "gabarito": 3,
@@ -494,9 +494,9 @@
     },
     "enunciado": "Uma escola municipal solicita à psicóloga da rede que \"faça diagnósticos\" dos alunos que não aprendem a ler, para encaminhá-los à neurologia. À luz das referências do CREPOP para a atuação na educação básica, a postura mais adequada da psicóloga é",
     "alternativas": [
-      "aplicar testes de inteligência em todos os alunos indicados e emitir laudos para os encaminhamentos.",
-      "problematizar a queixa escolar, analisando junto à comunidade escolar as dimensões institucionais, pedagógicas e sociais do processo de escolarização, evitando a medicalização e a patologização dos estudantes.",
-      "recusar qualquer participação, por não ser atribuição da Psicologia atuar com dificuldades de aprendizagem.",
+      "aplicar testes de inteligência em todos os alunos indicados e emitir laudos que fundamentem os encaminhamentos à neurologia e à educação especial.",
+      "problematizar a queixa escolar com a comunidade escolar, analisando dimensões institucionais, pedagógicas e sociais da escolarização e evitando a medicalização dos estudantes.",
+      "recusar qualquer participação, por não ser atribuição da Psicologia escolar atuar com dificuldades de aprendizagem, que competem exclusivamente à pedagogia e à fonoaudiologia.",
       "encaminhar diretamente todos os alunos à rede de saúde, que é a responsável pelo fracasso escolar.",
       "atender individualmente cada aluno em psicoterapia na própria escola."
     ],
@@ -516,8 +516,8 @@
     },
     "enunciado": "Segundo a Lei nº 13.431/2017, que estabelece o sistema de garantia de direitos da criança e do adolescente vítima ou testemunha de violência, a escuta especializada é",
     "alternativas": [
-      "o procedimento de oitiva da criança perante autoridade policial ou judiciária, com finalidade de produção de prova.",
-      "o procedimento de entrevista sobre a situação de violência perante órgão da rede de proteção, limitado o relato ao estritamente necessário para o cumprimento de sua finalidade.",
+      "o procedimento de oitiva da criança perante autoridade policial ou judiciária, com finalidade de produção de prova, realizado em sala com gravação em áudio e vídeo.",
+      "o procedimento de entrevista sobre a situação de violência perante órgão da rede de proteção, limitado o relato ao estritamente necessário.",
       "a psicoterapia obrigatória oferecida a toda criança vítima de violência.",
       "a perícia psicológica realizada por psicólogo nomeado pelo juiz.",
       "a entrevista conduzida pelo Conselho Tutelar com a família do agressor."
@@ -539,10 +539,10 @@
     "enunciado": "Uma adolescente cumpre medida socioeducativa de internação. Nos termos do ECA e da Lei do SINASE, é correto afirmar que",
     "alternativas": [
       "a medida tem prazo fixo definido na sentença, sem reavaliação periódica.",
-      "a medida deve ser reavaliada anualmente e pode durar até cinco anos.",
+      "a medida deve ser reavaliada anualmente pela equipe técnica e pode durar até cinco anos, com liberação compulsória quando a adolescente completar vinte e cinco anos de idade.",
       "a medida pode ser cumprida em estabelecimento prisional adulto quando faltar vaga.",
-      "o PIA é elaborado pelo juiz e dispensa a participação da adolescente e da família.",
-      "a medida não comporta prazo determinado, deve ser reavaliada no máximo a cada seis meses e não pode exceder três anos, sendo o acompanhamento orientado pelo Plano Individual de Atendimento (PIA)."
+      "o PIA é elaborado pelo juiz e dispensa a participação da adolescente e da família, cabendo à equipe técnica apenas executá-lo durante a internação.",
+      "a medida não comporta prazo determinado, deve ser reavaliada no máximo a cada seis meses e não pode exceder três anos, com acompanhamento orientado pelo PIA."
     ],
     "gabarito": 4,
     "comentario": "O art. 121 do ECA estabelece que a internação não comporta prazo determinado, deve ser reavaliada no máximo a cada seis meses (§2º) e não excede três anos (§3º). A Lei 12.594/2012 (SINASE) prevê o Plano Individual de Atendimento, elaborado pela equipe técnica com participação do adolescente e da família. A internação em estabelecimento prisional é vedada.",
@@ -604,9 +604,9 @@
     },
     "enunciado": "Na proposta de apoio matricial em saúde (Campos e Domitti), uma psicóloga especialista em saúde mental passa a discutir casos e realizar atendimentos conjuntos com equipes de Saúde da Família. Essa estratégia caracteriza-se por",
     "alternativas": [
-      "transferir integralmente o caso para o especialista, que passa a ser o único responsável.",
+      "transferir integralmente o caso para o especialista, que passa a ser o único responsável pelo projeto terapêutico até a alta do usuário.",
       "substituir o encaminhamento por triagem burocrática centralizada na secretaria de saúde.",
-      "hierarquizar a relação entre especialista e generalista, cabendo a este apenas executar prescrições.",
+      "hierarquizar a relação entre especialista e generalista, cabendo a este apenas executar as prescrições definidas pela psicóloga nas reuniões de equipe.",
       "oferecer retaguarda assistencial e suporte técnico-pedagógico às equipes de referência, compartilhando a responsabilidade pelo cuidado.",
       "restringir a atuação da psicóloga a atendimentos individuais em consultório."
     ],
@@ -648,9 +648,9 @@
     },
     "enunciado": "Uma psicóloga do CREAS acompanha uma adolescente vítima de exploração sexual e articula ações com a escola, a UBS, o CAPS i, o Conselho Tutelar e a Vara da Infância, construindo um plano de acompanhamento compartilhado. Essa forma de atuação expressa principalmente o princípio da",
     "alternativas": [
-      "hierarquização, que define que o caso pertence exclusivamente ao serviço de maior complexidade.",
-      "especialização, que exige que cada setor atue de forma independente para evitar sobreposição.",
-      "intersetorialidade, que articula políticas e saberes diversos para responder a demandas complexas que nenhum setor resolve isoladamente.",
+      "hierarquização, que define que o caso pertence exclusivamente ao serviço de maior complexidade, ao qual os demais apenas enviam relatórios.",
+      "especialização, que exige que cada setor atue de forma independente para evitar sobreposição de ações e duplicidade de registros sobre o caso.",
+      "intersetorialidade, que articula políticas e saberes diversos para responder a demandas complexas que nenhum setor resolve sozinho.",
       "centralização, que concentra as decisões sobre o caso no Poder Judiciário.",
       "focalização, que restringe o atendimento aos casos mais graves de cada território."
     ],

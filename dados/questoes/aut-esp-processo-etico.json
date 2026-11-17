@@ -54,9 +54,9 @@
     },
     "enunciado": "Uma psicóloga com inscrição principal no CRP de São Paulo realizou atendimentos presenciais no Rio de Janeiro, onde teria cometido infração ética. Segundo o Código de Processamento Disciplinar, é competente para apreciar e julgar o caso o",
     "alternativas": [
-      "Conselho Regional em que a psicóloga tem inscrição principal, em qualquer hipótese.",
-      "Conselho Regional da jurisdição onde ocorreu o fato, independentemente de a psicóloga possuir inscrição principal ou secundária nesse Conselho.",
-      "Conselho Federal de Psicologia, por envolver mais de um estado.",
+      "Conselho Regional em que a psicóloga tem inscrição principal, ao qual o Regional do local do fato deve remeter a representação.",
+      "Conselho Regional da jurisdição onde ocorreu o fato, independentemente do tipo de inscrição da psicóloga.",
+      "Conselho Federal de Psicologia, em competência originária, por envolver fatos e inscrições vinculados a mais de um Regional.",
       "Conselho Regional escolhido pelo representante, entre os dois envolvidos.",
       "Conselho Regional do domicílio do representante."
     ],
@@ -76,10 +76,10 @@
     },
     "enunciado": "Um psicólogo investigado em processo ético no CRP-05 requer o cancelamento de sua inscrição e, em seguida, a transferência para outro Regional. Segundo o Código de Processamento Disciplinar,",
     "alternativas": [
-      "o cancelamento da inscrição extingue automaticamente o processo ético.",
-      "não se admite o cancelamento da inscrição durante a investigação ou o processo, e a transferência acarreta a transformação compulsória da inscrição primária em secundária perante o CRP onde tramita o processo.",
-      "a transferência desloca o processo para o novo Regional, que passa a ser competente.",
-      "o cancelamento é admitido, mas o processo é suspenso até eventual reinscrição.",
+      "o cancelamento da inscrição extingue o processo ético por perda do objeto, já que a pessoa deixa de estar sujeita à jurisdição do Conselho.",
+      "veda-se o cancelamento da inscrição, e a transferência converte compulsoriamente a inscrição primária em secundária no CRP em que tramita o processo.",
+      "a transferência desloca o processo para o novo Regional, que passa a ser competente, cabendo ao CRP de origem apenas remeter os autos no estado em que se encontram.",
+      "o cancelamento é admitido mediante quitação das anuidades, mas o processo fica suspenso, com suspensão também da prescrição, até eventual reinscrição.",
       "a transferência é vedada enquanto houver processo, sob pena de cassação."
     ],
     "gabarito": 1,
@@ -98,11 +98,11 @@
     },
     "enunciado": "Um psicólogo teve o exercício profissional cassado por decisão transitada em julgado há três anos e deseja requerer sua reabilitação. Segundo o Código de Processamento Disciplinar,",
     "alternativas": [
-      "o pedido só pode ser feito após cinco anos do trânsito em julgado da decisão de cassação, cabendo ao Plenário do Conselho Regional decidir, ouvida a Comissão Processante.",
-      "o pedido pode ser feito a qualquer tempo, cabendo ao Conselho Federal decidir originariamente.",
+      "o pedido só cabe após cinco anos do trânsito em julgado da cassação, decidindo o Plenário do CRP, ouvida a Comissão Processante.",
+      "o pedido pode ser feito a qualquer tempo após o trânsito em julgado, cabendo ao Conselho Federal decidir originariamente, ouvido o CRP de origem.",
       "o pedido pode ser feito após dois anos, desde que acompanhado de certidão de antecedentes criminais.",
       "a cassação é perpétua e não admite reabilitação.",
-      "o pedido pode ser feito após três anos, sendo vedada a publicação de edital para preservar o requerente."
+      "o pedido pode ser feito após três anos do trânsito em julgado, sendo vedada a publicação de edital para preservar a intimidade do requerente."
     ],
     "gabarito": 0,
     "comentario": "No Livro VI, Capítulo II, o CPD prevê que o pedido de reabilitação, justificado e acompanhado de documentos e certidão de antecedentes criminais, só pode ser feito após cinco anos do trânsito em julgado da cassação; novo pedido é admitido três anos após o indeferimento do anterior. A decisão cabe ao Plenário do CRP, ouvida a Comissão Processante, com publicação de edital que abre prazo de 30 dias úteis para manifestações da sociedade, e dela cabe recurso ao CFP. A cassação, segundo o glossário do CPD, é definitiva salvo hipótese de reabilitação.",
@@ -120,9 +120,9 @@
     },
     "enunciado": "Uma paciente protocola representação contra sua ex-psicóloga, mas não junta documentos, não indica as provas que pretende produzir nem informa se tem interesse em mediação. Meses depois, desiste da representação. Segundo o Código de Processamento Disciplinar,",
     "alternativas": [
-      "a falta daqueles elementos não impede o recebimento da representação, e a desistência não enseja o arquivamento, prosseguindo o processo pelas regras aplicáveis aos processos iniciados de ofício.",
-      "a representação deve ser liminarmente rejeitada pela falta de provas, e a desistência extingue o processo.",
-      "a representação é válida, mas a desistência extingue o processo, por se tratar de interesse disponível.",
+      "a falta daqueles elementos não impede o recebimento, e a desistência não enseja arquivamento, seguindo o processo as regras dos processos de ofício.",
+      "a representação deve ser liminarmente rejeitada pela falta de indicação de provas, e a desistência posterior extingue o processo, por ausência de interesse.",
+      "a representação é válida, mas a desistência extingue o processo, por se tratar de interesse disponível da representante, vedada a atuação de ofício do Conselho.",
       "a falta de indicação de provas impede o recebimento, mas a desistência não produz efeito algum.",
       "a desistência obriga o Conselho a devolver os autos à representante, que mantém acesso a eles."
     ],
@@ -142,10 +142,10 @@
     },
     "enunciado": "Recebida representação contra uma psicóloga, a Comissão de Ética do CRP verifica que o relato não traz indícios mínimos da prática de infração nem de autoria. Segundo o Código de Processamento Disciplinar, a Comissão poderá",
     "alternativas": [
-      "arquivar definitivamente a representação, por decisão própria e irrecorrível.",
-      "instaurar diretamente processo disciplinar ético e citar a psicóloga para defesa.",
+      "arquivar definitivamente a representação, por decisão própria e irrecorrível, dispensada a homologação pelo Plenário do Conselho Regional.",
+      "instaurar diretamente processo disciplinar ético e citar a psicóloga para apresentar defesa em 15 dias úteis, dispensado o parecer.",
       "aplicar advertência confidencial, encerrando o caso sem processo.",
-      "opinar pelo arquivamento liminar, mediante parecer fundamentado, a ser homologado pelo Plenário, de cuja decisão caberá recurso ao Conselho Federal.",
+      "opinar pelo arquivamento liminar, em parecer fundamentado sujeito à homologação do Plenário, cabendo recurso ao Conselho Federal.",
       "encaminhar o caso ao Conselho Federal, competente para arquivamentos."
     ],
     "gabarito": 3,
@@ -164,10 +164,10 @@
     },
     "enunciado": "No Código de Processamento Disciplinar, notificação e citação são atos distintos. É correto afirmar que",
     "alternativas": [
-      "a notificação dá ciência da instauração do processo disciplinar, e a citação comunica atos do processo já em curso.",
-      "a notificação dá ciência à(ao) investigada(o) da existência de processo investigativo, com prazo de 15 dias úteis para manifestação, e a citação dá ciência da instauração do processo disciplinar, com prazo de 15 dias úteis para defesa.",
+      "a notificação dá ciência da instauração do processo disciplinar, com prazo de 15 dias úteis para defesa, e a citação comunica os atos do processo já em curso.",
+      "a notificação dá ciência da existência de processo investigativo, e a citação, da instauração do processo disciplinar, ambas com prazo de 15 dias úteis.",
       "a citação é feita apenas por edital, e a notificação, por meio eletrônico.",
-      "notificação e citação são sinônimos, ambas com prazo de 30 dias corridos.",
+      "notificação e citação são sinônimos, ambas com prazo de 30 dias corridos para manifestação, contados da juntada do aviso de recebimento.",
       "a notificação é dirigida ao representante, e a citação, às testemunhas."
     ],
     "gabarito": 1,
@@ -187,9 +187,9 @@
     "enunciado": "Sobre a contagem de prazos no Código de Processamento Disciplinar, é correto afirmar que",
     "alternativas": [
       "todos os prazos são contados em dias corridos, incluindo-se o primeiro e o último dia.",
-      "os prazos são contados em dias úteis, incluindo-se o primeiro dia e excluindo-se o último.",
-      "quando o Código for omisso, o prazo será sempre de 15 dias corridos.",
-      "computam-se somente os dias úteis, salvo disposição expressa em contrário, excluindo-se o primeiro e incluindo-se o último dia, e, quando não fixado outro prazo, este será de 5 dias úteis.",
+      "os prazos são contados em dias úteis, incluindo-se o primeiro dia e excluindo-se o último, e, no silêncio do Código, o prazo será de 10 dias úteis.",
+      "quando nem o Código nem a Comissão fixarem prazo, este será de 15 dias corridos, contados a partir da juntada aos autos do aviso de recebimento.",
+      "computam-se só os dias úteis, salvo disposição expressa em contrário, excluindo-se o primeiro e incluindo-se o último dia; no silêncio, o prazo é de 5 dias úteis.",
       "os prazos só começam a correr após a publicação do ato no Diário Oficial da União."
     ],
     "gabarito": 3,
@@ -209,10 +209,10 @@
     "enunciado": "Uma psicóloga processada não é encontrada em nenhum dos endereços conhecidos, esgotadas as diligências. Segundo o Código de Processamento Disciplinar, a citação será feita por edital publicado",
     "alternativas": [
       "apenas no sítio eletrônico do CRP, considerando-se citada a psicóloga na data da publicação.",
-      "no Diário Oficial do Estado, com prazo de 30 dias corridos para defesa contados da publicação.",
+      "no Diário Oficial do Estado e em jornal de grande circulação local, considerando-se citada a psicóloga na data da publicação, com 30 dias corridos para defesa.",
       "em jornal de grande circulação, dispensada a publicação oficial, com prazo de 10 dias úteis para defesa.",
-      "necessariamente no Diário Oficial da União e em jornal de grande circulação do Estado, considerando-se citada a psicóloga após 25 dias úteis da publicação no DOU, com prazo de 15 dias úteis para defesa a partir de então.",
-      "no Diário Oficial da União, considerando-se citada a psicóloga após 15 dias úteis, com prazo de 25 dias úteis para defesa."
+      "no Diário Oficial da União e em jornal de grande circulação do Estado, considerando-se citada a psicóloga após 25 dias úteis da publicação no DOU, com 15 dias úteis para defesa.",
+      "no Diário Oficial da União e no sítio eletrônico do CRP, considerando-se citada a psicóloga após 15 dias úteis da publicação no DOU, com prazo de 25 dias úteis para defesa a partir de então."
     ],
     "gabarito": 3,
     "comentario": "O art. 29 do CPD prevê a citação por edital quando o endereço for desconhecido ou esgotadas as diligências. O edital deve informar que a psicóloga será considerada citada após 25 dias úteis da publicação no DOU e mencionar o prazo de 15 dias úteis para defesa a partir de então; deve ser publicado, necessariamente, no DOU e em jornal de grande circulação do Estado (§ 2º). A última alternativa inverte os prazos.",
@@ -231,10 +231,10 @@
     "enunciado": "Citado regularmente, um psicólogo não apresenta defesa no prazo. Segundo o Código de Processamento Disciplinar,",
     "alternativas": [
       "o processo é arquivado, pois não há como prosseguir sem defesa.",
-      "a Comissão Processante decretará a revelia e solicitará à Presidência a nomeação de defensor dativo, preferencialmente psicóloga(o), vedada a atuação de conselheiras(os) do respectivo Conselho nessa função.",
-      "presumem-se verdadeiros os fatos e o processo vai imediatamente a julgamento, sem defesa técnica.",
+      "a Comissão decretará a revelia e pedirá a nomeação de defensor dativo, preferencialmente psicóloga(o), vedada a atuação de conselheiras(os).",
+      "presumem-se verdadeiros os fatos narrados na representação, e o processo vai imediatamente a julgamento, dispensada a nomeação de defensor dativo.",
       "o psicólogo revel fica impedido de manifestar-se no processo até o julgamento.",
-      "o defensor dativo deve ser obrigatoriamente um conselheiro efetivo do CRP."
+      "a Comissão nomeará defensor dativo, que deve ser obrigatoriamente conselheira(o) efetiva(o) do CRP, dispensada a decretação formal da revelia."
     ],
     "gabarito": 1,
     "comentario": "Considera-se revel o processado que, citado, não apresenta defesa ou se opõe ao recebimento da citação. A Comissão Processante decreta a revelia e solicita a nomeação de defensor dativo, preferencialmente psicóloga(o), que presta compromisso escrito; conselheiras(os) efetivas(os) ou suplentes estão impedidos de atuar como dativos. O revel pode intervir em qualquer fase, recebendo o processo no estado em que se encontra. A falta de designação de dativo é causa de nulidade.",
@@ -253,10 +253,10 @@
     "enunciado": "Uma jornalista telefona para o CRP perguntando sobre um processo ético movido contra psicóloga conhecida. Considerando as regras de sigilo do Código de Processamento Disciplinar, o Conselho",
     "alternativas": [
       "deve fornecer cópia integral dos autos, por se tratar de informação de interesse público.",
-      "não pode sequer confirmar a existência do processo, sob pena de responsabilização civil e penal.",
-      "pode fornecer cópia das peças solicitadas, desde que a jornalista se comprometa a não divulgar nomes.",
+      "não pode sequer confirmar a existência do processo, sob pena de responsabilização civil e penal, pois o sigilo alcança todos os dados dos autos.",
+      "pode fornecer cópia das peças solicitadas, desde que a jornalista se comprometa formalmente, por escrito, a não divulgar o nome das partes.",
       "pode divulgar o conteúdo dos depoimentos já colhidos, preservando apenas as provas documentais.",
-      "pode informar a mera existência do processo, as partes envolvidas e a fase processual, sem referência ao seu conteúdo, pois isso não caracteriza violação do sigilo."
+      "pode informar apenas a existência do processo, as partes e a fase processual, sem referência ao seu conteúdo."
     ],
     "gabarito": 4,
     "comentario": "O art. 15 do CPD confere caráter sigiloso aos processos investigativos e disciplinares, com vista dos autos apenas às partes e procuradores; o dever de sigilo se estende a conselheiros, comissões, testemunhas, assessores e servidores. O § 5º, porém, esclarece que a mera informação sobre a existência do processo, as partes, a fase processual ou o provimento ou desprovimento de recurso julgado pelo CFP, sem referência ao conteúdo, não caracteriza desobediência ao sigilo. Cópias e conteúdo não podem ser fornecidos a terceiros.",
@@ -274,11 +274,11 @@
     },
     "enunciado": "Uma conselheira do CRP, antes de ser designada relatora de um processo ético, publicou em sua rede social opinião sobre a conduta da psicóloga processada. Segundo o Código de Processamento Disciplinar, a conselheira",
     "alternativas": [
-      "está suspeita, hipótese de presunção relativa que pode ser afastada pelo Plenário.",
-      "pode atuar normalmente, pois manifestações em redes sociais são protegidas pela liberdade de expressão.",
+      "está suspeita, hipótese de presunção relativa de parcialidade que depende de arguição da parte e pode ser afastada pelo Plenário.",
+      "pode atuar normalmente, pois manifestações em redes sociais anteriores à designação são protegidas pela liberdade de expressão.",
       "só estaria impedida se fosse parente da processada até o terceiro grau.",
       "pode atuar como relatora, mas não pode votar no julgamento.",
-      "está impedida, pois emitiu publicamente juízo de valor sobre o fato objeto do processo, hipótese de presunção absoluta de parcialidade."
+      "está impedida, por ter emitido publicamente juízo de valor sobre o fato, o que gera presunção absoluta de parcialidade."
     ],
     "gabarito": 4,
     "comentario": "O art. 44 do CPD elenca hipóteses objetivas de impedimento: cônjuge, companheiro ou parente até o 3º grau das partes ou procuradores; quem se envolveu com o fato; quem emitiu publicamente juízo de valor sobre o fato; e quem tem ou teve vínculo profissional com a(o) processada(o) ou o representante. No impedimento há presunção absoluta de parcialidade, com proibição de participar do processo. A suspeição (art. 45) funda-se em razões subjetivas, com presunção relativa. O impedimento alcança relatar, votar e participar do processo.",
@@ -296,9 +296,9 @@
     },
     "enunciado": "A defesa de um psicólogo processado tem ciência de vício na citação, mas deixa de alegá-lo em todas as suas manifestações, suscitando-o somente após o julgamento desfavorável. Segundo o Código de Processamento Disciplinar,",
     "alternativas": [
-      "a nulidade pode ser alegada pela parte a qualquer tempo, inclusive após o julgamento, sem qualquer limitação.",
-      "toda nulidade deve ser declarada, ainda que não tenha causado prejuízo à parte.",
-      "a nulidade deve ser alegada na primeira oportunidade em que couber à parte manifestar-se nos autos, sob pena de preclusão, salvo comprovado impedimento legítimo — regra que não se aplica à decretação de ofício pelo Conselho.",
+      "a nulidade da citação pode ser alegada pela parte a qualquer tempo, inclusive após o julgamento, por se tratar de vício insanável que dispensa prova de prejuízo.",
+      "toda nulidade deve ser declarada, ainda que não tenha causado prejuízo à parte, e acarreta a renovação de todos os atos do processo desde a citação.",
+      "a nulidade deve ser alegada na primeira oportunidade de manifestação nos autos, sob pena de preclusão, salvo legítimo impedimento, sem prejuízo da decretação de ofício.",
       "a nulidade de um ato nunca contamina os atos subsequentes que dele dependam.",
       "a parte que deu causa à nulidade é quem tem legitimidade preferencial para argui-la."
     ],
@@ -318,10 +318,10 @@
     },
     "enunciado": "Segundo o Código de Processamento Disciplinar, os prazos prescricionais para as infrações disciplinares praticadas por psicólogas(os) são de",
     "alternativas": [
-      "dois anos para as infrações éticas e cinco anos para as ordinárias e funcionais, contados da data do fato.",
-      "cinco anos para as infrações éticas e dois anos para as infrações ordinárias e funcionais, contados do conhecimento do fato, presumido quando o fato for de conhecimento público.",
+      "dois anos para as infrações éticas e cinco anos para as ordinárias e funcionais, contados da data do fato, ainda que desconhecido pelo Conselho.",
+      "cinco anos para as éticas e dois anos para as ordinárias e funcionais, contados do conhecimento do fato, presumido quando este for público.",
       "cinco anos para todas as infrações, contados da data do fato.",
-      "três anos para as éticas e um ano para as ordinárias, contados da instauração do processo.",
+      "três anos para as infrações éticas e um ano para as ordinárias e funcionais, contados da instauração do processo disciplinar pelo Plenário.",
       "dez anos para as éticas, sendo imprescritíveis as funcionais."
     ],
     "gabarito": 1,
@@ -340,11 +340,11 @@
     },
     "enunciado": "Um processo disciplinar ético ficou paralisado, aguardando despacho da Comissão, por três anos e quatro meses. Segundo o Código de Processamento Disciplinar,",
     "alternativas": [
-      "o prazo de paralisação é irrelevante, pois a prescrição só corre antes da instauração do processo.",
-      "a prescrição intercorrente só se consuma após cinco anos de paralisação.",
-      "o arquivamento depende de requerimento da parte, vedado o reconhecimento de ofício.",
+      "o prazo de paralisação é irrelevante, pois a prescrição só corre antes da instauração do processo, interrompendo-se definitivamente com a citação válida.",
+      "a prescrição intercorrente só se consuma após cinco anos de paralisação, prazo idêntico ao da prescrição das infrações éticas.",
+      "o arquivamento depende de requerimento da parte, vedado o reconhecimento de ofício, porque a prescrição intercorrente não é matéria de ordem pública.",
       "o processo deve ser imediatamente julgado, com redução da pena pela demora.",
-      "o processo será arquivado de ofício ou a requerimento da parte, consumando-se a prescrição intercorrente, e o Conselho deverá apurar a causa da demora e eventuais responsabilidades."
+      "o processo será arquivado de ofício ou a requerimento, consumada a prescrição intercorrente, apurando-se a causa da demora."
     ],
     "gabarito": 4,
     "comentario": "O art. 56 do CPD prevê que o processo disciplinar paralisado há mais de 3 anos, pendente de despacho ou julgamento, será arquivado de ofício ou a requerimento da parte, consumando-se a prescrição intercorrente; o parágrafo único manda apurar a causa da demora e as responsabilidades pela inércia. Como a prescrição é matéria de ordem pública (art. 57), não pode ser relevada e pode ser reconhecida de ofício. Não há previsão de “redução de pena” pela demora.",
@@ -362,8 +362,8 @@
     },
     "enunciado": "Segundo o Código de Processamento Disciplinar, interrompe a prescrição",
     "alternativas": [
-      "o protocolo da representação pelo interessado.",
-      "o pedido de vista dos autos formulado pelo representante.",
+      "o protocolo da representação pelo interessado no Conselho Regional competente.",
+      "o pedido de vista dos autos formulado pelo representante ou por seu procurador.",
       "a decisão condenatória recorrível do Plenário do Conselho Regional.",
       "a simples juntada de procuração pelo advogado da(o) processada(o).",
       "a desistência da representação."
@@ -384,11 +384,11 @@
     },
     "enunciado": "Na fase de instrução de um processo disciplinar ético, a representante pretende arrolar cinco testemunhas, entre elas a profissional que atuou como mediadora em tentativa anterior de acordo. Segundo o Código de Processamento Disciplinar,",
     "alternativas": [
-      "cada parte pode arrolar até cinco testemunhas, inclusive a mediadora, que conhece os fatos.",
-      "cada parte pode arrolar no máximo três testemunhas, e a mediadora pode depor sobre o conteúdo da mediação.",
+      "cada parte pode arrolar até cinco testemunhas, com relação direta com os fatos, inclusive a mediadora, que conhece o histórico do conflito.",
+      "cada parte pode arrolar no máximo três testemunhas, e a mediadora pode depor sobre o conteúdo da mediação, por ter conhecimento direto dos fatos.",
       "não há limite de testemunhas, cabendo à Comissão ouvir todas as arroladas.",
       "cada parte pode arrolar no máximo duas testemunhas, que serão sempre intimadas pelo Conselho.",
-      "cada parte pode arrolar no máximo três testemunhas, com relação direta com os fatos, não podendo constar do rol profissionais que participaram da mediação."
+      "cada parte pode arrolar até três testemunhas, com relação direta com os fatos, vedada a inclusão de quem participou da mediação."
     ],
     "gabarito": 4,
     "comentario": "O CPD limita a três o número de testemunhas por parte, que devem ter relação direta com os fatos, e veda que constem do rol os profissionais que participaram de procedimento de mediação. As informações reveladas na mediação são confidenciais e não podem constituir prova em processos investigativos ou disciplinares. Cabe à parte levar sua testemunha à audiência, independentemente de intimação; a intimação pelo Conselho depende de requerimento justificado.",
@@ -406,11 +406,11 @@
     },
     "enunciado": "Segundo o Código de Processamento Disciplinar, na audiência de instrução as provas orais serão produzidas na seguinte ordem:",
     "alternativas": [
-      "testemunhas da(o) processada(o); testemunhas do representante; depoimento da(o) processada(o); perito.",
+      "testemunhas da(o) processada(o); testemunhas do representante; depoimento pessoal da(o) processada(o); por fim, perito e assistentes técnicos.",
       "depoimento da(o) processada(o); depoimento do representante; perito; testemunhas.",
-      "perito; testemunhas da(o) processada(o); depoimento do representante; depoimento da(o) processada(o).",
-      "perito e assistentes técnicos, se for o caso; depoimentos pessoais do representante e, em seguida, da(o) psicóloga(o) processada(o); testemunhas do representante (ou da Comissão, se o processo for de ofício) e da(o) processada(o).",
-      "testemunhas do representante; perito; depoimento da(o) processada(o), sempre por último, após as alegações finais."
+      "perito e assistentes técnicos; testemunhas da(o) processada(o) e do representante; depoimentos pessoais do representante e da(o) processada(o), nessa ordem.",
+      "perito e assistentes técnicos; depoimentos pessoais do representante e da(o) processada(o); testemunhas do representante e da(o) processada(o).",
+      "testemunhas do representante; perito e assistentes técnicos; depoimento pessoal da(o) processada(o), sempre por último, após as alegações finais."
     ],
     "gabarito": 3,
     "comentario": "O CPD estabelece que as provas orais serão ouvidas nesta ordem: o perito e os assistentes técnicos; o representante e, depois, a(o) processada(o), em depoimentos pessoais; e as testemunhas arroladas pelo representante (ou pela Comissão, em processo de ofício) e pela(o) processada(o), sempre em separado. Instalada a audiência, a Presidência da Comissão indaga sobre interesse em mediação e adverte testemunhas e peritos quanto ao compromisso com a verdade (art. 342 do Código Penal) e ao sigilo.",
@@ -429,10 +429,10 @@
     "enunciado": "Sobre a sessão de julgamento de processo disciplinar no Plenário do Conselho Regional, conforme o Código de Processamento Disciplinar, é correto afirmar que",
     "alternativas": [
       "as partes não podem fazer sustentação oral, pois o julgamento é sigiloso.",
-      "as partes devem ser intimadas com 30 dias úteis de antecedência e podem falar por até 30 minutos.",
+      "as partes devem ser intimadas com 30 dias úteis de antecedência e podem fazer sustentação oral por até 30 minutos, apenas pessoalmente.",
       "a(o) relatora(or) pode acrescentar ao voto novas infrações identificadas durante a leitura do relatório.",
       "a sustentação oral é admitida também nas sessões que deliberam sobre a instauração do processo disciplinar.",
-      "as partes devem ser intimadas com antecedência mínima de 10 dias corridos e podem fazer sustentação oral por até 15 minutos, pessoalmente ou por procurador."
+      "as partes devem ser intimadas com antecedência mínima de 10 dias corridos e podem sustentar oralmente por até 15 minutos."
     ],
     "gabarito": 4,
     "comentario": "O art. 106 do CPD exige a intimação das partes com antecedência mínima de 10 dias corridos e faculta sustentação oral de 15 minutos, pessoalmente ou por procurador; falam, pela ordem, o representante e a(o) processada(o) após a leitura da parte expositiva do relatório. A(o) relatora(or) pode suprimir elementos da tipificação, mas não acrescentar novas infrações. Não há sustentação oral nas sessões que deliberam sobre instauração de processo disciplinar, desaforamento e correção de erros materiais.",
@@ -450,9 +450,9 @@
     },
     "enunciado": "No julgamento de um processo ético, quatro conselheiras votam pela improcedência e cinco pela procedência da imputação. Na votação seguinte, sobre a penalidade, ocorre empate. Segundo o Código de Processamento Disciplinar,",
     "alternativas": [
-      "as conselheiras vencidas quanto à procedência não podem manifestar-se sobre a penalidade, e, em caso de empate, prevalece o voto de qualidade da(o) Presidente.",
-      "todas as conselheiras votam a penalidade, e o empate resolve-se pela pena mais branda.",
-      "as conselheiras vencidas votam a penalidade, e o empate leva à absolvição.",
+      "as vencidas quanto à procedência não votam a penalidade, e o empate resolve-se pelo voto de qualidade da(o) Presidente.",
+      "todas as conselheiras votam a penalidade, inclusive as vencidas, e o empate resolve-se pela aplicação da pena mais branda entre as votadas.",
+      "as conselheiras vencidas votam a penalidade, e o empate na dosimetria leva à absolvição, por aplicação do princípio do in dubio pro reo.",
       "o empate na penalidade obriga a remessa dos autos ao Conselho Federal.",
       "a decisão pela procedência exige unanimidade, de modo que a imputação é improcedente."
     ],
@@ -472,10 +472,10 @@
     },
     "enunciado": "Uma psicóloga foi condenada pelo Plenário do CRP à pena de censura pública. Segundo o Código de Processamento Disciplinar, ela poderá interpor recurso ao Conselho Federal",
     "alternativas": [
-      "no prazo de 15 dias corridos, diretamente no Conselho Federal, sem efeito suspensivo.",
-      "no prazo de 30 dias úteis a contar da ciência da decisão, apresentado perante o CRP, com efeito suspensivo da execução da penalidade.",
+      "no prazo de 15 dias corridos, protocolado diretamente no Conselho Federal, sem efeito suspensivo da execução da penalidade.",
+      "no prazo de 30 dias úteis a contar da ciência da decisão, perante o CRP, com efeito suspensivo.",
       "no prazo de 30 dias úteis, sem efeito suspensivo, de modo que a censura é publicada de imediato.",
-      "no prazo de 10 dias úteis, apresentado perante o CRP, que examinará o mérito antes de remetê-lo.",
+      "no prazo de 10 dias úteis, apresentado perante o CRP, que examinará o mérito e poderá retratar-se antes de remetê-lo.",
       "apenas se a pena aplicada for suspensão ou cassação, pois censura é irrecorrível."
     ],
     "gabarito": 1,
@@ -494,8 +494,8 @@
     },
     "enunciado": "Condenado à pena de multa, um psicólogo recorre ao Conselho Federal pedindo absolvição; o representante não recorre. O Plenário do CFP entende que a conduta era mais grave e merecia suspensão. Segundo o Código de Processamento Disciplinar, o CFP",
     "alternativas": [
-      "não pode agravar a penalidade, pois no julgamento de recurso interposto apenas pela(o) psicóloga(o) apenada(o) é vedado o agravamento.",
-      "pode aplicar a suspensão, pois o recurso devolve ao CFP o conhecimento integral da matéria.",
+      "não pode agravar a penalidade, pois é vedado o agravamento no recurso interposto apenas pela(o) apenada(o).",
+      "pode aplicar a suspensão, pois o recurso devolve ao CFP o conhecimento integral da matéria, inclusive quanto à dosimetria da pena.",
       "deve anular o processo e determinar novo julgamento no CRP com possibilidade de pena mais grave.",
       "pode aplicar a suspensão desde que por unanimidade.",
       "deve converter o recurso em reexame necessário, que permite o agravamento."
@@ -516,11 +516,11 @@
     },
     "enunciado": "O Plenário de um CRP aplica a pena de suspensão do exercício profissional por 30 dias a um psicólogo, que não recorre. Segundo o Código de Processamento Disciplinar,",
     "alternativas": [
-      "a decisão transita em julgado e é executada imediatamente, pois não houve recurso.",
+      "a decisão transita em julgado e é executada imediatamente, pois não houve recurso, cabendo ao CRP apenas comunicar a suspensão ao Conselho Federal.",
       "o processo só segue ao Conselho Federal se o representante interpuser recurso.",
       "o reexame necessário é cabível em qualquer penalidade, inclusive advertência.",
-      "a Presidência do CRP deve encaminhar de ofício o processo ao Conselho Federal, em reexame necessário, no prazo de 30 dias corridos após o término do prazo recursal, sem possibilidade de agravamento da pena.",
-      "o Conselho Federal, no reexame, pode converter a suspensão em cassação."
+      "a Presidência do CRP deve remeter de ofício o processo ao CFP, em reexame necessário, em 30 dias corridos após o prazo recursal, vedado o agravamento.",
+      "o processo segue ao Conselho Federal em reexame necessário, no qual o CFP pode converter a suspensão em cassação se entender a conduta mais grave."
     ],
     "gabarito": 3,
     "comentario": "O art. 126 do CPD determina que, nas hipóteses de suspensão ou cassação, sempre que não houver recurso ordinário, a Presidência do CRP encaminhe de ofício o processo ao CFP no prazo de 30 dias corridos após o decurso do prazo recursal (reexame necessário). Do reexame não pode decorrer agravamento. A medida é coerente com o art. 27 da Lei 5.766/1971 e com o Código de Ética, que preveem suspensão e cassação ad referendum do CFP; não se aplica às demais penas.",
@@ -539,9 +539,9 @@
     "enunciado": "Uma psicóloga condenada à pena de censura pública, com decisão transitada em julgado há um ano, obtém documento novo, cuja existência ignorava, que demonstra sua inocência. Segundo o Código de Processamento Disciplinar,",
     "alternativas": [
       "a revisão é incabível, pois só se admite revisão de penas de suspensão e cassação.",
-      "ela pode requerer revisão ao próprio CRP, a qualquer tempo, com efeito suspensivo automático.",
-      "ela pode requerer a revisão no prazo de cinco anos, que é o prazo para todas as penalidades.",
-      "ela pode requerer a revisão ao Conselho Federal, protocolando-a no CRP de origem, no prazo de dois anos do trânsito em julgado, sem efeito suspensivo e sem possibilidade de agravamento da pena.",
+      "ela pode requerer revisão ao próprio CRP que a condenou, a qualquer tempo, com efeito suspensivo automático da penalidade de censura pública.",
+      "ela pode requerer a revisão ao Conselho Federal no prazo de cinco anos do trânsito em julgado, que é o prazo comum a todas as penalidades.",
+      "ela pode requerer a revisão ao CFP, protocolando-a no CRP de origem, em até dois anos do trânsito em julgado, sem efeito suspensivo.",
       "a revisão pode resultar em agravamento da pena se o documento novo revelar outras infrações."
     ],
     "gabarito": 3,
@@ -561,10 +561,10 @@
     "enunciado": "Segundo a Lei nº 5.766/1971 e o Código de Processamento Disciplinar, as penalidades aplicáveis às infrações disciplinares éticas e ordinárias de psicólogas(os) incluem",
     "alternativas": [
       "advertência, multa, censura pública, suspensão por até 90 dias e cassação, todas ad referendum do Conselho Federal.",
-      "advertência, censura pública e cassação, sendo a multa reservada a pessoas jurídicas.",
-      "advertência, multa, suspensão por até 30 dias e destituição da função de conselheira(o).",
+      "advertência, censura pública, suspensão e cassação, sendo a multa reservada às pessoas jurídicas inscritas no Conselho Regional.",
+      "advertência, multa, suspensão do exercício profissional por até 30 dias e destituição da função de conselheira(o), esta ad referendum do CFP.",
       "apenas advertência e cassação, cabendo ao Conselho Federal criar penas intermediárias.",
-      "advertência, multa, censura pública, suspensão do exercício profissional por até 30 dias e cassação, sendo a suspensão e a cassação aplicadas ad referendum do Conselho Federal."
+      "advertência, multa, censura pública, suspensão por até 30 dias e cassação, as duas últimas ad referendum do Conselho Federal."
     ],
     "gabarito": 4,
     "comentario": "O art. 27 da Lei 5.766/1971 prevê advertência, multa, censura, suspensão até 30 dias e cassação ad referendum do CFP. O art. 139 do CPD detalha: multa de 1 a 5 anuidades para pessoa natural e de 1 a 10 para pessoa jurídica; censura pública; suspensão por até 30 dias ad referendum do CFP; e cassação (ou cancelamento do registro de PJ) ad referendum do CFP. Salvo gravidade manifesta, observa-se a gradação (Lei, art. 28). Destituição da função de conselheiro é pena de infração funcional.",
@@ -582,9 +582,9 @@
     },
     "enunciado": "Ao fixar a penalidade de um psicólogo condenado por infração ética, o Plenário verifica que ele exerce a profissão há doze anos sem qualquer infração e que confessou espontaneamente a falta; verifica ainda que, ao praticá-la, agiu em conluio com outra pessoa. Segundo o Código de Processamento Disciplinar,",
     "alternativas": [
-      "apenas a reincidência pode ser considerada agravante, sendo o conluio irrelevante.",
-      "o tempo de exercício sem infração só atenua a pena se superior a dez anos consecutivos.",
-      "o exercício por mais de cinco anos sem infração e a confissão espontânea são atenuantes, e o conluio é agravante, devendo todos ser considerados fundamentadamente na gradação da pena.",
+      "apenas a reincidência pode ser considerada agravante, sendo o conluio irrelevante, e a confissão espontânea atenua a pena.",
+      "o tempo de exercício sem infração só atenua a pena se superior a dez anos consecutivos, sem interrupções, e o conluio é agravante.",
+      "o exercício por mais de cinco anos sem infração e a confissão espontânea atenuam a pena, e o conluio a agrava.",
       "a confissão espontânea obriga a aplicação de advertência, independentemente da gravidade.",
       "a presença de agravante impede a consideração de qualquer atenuante."
     ],
@@ -604,10 +604,10 @@
     },
     "enunciado": "Em 2022, uma psicóloga cumpriu pena de multa por divulgar diagnóstico de cliente em rede social. Em 2023, é novamente condenada, de forma definitiva, por infração envolvendo a mesma matéria. Segundo o Código de Processamento Disciplinar,",
     "alternativas": [
-      "ela é reincidente, pois foi punida anteriormente por decisão definitiva e penalizada por infração da mesma matéria antes de decorridos dois anos do cumprimento da punição, e, se aplicada multa, seu valor deverá ser dobrado.",
-      "ela não é reincidente, pois a reincidência exige identidade exata de dispositivo e de vítima.",
-      "ela não é reincidente, pois só há reincidência após cinco anos do cumprimento da pena anterior.",
-      "ela é reincidente, mas a multa não pode ser cumulada com outra penalidade.",
+      "ela é reincidente, pois foi punida por decisão definitiva e novamente penalizada pela mesma matéria antes de dois anos do cumprimento, e eventual multa será dobrada.",
+      "ela não é reincidente, pois a reincidência exige identidade exata de dispositivo e de vítima, não bastando infração envolvendo a mesma matéria.",
+      "ela não é reincidente, pois a reincidência exige duas punições definitivas anteriores pela mesma matéria, e não apenas uma condenação prévia.",
+      "ela é reincidente, mas a multa não pode ser cumulada com outra penalidade nem ter seu valor majorado em razão da reincidência.",
       "a reincidência só é considerada em infrações funcionais."
     ],
     "gabarito": 0,
@@ -626,10 +626,10 @@
     },
     "enunciado": "Sobre a execução e a divulgação das penalidades aplicadas a psicólogas(os), conforme o Código de Processamento Disciplinar, é correto afirmar que",
     "alternativas": [
-      "todas as penalidades, inclusive a advertência, são publicadas no Diário Oficial da União.",
-      "a publicação das penalidades no sítio do CRP é permanente, mesmo após o cumprimento da pena.",
-      "a advertência é aplicada em caráter confidencial, ao passo que multa, censura pública, suspensão e cassação são publicadas no sítio eletrônico do CRP e afixadas em sua sede.",
-      "a suspensão do exercício profissional não implica apreensão da Carteira de Identidade Profissional.",
+      "todas as penalidades, inclusive a advertência, são publicadas no Diário Oficial da União e no sítio eletrônico do Conselho Regional.",
+      "a publicação das penalidades no sítio do CRP é permanente, mesmo após o cumprimento da pena, para garantir a proteção da sociedade.",
+      "a advertência é confidencial, ao passo que multa, censura pública, suspensão e cassação são publicadas no sítio do CRP e afixadas na sede.",
+      "a suspensão do exercício profissional não implica apreensão da Carteira de Identidade Profissional, que só é recolhida em caso de cassação.",
       "a censura pública é comunicada apenas à(ao) apenada(o), sem divulgação."
     ],
     "gabarito": 2,
@@ -648,10 +648,10 @@
     },
     "enunciado": "Durante processo ético, representante e psicóloga processada manifestam interesse em mediação. Sobre a mediação no Código de Processamento Disciplinar, é correto afirmar que",
     "alternativas": [
-      "encaminhados os autos à Câmara de Mediação, ficam suspensos o processo e o prazo prescricional, e o acordo eventualmente obtido não implica assunção de culpa pela(o) psicóloga(o), salvo se isso integrar os termos negociados.",
+      "remetidos os autos à Câmara de Mediação, suspendem-se o processo e a prescrição, e o acordo não implica assunção de culpa, salvo se pactuado.",
       "a mediação só pode ocorrer antes da instauração do processo disciplinar, sendo vedada após a instrução.",
-      "as informações reveladas na mediação podem ser usadas como prova no processo disciplinar, caso não haja acordo.",
-      "é cabível mediação mesmo quando a situação já tiver sido objeto de Termo de Ajustamento de Conduta com as mesmas partes na COF.",
+      "as informações reveladas na mediação podem ser usadas como prova no processo disciplinar caso não haja acordo, desde que com anuência da Comissão.",
+      "é cabível mediação mesmo quando a situação já tiver sido objeto de Termo de Ajustamento de Conduta com as mesmas partes na Comissão de Orientação e Fiscalização.",
       "o acordo de mediação dispensa homologação e encerra o processo no momento de sua assinatura."
     ],
     "gabarito": 0,

@@ -1,0 +1,266 @@
+[
+  {
+    "id": "aut-leg-res07-2023-001",
+    "disciplina": "legislacao",
+    "assunto": "leg-res07-2023",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://abmes.org.br/arquivos/legislacoes/Resolucao-cfp-007-2023-04-06.pdf"
+    },
+    "enunciado": "A Resolução CFP nº 7/2023 estabelece normas para o exercício profissional em relação ao caráter laico da prática psicológica. Segundo seu art. 1º, a psicóloga e o psicólogo devem pautar seus serviços",
+    "alternativas": [
+      "na promoção dos valores religiosos predominantes na comunidade atendida.",
+      "no respeito à singularidade e diversidade de pensamentos, crenças e convicções dos indivíduos e grupos, de forma a considerar o caráter laico do Estado e da ciência psicológica.",
+      "na desconsideração de qualquer dimensão religiosa ou espiritual da pessoa atendida.",
+      "na adoção da crença religiosa do próprio profissional como referencial ético.",
+      "na neutralidade absoluta, sendo vedado abordar temas religiosos trazidos pelo usuário."
+    ],
+    "gabarito": 1,
+    "comentario": "Art. 1º da Res. CFP 7/2023: atuação segundo os princípios éticos, com respeito à singularidade e diversidade de pensamentos, crenças e convicções, considerando o caráter laico do Estado e da ciência psicológica. A Resolução não manda ignorar a religiosidade — o art. 2º, III, manda considerá-la como elemento formativo das subjetividades.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res07-2023-002",
+    "disciplina": "legislacao",
+    "assunto": "leg-res07-2023",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://abmes.org.br/arquivos/legislacoes/Resolucao-cfp-007-2023-04-06.pdf"
+    },
+    "enunciado": "Segundo o art. 2º da Resolução CFP nº 7/2023, no exercício profissional a psicóloga e o psicólogo devem considerar, entre outros aspectos,",
+    "alternativas": [
+      "a religiosidade como sintoma a ser tratado no processo psicológico.",
+      "a dimensão da religiosidade e da espiritualidade como elemento formativo das subjetividades e das coletividades, bem como as vivências a-religiosas, agnósticas e ateístas de indivíduos e grupos.",
+      "apenas as religiões institucionalizadas, excluídos os saberes dos povos originários.",
+      "a laicidade como opção individual do profissional, e não como pressuposto do Estado.",
+      "exclusivamente as vivências religiosas, por serem majoritárias na população."
+    ],
+    "gabarito": 1,
+    "comentario": "Art. 2º da Res. CFP 7/2023: devem ser considerados a laicidade como pressuposto do Estado Democrático de Direito (I); os aspectos históricos e culturais das experiências espirituais e religiosas (II); a religiosidade e espiritualidade como elemento formativo (III); os saberes dos povos originários, comunidades tradicionais e racionalidades não hegemônicas (IV); e as vivências a-religiosas, agnósticas e ateístas (V).",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res07-2023-003",
+    "disciplina": "legislacao",
+    "assunto": "leg-res07-2023",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://abmes.org.br/arquivos/legislacoes/Resolucao-cfp-007-2023-04-06.pdf"
+    },
+    "enunciado": "Uma psicóloga anuncia em suas redes sociais o serviço de 'psicologia cristã', apresentando-se como 'psicóloga cristã'. À luz da Resolução CFP nº 7/2023, essa conduta",
+    "alternativas": [
+      "é permitida, por se tratar de exercício da liberdade religiosa da profissional.",
+      "é permitida, desde que a psicóloga também atenda pessoas de outras religiões.",
+      "é vedada apenas se a psicóloga cobrar valores diferenciados de pacientes cristãos.",
+      "é permitida, desde que conste o número de inscrição no CRP no anúncio.",
+      "é vedada, pois é proibido utilizar o título de psicóloga ou psicólogo associado a vertentes religiosas e utilizar crenças religiosas como forma de publicidade e propaganda."
+    ],
+    "gabarito": 4,
+    "comentario": "Art. 3º, V e IX, da Res. CFP 7/2023: é vedado utilizar o título de psicóloga ou psicólogo associado a vertentes religiosas e utilizar, como forma de publicidade e propaganda, suas crenças religiosas. A informação do CRP não afasta a vedação.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res07-2023-004",
+    "disciplina": "legislacao",
+    "assunto": "leg-res07-2023",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://abmes.org.br/arquivos/legislacoes/Resolucao-cfp-007-2023-04-06.pdf"
+    },
+    "enunciado": "Um psicólogo passa a ensinar em seus atendimentos que determinada técnica de reestruturação cognitiva seria 'a aplicação de princípios bíblicos', associando o método a sua crença. Conforme a Resolução CFP nº 7/2023, essa prática",
+    "alternativas": [
+      "é permitida, desde que a técnica tenha comprovação científica.",
+      "é permitida, desde que o paciente compartilhe a mesma crença.",
+      "é vedada apenas em instituições públicas, em razão da laicidade do Estado.",
+      "é vedada, pois é proibido associar conceitos, métodos e técnicas da ciência psicológica a crenças religiosas.",
+      "é permitida, pois a Resolução só proíbe práticas de violência."
+    ],
+    "gabarito": 3,
+    "comentario": "Art. 3º, VI, da Res. CFP 7/2023: é vedado associar conceitos, métodos e técnicas da ciência psicológica a crenças religiosas. A vedação vale para qualquer contexto de exercício profissional, público ou privado, e independe da crença do paciente.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res07-2023-005",
+    "disciplina": "legislacao",
+    "assunto": "leg-res07-2023",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://abmes.org.br/arquivos/legislacoes/Resolucao-cfp-007-2023-04-06.pdf"
+    },
+    "enunciado": "Considere as condutas abaixo, praticadas no exercício profissional.\nI. Induzir a pessoa atendida a crenças religiosas.\nII. Acolher e explorar, no processo terapêutico, o significado que a fé tem para a pessoa atendida, a partir de referenciais da Psicologia.\nIII. Exercer ação que promova ou legitime práticas de intolerância e racismo religioso contra comunidades de matriz africana.\nSão vedadas pela Resolução CFP nº 7/2023 as condutas descritas em",
+    "alternativas": [
+      "I, apenas.",
+      "II, apenas.",
+      "I e III, apenas.",
+      "II e III, apenas.",
+      "I, II e III."
+    ],
+    "gabarito": 2,
+    "comentario": "I é vedada (art. 3º, II, da Res. CFP 7/2023) e III também (art. 3º, VII). II não é vedada: o art. 2º, II e III, manda considerar os aspectos das experiências espirituais e religiosas e a religiosidade como elemento formativo das subjetividades — o que se veda é induzir a crenças ou fundamentar a prática psicológica nelas.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res07-2023-006",
+    "disciplina": "legislacao",
+    "assunto": "leg-res07-2023",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://abmes.org.br/arquivos/legislacoes/Resolucao-cfp-007-2023-04-06.pdf"
+    },
+    "enunciado": "Segundo a Resolução CFP nº 7/2023, é vedado à psicóloga e ao psicólogo utilizar-se, ou favorecer o uso, de práticas psicológicas como instrumentos de castigo, tortura ou qualquer forma de violência que atentem contra a liberdade de consciência e de crença religiosa, ou que",
+    "alternativas": [
+      "sejam praticadas fora do horário de atendimento.",
+      "não tenham sido previamente registradas no Conselho Regional.",
+      "se baseiem em alegações de preceitos de fé religiosa.",
+      "sejam realizadas sem cobrança de honorários.",
+      "envolvam pessoas maiores de 18 anos."
+    ],
+    "gabarito": 2,
+    "comentario": "Art. 3º, III, da Res. CFP 7/2023: veda-se usar ou favorecer práticas psicológicas como instrumentos de castigo, tortura ou violência que atentem contra a liberdade de consciência e de crença, ou que se baseiem em alegações de preceitos de fé religiosa. O dispositivo dialoga com o art. 2º, 'c', do Código de Ética.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res07-2023-007",
+    "disciplina": "legislacao",
+    "assunto": "leg-res07-2023",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://abmes.org.br/arquivos/legislacoes/Resolucao-cfp-007-2023-04-06.pdf"
+    },
+    "enunciado": "Um psicólogo, em palestra profissional, afirma que pessoas LGBTI+ precisam 'ser restauradas pela fé', propondo intervenções psicológicas com esse objetivo. À luz da Resolução CFP nº 7/2023, a conduta",
+    "alternativas": [
+      "é vedada, pois é proibido exercer ação que promova fundamentalismos religiosos e resulte em racismo, LGBTI+fobia, sexismo, xenofobia, capacitismo ou outras formas de violação de direitos.",
+      "é permitida, por estar amparada na liberdade de expressão religiosa.",
+      "é permitida, se a palestra ocorrer em templo religioso.",
+      "é vedada apenas se o psicólogo cobrar pela intervenção proposta.",
+      "é vedada somente se houver denúncia formal de pessoa LGBTI+ atendida."
+    ],
+    "gabarito": 0,
+    "comentario": "Art. 3º, VIII, da Res. CFP 7/2023: é vedado exercer ação que promova fundamentalismos religiosos e resulte em racismo, LGBTI+fobia, sexismo, xenofobia, capacitismo ou quaisquer formas de violação de direitos. Também incidem o art. 3º, II e IV (induzir a crenças e preconceitos; reforçar estigmas e discriminações), e o art. 2º, 'b', do Código de Ética.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res07-2023-008",
+    "disciplina": "legislacao",
+    "assunto": "leg-res07-2023",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://abmes.org.br/arquivos/legislacoes/Resolucao-cfp-007-2023-04-06.pdf"
+    },
+    "enunciado": "De acordo com a Resolução CFP nº 7/2023, é vedado utilizar instrumentos e técnicas psicológicas para",
+    "alternativas": [
+      "avaliar pessoas que declarem pertencer a alguma religião.",
+      "atender pessoas em instituições confessionais.",
+      "pesquisar fenômenos relacionados à religiosidade.",
+      "criar, manter ou reforçar preconceitos, estigmas, estereótipos e discriminações em relação à liberdade de consciência e de crença religiosa.",
+      "atender líderes religiosos em psicoterapia."
+    ],
+    "gabarito": 3,
+    "comentario": "Art. 3º, IV, da Res. CFP 7/2023: é vedado usar instrumentos e técnicas psicológicas para criar, manter ou reforçar preconceitos, estigmas, estereótipos e discriminações em relação à liberdade de consciência e de crença. Atender pessoas religiosas, atuar em instituições confessionais ou pesquisar religiosidade não são condutas vedadas.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res07-2023-009",
+    "disciplina": "legislacao",
+    "assunto": "leg-res07-2023",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://abmes.org.br/arquivos/legislacoes/Resolucao-cfp-007-2023-04-06.pdf"
+    },
+    "enunciado": "A Resolução CFP nº 7/2023 determina que, no exercício profissional, devem ser considerados os aspectos históricos e culturais",
+    "alternativas": [
+      "dos saberes dos povos originários, comunidades tradicionais e demais racionalidades não hegemônicas presentes nos contextos de inserção profissional.",
+      "apenas das religiões monoteístas reconhecidas pelo Estado.",
+      "das práticas religiosas, desde que compatíveis com a crença do profissional.",
+      "das tradições culturais, exceto aquelas de matriz africana.",
+      "dos saberes científicos hegemônicos, exclusivamente."
+    ],
+    "gabarito": 0,
+    "comentario": "Art. 2º, IV, da Res. CFP 7/2023: devem ser considerados os aspectos históricos e culturais dos saberes dos povos originários, comunidades tradicionais e demais racionalidades não hegemônicas. O art. 3º, VII, veda ações que legitimem intolerância e racismo religioso contra comunidades de matriz africana, indígenas e tradicionais.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res07-2023-010",
+    "disciplina": "legislacao",
+    "assunto": "leg-res07-2023",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://abmes.org.br/arquivos/legislacoes/Resolucao-cfp-007-2023-04-06.pdf"
+    },
+    "enunciado": "Sobre a Resolução CFP nº 7/2023, assinale a afirmativa correta.",
+    "alternativas": [
+      "Entrou em vigor 30 dias após sua publicação e revogou a Resolução CFP nº 01/1999.",
+      "Entrou em vigor na data de sua publicação e prevê que as vedações nela contidas se aplicam nos termos da própria Resolução e do Código de Ética Profissional.",
+      "Proíbe que a psicóloga tenha qualquer crença religiosa pessoal.",
+      "Permite o uso do título de psicóloga associado a vertentes religiosas em consultórios particulares.",
+      "Aplica-se apenas às psicólogas e aos psicólogos que atuam em políticas públicas."
+    ],
+    "gabarito": 1,
+    "comentario": "Arts. 3º e 4º da Res. CFP 7/2023: as vedações são estabelecidas 'nos termos desta Resolução e do Código de Ética Profissional', e a Resolução entra em vigor na data de sua publicação (DOU de 18/04/2023). Ela não revoga outras resoluções, não proíbe crenças pessoais do profissional e vale para todo exercício profissional, público ou privado.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res07-2023-011",
+    "disciplina": "legislacao",
+    "assunto": "leg-res07-2023",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://abmes.org.br/arquivos/legislacoes/Resolucao-cfp-007-2023-04-06.pdf"
+    },
+    "enunciado": "Uma psicóloga é integrante ativa de uma comunidade religiosa e participa de cultos em seu tempo livre. Ela pergunta se a Resolução CFP nº 7/2023 a impede de ter fé. A resposta correta é:",
+    "alternativas": [
+      "Sim; a laicidade da ciência psicológica exige que a psicóloga não professe nenhuma religião.",
+      "Sim; a psicóloga deve comunicar sua religião ao Conselho Regional para fins de controle.",
+      "Não, mas ela fica impedida de atender pessoas de religiões diferentes da sua.",
+      "Não, mas ela deve informar sua religião a todos os pacientes no contrato terapêutico.",
+      "Não; a Resolução regula o exercício profissional, vedando, por exemplo, induzir a crenças, associar a Psicologia a crenças religiosas ou usar a crença como publicidade, mas não proíbe a profissional de ter suas próprias convicções religiosas."
+    ],
+    "gabarito": 4,
+    "comentario": "A Res. CFP 7/2023 disciplina condutas 'no exercício profissional' (arts. 2º e 3º): veda induzir a crenças (art. 3º, II), associar a Psicologia a crenças religiosas (VI), usar o título associado a vertentes religiosas (V) e usar crenças como publicidade (IX). Não há vedação à fé pessoal, nem dever de comunicar religião ao CRP ou aos pacientes; o art. 1º exige justamente o respeito à diversidade de crenças.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res07-2023-012",
+    "disciplina": "legislacao",
+    "assunto": "leg-res07-2023",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://abmes.org.br/arquivos/legislacoes/Resolucao-cfp-007-2023-04-06.pdf"
+    },
+    "enunciado": "Durante atendimento, uma psicóloga recomenda que a paciente abandone o terreiro de candomblé que frequenta, afirmando que aquela religião 'prejudica a saúde mental'. À luz da Resolução CFP nº 7/2023 e do Código de Ética Profissional, a conduta",
+    "alternativas": [
+      "viola a norma, pois configura indução a crenças ou preconceitos e pode promover intolerância e racismo religioso contra comunidade de matriz africana.",
+      "é adequada, se a psicóloga tiver identificado sintomas relacionados à prática religiosa.",
+      "é adequada, pois cabe à psicóloga orientar a paciente sobre hábitos saudáveis.",
+      "viola a norma apenas se a psicóloga indicar outra religião em substituição.",
+      "é permitida, desde que registrada no prontuário com a devida justificativa técnica."
+    ],
+    "gabarito": 0,
+    "comentario": "Art. 3º, II e VII, da Res. CFP 7/2023: é vedado induzir a crenças religiosas ou a qualquer tipo de preconceito e promover ou legitimar intolerância e racismo religioso contra comunidades de matriz africana. O Código de Ética (art. 2º, 'b') também veda induzir a convicções religiosas ou a preconceito. O registro em prontuário não legitima conduta vedada.",
+    "dificuldade": 3,
+    "anulada": false
+  }
+]

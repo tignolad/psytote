@@ -11,10 +11,10 @@
     "enunciado": "Com a redação dada pela Portaria MTE nº 1.419/2024, a Norma Regulamentadora nº 1 (NR-1) passou a prever expressamente que o gerenciamento de riscos ocupacionais (GRO) deve abranger",
     "alternativas": [
       "apenas os transtornos mentais já diagnosticados nos trabalhadores, mediante laudo psiquiátrico.",
-      "a avaliação psicológica individual obrigatória de todos os empregados, com testes aprovados pelo SATEPSI.",
+      "a avaliação psicológica individual obrigatória de todos os empregados, com testes aprovados pelo SATEPSI e laudo arquivado no PGR da empresa.",
       "somente os riscos físicos, químicos e biológicos, cabendo os riscos psicossociais à NR-7.",
-      "os fatores de risco psicossociais relacionados ao trabalho, ao lado dos agentes físicos, químicos e biológicos, dos riscos de acidentes e dos fatores ergonômicos.",
-      "os riscos psicossociais apenas em empresas com mais de 500 empregados."
+      "os fatores de risco psicossociais relacionados ao trabalho, além dos agentes físicos, químicos, biológicos, ergonômicos e de acidentes.",
+      "os riscos psicossociais apenas em empresas com mais de 500 empregados ou classificadas nos graus de risco 3 e 4."
     ],
     "gabarito": 3,
     "comentario": "A Portaria MTE 1.419/2024 alterou o item 1.5.3.1.4 da NR-1 para que o GRO abranja, além dos agentes físicos, químicos e biológicos, dos riscos de acidentes e dos fatores ergonômicos, os fatores de risco psicossociais relacionados ao trabalho. A exigência passou a vigorar em 26/05/2026, depois de adiamentos. O foco está na organização do trabalho, e não em diagnosticar ou testar individualmente os trabalhadores.",
@@ -32,11 +32,11 @@
     },
     "enunciado": "Para cumprir a NR-1, uma empresa com altos índices de afastamento por adoecimento mental propõe apenas oficinas de \"resiliência\" e meditação para os empregados, sem alterar metas, jornadas ou práticas de gestão. Do ponto de vista do gerenciamento de riscos psicossociais, essa proposta é",
     "alternativas": [
-      "insuficiente, pois os fatores de risco psicossociais decorrem sobretudo da concepção, organização e gestão do trabalho, e as medidas devem priorizar a eliminação ou redução dos riscos na fonte.",
+      "insuficiente, pois os riscos psicossociais decorrem sobretudo da organização e gestão do trabalho, e o controle deve priorizar a fonte.",
       "suficiente, pois a responsabilidade pela saúde mental é individual do trabalhador.",
-      "suficiente, desde que as oficinas sejam conduzidas por psicólogo registrado no CRP.",
+      "suficiente, desde que as oficinas sejam conduzidas por psicólogo registrado no CRP e documentadas no inventário de riscos do PGR.",
       "adequada, pois a NR-1 proíbe alterações na organização do trabalho por razões de saúde mental.",
-      "adequada, pois os riscos psicossociais só podem ser enfrentados com intervenções clínicas individuais."
+      "adequada, pois os riscos psicossociais só podem ser enfrentados com intervenções clínicas individuais, ficando a organização do trabalho fora do GRO."
     ],
     "gabarito": 0,
     "comentario": "O guia do MTE sobre fatores de riscos psicossociais os associa a problemas na concepção, organização e gestão do trabalho, como metas excessivas, baixa autonomia, assédio, conflitos de papel e falta de suporte. Pela lógica de hierarquia de medidas do GRO, o controle deve atuar prioritariamente na fonte. Ações individuais de enfrentamento podem complementar, mas não substituem a intervenção organizacional. Responsabilizar só o trabalhador individualiza um problema coletivo.",
@@ -76,9 +76,9 @@
     },
     "enunciado": "Na CID-11, a síndrome de burnout (QD85) é descrita como",
     "alternativas": [
-      "um fenômeno ocupacional resultante de estresse crônico no local de trabalho que não foi gerenciado com sucesso, caracterizado por exaustão de energia, distanciamento mental ou cinismo em relação ao trabalho e redução da eficácia profissional.",
-      "um transtorno do humor classificado no capítulo de transtornos mentais, equivalente à depressão maior.",
-      "um quadro de estresse agudo decorrente de qualquer área da vida, inclusive familiar.",
+      "um fenômeno ocupacional decorrente de estresse crônico no trabalho não gerenciado com sucesso, com exaustão, distanciamento mental ou cinismo e menor eficácia profissional.",
+      "um transtorno do humor classificado no capítulo de transtornos mentais da CID-11, equivalente à depressão maior e diagnosticado pelos mesmos critérios desta.",
+      "um quadro de estresse agudo decorrente de qualquer área da vida, inclusive familiar ou acadêmica, desde que estejam presentes exaustão, cinismo e redução da eficácia pessoal.",
       "uma doença neurológica caracterizada por fadiga crônica e dor muscular.",
       "um transtorno de personalidade associado a perfeccionismo."
     ],
@@ -100,9 +100,9 @@
     "alternativas": [
       "não deve ser aplicado, pois se refere especificamente a fenômenos do contexto ocupacional.",
       "pode ser aplicado, pois abrange qualquer exaustão por sobrecarga de cuidados.",
-      "deve ser aplicado sempre que houver as três dimensões, independentemente do contexto.",
+      "deve ser aplicado sempre que houver as três dimensões descritas na CID-11, independentemente do contexto em que a exaustão se originou.",
       "pode ser aplicado desde que a exaustão dure mais de seis meses.",
-      "deve ser substituído por \"burnout familiar\", categoria prevista na CID-11."
+      "deve ser substituído por \"burnout familiar\", categoria prevista na CID-11 para a sobrecarga de cuidadores."
     ],
     "gabarito": 0,
     "comentario": "A descrição da CID-11 ressalva que o burnout se refere especificamente a fenômenos do contexto ocupacional e não deve ser aplicado para descrever experiências em outras áreas da vida. Isso não nega o sofrimento da usuária, que deve ser compreendido por outras categorias e referenciais. Não há categoria de \"burnout familiar\" na CID-11.",
@@ -142,9 +142,9 @@
     },
     "enunciado": "Em uma equipe de trabalhadores da construção civil exposta a riscos graves, observa-se ostentação de coragem, desprezo pelos equipamentos de proteção e zombaria contra quem demonstra medo. Na psicodinâmica do trabalho, esse padrão é interpretado como",
     "alternativas": [
-      "traço de personalidade antissocial dos trabalhadores, a ser identificado em seleção.",
-      "falta de informação técnica, resolvida apenas com treinamento sobre normas de segurança.",
-      "estratégia defensiva coletiva, construída pelo grupo para negar o medo e tornar suportável o sofrimento, mas que pode aumentar a exposição ao risco.",
+      "traço de personalidade antissocial dos trabalhadores, a ser identificado em seleção por meio de testes de personalidade.",
+      "falta de informação técnica sobre os riscos, resolvida apenas com treinamento sobre normas de segurança e fiscalização do uso de EPI pela chefia.",
+      "estratégia defensiva coletiva, construída pelo grupo para negar o medo e suportar o sofrimento, podendo aumentar a exposição ao risco.",
       "sintoma de transtorno mental individual, a ser tratado por psicoterapia.",
       "manifestação de prazer no trabalho decorrente do reconhecimento."
     ],
@@ -165,10 +165,10 @@
     "enunciado": "Para Dejours, o reconhecimento é central na transformação do sofrimento em prazer no trabalho. Esse reconhecimento envolve dois tipos de julgamento:",
     "alternativas": [
       "o julgamento clínico, feito pelo psicólogo, e o julgamento jurídico, feito pela Justiça do Trabalho.",
-      "o julgamento de produtividade, feito pela empresa, e o julgamento salarial, feito pelo sindicato.",
+      "o julgamento de produtividade, feito pela empresa, e o julgamento salarial, feito pelo sindicato nas negociações coletivas da categoria.",
       "o julgamento moral, feito pela família, e o julgamento religioso, feito pela comunidade.",
-      "o julgamento de utilidade, feito sobretudo pela hierarquia e pelos clientes, e o julgamento de beleza, feito pelos pares, que conhecem as regras do ofício.",
-      "o julgamento de mérito, feito pelos subordinados, e o julgamento de desempenho, feito por indicadores."
+      "o julgamento de utilidade, feito sobretudo pela hierarquia e pelos clientes, e o julgamento de beleza, feito pelos pares.",
+      "o julgamento de mérito, feito pelos subordinados, e o julgamento de desempenho, feito por indicadores objetivos definidos pela gestão."
     ],
     "gabarito": 3,
     "comentario": "Na psicodinâmica do trabalho, o reconhecimento recai sobre o fazer, não sobre a pessoa. O julgamento de utilidade (técnica, social ou econômica) vem principalmente da hierarquia e dos clientes. O julgamento de beleza vem dos pares, que avaliam a conformidade às regras do ofício e a originalidade do trabalho. Pela retribuição simbólica, o sofrimento pode ganhar sentido e se converter em prazer e construção identitária.",
@@ -186,10 +186,10 @@
     },
     "enunciado": "A passagem da \"psicopatologia do trabalho\" para a \"psicodinâmica do trabalho\", na obra de Dejours, marca uma mudança de foco. O enigma central passa a ser",
     "alternativas": [
-      "a identificação de doenças mentais específicas de cada profissão, para fins de seleção.",
-      "a normalidade, isto é, como a maioria dos trabalhadores consegue manter-se sem adoecer apesar das pressões da organização do trabalho.",
+      "a identificação de doenças mentais específicas de cada profissão, para fins de seleção e de afastamento preventivo dos trabalhadores vulneráveis.",
+      "a normalidade, isto é, como a maioria dos trabalhadores se mantém sem adoecer apesar das pressões da organização do trabalho.",
       "a medição da produtividade individual em função de traços de personalidade.",
-      "a adaptação do trabalhador à máquina, por meio de treinamento comportamental.",
+      "a adaptação do trabalhador à máquina e às cadências impostas, por meio de treinamento comportamental e seleção de perfis resistentes.",
       "a busca de causas biológicas para o sofrimento no trabalho."
     ],
     "gabarito": 1,
@@ -208,11 +208,11 @@
     },
     "enunciado": "Uma servidora relata que, há meses, sua chefia a isola das reuniões, retira suas atribuições sem justificativa, critica-a publicamente e ironiza sua capacidade, o que vem lhe causando insônia e crises de choro. Considerando a definição de Marie-France Hirigoyen, a situação caracteriza",
     "alternativas": [
-      "assédio moral, conduta abusiva, em regra repetitiva e prolongada, que atenta contra a dignidade ou a integridade psíquica da pessoa e degrada o ambiente de trabalho.",
+      "assédio moral, conduta abusiva, em regra repetitiva, que atenta contra a dignidade ou a integridade psíquica da pessoa.",
       "assédio sexual, pois envolve relação hierárquica entre chefia e subordinada.",
       "conflito interpessoal pontual, inerente às relações de trabalho.",
-      "exercício regular do poder diretivo, pois a chefia pode redistribuir atribuições livremente.",
-      "síndrome de burnout, que dispensa a análise da conduta da chefia."
+      "exercício regular do poder diretivo, pois a chefia pode redistribuir atribuições livremente e avaliar publicamente o desempenho da equipe.",
+      "síndrome de burnout, que dispensa a análise da conduta da chefia, já que o foco recai sobre os sintomas apresentados pela servidora."
     ],
     "gabarito": 0,
     "comentario": "Hirigoyen define o assédio moral como conduta abusiva (palavras, atos, gestos, escritos) que, por sua repetição ou sistematização, atenta contra a dignidade ou a integridade psíquica ou física de uma pessoa, ameaçando seu emprego ou degradando o clima de trabalho. Isolamento, esvaziamento de funções, humilhação pública e desqualificação são exemplos típicos. O poder diretivo não autoriza práticas humilhantes, e o adoecimento é consequência, não substituto da análise da conduta.",
@@ -252,9 +252,9 @@
     },
     "enunciado": "Em uma central de atendimento, a gestão adota metas inalcançáveis, ranqueamento público com exposição dos \"piores\", controle do tempo de ida ao banheiro e ameaças coletivas de demissão, como política sistemática para aumentar a produtividade. Essa situação caracteriza",
     "alternativas": [
-      "assédio moral interpessoal horizontal, por atingir todos os colegas de igual nível.",
-      "gestão por desempenho legítima, por se tratar de metas aplicadas indistintamente.",
-      "assédio moral organizacional (ou institucional), em que a violência integra a própria estratégia de gestão da empresa, atingindo coletivamente os trabalhadores.",
+      "assédio moral interpessoal horizontal, por atingir de forma simultânea e indistinta todos os colegas de igual nível da central.",
+      "gestão por desempenho legítima, por se tratar de metas aplicadas indistintamente a todos os atendentes, sem a escolha de uma vítima específica pela chefia.",
+      "assédio moral organizacional, em que a violência integra a própria estratégia de gestão e atinge coletivamente os trabalhadores.",
       "assédio sexual por intimidação, por envolver controle do corpo.",
       "conflito organizacional, sem relevância para a saúde do trabalhador."
     ],
@@ -274,11 +274,11 @@
     },
     "enunciado": "O crime de assédio sexual, tal como tipificado no art. 216-A do Código Penal, exige que o agente",
     "alternativas": [
-      "pratique contato físico de natureza sexual sem consentimento, independentemente de relação de trabalho.",
+      "pratique contato físico de natureza sexual sem o consentimento da vítima, independentemente de haver relação de trabalho, hierarquia ou ascendência entre o agente e a vítima.",
       "seja colega de mesmo nível hierárquico da vítima.",
-      "obtenha efetivamente a vantagem sexual pretendida.",
-      "pratique a conduta de forma reiterada, por pelo menos seis meses.",
-      "constranja alguém com o intuito de obter vantagem ou favorecimento sexual, prevalecendo-se de sua condição de superior hierárquico ou de ascendência inerentes ao exercício de emprego, cargo ou função."
+      "obtenha efetivamente a vantagem sexual pretendida, valendo-se de sua condição de superior hierárquico ou de ascendência inerentes ao emprego, cargo ou função.",
+      "pratique a conduta de forma reiterada, por pelo menos seis meses, contra subordinado direto, prevalecendo-se da condição de superior hierárquico.",
+      "constranja alguém para obter vantagem ou favorecimento sexual, prevalecendo-se da condição de superior hierárquico ou de ascendência inerentes ao emprego, cargo ou função."
     ],
     "gabarito": 4,
     "comentario": "O art. 216-A do Código Penal tipifica como assédio sexual constranger alguém com o intuito de obter vantagem ou favorecimento sexual, prevalecendo-se o agente de sua condição de superior hierárquico ou de ascendência inerentes ao emprego, cargo ou função. O crime não exige a obtenção da vantagem nem reiteração. No campo trabalhista e administrativo, porém, o conceito de assédio sexual é mais amplo e abrange também condutas entre colegas.",
@@ -297,9 +297,9 @@
     "enunciado": "Uma trabalhadora é alvo constante, por parte de colegas do mesmo nível, de piadas de cunho sexual, comentários sobre seu corpo e envio de imagens obscenas, criando ambiente hostil e intimidador, sem que haja chantagem. Nas orientações do TST e do MPT/OIT, essa situação é descrita como",
     "alternativas": [
       "situação lícita, pois sem hierarquia não há assédio sexual.",
-      "assédio sexual por chantagem, por envolver condições de trabalho.",
-      "assédio moral ascendente, pois parte de colegas.",
-      "assédio sexual por intimidação (ou ambiental), que pode ocorrer independentemente de hierarquia e deve ser enfrentado pela organização.",
+      "assédio sexual por chantagem, por envolver condições de trabalho, ainda que não haja exigência de favores sexuais em troca de vantagens.",
+      "assédio moral ascendente, pois parte de colegas que se unem contra a trabalhadora no mesmo setor.",
+      "assédio sexual por intimidação (ou ambiental), que independe de hierarquia e deve ser enfrentado pela organização.",
       "mera brincadeira entre colegas, salvo se houver contato físico."
     ],
     "gabarito": 3,
@@ -340,11 +340,11 @@
     },
     "enunciado": "Nos termos do art. 23 da Lei nº 14.457/2022, as empresas obrigadas a constituir CIPA devem adotar medidas de prevenção e combate ao assédio sexual e a outras formas de violência no trabalho, entre as quais",
     "alternativas": [
-      "fixar procedimentos para recebimento e acompanhamento de denúncias, apuração dos fatos e aplicação de sanções, garantido o anonimato do denunciante, e realizar ações de capacitação, no mínimo, a cada 12 meses.",
-      "contratar psicólogo exclusivo para atender as vítimas, com sessões semanais custeadas pela empresa.",
+      "fixar procedimentos de denúncia, apuração e sanção, garantido o anonimato do denunciante, e realizar capacitações, no mínimo, a cada 12 meses.",
+      "contratar psicólogo exclusivo para atender as vítimas, com sessões semanais custeadas pela empresa enquanto durar a apuração interna dos fatos.",
       "submeter os empregados denunciados a avaliação psicológica obrigatória antes de qualquer apuração.",
-      "substituir o procedimento penal cabível pelo procedimento interno de apuração.",
-      "realizar treinamento sobre assédio apenas no momento da admissão de cada empregado."
+      "substituir o procedimento penal cabível pelo procedimento interno de apuração, desde que conduzido pela CIPA e com garantia de anonimato.",
+      "realizar treinamento sobre assédio apenas no momento da admissão de cada empregado, com reciclagem facultativa a critério da CIPA."
     ],
     "gabarito": 0,
     "comentario": "O art. 23 da Lei 14.457/2022 exige incluir regras de conduta sobre assédio sexual e outras violências nas normas internas, com ampla divulgação. Também exige procedimentos de denúncia, apuração e sanção com garantia de anonimato, inclusão do tema nas atividades da CIPA e capacitação ao menos a cada 12 meses. O §1º ressalva que o recebimento de denúncias não substitui o procedimento penal. A lei não prevê psicoterapia obrigatória nem avaliação psicológica dos denunciados.",
@@ -362,9 +362,9 @@
     },
     "enunciado": "A Lei nº 14.540/2023 instituiu o Programa de Prevenção e Enfrentamento ao Assédio Sexual e demais Crimes contra a Dignidade Sexual e à Violência Sexual. Esse programa aplica-se",
     "alternativas": [
-      "exclusivamente às empresas privadas com mais de 100 empregados.",
-      "à administração pública direta e indireta, federal, estadual, distrital e municipal, e também às instituições privadas que prestem serviços públicos por concessão, permissão, autorização ou outra forma de delegação.",
-      "apenas aos órgãos do Poder Executivo federal.",
+      "exclusivamente às empresas privadas com mais de 100 empregados, cabendo à administração pública regulamentar programa próprio.",
+      "à administração pública direta e indireta de todos os entes federativos e às instituições privadas que prestem serviços públicos por delegação.",
+      "apenas aos órgãos do Poder Executivo federal, inclusive autarquias e fundações, excluídos estados, municípios e entidades privadas delegatárias.",
       "somente às instituições de ensino superior públicas e privadas.",
       "apenas às empresas obrigadas a constituir CIPA."
     ],
@@ -386,9 +386,9 @@
     "alternativas": [
       "só pode denunciá-la mediante autorização expressa da vítima.",
       "tem o dever legal de denunciá-la e de colaborar com os procedimentos administrativos internos e externos.",
-      "deve aguardar a conclusão do inquérito policial antes de comunicar a chefia.",
+      "deve aguardar a conclusão do inquérito policial antes de comunicar a chefia, para não comprometer a apuração criminal.",
       "deve comunicá-la exclusivamente ao Ministério Público do Trabalho.",
-      "fica dispensada de qualquer providência se não for servidora pública."
+      "fica dispensada de qualquer providência se não for servidora pública, pois o dever de denunciar alcança apenas agentes públicos."
     ],
     "gabarito": 1,
     "comentario": "O art. 5º, §1º, da Lei 14.540/2023 estabelece o dever legal de denunciar e de colaborar com os procedimentos administrativos internos e externos para quem tiver conhecimento da prática. O §2º prevê a apuração de retaliações contra vítimas, testemunhas e colaboradores. Entre as diretrizes estão canais de denúncia acessíveis e procedimentos que assegurem sigilo e devido processo.",
@@ -406,11 +406,11 @@
     },
     "enunciado": "Uma empresa precisa preencher vaga de gerência e opta por recrutamento interno. Em comparação ao recrutamento externo, é uma vantagem típica do recrutamento interno",
     "alternativas": [
-      "trazer novas ideias e experiências de outras organizações.",
+      "trazer novas ideias e experiências de outras organizações, oxigenando as práticas da equipe de gestão.",
       "renovar a cultura organizacional com perfis diferentes dos atuais.",
-      "evitar qualquer conflito de interesses entre colegas candidatos.",
+      "evitar qualquer conflito de interesses entre colegas candidatos, já que a escolha se baseia em avaliações de desempenho anteriores.",
       "ampliar o número de candidatos disponíveis no mercado.",
-      "aproveitar o conhecimento prévio sobre o desempenho do candidato e funcionar como fator de motivação e desenvolvimento de carreira."
+      "aproveitar o conhecimento prévio sobre o desempenho do candidato e motivar os empregados quanto à carreira."
     ],
     "gabarito": 4,
     "comentario": "Na literatura de POT, o recrutamento interno aproveita o potencial existente, é mais rápido e econômico, permite usar informações já disponíveis sobre o desempenho e motiva ao sinalizar possibilidades de carreira. Suas desvantagens incluem conflitos entre candidatos e endogamia de ideias. Trazer experiências novas e renovar a cultura são vantagens do recrutamento externo.",
@@ -428,8 +428,8 @@
     },
     "enunciado": "Em processos seletivos baseados em competências, a competência costuma ser descrita pela sigla CHA, que corresponde a",
     "alternativas": [
-      "capacidade, hierarquia e autonomia do cargo.",
-      "competitividade, honestidade e assertividade do candidato.",
+      "capacidade, hierarquia e autonomia previstas para o cargo no plano de carreiras.",
+      "competitividade, honestidade e assertividade demonstradas pelo candidato nas etapas da seleção.",
       "carreira, histórico e aptidão do profissional.",
       "controle, harmonia e adaptação ao grupo.",
       "conhecimentos, habilidades e atitudes mobilizados no desempenho do trabalho."
@@ -451,8 +451,8 @@
     "enunciado": "Uma psicóloga organizacional pretende usar em seleção um teste de personalidade cujo parecer no SATEPSI é desfavorável, por considerá-lo \"rápido e barato\". À luz da Resolução CFP nº 31/2022, essa conduta é",
     "alternativas": [
       "permitida, desde que o candidato assine termo de consentimento.",
-      "vedada, pois só podem ser usados na prática profissional testes psicológicos com parecer favorável do SATEPSI.",
-      "permitida em seleção privada, sendo a restrição aplicável apenas a concursos públicos.",
+      "vedada, pois só podem ser usados na prática profissional testes com parecer favorável do SATEPSI.",
+      "permitida em seleção privada, sendo a restrição aplicável apenas a concursos públicos e a avaliações para porte de arma.",
       "permitida, se combinada com entrevista estruturada.",
       "permitida, desde que os resultados não sejam informados ao candidato."
     ],
@@ -473,10 +473,10 @@
     "enunciado": "Durante uma seleção, o gestor solicita à psicóloga que inclua exame de gravidez entre os requisitos para candidatas à vaga. Com base na Lei nº 9.029/1995, a psicóloga deve orientar que essa exigência",
     "alternativas": [
       "é permitida em vagas que exijam viagens frequentes.",
-      "é permitida, desde que o resultado seja mantido em sigilo pela psicóloga.",
+      "é permitida, desde que o resultado seja mantido em sigilo pela psicóloga e comunicado apenas ao médico do trabalho.",
       "é permitida apenas para cargos de confiança.",
       "é recomendada para fins de planejamento da força de trabalho.",
-      "é prática discriminatória proibida, que configura crime, na admissão e na manutenção da relação de trabalho."
+      "é prática discriminatória proibida, que configura crime, na admissão e na manutenção do vínculo."
     ],
     "gabarito": 4,
     "comentario": "A Lei 9.029/1995 proíbe práticas discriminatórias e limitativas no acesso e na manutenção da relação de trabalho por motivo de sexo, origem, raça, cor, estado civil, situação familiar, deficiência, idade, entre outros. O art. 2º tipifica como crime exigir teste, exame, perícia, laudo, atestado ou declaração relativos a esterilização ou estado de gravidez. A psicóloga também se pauta pelo dever ético de não ser conivente com discriminação (Código de Ética, art. 2º, a).",
@@ -494,11 +494,11 @@
     },
     "enunciado": "Após um processo seletivo, o gerente pede à psicóloga o relatório completo da avaliação de um candidato aprovado, com todos os dados de personalidade e de história de vida obtidos na entrevista. Segundo o Código de Ética Profissional do Psicólogo, a psicóloga deve",
     "alternativas": [
-      "entregar o relatório completo, pois a empresa contratou o serviço e é dona das informações.",
+      "entregar o relatório completo, pois a empresa contratou o serviço e é dona das informações obtidas na avaliação.",
       "recusar-se a informar qualquer resultado ao gerente, por força do sigilo.",
-      "entregar os protocolos dos testes para que o gerente tire suas próprias conclusões.",
+      "entregar os protocolos dos testes para que o gerente tire suas próprias conclusões, mantendo apenas o laudo final sob sigilo.",
       "informar os resultados apenas ao candidato, nunca à organização.",
-      "informar a quem de direito os resultados da avaliação, transmitindo somente o que for necessário para a tomada de decisão."
+      "informar a quem de direito os resultados, transmitindo somente o necessário para a tomada de decisão."
     ],
     "gabarito": 4,
     "comentario": "O art. 1º, g, do Código de Ética impõe informar, a quem de direito, os resultados da prestação de serviços psicológicos, transmitindo somente o necessário para a tomada de decisões que afetem o usuário ou beneficiário. O sigilo (art. 9º) protege a intimidade do candidato. O art. 18 veda ceder a leigos instrumentos e técnicas que facilitem o exercício ilegal da profissão, o que impede entregar protocolos.",
@@ -516,10 +516,10 @@
     },
     "enunciado": "Uma psicóloga de RH é designada para avaliar, em processo de promoção interna, o próprio cunhado. Pelo Código de Ética Profissional do Psicólogo, ela deve",
     "alternativas": [
-      "realizar a avaliação, desde que use apenas testes com parecer favorável no SATEPSI.",
+      "realizar a avaliação, desde que use apenas testes com parecer favorável no SATEPSI e registre o parentesco no prontuário.",
       "realizar a avaliação e informar o vínculo somente se o cunhado for aprovado.",
-      "declarar-se impedida, pois é vedado ser perito, avaliador ou parecerista em situações em que vínculos pessoais possam afetar a qualidade do trabalho ou a fidelidade aos resultados.",
-      "realizar a avaliação, pois o impedimento só existe em perícias judiciais.",
+      "declarar-se impedida, pois é vedado atuar como avaliadora quando vínculos pessoais possam afetar a fidelidade aos resultados.",
+      "realizar a avaliação, pois o impedimento por vínculo pessoal previsto no Código só se aplica a perícias judiciais e à assistência técnica.",
       "delegar a aplicação dos testes a um estagiário e corrigi-los ela mesma."
     ],
     "gabarito": 2,
@@ -538,10 +538,10 @@
     },
     "enunciado": "Uma psicóloga é contratada por uma empresa e descobre que a política interna prevê demissão de empregados que procuram atendimento em saúde mental, cabendo-lhe identificá-los. Segundo o art. 3º do Código de Ética Profissional do Psicólogo,",
     "alternativas": [
-      "a psicóloga deve cumprir a política, pois o vínculo empregatício impõe subordinação técnica.",
-      "a psicóloga pode cumprir a política se mantiver sigilo sobre os diagnósticos.",
-      "havendo incompatibilidade entre as práticas da organização e os princípios do Código, cabe à psicóloga recusar-se a prestar os serviços e, se pertinente, denunciar ao órgão competente.",
-      "a psicóloga deve comunicar o fato apenas ao Conselho Regional, mantendo suas atividades normalmente.",
+      "a psicóloga deve cumprir a política, pois o vínculo empregatício impõe subordinação técnica às diretrizes definidas pela direção da empresa.",
+      "a psicóloga pode cumprir a política se mantiver sigilo sobre os diagnósticos e restringir as informações repassadas à empresa aos nomes dos empregados atendidos.",
+      "havendo incompatibilidade entre as práticas da organização e o Código, cabe recusar-se a prestar os serviços e, se pertinente, denunciar ao órgão competente.",
+      "a psicóloga deve comunicar o fato apenas ao Conselho Regional, mantendo suas atividades normalmente até a conclusão do processo ético.",
       "a psicóloga fica isenta de responsabilidade ética, que recai apenas sobre a empresa."
     ],
     "gabarito": 2,
@@ -626,11 +626,11 @@
     },
     "enunciado": "Os experimentos de Hawthorne, conduzidos por Elton Mayo e colaboradores na década de 1920, contribuíram para a Psicologia Organizacional ao evidenciar",
     "alternativas": [
-      "que a iluminação é o principal determinante da produtividade industrial.",
+      "que a iluminação é o principal determinante da produtividade industrial, hipótese confirmada nas salas de teste.",
       "a superioridade do pagamento por peça como único fator motivacional.",
-      "a necessidade de eliminar os grupos informais para aumentar a eficiência.",
+      "a necessidade de eliminar os grupos informais para aumentar a eficiência, já que estes restringiam deliberadamente a produção.",
       "que a fadiga física explica integralmente as variações de desempenho.",
-      "a influência de fatores sociais e grupais, como normas informais e atenção recebida, sobre o comportamento e a produtividade dos trabalhadores."
+      "a influência de fatores sociais e grupais, como normas informais e atenção recebida, sobre a produtividade."
     ],
     "gabarito": 4,
     "comentario": "Os estudos de Hawthorne começaram como pesquisa sobre iluminação e produtividade e acabaram revelando o peso dos fatores sociais, das normas informais do grupo e da atenção dada aos trabalhadores. Eles deram origem à Escola de Relações Humanas, em contraponto à visão taylorista do homo economicus. Os resultados contrariaram a ideia de que fatores físicos ou salariais explicariam sozinhos o desempenho.",
@@ -648,10 +648,10 @@
     },
     "enunciado": "A Portaria GM/MS nº 1.999/2023 atualizou a Lista de Doenças Relacionadas ao Trabalho (LDRT). Em relação à saúde mental, essa atualização",
     "alternativas": [
-      "excluiu os transtornos mentais da lista, por serem de origem multifatorial.",
-      "passou a exigir laudo psicológico para o reconhecimento de qualquer doença ocupacional.",
+      "excluiu os transtornos mentais da lista, por serem de origem multifatorial, remetendo seu reconhecimento à perícia do INSS caso a caso.",
+      "passou a exigir laudo psicológico para o reconhecimento de qualquer doença ocupacional, inclusive transtornos mentais e comportamentais como o burnout.",
       "restringiu o reconhecimento de agravos mentais a acidentes de trabalho típicos.",
-      "incluiu transtornos mentais e comportamentais relacionados ao trabalho, como a síndrome de burnout, reconhecendo-os como agravos que podem ter nexo com a atividade laboral.",
+      "incluiu transtornos mentais e comportamentais relacionados ao trabalho, como a síndrome de burnout, que podem ter nexo com a atividade laboral.",
       "transferiu para o empregador a decisão sobre o nexo causal de transtornos mentais."
     ],
     "gabarito": 3,

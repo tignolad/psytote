@@ -12,9 +12,9 @@
     "alternativas": [
       "emitir declaração registrando a crise de ansiedade, uma vez que o pedido partiu da própria paciente.",
       "emitir atestado psicológico com a CID correspondente, já que o comparecimento à sessão é o fato a ser certificado.",
-      "emitir relatório psicológico, documento adequado para comunicar a presença da paciente e a sua condição clínica ao empregador.",
-      "recusar-se a emitir qualquer documento, pois o sigilo profissional impede que o empregador saiba do acompanhamento.",
-      "emitir declaração com o comparecimento, o dia, o horário e a duração do atendimento, sem registrar sintomas ou estados psicológicos."
+      "emitir relatório psicológico, documento adequado para comunicar ao empregador a presença da paciente na sessão e a sua condição clínica naquele dia.",
+      "recusar-se a emitir qualquer documento, pois o sigilo profissional impede que o empregador tome conhecimento do acompanhamento psicoterápico.",
+      "emitir declaração com comparecimento, dia, horário e duração do atendimento, sem registrar sintomas ou estados psicológicos."
     ],
     "gabarito": 4,
     "comentario": "A declaração registra, de forma objetiva e sucinta, comparecimento, acompanhamento e informações sobre tempo, dias e horários (art. 9º). O §1º do art. 9º veda expressamente o registro de sintomas, situações ou estados psicológicos na declaração, mesmo a pedido da pessoa atendida. Para afirmar uma condição psicológica seria necessário atestado, que pressupõe avaliação psicológica. Recusar o documento contraria o dever de fornecê-lo quando solicitado (art. 7º, §6º).",
@@ -32,11 +32,11 @@
     },
     "enunciado": "Segundo a Resolução CFP nº 06/2019, o atestado psicológico pode ser emitido para as finalidades abaixo, À EXCEÇÃO DE UMA. Assinale-a.",
     "alternativas": [
-      "Comunicar a atuação profissional em processos de trabalho em desenvolvimento, gerando orientações e encaminhamentos, sem finalidade diagnóstica.",
+      "Comunicar a atuação profissional em processos de trabalho, gerando orientações e encaminhamentos, sem finalidade diagnóstica.",
       "Justificar faltas e impedimentos da pessoa atendida.",
       "Justificar estar apto ou não para atividades específicas, como manusear arma de fogo, após processo de avaliação psicológica.",
       "Solicitar afastamento e/ou dispensa, subsidiada na afirmação atestada do fato.",
-      "Certificar, com fundamento em diagnóstico psicológico, determinada situação, estado ou funcionamento psicológico."
+      "Certificar, com fundamento em diagnóstico psicológico, determinada situação, estado ou funcionamento psicológico da pessoa atendida."
     ],
     "gabarito": 0,
     "comentario": "O art. 10 define o atestado como documento que certifica, com fundamento em diagnóstico psicológico, situação, estado ou funcionamento psicológico, e lista como fins justificar faltas e impedimentos, aptidão para atividades específicas e afastamento ou dispensa. Comunicar a atuação profissional em processos de trabalho, sem finalidade de diagnóstico, é a definição do relatório psicológico (art. 11).",
@@ -54,11 +54,11 @@
     },
     "enunciado": "Um psicólogo de um CRAS atende uma família em acompanhamento do PAIF e recebe da escola do filho um pedido de documento que descreva o trabalho realizado, com recomendações para a equipe pedagógica. Não houve processo de avaliação psicológica. A modalidade documental adequada é o",
     "alternativas": [
-      "relatório psicológico, que comunica a atuação profissional e pode gerar orientações e encaminhamentos, sem finalidade de produzir diagnóstico.",
-      "laudo psicológico, pois toda comunicação dirigida a outra instituição deve conter diagnóstico e prognóstico.",
+      "relatório psicológico, que comunica a atuação profissional e pode gerar orientações e encaminhamentos, sem finalidade diagnóstica.",
+      "laudo psicológico, pois toda comunicação dirigida a outra instituição deve conter diagnóstico, prognóstico e indicação das técnicas utilizadas.",
       "parecer psicológico, pois a escola formulou uma questão-problema sobre a criança.",
       "atestado psicológico, pois se trata de certificar a situação familiar perante terceiros.",
-      "declaração, que é o único documento que pode ser enviado a instituições sem entrevista devolutiva."
+      "declaração, que é o único documento que pode ser enviado a instituições de ensino sem a realização prévia de entrevista devolutiva."
     ],
     "gabarito": 0,
     "comentario": "O relatório psicológico (art. 11) é exposição descritiva e circunstanciada que comunica a atuação em processos de trabalho já desenvolvidos ou em desenvolvimento, podendo gerar orientações, recomendações e encaminhamentos, sem finalidade diagnóstica. O laudo é resultado de avaliação psicológica, inexistente no caso. O parecer responde a consulta técnica e não decorre de intervenção, e o atestado pressupõe diagnóstico.",
@@ -79,8 +79,8 @@
       "identificação, descrição da demanda, procedimento, análise e conclusão.",
       "identificação, descrição da demanda, análise, conclusão e referências.",
       "identificação, descrição da demanda, procedimento, análise, conclusão e referências.",
-      "título, finalidade, descrição das condições psicológicas e assinatura.",
-      "identificação, histórico clínico, testes aplicados, diagnóstico e prognóstico."
+      "título, identificação, finalidade, descrição das condições psicológicas, local, data e assinatura.",
+      "identificação, histórico clínico, testes aplicados, resultados obtidos, diagnóstico e prognóstico."
     ],
     "gabarito": 2,
     "comentario": "O art. 13, §1º, fixa seis itens para o laudo: identificação, descrição da demanda, procedimento, análise, conclusão e referências. Cinco itens sem referências correspondem ao relatório psicológico e ao relatório multiprofissional (arts. 11 e 12). Cinco itens sem procedimento correspondem ao parecer (art. 14), já que este não resulta de avaliação ou intervenção.",
@@ -98,10 +98,10 @@
     },
     "enunciado": "Um juízo de família encaminha a uma psicóloga com reconhecida experiência em avaliação de crianças um laudo produzido por outro profissional, pedindo uma análise técnica sobre a consistência metodológica desse documento. Sobre o documento a ser produzido, é correto afirmar que",
     "alternativas": [
-      "se trata de laudo psicológico, pois a psicóloga deverá reavaliar a criança para responder à consulta.",
+      "se trata de laudo psicológico, pois a psicóloga deverá reavaliar a criança com novos instrumentos para responder à consulta do juízo.",
       "se trata de relatório psicológico, que dispensa a indicação de referências bibliográficas.",
-      "se trata de parecer psicológico, cuja conclusão deve ser sempre indicativa, nunca conclusiva.",
-      "se trata de parecer psicológico, que não resulta de avaliação ou intervenção psicológica e cujo resultado pode ser indicativo ou conclusivo.",
+      "se trata de parecer psicológico, cuja conclusão deve limitar-se ao caráter indicativo, vedada à parecerista a formulação de resultado conclusivo.",
+      "se trata de parecer psicológico, que não decorre de avaliação ou intervenção e cujo resultado pode ser indicativo ou conclusivo.",
       "se trata de atestado psicológico, pois certifica a validade do documento anterior."
     ],
     "gabarito": 3,
@@ -121,10 +121,10 @@
     "enunciado": "Uma psicóloga encerrou em 2026 o acompanhamento de um adolescente em clínica particular. Quanto ao prazo de guarda dos documentos e do material que os fundamentou, a Resolução CFP nº 06/2019 estabelece",
     "alternativas": [
       "prazo máximo de 5 anos, após o qual o material deve obrigatoriamente ser destruído.",
-      "prazo mínimo de 5 anos, que pode ser ampliado nos casos previstos em lei, por determinação judicial ou quando as circunstâncias o exigirem.",
-      "prazo mínimo de 5 anos apenas para documentos em papel, sendo livre a guarda dos arquivos digitais.",
+      "prazo mínimo de 5 anos, ampliável nos casos previstos em lei, por determinação judicial ou quando as circunstâncias o exigirem.",
+      "prazo mínimo de 5 anos apenas para documentos em papel, ficando a guarda dos arquivos digitais a critério da(o) psicóloga(o).",
       "prazo de 20 anos, contados do último registro, para todo documento psicológico.",
-      "prazo mínimo de 5 anos, sem possibilidade de ampliação, salvo autorização do Conselho Regional."
+      "prazo mínimo de 5 anos, sem possibilidade de ampliação, salvo autorização expressa do Conselho Regional mediante requerimento fundamentado."
     ],
     "gabarito": 1,
     "comentario": "O art. 15 determina que documentos e todo o material que os fundamentou, em forma física ou digital, sejam guardados pelo prazo mínimo de 5 anos, em consonância com a Res. CFP 01/2009. O §2º permite ampliar esse prazo nos casos previstos em lei, por determinação judicial ou quando as circunstâncias exigirem guarda por maior tempo. Não se trata de prazo máximo nem há distinção entre suporte físico e digital.",
@@ -143,10 +143,10 @@
     "enunciado": "Sobre o prazo de validade do conteúdo dos documentos psicológicos, a Resolução CFP nº 06/2019 dispõe que",
     "alternativas": [
       "é de 5 anos para todos os documentos, coincidindo com o prazo de guarda.",
-      "deve constar apenas nos laudos, sendo dispensado nos relatórios e declarações.",
-      "deve ser indicado no último parágrafo do documento e, não havendo definição normativa, é fixado pela(o) psicóloga(o) considerando objetivos, procedimentos, aspectos dinâmicos e conclusões.",
-      "é fixado exclusivamente pelo solicitante do documento, a quem cabe definir por quanto tempo ele será usado.",
-      "é de 6 meses, contados da entrevista devolutiva, para qualquer modalidade documental."
+      "deve constar apenas nos laudos, sendo dispensado nos relatórios e declarações por não decorrerem de avaliação psicológica.",
+      "deve ser indicado no último parágrafo e, sem definição normativa, é fixado pela(o) psicóloga(o) conforme objetivos, procedimentos, aspectos dinâmicos e conclusões.",
+      "é fixado exclusivamente pelo solicitante do documento, a quem cabe definir por quanto tempo ele será utilizado e perante quais instituições poderá ser oficialmente apresentado.",
+      "é de 6 meses, contados da entrevista devolutiva, para qualquer modalidade documental, podendo ser renovado uma única vez pelo Conselho Regional."
     ],
     "gabarito": 2,
     "comentario": "O art. 17 manda indicar o prazo de validade do conteúdo no último parágrafo do documento, considerando a normatização da área, a natureza dinâmica do trabalho e a necessidade de atualização. Se não houver definição normativa, a(o) própria(o) psicóloga(o) o indica, levando em conta objetivos, procedimentos, aspectos subjetivos e dinâmicos e conclusões (§2º). Prazo de validade do conteúdo não se confunde com prazo de guarda de 5 anos.",
@@ -165,10 +165,10 @@
     "enunciado": "Quanto à entrevista devolutiva, assinale a afirmativa correta de acordo com a Resolução CFP nº 06/2019.",
     "alternativas": [
       "É obrigatória para todas as modalidades de documento, inclusive a declaração.",
-      "É dever realizar ao menos uma entrevista devolutiva para a entrega de relatório e de laudo; nos demais documentos, ela é recomendada sempre que solicitada.",
-      "É obrigatória apenas para o laudo, pois somente ele decorre de avaliação psicológica.",
+      "É dever realizar ao menos uma devolutiva para entrega de relatório e laudo; nos demais documentos, ela é recomendada sempre que solicitada.",
+      "É obrigatória apenas para o laudo, pois somente ele decorre de avaliação psicológica, sendo apenas recomendada para o relatório.",
       "É facultativa em qualquer caso, cabendo à(ao) psicóloga(o) decidir conforme sua abordagem.",
-      "É dever para relatório e laudo, e, se não puder ser realizada, o documento não pode ser entregue."
+      "É dever para relatório e laudo, e, se não puder ser realizada, o documento não pode ser entregue até que a devolutiva seja agendada e efetivada."
     ],
     "gabarito": 1,
     "comentario": "O art. 18 impõe o dever de realizar ao menos uma entrevista devolutiva para entrega de relatório e laudo psicológico. Na impossibilidade, a(o) psicóloga(o) deve explicitar suas razões (§1º), o que não impede a entrega. Para os demais documentos, a devolutiva é recomendada sempre que solicitada (§2º).",
@@ -186,11 +186,11 @@
     },
     "enunciado": "Em ação de orientação e fiscalização, a COF verifica que uma psicóloga entrega laudos a empresas contratantes sem nenhum comprovante de recebimento. Segundo a Resolução CFP nº 06/2019, a psicóloga deveria",
     "alternativas": [
-      "enviar os laudos apenas por correio eletrônico, pois o registro do envio dispensa protocolo.",
-      "manter cópia do laudo, sendo o protocolo de entrega mera recomendação de boa prática.",
+      "enviar os laudos apenas por correio eletrônico, pois o registro automático do envio dispensa o protocolo assinado pelo solicitante.",
+      "manter cópia do laudo em seu arquivo, sendo o protocolo de entrega mera recomendação de boa prática, sem caráter obrigatório.",
       "solicitar ao Conselho Regional o registro de cada documento emitido.",
       "entregar os laudos somente ao Poder Judiciário, vedada a entrega a empresas.",
-      "manter protocolo de entrega assinado pelo solicitante, comprovando o recebimento e sua responsabilidade pelo uso e sigilo das informações."
+      "manter protocolo de entrega assinado pelo solicitante, comprovando o recebimento e a responsabilidade pelo uso e sigilo."
     ],
     "gabarito": 4,
     "comentario": "O art. 16 determina a entrega dos documentos ao beneficiário, ao responsável legal e/ou ao solicitante, em entrevista devolutiva. O §1º torna obrigatório manter protocolo de entrega com assinatura do solicitante, comprovando o recebimento e a responsabilidade pelo uso e sigilo. Não se trata de recomendação, nem há registro dos documentos no CRP.",
@@ -210,9 +210,9 @@
     "alternativas": [
       "apenas a última lauda seja assinada, sendo a numeração facultativa.",
       "todas as laudas sejam rubricadas e assinadas, inclusive a última.",
-      "todas as laudas sejam numeradas, rubricadas da primeira à penúltima, com assinatura da psicóloga na última página.",
-      "o documento tenha firma reconhecida em cartório quando destinado a terceiros.",
-      "as laudas sejam numeradas e o documento seja assinado digitalmente, vedada a assinatura física."
+      "todas as laudas sejam numeradas, rubricadas da primeira à penúltima, com assinatura na última página.",
+      "o documento tenha firma reconhecida em cartório sempre que destinado a terceiros, como escolas, empresas ou o Judiciário.",
+      "as laudas sejam numeradas e o documento seja assinado digitalmente com certificado ICP-Brasil, vedada a assinatura física."
     ],
     "gabarito": 2,
     "comentario": "O art. 5º, §8º, determina que toda modalidade de documento tenha todas as laudas numeradas, rubricadas da primeira até a penúltima lauda, e a assinatura da(o) psicóloga(o) na última página. A regra é repetida no encerramento de cada modalidade. Não há exigência de reconhecimento de firma.",
@@ -230,10 +230,10 @@
     },
     "enunciado": "Na redação de um atestado psicológico, a Resolução CFP nº 06/2019 orienta que as informações",
     "alternativas": [
-      "sejam organizadas em itens numerados, com espaço em branco entre eles para eventuais complementações.",
-      "sejam registradas em texto corrido, sem parágrafos; se estes forem necessários, os espaços devem ser preenchidos com traços, para evitar adulteração.",
+      "sejam organizadas em itens numerados, com espaço em branco entre eles para eventuais complementações posteriores pela(o) psicóloga(o).",
+      "sejam registradas em texto corrido, sem parágrafos; se necessários, os espaços devem ser preenchidos com traços, para evitar adulteração.",
       "contenham descrição literal das sessões realizadas, para comprovar o fato atestado.",
-      "sejam registradas em texto corrido, admitindo-se espaços em branco ao final para assinatura de testemunhas.",
+      "sejam registradas em texto corrido, admitindo-se espaços em branco ao final do documento para assinatura de testemunhas e do próprio solicitante.",
       "apresentem obrigatoriamente o código da CID ao lado do nome da pessoa atendida."
     ],
     "gabarito": 1,
@@ -252,10 +252,10 @@
     },
     "enunciado": "Sobre o uso da Classificação Internacional de Doenças (CID) no atestado psicológico, é correto afirmar, conforme a Resolução CFP nº 06/2019, que",
     "alternativas": [
-      "é facultado à(ao) psicóloga(o), quando justificadamente necessário, usar a CID ou outras classificações de diagnóstico científica e socialmente reconhecidas.",
+      "é facultado, quando justificadamente necessário, usar a CID ou outras classificações diagnósticas científica e socialmente reconhecidas.",
       "é vedado, porque a CID é instrumento privativo da Medicina.",
-      "é obrigatório, sem o que o atestado não terá validade para justificar faltas.",
-      "é permitido somente com autorização prévia do Conselho Regional de Psicologia.",
+      "é obrigatório, sem o que o atestado não terá validade para justificar faltas e afastamentos perante o empregador ou a instituição de ensino.",
+      "é permitido somente com autorização prévia do Conselho Regional de Psicologia, mediante justificativa técnica apresentada pela(o) psicóloga(o).",
       "é permitido apenas na declaração, documento destinado a comprovar comparecimento."
     ],
     "gabarito": 0,
@@ -275,9 +275,9 @@
     "enunciado": "Uma psicóloga emitiu, em 2025, atestado psicológico justificando o afastamento de um servidor. Em 2027, o Conselho Regional recebe questionamento sobre o documento. Nos termos da Resolução CFP nº 06/2019,",
     "alternativas": [
       "o Conselho Regional só pode examinar o atestado mediante ordem judicial.",
-      "o Conselho Regional pode, no prazo de até cinco anos, solicitar à psicóloga a apresentação da fundamentação técnico-científica do atestado.",
-      "a psicóloga já pode ter descartado os registros, pois o atestado foi entregue ao servidor.",
-      "o Conselho Regional pode solicitar a fundamentação no prazo de até dois anos da emissão.",
+      "o Conselho Regional pode, no prazo de até cinco anos, solicitar à psicóloga a fundamentação técnico-científica do atestado.",
+      "a psicóloga já pode ter descartado os registros que fundamentaram o atestado, pois o documento original foi entregue ao servidor.",
+      "o Conselho Regional pode solicitar a fundamentação técnico-científica do atestado no prazo de até dois anos, contados de sua emissão.",
       "a fundamentação do atestado é sigilosa e não pode ser exigida pelo Conselho."
     ],
     "gabarito": 1,
@@ -296,11 +296,11 @@
     },
     "enunciado": "Uma psicóloga integra equipe de CAPS e vai elaborar, com assistente social e enfermeira, um relatório multiprofissional. Considerando a Resolução CFP nº 06/2019, assinale a afirmativa correta.",
     "alternativas": [
-      "A análise deve ser única e assinada coletivamente, sem identificar a categoria de cada autor.",
+      "A análise deve ser única e assinada coletivamente pela equipe, sem identificar a categoria profissional de cada autor, para preservar a unidade do documento.",
       "O relatório multiprofissional dispensa a psicóloga de realizar o registro documental do atendimento.",
       "Por ser coletivo, o relatório multiprofissional pode trazer todas as informações obtidas nas sessões, já que a equipe também está sujeita a sigilo.",
-      "A descrição dos procedimentos e técnicas privativas da Psicologia deve vir separada das descritas pelos demais profissionais, e a conclusão pode ser feita em conjunto.",
-      "A conclusão deve ser elaborada separadamente por cada profissional, vedada a conclusão conjunta."
+      "Os procedimentos e técnicas privativos da Psicologia devem vir separados dos descritos pelos demais profissionais, e a conclusão pode ser conjunta.",
+      "A conclusão deve ser elaborada separadamente por cada profissional, vedada a conclusão conjunta mesmo em trabalho de caráter interdisciplinar."
     ],
     "gabarito": 3,
     "comentario": "No relatório multiprofissional, os procedimentos privativos da Psicologia vêm separados dos demais (art. 12, §5º) e cada profissional faz sua análise com subtítulo indicando nome e categoria (§6º). A conclusão pode ser feita em conjunto, sobretudo em trabalho interdisciplinar (§8º). O documento não isenta do registro documental (§7º, I), e só se registram as informações necessárias aos objetivos do trabalho, conforme o sigilo.",
@@ -318,11 +318,11 @@
     },
     "enunciado": "Uma psicóloga atua em equipe multiprofissional de um hospital e concluiu avaliação psicológica de um paciente. A equipe solicita um documento único. Segundo a Resolução CFP nº 06/2019,",
     "alternativas": [
-      "é vedado integrar dados de avaliação psicológica a documentos multiprofissionais.",
-      "o laudo deve ser entregue em envelope lacrado, separado do documento da equipe, em qualquer hipótese.",
-      "a psicóloga deve transcrever integralmente os resultados dos testes no documento único, para garantir transparência à equipe.",
+      "é vedado integrar dados de avaliação psicológica a documentos multiprofissionais, devendo a psicóloga emitir apenas laudo individual dirigido à equipe.",
+      "o laudo deve ser entregue em envelope lacrado, separado do documento da equipe, em qualquer hipótese, ficando seu acesso restrito ao médico responsável pelo paciente e à direção clínica.",
+      "a psicóloga deve transcrever integralmente os resultados dos testes no documento único, incluindo os escores brutos, para garantir transparência à equipe.",
       "o documento único dispensa o item referências, obrigatório apenas em laudos individuais.",
-      "o laudo ou as informações decorrentes da avaliação podem compor documento único, devendo a psicóloga registrar apenas o necessário aos objetivos da atuação multiprofissional e resguardar o sigilo."
+      "o laudo ou as informações da avaliação podem compor documento único, registrando-se apenas o necessário aos objetivos da atuação multiprofissional e resguardado o sigilo."
     ],
     "gabarito": 4,
     "comentario": "O art. 13, V, permite que, em atuação multiprofissional e havendo solicitação, o laudo ou as informações da avaliação componham documento único. Nesse caso, a psicóloga registra as informações necessárias aos objetivos da atuação multiprofissional, preservando o caráter do documento (inciso VI) e o sigilo (inciso VII). Isso está em linha com o art. 12 do Código de Ética, que limita o registro em equipe ao necessário.",
@@ -409,7 +409,7 @@
       "o acesso depende de autorização do responsável técnico do serviço e do Conselho Regional.",
       "o usuário só pode ter acesso a um resumo elaborado pela psicóloga.",
       "o acesso é vedado, pois o prontuário é instrumento de trabalho exclusivo da equipe.",
-      "fica garantido ao usuário ou ao seu representante legal o acesso integral às informações registradas pela psicóloga.",
+      "fica garantido ao usuário ou ao seu representante legal o acesso integral às informações registradas.",
       "o acesso só é possível mediante ordem judicial."
     ],
     "gabarito": 3,
@@ -494,11 +494,11 @@
     },
     "enunciado": "A única psicóloga de uma empresa foi demitida. Não há outro psicólogo contratado no momento, mas a empresa pretende contratar substituto. Segundo o Código de Ética Profissional do Psicólogo, quanto aos arquivos confidenciais, a psicóloga deverá",
     "alternativas": [
-      "entregar os arquivos ao setor de recursos humanos, responsável pela guarda institucional.",
+      "entregar os arquivos ao setor de recursos humanos, responsável pela guarda institucional até a contratação de outro profissional.",
       "levar consigo os arquivos, pois a guarda é responsabilidade pessoal do profissional.",
       "destruir os arquivos, uma vez que o vínculo com a empresa terminou.",
-      "repassar todo o material à(ao) psicóloga(o) que vier a substituí-la ou lacrá-lo para posterior utilização pela(o) substituta(o).",
-      "entregar os arquivos ao Conselho Regional, que decidirá sobre sua destinação."
+      "repassar todo o material a quem vier a substituí-la ou lacrá-lo para posterior utilização pela(o) substituta(o).",
+      "entregar os arquivos ao Conselho Regional, que decidirá sobre sua destinação e os manterá sob guarda até a nova contratação."
     ],
     "gabarito": 3,
     "comentario": "O art. 15, §1º, do Código de Ética determina que, em caso de demissão ou exoneração, a(o) psicóloga(o) repasse todo o material a quem a substituir ou o lacre para uso posterior pela(o) substituta(o). O Conselho Regional só providencia a destinação dos arquivos na extinção do serviço de Psicologia (§2º). Entregar ao RH violaria o sigilo.",
@@ -538,11 +538,11 @@
     },
     "enunciado": "Um psicólogo deseja gravar em vídeo as sessões de psicoterapia de um adolescente de 15 anos para fins de supervisão. À luz da Resolução CFP nº 13/2022, é correto afirmar que",
     "alternativas": [
-      "basta o consentimento verbal do adolescente, pois ele já tem idade para decidir sobre a própria terapia.",
+      "basta o consentimento verbal do adolescente, pois aos 15 anos ele já tem maturidade suficiente para decidir sobre a própria psicoterapia e sobre o uso de sua imagem.",
       "a gravação é vedada em qualquer hipótese quando o atendido é criança ou adolescente.",
       "basta autorização escrita dos responsáveis, sendo dispensável a concordância do adolescente.",
-      "a gravação pode ser feita sem consentimento, desde que mantida sob sigilo e usada apenas na supervisão.",
-      "a gravação depende de consentimento livre, prévio, informado e por escrito dos responsáveis, com subsequente anuência do adolescente, e passa a compor o registro documental."
+      "a gravação pode ser feita sem consentimento, desde que mantida sob sigilo, armazenada em meio criptografado e usada apenas na supervisão clínica.",
+      "a gravação depende de consentimento livre, prévio, informado e escrito dos responsáveis, com subsequente anuência do adolescente, e integra o registro documental."
     ],
     "gabarito": 4,
     "comentario": "O art. 11 da Res. 13/2022 exige que a gravação seja consentida de forma livre, prévia, informada e por escrito, e que seja justificada pela finalidade ou pelo método. Para criança, adolescente ou interdito, o §1º condiciona a gravação ao consentimento dos responsáveis e à subsequente anuência da pessoa atendida. O §3º diz que a gravação compõe o registro documental, e o §2º veda o uso alheio às finalidades estabelecidas.",
@@ -560,11 +560,11 @@
     },
     "enunciado": "A mãe de uma criança em psicoterapia, em litígio de guarda com o ex-companheiro, pede à psicóloga da criança um laudo para o processo judicial e propõe que ela atue como assistente técnica. Conforme a Resolução CFP nº 08/2010 e a Resolução CFP nº 13/2022, a psicóloga",
     "alternativas": [
-      "pode atuar como assistente técnica, desde que não cobre honorários adicionais.",
+      "pode atuar como assistente técnica da mãe, desde que não cobre honorários adicionais e informe ao juízo o vínculo terapêutico prévio com a criança.",
       "pode emitir o laudo, pois o pedido partiu de responsável legal da criança.",
-      "pode atuar como perita, desde que nomeada pelo juiz, pois a nomeação afasta o impedimento.",
-      "está impedida de atuar como perita ou assistente técnica da criança atendida e não deve produzir documentos do processo psicoterápico para a Justiça sem consentimento formal, ressalvadas as declarações.",
-      "deve recusar qualquer documento, inclusive declaração de comparecimento, por se tratar de litígio."
+      "pode atuar como perita, desde que nomeada pelo juiz, pois a nomeação judicial afasta o impedimento decorrente do vínculo terapêutico com a criança.",
+      "está impedida de atuar como perita ou assistente técnica da criança e não deve produzir documentos da psicoterapia para a Justiça sem consentimento formal, salvo declarações.",
+      "deve recusar qualquer documento, inclusive declaração de comparecimento, por se tratar de litígio, cabendo exclusivamente ao juízo nomear perito para avaliar a criança e os genitores."
     ],
     "gabarito": 3,
     "comentario": "O art. 10 da Res. 08/2010 veda ao psicoterapeuta das partes atuar como perito ou assistente técnico das pessoas atendidas ou de terceiros envolvidos no litígio. Também veda produzir documentos do processo psicoterápico para a Justiça sem consentimento formal, exceto declarações; no caso de criança, o consentimento é de ao menos um responsável legal. O art. 6º da Res. 13/2022 reforça a vedação de atuar como perito ou assistente técnico de pessoa atendida, atual ou anteriormente.",
@@ -582,9 +582,9 @@
     },
     "enunciado": "Sobre o documento produzido pelo psicólogo perito em processo judicial, a Resolução CFP nº 08/2010 estabelece que ele deve",
     "alternativas": [
-      "indicar expressamente qual dos genitores deve ficar com a guarda, por ser essa a pergunta do juízo.",
-      "ser elaborado em conjunto com o assistente técnico, que deve acompanhar todas as entrevistas.",
-      "apresentar indicativos pertinentes à investigação que subsidiem o juiz, reconhecendo os limites da atuação e sem adentrar nas decisões, exclusivas do magistrado.",
+      "indicar expressamente qual dos genitores deve ficar com a guarda, por ser essa a pergunta formulada pelo juízo nos quesitos.",
+      "ser elaborado em conjunto com o assistente técnico, que deve acompanhar todas as entrevistas e assinar o documento com o perito.",
+      "apresentar indicativos pertinentes à investigação que subsidiem o juiz, sem adentrar nas decisões, exclusivas do magistrado.",
       "conter a íntegra das entrevistas realizadas, para permitir o contraditório.",
       "dispensar a estrutura dos documentos psicológicos, por seguir o Código de Processo Civil."
     ],
@@ -607,7 +607,7 @@
       "obter previamente autorização do Conselho Regional de Psicologia.",
       "comunicar todas as informações de que dispõe, para que terceiros possam avaliar o risco.",
       "registrar a decisão apenas verbalmente, sem anotá-la no prontuário, para não expor a usuária.",
-      "basear a decisão na busca do menor prejuízo e restringir-se às informações estritamente necessárias.",
+      "basear a decisão na busca do menor prejuízo, restringindo-se às informações estritamente necessárias.",
       "aguardar requisição judicial, única hipótese em que a quebra de sigilo é admitida."
     ],
     "gabarito": 3,
@@ -649,10 +649,10 @@
     "enunciado": "Uma psicóloga recusa-se a fornecer qualquer documento a um ex-paciente que o solicitou para fins pessoais, alegando que \"não costuma emitir documentos\". Com base na Resolução CFP nº 06/2019, essa conduta",
     "alternativas": [
       "é legítima, pois a emissão de documentos é faculdade do profissional.",
-      "contraria o dever de elaborar e fornecer documentos psicológicos sempre que solicitados ou quando finalizado processo de avaliação psicológica.",
-      "é legítima, pois documentos só podem ser emitidos a pedido de autoridades ou equipes.",
+      "contraria o dever de elaborar e fornecer documentos sempre que solicitados ou ao final de processo de avaliação psicológica.",
+      "é legítima, pois documentos só podem ser emitidos a pedido de autoridades, instituições ou equipes, e não para fins pessoais do usuário.",
       "só seria irregular se o ex-paciente estivesse em atendimento atual.",
-      "é correta, pois a entrega de documentos a ex-pacientes violaria o sigilo."
+      "é correta, pois a entrega de documentos a ex-pacientes violaria o sigilo, já encerrado o vínculo terapêutico com a profissional."
     ],
     "gabarito": 1,
     "comentario": "O art. 7º, §6º, afirma ser dever da(o) psicóloga(o) elaborar e fornecer documentos sempre que solicitado ou ao final de processo de avaliação psicológica. O art. 4º, §1º, inclui entre os solicitantes o próprio usuário, e o §4º garante aos envolvidos acesso ao documento produzido. A recusa genérica, portanto, é irregular, devendo a profissional escolher a modalidade adequada à demanda.",

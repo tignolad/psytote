@@ -11,8 +11,8 @@
     "enunciado": "Durante uma reunião de equipe em um serviço público, uma psicóloga presencia um colega fazer comentários depreciativos sobre usuários negros e não se manifesta, por considerar que \"não é assunto da Psicologia\". À luz da Resolução CFP nº 18/2002, a conduta da psicóloga",
     "alternativas": [
       "é adequada, pois a resolução trata apenas do uso de testes psicológicos.",
-      "é adequada, pois o dever de manifestação só existe quando a vítima solicita apoio.",
-      "é inadequada apenas se a psicóloga for a coordenadora técnica do serviço.",
+      "é adequada, pois o dever de manifestação previsto na resolução só existe quando a própria vítima solicita apoio ao profissional.",
+      "é inadequada apenas se a psicóloga for a coordenadora técnica do serviço, a quem a resolução atribui o dever exclusivo de intervir.",
       "é adequada, pois a intervenção caberia exclusivamente ao Ministério Público.",
       "é inadequada, pois os psicólogos, no exercício profissional, não serão coniventes nem se omitirão perante o crime de racismo."
     ],
@@ -32,11 +32,11 @@
     },
     "enunciado": "Convidado para um programa de televisão, um psicólogo afirma que \"certas raças têm, por natureza, menor controle dos impulsos\". Considerando a Resolução CFP nº 18/2002, essa conduta viola a determinação de que os psicólogos",
     "alternativas": [
-      "não participarão de programas de televisão sem autorização prévia do Conselho Regional.",
+      "não participarão de programas de televisão ou rádio que tratem de relações raciais sem autorização prévia do Conselho Regional de Psicologia.",
       "não se pronunciarão nem participarão de pronunciamentos públicos nos meios de comunicação de massa de modo a reforçar o preconceito racial.",
       "só poderão falar publicamente sobre relações raciais se possuírem título de especialista.",
       "deverão apresentar, em qualquer pronunciamento público, as referências bibliográficas utilizadas.",
-      "não poderão abordar o tema da raça em pronunciamentos públicos, por ser assunto alheio à Psicologia."
+      "não poderão abordar o tema da raça em pronunciamentos públicos nos meios de comunicação, por ser assunto alheio ao campo de atuação da Psicologia."
     ],
     "gabarito": 1,
     "comentario": "A Res. CFP 18/2002 veda que psicólogos se pronunciem ou participem de pronunciamentos nos meios de comunicação de massa de modo a reforçar o preconceito racial. O art. 4º também proíbe usar instrumentos ou técnicas psicológicas para criar, manter ou reforçar preconceitos, estigmas, estereótipos ou discriminação racial. O tema não é vedado: a Psicologia deve contribuir para a eliminação do racismo.",
@@ -55,10 +55,10 @@
     "enunciado": "Em um serviço de saúde, usuárias negras relatam receber menos analgesia, esperar mais pelo atendimento e ter suas queixas desacreditadas, sem que haja norma explícita de discriminação. Segundo as referências técnicas do CREPOP sobre relações raciais, esse fenômeno é melhor descrito como",
     "alternativas": [
       "injúria racial, por envolver ofensa individual dirigida à honra da vítima.",
-      "preconceito individual, restrito às atitudes de alguns profissionais isolados.",
-      "racismo institucional, caracterizado pelo fracasso coletivo de uma organização em prover serviço adequado em razão da cor, cultura ou origem étnica, manifestado em normas, práticas e comportamentos cotidianos.",
+      "preconceito individual, restrito às atitudes de alguns profissionais isolados, que deve ser tratado exclusivamente por meio de processos disciplinares contra cada um deles.",
+      "racismo institucional, entendido como o fracasso coletivo de uma organização em prover serviço adequado às pessoas em razão de sua cor, cultura ou origem étnica.",
       "racismo reverso, pois decorre de políticas de ação afirmativa.",
-      "discriminação positiva, por ser uma diferenciação de tratamento justificada pela demanda."
+      "discriminação positiva, por ser uma diferenciação de tratamento justificada pela demanda clínica e pela gravidade de cada caso atendido no serviço de saúde."
     ],
     "gabarito": 2,
     "comentario": "As referências do CREPOP (2017), com base na definição usada no Programa de Combate ao Racismo Institucional, descrevem o racismo institucional como fracasso das instituições em prover serviço profissional adequado às pessoas por sua cor, cultura, origem racial ou étnica. Ele se manifesta em normas, práticas e comportamentos discriminatórios do cotidiano de trabalho, mesmo sem regra explícita. A injúria e o preconceito individual não explicam desigualdades sistemáticas no serviço.",
@@ -77,10 +77,10 @@
     "enunciado": "Na ficha de acolhimento de um serviço do SUS, a psicóloga preenche o campo raça/cor do usuário com base em sua própria percepção, sem perguntar. Segundo a Portaria GM/MS nº 344/2017, o correto seria",
     "alternativas": [
       "registrar a percepção do profissional, por ser mais objetiva que a do usuário.",
-      "deixar o campo em branco, pois a coleta do quesito raça/cor é facultativa no SUS.",
-      "registrar raça/cor apenas em caso de doenças de prevalência étnica.",
+      "deixar o campo em branco, pois a coleta do quesito raça/cor é facultativa no SUS e depende de solicitação expressa do próprio usuário.",
+      "registrar raça/cor apenas em caso de doenças de prevalência étnica, como a doença falciforme, conforme orientação da vigilância epidemiológica.",
       "solicitar documento oficial que comprove a raça/cor declarada.",
-      "registrar o quesito raça/cor conforme a autodeclaração do usuário, usando as categorias do IBGE (branca, preta, parda, amarela e indígena)."
+      "registrar o quesito raça/cor conforme a autodeclaração do usuário, usando as categorias do IBGE."
     ],
     "gabarito": 4,
     "comentario": "A Portaria GM/MS 344/2017 torna obrigatória a coleta e o preenchimento do quesito raça/cor nos sistemas de informação em saúde, respeitando a autodeclaração do usuário. Ela adota as categorias do IBGE: branca, preta, parda, amarela e indígena. Para pessoas impossibilitadas de se autodeclarar, a declaração cabe a familiar ou responsável. A heteroclassificação pelo profissional contraria a norma.",
@@ -120,10 +120,10 @@
     },
     "enunciado": "Nas referências técnicas do CREPOP sobre relações raciais e em autoras como Maria Aparecida Bento, a noção de branquitude refere-se",
     "alternativas": [
-      "à identidade cultural de imigrantes europeus no Brasil.",
+      "à identidade cultural de imigrantes europeus no Brasil, formada pela preservação dos costumes e da língua de origem.",
       "a um transtorno de identidade racial descrito nos manuais diagnósticos.",
-      "ao lugar social de vantagem estrutural ocupado por pessoas brancas, frequentemente não nomeado e tomado como norma, que sustenta pactos de manutenção de privilégios.",
-      "à política de embranquecimento extinta com a abolição, sem efeitos atuais.",
+      "ao lugar social de vantagem estrutural ocupado por pessoas brancas, em geral não nomeado e tomado como norma universal.",
+      "à política de embranquecimento adotada no pós-abolição, que se encerrou com a Constituição de 1988 e não produz efeitos sobre as relações raciais atuais.",
       "ao conjunto de pessoas brancas que praticam injúria racial."
     ],
     "gabarito": 2,
@@ -142,10 +142,10 @@
     },
     "enunciado": "A Lei nº 14.532/2023 alterou a Lei nº 7.716/1989 (Lei do Racismo) e produziu como efeito principal",
     "alternativas": [
-      "a tipificação da injúria racial como crime de racismo, sujeito às mesmas consequências desse crime, como a imprescritibilidade e a inafiançabilidade.",
-      "a revogação do crime de injúria racial, substituído por infração administrativa.",
+      "a tipificação da injúria racial como crime de racismo, tornando-a imprescritível e inafiançável.",
+      "a revogação do crime de injúria racial, substituído por infração administrativa apurada pelos órgãos estaduais de promoção da igualdade racial.",
       "a previsão de que o racismo passe a ser crime de ação penal privada.",
-      "a redução da pena do crime de racismo praticado em ambiente de trabalho.",
+      "a redução da pena do crime de racismo praticado em ambiente de trabalho, com possibilidade de substituição por medidas educativas.",
       "a exclusão dos crimes praticados pela internet do alcance da Lei do Racismo."
     ],
     "gabarito": 0,
@@ -165,7 +165,7 @@
     "enunciado": "Uma igreja convida uma psicóloga para coordenar um retiro voltado à \"cura\" de jovens homossexuais. Segundo a Resolução CFP nº 01/1999, a psicóloga",
     "alternativas": [
       "não deve colaborar com eventos e serviços que proponham tratamento e cura das homossexualidades.",
-      "pode participar, desde que os jovens sejam maiores de idade e tenham consentido.",
+      "pode participar, desde que os jovens sejam maiores de idade, tenham consentido por escrito e possam deixar o retiro a qualquer momento.",
       "pode participar, desde que não use testes psicológicos durante o evento.",
       "pode participar apenas como ouvinte, sem conduzir atividades.",
       "deve participar para garantir que as técnicas usadas sejam científicas."
@@ -208,10 +208,10 @@
     },
     "enunciado": "Uma mulher trans é encaminhada a uma psicóloga por um serviço de saúde para \"avaliar se ela é realmente trans\". À luz da Resolução CFP nº 01/2018, a psicóloga deve",
     "alternativas": [
-      "aplicar testes de personalidade para confirmar ou refutar a identidade de gênero declarada.",
+      "aplicar testes de personalidade padronizados para confirmar ou refutar a identidade de gênero declarada antes de qualquer encaminhamento.",
       "reconhecer e legitimar a autodeterminação da pessoa em relação à sua identidade de gênero, sem atuar de forma patologizante.",
       "realizar psicoterapia por no mínimo dois anos antes de reconhecer a identidade de gênero.",
-      "emitir laudo atestando transtorno de identidade de gênero, condição para qualquer atendimento.",
+      "emitir laudo atestando transtorno de identidade de gênero, condição prevista na resolução para o acesso a qualquer atendimento no serviço de saúde.",
       "recusar o atendimento, pois a identidade de gênero é matéria exclusivamente médica."
     ],
     "gabarito": 1,
@@ -230,11 +230,11 @@
     },
     "enunciado": "A Resolução CFP nº 01/2018, que estabelece normas de atuação em relação às pessoas transexuais e travestis, veda às psicólogas e aos psicólogos",
     "alternativas": [
-      "atender pessoas transexuais menores de 18 anos.",
-      "emitir qualquer documento psicológico a pessoas transexuais e travestis.",
+      "atender pessoas transexuais menores de 18 anos sem a autorização judicial prévia exigida para qualquer acompanhamento psicológico de adolescentes trans.",
+      "emitir qualquer documento psicológico a pessoas transexuais e travestis, cabendo essa atribuição exclusivamente à equipe médica do serviço.",
       "propor, realizar ou colaborar com eventos ou serviços que visem a terapias de conversão, reversão, readequação ou reorientação de identidade de gênero.",
       "acompanhar pessoas trans em processos de transição de gênero no SUS.",
-      "abordar questões de identidade de gênero em psicoterapia, salvo a pedido do usuário."
+      "abordar questões de identidade de gênero em psicoterapia, salvo a pedido expresso do usuário ou de seu responsável legal, registrado em prontuário."
     ],
     "gabarito": 2,
     "comentario": "A Res. CFP 01/2018 veda propor, realizar ou colaborar, sob perspectiva patologizante, com eventos ou serviços privados, públicos, institucionais, comunitários ou promocionais que visem a terapias de conversão, reversão, readequação ou reorientação de identidade de gênero. A resolução não proíbe o atendimento a pessoas trans, inclusive adolescentes, nem a emissão de documentos ou o acompanhamento no processo transexualizador. O que se proíbe é a abordagem patologizante e discriminatória.",
@@ -253,10 +253,10 @@
     "enunciado": "Um paciente bissexual relata ao psicólogo que já ouviu de outros profissionais que sua orientação seria \"uma fase de indecisão\". Segundo a Resolução CFP nº 08/2022, cabe ao psicólogo",
     "alternativas": [
       "investigar se a bissexualidade é uma etapa de transição para a homossexualidade.",
-      "considerar a bissexualidade legítima apenas quando acompanhada de relacionamentos com pessoas de ambos os gêneros.",
+      "considerar a bissexualidade legítima apenas quando acompanhada de relacionamentos estáveis com pessoas de ambos os gêneros ao longo da vida adulta.",
       "encaminhar o paciente a psiquiatra para avaliar transtorno de identidade.",
-      "reconhecer as bissexualidades como legítimas, sem vinculá-las às homossexualidades ou às heterossexualidades, e não reproduzir discursos que as associem a indecisão ou confusão.",
-      "abster-se de qualquer posicionamento, pois a resolução trata apenas de pronunciamentos públicos."
+      "reconhecer as bissexualidades como legítimas, sem vinculá-las às homo ou às heterossexualidades nem associá-las a indecisão ou confusão.",
+      "abster-se de qualquer posicionamento sobre o tema, pois a resolução trata apenas de pronunciamentos públicos e de publicações nos meios de comunicação."
     ],
     "gabarito": 3,
     "comentario": "A Res. CFP 08/2022 manda reconhecer as bissexualidades e demais orientações não monossexuais como legítimas, sem vinculá-las às homossexualidades ou às heterossexualidades (art. 3º, IV). Também veda reproduzir discursos estigmatizantes que as tratem como imoralidade, desvio de caráter, indecisão ou confusão (art. 4º, V). O art. 6º proíbe processos de conversão ou reorientação dessas pessoas.",
@@ -296,7 +296,7 @@
     },
     "enunciado": "O Código de Ética Profissional do Psicólogo estabelece como princípio fundamental que o psicólogo trabalhará visando promover a saúde e a qualidade de vida das pessoas e das coletividades e contribuirá para a eliminação de quaisquer formas de",
     "alternativas": [
-      "conflito entre a Psicologia e as demais profissões da saúde.",
+      "conflito entre a Psicologia e as demais profissões da saúde nos serviços multiprofissionais.",
       "concorrência desleal entre profissionais da Psicologia.",
       "negligência, discriminação, exploração, violência, crueldade e opressão.",
       "questionamento das instituições públicas pelos usuários.",
@@ -319,9 +319,9 @@
     "enunciado": "A noção de compromisso social da Psicologia, desenvolvida no Brasil por autoras como Ana Bock a partir dos anos 1980, caracteriza-se por",
     "alternativas": [
       "restringir a atuação da Psicologia ao consultório particular, garantindo a neutralidade técnica.",
-      "defender uma Psicologia comprometida com a transformação das condições de vida da maioria da população, crítica à neutralidade e à naturalização dos fenômenos psicológicos.",
-      "substituir o conhecimento científico por ações de militância política partidária.",
-      "afirmar que os fenômenos psicológicos são universais e independentes do contexto histórico.",
+      "defender uma Psicologia voltada à transformação das condições de vida da maioria da população, crítica à neutralidade e à naturalização do psiquismo.",
+      "substituir o conhecimento científico por ações de militância político-partidária, subordinando a prática profissional às diretrizes dos movimentos sociais.",
+      "afirmar que os fenômenos psicológicos são universais e independentes do contexto histórico, cabendo à profissão adaptar técnicas importadas à realidade nacional.",
       "transferir para o Estado a responsabilidade exclusiva pelas questões de saúde mental."
     ],
     "gabarito": 1,
@@ -362,11 +362,11 @@
     },
     "enunciado": "Segundo a Lei Brasileira de Inclusão (Lei nº 13.146/2015), considera-se pessoa com deficiência aquela que",
     "alternativas": [
-      "apresenta doença crônica que a incapacita para o trabalho, conforme perícia médica do INSS.",
-      "tem impedimento de longo prazo de natureza física, mental, intelectual ou sensorial, o qual, em interação com uma ou mais barreiras, pode obstruir sua participação plena e efetiva na sociedade em igualdade de condições.",
+      "apresenta doença crônica de natureza física, mental ou sensorial que a incapacita para o trabalho, conforme perícia médica do INSS, revista obrigatoriamente a cada dois anos de benefício.",
+      "tem impedimento de longo prazo de natureza física, mental, intelectual ou sensorial que, em interação com barreiras, pode obstruir sua participação plena e efetiva na sociedade.",
       "possui laudo médico com CID que comprove limitação funcional permanente.",
       "tem limitação física ou sensorial, excluídas as condições mentais e intelectuais.",
-      "apresenta qualquer impedimento, ainda que temporário, independentemente das barreiras do ambiente."
+      "apresenta qualquer impedimento de natureza física, mental, intelectual ou sensorial, ainda que temporário, independentemente das barreiras existentes no ambiente social."
     ],
     "gabarito": 1,
     "comentario": "O art. 2º da LBI adota o modelo social e biopsicossocial: a deficiência resulta da interação entre impedimentos de longo prazo e barreiras. O conceito abrange impedimentos físicos, mentais, intelectuais e sensoriais. A definição não depende só de laudo médico nem de incapacidade para o trabalho.",
@@ -384,11 +384,11 @@
     },
     "enunciado": "Nos termos da Lei Brasileira de Inclusão, a avaliação da deficiência, quando necessária, será",
     "alternativas": [
-      "exclusivamente médica, com base na Classificação Internacional de Doenças.",
-      "biopsicossocial, realizada por equipe multiprofissional e interdisciplinar, considerando impedimentos nas funções e estruturas do corpo, fatores socioambientais, psicológicos e pessoais, limitação no desempenho de atividades e restrição de participação.",
-      "realizada por psicólogo, com aplicação obrigatória de testes de inteligência.",
+      "médica, com base na Classificação Internacional de Doenças, cabendo à equipe multiprofissional apenas complementar o laudo com informações sobre a rotina e o contexto familiar da pessoa avaliada.",
+      "biopsicossocial, por equipe multiprofissional e interdisciplinar, considerando impedimentos do corpo, fatores socioambientais, psicológicos e pessoais, limitação de atividades e restrição de participação.",
+      "realizada por psicólogo, com aplicação obrigatória de testes de inteligência e de funcionamento adaptativo, cujos resultados definem sozinhos o grau da deficiência e o acesso aos benefícios legais.",
       "autodeclaratória, dispensada qualquer avaliação técnica.",
-      "realizada pelo Poder Judiciário, mediante perícia em processo de curatela."
+      "realizada pelo Poder Judiciário, mediante perícia em processo de curatela, na qual o juiz define o grau da deficiência a partir de laudo médico e de estudo social apresentados pelas partes interessadas."
     ],
     "gabarito": 1,
     "comentario": "O art. 2º, §1º, da LBI estabelece que a avaliação da deficiência, quando necessária, será biopsicossocial e feita por equipe multiprofissional e interdisciplinar. Ela considera quatro dimensões: funções e estruturas do corpo, fatores socioambientais, psicológicos e pessoais, limitação no desempenho de atividades e restrição de participação. Essa avaliação supera o modelo exclusivamente biomédico.",
@@ -407,10 +407,10 @@
     "enunciado": "Uma jovem com deficiência intelectual deseja casar-se e ter filhos, mas a família pede à equipe do CRAS orientação para \"impedir legalmente\" esses planos. Segundo a Lei Brasileira de Inclusão,",
     "alternativas": [
       "a deficiência não afeta a plena capacidade civil da pessoa, inclusive para casar-se, exercer direitos sexuais e reprodutivos e decidir sobre o número de filhos.",
-      "a família pode impedir o casamento, pois a deficiência intelectual gera incapacidade civil absoluta.",
+      "a família pode impedir o casamento, pois a deficiência intelectual gera incapacidade civil absoluta, ainda que a pessoa não esteja submetida a curatela.",
       "o casamento depende de autorização judicial prévia em todos os casos de deficiência intelectual.",
       "a esterilização pode ser determinada pela família quando houver risco de gravidez.",
-      "a curatela permite ao curador decidir sobre casamento e sexualidade da curatelada."
+      "a curatela permite ao curador decidir sobre casamento e sexualidade da curatelada, desde que a medida tenha sido decretada judicialmente com base em laudo multiprofissional."
     ],
     "gabarito": 0,
     "comentario": "O art. 6º da LBI garante que a deficiência não afeta a plena capacidade civil, inclusive para casar, exercer direitos sexuais e reprodutivos, decidir sobre o número de filhos e conservar a fertilidade, vedada a esterilização compulsória. Mesmo quando há curatela, ela alcança apenas atos patrimoniais e negociais. Ela não abrange o direito ao próprio corpo, à sexualidade e ao matrimônio (art. 85, §1º).",
@@ -428,11 +428,11 @@
     },
     "enunciado": "Sobre a curatela e a tomada de decisão apoiada após a Lei Brasileira de Inclusão, é correto afirmar que",
     "alternativas": [
-      "a curatela é a regra para pessoas com deficiência mental, devendo ser requerida logo após o diagnóstico.",
-      "a curatela alcança todos os atos da vida civil, inclusive o direito ao voto e ao trabalho.",
+      "a curatela é a regra para pessoas com deficiência mental, devendo ser requerida logo após o diagnóstico e mantida por prazo indeterminado, com revisão apenas a pedido do curador.",
+      "a curatela alcança todos os atos da vida civil, inclusive o direito ao voto e ao trabalho, desde que fixada em sentença com base em perícia multiprofissional.",
       "na tomada de decisão apoiada, o apoiador substitui a vontade da pessoa apoiada.",
-      "a curatela é medida protetiva extraordinária, proporcional e pelo menor tempo possível, restrita aos atos de natureza patrimonial e negocial; na tomada de decisão apoiada, a pessoa elege ao menos duas pessoas idôneas para apoiá-la.",
-      "a tomada de decisão apoiada é imposta pelo juiz a pedido da família, sem participação da pessoa."
+      "a curatela é medida extraordinária e proporcional, restrita a atos patrimoniais e negociais; na tomada de decisão apoiada, a pessoa elege ao menos duas pessoas idôneas para apoiá-la.",
+      "a tomada de decisão apoiada é imposta pelo juiz a pedido da família, sem participação da pessoa, e os apoiadores passam a representá-la em todos os atos patrimoniais e negociais."
     ],
     "gabarito": 3,
     "comentario": "Os arts. 84 e 85 da LBI tratam a curatela como medida extraordinária, proporcional às necessidades e de menor duração possível, limitada a atos patrimoniais e negociais. Ela não alcança corpo, sexualidade, matrimônio, privacidade, educação, saúde, trabalho e voto. A tomada de decisão apoiada (art. 1.783-A do Código Civil) é requerida pela própria pessoa, que elege pelo menos duas pessoas idôneas de sua confiança para apoiá-la, sem substituição da sua vontade.",
@@ -472,10 +472,10 @@
     },
     "enunciado": "Uma empresa contrata uma psicóloga surda e se recusa a disponibilizar intérprete de Libras nas reuniões, embora o custo seja proporcional e não excessivo. Segundo a Lei Brasileira de Inclusão, essa conduta",
     "alternativas": [
-      "configura discriminação em razão da deficiência, pois a recusa de adaptações razoáveis e de tecnologias assistivas está incluída nesse conceito.",
-      "é lícita, pois a empresa cumpriu a cota legal ao contratar a profissional.",
+      "configura discriminação em razão da deficiência, pois o conceito inclui a recusa de adaptações razoáveis e de tecnologias assistivas.",
+      "é lícita, pois a empresa cumpriu a cota legal ao contratar a profissional, e a LBI exige intérprete de Libras apenas em serviços públicos de atendimento ao cidadão.",
       "é lícita, pois adaptações razoáveis são mera recomendação.",
-      "configura apenas barreira arquitetônica, sem implicações de discriminação.",
+      "configura apenas barreira nas comunicações, a ser removida gradualmente, sem implicar discriminação enquanto a empresa mantiver um plano de acessibilidade.",
       "só seria discriminatória se a profissional tivesse sido dispensada."
     ],
     "gabarito": 0,
@@ -495,10 +495,10 @@
     "enunciado": "O termo capacitismo designa",
     "alternativas": [
       "a política de cotas para pessoas com deficiência no mercado de trabalho.",
-      "o conjunto de avaliações que medem a capacidade laboral para fins previdenciários.",
+      "o conjunto de avaliações que medem a capacidade laboral de pessoas com deficiência para fins previdenciários e de concessão do benefício de prestação continuada.",
       "a valorização das habilidades individuais em processos seletivos.",
-      "a discriminação e o preconceito contra pessoas com deficiência, baseados na suposição de que corpos e mentes considerados \"capazes\" são a norma e de que a deficiência seria inferioridade.",
-      "o modelo biopsicossocial de avaliação da deficiência adotado pela LBI."
+      "a discriminação contra pessoas com deficiência, baseada na suposição de que corpos e mentes \"capazes\" são a norma e a deficiência, uma inferioridade.",
+      "o modelo biopsicossocial de avaliação da deficiência adotado pela LBI, que considera a interação entre impedimentos de longo prazo e barreiras do ambiente."
     ],
     "gabarito": 3,
     "comentario": "Capacitismo é a opressão e a discriminação contra pessoas com deficiência, que toma um padrão corporal e funcional como normal e trata a deficiência como falta, tragédia ou incapacidade. Ele se manifesta em atitudes, linguagem, instituições e políticas, inclusive de forma estrutural. A Res. CFP 07/2023 cita o capacitismo entre as violações de direitos que a psicóloga não pode promover.",
@@ -516,11 +516,11 @@
     },
     "enunciado": "Uma psicóloga de um hospital público atende um homem com deficiência física que apresenta sinais de agressões recorrentes praticadas pelo cuidador. Segundo a Lei Brasileira de Inclusão, os casos de suspeita ou confirmação de violência contra pessoa com deficiência",
     "alternativas": [
-      "serão objeto de notificação compulsória pelos serviços de saúde públicos e privados à autoridade policial e ao Ministério Público, além dos Conselhos dos Direitos da Pessoa com Deficiência.",
-      "só podem ser comunicados se a vítima autorizar expressamente, em qualquer circunstância.",
+      "serão notificados compulsoriamente pelos serviços de saúde públicos e privados à autoridade policial, ao Ministério Público e aos Conselhos dos Direitos da Pessoa com Deficiência.",
+      "só podem ser comunicados se a vítima autorizar expressamente, em qualquer circunstância, pois a LBI faz a autonomia da pessoa com deficiência prevalecer sobre a notificação aos órgãos de proteção.",
       "devem ser comunicados apenas à família, para que esta tome as providências.",
-      "devem ser notificados somente quando confirmados por perícia médica.",
-      "são de comunicação facultativa, cabendo ao profissional avaliar a conveniência."
+      "devem ser notificados somente quando confirmados por perícia médica, cabendo ao serviço de saúde encaminhar a vítima ao Instituto Médico Legal antes de qualquer comunicação.",
+      "são de comunicação facultativa, cabendo ao profissional avaliar a conveniência, salvo quando a vítima estiver sob curatela, hipótese em que a comunicação vai ao juízo competente."
     ],
     "gabarito": 0,
     "comentario": "O art. 26 da LBI prevê a notificação compulsória, pelos serviços de saúde públicos e privados, dos casos de suspeita ou confirmação de violência contra pessoa com deficiência. A notificação vai à autoridade policial, ao Ministério Público e aos Conselhos dos Direitos da Pessoa com Deficiência. A suspeita basta, sem exigência de confirmação pericial. A comunicação deve se limitar ao estritamente necessário, conforme o Código de Ética.",
@@ -560,11 +560,11 @@
     },
     "enunciado": "Uma psicóloga de UBS atende uma mulher com indícios de violência doméstica. Segundo a Lei nº 10.778/2003, com a redação da Lei nº 13.931/2019,",
     "alternativas": [
-      "a notificação só é obrigatória em serviços públicos e quando houver confirmação da violência.",
+      "a notificação só é obrigatória em serviços públicos e quando houver confirmação da violência, devendo a comunicação à autoridade policial ocorrer em até 48 horas após a alta da paciente.",
       "a comunicação à autoridade policial depende de representação formal da vítima.",
-      "os casos com indícios ou confirmação de violência contra a mulher atendida em serviços de saúde públicos e privados são de notificação compulsória e devem ser comunicados à autoridade policial em até 24 horas.",
-      "a notificação deve ser feita em até 30 dias, apenas para fins estatísticos.",
-      "a notificação é obrigatória apenas para violência física, excluídas as violências psicológica e sexual."
+      "os casos com indícios ou confirmação de violência atendidos em serviços de saúde públicos e privados são de notificação compulsória e devem ser comunicados à autoridade policial em até 24 horas.",
+      "a notificação deve ser feita em até 30 dias, apenas para fins estatísticos, sem comunicação à autoridade policial, para preservar o sigilo e a confiança no serviço.",
+      "a notificação é obrigatória apenas para violência física, excluídas as violências psicológica e sexual, que dependem de registro voluntário de boletim de ocorrência pela própria vítima."
     ],
     "gabarito": 2,
     "comentario": "A Lei 10.778/2003 institui a notificação compulsória dos casos de violência contra a mulher atendida em serviços de saúde públicos e privados. A Lei 13.931/2019 acrescentou que os casos com indícios ou confirmação de violência devem ser comunicados à autoridade policial em até 24 horas, para as providências cabíveis e para fins estatísticos. O conceito abrange violência física, sexual e psicológica, e a psicóloga deve limitar a comunicação ao estritamente necessário.",
@@ -583,10 +583,10 @@
     "enunciado": "Em psicoterapia, uma adolescente de 13 anos revela à psicóloga que vem sendo abusada sexualmente por um vizinho. Considerando o ECA e a Resolução CFP nº 13/2022, a psicóloga deve",
     "alternativas": [
       "manter sigilo absoluto, pois a revelação ocorreu em contexto psicoterápico.",
-      "aguardar que a própria adolescente decida denunciar, respeitando sua autonomia.",
+      "aguardar que a própria adolescente decida denunciar, respeitando sua autonomia, já que, a partir dos 12 anos, a comunicação depende de seu consentimento.",
       "confrontar o vizinho para confirmar a veracidade do relato antes de comunicar.",
-      "preencher o formulário de notificação obrigatória e comunicar o caso ao Conselho Tutelar ou à autoridade competente, prestando apenas as informações estritamente necessárias.",
-      "comunicar apenas aos pais, que decidirão sobre o registro de ocorrência."
+      "preencher o formulário de notificação e comunicar o caso ao Conselho Tutelar ou à autoridade competente, com as informações estritamente necessárias.",
+      "comunicar apenas aos pais, que decidirão sobre o registro de ocorrência, pois a Resolução CFP nº 13/2022 limita a quebra de sigilo aos responsáveis legais."
     ],
     "gabarito": 3,
     "comentario": "O art. 13 do ECA impõe a comunicação ao Conselho Tutelar dos casos de suspeita ou confirmação de violência contra criança ou adolescente. O art. 13 da Res. CFP 13/2022 determina que, diante de informação sobre violência ou suspeita, o psicoterapeuta preencha o formulário de notificação do Ministério da Saúde e o encaminhe ao Conselho Tutelar ou à autoridade competente. A quebra de sigilo segue o menor prejuízo e o mínimo necessário (art. 10 do Código de Ética e art. 10 da Res. 13/2022).",
@@ -604,11 +604,11 @@
     },
     "enunciado": "Segundo o Estatuto da Pessoa Idosa (Lei nº 10.741/2003), os casos de suspeita ou confirmação de violência praticada contra pessoas idosas",
     "alternativas": [
-      "devem ser comunicados apenas quando a pessoa idosa for considerada incapaz.",
+      "devem ser comunicados apenas quando a pessoa idosa for considerada incapaz, mediante sentença de interdição, cabendo nos demais casos à própria vítima a decisão de denunciar.",
       "dependem de autorização da família para serem comunicados.",
-      "são de comunicação facultativa, exceto em instituições de longa permanência.",
+      "são de comunicação facultativa, exceto em instituições de longa permanência, nas quais a notificação cabe ao responsável técnico e é dirigida à vigilância sanitária do município.",
       "devem ser comunicados exclusivamente ao Conselho Tutelar.",
-      "serão objeto de notificação compulsória pelos serviços de saúde públicos e privados à autoridade sanitária, sendo também comunicados a órgãos como autoridade policial, Ministério Público e Conselhos da Pessoa Idosa."
+      "serão notificados compulsoriamente pelos serviços de saúde públicos e privados à autoridade sanitária e comunicados a órgãos como a autoridade policial e o Ministério Público."
     ],
     "gabarito": 4,
     "comentario": "O art. 19 do Estatuto da Pessoa Idosa prevê a notificação compulsória, pelos serviços de saúde públicos e privados, dos casos de suspeita ou confirmação de violência contra pessoa idosa. A notificação vai à autoridade sanitária e a comunicação também vai à autoridade policial, ao Ministério Público e aos Conselhos da Pessoa Idosa. A norma não depende de anuência familiar. O Conselho Tutelar atua na proteção de crianças e adolescentes.",
@@ -626,7 +626,7 @@
     },
     "enunciado": "Uma criança vítima de violência sexual é obrigada a relatar os fatos repetidas vezes, em diferentes serviços, sem articulação entre eles, o que lhe causa sofrimento adicional. A Lei nº 13.431/2017 classifica essa situação como violência",
     "alternativas": [
-      "psicológica, por ser praticada pelos familiares da vítima.",
+      "psicológica, por ser praticada pelos familiares da vítima ao exigirem que ela repita o relato para diferentes pessoas.",
       "patrimonial, por gerar custos à família com deslocamentos.",
       "sexual, por ter relação com o fato originalmente denunciado.",
       "institucional, praticada por instituição pública ou conveniada, inclusive quando gera revitimização.",
@@ -648,11 +648,11 @@
     },
     "enunciado": "Uma psicóloga, adepta de determinada religião, comenta com um usuário praticante do candomblé que sua \"religião atrai coisas ruins\" e sugere que ele \"procure outra fé\". À luz da Resolução CFP nº 07/2023, essa conduta",
     "alternativas": [
-      "é permitida, por se tratar de liberdade de expressão religiosa da profissional.",
+      "é permitida, por se tratar de liberdade de expressão religiosa da profissional, garantida pela Constituição, desde que o usuário não manifeste desconforto.",
       "é permitida se feita fora do horário da sessão.",
       "só seria vedada se a psicóloga cobrasse pela orientação religiosa.",
-      "é vedada, pois a psicóloga não pode induzir a crenças religiosas nem promover ou legitimar práticas de intolerância e racismo religioso contra comunidades de matriz africana.",
-      "é vedada apenas em serviços públicos, por força da laicidade do Estado."
+      "é vedada, pois a psicóloga não pode induzir a crenças religiosas nem legitimar intolerância e racismo religioso contra comunidades de matriz africana.",
+      "é vedada apenas em serviços públicos, por força da laicidade do Estado, sendo admitida em consultório particular quando a abordagem declarada for confessional."
     ],
     "gabarito": 3,
     "comentario": "O art. 3º da Res. CFP 07/2023 veda induzir a crenças religiosas ou a qualquer tipo de preconceito no exercício profissional (inciso II). Também veda exercer ação que promova ou legitime intolerância e racismo religioso contra indivíduos e comunidades de matriz africana, indígenas e tradicionais (inciso VII). A vedação vale em qualquer contexto de exercício profissional, público ou privado.",

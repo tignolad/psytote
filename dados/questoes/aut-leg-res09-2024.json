@@ -1,0 +1,288 @@
+[
+  {
+    "id": "aut-leg-res09-2024-001",
+    "disciplina": "legislacao",
+    "assunto": "leg-res09-2024",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://abmes.org.br/arquivos/legislacoes/Resolucao-cfp-009-2024-07-18.pdf"
+    },
+    "enunciado": "A Resolução CFP nº 9/2024 regulamenta o exercício profissional da Psicologia mediado por Tecnologias Digitais da Informação e da Comunicação (TDICs) e revogou",
+    "alternativas": [
+      "a Resolução CFP nº 13/2022, sobre psicoterapia.",
+      "as Resoluções CFP nº 01/2009 e nº 06/2019.",
+      "as Resoluções CFP nº 11/2018 e nº 04/2020.",
+      "a Resolução CFP nº 12/2005, apenas.",
+      "a Resolução CFP nº 10/2017, sobre orientação e fiscalização."
+    ],
+    "gabarito": 2,
+    "comentario": "Art. 9º da Res. CFP 9/2024: ficam revogadas a Res. CFP 11/2018 (que regulamentava a prestação de serviços por TICs) e a Res. CFP 04/2020 (regras durante a pandemia de Covid-19). As Res. 13/2022, 01/2009, 06/2019 e 10/2017 continuam vigentes.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res09-2024-002",
+    "disciplina": "legislacao",
+    "assunto": "leg-res09-2024",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://abmes.org.br/arquivos/legislacoes/Resolucao-cfp-009-2024-07-18.pdf"
+    },
+    "enunciado": "De acordo com a Resolução CFP nº 9/2024, considera-se exercício profissional da Psicologia mediado por TDICs",
+    "alternativas": [
+      "toda atividade profissional exercida pela psicóloga que envolva emprego eventual ou frequente das TDICs para as comunicações entre as partes envolvidas no serviço, incluindo comunicação e manifestação perante os usuários e emprego de métodos e técnicas dependentes de servidores remotos.",
+      "apenas a psicoterapia realizada por videochamada síncrona.",
+      "apenas os atendimentos realizados integralmente a distância, excluídas as comunicações eventuais.",
+      "somente a aplicação de testes psicológicos informatizados.",
+      "toda atividade da psicóloga em redes sociais, ainda que não se apresente como psicóloga."
+    ],
+    "gabarito": 0,
+    "comentario": "Art. 2º da Res. CFP 9/2024: a definição é ampla — emprego eventual ou frequente das TDICs nas comunicações entre as partes, comunicação perante usuários e métodos dependentes de servidores remotos, entre outras, quando a profissional se apresenta como psicóloga ou se deixa representar pela profissão. O art. 3º reforça que abrange toda interação profissional que se sirva das TDICs, síncrona ou assíncrona.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res09-2024-003",
+    "disciplina": "legislacao",
+    "assunto": "leg-res09-2024",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://abmes.org.br/arquivos/legislacoes/Resolucao-cfp-009-2024-07-18.pdf"
+    },
+    "enunciado": "Uma psicóloga pretende aplicar, em atendimento remoto, um teste psicológico. Segundo a Resolução CFP nº 9/2024,",
+    "alternativas": [
+      "é vedada a aplicação de qualquer teste psicológico em ambiente remoto.",
+      "é reconhecida a utilização de instrumentos psicológicos regulamentados, devendo os testes psicológicos ter parecer favorável do SATEPSI, com padronização e normatização específica para tal finalidade.",
+      "qualquer teste com parecer favorável do SATEPSI pode ser aplicado remotamente, independentemente de normatização para essa modalidade.",
+      "a aplicação remota depende de autorização prévia do Conselho Regional para cada caso.",
+      "os testes podem ser aplicados remotamente desde que o resultado seja confirmado presencialmente."
+    ],
+    "gabarito": 1,
+    "comentario": "Art. 2º, parágrafo único, da Res. CFP 9/2024: é reconhecida a utilização de instrumentos regulamentados, e os testes psicológicos devem ter parecer favorável do SATEPSI com padronização e normatização específica para tal finalidade (uso mediado por TDICs). Não basta parecer favorável genérico, e não há vedação absoluta.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res09-2024-004",
+    "disciplina": "legislacao",
+    "assunto": "leg-res09-2024",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://abmes.org.br/arquivos/legislacoes/Resolucao-cfp-009-2024-07-18.pdf"
+    },
+    "enunciado": "Conforme a Resolução CFP nº 9/2024, antes de utilizar ferramentas digitais nos serviços prestados, a psicóloga deve avaliar sua viabilidade e impactos. NÃO está entre os aspectos a serem especialmente considerados",
+    "alternativas": [
+      "as condições contextuais e tecnológicas de confidencialidade e privacidade das informações.",
+      "as competências e habilidades dos usuários dos serviços no manejo das TDICs empregadas.",
+      "os meios para atender ou direcionar as demandas de urgência e emergência durante a prestação do serviço.",
+      "os riscos inerentes à saúde envolvidos no uso de TDICs, como sedentarismo, exposição à luz e comportamentos aditivos.",
+      "a preferência pessoal da psicóloga por determinada plataforma comercial."
+    ],
+    "gabarito": 4,
+    "comentario": "Art. 4º da Res. CFP 9/2024: devem ser considerados, entre outros, confidencialidade e privacidade (I), competências da psicóloga e dos usuários no manejo das TDICs (II e III), compatibilidade das TDICs com o serviço (IV), produções científicas e éticas (V), meios para urgência e emergência (VI), limites legais e de jurisdição (VII), características das pessoas e instituições (VIII e IX), identificação das partes (X) e riscos à saúde (XI). Preferência pessoal por plataforma não é critério.",
+    "dificuldade": 1,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res09-2024-005",
+    "disciplina": "legislacao",
+    "assunto": "leg-res09-2024",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://abmes.org.br/arquivos/legislacoes/Resolucao-cfp-009-2024-07-18.pdf"
+    },
+    "enunciado": "Uma psicóloga atende remotamente um paciente que relata ideação suicida com plano estruturado. À luz da Resolução CFP nº 9/2024, nessa situação a psicóloga deve",
+    "alternativas": [
+      "interromper imediatamente o atendimento, pois é vedado o atendimento remoto em situações de risco.",
+      "manter exclusivamente o atendimento remoto, por respeito ao vínculo terapêutico, sem registro das articulações.",
+      "considerar a possibilidade de serviço concomitante ou de encaminhamento para serviço simultâneo na rede de proteção presencial, ou para serviços exclusivamente presenciais, registrando no prontuário todas as ações, notificações e articulações realizadas.",
+      "comunicar o fato ao Conselho Regional, que decidirá sobre a continuidade do atendimento.",
+      "solicitar ao paciente que procure por conta própria um serviço de urgência, encerrando o vínculo."
+    ],
+    "gabarito": 2,
+    "comentario": "Art. 5º da Res. CFP 9/2024: em situações de risco de morte/integridade, violência ou violação de direitos (I), ameaça ou privação de liberdade (II) e urgência e emergência (III), a psicóloga deve considerar serviço concomitante ou encaminhamento para a rede presencial ou serviços exclusivamente presenciais; todas as ações, notificações e articulações devem ser registradas no prontuário ou registro documental (§ 2º). Não há vedação absoluta ao atendimento remoto.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res09-2024-006",
+    "disciplina": "legislacao",
+    "assunto": "leg-res09-2024",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://abmes.org.br/arquivos/legislacoes/Resolucao-cfp-009-2024-07-18.pdf"
+    },
+    "enunciado": "Uma psicóloga com inscrição principal no CRP-05 (Rio de Janeiro) passa a atender, exclusivamente por videochamada, pacientes que residem em Minas Gerais e na Bahia. Segundo a Resolução CFP nº 9/2024,",
+    "alternativas": [
+      "ela pode oferecer o serviço mediado por TDICs independentemente do estado da inscrição principal, ficando dispensada da obrigatoriedade de inscrição secundária.",
+      "ela deve obter inscrição secundária nos CRPs de Minas Gerais e da Bahia.",
+      "ela deve transferir sua inscrição principal para o estado onde reside a maioria dos pacientes.",
+      "ela só pode atender pacientes residentes no Rio de Janeiro.",
+      "ela deve obter autorização do Conselho Federal para atender em mais de uma jurisdição."
+    ],
+    "gabarito": 0,
+    "comentario": "Art. 6º, caput e § 1º, da Res. CFP 9/2024: os limites para orientação, fiscalização e atuação restringem-se ao território nacional, podendo a psicóloga, independentemente do estado da inscrição principal, oferecer serviço mediado por TDICs, ficando dispensada da inscrição secundária. A inscrição secundária do Decreto 79.822/77 (art. 43, § 2º) continua exigível para o exercício presencial em outra jurisdição.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res09-2024-007",
+    "disciplina": "legislacao",
+    "assunto": "leg-res09-2024",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://abmes.org.br/arquivos/legislacoes/Resolucao-cfp-009-2024-07-18.pdf"
+    },
+    "enunciado": "Uma psicóloga brasileira mudou-se para Portugal e pretende continuar atendendo, por videochamada, alguns pacientes. De acordo com a Resolução CFP nº 9/2024,",
+    "alternativas": [
+      "a psicóloga pode atender livremente, pois a inscrição no CRP tem validade internacional.",
+      "a psicóloga deve obter inscrição secundária no CRP do Distrito Federal para atender do exterior.",
+      "a psicóloga deve cancelar sua inscrição no Brasil, sob pena de processo ético.",
+      "a psicóloga fica submetida exclusivamente às normas do CFP, dispensado o cumprimento da legislação local.",
+      "os limites legais para fins de orientação, fiscalização e atuação profissional restringem-se ao exercício praticado exclusivamente em território nacional, e profissionais que residam em outros países devem obedecer à legislação local."
+    ],
+    "gabarito": 4,
+    "comentario": "Art. 6º e § 2º da Res. CFP 9/2024: os limites de orientação, fiscalização e atuação restringem-se ao exercício praticado em território nacional, e profissionais residentes em outros países devem obedecer à legislação local. O art. 4º, VII, 'a', também manda considerar os limites legais quanto às fronteiras entre países.",
+    "dificuldade": 3,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res09-2024-008",
+    "disciplina": "legislacao",
+    "assunto": "leg-res09-2024",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://abmes.org.br/arquivos/legislacoes/Resolucao-cfp-009-2024-07-18.pdf"
+    },
+    "enunciado": "Segundo a Resolução CFP nº 9/2024, os contratos de prestação de serviços psicológicos mediados por TDICs",
+    "alternativas": [
+      "devem ser obrigatoriamente escritos e com firma reconhecida.",
+      "podem ser escritos ou verbais e devem abarcar, entre outros pontos, cláusula de eleição de foro fixada sob a jurisdição em que a psicóloga possui inscrição principal.",
+      "podem ser escritos ou verbais, com foro eleito no domicílio do usuário do serviço.",
+      "dispensam informação sobre os recursos tecnológicos utilizados, por se tratar de questão técnica.",
+      "devem ser registrados no Conselho Regional antes do início do atendimento."
+    ],
+    "gabarito": 1,
+    "comentario": "Art. 7º da Res. CFP 9/2024: contratos escritos ou verbais, abrangendo características do trabalho, direitos e deveres (I), recursos tecnológicos utilizados e suas especificidades (II), cláusula de eleição de foro na jurisdição da inscrição principal da psicóloga (III) e dados da empresa ou instituição, quando houver (IV). Pelo parágrafo único, a psicóloga deve especificar os recursos usados para garantir o sigilo e informar o cliente.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res09-2024-009",
+    "disciplina": "legislacao",
+    "assunto": "leg-res09-2024",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://abmes.org.br/arquivos/legislacoes/Resolucao-cfp-009-2024-07-18.pdf"
+    },
+    "enunciado": "Considere as afirmativas sobre a Resolução CFP nº 9/2024.\nI. A psicóloga está obrigada a especificar quais recursos tecnológicos utiliza para garantir o sigilo das informações e a informar o cliente sobre isso.\nII. Durante o serviço prestado de forma remota, devem ser garantidos os meios de demonstrar a identidade da profissional, conforme o Código de Ética.\nIII. Na prestação de serviços mediados por TDICs, a psicóloga fica dispensada das obrigações de produção, guarda de documentos e registro previstas em outras resoluções.\nEstá correto o que se afirma em",
+    "alternativas": [
+      "I, apenas.",
+      "II, apenas.",
+      "I e II, apenas.",
+      "II e III, apenas.",
+      "I, II e III."
+    ],
+    "gabarito": 2,
+    "comentario": "I correta: art. 7º, parágrafo único, da Res. CFP 9/2024. II correta: art. 4º, X. III errada: o art. 8º determina que a psicóloga deve atender e cumprir as demais legislações e resoluções, inclusive as obrigações de produção, guarda de documentos e registro decorrentes dos serviços.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res09-2024-010",
+    "disciplina": "legislacao",
+    "assunto": "leg-res09-2024",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://abmes.org.br/arquivos/legislacoes/Resolucao-cfp-009-2024-07-18.pdf"
+    },
+    "enunciado": "Segundo a Resolução CFP nº 9/2024, quando solicitado o serviço prestado de forma remota, a psicóloga deve verificar as características das pessoas envolvidas nos serviços quanto a",
+    "alternativas": [
+      "deficiências física, mental, intelectual e sensorial; diferenças culturais e linguísticas; e faixa etária.",
+      "renda familiar, escolaridade e religião.",
+      "estado civil, profissão e domicílio eleitoral.",
+      "orientação sexual, identidade de gênero e convicções políticas.",
+      "histórico de processos judiciais e antecedentes criminais."
+    ],
+    "gabarito": 0,
+    "comentario": "Art. 4º, VIII, da Res. CFP 9/2024: a psicóloga deve verificar, nas pessoas envolvidas, deficiências física, mental, intelectual e sensorial (a), diferenças culturais e linguísticas (b) e faixa etária (c). Pelo inciso IX, deve verificar também as características físicas e estruturais das instituições que solicitam os serviços remotos.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res09-2024-011",
+    "disciplina": "legislacao",
+    "assunto": "leg-res09-2024",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://abmes.org.br/arquivos/legislacoes/Resolucao-cfp-009-2024-07-18.pdf"
+    },
+    "enunciado": "Conforme a Resolução CFP nº 9/2024, é responsabilidade da profissional",
+    "alternativas": [
+      "obter aprovação prévia do CRP para cada plataforma digital utilizada.",
+      "transferir à empresa da plataforma a responsabilidade pelo sigilo das informações.",
+      "avaliar a viabilidade e adequação das TDICs às atividades, em cumprimento ao Código de Ética e em atenção às evidências científicas e de prática profissional, bem como responder pelas manifestações públicas sobre os serviços prestados.",
+      "utilizar exclusivamente plataformas certificadas pelo Conselho Federal.",
+      "limitar-se à comunicação síncrona, vedada a assíncrona."
+    ],
+    "gabarito": 2,
+    "comentario": "Art. 3º, §§ 1º e 2º, da Res. CFP 9/2024: é responsabilidade da profissional avaliar a viabilidade e adequação das TDICs, em cumprimento ao Código de Ética e atenta às evidências científicas e de prática, e responder pelas manifestações públicas sobre os serviços (divulgação, propaganda, conteúdos ou atendimentos). A Resolução admite comunicação síncrona ou assíncrona (art. 3º, I) e não prevê certificação de plataformas pelo CFP.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res09-2024-012",
+    "disciplina": "legislacao",
+    "assunto": "leg-res09-2024",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://abmes.org.br/arquivos/legislacoes/Resolucao-cfp-009-2024-07-18.pdf"
+    },
+    "enunciado": "Um psicólogo atende remotamente usuários de uma empresa de saúde digital, na condição de profissional vinculado à pessoa jurídica. De acordo com a Resolução CFP nº 9/2024, o contrato de prestação dos serviços deve incluir",
+    "alternativas": [
+      "a cópia do contrato de trabalho do psicólogo com a empresa.",
+      "os dados da empresa ou instituição à qual o profissional responsável pela prestação de serviços psicológicos está vinculado.",
+      "a tabela de remuneração do psicólogo pela empresa.",
+      "o número de registro da empresa na Junta Comercial, dispensados os demais dados.",
+      "a autorização do CRP para o funcionamento da plataforma."
+    ],
+    "gabarito": 1,
+    "comentario": "Art. 7º, IV, da Res. CFP 9/2024: o contrato deve abarcar os dados da empresa ou instituição a que o profissional está vinculado, quando a prestação ocorrer por meio de Pessoa Jurídica ou instituição. Remuneração do psicólogo e contrato de trabalho não são exigidos.",
+    "dificuldade": 2,
+    "anulada": false
+  },
+  {
+    "id": "aut-leg-res09-2024-013",
+    "disciplina": "legislacao",
+    "assunto": "leg-res09-2024",
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://abmes.org.br/arquivos/legislacoes/Resolucao-cfp-009-2024-07-18.pdf"
+    },
+    "enunciado": "A Resolução CFP nº 9/2024 entrou em vigor",
+    "alternativas": [
+      "na data de sua publicação.",
+      "após 60 dias da data de sua publicação.",
+      "após 90 dias da data de sua publicação.",
+      "após 30 dias da data de sua publicação.",
+      "em 1º de janeiro do ano seguinte ao de sua publicação."
+    ],
+    "gabarito": 3,
+    "comentario": "Art. 10 da Res. CFP 9/2024: 'Esta Resolução entra em vigor após 30 dias da data de sua publicação' (publicada no DOU de 30/07/2024).",
+    "dificuldade": 2,
+    "anulada": false
+  }
+]
