@@ -562,6 +562,7 @@ telas.materiais = () => {
           <span class="suave pequeno">${contaAssunto(a.id)}q${r.n ? ` · ${pct(r.ac, r.n)}%` : ''} ›</span></div>`;
       }).join('')}</div>`).join('')}`;
 };
+const TIPO_LINK = { lei: 'Lei', resolucao: 'Resolução', cartilha: 'Cartilha', video: 'Vídeo', apostila: 'Apostila', outro: 'Site' };
 function desempenhoAssunto(a) {
   let n = 0, ac = 0;
   for (const [id, r] of Object.entries(E.resp)) if (Q[id]?.a === a) { n += r.n; ac += r.ac; }
@@ -576,7 +577,7 @@ telas.materia = a => {
     <div class="cartao"><h2>${esc(as.nome)}</h2><p class="suave pequeno">${esc(DISC[as.disciplina].nome)}</p>
       <div class="linha-botoes"><button class="botao" data-acao="praticar" data-a="${a}" ${n ? '' : 'disabled'}>Praticar · ${n} questões</button></div></div>
     ${m.dicas_fgv ? `<div class="aviso"><b>Como a FGV cobra:</b> ${esc(m.dicas_fgv)}</div>` : ''}
-    ${(m.links || []).length ? `<div class="cartao links"><h2>Material</h2>${m.links.map(l => `<a href="${esc(l.url)}" target="_blank" rel="noopener">${esc(l.titulo)} <small>${esc(l.tipo || '')} ↗</small></a>`).join('')}</div>` : ''}
+    ${(m.links || []).length ? `<div class="cartao links"><h2>Material</h2>${m.links.map(l => `<a href="${esc(l.url)}" target="_blank" rel="noopener">${esc(l.titulo)} <small>${esc(TIPO_LINK[l.tipo] || 'Site')} ↗</small></a>`).join('')}</div>` : ''}
     ${m.resumo_md ? `<div class="cartao md"><h2>Resumo</h2>${md(m.resumo_md)}</div>` : '<p class="suave">Resumo em preparação.</p>'}`;
 };
 

@@ -1,0 +1,1186 @@
+{
+  "assuntos": {
+    "pt-interpretacao": {
+      "links": [
+        {
+          "titulo": "Manual de Comunicação do Senado – Redação e estilo (consulta gratuita)",
+          "url": "https://www12.senado.leg.br/manualdecomunicacao/redacao-e-estilo",
+          "tipo": "apostila"
+        },
+        {
+          "titulo": "Professor Noslen – videoaulas gratuitas de Português (YouTube)",
+          "url": "https://www.youtube.com/@professornoslen",
+          "tipo": "video"
+        },
+        {
+          "titulo": "Português com Letícia – videoaulas gratuitas (YouTube)",
+          "url": "https://www.youtube.com/@portuguescomleticia",
+          "tipo": "video"
+        }
+      ],
+      "resumo_md": "### Compreender x interpretar\n- **Compreensão**: o que o texto **diz** (informação explícita). Pergunta típica: “segundo o texto…”.\n- **Interpretação**: o que se **infere** a partir do texto (implícitos: pressupostos e subentendidos). Pergunta típica: “depreende-se / infere-se que…”.\n- Cuidado com alternativas que **extrapolam** (vão além do texto), **reduzem** (tomam a parte pelo todo) ou **contradizem** o texto.\n\n### Coesão e coerência\n- **Coesão** = ligação gramatical entre as partes: **referencial** (pronomes, sinônimos, hiperônimos, elipse retomam termos) e **sequencial** (conectivos: *mas, portanto, embora, porque*…).\n- **Coerência** = sentido lógico global; um texto pode ter coesão e ser incoerente.\n- Questão clássica: “o termo X retoma…” → localize o **referente** exato.\n- Troca de conectivo: verifique se a **relação lógica** se mantém (adversidade, concessão, causa, conclusão, condição).\n\n### Intertextualidade\nDiálogo de um texto com outro: citação, alusão, paráfrase (mantém o sentido), paródia (subverte com crítica/humor), epígrafe.\n\n### Modos de organização discursiva\n- **Narração**: ações no tempo, personagens, narrador.\n- **Descrição**: características, retrato “estático”, muitos adjetivos.\n- **Exposição**: informa/explica sem defender tese.\n- **Argumentação**: tese + argumentos (exemplos, dados, autoridade, causa-consequência) + conclusão.\n- **Injunção**: instrui/ordena (verbos no imperativo ou infinitivo: manuais, receitas, normas).\nUm texto real costuma **misturar** modos; a banca pergunta o **predominante** ou o de um trecho específico.\n\n### Estratégia de prova\n1. Leia o enunciado antes do texto. 2. Volte ao trecho citado e leia o parágrafo inteiro. 3. Desconfie de palavras absolutas (*sempre, nunca, apenas*). 4. Prefira a alternativa que se apoia **literalmente** em pistas do texto.",
+      "dicas_fgv": "A FGV usa textos jornalísticos e opinativos e pede muito a identificação do termo retomado por um pronome, o valor semântico de conectivos e a diferença entre o que o texto afirma e o que apenas se pode inferir. Alternativas que extrapolam o texto são o distrator preferido."
+    },
+    "pt-tipologia": {
+      "links": [
+        {
+          "titulo": "Manual de Comunicação do Senado – Redação e estilo (consulta gratuita)",
+          "url": "https://www12.senado.leg.br/manualdecomunicacao/redacao-e-estilo",
+          "tipo": "apostila"
+        },
+        {
+          "titulo": "Professor Noslen – videoaulas gratuitas de Português (YouTube)",
+          "url": "https://www.youtube.com/@professornoslen",
+          "tipo": "video"
+        },
+        {
+          "titulo": "Português com Letícia – videoaulas gratuitas (YouTube)",
+          "url": "https://www.youtube.com/@portuguescomleticia",
+          "tipo": "video"
+        }
+      ],
+      "resumo_md": "### Tipos textuais cobrados no edital\n- **Informativo**: transmite dados/fatos com objetividade, linguagem referencial, 3ª pessoa (notícia, verbete, relatório).\n- **Normativo**: estabelece regras e condutas; linguagem impessoal, verbos de obrigação (*deve, é vedado, fica proibido*), estrutura em artigos/parágrafos/incisos (leis, resoluções, regimentos).\n- **Didático**: ensina; organiza o conteúdo em etapas, define conceitos, dá exemplos, retoma e resume (livro-texto, apostila, tutorial).\n\n### Texto literário x não literário\n- **Literário**: função poética, plurissignificação, conotação, trabalho estético com a linguagem; o que importa é **como** se diz.\n- **Não literário**: finalidade prática (informar, convencer, instruir); predomínio da denotação.\n\n### Tipologia da frase\n- **Frase** = enunciado de sentido completo (pode não ter verbo: “Silêncio!”).\n- **Oração** = tem verbo (ou locução verbal). **Período** = simples (1 oração) ou composto (2+).\n- Quanto ao sentido: **declarativa** (afirmativa/negativa), **interrogativa** (direta/indireta), **exclamativa**, **imperativa**, **optativa** (desejo: “Deus te acompanhe”).\n\n### Estrutura da frase\n- Frase nominal x verbal; ordem direta (sujeito–verbo–complementos–adjuntos) e inversa.\n- Gêneros (carta, ata, ofício, artigo de opinião) não se confundem com tipos (narração, descrição etc.): um gênero pode conter vários tipos.\n\n### Pistas para reconhecer\n- Verbos no imperativo/infinitivo → injuntivo/normativo.\n- Marcadores de opinião (*é preciso, certamente, infelizmente*) → argumentativo.\n- Definições + exemplos + enumerações → didático/expositivo.",
+      "dicas_fgv": "A FGV costuma perguntar qual o tipo predominante de um fragmento e justificar com marcas linguísticas (modo verbal, pessoa, adjetivação). Também pede a classificação de frases quanto ao sentido, especialmente interrogativas indiretas e frases nominais."
+    },
+    "pt-reescrita": {
+      "links": [
+        {
+          "titulo": "Manual de Comunicação do Senado – Redação e estilo (consulta gratuita)",
+          "url": "https://www12.senado.leg.br/manualdecomunicacao/redacao-e-estilo",
+          "tipo": "apostila"
+        },
+        {
+          "titulo": "Manual do Senado – Adjunto adverbial deslocado",
+          "url": "https://www12.senado.leg.br/manualdecomunicacao/estilos/adjunto-adverbial-deslocado",
+          "tipo": "apostila"
+        },
+        {
+          "titulo": "Professor Noslen – videoaulas gratuitas de Português (YouTube)",
+          "url": "https://www.youtube.com/@professornoslen",
+          "tipo": "video"
+        }
+      ],
+      "resumo_md": "### O que a banca pede\nReescrever um trecho **mantendo o sentido original e a correção gramatical**. As operações do edital são:\n- **Deslocamento**: mudar a posição de termos (ex.: adjunto adverbial para o início → em regra separado por vírgula quando longo).\n- **Substituição**: trocar palavra/expressão por equivalente (conectivo, sinônimo, pronome).\n- **Modificação**: transformar estruturas (voz ativa ↔ passiva; discurso direto ↔ indireto; oração desenvolvida ↔ reduzida; período composto ↔ simples).\n- **Correção**: eliminar problemas estruturais.\n\n### Problemas estruturais típicos\n- **Ambiguidade** (“O policial prendeu o suspeito em sua casa” – de quem?).\n- **Paralelismo** quebrado (“Gosto de ler e da natação” → *de ler e de nadar*).\n- **Concordância/regência** alteradas pela reescrita (“Aluga-se casas” → *Alugam-se casas*; “assistir **ao** filme”).\n- **Colocação pronominal** (sem próclise obrigatória após palavra atrativa: *não, que, quando*…).\n- **Pleonasmo vicioso**, **cacofonia**, frases fragmentadas ou sem verbo principal.\n\n### Checklist rápido\n1. O sentido mudou? (ex.: *embora* = concessão ≠ *porque* = causa).\n2. A voz passiva manteve o tempo verbal? (*fez* → *foi feito*).\n3. Vírgulas acompanharam o deslocamento?\n4. A substituição de pronome tem referente claro?\n5. Mudou o foco/ênfase ou só a forma? A FGV aceita mudança de ênfase, mas não de **informação**.",
+      "dicas_fgv": "A FGV adora a questão “a frase foi reescrita mantendo o sentido original em…” com cinco versões muito parecidas; o erro costuma estar em um conectivo trocado, um tempo verbal alterado na passiva ou uma vírgula que muda a restrição (explicativa x restritiva)."
+    },
+    "pt-pontuacao": {
+      "links": [
+        {
+          "titulo": "Manual do Senado – Vírgula",
+          "url": "https://www12.senado.leg.br/manualdecomunicacao/estilos/virgula",
+          "tipo": "apostila"
+        },
+        {
+          "titulo": "Manual do Senado – Ponto e vírgula",
+          "url": "https://www12.senado.leg.br/manualdecomunicacao/estilos/ponto-e-virgula",
+          "tipo": "apostila"
+        },
+        {
+          "titulo": "Manual do Senado – Travessão",
+          "url": "https://www12.senado.leg.br/manualdecomunicacao/estilos/travessao",
+          "tipo": "apostila"
+        },
+        {
+          "titulo": "Manual do Senado – Aspas",
+          "url": "https://www12.senado.leg.br/manualdecomunicacao/estilos/aspas",
+          "tipo": "apostila"
+        },
+        {
+          "titulo": "Português com Letícia – videoaulas gratuitas (YouTube)",
+          "url": "https://www.youtube.com/@portuguescomleticia",
+          "tipo": "video"
+        }
+      ],
+      "resumo_md": "### Vírgula – regras de ouro\n**Não se separa por vírgula**: sujeito do verbo; verbo de seus complementos (objeto direto/indireto); nome de seu complemento nominal.\n\n**Usa-se vírgula para**:\n- isolar **aposto** explicativo e **vocativo**;\n- isolar **adjunto adverbial deslocado** (obrigatória se longo; facultativa se curto);\n- separar elementos de uma **enumeração**;\n- isolar **conjunções intercaladas** (*porém, contudo, portanto* no meio da oração);\n- isolar **orações adjetivas explicativas** (a vírgula muda o sentido: “Os alunos, que estudaram, passaram” = todos estudaram; sem vírgula = só os que estudaram);\n- separar orações coordenadas **com sujeitos diferentes** ligadas por *e*, ou com *e* de valor adversativo;\n- marcar **elipse do verbo** (“Eu prefiro chá; ela, café”).\n\n### Outros sinais\n- **Ponto e vírgula**: separa itens de enumeração longa (incisos de lei) e orações coordenadas extensas ou já com vírgulas internas.\n- **Dois-pontos**: introduzem enumeração, explicação, citação ou fala.\n- **Travessão**: introduz fala no discurso direto; pode isolar intercalação (como os parênteses, com mais ênfase).\n- **Parênteses**: informação acessória.\n- **Aspas**: citação, ironia, estrangeirismo, termo em sentido especial.\n- **Reticências**: interrupção, hesitação, suspense.\n\n### Norma culta\nVariedade de prestígio usada em textos formais. Em questão de “correção”, compare sempre com a regra da gramática normativa (concordância, regência, crase, colocação).",
+      "dicas_fgv": "É muito comum a FGV pedir a justificativa do emprego de uma vírgula no texto (aposto, adjunto deslocado, oração explicativa) ou dizer que a retirada de uma vírgula “altera o sentido”, quase sempre em orações adjetivas restritivas x explicativas."
+    },
+    "pt-sintaxe": {
+      "links": [
+        {
+          "titulo": "Manual do Senado – Concordância verbal",
+          "url": "https://www12.senado.leg.br/manualdecomunicacao/estilos/concordancia-verbal",
+          "tipo": "apostila"
+        },
+        {
+          "titulo": "Professor Noslen – videoaulas gratuitas de Português (YouTube)",
+          "url": "https://www.youtube.com/@professornoslen",
+          "tipo": "video"
+        },
+        {
+          "titulo": "Português com Letícia – videoaulas gratuitas (YouTube)",
+          "url": "https://www.youtube.com/@portuguescomleticia",
+          "tipo": "video"
+        }
+      ],
+      "resumo_md": "### Termos da oração\n- **Essenciais**: sujeito (simples, composto, oculto/desinencial, indeterminado, oração sem sujeito) e predicado (verbal, nominal, verbo-nominal).\n- **Integrantes**: objeto direto, objeto indireto, complemento nominal, agente da passiva, predicativo.\n- **Acessórios**: adjunto adnominal, adjunto adverbial, aposto. **Vocativo** fica fora da estrutura.\n- Pegadinha clássica: **complemento nominal** (completa nome transitivo, ideia passiva: “a defesa **da tese**”) x **adjunto adnominal** (ideia de posse/agente: “a defesa **do réu**” = o réu defende).\n\n### Orações\n- **Coordenadas**: aditivas, adversativas, alternativas, conclusivas, explicativas.\n- **Subordinadas substantivas** (exercem função de substantivo: subjetiva, objetiva direta/indireta, completiva nominal, predicativa, apositiva).\n- **Subordinadas adjetivas**: restritivas (sem vírgula) e explicativas (com vírgula).\n- **Subordinadas adverbiais**: causais, consecutivas, concessivas, condicionais, conformativas, comparativas, finais, proporcionais, temporais.\n- **Reduzidas** de infinitivo, gerúndio e particípio.\n\n### Ordem direta e inversa\nDireta: sujeito + verbo + complementos + adjuntos. Na inversa, cuidado com a **concordância** do verbo com o sujeito posposto (“Chegaram as provas”).\n\n### Tipos de discurso\n- **Direto**: fala reproduzida literalmente (travessão/aspas, verbo *dicendi*).\n- **Indireto**: narrador relata com suas palavras (oração subordinada: “disse **que**…”). Na conversão: 1ª pessoa → 3ª; presente → pretérito imperfeito; pretérito perfeito → mais-que-perfeito; futuro → futuro do pretérito; *este/aqui* → *aquele/ali*; imperativo → subjuntivo.\n- **Indireto livre**: mistura a voz do narrador e a do personagem, sem marcas formais.",
+      "dicas_fgv": "A FGV cobra a função sintática de termos sublinhados (complemento nominal x adjunto adnominal é recorrente), o valor das orações adverbiais e a passagem do discurso direto para o indireto com as correlações de tempo e pessoa."
+    },
+    "pt-linguagem": {
+      "links": [
+        {
+          "titulo": "Manual de Comunicação do Senado – Redação e estilo (consulta gratuita)",
+          "url": "https://www12.senado.leg.br/manualdecomunicacao/redacao-e-estilo",
+          "tipo": "apostila"
+        },
+        {
+          "titulo": "Professor Noslen – videoaulas gratuitas de Português (YouTube)",
+          "url": "https://www.youtube.com/@professornoslen",
+          "tipo": "video"
+        },
+        {
+          "titulo": "Português com Letícia – videoaulas gratuitas (YouTube)",
+          "url": "https://www.youtube.com/@portuguescomleticia",
+          "tipo": "video"
+        }
+      ],
+      "resumo_md": "### Elementos da comunicação (Jakobson)\n**Emissor** (remetente), **receptor** (destinatário), **mensagem**, **código** (a língua), **canal** (meio físico) e **referente/contexto** (assunto).\n\n### Funções da linguagem – cada uma centrada em um elemento\n| Função | Foco | Marcas |\n|---|---|---|\n| **Referencial/denotativa** | referente | objetividade, 3ª pessoa (notícia) |\n| **Emotiva/expressiva** | emissor | 1ª pessoa, exclamações, opinião |\n| **Conativa/apelativa** | receptor | 2ª pessoa/vocativo, imperativo (publicidade) |\n| **Fática** | canal | testar/manter contato (“Alô?”, “Entende?”) |\n| **Metalinguística** | código | a língua falando de si (dicionário, gramática) |\n| **Poética** | mensagem | trabalho com a forma, ritmo, rima |\n\nUm texto tem várias funções; a banca pede a **predominante**.\n\n### Registros (níveis) de linguagem\n- **Formal/culto** (norma-padrão, situações oficiais) x **informal/coloquial** (conversas, gírias).\n- Variação linguística: **diatópica** (região), **diastrática** (grupo social), **diafásica** (situação/registro), **diacrônica** (tempo). Variação não é “erro”: é **adequação** ao contexto.\n\n### Dicas\n- Gíria, contrações (“tá”, “pra”) e marcas de oralidade indicam registro informal.\n- Em textos técnicos (como documentos psicológicos!) exige-se linguagem **formal, impessoal e precisa** – a própria Res. CFP 06/2019 pede norma culta.",
+      "dicas_fgv": "A FGV costuma apresentar um trecho (propaganda, tirinha, crônica) e perguntar qual função predomina ou qual elemento da comunicação está em foco; também explora a adequação do registro ao contexto sem tratar variação como erro."
+    },
+    "pt-morfologia": {
+      "links": [
+        {
+          "titulo": "Manual do Senado – Abreviatura/abreviação",
+          "url": "https://www12.senado.leg.br/manualdecomunicacao/estilos/abreviatura",
+          "tipo": "apostila"
+        },
+        {
+          "titulo": "Manual do Senado – Siglas",
+          "url": "https://www12.senado.leg.br/manualdecomunicacao/estilos/siglas",
+          "tipo": "apostila"
+        },
+        {
+          "titulo": "Professor Noslen – videoaulas gratuitas de Português (YouTube)",
+          "url": "https://www.youtube.com/@professornoslen",
+          "tipo": "video"
+        }
+      ],
+      "resumo_md": "### Estrutura das palavras\nRadical, vogal temática, tema, afixos (prefixos e sufixos), desinências (nominais e verbais: modo-tempo, número-pessoa).\n\n### Processos de formação\n- **Derivação**: prefixal (*infeliz*), sufixal (*felizmente*), prefixal e sufixal (*deslealdade*), **parassintética** (prefixo + sufixo simultâneos: *entristecer*, *amanhecer*), **regressiva** (*o ataque* de *atacar*), **imprópria** (mudança de classe: *o sim*, *o jantar*).\n- **Composição**: justaposição (*girassol*, *passatempo*, *guarda-chuva*: sem perda fonética) e aglutinação (*planalto*, *pernalta*: com perda fonética).\n- Outros: **hibridismo** (*automóvel*: grego + latim), **onomatopeia**, **abreviação/redução** (*moto*, *foto*), **siglas** (*SUS*, *CFP*) e **acrônimos** (lidos como palavra: *Satepsi*).\n\n### Abreviação x abreviatura\n- **Abreviação vocabular**: redução da palavra que passa a funcionar como palavra (*cinema* → *cine*).\n- **Abreviatura**: representação gráfica reduzida com ponto (*Sr.*, *p.*, *art.*).\n\n### Classes de palavras (10)\nSubstantivo, adjetivo, artigo, numeral, pronome, verbo, advérbio, preposição, conjunção, interjeição. A classe depende do **uso** (“O *jantar* estava ótimo” – substantivo).\n\n### Modalizadores\nExpressões que revelam a **atitude do enunciador** sobre o que diz:\n- certeza/obrigação: *certamente, é necessário, deve*;\n- possibilidade/dúvida: *talvez, possivelmente, pode*;\n- avaliação: *felizmente, infelizmente, lamentavelmente*;\n- futuro do pretérito para atenuar ou indicar informação não confirmada (“o suspeito *teria* fugido”).",
+      "dicas_fgv": "A FGV pede o processo de formação de palavras do texto (parassíntese e derivação imprópria aparecem muito) e o valor de modalizadores, como o futuro do pretérito indicando informação não confirmada ou advérbios que revelam opinião do autor."
+    },
+    "pt-semantica": {
+      "links": [
+        {
+          "titulo": "Manual de Comunicação do Senado – Redação e estilo (consulta gratuita)",
+          "url": "https://www12.senado.leg.br/manualdecomunicacao/redacao-e-estilo",
+          "tipo": "apostila"
+        },
+        {
+          "titulo": "Professor Noslen – videoaulas gratuitas de Português (YouTube)",
+          "url": "https://www.youtube.com/@professornoslen",
+          "tipo": "video"
+        },
+        {
+          "titulo": "Português com Letícia – videoaulas gratuitas (YouTube)",
+          "url": "https://www.youtube.com/@portuguescomleticia",
+          "tipo": "video"
+        }
+      ],
+      "resumo_md": "### Sentido próprio x figurado\n- **Denotação**: sentido literal, de dicionário.\n- **Conotação**: sentido figurado, depende do contexto. Figuras frequentes: **metáfora** (comparação implícita), **metonímia** (parte pelo todo, autor pela obra, continente pelo conteúdo), **hipérbole**, **eufemismo**, **ironia**, **antítese**, **paradoxo**, **personificação**.\n\n### Relações entre palavras\n- **Sinônimos**: sentido semelhante (nunca idêntico em todos os contextos – teste a substituição na frase).\n- **Antônimos**: sentidos opostos.\n- **Parônimos**: grafia/som parecidos, sentidos diferentes: *descrição/discrição, eminente/iminente, ratificar/retificar, comprimento/cumprimento, infligir/infringir, deferir/diferir*.\n- **Homônimos**: mesma pronúncia e/ou grafia, sentidos diferentes (*cessão/sessão/seção; cela/sela*).\n- **Hiperônimo/hipônimo**: termo geral x específico (*profissional* → *psicóloga*; *documento* → *laudo*). Muito usados na **coesão referencial**.\n\n### Polissemia x ambiguidade\n- **Polissemia**: uma palavra com vários sentidos relacionados (*banco*, *linha*, *cabo*); o contexto resolve.\n- **Ambiguidade**: duplo sentido no enunciado. Pode ser **lexical** (palavra polissêmica) ou **estrutural** (posição de termos, pronome com dois referentes: “Pedro disse a João que **seu** carro…”). Pode ser recurso expressivo (humor, publicidade) ou defeito do texto.\n\n### Dica\nPara avaliar substituição por sinônimo, leia a frase inteira com a palavra nova: muda o sentido? muda a regência?",
+      "dicas_fgv": "A FGV pergunta qual palavra pode substituir outra no texto sem alteração de sentido, pede a identificação de ambiguidade estrutural (pronome possessivo é o caso clássico) e explora pares de parônimos em frases de contexto formal."
+    },
+    "pt-vocabulario": {
+      "links": [
+        {
+          "titulo": "VOLP – Vocabulário Ortográfico da Língua Portuguesa (ABL)",
+          "url": "https://www.academia.org.br/nossa-lingua/busca-no-vocabulario",
+          "tipo": "outro"
+        },
+        {
+          "titulo": "Decreto nº 6.583/2008 – Acordo Ortográfico (texto oficial)",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/decreto/d6583.htm",
+          "tipo": "lei"
+        },
+        {
+          "titulo": "Manual do Senado – Acentuação",
+          "url": "https://www12.senado.leg.br/manualdecomunicacao/estilos/acentuacao",
+          "tipo": "apostila"
+        },
+        {
+          "titulo": "Manual do Senado – Hífen",
+          "url": "https://www12.senado.leg.br/manualdecomunicacao/estilos/hifen",
+          "tipo": "apostila"
+        },
+        {
+          "titulo": "Manual do Senado – Estrangeirismo",
+          "url": "https://www12.senado.leg.br/manualdecomunicacao/estilos/estrangeirismo",
+          "tipo": "apostila"
+        },
+        {
+          "titulo": "Manual do Senado – Expressão latina",
+          "url": "https://www12.senado.leg.br/manualdecomunicacao/estilos/expressao-latina",
+          "tipo": "apostila"
+        },
+        {
+          "titulo": "Dicionário Michaelis On-line (gratuito)",
+          "url": "https://michaelis.uol.com.br/",
+          "tipo": "outro"
+        },
+        {
+          "titulo": "Dicionário Caldas Aulete Digital (gratuito)",
+          "url": "https://aulete.com.br/",
+          "tipo": "outro"
+        }
+      ],
+      "resumo_md": "### Dicionários e verbetes\n- **Tipos**: de língua (geral), escolar, etimológico, de sinônimos/antônimos, analógico, de regência, bilíngue, técnico/especializado, vocabulário ortográfico (VOLP – só grafia e classe, sem definição).\n- **Verbete** = entrada (palavra-cabeça, em geral na forma canônica: substantivo no masculino singular, verbo no infinitivo) + informações gramaticais (classe, gênero, transitividade) + **acepções numeradas** + exemplos, abonações, rubricas de área (*Psic.*, *Jur.*) e marcas de uso (*fig.*, *pop.*, *ant.*).\n\n### Neologismos, arcaísmos, estrangeirismos, latinismos\n- **Neologismo**: palavra ou sentido novo (*deletar*, *printar*, *sororidade*).\n- **Arcaísmo**: palavra/sentido em desuso (*vossemecê*, *asinha*).\n- **Estrangeirismo**: palavra de outra língua; pode vir **cru** (*feedback, home office* – em itálico/aspas no texto formal) ou **aportuguesado** (*abajur, futebol*).\n- **Latinismo**: expressões latinas usadas no português, comuns no direito e na Psicologia: *ad referendum* (sujeito à aprovação posterior), *a priori, a posteriori, in loco, sine qua non, per capita, habeas corpus, data venia*. Expressões latinas não levam acento nem hífen em português.\n\n### Ortografia e acentuação (Acordo de 1990, Decreto 6.583/2008)\n- Caiu o **trema** (exceto nomes estrangeiros) e o acento dos ditongos abertos *éi/ói* **em paroxítonas** (*ideia, assembleia, heroico*), mas fica nas oxítonas (*papéis, herói*).\n- Sem acento: *voo, enjoo, creem, leem*; *para* (verbo) sem acento; mantém-se *pôr* (verbo) e *pôde* (passado).\n- Paroxítonas terminadas em *-r, -l, -x, -n, -ps, -ã(s), -ão(s), -i(s), -us, -um/uns* e ditongo são acentuadas (*caráter, fácil, tórax, hífen, bíceps, órfã, órgão, júri, vírus, álbum*).\n- Hífen com prefixos: há hífen quando o 2º elemento começa por **h** ou pela **mesma vogal** do prefixo (*anti-inflamatório, micro-ondas*); some quando as vogais são diferentes (*autoestima*) e dobra-se *r/s* (*antirracista, contrassenso*).",
+      "dicas_fgv": "A FGV costuma reproduzir um verbete de dicionário e perguntar qual acepção corresponde ao uso no texto, além de pedir a identificação de estrangeirismos/neologismos e cobrar acentuação e hífen pós-Acordo em listas de palavras."
+    },
+    "leg-lei5766": {
+      "links": [
+        {
+          "titulo": "Lei nº 5.766/1971 (texto oficial – Planalto)",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l5766.htm",
+          "tipo": "lei"
+        },
+        {
+          "titulo": "Decreto nº 79.822/1977 (texto oficial – Planalto)",
+          "url": "https://www.planalto.gov.br/ccivil_03/decreto/1970-1979/d79822.htm",
+          "tipo": "lei"
+        }
+      ],
+      "resumo_md": "### Natureza e finalidade (arts. 1º e 2º)\n- Cria o **CFP e os CRPs**, dotados de **personalidade jurídica de direito público** e **autonomia administrativa e financeira**, constituindo **em conjunto uma autarquia**.\n- Finalidade: **orientar, disciplinar e fiscalizar** o exercício da profissão e zelar pela ética e disciplina da classe.\n- CFP = órgão supremo, sede no **Distrito Federal**.\n\n### CFP\n- **9 efetivos + 9 suplentes**, eleitos pela **Assembleia dos Delegados Regionais**; mandato de **3 anos**, **uma** reeleição (art. 3º).\n- Competências (art. 6º): elaborar seu regimento e **aprovar os regimentos dos CRPs** (a); expedir resoluções (c); **elaborar e aprovar o Código de Ética** (e); funcionar como **tribunal superior de ética** (f); **julgar em última instância** os recursos dos CRPs (h); **aprovar as anuidades** (l); fixar a composição dos CRPs (m); **intervir** nos CRPs em caso de insolvência (o); prestar contas ao **Tribunal de Contas** (q).\n\n### CRPs\n- Membros eleitos pelos psicólogos inscritos (art. 7º); competências (art. 9º): organizar o regimento (submetido ao CFP), fiscalizar, **funcionar como tribunal regional de ética**, expedir carteira, arrecadar anuidades.\n- **Art. 10**: todo profissional deve inscrever-se no CRP de sua área de ação. **Art. 12**: qualquer pessoa pode representar contra o registro de candidato. **Art. 13**: indeferida a inscrição, cabe recurso ao CFP. **Art. 14**: deferida, expede-se a **Carteira de Identidade Profissional**.\n- **Assembleia dos Delegados Regionais** (arts. 19–20): representantes dos CRPs; reúne-se ao menos **1 vez por ano**.\n\n### Penalidades (art. 27) – gradativas (art. 28)\nI – **advertência**; II – **multa**; III – **censura**; IV – **suspensão até 30 dias**; V – **cassação, *ad referendum* do CFP**.\n- Salvo gravidade manifesta, aplica-se a gradação (art. 28).\n- **Art. 30**: punição a não inscritos que anunciem exercício da profissão.\n- **Art. 31**: penalidades aplicadas pelos CRPs, com **recurso com efeito suspensivo** ao CFP (o prazo hoje é regulado pelo CPD: **30 dias úteis**).\n- **Art. 32**: presidentes do CFP e CRPs podem agir, inclusive criminalmente, contra infratores.",
+      "dicas_fgv": "A FGV troca detalhes de composição (9 + 9, mandato de 3 anos, uma reeleição) e de competências entre CFP e CRP (quem aprova regimento, quem julga em última instância). Atenção: na Lei a pena III é “censura”, enquanto o Código de Ética fala em “censura pública”, e só a cassação traz expressamente “ad referendum do CFP” no art. 27."
+    },
+    "leg-dec79822": {
+      "links": [
+        {
+          "titulo": "Decreto nº 79.822/1977 (texto oficial – Planalto)",
+          "url": "https://www.planalto.gov.br/ccivil_03/decreto/1970-1979/d79822.htm",
+          "tipo": "lei"
+        },
+        {
+          "titulo": "Lei nº 5.766/1971 (texto oficial – Planalto)",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l5766.htm",
+          "tipo": "lei"
+        }
+      ],
+      "resumo_md": "### O que faz\nRegulamenta a Lei 5.766/1971: organização do CFP/CRPs, assembleias, eleições, inscrição, anuidades, infrações e recursos.\n\n### Composição e funcionamento\n- **CFP**: 9 efetivos + 9 suplentes, mandato de 3 anos, uma reeleição (art. 5º); reúne-se **ao menos 1 vez por mês** (art. 7º); delibera por **maioria absoluta**, exigindo **2/3** em certas matérias (art. 8º).\n- **CRPs**: número de membros fixado pelo CFP; mesmo mandato (art. 12); deliberam por maioria absoluta (art. 14).\n- **Receitas**: CFP recebe **1/3** das taxas, multas e anuidades arrecadadas pelos CRPs (art. 9º); CRPs ficam com **2/3** (art. 15).\n\n### Assembleias\n- **Assembleia dos Delegados Regionais** (arts. 16–23): **2 delegados por CRP**; elege e pode destituir membros do CFP; aprova o orçamento do CFP; reúne-se ao menos 1 vez/ano; eleição do CFP exige **2/3** dos delegados presentes.\n- **Assembleia Geral do CRP** (arts. 24–30): psicólogos com **inscrição principal**; elege o CRP, propõe tabela de anuidades; destituição exige 2/3 dos presentes.\n\n### Eleições e mandato\n- Eleição do CFP entre **30 e 45 dias** antes do fim do mandato (art. 31).\n- Voto nos CRPs **pessoal, secreto e obrigatório**; falta injustificada gera **multa** (dobrada na reincidência) (art. 33).\n- Elegibilidade (art. 34): brasileiro, inscrição principal na jurisdição há **mais de 2 anos**, sem pena ética, entre outros.\n- Perda do mandato (art. 35): renúncia, cancelamento da inscrição, condenação, destituição, **5 faltas** injustificadas no ano.\n\n### Inscrição e anuidade\n- Categorias de inscrição: psicólogo e psicólogo especialista; atuação em outra jurisdição exige **inscrição secundária** (art. 43).\n- Indeferimento: recurso ao CFP em **30 dias** (art. 46).\n- Pagamento da anuidade é **condição para o exercício legal** (art. 50); vence até o **último dia do 1º trimestre** (art. 51).\n\n### Penalidades e recursos\n- Mesmas penas da Lei (art. 57), **gradativas** salvo gravidade manifesta (art. 58).\n- Recurso ao CFP com **efeito suspensivo** em 30 dias; há **recurso de ofício** das penas de suspensão e cassação (art. 61). CFP é a **última instância** (art. 64).",
+      "dicas_fgv": "A FGV explora números do Decreto: 2 delegados por CRP, divisão 1/3–2/3 da receita, prazo de 30 a 45 dias para eleição do CFP, voto obrigatório com multa e 5 faltas para perda de mandato. Também confunde Assembleia Geral (CRP) com Assembleia dos Delegados Regionais (elege o CFP)."
+    },
+    "leg-lei4119": {
+      "links": [
+        {
+          "titulo": "Lei nº 4.119/1962 (texto oficial – Planalto)",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/1950-1969/l4119.htm",
+          "tipo": "lei"
+        }
+      ],
+      "resumo_md": "### Contexto\nLei de **27 de agosto de 1962** (por isso 27/8 é o **Dia da(o) Psicóloga(o)**). Regulamenta a **profissão de psicólogo** e os **cursos de formação** em Psicologia.\n\n### Formação (texto original)\n- Cursos de **bacharelado, licenciatura e psicólogo** (art. 1º, na lógica da época, nas Faculdades de Filosofia).\n- O registro do diploma no órgão federal de educação é obrigatório para o exercício (art. 10).\n- Faculdades com curso de Psicólogo devem organizar **serviços clínicos e de aplicação** abertos ao público (art. 16) – origem dos **serviços-escola**.\n- Diplomas estrangeiros podem ser **revalidados** (art. 17).\n\n### Direitos dos diplomados (arts. 11–13)\n- Bacharel e licenciado: magistério de Psicologia (conforme a habilitação).\n- **Psicólogo**: ensinar Psicologia **e exercer a profissão** (art. 13).\n\n### Função privativa – art. 13, § 1º (o mais cobrado)\nConstitui função **privativa** do psicólogo a utilização de **métodos e técnicas psicológicas** com os objetivos de:\na) **diagnóstico psicológico**;\nb) **orientação e seleção profissional**;\nc) **orientação psicopedagógica**;\nd) **solução de problemas de ajustamento**.\n- **§ 2º**: é da competência do psicólogo **colaborar** em assuntos psicológicos ligados a outras ciências.\n- Base de várias resoluções: uso de testes é privativo (Res. 31/2022, art. 8º) e seleção em concurso é privativa (Res. 08/2025, art. 6º, § 2º).\n\n### Vetos e transição\n- Artigos 2º, 3º, 4º e 14 foram **vetados**; parte do art. 13, § 1º foi vetada e depois **restaurada pelo Congresso**.\n- Disposições transitórias (arts. 18–24) garantiram registro a quem já atuava (ex.: mais de 5 anos de prática, pedido em 180 dias).",
+      "dicas_fgv": "A FGV cobra quase só o art. 13, § 1º: as quatro finalidades privativas (diagnóstico psicológico, orientação e seleção profissional, orientação psicopedagógica, solução de problemas de ajustamento), costumando incluir no meio um item que não está na lista, como ‘psicoterapia’ ou ‘avaliação neurológica’."
+    },
+    "leg-regimento-cfp": {
+      "links": [
+        {
+          "titulo": "Res. CFP nº 017/2000 – Regimento Interno do CFP (PDF, CFP)",
+          "url": "https://site.cfp.org.br/wp-content/uploads/2000/12/resolucao2000_17.pdf",
+          "tipo": "resolucao"
+        },
+        {
+          "titulo": "CFP – página do Regimento Interno",
+          "url": "https://site.cfp.org.br/cfp/conheca-o-cfp/regimento-interno/",
+          "tipo": "outro"
+        }
+      ],
+      "resumo_md": "### Norma\nRegimento Interno do CFP aprovado pela **Res. CFP 017/2000** (link oficial indicado na página do Regimento no site do CFP). Divide-se em: entidade, estrutura, conselheiros, reuniões, patrimônio e gestão financeira, processos/recursos e comunicação.\n\n### Constituição e órgãos\n- **9 conselheiros efetivos e 9 suplentes**; mandato de **3 anos**, permitida **uma reeleição consecutiva** (art. 3º).\n- Órgãos (art. 4º): **Plenário**, **Diretoria**, **Secretarias**, **APAF** e **Congresso Nacional da Psicologia (CNP)**; Grupos de Trabalho quando necessário.\n- **Plenário**: órgão **deliberativo**; certas matérias exigem **2/3** do Plenário (art. 6º, parágrafo único).\n- **Diretoria**: Presidente, Vice-Presidente, Secretário-Geral e Tesoureiro, eleitos pelo Plenário na **primeira reunião ordinária de cada ano** (art. 7º).\n- Recursos disciplinares vindos dos CRPs são **sempre apreciados pelo Plenário** do CFP.\n\n### Instâncias do Sistema Conselhos\n- **CNP**: instância máxima de deliberação, define diretrizes para o triênio.\n- **APAF** (art. 27): instância deliberativa **abaixo do CNP**; reúne-se **2 vezes ao ano** (ou extraordinariamente por convocação do CFP ou de 2/3 dos CRPs). Representação: CRP com até 3.000 profissionais = 1; de 3.001 a 10.000 = 2; mais de 10.000 = 3; CFP = 3 conselheiros.\n- **Assembleia dos Delegados Regionais**: elege os membros do CFP por maioria, em escrutínio secreto (art. 28).\n\n### Reuniões\n- Plenário reúne-se **ordinariamente 1 vez por mês** (art. 34); extraordinariamente por iniciativa do Presidente ou de **2/3** dos efetivos, com antecedência de **20 dias** (art. 35); sessões com quórum de **maioria simples** (art. 36).\n- Resoluções e acórdãos de interesse geral são enviados ao **DOU em até 30 dias** (art. 41).\n- Orçamento anual do CFP aprovado pela APAF e pela Assembleia dos Delegados até **20 de dezembro** do ano anterior (art. 71).",
+      "dicas_fgv": "Espere questões sobre órgãos do CFP e suas hierarquias (CNP > APAF), composição da Diretoria e regras de reunião (mensal, extraordinária com 2/3 e 20 dias). A FGV costuma trocar APAF por Assembleia dos Delegados Regionais."
+    },
+    "leg-regimento-crprj": {
+      "links": [
+        {
+          "titulo": "Res. CFP nº 015/2001 – aprova o Regimento Interno do CRP-05 (PDF, CFP)",
+          "url": "https://site.cfp.org.br/wp-content/uploads/2001/10/resolucao2001_15.pdf",
+          "tipo": "resolucao"
+        },
+        {
+          "titulo": "Site do CRP-RJ",
+          "url": "https://www.crprj.org.br/",
+          "tipo": "outro"
+        }
+      ],
+      "resumo_md": "### Atenção à versão\nO texto oficial localizado é o Regimento aprovado pela **Res. CFP nº 015/2001** (o CFP aprova os regimentos dos CRPs – Lei 5.766, art. 6º, “a”). Confira no site do CRP-RJ (aba “Atos oficiais”) se há alterações posteriores antes da prova.\n\n### Natureza\n- CRP-05: **autarquia federal**, sede na cidade do Rio de Janeiro e jurisdição em **todo o Estado do RJ**; instalado em **27/08/1974**; personalidade jurídica de direito público, autonomia administrativa e financeira.\n- Finalidades: **orientar, disciplinar, fiscalizar** e contribuir para o desenvolvimento da Psicologia (art. 3º); funciona como **tribunal regional de ética** (art. 4º, XIV).\n\n### Estrutura\n- **15 conselheiros efetivos e 15 suplentes**; mandato de **3 anos**, uma reeleição consecutiva (art. 5º).\n- Órgãos (art. 6º): Plenário, Diretoria, Comissões Permanentes e Especiais, Congressos e Assembleias.\n- **Diretoria**: Presidente, Vice, Secretário e Tesoureiro, eleitos pelo Plenário (art. 9º), mandato de **1 ano** com reeleição ilimitada (art. 10).\n- Presidente: representa o CRP em juízo, tem **voto de qualidade**, assina a CIP; vacância com mais de **6 meses** restantes → nova eleição; com 6 meses ou menos → assume o Vice (art. 14).\n\n### Comissões permanentes (art. 18)\n**Comissão de Ética (COE)**, **Comissão de Orientação e Fiscalização (COF)** e **Comissão de Auditoria e Controle Interno**. COE e COF: mínimo de **3 psicólogos**, presidência por **conselheiro efetivo**; pareceres vão ao **Plenário**. Comissões Especiais são criadas por portaria.\n- **Seções/subsedes**: descentralização administrativa, geridas por **Comissão Gestora** (art. 37).\n\n### Instâncias e eleições\n- **CNP**: instância máxima, a cada 3 anos; o **Congresso Regional** elege delegados e é a **data-limite para inscrição de chapas** (arts. 38–41).\n- **Assembleia Geral**: psicólogos com inscrição principal no CRP-05 (art. 44).\n- Elegibilidade (art. 46): brasileiro, inscrição principal e domicílio no RJ, sem condenação ética transitada há menos de 5 anos, quite com a tesouraria.\n- Sessões plenárias exigem quórum de **metade mais um** dos efetivos (art. 66).",
+      "dicas_fgv": "Por ser a prova do próprio CRP-RJ, espere detalhes: 15 + 15 conselheiros, Diretoria com mandato anual, comissões permanentes (COE, COF e Auditoria) e regras de vacância da Presidência. A FGV costuma misturar regras do Regimento do CFP com as do CRP."
+    },
+    "leg-codigo-etica": {
+      "links": [
+        {
+          "titulo": "Código de Ética Profissional do Psicólogo – Res. CFP 010/2005 (PDF, CFP)",
+          "url": "https://site.cfp.org.br/wp-content/uploads/2012/07/codigo-de-etica-psicologia.pdf",
+          "tipo": "resolucao"
+        },
+        {
+          "titulo": "CRP-RJ – Comissão de Orientação e Ética (COE)",
+          "url": "https://www.crprj.org.br/comissao/view/1/comissao-de-orientacao-e-etica-coe",
+          "tipo": "outro"
+        }
+      ],
+      "resumo_md": "### Estrutura\nRes. CFP 010/2005, em vigor desde **27/08/2005**; **7 princípios fundamentais** + 25 artigos.\n\n### Princípios fundamentais (resumo)\nI – liberdade, dignidade, igualdade e integridade (**DUDH**); II – saúde e qualidade de vida, contra negligência, discriminação, exploração, violência, crueldade e opressão; III – **responsabilidade social** e análise crítica e histórica da realidade; IV – **aprimoramento contínuo**; V – **universalização do acesso** à Psicologia; VI – rejeitar o **aviltamento** da profissão; VII – considerar as **relações de poder**.\n\n### Deveres (art. 1º) e vedações (art. 2º) – destaques\n- Dever: atuar só no que está **capacitado pessoal, teórica e tecnicamente**; prestar serviço em **calamidade sem visar benefício**; informar resultados; orientar encaminhamentos.\n- Vedado: **induzir convicções** políticas, religiosas, de orientação sexual (b); vincular o título a práticas **não reconhecidas** (f); **emitir documentos sem fundamentação** (g); **induzir** clientes (i); relação com atendido que prejudique o serviço (j); ser **perito/avaliador** com vínculo que afete o trabalho (k); **prolongar** serviço (n); receber comissões (o) ou **pagar/receber por encaminhamento** (p); **diagnósticos em meios de comunicação** que exponham pessoas (q).\n\n### Sigilo\n- **Art. 9º**: dever de sigilo para proteger a intimidade.\n- **Art. 10**: em conflito com os princípios, **pode** quebrar o sigilo buscando o **menor prejuízo**, restringindo-se ao **estritamente necessário**.\n- **Art. 11**: depor em juízo considerando o Código. **Art. 12**: em equipe multiprofissional, registrar só o necessário. **Art. 13**: criança/adolescente – comunicar aos responsáveis **o estritamente essencial**.\n- **Art. 8º**: atendimento **não eventual** de criança, adolescente ou interdito exige autorização de **ao menos um** responsável; sem responsável, atende-se e **comunica-se às autoridades**.\n- **Art. 15**: interrupção do trabalho → zelar pelos arquivos; demissão → repassar ao substituto ou **lacrar**; extinção do serviço → informar o **CRP**.\n\n### Publicidade (art. 20)\nNome completo, **CRP e número**; só títulos que possui; não usar **preço** como propaganda; não prever resultados; não propor atividades de outras profissões.\n\n### Penalidades (art. 21)\n**Advertência; multa; censura pública; suspensão até 30 dias *ad referendum* do CFP; cassação *ad referendum* do CFP.** Casos omissos: CRPs, *ad referendum* do CFP (art. 22).",
+      "dicas_fgv": "A FGV usa casos práticos: quebra de sigilo (menor prejuízo e só o necessário), atendimento de criança com um único responsável, publicidade com preço promocional, perito com vínculo anterior. Decore as alíneas mais cobradas do art. 2º e a lista de penalidades do art. 21."
+    },
+    "leg-cpd": {
+      "links": [
+        {
+          "titulo": "Código de Processamento Disciplinar Comentado 2025 – Res. CFP 11/2019 atualizada pela Res. 26/2025 (PDF, CFP)",
+          "url": "https://site.cfp.org.br/wp-content/uploads/2025/11/cpd_comentado_web-1.pdf",
+          "tipo": "resolucao"
+        },
+        {
+          "titulo": "Res. CFP nº 11/2019 – institui o CPD (DOU)",
+          "url": "https://www.in.gov.br/en/web/dou/-/resolucao-n-11-de-14-de-junho-de-2019-173016396",
+          "tipo": "resolucao"
+        },
+        {
+          "titulo": "Res. CFP nº 26/2025 – altera o CPD (DOU)",
+          "url": "https://www.in.gov.br/en/web/dou/-/resolucao-n-26-de-24-de-setembro-de-2025-664311461",
+          "tipo": "resolucao"
+        },
+        {
+          "titulo": "CFP – lançamento do CPD Comentado (dez/2025)",
+          "url": "https://site.cfp.org.br/cfp-lanca-versao-comentada-do-codigo-de-processamento-disciplinar-para-fortalecer-etica-e-seguranca-juridica-na-profissao/",
+          "tipo": "outro"
+        }
+      ],
+      "resumo_md": "### Norma vigente (nov/2026)\n**Res. CFP nº 11/2019** (revogou a Res. 006/2007), **alterada pela Res. CFP nº 26/2025**. O CFP publicou em 2025 o **CPD Comentado**, já atualizado.\n\n### Tipos de processo\n- **Ético**: infrações ao **Código de Ética** (art. 63).\n- **Ordinário**: infrações a **normas administrativas** dos Conselhos (art. 74) – inclui PJ.\n- **Funcional**: infrações de **conselheiras(os)**; se regional, o CFP distribui para **outro CRP** (art. 78).\n\n### Competência (art. 5º, redação 2025)\nCRP da **jurisdição onde ocorreu o fato**, **independentemente** de a psicóloga ter inscrição principal ou secundária nele.\n\n### Início e fase investigativa\n- **Representação**: escrita e **assinada**, dirigida à Presidência do Conselho (art. 59), preferencialmente pelo **sistema eletrônico** (art. 60). Também **requerimento de ofício** por membro do Conselho (art. 61).\n- A Comissão de Ética notifica a psicóloga para manifestação; parecer pode propor **mediação**, **arquivamento** ou **instauração** (arts. 65–68).\n- Plenário decide **sem sustentação oral** (art. 69); do arquivamento cabe recurso ao CFP.\n\n### Instrução e julgamento\n- **Citação** com prazo de **15 dias úteis** para defesa; alegações finais em **15 dias úteis** sucessivos (art. 85).\n- Relator emite voto em **25 dias úteis**, prorrogáveis (art. 72); sustentação oral de **até 15 minutos** por parte (art. 109).\n- Prazos contados **em dias úteis** (art. 20); atos e sessões podem ser por **videoconferência** (art. 14-A, 2025).\n\n### Recursos\n- Ao CFP em **30 dias úteis**, com **efeito suspensivo** (arts. 121–122).\n- **Reexame necessário**: suspensão ou cassação sem recurso → CFP reexamina (art. 126); sem recurso do representante, a pena **não pode ser agravada**.\n- **Revisão** (art. 130): a pedido da apenada, com **prova nova** ou decisão baseada em **prova falsa**.\n\n### Prescrição\n- Ordinárias e funcionais: **2 anos** (art. 54); éticas: **5 anos** (art. 55), contados do **conhecimento do fato** pelo Conselho.\n- **Intercorrente**: processo parado há **mais de 3 anos** (art. 56). É matéria de **ordem pública** (art. 57).\n- Interrupção (art. 58): notificação/citação; decisão condenatória recorrível; ato inequívoco de apuração; e (2025) **encaminhamento à mediação**.",
+      "dicas_fgv": "O edital pede “normas vigentes”: use a Res. 11/2019 com as mudanças da Res. 26/2025. A FGV explora prazos (15 e 30 dias úteis), prescrição (5 anos ética; 2 anos ordinária/funcional; 3 anos intercorrente), reexame necessário e a diferença entre processo ético, ordinário e funcional."
+    },
+    "leg-res10-2017": {
+      "links": [
+        {
+          "titulo": "Res. CFP nº 10/2017 – Política de Orientação e Fiscalização (DOU)",
+          "url": "https://www.in.gov.br/en/web/dou/-/resolucao-n-10-de-25-de-maio-de-2017-19100108",
+          "tipo": "resolucao"
+        },
+        {
+          "titulo": "CRP-RJ – Comissão de Orientação e Fiscalização (COF)",
+          "url": "https://www.crprj.org.br/comissao/view/16/comissao-de-orientacao-e-fiscalizacao-cof",
+          "tipo": "outro"
+        }
+      ],
+      "resumo_md": "### O que é\nInstitui a **Política de Orientação e Fiscalização (POF)** do Sistema Conselhos: diretrizes, estrutura e funcionamento dos órgãos de orientação e fiscalização, com **unidade nacional** e respeito a peculiaridades regionais (art. 1º).\n\n### Objetivos (art. 3º) – destaques\nFiscalização e orientação como **ferramentas de garantia e promoção de direitos humanos**; diálogo com os profissionais; respeito ao usuário; **priorizar ações preventivas, coletivas e planejadas**; seguir as deliberações do **CNP** e da **APAF**.\n\n### Estrutura\n- **Secretaria de Orientação e Ética (SOE) do CFP**: mínimo de **3 membros**, coordenada por conselheiro efetivo; **instância superior e de recurso** nas suas funções (arts. 4º–6º).\n- **COF dos CRPs**: coordena e executa a orientação e fiscalização na jurisdição; mínimo de **3 psicólogos**, **presidida por conselheiro efetivo** (arts. 7º–9º).\n- **Agentes de orientação e fiscalização** (art. 10), com **fé pública**: conselheiros; psicólogos fiscais **concursados**; integrantes de comissões gestoras de subsedes; colaboradores aprovados pelo Plenário. Portam identificação do CRP.\n\n### Método de trabalho\n- **Orientação** (art. 16): obrigatoriedade de conhecer o Código de Ética, inscrição, funções privativas, registro de PJ etc. O CRP pode usar **Termo de Ajustamento de Conduta (TAC)**.\n- **Fiscalização** (art. 17): presencial ou a distância, de rotina ou por denúncia; **sempre que possível, caráter orientativo** (art. 18).\n- **Modalidades** (art. 19): I – **inspeção de PJ**; II – acompanhamento de serviços **por meios tecnológicos**; III – **diligência** a pedido da Comissão de Ética; IV – **averiguação** por denúncia/notícia; V – **estratégica**, por áreas de atuação.\n- Pode haver **apreensão de documentos** havendo indício de falta ética (art. 24).\n- Irregularidade **sanável**: prazo de **até 30 dias** para regularizar; não sanável: orientação para **interromper** a conduta (art. 26). Irregularidades vão à COF (art. 27).",
+      "dicas_fgv": "A FGV cobra as cinco modalidades de fiscalização, o caráter orientativo da fiscalização, o prazo de até 30 dias para regularização e quem são os agentes com fé pública. É também a base da questão discursiva/prática do cargo de psicólogo fiscal."
+    },
+    "leg-res01-2009": {
+      "links": [
+        {
+          "titulo": "Res. CFP nº 001/2009 – registro documental (PDF, CFP)",
+          "url": "https://site.cfp.org.br/wp-content/uploads/2009/04/resolucao2009_01.pdf",
+          "tipo": "resolucao"
+        },
+        {
+          "titulo": "Res. CFP nº 005/2010 – altera a Res. 001/2009 (PDF da página do DOU, site do CFP)",
+          "url": "https://site.cfp.org.br/wp-content/uploads/2010/03/resolucao2010_005.pdf",
+          "tipo": "resolucao"
+        }
+      ],
+      "resumo_md": "### Objeto\nTorna **obrigatório o registro documental** de todo serviço psicológico (art. 1º). O registro (em papel ou informatizado) é **sigiloso**, sucinto e mantido **atualizado e organizado** pela psicóloga.\n\n### Conteúdo do registro (art. 2º, com a ordem dada pela Res. 05/2010)\nI – identificação do usuário/instituição; II – avaliação de demanda e definição de objetivos; III – registro da evolução e procedimentos técnico-científicos; IV – encaminhamento ou encerramento; V – **cópias de outros documentos** produzidos (com data, finalidade e destinatário); VI – **documentos resultantes de instrumentos de avaliação psicológica**, arquivados em **pasta de acesso exclusivo da psicóloga**.\n\n> A **Res. 05/2010** só **inverteu os incisos V e VI**. Efeito prático: o **prontuário** contém os incisos **I a V** (art. 5º, I) – ou seja, **não** inclui os materiais de testes.\n\n### Prontuário (art. 5º)\n- Quando o registro é feito na forma de prontuário: **acesso integral** do usuário ou representante legal.\n- Atendimento em **grupo não eventual**: além do registro do grupo, documentação **individual** de cada usuário.\n- Em **serviço multiprofissional**: **prontuário único**, registrando **apenas o necessário** aos objetivos do trabalho (art. 6º).\n\n### Serviços-escola e estágios (art. 3º)\nIdentificação e assinatura do **supervisor/responsável técnico e do estagiário**.\n\n### Guarda (art. 4º)\n- Responsabilidade da **psicóloga e/ou da instituição**.\n- Prazo **mínimo de 5 anos**, ampliável por lei, ordem judicial ou necessidade do caso.\n- Local que garanta **sigilo e privacidade**, à disposição dos Conselhos para **orientação e fiscalização** e como **prova** em processos.",
+      "dicas_fgv": "A FGV cobra: guarda mínima de 5 anos, acesso integral do usuário ao prontuário, prontuário único em equipe multiprofissional e, principalmente, que resultados de testes ficam fora do prontuário, em pasta de acesso exclusivo da psicóloga (efeito da Res. 05/2010)."
+    },
+    "leg-res06-2019": {
+      "links": [
+        {
+          "titulo": "Res. CFP nº 06/2019 – documentos escritos (DOU)",
+          "url": "https://www.in.gov.br/en/web/dou/-/resolucao-n-6-de-29-de-marco-de-2019-69440920",
+          "tipo": "resolucao"
+        },
+        {
+          "titulo": "Res. CFP 06/2019 comentada (PDF, CFP)",
+          "url": "https://site.cfp.org.br/wp-content/uploads/2019/09/Resolu%C3%A7%C3%A3o-CFP-n-06-2019-comentada.pdf",
+          "tipo": "cartilha"
+        },
+        {
+          "titulo": "Manual Orientativo de Registro e Elaboração de Documentos Psicológicos (CFP, 2025)",
+          "url": "https://site.cfp.org.br/wp-content/uploads/2025/11/Manual_Orientativo.pdf",
+          "tipo": "cartilha"
+        }
+      ],
+      "resumo_md": "### Escopo\nRegras para **elaboração, guarda, destino e envio** de documentos escritos produzidos pela psicóloga (revogou as Res. 15/1996, 07/2003 e 04/2019). Descumprimento = **falta ético-disciplinar** (art. 3º, § 2º). Linguagem: **norma culta**, técnica, clara, impessoal.\n\n### Modalidades (art. 8º)\n1. **Declaração** (art. 9º): registra de forma objetiva **comparecimento, acompanhamento, dias e horários**. **Vedado** registrar sintomas ou estados psicológicos.\n2. **Atestado psicológico** (art. 10): **certifica**, com base em **diagnóstico psicológico**, situação/estado psicológico – ex.: justificar faltas, **apto/inapto** para porte de arma, trânsito, cargo.\n3. **Relatório** (art. 11): exposição **descritiva e circunstanciada** do trabalho realizado ou em andamento; **não tem como finalidade produzir diagnóstico**. Pode ser **psicológico** ou **multiprofissional** (art. 12 – preserva-se a autonomia e o sigilo).\n4. **Laudo psicológico** (art. 13): **resultado de processo de avaliação psicológica**, para subsidiar decisões; exige fontes fundamentais de informação.\n5. **Parecer psicológico** (art. 14): resposta técnica a uma **questão-problema** ou a **documento psicológico questionado**; **não** resulta de avaliação psicológica; pode ser **indicativo ou conclusivo**.\n\n### Guarda, entrega, validade e devolutiva\n- Guarda: **mínimo de 5 anos** (documentos **e** o material que os fundamentou), responsabilidade da psicóloga com a instituição (art. 15).\n- Entrega **diretamente** ao beneficiário/responsável/solicitante, com **protocolo de entrega** assinado (art. 16).\n- **Prazo de validade** do conteúdo indicado no **último parágrafo** (art. 17).\n- **Entrevista devolutiva obrigatória** para **relatório e laudo** (ao menos uma); nos demais, recomendada quando solicitada (art. 18).\n- Vigência: 90 dias após a publicação (art. 19).",
+      "dicas_fgv": "Questão quase certa: dado um caso, qual documento emitir. Lembre: declaração não traz sintomas; atestado exige diagnóstico; relatório não diagnostica; laudo vem de avaliação psicológica; parecer responde a quesito/documento e não é avaliação. Devolutiva obrigatória só para relatório e laudo."
+    },
+    "leg-res13-2022": {
+      "links": [
+        {
+          "titulo": "Res. CFP nº 13/2022 – psicoterapia (DOU)",
+          "url": "https://www.in.gov.br/en/web/dou/-/resolucao-n-13-de-15-de-junho-de-2022-408911936",
+          "tipo": "resolucao"
+        },
+        {
+          "titulo": "Caderno ‘Reflexões e orientações sobre a prática da psicoterapia’ (CFP)",
+          "url": "https://site.cfp.org.br/wp-content/uploads/2023/06/caderno_reflexoes_e_orientacoes_sobre_a_pratica_de_psicoterapia.pdf",
+          "tipo": "cartilha"
+        }
+      ],
+      "resumo_md": "### Conceito (art. 1º, parágrafo único)\nPsicoterapia = prática de intervenção **cientificamente fundamentada**, embasada na ética, em **contexto clínico** e relação interpessoal (indivíduos, casais, famílias, grupos), para promover saúde mental e enfrentar conflitos ou transtornos. Revogou a Res. 10/2000.\n\n### Deveres (art. 3º)\n- **Contrato verbal ou escrito**: direitos/deveres, possibilidade de **interrupção a qualquer momento**, honorários, frequência, tempo de sessão, **impossibilidade de previsões taxativas de resultados**, modalidade, informação de que o serviço será **registrado**.\n- Disponibilizar o **Código de Ética** (físico ou virtual); registrar o serviço (Res. 01/2009); usar abordagens **cientificamente admitidas**.\n- **Tempo de sessão** (art. 4º): definido por critérios técnicos; **vedado** condicioná-lo a honorário/gratuidade, volume de atendimentos ou exigências institucionais.\n- Publicidade: **nome completo, CRP e número** (art. 5º).\n- **Vedado** atuar como **perito ou assistente técnico** de pessoa atendida (atual ou anterior) ou de familiar/terceiro vinculado (art. 6º).\n- **Voluntário** (art. 7º): sem honorários, sem uso para captar clientes.\n- **Supervisão** (art. 8º): inscrição regular, experiência como psicoterapeuta, informar aos atendidos que é **atividade educativa supervisionada**.\n\n### Sigilo e gravação\n- Quebra de sigilo/notificação compulsória: informar **só o estritamente necessário**, considerar vulnerabilidades (art. 10).\n- **Gravação** de sessões: consentimento **livre, prévio, informado e por escrito**, justificada pela finalidade; para criança/adolescente, consentimento **dos responsáveis + anuência** do atendido; integra o registro documental (art. 11).\n\n### Crianças e adolescentes\n- Autorização **por escrito de ao menos um responsável** antes do início (art. 12; modelo no Anexo).\n- Violência ou suspeita: preencher a **ficha de notificação do Ministério da Saúde** e encaminhar ao **Conselho Tutelar** ou autoridade competente (art. 13).\n\n### Abordagem e espaço\n- Critérios para a abordagem (art. 14): fundamentação ético-científico-epistemológica, teoria do desenvolvimento e do sofrimento, **evidência de benefícios** na literatura, requisitos formativos.\n- Espaço psicoterapêutico = **campo relacional** (art. 15); oferta por TICs permitida (art. 16); **cientificidade e laicidade** (art. 17).",
+      "dicas_fgv": "A FGV explora o contrato terapêutico, a vedação de ser perito do próprio paciente, a gravação com consentimento por escrito e o atendimento de menores (autorização escrita de ao menos um responsável). Compare com o art. 8º do Código de Ética, que fala em atendimento “não eventual”."
+    },
+    "leg-res09-2024": {
+      "links": [
+        {
+          "titulo": "Res. CFP nº 09/2024 – Psicologia mediada por TDICs (DOU)",
+          "url": "https://www.in.gov.br/en/web/dou/-/resolucao-n-9-de-18-de-julho-de-2024-575046772",
+          "tipo": "resolucao"
+        },
+        {
+          "titulo": "Guia CFP ‘Inteligência Artificial na Psicologia: prática ética e responsável’",
+          "url": "https://site.cfp.org.br/wp-content/uploads/2025/12/Cartilha_IA_A5-1.pdf",
+          "tipo": "cartilha"
+        }
+      ],
+      "resumo_md": "### Objeto\nRegulamenta o exercício da Psicologia **mediado por TDICs** em território nacional e **revoga** a Res. 11/2018 e a Res. 04/2020. Vigência: **30 dias** após a publicação (DOU de 30/07/2024).\n\n### Conceito (arts. 2º e 3º)\nToda atividade profissional com **uso eventual ou frequente** de TDICs: comunicação **síncrona ou assíncrona**, registro e guarda de dados sensíveis, métodos dependentes de servidores remotos e **manifestações públicas** como psicóloga.\n- Testes psicológicos em meio remoto exigem **parecer favorável do SATEPSI** com padronização específica para essa finalidade (art. 2º, parágrafo único).\n\n### Responsabilidade da psicóloga (arts. 3º e 4º)\nAvaliar **viabilidade e adequação** das TDICs considerando: confidencialidade e privacidade; competências da profissional **e do usuário** no manejo da tecnologia; modalidade (texto, áudio, vídeo); **evidências científicas**; meios para **urgências e emergências**; limites legais (fronteiras entre países e jurisdições dos CRPs); características dos usuários (**deficiência, cultura/língua, faixa etária**); identificação da profissional; **riscos à saúde** (sedentarismo, luz, adição).\n\n### Situações que pedem presencial/rede (art. 5º)\nConsiderar atendimento **concomitante** ou encaminhamento à rede presencial em: **risco de morte/integridade, violência ou violação de direitos**; **privação de liberdade**; **urgência, emergência e desastres**. Registrar tudo no prontuário.\n\n### Território e inscrição (art. 6º)\n- Fiscalização restrita ao exercício em **território nacional**; a psicóloga pode atender por TDICs **independentemente do estado da inscrição principal**.\n- **Dispensada a inscrição secundária** para atendimento por TDICs.\n- Quem reside no exterior deve obedecer à **legislação local**.\n\n### Contrato (art. 7º)\nEscrito ou verbal, com: características do trabalho, **recursos tecnológicos** usados, **foro na jurisdição da inscrição principal**, dados da PJ (se houver) e meios de garantia do **sigilo**.",
+      "dicas_fgv": "A FGV deve explorar a dispensa de inscrição secundária, o foro do contrato na jurisdição da inscrição principal, as situações que exigem rede presencial e o uso de testes on-line apenas com parecer favorável do SATEPSI para essa modalidade."
+    },
+    "leg-res07-2023": {
+      "links": [
+        {
+          "titulo": "Res. CFP nº 07/2023 – laicidade (DOU)",
+          "url": "https://www.in.gov.br/en/web/dou/-/resolucao-n-7-de-6-de-abril-de-2023-477637904",
+          "tipo": "resolucao"
+        }
+      ],
+      "resumo_md": "### Princípio (art. 1º)\nA psicóloga atua respeitando a **singularidade e a diversidade de pensamentos, crenças e convicções**, considerando o **caráter laico do Estado e da ciência psicológica**. Vigência na publicação (DOU 18/04/2023).\n\n### O que deve considerar (art. 2º)\nI – a **laicidade** como pressuposto do Estado Democrático de Direito; II – aspectos históricos e culturais das **experiências espirituais e religiosas**; III – **religiosidade e espiritualidade** como elementos formativos das subjetividades; IV – saberes de **povos originários, comunidades tradicionais** e racionalidades não hegemônicas; V – vivências **a-religiosas, agnósticas e ateístas**.\n\n> Laicidade **não** é ignorar a religião do usuário: é acolhê-la como dimensão da subjetividade **sem** misturar fé e técnica.\n\n### Vedações (art. 3º)\nI – negligência, discriminação, violência ou opressão **à crença religiosa**;\nII – **induzir a crenças religiosas** ou preconceitos;\nIII – práticas psicológicas como castigo/tortura contra a liberdade de crença ou **baseadas em preceitos de fé**;\nIV – técnicas que reforcem estigmas ligados à crença;\nV – usar o título de psicóloga **associado a vertentes religiosas** (ex.: “psicóloga cristã”);\nVI – **associar conceitos e técnicas da Psicologia a crenças religiosas**;\nVII – promover **intolerância e racismo religioso** contra comunidades de **matriz africana**, indígenas e tradicionais;\nVIII – promover **fundamentalismos** que resultem em racismo, LGBTI+fobia, sexismo, xenofobia, capacitismo;\nIX – usar suas **crenças religiosas como publicidade**.\n\n### Ligações\nCódigo de Ética, art. 2º, “b” (vedado induzir convicções religiosas); Res. 13/2022, art. 17 (cientificidade e laicidade na psicoterapia); Res. 16/2019 (veda cadastro de PJ baseada em cunho religioso).",
+      "dicas_fgv": "Caso típico da FGV: psicóloga que se apresenta como “psicóloga cristã”, que integra oração à técnica ou que divulga sua fé no perfil profissional. Lembre que a resolução também protege vivências ateias/agnósticas e trata o racismo religioso contra religiões de matriz africana."
+    },
+    "leg-nt01-2022": {
+      "links": [
+        {
+          "titulo": "Nota Técnica CFP nº 01/2022 – redes sociais e publicidade (PDF)",
+          "url": "https://site.cfp.org.br/wp-content/uploads/2022/06/SEI_CFP-0612475-Nota-Tecnica.pdf",
+          "tipo": "resolucao"
+        },
+        {
+          "titulo": "Nota Técnica CFP nº 01/2022 – página oficial",
+          "url": "https://site.cfp.org.br/documentos/nota-tecnica-sobre-uso-profissional-das-redes-sociais-publicidade-e-cuidados-eticos/",
+          "tipo": "outro"
+        },
+        {
+          "titulo": "Código de Ética Profissional do Psicólogo – Res. CFP 010/2005 (PDF, CFP)",
+          "url": "https://site.cfp.org.br/wp-content/uploads/2012/07/codigo-de-etica-psicologia.pdf",
+          "tipo": "resolucao"
+        }
+      ],
+      "resumo_md": "### Finalidade\nOrienta a publicidade profissional nas **redes sociais** com base no **Código de Ética** (arts. 2º, 9º, 18, 19, 20), na **Consolidação das Resoluções (Res. CFP 03/2007, arts. 53 a 58)**, no **Código de Defesa do Consumidor** e na **LGPD**.\n\n### Pode\n- Divulgar formação, público atendido, **abordagem**, metodologia.\n- Usar **apelidos**, nomes de povos originários e **logomarca**, **desde que** junto do **nome completo (ou nome social)**, título “psicóloga(o)”, **CRP e número**.\n- Divulgar **convênios** e trabalho **voluntário** (se houver continuidade e qualidade; nunca para captar clientes).\n\n### Não pode\n- Usar **preço** como propaganda: termos como *preço social, desconto, pacote promocional, valor acessível*; **cupons e sorteios** são vedados.\n- Sensacionalismo, **previsão taxativa de resultados**, autopromoção em detrimento de colegas, propor atividades **privativas de outras profissões**.\n- Divulgar diagnóstico, caso ou orientação que **identifique** a pessoa atendida.\n- **Depoimentos e fotos de pessoas atendidas**: proibidos sem consentimento; **com consentimento expresso e por escrito é permitido, mas não recomendado** (especialmente crianças e adolescentes – ECA, art. 17).\n- **Publicidade enganosa ou abusiva**.\n\n### Responsabilidade\n- Mesmo com agência de marketing ou **plataforma de atendimento on-line**, a psicóloga **responde** pelo conteúdo (CEPP, art. 2º, “d”, e art. 3º). Plataformas devem exibir nome e CRP dos profissionais.\n- PJ: cabe à **Responsável Técnica** zelar pela publicidade.\n- Liberdade de expressão é garantida, mas quem se anuncia como psicóloga segue a ética profissional (art. 19 do CEPP).",
+      "dicas_fgv": "A FGV deve trazer posts hipotéticos: “primeira sessão grátis”, “valor social”, depoimento de paciente, perfil com apelido sem CRP. Guarde a nuance: depoimento com consentimento escrito é permitido, porém não recomendado."
+    },
+    "leg-res31-2022": {
+      "links": [
+        {
+          "titulo": "Res. CFP nº 31/2022 – avaliação psicológica e SATEPSI (DOU)",
+          "url": "https://www.in.gov.br/en/web/dou/-/resolucao-n-31-de-15-de-dezembro-de-2022-451168039",
+          "tipo": "resolucao"
+        },
+        {
+          "titulo": "SATEPSI – lista de testes favoráveis/desfavoráveis",
+          "url": "https://satepsi.cfp.org.br/",
+          "tipo": "outro"
+        },
+        {
+          "titulo": "Cartilha Avaliação Psicológica (CFP, 2022)",
+          "url": "https://site.cfp.org.br/wp-content/uploads/2022/08/cartilha_avaliacao_psicologica-2309.pdf",
+          "tipo": "cartilha"
+        }
+      ],
+      "resumo_md": "### Conceitos (art. 1º)\n- **Avaliação psicológica**: processo **estruturado** de investigação de fenômenos psicológicos, com métodos, técnicas e instrumentos, para **subsidiar decisões** (individual, grupal ou institucional).\n- **SATEPSI**: avalia a **qualidade técnico-científica** de instrumentos e divulga informações à categoria e à sociedade. Revogou a Res. 09/2018; vigência **60 dias** após a publicação (DOU 16/12/2022).\n\n### Fontes de informação\n- **Fundamentais** (art. 3º) – a decisão deve se basear **obrigatoriamente** nelas: **testes aprovados pelo CFP**; **entrevistas e anamneses**; **protocolos/registros de observação** (individual ou grupal).\n- **Complementares** (art. 4º): técnicas **não psicológicas** com respaldo científico; documentos técnicos de outras equipes.\n- A psicóloga tem a **prerrogativa** de escolher métodos e instrumentos, desde que fundamentados (art. 5º).\n\n### Testes psicológicos\n- Abrangem testes, **escalas, inventários, questionários e métodos projetivos/expressivos** (art. 10).\n- Uso **privativo** da psicóloga (art. 8º; Lei 4.119); teste + manual = **tecnologia profissional** (art. 9º).\n- Seguir **rigorosamente** o manual aprovado (art. 11).\n- Usar teste com **parecer desfavorável** ou da lista de **não avaliados** = **falta ética** – **exceto** em **pesquisa** e **ensino** (art. 12).\n- Dúvida se é teste: CRP submete à **CCAP**, que classifica como “teste psicológico” ou “instrumento não privativo” (art. 13).\n\n### Requisitos e validade\n- Requisitos mínimos (art. 15): fundamentação teórica, **evidências de validade e precisão**, sistema de correção/normas, ficha síntese, regras de aplicação; testes estrangeiros precisam de estudos com **amostras brasileiras**.\n- Estudos de **validade, precisão e normas**: prazo máximo de **15 anos** desde a aprovação (art. 22); testes aprovados antes mantêm 20 anos (validade) e 15 (normas). Sem revisão, **perdem a condição de uso**.\n- Formatos diferentes de aplicação (ex.: informatizado/remoto) exigem **estudo de equivalência** (art. 24).\n\n### Direitos humanos (arts. 39–42)\nVedado usar testes para **induzir convicções**, castigo ou **reforçar preconceitos e estereótipos**.",
+      "dicas_fgv": "Clássicos de prova: fontes fundamentais x complementares, falta ética ao usar teste desfavorável (com exceção de pesquisa/ensino), prazo de 15 anos para estudos e o papel da CCAP. A FGV gosta de afirmar que entrevista é fonte “complementar” – é fundamental."
+    },
+    "leg-res08-2025": {
+      "links": [
+        {
+          "titulo": "Res. CFP nº 08/2025 – avaliação psicológica em concurso público (DOU)",
+          "url": "https://www.in.gov.br/en/web/dou/-/resolucao-n-8-de-30-de-abril-de-2025-631042418",
+          "tipo": "resolucao"
+        },
+        {
+          "titulo": "Res. CFP nº 31/2022 – avaliação psicológica e SATEPSI (DOU)",
+          "url": "https://www.in.gov.br/en/web/dou/-/resolucao-n-31-de-15-de-dezembro-de-2022-451168039",
+          "tipo": "resolucao"
+        }
+      ],
+      "resumo_md": "### Escopo\nAvaliação psicológica em **concursos públicos e seleções de natureza pública**; **revogou a Res. CFP 02/2016**; vigência na publicação (DOU 22/05/2025).\n\n### Fundamentos (art. 2º)\nCódigo de Ética, **Res. 31/2022** (técnica), **Res. 06/2019 e 01/2009** (documentos e guarda), direitos humanos.\n\n### Requisitos e impedimentos\n- Avaliadora: inscrição ativa, não cumprindo **suspensão/cassação**, capacitada (art. 3º).\n- **Impedida**: cônjuge, companheira ou parente **até o 3º grau** do candidato (art. 4º).\n- Deve declarar-se impedida se houver relação que afete o trabalho, **interesse** no resultado ou **litígio** com o candidato (art. 5º).\n\n### Finalidade (arts. 6º e 7º)\n- Identificar **requisitos psicológicos compatíveis com o cargo**; **não** é **psicodiagnóstico** de psicopatologias.\n- Uso de métodos psicológicos para seleção é **privativo** (Lei 4.119, art. 13, § 1º, “b”).\n- Requisitos vêm do **estudo científico do cargo** (**profissiografia/análise profissiográfica**): características **necessárias** e **restritivas/impeditivas**.\n- Resultado: **apto ou inapto**, fundamentado nos requisitos previamente definidos.\n\n### Bancas\n- **Examinadora**: responsabilidade técnica de toda a avaliação, por **até 5 anos** após o resultado final; termo de **confidencialidade**; nomes sob sigilo; **currículos** publicados no site da entidade (art. 8º).\n- **Avaliadora**: aplica, corrige e faz a devolutiva (art. 9º).\n- **Revisora**: julga recursos de forma **independente**; quem participou de etapas anteriores está **impedido** (art. 10).\n\n### Edital\n- Participação **obrigatória** de psicóloga na definição do conteúdo (art. 11).\n- Deve trazer um **extrato dos requisitos** e prever **entrevista devolutiva** e **recurso** para inaptos (art. 12).\n- **Vedado** divulgar **nomes dos testes** e **escores** (art. 12, parágrafo único).\n- Aplicação coletiva: **até 40 candidatos por sala**, se não houver norma específica (art. 14).\n\n### Devolutiva e recurso\n- Devolutiva aos **inaptos**, só ao candidato, que pode levar **psicóloga contratada** que não participou do certame (art. 15); **não** pode ser filmada, gravada ou fotografada (art. 17); instrumentos não saem do arquivo (art. 16).\n- Candidato tem direito aos **documentos psicológicos** (art. 18).\n- A aptidão vale **só para aquele cargo e certame** (art. 23).",
+      "dicas_fgv": "A FGV vai explorar o que é vedado no edital (nomes dos testes e escores), quem pode compor a banca revisora, o limite de 40 candidatos por sala, a proibição de gravar a devolutiva e a ideia de que a avaliação não é psicodiagnóstico."
+    },
+    "leg-res16-2019": {
+      "links": [
+        {
+          "titulo": "Res. CFP nº 16/2019 – Pessoa Jurídica e Responsável Técnica(o) (DOU)",
+          "url": "https://www.in.gov.br/en/web/dou/-/resolucao-n-16-de-21-de-agosto-de-2019-214562656",
+          "tipo": "resolucao"
+        },
+        {
+          "titulo": "CFP – notícia sobre a Res. 16/2019 (PJ)",
+          "url": "https://site.cfp.org.br/cfp-publica-nova-resolucao-sobre-pessoa-juridica/",
+          "tipo": "outro"
+        },
+        {
+          "titulo": "CRP-RJ – Comissão de Orientação e Fiscalização (COF)",
+          "url": "https://www.crprj.org.br/comissao/view/16/comissao-de-orientacao-e-fiscalizacao-cof",
+          "tipo": "outro"
+        }
+      ],
+      "resumo_md": "### Registro x cadastro\n- **Registro** (art. 1º): obrigatório para PJ que presta serviços de Psicologia como **atividade principal**, no CRP da jurisdição onde atua (inclui EIRELI, associações, fundações, cooperativas, ONGs, OSCIPs, entes públicos…). Filial em outra jurisdição faz **registro próprio** (art. 2º).\n- **Cadastro** (art. 9º): PJ com Psicologia como **atividade secundária**. É **vedado** cadastrar PJ cuja finalidade não permita equipe com a psicóloga, incluindo as baseadas em ideias de **cunho moral, filosófico ou religioso**.\n\n### Pedido e recursos\n- Documentos: ato constitutivo, CNPJ, alvará, **certidão negativa da RT**, vínculo da RT (art. 3º).\n- Indeferimento: recurso ao próprio CRP em **30 dias úteis**; mantida a decisão, recurso ao **CFP** em **30 dias úteis** (art. 3º, §§).\n- Registro concedido se os serviços forem de Psicologia, houver **liberdade técnica** às psicólogas e **RT** com inscrição ativa; nome fantasia não pode induzir a práticas estranhas à Psicologia (art. 4º).\n\n### Certificado e anuidade\n- **Certificado de Registro** válido por **3 anos**, afixado em local visível; renovação com **60 dias** de antecedência (art. 5º).\n- PJ registrada paga **anuidade** (art. 6º); **empresário individual** é isento como PJ e paga como pessoa física; PJ **cadastrada** é **isenta** de anuidade (art. 11), e entidades públicas e serviços-escola isentos de taxas.\n- Comunicação da PJ registrada deve conter o **número de inscrição no CRP** (art. 8º).\n\n### Responsável Técnica(o)\n- **Ao menos uma RT por sede, agência, filial ou sucursal** (art. 13).\n- Deveres: acompanhar os serviços; zelar pela ética, qualidade, **guarda do material** e ambiente; **comunicar o desligamento**; **comunicar possíveis faltas éticas** ao CRP.\n- A RT **não responde** pelas faltas éticas individuais das demais, salvo **negligência** (art. 13, § 2º).\n- Substituição da RT: comunicar em **30 dias úteis**; sem RT a PJ **não pode executar** serviços de Psicologia (art. 14).\n- Primeira orientação/fiscalização da PJ registrada em até **120 dias** (art. 16).\n\n### Infrações e penas (arts. 18–19)\nProcesso **ordinário**; multa de **1 a 5 anuidades** (pessoa física) e **1 a 10** (PJ); cancelamento do registro/cadastro *ad referendum* do CFP.",
+      "dicas_fgv": "Diferenciar registro (atividade principal, paga anuidade) de cadastro (atividade secundária, isento) é a questão mais provável. Também: uma RT por unidade, 30 dias úteis para comunicar troca de RT, validade de 3 anos do certificado e a RT não responder por falta individual alheia sem negligência."
+    },
+    "leg-res23-2022": {
+      "links": [
+        {
+          "titulo": "Res. CFP nº 23/2022 – especialista e especialidades (DOU)",
+          "url": "https://www.in.gov.br/en/web/dou/-/resolucao-n-23-de-13-de-outubro-de-2022-437945688",
+          "tipo": "resolucao"
+        },
+        {
+          "titulo": "Res. CFP nº 17/2025 – inclui Residência como via para título de especialista (DOU)",
+          "url": "https://www.in.gov.br/en/web/dou/-/resolucao-n-17-de-10-de-junho-de-2025-639632325",
+          "tipo": "resolucao"
+        }
+      ],
+      "resumo_md": "### Registro de especialista\n- Concedido pelo **CRP de inscrição principal** (art. 1º).\n- Requisitos cumulativos (art. 2º): **comprovar exercício profissional** na área **e** conhecimento teórico-metodológico por: **especialização** em IES credenciada (LDB), **aprovação em prova do CFP**, ou – incluído pela **Res. 17/2025** – **Residência Multiprofissional/em Área Profissional da Psicologia** reconhecida pelo MEC.\n- Inscrição há **no mínimo 2 anos** e em **pleno gozo dos direitos**: inscrição ativa, anuidades em dia e sem cumprir suspensão/cassação ou multa ética pendente (art. 3º).\n- Até **2 especialidades** registradas na **CIP** (art. 2º, § 1º).\n\n### 13 especialidades reconhecidas (art. 4º)\n1. Escolar e Educacional; 2. Organizacional e do Trabalho; 3. **de Tráfego** (equivale a Trânsito); 4. Jurídica; 5. do Esporte; 6. Clínica; 7. Hospitalar; 8. **Psicopedagogia**; 9. **Psicomotricidade**; 10. Social; 11. Neuropsicologia; 12. em Saúde; 13. **Avaliação Psicológica** (a mais recente da lista).\nO CFP pode criar novas áreas diante de demandas sociais e produção científica.\n\n### CARPE (art. 5º)\n- Cada CRP constitui a **Comissão de Análise para Concessão de Registro de Psicóloga(o) Especialista**: **mínimo 3 efetivos e 2 suplentes**, inscritos há **pelo menos 5 anos**; ao menos **1 conselheiro**, que a **coordena**.\n- Caráter **consultivo**: emite parecer; quem **decide é o Plenário** do CRP.\n- Documentação incompleta: **30 dias corridos** para regularizar. Trabalho **honorífico**, não remunerado.\n\n### Prazos do processo (art. 6º)\n- CRP decide em até **60 dias** do protocolo; deferido, anota “Psicóloga(o) Especialista em…” na CIP.\n- Indeferimento: recurso ao **CFP** em até **30 dias corridos**.\n\n### Revogações\nRevogou as Res. 13/2007 (antiga consolidação do título), 03/2016 e 18/2019.",
+      "dicas_fgv": "A FGV pode pedir quantas especialidades existem (13), quais delas (Psicopedagogia e Psicomotricidade costumam surpreender), o limite de duas na CIP, a composição e o papel consultivo da CARPE e os prazos de 60 e 30 dias. Lembre a novidade de 2025: residência como via de titulação."
+    },
+    "leg-lei11788": {
+      "links": [
+        {
+          "titulo": "Lei nº 11.788/2008 – Lei do Estágio (Planalto)",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11788.htm",
+          "tipo": "lei"
+        },
+        {
+          "titulo": "Nota Técnica CFP nº 31/2024 – estágios e preceptoria (PDF)",
+          "url": "https://site.cfp.org.br/wp-content/uploads/2024/12/nota-tecnica-cfp-n-31-2024.pdf",
+          "tipo": "resolucao"
+        }
+      ],
+      "resumo_md": "### Conceito (art. 1º)\nEstágio é **ato educativo escolar supervisionado**, em ambiente de trabalho, que integra o **projeto pedagógico** do curso.\n\n### Modalidades (art. 2º)\n- **Obrigatório**: previsto no projeto do curso; carga horária é requisito para o diploma.\n- **Não obrigatório**: opcional, somado à carga regular.\n\n### Requisitos (art. 3º)\nMatrícula e frequência regular; **termo de compromisso** entre **educando, parte concedente e instituição de ensino**; compatibilidade das atividades com o termo. Descumprimento gera **vínculo empregatício** (art. 3º, § 2º).\n- Acompanhamento efetivo por **professor orientador** (instituição) e **supervisor** (concedente).\n\n### Obrigações\n- Instituição de ensino (art. 7º): indicar **professor orientador**; exigir **relatório de atividades** em prazo **não superior a 6 meses**.\n- Concedente (art. 9º): **supervisor** do quadro de pessoal, com formação ou experiência na área, para **até 10 estagiários** simultaneamente; **seguro contra acidentes pessoais** (no obrigatório, pode ser assumido pela instituição de ensino).\n\n### Jornada (art. 10)\n- Educação especial e anos finais do fundamental (EJA): **4 h/dia e 20 h/semana**.\n- **Ensino superior**, profissional de nível médio e médio regular: **6 h/dia e 30 h/semana**.\n- Cursos que alternam teoria e prática: até **40 h/semana**, se previsto no projeto.\n- Em período de provas, carga **reduzida pelo menos à metade**.\n\n### Outros direitos\n- Duração máxima **2 anos** na mesma concedente, **exceto** estagiário com deficiência (art. 11).\n- **Bolsa e auxílio-transporte compulsórios** no **não obrigatório** (art. 12).\n- **Recesso de 30 dias** a cada 1 ano (preferencialmente nas férias), **remunerado** se houver bolsa; proporcional se menor (art. 13).\n- Limites de estagiários (art. 17), que **não** se aplicam a estágios de **nível superior** e médio profissional; **10%** das vagas para **pessoas com deficiência**.",
+      "dicas_fgv": "A FGV cobra jornada (6 h/30 h no superior), duração máxima de 2 anos (exceto PcD), bolsa obrigatória só no não obrigatório, recesso de 30 dias, supervisor para até 10 estagiários e relatório semestral."
+    },
+    "leg-res05-2025": {
+      "links": [
+        {
+          "titulo": "Res. CFP nº 05/2025 – orientação, supervisão e coordenação de estágio (DOU)",
+          "url": "https://www.in.gov.br/en/web/dou/-/resolucao-n-5-de-3-de-fevereiro-de-2025-613444532",
+          "tipo": "resolucao"
+        },
+        {
+          "titulo": "Res. CFP nº 21/2025 – altera a Res. 05/2025 (vigência 01/02/2026) (DOU)",
+          "url": "https://www.in.gov.br/en/web/dou/-/resolucao-n-21-de-24-de-junho-de-2025-639630296",
+          "tipo": "resolucao"
+        },
+        {
+          "titulo": "Nota Técnica CFP nº 31/2024 – estágios e preceptoria (PDF)",
+          "url": "https://site.cfp.org.br/wp-content/uploads/2024/12/nota-tecnica-cfp-n-31-2024.pdf",
+          "tipo": "resolucao"
+        }
+      ],
+      "resumo_md": "### Vigência\nPublicada no DOU em 19/02/2025; a **Res. CFP 21/2025** alterou a revogação e fixou a entrada em vigor em **1º/02/2026**. Revoga os arts. 51 e 52 da Res. 03/2007, a Res. 02/1984 e a Res. 15/1977.\n\n### Orientadora(or) de estágio (arts. 2º–5º)\n- Requisitos: **registro ativo**, **docente da instituição de ensino**, formação e carga horária compatíveis.\n- Deve: acompanhar de forma regular e sistemática, em **orientações presenciais** (individuais ou em grupo); **visitar o campo** de estágio; adequar pedagógica, técnica e eticamente o plano de cada estudante; orientar sobre **sigilo** e elaboração/guarda de documentos.\n- **Parâmetros de orientação (art. 5º)**:\n  - grupo de núcleo comum, **menor complexidade**: até **10 alunos**, mínimo **2 h/semana**;\n  - núcleo comum, **maior complexidade**: até **10 alunos**, mínimo **4 h/semana**;\n  - **ênfases curriculares**: até **10 alunos**, mínimo **4 h/semana**;\n  - **individual**: mínimo **meia hora/semana**.\n\n### Supervisora(or) de estágio (arts. 6º–7º)\n- **Registro ativo**, **funcionária(o) da instituição concedente**, experiência prática comprovada na área.\n- Acompanhar presencialmente; adequar atividades; realizar **notificação compulsória** (ECA, Estatuto da Pessoa Idosa, LBI, Lei 6.259/1975 etc.).\n- Comunicação orientador–supervisor **antes e durante** o estágio (art. 8º).\n\n### Serviço-escola (arts. 9º–10)\nCoordenação/RT com registro ativo; informar usuários sobre **acesso ao prontuário**, serviços, horários e custos; estagiários assinam **termo de responsabilidade**; disponibilizar o **Código de Ética**.\n\n### Documentos (arts. 11–20)\n- Prontuário com identificação, demanda, objetivos, evolução, encaminhamento/encerramento e cópias de documentos; **acesso irrestrito** do usuário (art. 13).\n- Resultados de **testes não entram** no prontuário (art. 14).\n- Relatórios de supervisão ficam no **registro documental**, compartilhados só entre orientadores, supervisores e estagiários.\n- Guarda **mínima de 5 anos** (art. 18); documentos assinados pela **estagiária e pela psicóloga responsável** (art. 19).",
+      "dicas_fgv": "Espere números: até 10 alunos por grupo, 2 h ou 4 h semanais conforme a complexidade, 30 minutos na orientação individual. A FGV também deve distinguir orientador (docente da IES) de supervisor (funcionário da concedente) e cobrar a vigência alterada pela Res. 21/2025."
+    },
+    "leg-nt31-2024": {
+      "links": [
+        {
+          "titulo": "Nota Técnica CFP nº 31/2024 – estágios e preceptoria (PDF)",
+          "url": "https://site.cfp.org.br/wp-content/uploads/2024/12/nota-tecnica-cfp-n-31-2024.pdf",
+          "tipo": "resolucao"
+        },
+        {
+          "titulo": "Nota Técnica CFP nº 31/2024 – página oficial",
+          "url": "https://site.cfp.org.br/documentos/nota-tecnica-cfp-no-31-2024/",
+          "tipo": "outro"
+        },
+        {
+          "titulo": "Lei nº 11.788/2008 – Lei do Estágio (Planalto)",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11788.htm",
+          "tipo": "lei"
+        }
+      ],
+      "resumo_md": "### Objetivo\nOrientar orientadoras(es), supervisoras(es) e coordenações sobre o acompanhamento de **estágios obrigatórios supervisionados na graduação**, distinguindo-o da **preceptoria** das residências (elaborada com a **ABEP**).\n\n### Preceptoria x estágio\n- **Preceptoria** (Ministério da Saúde): acompanhamento de **residentes** (profissionais já graduados) nos serviços de saúde, na lógica da **educação permanente em saúde** e das residências multi/uniprofissionais.\n- **Estágio obrigatório da graduação**: regido pela **Lei 11.788/2008** e pelas **DCNs de Psicologia (Res. CNE/CES 1/2023)** – exige **orientador docente** da instituição de ensino **e** **supervisor** do quadro da concedente (até **10 estagiários**), simultaneamente.\n\n### Pontos-chave da nota\n- As DCNs exigem formação **generalista**; estágios supervisionados somam **pelo menos 20% da carga horária** do curso, distribuídos ao longo da formação, com **orientação presencial** por **professoras(es) psicólogas(os)** da instituição.\n- **Não há previsão legal de “preceptor”** no estágio obrigatório da graduação.\n- O CFP recebeu **denúncias** de instituições que substituem orientadores e supervisores por “preceptores” **sem qualificação**, com contratos **precarizados**, que não são docentes nem funcionários do campo.\n- Isso **precariza** o trabalho docente e a formação, com risco à qualidade dos serviços à população.\n\n### Conclusão\nA figura do “preceptor” **fora do contexto das residências não habilita** ninguém a substituir orientadora ou supervisora de estágio obrigatório. Ligação direta com a **Res. CFP 05/2025** (requisitos de orientadores e supervisores).",
+      "dicas_fgv": "A FGV tende a apresentar uma IES que contrata “preceptores” para acompanhar estagiários e perguntar se é regular: não é, porque o estágio exige orientador docente e supervisor da concedente. Também pode cobrar o mínimo de 20% de estágio nas DCNs."
+    },
+    "leg-eca": {
+      "links": [
+        {
+          "titulo": "ECA – Lei nº 8.069/1990 (Planalto)",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm",
+          "tipo": "lei"
+        },
+        {
+          "titulo": "Lei nº 13.431/2017 – escuta especializada e depoimento especial (Planalto)",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13431.htm",
+          "tipo": "lei"
+        },
+        {
+          "titulo": "CREPOP – Referências Técnicas: rede de proteção a crianças e adolescentes em situação de violência sexual",
+          "url": "https://crepop.cfp.org.br/wp-content/uploads/sites/34/2022/10/017-Crepop-Referencias-Tecnicas-para-Atuacao-de-Psicologasos-na-Rede-de-Protecao-as-Criancas-e-Adolescentes-em-Situacao-de-Violencia-Sexual.pdf",
+          "tipo": "cartilha"
+        }
+      ],
+      "resumo_md": "### Comunicação obrigatória\n- **Art. 13**: casos de **suspeita ou confirmação** de castigo físico, tratamento cruel ou degradante e **maus-tratos** serão **obrigatoriamente comunicados ao Conselho Tutelar** da localidade, sem prejuízo de outras providências.\n- **Art. 70-B**: entidades públicas e privadas de **saúde e educação** devem ter pessoas capacitadas para **reconhecer e comunicar ao Conselho Tutelar** suspeitas de crimes contra crianças e adolescentes; quem tem a guarda/cuidado responde por **omissão ou demora injustificada**.\n- **Art. 245** (infração administrativa): médico, professor ou responsável por estabelecimento de **saúde** e de ensino fundamental, pré-escola ou creche que **deixar de comunicar** suspeita/confirmação de maus-tratos → **multa de 3 a 20 salários de referência** (dobro na reincidência).\n- **Lei 13.431/2017, art. 13**: **qualquer pessoa** que saiba de violência contra criança/adolescente deve comunicar **imediatamente** ao serviço de denúncias, ao **Conselho Tutelar** ou à **autoridade policial**.\n\n### Sigilo e privacidade\n- **Art. 17**: direito ao **respeito** – inviolabilidade da integridade física, **psíquica** e moral, preservação da **imagem, identidade**, valores e crenças.\n- **Art. 100, parágrafo único, V**: **privacidade** – respeito à intimidade, imagem e vida privada.\n- **Art. 143**: vedada a divulgação de atos judiciais, policiais e administrativos sobre adolescente a quem se atribua **ato infracional**; notícia não pode identificar (nome, foto, apelido, filiação, residência, **iniciais**).\n- **Art. 247**: divulgar sem autorização nome/ato/documento desses procedimentos = infração administrativa.\n\n### Diálogo com a Psicologia\n- **Código de Ética, art. 10**: quebra de sigilo pelo **menor prejuízo**; a notificação é hipótese **prevista em lei**.\n- **Res. CFP 13/2022, art. 13**: psicoterapeuta preenche a **ficha de notificação do Ministério da Saúde** e encaminha ao **Conselho Tutelar** ou autoridade competente.\n- **Lei 13.431/2017**: **escuta especializada** (rede de proteção, limitada ao necessário) ≠ **depoimento especial** (autoridade policial/judicial); objetivo: evitar **revitimização**.",
+      "dicas_fgv": "A FGV costuma perguntar a quem comunicar (Conselho Tutelar), se basta suspeita (sim) e como conciliar com o sigilo (quebra pelo menor prejuízo, informando só o necessário). Atenção à distinção entre escuta especializada e depoimento especial."
+    },
+    "leg-idoso-pcd": {
+      "links": [
+        {
+          "titulo": "Estatuto da Pessoa Idosa – Lei nº 10.741/2003 (Planalto)",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741.htm",
+          "tipo": "lei"
+        },
+        {
+          "titulo": "Estatuto da Pessoa com Deficiência – Lei nº 13.146/2015 (Planalto)",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm",
+          "tipo": "lei"
+        },
+        {
+          "titulo": "CREPOP – Referências Técnicas: políticas públicas para pessoas idosas (2025)",
+          "url": "https://crepop.cfp.org.br/wp-content/uploads/sites/34/2025/11/RT_Politicas_Publicas_Pessoas_Idosas_web.pdf",
+          "tipo": "cartilha"
+        },
+        {
+          "titulo": "CFP – Manual orientativo para uma atuação anticapacitista",
+          "url": "https://site.cfp.org.br/wp-content/uploads/2025/10/Manual_Anticapacitista_web.pdf",
+          "tipo": "cartilha"
+        }
+      ],
+      "resumo_md": "### Estatuto da Pessoa Idosa (Lei 10.741/2003)\n- Pessoa idosa: **60 anos ou mais** (art. 1º). Nome atualizado pela Lei 14.423/2022.\n- **Art. 4º**: nenhuma pessoa idosa será objeto de negligência, discriminação, violência, crueldade ou opressão.\n- **Art. 6º**: **todo cidadão** tem o dever de **comunicar à autoridade competente** qualquer violação que tenha testemunhado ou de que tenha conhecimento.\n- **Art. 19**: casos de **suspeita ou confirmação de violência** são de **notificação compulsória** pelos **serviços de saúde públicos e privados** à **autoridade sanitária**, e comunicados à **autoridade policial, ao Ministério Público** e aos **Conselhos da Pessoa Idosa** (municipal, estadual e nacional). § 1º: violência = ação ou omissão, em local público ou privado, que cause morte, dano ou sofrimento físico ou psicológico.\n- **Art. 57**: profissional de saúde ou responsável por estabelecimento de saúde/ILPI que **deixar de comunicar** crimes contra a pessoa idosa → **multa de R$ 500 a R$ 3.000**, dobrada na reincidência.\n- Crimes: discriminação (art. 96), omissão de socorro (art. 97), **abandono** em hospitais/ILPI (art. 98), expor a perigo a integridade (art. 99).\n\n### Estatuto da Pessoa com Deficiência (LBI – Lei 13.146/2015)\n- **Art. 2º**: PcD = **impedimento de longo prazo** (físico, mental, intelectual ou sensorial) que, **em interação com barreiras**, pode obstruir a participação plena (modelo **social/biopsicossocial**). Avaliação, quando necessária, **biopsicossocial**, por equipe multiprofissional e interdisciplinar.\n- **Art. 3º**: barreiras (inclusive **atitudinais**), adaptações razoáveis (sem ônus desproporcional), tecnologia assistiva.\n- **Art. 4º**: nenhuma discriminação; recusa de **adaptação razoável** também é discriminação.\n- **Art. 5º**: proteção contra negligência, discriminação, exploração, violência, tortura, crueldade, opressão e tratamento desumano.\n- **Art. 7º**: **dever de todos comunicar** à autoridade competente ameaça ou violação de direitos.\n- **Art. 26**: suspeita ou confirmação de violência contra PcD é objeto de **notificação compulsória pelos serviços de saúde** públicos e privados à **autoridade policial e ao Ministério Público**, além dos **Conselhos dos Direitos da PcD**.\n- **Art. 88**: praticar, induzir ou incitar discriminação = **reclusão de 1 a 3 anos** e multa.",
+      "dicas_fgv": "A FGV compara os três estatutos: para crianças, comunicação ao Conselho Tutelar; para idosos e PcD, notificação compulsória pelos serviços de saúde com comunicação à polícia, ao MP e aos conselhos de direitos. Detalhes como 60 anos, multa do art. 57 e o conceito biopsicossocial de deficiência são recorrentes."
+    },
+    "leg-res17-2022": {
+      "links": [
+        {
+          "titulo": "Res. CFP nº 17/2022 – parâmetros na saúde / hora-assistencial (DOU)",
+          "url": "https://www.in.gov.br/en/web/dou/-/resolucao-n-17-de-19-de-julho-de-2022-418333366",
+          "tipo": "resolucao"
+        },
+        {
+          "titulo": "CFP – Conheça a Resolução 17/2022 (página explicativa)",
+          "url": "https://site.cfp.org.br/parametros-para-assistencia-psicologica-em-saude/conheca-a-resolucao-17-2022/",
+          "tipo": "outro"
+        }
+      ],
+      "resumo_md": "### Objeto\nParâmetros para a prática psicológica na **atenção básica, secundária e terciária** de saúde, em **estabelecimentos públicos e privados**. Os parâmetros são **normas técnicas mínimas** para orientar profissionais, RTs e gestores no planejamento de atribuições e no **dimensionamento** de pessoal (art. 1º, § 1º).\n\n### Conceitos-chave (art. 3º)\n- **Hora-Assistencial**: unidade de medida do **tempo médio** estimado para as práticas psicológicas em saúde; **não é só o atendimento**: inclui planejamento (leitura de prontuário, preparo de material), intervenções, ações compartilhadas/territoriais, **supervisão e reuniões de equipe**, encaminhamentos, **evolução em prontuário**, documentos, notificações e rotinas administrativas.\n- **Agenda-Padrão**: modelo de distribuição das ações nas agendas **semanal e mensal**, individual ou compartilhada.\n- Ambos servem para **dimensionar equipes** e sistematizar o trabalho.\n\n### Diretrizes\n- Saúde mental nos serviços substitutivos: trabalho **multiprofissional e interdisciplinar**, princípios da **reforma psiquiátrica antimanicomial**, tempo previsto no **Projeto Terapêutico Singular** (art. 1º, § 3º).\n- Ações de **matriciamento**, PTS, educação permanente, articulação intra e intersetorial (art. 2º, § 3º).\n- Instituições de saúde com serviço psicológico devem estar **registradas ou cadastradas** no CRP e ter **ao menos uma RT por unidade**; se houver **só uma psicóloga**, ela será a **RT** (art. 4º).\n- **Atenção básica** (arts. 5º–6º): atributos de equidade, integralidade, universalidade, longitudinalidade, primeiro contato e coordenação do cuidado; atuação em **Nasf-AB, Consultório na Rua**, centros de convivência, atenção primária prisional, PNAISARI.\n- **Atenção secundária** (arts. 11–14): clínica ampliada, reabilitação e PTS; atua na **RAPS**, centros especializados/ambulatórios, hospitais de média complexidade e urgência; agenda-padrão em 4 eixos (atendimento específico, ações compartilhadas, ações no território, outras ações).\n- **Atenção terciária** (arts. 20–22) – exemplos de hora-assistencial: atendimento ambulatorial, avaliação psicológica, entrevista inicial e devolutiva **60 min**; **avaliação neuropsicológica 90–120 min**; grupos **90–120 min**; enfermaria adulto **30–45 min**; pediátrica **45–60 min**; **UTI 30–40 min**; pronto-socorro **30–60 min**; cuidados paliativos **60 min**; atenção domiciliar **60–120 min**.\n- Vigência: **180 dias** após a publicação (art. 25). O CFP disponibiliza **planilha de cálculo** do dimensionamento.",
+      "dicas_fgv": "O foco provável é o conceito de hora-assistencial (que inclui atividades indiretas, não apenas o atendimento) e de agenda-padrão, além da regra de RT por unidade e da psicóloga única ser a RT. A FGV pode tratar hora-assistencial como sinônimo de hora-relógio de atendimento – está errado."
+    },
+    "leg-res01-2019": {
+      "links": [
+        {
+          "titulo": "Res. CFP nº 01/2019 – perícia psicológica no trânsito (DOU)",
+          "url": "https://www.in.gov.br/en/web/dou/-/resolucao-n-1-de-7-de-fevereiro-de-2019-62976886",
+          "tipo": "resolucao"
+        },
+        {
+          "titulo": "CREPOP – Referências Técnicas: mobilidade humana e trânsito",
+          "url": "https://crepop.cfp.org.br/wp-content/uploads/sites/34/2022/10/003-Crepop-Referencias-Tecnicas-para-atuacao-de-psicologas-em-politicas-publicas-de-mobilidade-humana-e-transito.pdf.pdf",
+          "tipo": "cartilha"
+        }
+      ],
+      "resumo_md": "### Objeto\nNormas e procedimentos para a **perícia psicológica** de **candidatos à CNH e condutores**; **revogou as Res. 007/2009 e 009/2011**. São **exigências mínimas de qualidade**; descumprimento = falta ético-disciplinar; os CRPs fiscalizam.\n\n### Perícia psicológica\nAvaliação psicológica **dirigida a responder demanda legal específica**; processo técnico-científico, feito por psicóloga **qualificada** na área.\n\n### O que avaliar (art. 2º, § 2º)\n- **Aspectos cognitivos**: **atenção concentrada, dividida e alternada**; **memória visual**; **inteligência**.\n- **Juízo crítico/comportamento**: por **entrevista** e **situações hipotéticas** de trânsito; tempo de reação; histórico de acidentes; opiniões sobre cidadania e mobilidade.\n- **Traços de personalidade**: **impulsividade, agressividade e ansiedade “adequadas”** – nem exacerbadas nem muito diminuídas.\n\n### Instrumentos e procedimentos\n- Decisão baseada em **fontes fundamentais** (hoje Res. 31/2022); testes **somente com parecer favorável do SATEPSI**, escolhidos pela psicóloga.\n- Verificar se as **normas** do teste correspondem ao grupo de referência.\n- **Entrevista individual e obrigatória**.\n- Seguir **rigorosamente o manual**; **cópias reprográficas** ou impressão de baixa qualidade = **falta ética**.\n- **Rapport** antes dos testes, verificando condições físicas e psíquicas (medicação, visão, sono, alimentação, problemas situacionais) – pode-se adiar a testagem.\n- PcD: considerar a **funcionalidade**.\n- Ambiente adequado (acústica, iluminação, ventilação), conforme normas do **CONTRAN**.\n\n### Resultado\n- **Conclusivo**, conforme normas do CONTRAN, limitado às informações **estritamente necessárias**.\n- Documento arquivado com os protocolos dos testes.\n- **Entrevista devolutiva obrigatória quando solicitada**, com resultado e encaminhamentos.",
+      "dicas_fgv": "A FGV deve cobrar a lista de construtos (atenção concentrada, dividida, alternada, memória visual e inteligência), a entrevista individual obrigatória, a proibição de cópias de testes e a devolutiva obrigatória quando solicitada."
+    },
+    "leg-crprj-02-2022": {
+      "links": [
+        {
+          "titulo": "Cartilha da COMSCC – CRP-RJ (PDF)",
+          "url": "https://www.crprj.org.br/uploads/revista/6011/kSsq_4oZAZwBoIX84yS9YMCEwUoD2fmj.pdf",
+          "tipo": "cartilha"
+        },
+        {
+          "titulo": "CRP-RJ – página da COMSCC",
+          "url": "https://www.crprj.org.br/comissao/view/28/comissao-de-meios-de-solucao-consensual-de-conflitos-comscc",
+          "tipo": "outro"
+        },
+        {
+          "titulo": "Lei nº 13.140/2015 – Lei da Mediação (Planalto)",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13140.htm",
+          "tipo": "lei"
+        },
+        {
+          "titulo": "CFP – GT revisa a Res. CFP 07/2016 (meios consensuais nas Comissões de Ética)",
+          "url": "https://site.cfp.org.br/gt-de-solucao-consensual-de-conflitos-avanca-na-revisao-da-resolucao-cfp-no-07-2016/",
+          "tipo": "outro"
+        }
+      ],
+      "resumo_md": "### O que é a COMSCC\nA **Comissão de Meios de Solução Consensual de Conflitos** do CRP-RJ (instituída pela **Res. CRPRJ 002/2022**) é **comissão permanente**, com a **mesma importância da COE e da COF**, segundo a cartilha oficial do CRP-RJ. Atua para **facilitar o diálogo** em impasses envolvendo profissionais da Psicologia, numa perspectiva **autocompositiva e restaurativa**.\n\n> O texto integral da resolução está nos **Atos Oficiais do CRP-RJ** (acesso pelo site do Conselho); este resumo usa a cartilha oficial da COMSCC e a legislação de mediação.\n\n### Onde atua\n- **Processos disciplinares** da **COE**;\n- ações da **COF**;\n- **gestão de pessoas** e relações institucionais;\n- conflitos internos de **eixos, núcleos e comissões**; acolhimento em eventos.\n\n### Métodos\n- **Mediação**: terceiro **imparcial**, sem poder decisório, facilita o diálogo para solução construída pelas partes.\n- **Práticas restaurativas**: reparação de danos, responsabilização e restauração de vínculos.\n\n### Princípios (cartilha; em linha com a Lei 13.140/2015, art. 2º)\nAutonomia da vontade; isonomia e horizontalidade; diálogo e escuta ativa; preservação de vínculos; **boa-fé**; **sigilo** (exceto em caso de **crime**); **voluntariedade** (encerrar a qualquer momento); **imparcialidade**; **informalidade**; busca do consenso.\n\n### Fluxo nos processos disciplinares\n**Distribuição** (dupla de facilitadores) → **pré-mediação** → **mediação** → **encerramento** (com ou sem acordo). O processo só se encerra depois que o **acordo é homologado pelo Plenário**. **Direitos indisponíveis não são mediáveis** (na Lei 13.140, só os indisponíveis que **admitam transação**, com homologação judicial).\n\n### Conexões normativas\n- **CPD** (Res. CFP 11/2019): a Comissão de Ética pode **encaminhar o caso à mediação** (art. 68); desde a **Res. 26/2025**, o encaminhamento à mediação **interrompe a prescrição** (art. 58, IV).\n- **Res. CFP 07/2016** regula meios consensuais nas Comissões de Ética e está **em revisão** por GT da APAF (com participação do CRP-05).",
+      "dicas_fgv": "Por ser norma local, a FGV tende a cobrar a natureza da COMSCC (comissão permanente, autocompositiva/restaurativa), seus princípios (voluntariedade, sigilo, imparcialidade) e o fato de que o acordo depende de homologação do Plenário. Leia também o texto integral da Res. CRPRJ 002/2022 nos Atos Oficiais do CRP-RJ."
+    },
+    "leg-lei13140": {
+      "links": [
+        {
+          "titulo": "Lei nº 13.140/2015 – Lei da Mediação (Planalto)",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13140.htm",
+          "tipo": "lei"
+        }
+      ],
+      "resumo_md": "### Conceito (art. 1º, parágrafo único)\nMediação = atividade técnica exercida por **terceiro imparcial sem poder decisório**, escolhido ou aceito pelas partes, que as **auxilia e estimula** a identificar ou desenvolver **soluções consensuais**. A lei também trata da **autocomposição na administração pública**.\n\n### Princípios (art. 2º)\n**Imparcialidade, isonomia, oralidade, informalidade, autonomia da vontade, busca do consenso, confidencialidade e boa-fé**. Ninguém é obrigado a **permanecer** em mediação (§ 2º); havendo cláusula de mediação, as partes devem comparecer à **primeira reunião** (§ 1º).\n\n### Objeto (art. 3º)\nDireitos **disponíveis** ou **indisponíveis que admitam transação**; neste caso, o acordo exige **homologação judicial** com oitiva do **MP** (§ 2º). Pode abranger todo o conflito ou parte dele.\n\n### Mediadores\n- Aplicam-se as hipóteses de **impedimento e suspeição do juiz** (art. 5º).\n- Por **1 ano** após a última audiência, o mediador **não pode assessorar, representar ou patrocinar** as partes (art. 6º); também fica impedido de atuar como **árbitro ou testemunha** sobre o conflito (art. 7º).\n- **Extrajudicial** (art. 9º): qualquer pessoa **capaz**, de confiança das partes e capacitada – **sem exigência** de inscrição em conselho ou associação.\n- **Judicial** (art. 11): graduada há **pelo menos 2 anos** em curso superior reconhecido pelo MEC + capacitação em escola reconhecida (ENFAM/tribunais).\n\n### Procedimento\n- Considera-se instituída na data da **primeira reunião**; durante a mediação, **suspende-se o prazo prescricional** (art. 17).\n- Mediação **judicial**: concluída em até **60 dias** da primeira sessão, prorrogáveis por acordo (art. 28).\n- Pode ser feita **pela internet** ou outro meio a distância (art. 46).\n\n### Confidencialidade (arts. 30–31)\nToda informação é **confidencial** perante terceiros, inclusive em processo arbitral ou judicial, salvo se as partes dispensarem, se a lei exigir ou para cumprir o acordo. **Não** abrange informação sobre **crime de ação pública** (§ 3º). Informação de sessão privada só é revelada com autorização.\n\n### Administração pública (art. 32)\nUnião, estados, DF e municípios podem criar **câmaras de prevenção e resolução administrativa de conflitos** na Advocacia Pública.",
+      "dicas_fgv": "A FGV explora princípios (incluindo oralidade e informalidade), o impedimento de 1 ano do mediador, os requisitos do mediador judicial (2 anos de graduação) versus extrajudicial, o prazo de 60 dias e as exceções à confidencialidade (crime de ação pública)."
+    },
+    "rlm-proposicoes": {
+      "links": [
+        {
+          "titulo": "Lógica Matemática – caderno UAB/UFSM (PDF gratuito)",
+          "url": "https://projetos.uel.br/bibliotecacomum/bc-texto/obras/2021pack0137.pdf",
+          "tipo": "apostila"
+        },
+        {
+          "titulo": "Portal da OBMEP – Introdução à Lógica Matemática (videoaulas)",
+          "url": "https://portaldaobmep.impa.br/index.php/modulo/ver?modulo=153",
+          "tipo": "video"
+        },
+        {
+          "titulo": "Equaciona com Paulo Pereira – matemática básica (YouTube)",
+          "url": "https://www.youtube.com/@equacionamatematica",
+          "tipo": "video"
+        }
+      ],
+      "resumo_md": "### Proposição\nSentença declarativa que admite **um** valor lógico: V ou F. **Não** são proposições: perguntas, ordens, exclamações e sentenças abertas (“x + 2 = 5”).\n\n### Conectivos e tabela-verdade\n| Conectivo | Símbolo | É falsa quando… |\n|---|---|---|\n| Negação “não p” | ~p | inverte o valor |\n| Conjunção “p e q” | p ∧ q | **qualquer** parte é F (só é V se ambas V) |\n| Disjunção “p ou q” | p ∨ q | **ambas** F |\n| Disjunção exclusiva “ou p ou q” | p ⊻ q | ambas com o mesmo valor |\n| Condicional “se p, então q” | p → q | **V → F** (único caso) |\n| Bicondicional “p se e somente se q” | p ↔ q | valores diferentes |\n\nNúmero de linhas da tabela = **2ⁿ** (n = proposições simples). **Tautologia**: sempre V; **contradição**: sempre F; **contingência**: depende.\n\n### Equivalências mais cobradas\n- p → q ≡ **~q → ~p** (contrapositiva) ≡ **~p ∨ q**.\n- p ↔ q ≡ (p → q) ∧ (q → p).\n- **Não** são equivalentes: a recíproca (q → p) e a inversa (~p → ~q).\n\n### Negações (De Morgan)\n- ~(p ∧ q) ≡ ~p ∨ ~q  |  ~(p ∨ q) ≡ ~p ∧ ~q\n- **~(p → q) ≡ p ∧ ~q** (“Se chove, levo guarda-chuva” → “Chove **e não** levo guarda-chuva”).\n- ~(p ↔ q) ≡ p ⊻ q.\n\n### Quantificadores\n- Negação de “**Todo** A é B” = “**Algum** A **não** é B”.\n- Negação de “**Algum** A é B” = “**Nenhum** A é B”.\n- Negação de “Nenhum A é B” = “Algum A é B”.\n\n### Condição suficiente x necessária\nEm p → q: p é **suficiente** para q; q é **necessária** para p.",
+      "dicas_fgv": "A FGV adora negação de condicional (p e não q), equivalência contrapositiva e negação de “todo/nenhum”, quase sempre em frases do cotidiano; também pede a frase logicamente equivalente entre cinco versões parecidas."
+    },
+    "rlm-conjuntos": {
+      "links": [
+        {
+          "titulo": "Portal da OBMEP – Conjuntos (videoaulas e material)",
+          "url": "https://portaldaobmep.impa.br/index.php/modulo/ver?modulo=87",
+          "tipo": "video"
+        },
+        {
+          "titulo": "Gis com Giz – matemática básica (YouTube)",
+          "url": "https://www.youtube.com/@GisComGiz",
+          "tipo": "video"
+        }
+      ],
+      "resumo_md": "### Noções\n- Conjunto, elemento, **pertinência** (∈, ∉: elemento x conjunto) e **inclusão** (⊂: conjunto x conjunto).\n- Conjunto vazio (∅) está contido em todo conjunto. Um conjunto com n elementos tem **2ⁿ subconjuntos**.\n\n### Operações\n- **União** A ∪ B: elementos de A **ou** de B.\n- **Interseção** A ∩ B: elementos de A **e** de B.\n- **Diferença** A − B: estão em A e **não** em B.\n- **Complementar** de A em relação ao universo U: U − A.\n\n### Princípio da inclusão-exclusão\n- n(A ∪ B) = n(A) + n(B) − n(A ∩ B)\n- n(A ∪ B ∪ C) = n(A) + n(B) + n(C) − n(A∩B) − n(A∩C) − n(B∩C) + n(A∩B∩C)\n\n### Diagramas de Venn – método\n1. Comece **pela interseção de todos** (centro).\n2. Depois preencha as interseções de dois a dois (subtraindo o centro).\n3. Depois as regiões “só A”, “só B”…\n4. Some tudo e compare com o total (quem está **fora** de todos?).\n\n### Exemplo\nEm 100 psicólogos, 60 atuam em clínica, 45 em saúde pública e 20 nos dois. Quantos não atuam em nenhum? n(C ∪ S) = 60 + 45 − 20 = 85 → **15** em nenhum.\n\n### Conjuntos numéricos\nℕ ⊂ ℤ ⊂ ℚ ⊂ ℝ; irracionais = ℝ − ℚ (√2, π).",
+      "dicas_fgv": "A FGV apresenta situações com pesquisas de preferência ou grupos de pessoas e exige montar o diagrama de Venn com três conjuntos, perguntando quem está em apenas um conjunto ou em nenhum."
+    },
+    "rlm-numeros": {
+      "links": [
+        {
+          "titulo": "Portal da OBMEP – Porcentagem",
+          "url": "https://portaldaobmep.impa.br/index.php/modulo/ver?modulo=21",
+          "tipo": "video"
+        },
+        {
+          "titulo": "Portal da OBMEP – Frações e suas operações",
+          "url": "https://portaldaobmep.impa.br/index.php/modulo/ver?modulo=28",
+          "tipo": "video"
+        },
+        {
+          "titulo": "Portal da OBMEP – Sistema de numeração e operações",
+          "url": "https://portaldaobmep.impa.br/index.php/modulo/ver?modulo=60",
+          "tipo": "video"
+        },
+        {
+          "titulo": "Equaciona com Paulo Pereira – matemática básica (YouTube)",
+          "url": "https://www.youtube.com/@equacionamatematica",
+          "tipo": "video"
+        }
+      ],
+      "resumo_md": "### Conjuntos e operações\n- **Inteiros**: regra de sinais (− × − = +); divisibilidade, MMC (eventos que se repetem juntos) e MDC (dividir em partes iguais e máximas).\n- **Racionais**: frações e decimais; para somar frações, use denominador comum; dízimas periódicas são racionais.\n- **Reais**: incluem irracionais. Ordem de operações: parênteses → potências/raízes → multiplicação/divisão → adição/subtração.\n\n### Porcentagem\n- x% = x/100. **Fator de aumento** de i%: (1 + i); **desconto** de i%: (1 − i).\n- Aumentos/descontos **sucessivos** se **multiplicam**: +20% e depois −20% → 1,2 × 0,8 = 0,96 → **queda de 4%** (não volta ao valor inicial!).\n- Variação percentual = (novo − antigo) / antigo.\n- “Pontos percentuais” ≠ “por cento”: taxa que vai de 10% para 12% subiu **2 p.p.**, ou **20%**.\n- Percentual de percentual: 30% de 40% = 0,3 × 0,4 = 12%.\n\n### Frações e razões\n- “Parte do todo”: 3/5 de 200 = 120.\n- Problemas de “fração do que restou”: aplique a fração sobre o **resto**, não sobre o total.\n\n### Dicas de cálculo\n- 10% = dividir por 10; 5% = metade de 10%; 1% = dividir por 100.\n- Para achar o valor original após aumento de 25% que resultou em 500: 500 / 1,25 = 400.\n- Verifique ordem de grandeza nas alternativas antes de calcular tudo.",
+      "dicas_fgv": "A FGV explora aumentos e descontos sucessivos, valor original a partir do valor final e a confusão entre pontos percentuais e variação percentual, normalmente em contextos de salários, preços ou dados de pesquisa."
+    },
+    "rlm-proporcao": {
+      "links": [
+        {
+          "titulo": "Portal da OBMEP – Razões e proporções, regra de três",
+          "url": "https://portaldaobmep.impa.br/index.php/modulo/ver?modulo=57",
+          "tipo": "video"
+        },
+        {
+          "titulo": "Equaciona com Paulo Pereira – matemática básica (YouTube)",
+          "url": "https://www.youtube.com/@equacionamatematica",
+          "tipo": "video"
+        },
+        {
+          "titulo": "Gis com Giz – matemática básica (YouTube)",
+          "url": "https://www.youtube.com/@GisComGiz",
+          "tipo": "video"
+        }
+      ],
+      "resumo_md": "### Razão e proporção\n- **Razão**: a/b (comparação por divisão). Escala, velocidade média, densidade são razões.\n- **Proporção**: igualdade de razões a/b = c/d → **a·d = b·c** (produto dos meios = produto dos extremos).\n\n### Grandezas\n- **Diretamente proporcionais**: uma dobra, a outra dobra (a razão é constante): y = k·x.\n- **Inversamente proporcionais**: uma dobra, a outra cai pela metade (o produto é constante): x·y = k.\n- Exemplos: trabalhadores × tempo para fazer a obra (**inversa**); trabalhadores × quantidade produzida (**direta**).\n\n### Regra de três\n- **Simples**: duas grandezas. Monte a tabela, identifique se é direta ou inversa (inversa → inverta a fração).\n- **Composta**: três ou mais grandezas. Isole a grandeza da incógnita e compare cada outra com ela (direta ou inversa), multiplicando as razões.\n\n### Divisão proporcional\n- **Direta**: dividir 900 em partes proporcionais a 2, 3 e 4 → k = 900/(2+3+4) = 100 → 200, 300, 400.\n- **Inversa**: proporcional a 1/2, 1/3, 1/6 → tire o MMC e trate como direta.\n- Divisão de lucro proporcional ao capital **e** ao tempo: use o produto capital × tempo.\n\n### Dica\nAntes de calcular, pergunte: “se aumentar esta grandeza, a resposta aumenta ou diminui?”. Isso evita o erro mais comum (tratar inversa como direta).",
+      "dicas_fgv": "A FGV prefere regra de três composta com equipes, horas por dia e dias de trabalho, além de divisão proporcional (heranças, prêmios, lucros); a armadilha é tratar grandezas inversas como diretas."
+    },
+    "rlm-medidas": {
+      "links": [
+        {
+          "titulo": "Portal da OBMEP – Unidades de medida de tempo e comprimento",
+          "url": "https://portaldaobmep.impa.br/index.php/modulo/ver?modulo=43",
+          "tipo": "video"
+        },
+        {
+          "titulo": "Portal da OBMEP – Medidas de comprimento e áreas",
+          "url": "https://portaldaobmep.impa.br/index.php/modulo/ver?modulo=54",
+          "tipo": "video"
+        },
+        {
+          "titulo": "Portal da OBMEP – Medidas de volume e capacidade",
+          "url": "https://portaldaobmep.impa.br/index.php/modulo/ver?modulo=56",
+          "tipo": "video"
+        }
+      ],
+      "resumo_md": "### Comprimento (fator 10)\nkm – hm – dam – **m** – dm – cm – mm: cada degrau = ×10.\n\n### Área (fator 100)\nkm² – hm² – dam² – **m²** – dm² – cm² – mm²: cada degrau = ×100. 1 hectare (ha) = 10.000 m² = 1 hm².\nFórmulas: retângulo b·h; quadrado l²; triângulo b·h/2; trapézio (B + b)·h/2; círculo πr².\n\n### Volume (fator 1000) e capacidade\nkm³ … **m³** … dm³ … cm³: cada degrau = ×1000.\n- **1 dm³ = 1 L**; **1 m³ = 1000 L**; **1 cm³ = 1 mL**.\n- Paralelepípedo: c·l·h; cubo a³; cilindro πr²h.\n\n### Massa\nkg – hg – dag – **g** – dg – cg – mg (×10). 1 tonelada = 1000 kg.\n\n### Tempo (sistema sexagesimal!)\n- 1 h = 60 min = 3600 s; 1 dia = 24 h.\n- **Cuidado**: 1,5 h = 1 h **30 min** (e não 1 h 50 min); 0,2 h = 12 min.\n- Somar/subtrair horas: trabalhe com minutos ou “empreste” 60 min.\n- Fusos e calendários: anos bissextos têm 366 dias (fevereiro com 29).\n\n### Ampliação e redução\nSe as medidas lineares são multiplicadas por k, a **área** fica ×k² e o **volume** ×k³ (dobrar o lado do cubo → volume ×8).",
+      "dicas_fgv": "A FGV costuma cobrar conversão de horas decimais em horas e minutos, relação litro–dm³–m³ em problemas de reservatórios e o efeito da ampliação de escala sobre área e volume."
+    },
+    "rlm-relacoes": {
+      "links": [
+        {
+          "titulo": "Portal da OBMEP – Introdução à Lógica Matemática",
+          "url": "https://portaldaobmep.impa.br/index.php/modulo/ver?modulo=153",
+          "tipo": "video"
+        },
+        {
+          "titulo": "Lógica Matemática – caderno UAB/UFSM (PDF gratuito)",
+          "url": "https://projetos.uel.br/bibliotecacomum/bc-texto/obras/2021pack0137.pdf",
+          "tipo": "apostila"
+        }
+      ],
+      "resumo_md": "### O que é\nProblemas com pessoas, objetos, lugares ou eventos fictícios e um conjunto de pistas (“Ana não é a médica”, “quem mora na casa azul tem um gato”). O objetivo é deduzir a **única** configuração compatível.\n\n### Método da tabela (grade lógica)\n1. Liste as categorias (nome × profissão × cidade…).\n2. Monte uma grade cruzando-as.\n3. Marque **X** (impossível) e **✓** (certo) a partir das pistas diretas.\n4. Cada ✓ elimina o resto da linha e da coluna.\n5. Use pistas relativas (“à esquerda de”, “mais velho que”) por último, testando hipóteses.\n\n### Ordenação e posições\n- Desenhe as posições (fila, mesa redonda, andares de prédio).\n- Em mesa redonda, “à direita” depende do sentido em que as pessoas olham (para o centro).\n\n### Dedução x indução\n- **Dedução**: das premissas decorre necessariamente a conclusão (o que a questão pede: “é necessariamente verdade”).\n- “Pode ser verdade” x “é necessariamente verdade”: só marque a segunda se valer em **todos** os cenários possíveis.\n\n### Argumentos\n- **Válido**: se as premissas forem V, a conclusão é obrigatoriamente V (a validade independe de as premissas serem de fato verdadeiras).\n- Formas válidas: *modus ponens* (p → q; p; logo q) e *modus tollens* (p → q; ~q; logo ~p).\n- Falácias: afirmar o consequente (p → q; q; logo p) e negar o antecedente.",
+      "dicas_fgv": "A FGV apresenta 4 ou 5 personagens com atributos e pede o que é “necessariamente verdadeiro”; as alternativas trazem afirmações apenas possíveis. Montar a grade e testar casos é o caminho mais seguro."
+    },
+    "rlm-sequencias": {
+      "links": [
+        {
+          "titulo": "Portal da OBMEP – Progressões aritméticas",
+          "url": "https://portaldaobmep.impa.br/index.php/modulo/ver?modulo=79",
+          "tipo": "video"
+        },
+        {
+          "titulo": "Gis com Giz – matemática básica (YouTube)",
+          "url": "https://www.youtube.com/@GisComGiz",
+          "tipo": "video"
+        },
+        {
+          "titulo": "Equaciona com Paulo Pereira – matemática básica (YouTube)",
+          "url": "https://www.youtube.com/@equacionamatematica",
+          "tipo": "video"
+        }
+      ],
+      "resumo_md": "### Sequências numéricas\n- **PA**: diferença constante (razão r). aₙ = a₁ + (n − 1)·r; soma Sₙ = (a₁ + aₙ)·n/2.\n- **PG**: quociente constante (q). aₙ = a₁·qⁿ⁻¹.\n- Outros padrões: diferenças que crescem (+1, +2, +3…), alternância de duas sequências intercaladas, quadrados (1, 4, 9, 16…), Fibonacci (cada termo = soma dos dois anteriores), primos.\n- Dica: calcule as **diferenças** entre termos; se não der, tente quocientes ou separar posições pares e ímpares.\n\n### Sequências de letras e figuras\n- Alfabeto com 26 letras (incluindo K, W, Y). Converta letras em números (A=1…).\n- Figuras: observe rotação, número de lados, cor, posição que se repetem em ciclos.\n\n### Ciclos e periodicidade\nPara o n-ésimo termo de um ciclo de tamanho p, use o **resto** de n ÷ p. Ex.: dias da semana – 100 dias depois de uma segunda: 100 = 7·14 + 2 → quarta-feira.\n\n### Raciocínio verbal\nAnalogias (“médico está para hospital assim como professor está para…”), palavras que não pertencem ao grupo, anagramas.\n\n### Orientação espacial e temporal\n- Rosa dos ventos e giros (90° à direita a partir do norte = leste).\n- Vistas de sólidos, planificações de cubo (faces opostas não se tocam na planificação).\n- Calendários: de um ano para o outro, a mesma data avança **1** dia da semana (365 = 52·7 + 1); se o intervalo incluir um 29 de fevereiro, avança **2**.",
+      "dicas_fgv": "A FGV usa sequências de letras e números com padrões alternados, problemas de ciclos com restos da divisão (dias da semana, calendário) e questões de orientação com giros e direções."
+    },
+    "rlm-graficos": {
+      "links": [
+        {
+          "titulo": "Portal da OBMEP – Introdução à Estatística (organização e leitura de dados)",
+          "url": "https://portaldaobmep.impa.br/index.php/modulo/ver?modulo=64",
+          "tipo": "video"
+        },
+        {
+          "titulo": "Portal da OBMEP – Porcentagem",
+          "url": "https://portaldaobmep.impa.br/index.php/modulo/ver?modulo=21",
+          "tipo": "video"
+        }
+      ],
+      "resumo_md": "### Tipos de gráfico e para que servem\n- **Colunas/barras**: comparar categorias.\n- **Linhas**: evolução no tempo (tendência, crescimento, queda).\n- **Setores (pizza)**: partes de um todo (soma 100% ou 360°; 1% = 3,6°).\n- **Histograma**: distribuição de frequências em classes contínuas.\n- **Tabelas de dupla entrada**: cruzam duas variáveis (ex.: sexo × área de atuação).\n\n### Leitura crítica\n- Leia **título, eixos, unidade e fonte**. O eixo vertical começa no zero? Se não, diferenças parecem maiores.\n- Distinga **valor absoluto** de **percentual**: “mais mulheres” em percentual pode significar menos em números absolutos se o grupo for menor.\n- Variação percentual = (final − inicial)/inicial. Média de percentuais de grupos de tamanhos diferentes **não** é a média simples.\n\n### Medidas de tendência central\n- **Média aritmética**: soma/quantidade (sensível a valores extremos).\n- **Mediana**: valor central dos dados **ordenados** (com n par, média dos dois centrais).\n- **Moda**: valor mais frequente.\n- **Média ponderada**: Σ(valor × peso)/Σpesos.\n\n### Frequências\nFrequência absoluta, relativa (fa/total) e acumulada. A soma das frequências relativas é 100%.",
+      "dicas_fgv": "A FGV traz tabelas ou gráficos com dados reais (pesquisas, orçamentos) e pede cálculo de variação percentual, comparação entre grupos e identificação de conclusões que os dados NÃO autorizam."
+    },
+    "rlm-problemas": {
+      "links": [
+        {
+          "titulo": "Portal da OBMEP – Princípios básicos de contagem",
+          "url": "https://portaldaobmep.impa.br/index.php/modulo/ver?modulo=15",
+          "tipo": "video"
+        },
+        {
+          "titulo": "Portal da OBMEP – Contagem (apostila e aulas)",
+          "url": "https://portaldaobmep.impa.br/index.php/modulo/ver?modulo=69",
+          "tipo": "video"
+        },
+        {
+          "titulo": "Lógica Matemática – caderno UAB/UFSM (PDF gratuito)",
+          "url": "https://projetos.uel.br/bibliotecacomum/bc-texto/obras/2021pack0137.pdf",
+          "tipo": "apostila"
+        }
+      ],
+      "resumo_md": "### Princípio fundamental da contagem\nSe uma decisão tem m modos e outra n modos (independentes), há **m × n** possibilidades.\n- **Permutação** de n elementos: n! (anagramas, filas). Com repetição: n!/(a!·b!…).\n- **Arranjo** (ordem importa): A(n,p) = n!/(n − p)! – presidente e vice.\n- **Combinação** (ordem não importa): C(n,p) = n!/[p!(n − p)!] – comissões, grupos.\n- Pergunta-chave: “trocar a ordem gera outra possibilidade?” Sim → arranjo; não → combinação.\n\n### Casa dos pombos\nCom n + 1 objetos em n gavetas, alguma gaveta tem 2+. Usado em “quantas pessoas no mínimo para garantir…” → pense no **pior caso**.\n\n### Verdades e mentiras\n1. Identifique quem sempre fala verdade/mente (cavaleiros x valetes).\n2. **Suponha** que uma afirmação é verdadeira e veja se gera contradição.\n3. Procure afirmações **contraditórias** entre si: exatamente uma delas é verdadeira.\n4. Se a questão diz “só um mente”, teste cada um como mentiroso.\n\n### Probabilidade básica\nP = casos favoráveis / casos possíveis. Eventos independentes: multiplica-se; mutuamente exclusivos: soma-se. P(não A) = 1 − P(A).\n\n### Outros clássicos\n- Problemas de idade, de “quantos apertos de mão” (C(n,2)), de travessia e de pesagem.\n- Sempre confira a resposta substituindo nas condições do enunciado.",
+      "dicas_fgv": "A FGV gosta de problemas de “no mínimo quantos… para garantir” (casa dos pombos), de contagem com restrições e de cenários de verdades e mentiras em que se testa cada hipótese até achar a única consistente."
+    },
+    "esp-fundamentos": {
+      "links": [
+        {
+          "titulo": "Revista Psicologia: Ciência e Profissão (CFP) – SciELO",
+          "url": "https://www.scielo.br/j/pcp/",
+          "tipo": "outro"
+        },
+        {
+          "titulo": "Res. CFP nº 23/2022 – especialista e especialidades (DOU)",
+          "url": "https://www.in.gov.br/en/web/dou/-/resolucao-n-23-de-13-de-outubro-de-2022-437945688",
+          "tipo": "resolucao"
+        },
+        {
+          "titulo": "Lei nº 4.119/1962 (texto oficial – Planalto)",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/1950-1969/l4119.htm",
+          "tipo": "lei"
+        }
+      ],
+      "resumo_md": "### Principais abordagens\n- **Psicanálise** (Freud; Lacan, Klein, Winnicott): inconsciente, pulsões, aparelho psíquico (**id, ego, superego**), mecanismos de defesa, transferência, associação livre.\n- **Behaviorismo/Análise do Comportamento**: Watson; **Skinner** – condicionamento **operante** (reforço positivo/negativo, punição, extinção); Pavlov – condicionamento **respondente**. Reforço negativo **aumenta** o comportamento (retira estímulo aversivo) – não é punição.\n- **Cognitivismo / TCC** (Beck, Ellis): pensamentos automáticos, crenças centrais, distorções cognitivas.\n- **Humanismo/Fenomenologia-existencial** (Rogers, Maslow, Perls): tendência à atualização, **aceitação incondicional, empatia e congruência**; Gestalt-terapia (aqui-agora, *awareness*).\n- **Psicologia da Gestalt** (Wertheimer, Köhler, Koffka): percepção como totalidade, leis de organização.\n- **Psicologia sócio-histórica** (Vygotsky; no Brasil, Silvia Lane, Ana Bock): sujeito constituído nas relações sociais e históricas.\n\n### Processos psicológicos básicos\nSensação e **percepção**, **atenção** (seletiva, sustentada, dividida, alternada), **memória** (sensorial, de trabalho, longo prazo; declarativa x procedural), **aprendizagem**, linguagem, pensamento, **motivação** (Maslow), **emoção**.\n\n### Desenvolvimento humano\n- **Piaget**: sensório-motor (0–2), pré-operatório (2–7), operatório concreto (7–11/12), operatório formal (12+); assimilação, acomodação, equilibração.\n- **Vygotsky**: mediação, signos, **zona de desenvolvimento proximal** (ZDP).\n- **Wallon**: afetividade, emoção e movimento.\n- **Erikson**: 8 estágios psicossociais (confiança x desconfiança… integridade x desespero).\n- **Freud**: fases oral, anal, fálica, latência, genital. **Bowlby**: apego.\n\n### Indivíduo, sociedade e cultura\nPsicologia social crítica (**Lane**, Martín-Baró – Psicologia da Libertação), representações sociais (**Moscovici**), compromisso social da profissão.\n\n### Campos de atuação\nClínica, saúde, hospitalar, escolar/educacional, organizacional e do trabalho, jurídica, trânsito, esporte, social/comunitária, neuropsicologia, avaliação psicológica (13 especialidades da Res. CFP 23/2022). Função privativa: Lei 4.119, art. 13, § 1º.",
+      "dicas_fgv": "A FGV usa situações para identificar a abordagem (reforço negativo x punição é armadilha clássica), estágios de Piaget e o conceito de ZDP de Vygotsky. Também relaciona campos de atuação às especialidades reconhecidas pelo CFP."
+    },
+    "esp-etica": {
+      "links": [
+        {
+          "titulo": "Código de Ética Profissional do Psicólogo – Res. CFP 010/2005 (PDF, CFP)",
+          "url": "https://site.cfp.org.br/wp-content/uploads/2012/07/codigo-de-etica-psicologia.pdf",
+          "tipo": "resolucao"
+        },
+        {
+          "titulo": "CRP-RJ – Comissão de Orientação e Ética (COE)",
+          "url": "https://www.crprj.org.br/comissao/view/1/comissao-de-orientacao-e-etica-coe",
+          "tipo": "outro"
+        },
+        {
+          "titulo": "Res. CFP nº 07/2023 – laicidade (DOU)",
+          "url": "https://www.in.gov.br/en/web/dou/-/resolucao-n-7-de-6-de-abril-de-2023-477637904",
+          "tipo": "resolucao"
+        }
+      ],
+      "resumo_md": "### Base\n**Código de Ética** (Res. CFP 010/2005): 7 princípios fundamentais (direitos humanos, saúde e qualidade de vida, responsabilidade social, aprimoramento, universalização do acesso, dignidade da profissão, **relações de poder**).\n\n### Deveres e vedações mais cobrados\n- Atuar apenas onde há **capacitação pessoal, teórica e técnica** (art. 1º, b).\n- Informar ao usuário o que for necessário à tomada de decisão; **orientar encaminhamentos**.\n- Fixar e **comunicar honorários antes** do início, considerando as condições do usuário (art. 4º).\n- Em **greves**, manter atividades de **emergência** e avisar previamente os usuários (art. 5º).\n- **Intervir** em atendimento de outro psicólogo só: a pedido dele, em **emergência/risco** (dando ciência), após interrupção definitiva informada, ou em trabalho multiprofissional (art. 7º).\n- Vedado: induzir convicções (2º, b); práticas não reconhecidas (f); documentos sem fundamentação (g); **dupla relação** prejudicial (j); ser **perito** com vínculo (k); **desviar clientes** da instituição para o consultório (l); **receber/pagar por encaminhamento** (p).\n\n### Sigilo e confidencialidade\n- Regra: **sigilo** (art. 9º). Exceção: **quebra** quando há conflito com os princípios, decidida pela **busca do menor prejuízo**, informando **só o estritamente necessário** (art. 10) – além das hipóteses legais (notificação compulsória, ECA, Estatuto da Pessoa Idosa, LBI).\n- Depoimento em juízo: pode prestar informações **considerando o Código** (art. 11).\n- **Equipe multiprofissional**: registrar só o necessário (art. 12); compartilhar só o relevante, alertando quem recebe sobre o sigilo (art. 6º, b).\n- Criança/adolescente: comunicar aos responsáveis o **estritamente essencial** (art. 13).\n\n### Dilemas típicos\n- Paciente revela intenção de **suicídio** ou risco a terceiro → avaliação de risco, quebra pelo menor prejuízo.\n- Pedido de **laudo** pelo próprio paciente para processo judicial → vedado ser perito/assistente técnico do paciente (Res. 13/2022, art. 6º).\n- **Relação pessoal/afetiva** com paciente ou familiar → vedada (art. 2º, j).\n- Instituição exige quebra de sigilo indevida → o psicólogo deve considerar a compatibilidade com o Código e pode **recusar e denunciar** (art. 3º).",
+      "dicas_fgv": "A FGV elabora casos clínicos e institucionais e pede a conduta ética mais adequada. O raciocínio esperado é: sigilo como regra, quebra excepcional pelo menor prejuízo e só com o necessário, sem dupla relação e com encaminhamento quando a demanda extrapola a competência."
+    },
+    "esp-orientacao-fiscalizacao": {
+      "links": [
+        {
+          "titulo": "Res. CFP nº 10/2017 – Política de Orientação e Fiscalização (DOU)",
+          "url": "https://www.in.gov.br/en/web/dou/-/resolucao-n-10-de-25-de-maio-de-2017-19100108",
+          "tipo": "resolucao"
+        },
+        {
+          "titulo": "Res. CFP nº 16/2019 – Pessoa Jurídica e Responsável Técnica(o) (DOU)",
+          "url": "https://www.in.gov.br/en/web/dou/-/resolucao-n-16-de-21-de-agosto-de-2019-214562656",
+          "tipo": "resolucao"
+        },
+        {
+          "titulo": "CRP-RJ – Comissão de Orientação e Fiscalização (COF)",
+          "url": "https://www.crprj.org.br/comissao/view/16/comissao-de-orientacao-e-fiscalizacao-cof",
+          "tipo": "outro"
+        }
+      ],
+      "resumo_md": "### Fundamento\nLei 5.766/1971: CRPs **orientam, disciplinam e fiscalizam**. A **Res. CFP 10/2017** (Política de Orientação e Fiscalização) define a estrutura e o método. A COF é **uma comissão permanente** do CRP-RJ (Regimento, art. 18).\n\n### COF – competências (Res. 10/2017, art. 9º)\nCoordenar e executar a orientação e fiscalização na jurisdição; assessorar o Plenário; responder consultas; coordenar os **psicólogos fiscais**; orientar recém-inscritos (entrega da CIP); dialogar com entidades formadoras, empregadoras, órgãos públicos e usuários.\n\n### Fiscalização\n- Pode ser de **rotina** ou motivada por **denúncia**, presencial ou **a distância** (art. 17), com **caráter orientativo** sempre que possível (art. 18).\n- **5 modalidades** (art. 19): inspeção de **PJ**; acompanhamento de serviços **por TDICs**; **diligência** para a Comissão de Ética; **averiguação** de denúncias/indícios de exercício ilegal; **estratégica** por área.\n- Instrumentos: termos/relatórios de visita, **TAC**, convocação para esclarecimentos, **apreensão de documentos** havendo indício de falta ética (art. 24).\n- Irregularidade **sanável** → prazo de **até 30 dias**; insanável → orientação para **interromper** a conduta (art. 26). Indícios de falta ética → **requerimento de ofício** à Comissão de Ética (CPD, art. 61).\n\n### Pessoa física x pessoa jurídica\n- **PF**: inscrição ativa (Lei 5.766, art. 10), uso da CIP, inscrição secundária quando exigida, publicidade (CEPP, art. 20), registro documental (Res. 01/2009).\n- **PJ** (Res. 16/2019): **registro** (atividade principal) ou **cadastro** (atividade secundária); **RT** em cada sede/filial; certificado de **3 anos**; troca de RT comunicada em **30 dias úteis**; primeira fiscalização da PJ registrada em até **120 dias**.\n\n### Responsabilidade técnica\nA RT acompanha os serviços, zela pela ética, guarda de material e condições de trabalho, comunica desligamento e possíveis faltas éticas; não responde por falta ética individual alheia, **salvo negligência**.\n\n### Exercício ilegal\nAtuação sem inscrição é **exercício ilegal da profissão** (contravenção penal – Decreto-Lei 3.688/1941, art. 47); o CRP pode representar às autoridades (Lei 5.766, art. 32).",
+      "dicas_fgv": "Como o cargo envolve orientação e fiscalização, espere casos práticos: denúncia de clínica sem RT, psicóloga anunciando técnica não reconhecida, PJ com atividade secundária em Psicologia. A FGV cobra a modalidade de fiscalização adequada e a providência correta (orientação, prazo de regularização ou encaminhamento à COE)."
+    },
+    "esp-processo-etico": {
+      "links": [
+        {
+          "titulo": "Código de Processamento Disciplinar Comentado 2025 – Res. CFP 11/2019 atualizada pela Res. 26/2025 (PDF, CFP)",
+          "url": "https://site.cfp.org.br/wp-content/uploads/2025/11/cpd_comentado_web-1.pdf",
+          "tipo": "resolucao"
+        },
+        {
+          "titulo": "Res. CFP nº 11/2019 – institui o CPD (DOU)",
+          "url": "https://www.in.gov.br/en/web/dou/-/resolucao-n-11-de-14-de-junho-de-2019-173016396",
+          "tipo": "resolucao"
+        },
+        {
+          "titulo": "Res. CFP nº 26/2025 – altera o CPD (DOU)",
+          "url": "https://www.in.gov.br/en/web/dou/-/resolucao-n-26-de-24-de-setembro-de-2025-664311461",
+          "tipo": "resolucao"
+        }
+      ],
+      "resumo_md": "### Infrações e penalidades\n- **Infração ética**: violação do Código de Ética → **processo ético**. **Infração ordinária**: normas administrativas (inclusive de PJ) → **processo ordinário**. **Funcional**: conselheiras(os) → **processo funcional**.\n- Penas (Lei 5.766, art. 27; CEPP, art. 21): **advertência, multa, censura (pública), suspensão até 30 dias e cassação** – estas duas *ad referendum* do CFP. Aplicação gradativa, salvo gravidade manifesta.\n\n### Recebimento e análise de representações\n- Representação **escrita e assinada** (identificada) dirigida à Presidência do CRP (CPD, art. 59), pelo sistema eletrônico (art. 60); ou **requerimento de ofício** por membro do Conselho com base em notícias, fiscalização etc. (art. 61).\n- Competência: CRP do **local do fato**, ainda que a psicóloga tenha inscrição em outro CRP (art. 5º, redação 2025).\n- **Fase investigativa**: Comissão notifica a psicóloga para manifestação escrita; pode convocar partes, pedir complementação ou diligências (inclusive com apoio da **COF**) (art. 67).\n- Parecer: **mediação**, **arquivamento** ou **instauração**; o Plenário decide (art. 69), sem sustentação oral nessa fase.\n\n### Instrução\n- **Citação** para defesa em **15 dias úteis**; revelia não impede o curso do processo (com intimação para os atos – art. 35).\n- Provas documental, **pericial**, depoimentos e testemunhas; **audiência de instrução** (pode ser por **videoconferência** – art. 14-A).\n- **Alegações finais** em 15 dias úteis sucessivos (art. 85). Relator: voto em 25 dias úteis (art. 72).\n\n### Garantias processuais\n**Devido processo legal, contraditório e ampla defesa**, **sigilo** dos processos, impedimento e suspeição de conselheiros (arts. 44–45), **defensor dativo** quando necessário, sustentação oral de 15 min (art. 109), vedação de prova surpresa no julgamento (art. 111), prazos em **dias úteis**.\n\n### Recursos e revisão\n- Recurso ao **CFP** em **30 dias úteis**, com **efeito suspensivo** (arts. 121–122).\n- **Reexame necessário** de suspensão e cassação (art. 126).\n- **Revisão** com prova nova ou prova falsa (art. 130).\n\n### Prescrição\nÉtica **5 anos**; ordinária/funcional **2 anos**; **intercorrente 3 anos** (arts. 54–56).",
+      "dicas_fgv": "A FGV pede a sequência correta do processo (representação → análise/investigativo → instauração → instrução → julgamento → recurso) e os prazos. Pegadinhas: recurso tem efeito suspensivo, prazos em dias úteis, a CPD vigente é a Res. 11/2019 alterada pela Res. 26/2025."
+    },
+    "esp-avaliacao": {
+      "links": [
+        {
+          "titulo": "Res. CFP nº 31/2022 – avaliação psicológica e SATEPSI (DOU)",
+          "url": "https://www.in.gov.br/en/web/dou/-/resolucao-n-31-de-15-de-dezembro-de-2022-451168039",
+          "tipo": "resolucao"
+        },
+        {
+          "titulo": "SATEPSI – lista de testes favoráveis/desfavoráveis",
+          "url": "https://satepsi.cfp.org.br/",
+          "tipo": "outro"
+        },
+        {
+          "titulo": "Cartilha Avaliação Psicológica (CFP, 2022)",
+          "url": "https://site.cfp.org.br/wp-content/uploads/2022/08/cartilha_avaliacao_psicologica-2309.pdf",
+          "tipo": "cartilha"
+        },
+        {
+          "titulo": "Res. CFP nº 13/2022 – psicoterapia (DOU)",
+          "url": "https://www.in.gov.br/en/web/dou/-/resolucao-n-13-de-15-de-junho-de-2022-408911936",
+          "tipo": "resolucao"
+        }
+      ],
+      "resumo_md": "### Fundamentos\n- Avaliação psicológica é **processo** (não sinônimo de testagem): planejamento, coleta, integração e **devolutiva**, para subsidiar decisões (Res. CFP 31/2022, art. 1º).\n- **Fontes fundamentais**: testes aprovados, **entrevistas/anamnese**, **observação**; **complementares**: técnicas não psicológicas com respaldo científico e documentos de outras equipes.\n- **Psicodiagnóstico**: avaliação com fins clínicos (Cunha); laudo como produto.\n\n### Psicometria\n- **Validade**: o teste mede o que se propõe? Evidências baseadas no **conteúdo**, na **estrutura interna** (análise fatorial), nas **relações com outras variáveis** (convergente, discriminante, **critério** – concorrente e preditiva), no **processo de resposta** e nas **consequências** (Standards AERA/APA/NCME).\n- **Precisão/fidedignidade**: consistência dos escores – **teste-reteste** (estabilidade), **formas paralelas**, **consistência interna** (alfa de Cronbach, duas metades), **concordância entre avaliadores**. Precisão é necessária, mas **não suficiente** para validade.\n- **Normatização/padronização**: normas para um grupo de referência (percentis, escores padronizados); validade das normas é limitada à população de origem.\n- **Erro padrão de medida**: incerteza do escore observado.\n\n### Tipos de instrumentos\nTestes psicométricos (inteligência, atenção, personalidade por inventários) e **métodos projetivos/expressivos** (Rorschach, TAT, HTP, Pfister); escalas, inventários e questionários também são testes se avaliados pelo SATEPSI (Res. 31/2022, art. 10).\n\n### SATEPSI\n- Lista **favoráveis**, **desfavoráveis** e **não avaliados**; usar desfavorável/não avaliado é **falta ética**, salvo pesquisa e ensino.\n- Estudos de validade, precisão e normas valem por **até 15 anos**.\n- Versões informatizadas/remotas exigem **estudo de equivalência**.\n\n### Contextos\nClínico, escolar, **trânsito** (Res. 01/2019), **concurso público** (Res. 08/2025 – apto/inapto, profissiografia), porte de arma, jurídico/pericial, organizacional (seleção – função privativa, Lei 4.119), **saúde mental relacionada ao trabalho** (Res. 61/2025). Documento: **laudo**, com devolutiva obrigatória (Res. 06/2019).",
+      "dicas_fgv": "A FGV costuma cobrar tipos de evidências de validade e de precisão (teste-reteste x consistência interna), a diferença entre fontes fundamentais e complementares e a consequência ética de usar teste não favorável no SATEPSI."
+    },
+    "esp-documentos": {
+      "links": [
+        {
+          "titulo": "Res. CFP nº 06/2019 – documentos escritos (DOU)",
+          "url": "https://www.in.gov.br/en/web/dou/-/resolucao-n-6-de-29-de-marco-de-2019-69440920",
+          "tipo": "resolucao"
+        },
+        {
+          "titulo": "Manual Orientativo de Registro e Elaboração de Documentos Psicológicos (CFP, 2025)",
+          "url": "https://site.cfp.org.br/wp-content/uploads/2025/11/Manual_Orientativo.pdf",
+          "tipo": "cartilha"
+        },
+        {
+          "titulo": "Res. CFP nº 001/2009 – registro documental (PDF, CFP)",
+          "url": "https://site.cfp.org.br/wp-content/uploads/2009/04/resolucao2009_01.pdf",
+          "tipo": "resolucao"
+        }
+      ],
+      "resumo_md": "### Princípios (Res. CFP 06/2019)\nDocumento psicológico = instrumento de **comunicação escrita** resultante de serviço prestado; deve ter **qualidade técnica e científica**, considerar **condicionantes históricos e sociais**, a natureza **dinâmica e não cristalizada** do fenômeno psicológico, linguagem **formal e precisa** e **preservar o sigilo** (informar apenas o necessário à finalidade).\n\n### Quadro das modalidades\n| Documento | Finalidade | Ponto-chave |\n|---|---|---|\n| **Declaração** | comparecimento, acompanhamento, horários | **não** registra sintomas/estados |\n| **Atestado** | certifica condição psicológica | exige **diagnóstico psicológico**; apto/inapto, justificar faltas |\n| **Relatório** (psicológico/multiprofissional) | comunica atuação | descritivo; **não** produz diagnóstico |\n| **Laudo** | resultado de **avaliação psicológica** | subsidia decisões; fontes fundamentais |\n| **Parecer** | resposta a questão-problema ou documento questionado | **não** é avaliação; indicativo ou conclusivo |\n\n### Entrega, validade e devolutiva\n- Entrega ao beneficiário/responsável/solicitante com **protocolo** assinado (art. 16).\n- **Prazo de validade** no último parágrafo (art. 17).\n- **Devolutiva obrigatória** para relatório e laudo (art. 18).\n\n### Registro e guarda\n- **Registro documental obrigatório** (Res. 01/2009): identificação, demanda/objetivos, evolução, encaminhamento/encerramento, cópias de documentos emitidos.\n- **Prontuário**: acesso **integral** do usuário; testes ficam em **pasta de acesso exclusivo** da psicóloga (Res. 05/2010).\n- Equipe multiprofissional: **prontuário único**, com o necessário (Res. 01/2009, art. 6º; CEPP, art. 12).\n- Guarda **mínima de 5 anos** (documentos e material de fundamentação).\n- Interrupção do trabalho: repassar ao substituto ou **lacrar**; extinção do serviço: comunicar ao **CRP** (CEPP, art. 15).\n\n### Compartilhamento e sigilo\nCompartilhar só o que é **relevante** para qualificar o serviço, alertando o receptor sobre o sigilo (CEPP, art. 6º, b); notificações compulsórias em sistemas que **assegurem sigilo** (Res. 13/2022, art. 10, III).",
+      "dicas_fgv": "Caso prático típico: escola, juiz ou empresa pede um documento; a FGV pergunta qual modalidade cabe e o que pode constar. Também cobra que declaração não contém sintomas e que testes não integram o prontuário de acesso do usuário."
+    },
+    "esp-politicas-publicas": {
+      "links": [
+        {
+          "titulo": "Lei nº 10.216/2001 – Reforma Psiquiátrica (Planalto)",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10216.htm",
+          "tipo": "lei"
+        },
+        {
+          "titulo": "CREPOP – Referências Técnicas: atuação no CAPS (2022)",
+          "url": "https://crepop.cfp.org.br/wp-content/uploads/sites/34/2022/10/031-Crepop-Referencias-Tecnicas-para-Atuacao-de-Psicologasos-no-Centro-de-Atencao-Psicossocial-CAPS.pdf",
+          "tipo": "cartilha"
+        },
+        {
+          "titulo": "CREPOP – Referências Técnicas: Atenção Básica à Saúde",
+          "url": "https://crepop.cfp.org.br/wp-content/uploads/sites/34/2022/10/015-Crepop-Referencias-Tecnicas-para-Atuacao-de-Psicologasos-na-Atencao-Basica-a-Saude.pdf",
+          "tipo": "cartilha"
+        },
+        {
+          "titulo": "CREPOP – Referências Técnicas: SUAS (2025)",
+          "url": "https://crepop.cfp.org.br/wp-content/uploads/sites/34/2025/11/RT_SUAS_web.pdf",
+          "tipo": "cartilha"
+        },
+        {
+          "titulo": "CREPOP – Referências Técnicas: Educação Básica",
+          "url": "https://crepop.cfp.org.br/wp-content/uploads/sites/34/2022/10/009-Crepop-Referencias-tecnicas-para-atuacao-de-psicologas-na-educacao-basica.pdf",
+          "tipo": "cartilha"
+        },
+        {
+          "titulo": "CREPOP – Referências Técnicas: Varas de Família",
+          "url": "https://crepop.cfp.org.br/wp-content/uploads/sites/34/2022/10/013-Crepop-Referencias-tecnicas-para-atuacao-de-psicologas-em-varas-da-familia.pdf",
+          "tipo": "cartilha"
+        }
+      ],
+      "resumo_md": "### SUS e saúde mental\n- Princípios do SUS: **universalidade, integralidade, equidade**; diretrizes: descentralização, regionalização/hierarquização, **participação social**.\n- **Reforma Psiquiátrica** – **Lei 10.216/2001**: direitos da pessoa com transtorno mental (tratamento humanizado, sigilo, serviços **comunitários** preferenciais); internação só quando recursos extra-hospitalares forem **insuficientes**; vedada em instituições **asilares**; tipos de internação **voluntária, involuntária** (comunicada ao **MP em 72 h**) e **compulsória** (judicial) – arts. 4º, 6º e 8º.\n- **RAPS** (Portaria 3.088/2011): atenção básica (UBS, Consultório na Rua, centros de convivência), **atenção psicossocial especializada (CAPS I, II, III, i, AD, AD III)**, urgência e emergência, atenção residencial transitória (unidades de acolhimento), atenção hospitalar (leitos em hospital geral), **estratégias de desinstitucionalização** (Serviços Residenciais Terapêuticos, **Programa De Volta para Casa**) e reabilitação psicossocial.\n- Conceitos: **clínica ampliada**, **matriciamento/apoio matricial**, **Projeto Terapêutico Singular (PTS)**, **redução de danos**, território, cuidado em liberdade, **luta antimanicomial** (18 de maio).\n\n### SUAS\n- **Proteção Social Básica** – **CRAS** (PAIF, prevenção, fortalecimento de vínculos).\n- **Proteção Social Especial** de média complexidade – **CREAS** (PAEFI: direitos violados com vínculos mantidos) – e de alta complexidade (acolhimento institucional).\n- Psicóloga no SUAS **não faz psicoterapia** no equipamento: atua em **acompanhamento psicossocial**, grupos, visitas, articulação de rede (Referências Técnicas do CREPOP).\n\n### Educação e justiça\n- Escola: atuação **institucional e preventiva**, contra a **medicalização** e a culpabilização individual do fracasso escolar; Lei 13.935/2019 prevê psicólogos e assistentes sociais nas redes públicas de educação básica.\n- Justiça: varas de família (guarda, alienação parental), infância, socioeducativo, sistema prisional – **perícia** x **assistência técnica**; escuta especializada x depoimento especial (Lei 13.431/2017).\n\n### CREPOP\nProduz **Referências Técnicas** para a atuação em políticas públicas (CAPS, CRAS, CREAS, educação, álcool e drogas, varas de família etc.) e mostra a dimensão **intersetorial** e **interdisciplinar** do trabalho.",
+      "dicas_fgv": "A FGV cobra os dispositivos da RAPS e do SUAS (o que é CRAS x CREAS, tipos de CAPS), os tipos de internação da Lei 10.216 e a postura esperada da psicóloga em políticas públicas: atuação territorial, matriciamento, PTS e não reprodução do modelo clínico individual."
+    },
+    "esp-direitos-humanos": {
+      "links": [
+        {
+          "titulo": "CREPOP – Relações Raciais: referências técnicas",
+          "url": "https://crepop.cfp.org.br/wp-content/uploads/sites/34/2022/10/004-Crepop-Relacoes-Raciais-Referencias-tecnicas-para-atuacao-de-psicologas.pdf.pdf",
+          "tipo": "cartilha"
+        },
+        {
+          "titulo": "CREPOP – Referências Técnicas: atuação com pessoas LGBTQIA+ (2023)",
+          "url": "https://crepop.cfp.org.br/wp-content/uploads/sites/34/2023/06/RT_LGBT_crepop_Web.pdf",
+          "tipo": "cartilha"
+        },
+        {
+          "titulo": "CREPOP – Referências Técnicas: mulheres (2024)",
+          "url": "https://crepop.cfp.org.br/wp-content/uploads/sites/34/2024/11/CREPOP_RT_Mulheres_web.pdf",
+          "tipo": "cartilha"
+        },
+        {
+          "titulo": "CFP – Manual orientativo para atuação anticapacitista (2025)",
+          "url": "https://site.cfp.org.br/wp-content/uploads/2025/10/Manual_Anticapacitista_web.pdf",
+          "tipo": "cartilha"
+        },
+        {
+          "titulo": "Res. CFP nº 01/1999 – orientação sexual (PDF, CFP)",
+          "url": "https://site.cfp.org.br/wp-content/uploads/1999/03/resolucao1999_1.pdf",
+          "tipo": "resolucao"
+        },
+        {
+          "titulo": "Res. CFP nº 01/2018 – pessoas transexuais e travestis (PDF, CFP)",
+          "url": "https://site.cfp.org.br/wp-content/uploads/2018/01/Resolu%C3%A7%C3%A3o-CFP-01-2018.pdf",
+          "tipo": "resolucao"
+        }
+      ],
+      "resumo_md": "### Compromisso social\nPrincípios I e II do Código de Ética: liberdade, dignidade, igualdade e integridade (**DUDH**) e eliminação de negligência, **discriminação**, exploração, violência, crueldade e opressão. Princípio VII: considerar **relações de poder**.\n\n### Relações étnico-raciais\n- **Racismo estrutural e institucional**; branquitude; efeitos psicossociais do racismo (sofrimento, adoecimento).\n- **Res. CFP 18/2002**: vedada ação que favoreça discriminação ou preconceito de raça/etnia; vedado ser conivente ou omisso diante de racismo.\n- Estatuto da Igualdade Racial (Lei 12.288/2010) e **racismo religioso** contra religiões de matriz africana (Res. CFP 07/2023).\n- Referências técnicas do CREPOP sobre relações raciais e atuação com povos indígenas e quilombolas.\n\n### Gênero e sexualidade\n- **Res. CFP 01/1999**: homossexualidade **não** é doença, distúrbio ou perversão; vedado **tratar ou propor “cura”** e colaborar com eventos/serviços de tratamento; vedado reforçar preconceitos em pronunciamentos públicos.\n- **Res. CFP 01/2018**: identidades de gênero não são psicopatologias; vedado favorecer a **patologização** de pessoas trans e travestis e reconhecida sua **autodeterminação** (art. 7º); vedado propor ou colaborar com **terapias de conversão, reversão ou readequação** de identidade de gênero (art. 8º).- Violência contra mulheres: Lei Maria da Penha (Lei 11.340/2006), interseccionalidade (gênero, raça, classe).\n\n### Pessoas com deficiência\nModelo **social/biopsicossocial** (LBI): a deficiência resulta da interação do impedimento com **barreiras** (inclusive **atitudinais**); **capacitismo** como discriminação; acessibilidade, adaptação razoável, tecnologia assistiva; anticapacitismo na prática profissional (manual do CFP, 2025).\n\n### Violências\nFísica, psicológica, sexual, patrimonial, institucional (Lei 13.431/2017); **notificação compulsória** e comunicação aos órgãos de proteção (ECA, Estatuto da Pessoa Idosa, LBI); evitar **revitimização**.\n\n### Práticas não discriminatórias\nEscuta qualificada, linguagem respeitosa, consideração dos **marcadores sociais da diferença** e da interseccionalidade; documentos e testes sem reforçar estigmas (Res. 31/2022, arts. 40–41).",
+      "dicas_fgv": "A FGV apresenta situações de discriminação (pedido de “cura gay”, recusa de nome social, laudo que reforça estereótipo racial) e pede a conduta compatível com as resoluções do CFP. Saber que homossexualidade e transexualidade não são patologias para o CFP e que terapias de conversão são vedadas é essencial."
+    },
+    "esp-trabalho": {
+      "links": [
+        {
+          "titulo": "CREPOP – Saúde do trabalhador no âmbito da saúde pública",
+          "url": "https://crepop.cfp.org.br/wp-content/uploads/sites/34/2022/10/011-Crepop-Saude-do-trabalhador-no-ambito-da-saude-publica.pdf",
+          "tipo": "cartilha"
+        },
+        {
+          "titulo": "MTE – Perguntas e respostas sobre o Capítulo 1.5 da NR-1 (riscos psicossociais, 2026)",
+          "url": "https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/inspecao-do-trabalho/manuais-e-publicacoes/2026/perguntas-e-respostas-gro-pgr-maio-2026",
+          "tipo": "outro"
+        },
+        {
+          "titulo": "Res. CFP nº 61/2025 – perícia em saúde mental relacionada ao trabalho (DOU)",
+          "url": "https://www.in.gov.br/en/web/dou/-/resolucao-n-61-de-16-de-dezembro-de-2025-676908139",
+          "tipo": "resolucao"
+        },
+        {
+          "titulo": "Lei nº 14.540/2023 – Programa de Prevenção e Enfrentamento ao Assédio Sexual (Planalto)",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14540.htm",
+          "tipo": "lei"
+        }
+      ],
+      "resumo_md": "### Psicologia Organizacional e do Trabalho (POT)\nTrês eixos clássicos: **organizacional** (cultura, clima, liderança, poder, comunicação), **do trabalho** (saúde, subjetividade, condições e organização do trabalho) e **gestão de pessoas** (recrutamento e seleção, treinamento e desenvolvimento, avaliação de desempenho). A seleção com métodos psicológicos é **função privativa** (Lei 4.119, art. 13, § 1º, “b”).\n\n### Saúde mental relacionada ao trabalho\n- **Psicodinâmica do trabalho** (Christophe **Dejours**): prazer e sofrimento; distância entre **trabalho prescrito** e **trabalho real**; estratégias defensivas; reconhecimento.\n- **Clínica da atividade** (Clot), **ergologia** e **ergonomia da atividade**.\n- **Burnout** (síndrome do esgotamento profissional – exaustão, despersonalização/cinismo, baixa realização; Maslach) – na CID-11 é fenômeno **ocupacional** (QD85).\n- Saúde do trabalhador no SUS: **CEREST**, vigilância em saúde do trabalhador, notificação de agravos; nexo causal/concausal.\n\n### Riscos psicossociais e NR-1\n- Desde **26/05/2026** o Gerenciamento de Riscos Ocupacionais (**GRO/PGR**) da NR-1 deve incluir os **fatores de risco psicossociais** relacionados ao trabalho (sobrecarga, metas abusivas, falta de autonomia/suporte, assédio, conflitos, jornadas extensas).\n- Lógica: **identificar perigos, avaliar riscos, adotar medidas de prevenção e acompanhar** – com foco na **organização do trabalho**, não na culpabilização individual.\n\n### Assédio\n- **Moral**: conduta abusiva **repetitiva e prolongada** que humilha e degrada as condições de trabalho (Hirigoyen); pode ser vertical (descendente/ascendente), horizontal ou organizacional.\n- **Sexual**: constrangimento com conotação sexual; crime do art. 216-A do Código Penal (com ascendência hierárquica); **Lei 14.540/2023** cria programa de prevenção na administração pública.\n\n### Responsabilidade ética\nSigilo também na organização (resultados de avaliação não são entregues de forma que exponha o trabalhador), não usar a Psicologia para **controle ou punição**, informar finalidade da avaliação. **Res. CFP 61/2025**: perícia e assistência técnica em saúde mental relacionada ao trabalho (nexo de causalidade/concausalidade, instrumentos com evidências de validade).",
+      "dicas_fgv": "A FGV deve explorar Dejours (trabalho prescrito x real), a caracterização do assédio moral (repetição e duração), a inclusão dos riscos psicossociais no GRO da NR-1 e a postura ética da psicóloga organizacional diante de pedidos da empresa que violem o sigilo."
+    },
+    "esp-praticas": {
+      "links": [
+        {
+          "titulo": "Res. CFP nº 13/2022 – psicoterapia (DOU)",
+          "url": "https://www.in.gov.br/en/web/dou/-/resolucao-n-13-de-15-de-junho-de-2022-408911936",
+          "tipo": "resolucao"
+        },
+        {
+          "titulo": "Res. CFP nº 09/2024 – Psicologia mediada por TDICs (DOU)",
+          "url": "https://www.in.gov.br/en/web/dou/-/resolucao-n-9-de-18-de-julho-de-2024-575046772",
+          "tipo": "resolucao"
+        },
+        {
+          "titulo": "Guia CFP ‘Inteligência Artificial na Psicologia: prática ética e responsável’",
+          "url": "https://site.cfp.org.br/wp-content/uploads/2025/12/Cartilha_IA_A5-1.pdf",
+          "tipo": "cartilha"
+        },
+        {
+          "titulo": "CFP – ‘A psicoterapia como ofício na Psicologia’ (2025)",
+          "url": "https://site.cfp.org.br/wp-content/uploads/2025/08/Psicoterapia_WEB.pdf",
+          "tipo": "cartilha"
+        },
+        {
+          "titulo": "Res. CFP nº 17/2022 – parâmetros na saúde / hora-assistencial (DOU)",
+          "url": "https://www.in.gov.br/en/web/dou/-/resolucao-n-17-de-19-de-julho-de-2022-418333366",
+          "tipo": "resolucao"
+        }
+      ],
+      "resumo_md": "### Psicoterapia (Res. CFP 13/2022)\nPrática **cientificamente fundamentada** em contexto clínico; contrato com direitos/deveres, honorários, tempo de sessão e **sem promessa de resultados**; tempo de sessão definido por critérios técnicos (nunca pelo valor pago); abordagens com **fundamentação ético-científica** e **evidência de benefícios**; **cientificidade e laicidade**; vedado ser perito do próprio paciente; gravação com consentimento escrito; criança/adolescente com autorização escrita de ao menos um responsável.\n\n### Atendimento mediado por tecnologias (Res. CFP 09/2024)\nAvaliar adequação das TDICs (sigilo, competências da profissional e do usuário, urgências, vulnerabilidades); **sem inscrição secundária**; presencial/rede em situações de **risco, violência, privação de liberdade e emergência**; contrato com foro da inscrição principal; testes remotos só com parecer favorável do SATEPSI para esse formato. **IA**: a psicóloga é responsável pelas decisões; cuidado com dados sensíveis (LGPD) e com ferramentas que não substituem o julgamento clínico (guia do CFP).\n\n### Interdisciplinaridade e intersetorialidade\n- **Multidisciplinar** (justaposição), **interdisciplinar** (integração de saberes, construção conjunta – PTS, matriciamento), **transdisciplinar**.\n- Sigilo em equipe: registrar e compartilhar **só o necessário** (CEPP, arts. 6º e 12); **prontuário único** (Res. 01/2009).\n- Respeitar atribuições de outras profissões e encaminhar o que extrapola a competência (CEPP, art. 6º, a).\n\n### Cientificidade e limites\n- Usar apenas práticas **reconhecidas pela ciência psicológica** (CEPP, art. 1º, c; vedação do art. 2º, f).\n- Vedada associação com práticas **religiosas ou místicas** (Res. 07/2023) e com terapias de “conversão”.\n- Prática baseada em evidências, aprimoramento contínuo (Princípio IV).\n\n### Desafios contemporâneos\n**Plataformas digitais** e “uberização” do atendimento; **redes sociais** e publicidade (NT 01/2022 – sem preço como propaganda nem depoimentos não autorizados); **medicalização** e patologização da vida; **saúde mental relacionada ao trabalho**; precarização das condições de trabalho (inclusive na formação – NT 31/2024); desastres e emergências; atuação **antirracista e anticapacitista**; **hora-assistencial** como parâmetro de condições de trabalho em saúde (Res. 17/2022).",
+      "dicas_fgv": "A FGV integra várias resoluções em um único caso (atendimento on-line de adolescente, gravação da sessão, divulgação em rede social). Responda cruzando Res. 13/2022, Res. 09/2024, Código de Ética e NT 01/2022, priorizando sigilo, consentimento e fundamentação científica."
+    }
+  },
+  "gerais": [
+    {
+      "titulo": "Página oficial do concurso (FGV)",
+      "url": "https://conhecimento.fgv.br/crp05",
+      "tipo": "outro"
+    },
+    {
+      "titulo": "Edital nº 01/2026 – abertura do concurso CRP-05 (PDF)",
+      "url": "https://conhecimento.fgv.br/sites/default/files/concursos/edital-01-2026-abertura-do-concurso-publico-crp-05.pdf",
+      "tipo": "outro"
+    },
+    {
+      "titulo": "Site do CRP-RJ (5ª Região)",
+      "url": "https://www.crprj.org.br/",
+      "tipo": "outro"
+    },
+    {
+      "titulo": "SATEPSI – Sistema de Avaliação de Testes Psicológicos",
+      "url": "https://satepsi.cfp.org.br/",
+      "tipo": "outro"
+    },
+    {
+      "titulo": "CREPOP – Centro de Referência Técnica em Psicologia e Políticas Públicas",
+      "url": "https://crepop.cfp.org.br/",
+      "tipo": "outro"
+    },
+    {
+      "titulo": "Código de Ética Profissional do Psicólogo (PDF, CFP)",
+      "url": "https://site.cfp.org.br/wp-content/uploads/2012/07/codigo-de-etica-psicologia.pdf",
+      "tipo": "resolucao"
+    },
+    {
+      "titulo": "Código de Processamento Disciplinar Comentado 2025 (PDF, CFP)",
+      "url": "https://site.cfp.org.br/wp-content/uploads/2025/11/cpd_comentado_web-1.pdf",
+      "tipo": "resolucao"
+    }
+  ]
+}

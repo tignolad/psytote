@@ -76,6 +76,7 @@ const out = process.argv[3] || '/tmp';
   // Materiais
   await page.click('.abas button[data-ir=materiais]');
   await page.click('[data-rota="materia/leg-codigo-etica"]');
+  ok(await page.waitForSelector('.md', {timeout: 5000}).then(() => true, () => false), 'resumo da matéria');
   await shot('09-materia');
 
   // Stats
