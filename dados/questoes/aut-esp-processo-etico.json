@@ -17,7 +17,7 @@
       "Lei nº 5.766/1971, que disciplina diretamente todos os prazos processuais."
     ],
     "gabarito": 2,
-    "comentario": "O CPD vigente foi instituído pela Res. CFP 11/2019 (de 14/06/2019), que revogou expressamente a Res. CFP 06/2007 e se aplicou de imediato aos processos pendentes, preservados os atos já praticados. A Res. CFP 10/2005 é o Código de Ética, e a Res. CFP 10/2017 trata da orientação e fiscalização. A Lei 5.766/1971 cria os Conselhos e prevê infrações e penas, mas o rito processual é detalhado pelo CPD. Em dezembro de 2025 o CFP lançou uma versão comentada do CPD, que continua regido pela Res. 11/2019.",
+    "comentario": "O CPD vigente foi instituído pela Res. CFP 11/2019 (de 14/06/2019), que revogou expressamente a Res. CFP 06/2007 e se aplicou de imediato aos processos pendentes, preservados os atos já praticados. A Res. CFP 10/2005 é o Código de Ética, e a Res. CFP 10/2017 trata da orientação e fiscalização. A Lei 5.766/1971 cria os Conselhos e prevê infrações e penas, mas o rito processual é detalhado pelo CPD. A Res. 11/2019 continua sendo o CPD vigente, mas com as alterações da Res. CFP 26/2025 (competência nos processos funcionais, prescrição, mediação, revelia, videoconferência); em 2025 o CFP publicou o CPD comentado já atualizado.",
     "dificuldade": 1,
     "anulada": false
   },
@@ -61,7 +61,7 @@
       "Conselho Regional do domicílio do representante."
     ],
     "gabarito": 1,
-    "comentario": "O art. 5º do CPD fixa a competência do CRP da jurisdição onde ocorreu o fato para julgar infrações éticas e ordinárias, independentemente de inscrição principal ou secundária. Apenas se não for possível fixar a competência por esse critério é que se recorre ao CRP em que a psicóloga estava inscrita ao tempo do fato (§ 1º). O CFP julga originariamente apenas infrações funcionais de conselheiros federais e, em grau de recurso, as decisões dos Regionais. Não há escolha do representante nem critério de domicílio deste.",
+    "comentario": "O art. 5º do CPD fixa a competência do CRP da jurisdição onde ocorreu o fato para julgar infrações éticas e ordinárias, independentemente de inscrição principal ou secundária. Apenas se não for possível fixar a competência por esse critério é que se recorre ao CRP em que a psicóloga estava inscrita ao tempo do fato (§ 1º). O CFP julga originariamente apenas infrações funcionais de conselheiros federais e, em grau de recurso, as decisões dos Regionais; desde a Res. CFP 26/2025, também recebe e distribui os processos funcionais de conselheiros regionais, julgados por CRP distinto daquele em que atuam (arts. 5º, 6º e 78, II). Não há escolha do representante nem critério de domicílio deste.",
     "dificuldade": 2,
     "anulada": false
   },
@@ -215,7 +215,7 @@
       "no Diário Oficial da União e no sítio eletrônico do CRP, considerando-se citada a psicóloga após 15 dias úteis da publicação no DOU, com prazo de 25 dias úteis para defesa a partir de então."
     ],
     "gabarito": 3,
-    "comentario": "O art. 29 do CPD prevê a citação por edital quando o endereço for desconhecido ou esgotadas as diligências. O edital deve informar que a psicóloga será considerada citada após 25 dias úteis da publicação no DOU e mencionar o prazo de 15 dias úteis para defesa a partir de então; deve ser publicado, necessariamente, no DOU e em jornal de grande circulação do Estado (§ 2º). A última alternativa inverte os prazos.",
+    "comentario": "O art. 31 do CPD prevê a citação por edital quando o endereço for desconhecido ou esgotadas as diligências. O edital deve informar que a psicóloga será considerada citada após 25 dias úteis da publicação no DOU e mencionar o prazo de 15 dias úteis para defesa a partir de então; deve ser publicado, necessariamente, no DOU e em jornal de grande circulação do Estado (§ 2º). A última alternativa inverte os prazos.",
     "dificuldade": 3,
     "anulada": false
   },
@@ -231,13 +231,13 @@
     "enunciado": "Citado regularmente, um psicólogo não apresenta defesa no prazo. Segundo o Código de Processamento Disciplinar,",
     "alternativas": [
       "o processo é arquivado, pois não há como prosseguir sem defesa.",
-      "a Comissão decretará a revelia e pedirá a nomeação de defensor dativo, preferencialmente psicóloga(o), vedada a atuação de conselheiras(os).",
-      "presumem-se verdadeiros os fatos narrados na representação, e o processo vai imediatamente a julgamento, dispensada a nomeação de defensor dativo.",
+      "a Comissão decretará a revelia, e o processo seguirá seu curso, com intimação do revel para todos os atos, sem defensor dativo.",
+      "presumem-se verdadeiros os fatos narrados na representação, e o processo vai imediatamente a julgamento, dispensada a intimação do revel para os atos seguintes.",
       "o psicólogo revel fica impedido de manifestar-se no processo até o julgamento.",
-      "a Comissão nomeará defensor dativo, que deve ser obrigatoriamente conselheira(o) efetiva(o) do CRP, dispensada a decretação formal da revelia."
+      "a Comissão decretará a revelia e solicitará à Presidência a nomeação de defensor dativo, providência obrigatória em toda hipótese de revelia."
     ],
     "gabarito": 1,
-    "comentario": "Considera-se revel o processado que, citado, não apresenta defesa ou se opõe ao recebimento da citação. A Comissão Processante decreta a revelia e solicita a nomeação de defensor dativo, preferencialmente psicóloga(o), que presta compromisso escrito; conselheiras(os) efetivas(os) ou suplentes estão impedidos de atuar como dativos. O revel pode intervir em qualquer fase, recebendo o processo no estado em que se encontra. A falta de designação de dativo é causa de nulidade.",
+    "comentario": "Considera-se revel o processado que, citado, não apresenta defesa no prazo ou se opõe ao recebimento da citação (art. 35). Pela redação dada pela Res. CFP 26/2025, a Comissão Processante decreta a revelia e o processo segue seu curso normal, com intimação do revel para todos os atos (art. 35, parágrafo único); o defensor dativo, preferencialmente psicóloga(o) e nunca conselheira(o), só é nomeado quando a revelia decorrer de citação por edital (art. 36). Como a citação foi regular, não há dativo — antes da alteração, ele era nomeado em toda revelia. O revel pode intervir em qualquer fase, recebendo o processo no estado em que se encontra (art. 37), e a revelia não gera presunção de veracidade nem julgamento imediato.",
     "dificuldade": 2,
     "anulada": false
   },
@@ -325,7 +325,7 @@
       "dez anos para as éticas, sendo imprescritíveis as funcionais."
     ],
     "gabarito": 1,
-    "comentario": "Os arts. 54 e 55 do CPD dispõem que as infrações disciplinares ordinárias e funcionais prescrevem em 2 anos e as éticas em 5 anos, sempre a contar do conhecimento do fato, presumido quando ele for de conhecimento público. O termo inicial não é a data do fato nem a instauração do processo. Não há infração imprescritível no CPD.",
+    "comentario": "Os arts. 54 e 55 do CPD dispõem que as infrações disciplinares ordinárias e funcionais prescrevem em 2 anos e as éticas em 5 anos, a contar do conhecimento do fato pelo Conselho Processante (ordinárias e funcionais) ou pelo Conselho Regional (éticas), presumido quando ele for de conhecimento público (redação dada pela Res. CFP 26/2025). O termo inicial não é a data do fato nem a instauração do processo. Não há infração imprescritível no CPD.",
     "dificuldade": 1,
     "anulada": false
   },
@@ -369,7 +369,7 @@
       "a desistência da representação."
     ],
     "gabarito": 2,
-    "comentario": "O art. 58 do CPD prevê como causas interruptivas: (I) a notificação ou, não havendo notificação, a citação válida, inclusive por edital; (II) a decisão condenatória recorrível do Plenário do CRP; e (III) qualquer outro ato inequívoco que importe apuração dos fatos pelo Conselho. Interrompida, a prescrição recomeça a correr da data do ato interruptivo. O protocolo da representação, atos das partes como pedido de vista ou juntada de procuração e a desistência não constam do rol; a desistência sequer encerra o processo.",
+    "comentario": "O art. 58 do CPD prevê como causas interruptivas: (I) a notificação ou, não havendo notificação, a citação válida, inclusive por edital; (II) a decisão condenatória recorrível do Plenário do CRP; (III) qualquer outro ato inequívoco que importe apuração dos fatos; e (IV) qualquer ato inequívoco que importe encaminhamento do processo para a mediação ou outro meio consensual de solução de conflito (art. 58, IV, incluído pela Res. CFP 26/2025). Interrompida, a prescrição recomeça a correr da data do ato interruptivo. O protocolo da representação, atos das partes como pedido de vista ou juntada de procuração e a desistência não constam do rol; a desistência sequer encerra o processo.",
     "dificuldade": 3,
     "anulada": false
   },
@@ -567,7 +567,7 @@
       "advertência, multa, censura pública, suspensão por até 30 dias e cassação, as duas últimas ad referendum do Conselho Federal."
     ],
     "gabarito": 4,
-    "comentario": "O art. 27 da Lei 5.766/1971 prevê advertência, multa, censura, suspensão até 30 dias e cassação ad referendum do CFP. O art. 139 do CPD detalha: multa de 1 a 5 anuidades para pessoa natural e de 1 a 10 para pessoa jurídica; censura pública; suspensão por até 30 dias ad referendum do CFP; e cassação (ou cancelamento do registro de PJ) ad referendum do CFP. Salvo gravidade manifesta, observa-se a gradação (Lei, art. 28). Destituição da função de conselheiro é pena de infração funcional.",
+    "comentario": "O art. 27 da Lei 5.766/1971 prevê advertência, multa, censura, suspensão até 30 dias e cassação ad referendum do CFP. O art. 139 do CPD detalha: multa de 1 a 5 anuidades para pessoa natural e de 1 a 10 para pessoa jurídica; censura pública; suspensão por até 30 dias ad referendum do CFP; e cassação (ou cancelamento do registro de PJ) ad referendum do CFP. Salvo gravidade manifesta, observa-se a gradação (Lei, art. 28; CPD, art. 139, parágrafo único, com redação dada pela Res. CFP 26/2025). Destituição da função de conselheiro é pena de infração funcional.",
     "dificuldade": 1,
     "anulada": false
   },
@@ -648,14 +648,14 @@
     },
     "enunciado": "Durante processo ético, representante e psicóloga processada manifestam interesse em mediação. Sobre a mediação no Código de Processamento Disciplinar, é correto afirmar que",
     "alternativas": [
-      "remetidos os autos à Câmara de Mediação, suspendem-se o processo e a prescrição, e o acordo não implica assunção de culpa, salvo se pactuado.",
+      "remetidos os autos à Câmara de Mediação, o processo fica suspenso, o encaminhamento interrompe a prescrição, e o acordo não implica assunção de culpa, salvo se pactuado.",
       "a mediação só pode ocorrer antes da instauração do processo disciplinar, sendo vedada após a instrução.",
       "as informações reveladas na mediação podem ser usadas como prova no processo disciplinar caso não haja acordo, desde que com anuência da Comissão.",
       "é cabível mediação mesmo quando a situação já tiver sido objeto de Termo de Ajustamento de Conduta com as mesmas partes na Comissão de Orientação e Fiscalização.",
       "o acordo de mediação dispensa homologação e encerra o processo no momento de sua assinatura."
     ],
     "gabarito": 0,
-    "comentario": "Pelo Livro VII do CPD, cada CRP cria Câmara de Mediação no âmbito da Comissão de Ética; o encaminhamento pode ocorrer a qualquer tempo, a pedido ou de ofício, suspendendo o processo e a prescrição. Não são passíveis de mediação casos já objeto de TAC com as mesmas partes na COF, nem os de profissional que descumpriu acordo de mediação há menos de 2 anos. A mediação é confidencial, vedado o uso de suas informações como prova. O acordo deve ser homologado pelo Plenário, constitui título executivo extrajudicial e não implica assunção de culpa, salvo se pactuado.",
+    "comentario": "Pelo Livro VII do CPD, cada CRP cria Câmara de Mediação no âmbito da Comissão de Ética; o encaminhamento pode ocorrer a qualquer tempo, a pedido ou de ofício (art. 162). Encaminhados os autos, só o PROCESSO fica suspenso até o fim da mediação (art. 162, § 2º, com redação da Res. CFP 26/2025), e o encaminhamento INTERROMPE a prescrição, que recomeça do zero (art. 58, IV, incluído pela Res. CFP 26/2025) — antes, a mediação suspendia também a prescrição. Não são passíveis de mediação casos já objeto de TAC com as mesmas partes na COF, nem os de profissional que descumpriu acordo de mediação há menos de 2 anos. A mediação é confidencial, vedado o uso de suas informações como prova. O acordo deve ser homologado pelo Plenário, constitui título executivo extrajudicial e não implica assunção de culpa, salvo se pactuado.",
     "dificuldade": 3,
     "anulada": false
   }

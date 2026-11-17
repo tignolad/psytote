@@ -17,7 +17,7 @@
       "Resolução CFP nº 11/2019, que revogou expressamente a Resolução CFP nº 006/2007."
     ],
     "gabarito": 4,
-    "comentario": "A Resolução CFP 11, de 14/06/2019, instituiu o Código de Processamento Disciplinar e, em seu art. 175, revogou expressamente a Res. CFP 006/2007 (o art. 174 traz regra de transição). A Res. 10/2005 é o Código de Ética, a Res. 06/2019 trata de documentos escritos e a Res. 10/2017, da Política de Orientação e Fiscalização.",
+    "comentario": "A Resolução CFP 11, de 14/06/2019, instituiu o Código de Processamento Disciplinar e, em seu art. 175, revogou expressamente a Res. CFP 006/2007 (o art. 174 traz regra de transição). O Código foi alterado pela Res. CFP 26/2025, mas continua sendo a Res. 11/2019. A Res. 10/2005 é o Código de Ética, a Res. 06/2019 trata de documentos escritos e a Res. 10/2017, da Política de Orientação e Fiscalização.",
     "dificuldade": 1,
     "anulada": false
   },
@@ -61,7 +61,7 @@
       "o Conselho Regional do domicílio do representante."
     ],
     "gabarito": 2,
-    "comentario": "Art. 5º do CPD (Res. CFP 11/2019): compete ao CRP da jurisdição onde ocorreu o fato julgar as infrações éticas e ordinárias, independentemente de inscrição principal ou secundária nele. Só quando não for possível fixar a competência pelo local do fato é que será competente o CRP em que a psicóloga estava inscrita à época (§ 1º). O CFP julga originariamente apenas infrações funcionais de conselheiros federais e recursos (art. 6º).",
+    "comentario": "Art. 5º do CPD (Res. CFP 11/2019): compete ao CRP da jurisdição onde ocorreu o fato julgar as infrações éticas e ordinárias, independentemente de inscrição principal ou secundária nele. Só quando não for possível fixar a competência pelo local do fato é que será competente o CRP em que a psicóloga estava inscrita à época (§ 1º). O CFP julga originariamente apenas infrações funcionais de conselheiros federais e recursos, e recebe e distribui os processos funcionais de conselheiros regionais, que são julgados por CRP distinto (arts. 5º, 6º e 78, II, com redação da Res. CFP 26/2025).",
     "dificuldade": 2,
     "anulada": false
   },
@@ -149,7 +149,7 @@
       "serão acrescidos de 15 dias corridos."
     ],
     "gabarito": 1,
-    "comentario": "Art. 19 do CPD (Res. CFP 11/2019): se o processo não tramitar eletronicamente, acrescem-se 3 dias úteis aos prazos da parte que reside fora da cidade-sede do Conselho; se a residência for em outro Estado, o acréscimo é de 10 dias úteis (parágrafo único).",
+    "comentario": "Art. 19 do CPD (Res. CFP 11/2019): se o processo não tramitar eletronicamente, acrescem-se 3 dias úteis aos prazos da parte que reside fora da cidade-sede do Conselho; se a residência for em outro Estado, o acréscimo é de 10 dias úteis (ambas as regras no caput, com redação da Res. CFP 26/2025, cujos novos §§ 1º e 2º tratam do pedido de ato presencial quando designada videoconferência).",
     "dificuldade": 2,
     "anulada": false
   },
@@ -210,12 +210,12 @@
     "alternativas": [
       "ela será considerada revel, presumindo-se verdadeiros os fatos imputados, com julgamento imediato.",
       "o processo será arquivado, por ausência de contraditório.",
-      "ela será considerada revel, e a Comissão Processante pedirá à Presidência a nomeação de defensor dativo, preferencialmente psicóloga(o), vedada a atuação de conselheiros do Conselho nessa função.",
-      "ela será considerada revel, e um conselheiro suplente do próprio Conselho atuará como defensor dativo, presumindo-se verdadeiros os fatos imputados e vedada a sua intervenção posterior no processo.",
+      "ela será considerada revel, e o processo seguirá seu curso normal, devendo a Comissão Processante intimá-la para todos os atos, sem nomeação de defensor dativo.",
+      "ela será considerada revel, e a Comissão Processante pedirá à Presidência a nomeação de defensor dativo, preferencialmente psicóloga(o), vedada a atuação de conselheiros nessa função.",
       "ela será considerada revel e não poderá mais se manifestar no processo em nenhuma fase."
     ],
     "gabarito": 2,
-    "comentario": "Arts. 35 a 37 do CPD (Res. CFP 11/2019): é revel quem, citado, não apresenta defesa ou se opõe ao recebimento da citação; a revelia é decretada pela Comissão Processante, que pede a nomeação de defensor dativo, preferencialmente psicólogo; conselheiros efetivos ou suplentes do respectivo Conselho estão impedidos de atuar como dativos. O revel pode intervir em qualquer fase, recebendo o processo no estado em que se encontra.",
+    "comentario": "Arts. 35 a 37 do CPD, com redação da Res. CFP 26/2025: é revel quem, citado, não apresenta defesa ou se opõe ao recebimento da citação; a revelia é decretada pela Comissão Processante e o processo segue seu curso normal, com intimação do revel para todos os atos (art. 35, parágrafo único). O defensor dativo só é nomeado quando a revelia decorrer de citação por edital (art. 36) — como ela foi regularmente citada, D erra (essa era a regra antes da alteração). A revelia não gera presunção de veracidade (A), não leva a arquivamento (B) e o revel pode intervir em qualquer fase, recebendo o processo no estado em que se encontra (E; art. 37).",
     "dificuldade": 2,
     "anulada": false
   },
@@ -259,7 +259,7 @@
       "3 anos, aplicando-se o mesmo prazo às infrações ordinárias e funcionais."
     ],
     "gabarito": 1,
-    "comentario": "Arts. 54 e 55 do CPD (Res. CFP 11/2019): infrações ordinárias e funcionais prescrevem em 2 anos e as éticas em 5 anos, a contar do conhecimento do fato, presumido quando for de conhecimento público. O prazo de 3 anos refere-se à prescrição intercorrente (processo paralisado — art. 56).",
+    "comentario": "Arts. 54 e 55 do CPD (Res. CFP 11/2019): infrações ordinárias e funcionais prescrevem em 2 anos e as éticas em 5 anos, a contar do conhecimento do fato pelo Conselho Processante (ordinárias e funcionais) ou pelo Conselho Regional (éticas), presumido quando for de conhecimento público (arts. 54 e 55 com redação da Res. CFP 26/2025). O prazo de 3 anos refere-se à prescrição intercorrente (processo paralisado — art. 56).",
     "dificuldade": 2,
     "anulada": false
   },
@@ -474,12 +474,12 @@
     "alternativas": [
       "As informações reveladas na mediação podem ser usadas como prova no processo disciplinar, caso não haja acordo.",
       "A realização de acordo na mediação implica assunção de culpa pela psicóloga.",
-      "Encaminhados os autos à Câmara de Mediação, o prazo prescricional continua a correr normalmente.",
+      "Encaminhados os autos à Câmara de Mediação, o processo e o prazo prescricional ficam suspensos até o encerramento da mediação.",
       "Pode ser objeto de mediação o caso que já foi objeto de Termo de Ajustamento de Conduta entre as mesmas partes na COF.",
       "O procedimento de mediação terá duração de até 90 dias corridos, salvo prorrogação justificada, e o acordo homologado pelo Plenário e assinado por duas pessoas além das partes constitui título executivo extrajudicial."
     ],
     "gabarito": 4,
-    "comentario": "Arts. 163, parágrafo único, e 167 do CPD (Res. CFP 11/2019): a mediação dura até 90 dias corridos, salvo prorrogação, e o acordo homologado e assinado por duas testemunhas é título executivo extrajudicial. A mediação é confidencial e não pode servir de prova (art. 164); o acordo não implica assunção de culpa (art. 168); o processo e a prescrição ficam suspensos (art. 162, § 2º); e casos já objeto de TAC na COF não são mediáveis (art. 161, 'a').",
+    "comentario": "Arts. 163, parágrafo único, e 167 do CPD (Res. CFP 11/2019): a mediação dura até 90 dias corridos, salvo prorrogação, e o acordo homologado e assinado por duas testemunhas é título executivo extrajudicial. A mediação é confidencial e não pode servir de prova (art. 164); o acordo não implica assunção de culpa (art. 168); encaminhados os autos, só o processo fica suspenso (art. 162, § 2º, com redação da Res. CFP 26/2025), e o encaminhamento interrompe a prescrição, que recomeça do zero (art. 58, IV, incluído pela Res. CFP 26/2025) — por isso C erra; e casos já objeto de TAC na COF não são mediáveis (art. 161, 'a').",
     "dificuldade": 3,
     "anulada": false
   }
