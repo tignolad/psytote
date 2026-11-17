@@ -54,7 +54,7 @@
     },
     "enunciado": "Conforme o Regimento Interno do CRP-05, a Diretoria do Conselho é eleita pelo Plenário em escrutínio secreto e empossada na mesma reunião, com mandato de",
     "alternativas": [
-      "3 anos, coincidente com o mandato dos conselheiros, vedada a reeleição.",
+      "3 anos, coincidente com o mandato dos conselheiros, vedada a reeleição de qualquer de seus membros para o mesmo cargo na gestão seguinte.",
       "1 ano, permitida uma única reeleição consecutiva.",
       "2 anos, permitida uma reeleição.",
       "18 meses, com eleição na primeira reunião plenária do semestre.",
@@ -99,7 +99,7 @@
     "enunciado": "Nos termos do Regimento Interno do CRP-05, é atribuição do Presidente do Conselho Regional",
     "alternativas": [
       "coordenar a elaboração de balancetes mensais e balanços anuais.",
-      "subscrever os termos de posse e compromisso dos membros do Conselho e expedir certidões.",
+      "subscrever os termos de posse e compromisso dos membros do Conselho, expedir certidões e supervisionar a guarda dos livros e documentos da Secretaria.",
       "substituir o Secretário em seus afastamentos inferiores a 45 dias.",
       "exercer o direito de voto de minerva e assinar, conjuntamente com o Secretário, as resoluções, instruções normativas e portarias do Conselho.",
       "elaborar e supervisionar o registro das atas das reuniões do Plenário."
@@ -120,7 +120,7 @@
     },
     "enunciado": "Segundo o Regimento Interno do CRP-05, a vacância da Presidência ocorre pelo afastamento não justificado por prazo igual ou maior a 45 dias ou pela renúncia do cargo. Nesse caso,",
     "alternativas": [
-      "o Vice-Presidente assume a Presidência até o fim do mandato da Diretoria, sem nova eleição.",
+      "o Vice-Presidente assume a Presidência até o fim do mandato da Diretoria, sem nova eleição, devendo apenas comunicar a vacância ao Conselho Federal de Psicologia.",
       "o Conselho Federal designa um interventor até a próxima eleição geral do Regional.",
       "a Assembleia Geral é convocada para eleger o novo Presidente em até 90 dias.",
       "haverá nova eleição para o preenchimento da vaga na primeira reunião plenária que se realizar após a vacância, assumindo o Vice-Presidente até essa reunião.",
@@ -189,7 +189,7 @@
       "será composta exclusivamente por conselheiros efetivos, no mínimo 5.",
       "será composta de, no mínimo, 3 psicólogos regularmente inscritos, e pelo menos um deles deverá ser conselheiro integrante da COE, que a presidirá.",
       "será composta de, no mínimo, 2 psicólogos, presidida por advogado da assessoria jurídica.",
-      "será presidida por psicólogo convidado, vedada a participação de conselheiros, para garantir a imparcialidade.",
+      "será presidida por psicólogo convidado, externo ao Plenário, vedada a participação de conselheiros em sua composição, para garantir a imparcialidade da instrução.",
       "dispensa a inscrição regular de seus membros no CRP, bastando a formação em Psicologia."
     ],
     "gabarito": 1,
@@ -209,10 +209,10 @@
     "enunciado": "Sobre as Comissões Especiais, o Regimento Interno do CRP-05 estabelece que",
     "alternativas": [
       "são instituídas pelo Presidente por ato próprio, sem prazo de funcionamento definido.",
-      "seu prazo de funcionamento pode ultrapassar a gestão em que foram constituídas, se assim decidir a Diretoria.",
+      "seu prazo de funcionamento pode ultrapassar a gestão em que foram constituídas, se assim decidir a Diretoria, e seus integrantes devem ser exclusivamente conselheiros efetivos ou suplentes.",
       "seus integrantes devem ser exclusivamente conselheiros efetivos ou suplentes.",
       "são aprovadas pela Assembleia Geral, por maioria de 2/3 dos presentes.",
-      "são instituídas pelo Plenário por meio de Portarias, e seus integrantes podem incluir estudante de Psicologia regularmente matriculado em instituição de ensino superior reconhecida pelo MEC."
+      "são instituídas pelo Plenário por Portarias, e podem integrá-las estudantes de Psicologia regularmente matriculados em instituição de ensino superior reconhecida pelo MEC."
     ],
     "gabarito": 4,
     "comentario": "Arts. 36 a 39 do Regimento Interno do CRP-05: as Comissões Especiais são instituídas pelo Plenário por Portarias; a Portaria indica assuntos, integrantes, Presidente/Coordenador e prazo, que não pode ultrapassar a gestão; os integrantes podem ser conselheiros, psicólogos inscritos na Região, estudantes de Psicologia regularmente matriculados ou assessores especializados, indicados pelo Plenário e aprovados por maioria de votos.",
@@ -252,11 +252,11 @@
     },
     "enunciado": "Segundo o Regimento Interno do CRP-05, o Plenário reúne-se ordinariamente pelo menos uma vez por mês. Quanto às reuniões extraordinárias, o Regimento prevê que",
     "alternativas": [
-      "ocorrem por iniciativa do Presidente ou por solicitação de, no mínimo, 2/3 dos Conselheiros Efetivos, convocadas com antecedência mínima de 15 dias e com pauta limitada às matérias que motivaram a convocação.",
+      "ocorrem por iniciativa do Presidente ou a pedido de, no mínimo, 2/3 dos Conselheiros Efetivos, com antecedência mínima de 15 dias e pauta limitada às matérias que as motivaram.",
       "ocorrem por iniciativa do Presidente ou de 1/3 dos Conselheiros Efetivos, com antecedência mínima de 20 dias.",
       "ocorrem apenas por convocação do Conselho Federal, com antecedência mínima de 30 dias.",
       "podem ser instaladas sem a presença de membro da Diretoria, desde que haja quórum.",
-      "ocorrem por iniciativa do Presidente, com antecedência mínima de 15 dias, sendo vedada a redução desse prazo."
+      "ocorrem por iniciativa do Presidente, com antecedência mínima de 15 dias, sendo vedada a redução desse prazo mesmo em caso de urgência, e com pauta limitada às matérias que as motivaram."
     ],
     "gabarito": 0,
     "comentario": "Art. 52 do Regimento Interno do CRP-05: extraordinárias por iniciativa do Presidente ou a pedido de, no mínimo, 2/3 dos Conselheiros Efetivos, antecedência mínima de 15 dias, pauta limitada; o prazo pode ser reduzido por urgência, comprovada a convocação a tempo de todos (§ 1º), e a reunião só se instala com pelo menos 1 membro da Diretoria (§ 2º). No CFP, a antecedência é de 20 dias.",
@@ -321,7 +321,7 @@
       "confundem-se com as Comissões Permanentes e são criados pela Diretoria sem prazo determinado.",
       "têm prazo de até 1 ano, improrrogável, e apresentam relatório apenas ao final dos trabalhos.",
       "são instituídos pelo Plenário com objetivo definido e prazo determinado de até 6 meses, prorrogável por igual período, e devem apresentar relatórios trimestrais por escrito.",
-      "são coordenados obrigatoriamente pelo Presidente do Conselho e seus integrantes mantêm vínculo trabalhista com o Regional.",
+      "são coordenados obrigatoriamente pelo Presidente do Conselho, e seus integrantes mantêm vínculo trabalhista com o Regional enquanto durarem os trabalhos, com relatório mensal por escrito.",
       "só podem ser propostos por conselheiros, vedada a proposta pela categoria."
     ],
     "gabarito": 2,

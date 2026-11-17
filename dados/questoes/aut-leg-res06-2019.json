@@ -32,7 +32,7 @@
     },
     "enunciado": "Segundo a Resolução CFP nº 06/2019, a não observância de suas regras",
     "alternativas": [
-      "constitui mera irregularidade administrativa, sanável por orientação, sem repercussão disciplinar.",
+      "constitui mera irregularidade administrativa, sanável por orientação da Comissão de Orientação e Fiscalização, sem repercussão disciplinar, ainda que o documento tenha sido entregue ao solicitante e utilizado por ele.",
       "constitui infração funcional, apurada pela Secretaria de Orientação e Ética do CFP.",
       "constitui crime de falsidade ideológica, a ser comunicado ao Ministério Público.",
       "só gera consequência se o documento for apresentado em processo judicial.",
@@ -76,8 +76,8 @@
     },
     "enunciado": "Uma paciente pede à sua psicóloga um documento para justificar ao empregador o comparecimento às sessões semanais. A psicóloga opta por emitir uma declaração. À luz da Resolução CFP nº 06/2019, essa declaração",
     "alternativas": [
-      "pode registrar o comparecimento, o acompanhamento psicológico realizado ou em realização e informações sobre tempo de acompanhamento, dias e horários, sendo vedado o registro de sintomas, situações ou estados psicológicos.",
-      "deve informar o diagnóstico da paciente pela CID, para justificar as ausências ao trabalho.",
+      "pode registrar o comparecimento, o acompanhamento realizado ou em realização e informações sobre tempo de acompanhamento, dias e horários, vedado o registro de sintomas, situações ou estados psicológicos.",
+      "deve informar o diagnóstico da paciente pela CID, além dos dias e horários das sessões, para justificar as ausências ao trabalho perante o setor de recursos humanos e o serviço médico da empresa empregadora.",
       "pode registrar sintomas, desde que a paciente autorize por escrito.",
       "deve conter descrição da demanda, procedimento, análise e conclusão.",
       "só pode ser emitida após processo de avaliação psicológica."
@@ -124,7 +124,7 @@
       "o pedido é ilegítimo, pois o prazo para solicitar a fundamentação é de um ano.",
       "o pedido é ilegítimo, pois a fundamentação do atestado é protegida por sigilo absoluto em relação ao Conselho.",
       "o pedido só seria legítimo mediante ordem judicial.",
-      "o pedido é legítimo, mas o psicólogo pode recusá-lo se já tiver descartado o registro documental após 12 meses."
+      "o pedido é legítimo, mas o psicólogo pode recusá-lo se já tiver descartado o registro documental após 12 meses, prazo mínimo de guarda previsto para os atestados psicológicos."
     ],
     "gabarito": 0,
     "comentario": "Art. 10, § 4º, da Res. CFP 06/2019: os CRPs podem, no prazo de até cinco anos, solicitar ao psicólogo a fundamentação técnico-científica do atestado. Além disso, a emissão do atestado deve estar fundamentada no registro documental, que deve ser guardado pelo prazo mínimo de 5 anos (art. 10, § 3º; art. 15).",
@@ -142,8 +142,8 @@
     },
     "enunciado": "Na estrutura do atestado psicológico definida pela Resolução CFP nº 06/2019, as informações",
     "alternativas": [
-      "deverão ser registradas em texto corrido, separadas apenas pela pontuação, sem parágrafos, e, se necessária a utilização de parágrafos, os espaços devem ser preenchidos com traços, para evitar riscos de adulteração.",
-      "deverão ser apresentadas em itens numerados, com espaços em branco para complementação posterior.",
+      "deverão ser registradas em texto corrido, separadas apenas pela pontuação, sem parágrafos; se estes forem necessários, os espaços devem ser preenchidos com traços, para evitar adulteração.",
+      "deverão ser apresentadas em itens numerados de identificação, demanda e conclusão, com espaços em branco ao final de cada item, para permitir a complementação posterior pela própria psicóloga.",
       "deverão ser registradas em formulário padronizado fornecido pelo Conselho Regional.",
       "deverão ser registradas com descrição literal das sessões realizadas.",
       "deverão ser registradas em tópicos de identificação, demanda, procedimento, análise e conclusão."
@@ -164,9 +164,9 @@
     },
     "enunciado": "Conforme a Resolução CFP nº 06/2019, o relatório psicológico",
     "alternativas": [
-      "é o resultado de um processo de avaliação psicológica, com a finalidade de subsidiar decisões e produzir diagnóstico.",
+      "é o resultado de um processo de avaliação psicológica, com a finalidade de subsidiar decisões e produzir diagnóstico, devendo conter obrigatoriamente o código da CID e o prognóstico da pessoa atendida.",
       "registra apenas comparecimento, dias e horários de atendimento.",
-      "visa comunicar a atuação profissional em processos de trabalho já desenvolvidos ou em desenvolvimento, podendo gerar orientações, recomendações, encaminhamentos e intervenções, não tendo como finalidade produzir diagnóstico psicológico.",
+      "visa comunicar a atuação profissional em processos de trabalho desenvolvidos ou em desenvolvimento, podendo gerar orientações e encaminhamentos, sem a finalidade de produzir diagnóstico psicológico.",
       "é uma resposta a consulta sobre questão-problema, não decorrente de intervenção psicológica.",
       "deve corresponder à descrição literal das sessões realizadas."
     ],
@@ -296,10 +296,10 @@
     },
     "enunciado": "No relatório multiprofissional, conforme a Resolução CFP nº 06/2019,",
     "alternativas": [
-      "os procedimentos de todos os profissionais devem ser descritos de forma integrada, sem distinção de autoria.",
+      "os procedimentos de todos os profissionais devem ser descritos de forma integrada, sem distinção de autoria, e o relatório multiprofissional substitui o registro documental de cada profissional que o assina.",
       "a análise deve ser feita conjuntamente, sendo vedada a análise separada por categoria profissional.",
       "a conclusão deve ser feita separadamente por cada profissional, vedada a conclusão conjunta.",
-      "a descrição dos procedimentos e/ou técnicas privativas da Psicologia deve vir separada das descritas pelos demais profissionais, e o relatório multiprofissional não isenta a psicóloga de realizar o registro documental.",
+      "a descrição dos procedimentos e técnicas privativos da Psicologia deve vir separada da dos demais profissionais, e o relatório multiprofissional não isenta a psicóloga do registro documental.",
       "o relatório multiprofissional substitui o registro documental da psicóloga."
     ],
     "gabarito": 3,
@@ -321,7 +321,7 @@
       "devem ser escritos de forma impessoal, na terceira pessoa, e não devem apresentar descrições literais dos atendimentos, salvo quando tais descrições se justifiquem tecnicamente.",
       "devem ser escritos na primeira pessoa, para evidenciar a responsabilidade do autor.",
       "podem utilizar linguagem coloquial, para facilitar a compreensão do destinatário.",
-      "devem trazer transcrições literais das falas da pessoa atendida, para garantir fidedignidade.",
+      "devem trazer transcrições literais das falas da pessoa atendida, entre aspas e na primeira pessoa, para garantir fidedignidade, dispensada qualquer justificativa técnica para tanto.",
       "devem conter as referências teóricas sempre no corpo do texto, vedada a nota de rodapé."
     ],
     "gabarito": 0,
@@ -362,9 +362,9 @@
     },
     "enunciado": "Sobre a guarda, o destino e o envio dos documentos, a Resolução CFP nº 06/2019 estabelece que",
     "alternativas": [
-      "os documentos devem ser guardados pelo prazo mínimo de 2 anos, dispensado o protocolo de entrega quando o documento for enviado por e-mail.",
+      "os documentos devem ser guardados pelo prazo mínimo de 2 anos, e apenas o material que os fundamentou pelo prazo de 5 anos, dispensado o protocolo de entrega quando o documento for enviado por e-mail.",
       "os documentos devem ser enviados preferencialmente pelo correio ao solicitante, sem entrevista devolutiva.",
-      "os documentos e todo o material que os fundamentou devem ser guardados pelo prazo mínimo de 5 anos, e é obrigatório manter protocolo de entrega, com assinatura do solicitante, comprovando o recebimento e a responsabilidade pelo uso e sigilo.",
+      "os documentos e todo o material que os fundamentou devem ser guardados por no mínimo 5 anos, e é obrigatório o protocolo de entrega assinado pelo solicitante, comprovando o recebimento.",
       "a responsabilidade pela guarda é exclusiva da instituição, eximindo-se a psicóloga.",
       "o material que fundamentou o documento deve ser destruído após a entrega, para preservar o sigilo."
     ],
@@ -385,7 +385,7 @@
     "enunciado": "Uma psicóloga concluiu processo de avaliação psicológica e elaborou laudo. Segundo a Resolução CFP nº 06/2019, para a entrega do relatório e do laudo psicológico,",
     "alternativas": [
       "a entrevista devolutiva é facultativa e só ocorre se o usuário solicitar.",
-      "a entrevista devolutiva é obrigatória para todos os documentos, inclusive declarações.",
+      "a entrevista devolutiva é obrigatória para todos os documentos, inclusive declarações e atestados, e, se não puder ser realizada, o documento não poderá ser entregue ao solicitante em nenhuma hipótese.",
       "o documento deve ser enviado ao solicitante por correspondência, dispensada a devolutiva.",
       "a entrevista devolutiva deve ser realizada com a presença de um conselheiro do CRP.",
       "é dever realizar ao menos uma entrevista devolutiva à pessoa, grupo, instituição atendida ou responsáveis legais, devendo a psicóloga explicitar suas razões caso ela não possa ser realizada."
@@ -407,9 +407,9 @@
     "enunciado": "De acordo com a Resolução CFP nº 06/2019, o prazo de validade do conteúdo do documento escrito decorrente da prestação de serviços psicológicos",
     "alternativas": [
       "é de 6 meses para todos os documentos, salvo o laudo, que vale 1 ano.",
-      "deverá ser indicado no último parágrafo do documento, considerando a normatização vigente na área e, não havendo definição normativa, os objetivos do serviço, os procedimentos, os aspectos analisados e as conclusões.",
+      "deverá ser indicado no último parágrafo do documento, conforme a normatização da área e, na falta dela, os objetivos do serviço, os procedimentos, os aspectos analisados e as conclusões.",
       "é fixado pelo Conselho Regional em tabela anual.",
-      "não precisa ser indicado, pois os documentos psicológicos têm validade indeterminada.",
+      "não precisa ser indicado, pois os documentos psicológicos têm validade indeterminada, cabendo ao destinatário avaliar a atualidade das conclusões conforme a finalidade para a qual o documento foi solicitado.",
       "deve ser indicado no cabeçalho do documento, junto à identificação."
     ],
     "gabarito": 1,
@@ -431,8 +431,8 @@
       "apenas por determinação judicial ou requisição de autoridade policial.",
       "somente a pedido do próprio usuário maior de idade, vedada a solicitação por terceiros.",
       "exclusivamente ao final de processos de avaliação psicológica, vedada em outros contextos.",
-      "mediante solicitação do usuário, de seus responsáveis legais, de um profissional específico, das equipes multidisciplinares ou das autoridades, ou ser resultado de um processo de avaliação psicológica, sendo dever da psicóloga elaborá-lo e fornecê-lo sempre que solicitada.",
-      "a critério exclusivo da psicóloga, que pode recusar o fornecimento mesmo quando solicitada."
+      "mediante solicitação do usuário, dos responsáveis legais, de profissional, de equipes multidisciplinares ou de autoridades, ou como resultado de avaliação psicológica, sendo dever da psicóloga fornecê-lo quando solicitada.",
+      "a critério exclusivo da psicóloga, que pode recusar o fornecimento mesmo quando solicitada pelo usuário, por seus responsáveis legais ou por autoridades, salvo nos casos em que o documento decorra de avaliação psicológica judicial."
     ],
     "gabarito": 3,
     "comentario": "Art. 4º, § 1º, e art. 7º, § 6º, da Res. CFP 06/2019: o documento é confeccionado mediante solicitação do usuário, responsáveis, profissional, equipes ou autoridades, ou como resultado de avaliação psicológica; e é dever da psicóloga elaborar e fornecer documentos sempre que solicitada ou ao final de avaliação psicológica.",
@@ -451,9 +451,9 @@
     "enunciado": "Ao final de um laudo psicológico, a psicóloga deseja incluir ressalva sobre o uso do documento. Conforme a Resolução CFP nº 06/2019, é facultado destacar que o documento",
     "alternativas": [
       "tem validade nacional e pode ser utilizado para quaisquer finalidades pelo destinatário.",
-      "não poderá ser utilizado para fins diferentes do apontado no item de identificação, possui caráter sigiloso, trata-se de documento extrajudicial e a psicóloga não se responsabiliza pelo uso dado por parte da pessoa, grupo ou instituição após a entrega em entrevista devolutiva.",
+      "não poderá ser usado para fins diversos do indicado na identificação, é sigiloso, é extrajudicial e a psicóloga não se responsabiliza pelo uso dado após a entrega em entrevista devolutiva.",
       "só terá validade se reconhecido pelo Conselho Regional de Psicologia.",
-      "pode ser utilizado por terceiros sem autorização, desde que preservada a identidade da pessoa avaliada.",
+      "pode ser utilizado por terceiros sem autorização, desde que preservada a identidade da pessoa avaliada, e tem validade nacional para quaisquer fins judiciais ou extrajudiciais pelo prazo de cinco anos.",
       "dispensa entrevista devolutiva, por conter ressalva expressa de uso."
     ],
     "gabarito": 1,

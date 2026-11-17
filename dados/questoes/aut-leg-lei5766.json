@@ -10,10 +10,10 @@
     },
     "enunciado": "De acordo com a Lei nº 5.766/1971, o Conselho Federal e os Conselhos Regionais de Psicologia foram criados como entes dotados de personalidade jurídica de direito público e autonomia administrativa e financeira. Quanto à sua natureza, esses Conselhos constituem, em seu conjunto,",
     "alternativas": [
-      "uma fundação pública, vinculada ao Ministério da Educação, destinada a registrar diplomas e fiscalizar o ensino de Psicologia.",
+      "uma fundação pública, vinculada ao Ministério da Educação, destinada a registrar diplomas, fiscalizar o ensino de Psicologia e credenciar os cursos de graduação da área.",
       "autarquias independentes entre si, cada qual com personalidade jurídica de direito privado e competência territorial própria.",
       "uma associação civil de classe, de filiação facultativa, destinada à defesa dos interesses econômicos dos psicólogos.",
-      "uma autarquia, destinada a orientar, disciplinar e fiscalizar o exercício da profissão de Psicólogo e zelar pela observância dos princípios de ética e disciplina da classe.",
+      "uma autarquia, destinada a orientar, disciplinar e fiscalizar o exercício da profissão de Psicólogo e zelar pela ética e disciplina da classe.",
       "um órgão da administração direta federal, sem autonomia financeira, subordinado ao Ministério do Trabalho."
     ],
     "gabarito": 3,
@@ -164,7 +164,7 @@
     },
     "enunciado": "Sobre o exercício da profissão e as inscrições, a Lei nº 5.766/1971 estabelece que",
     "alternativas": [
-      "os registros serão feitos nas categorias de Psicólogo, Psicólogo Especialista e Psicólogo Pesquisador, sendo a última facultativa.",
+      "os registros serão feitos nas categorias de Psicólogo, Psicólogo Especialista e Psicólogo Pesquisador, sendo a última facultativa e restrita aos vinculados a instituições de ensino superior.",
       "apenas outro psicólogo regularmente inscrito poderá representar ao Conselho Regional contra o registro de um candidato.",
       "a exibição da Carteira de Identidade Profissional só pode ser exigida pelo Conselho Regional ou pela autoridade judicial.",
       "a Carteira de Identidade Profissional é expedida pelo Conselho Federal, após homologação da inscrição pelo Regional.",
@@ -320,8 +320,8 @@
     "alternativas": [
       "o Conselho Regional deve instaurar processo ético-disciplinar e aplicar-lhe a pena de censura.",
       "a conduta só é punível se houver efetivo atendimento remunerado, não bastando a publicidade.",
-      "ao não inscrito que, mediante qualquer forma de publicidade, se proponha ao exercício da profissão serão aplicadas as penalidades cabíveis pelo exercício ilegal da profissão, e o Presidente do Conselho tem qualidade para agir, inclusive criminalmente.",
-      "apenas o Ministério Público pode adotar providências, pois o Conselho não tem legitimidade para agir criminalmente.",
+      "aplicam-se ao não inscrito que, por qualquer forma de publicidade, se proponha a exercer a profissão as penalidades do exercício ilegal, e o Presidente do Conselho pode agir inclusive criminalmente.",
+      "apenas o Ministério Público pode adotar providências, pois o Conselho não tem legitimidade para agir criminalmente, restringindo-se sua atuação à fiscalização dos profissionais regularmente inscritos.",
       "o Conselho Federal deve aplicar-lhe multa equivalente a cinco anuidades, independentemente de outras medidas."
     ],
     "gabarito": 2,

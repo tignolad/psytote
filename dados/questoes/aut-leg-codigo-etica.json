@@ -56,7 +56,7 @@
     "alternativas": [
       "assumir responsabilidades profissionais somente por atividades para as quais esteja capacitada pessoal, teórica e tecnicamente.",
       "aceitar o trabalho, desde que informe ao cliente sua inexperiência e cobre honorários reduzidos.",
-      "aceitar o trabalho, pois o diploma de Psicólogo a habilita para qualquer atividade privativa da profissão.",
+      "aceitar o trabalho, pois o diploma de Psicólogo a habilita para qualquer atividade privativa da profissão, independentemente de formação complementar.",
       "recusar o trabalho e comunicar o convite ao Conselho Regional, por configurar exercício ilegal.",
       "aceitar o trabalho e solicitar ao contratante que custeie supervisão posterior à entrega do laudo."
     ],
@@ -99,7 +99,7 @@
     "enunciado": "Um psicólogo organizacional é solicitado pela empresa a divulgar, no informativo interno, os resultados individuais de avaliações psicológicas de funcionários, com nomes e perfis. De acordo com o Código de Ética Profissional do Psicólogo, ao informar resultados decorrentes da prestação de serviços, o psicólogo deve",
     "alternativas": [
       "divulgar integralmente os resultados, pois a empresa é a contratante do serviço.",
-      "divulgar os resultados apenas se a empresa assinar termo de responsabilidade pelo sigilo.",
+      "divulgar os resultados apenas se a empresa assinar termo de responsabilidade pelo sigilo, comprometendo-se a não repassá-los a terceiros.",
       "transmitir, a quem de direito, somente o que for necessário para a tomada de decisões que afetem o usuário ou beneficiário.",
       "recusar-se a informar qualquer resultado à empresa, mesmo o estritamente necessário.",
       "divulgar os resultados, desde que omita apenas o diagnóstico clínico."
@@ -120,10 +120,10 @@
     },
     "enunciado": "Uma psicóloga clínica passou a fazer atendimentos semanais de um paciente e, simultaneamente, iniciou relação comercial com ele, tornando-se sócia em um empreendimento do paciente. Considerando o Código de Ética Profissional do Psicólogo, essa conduta",
     "alternativas": [
-      "é permitida, desde que a sociedade seja formalizada por contrato escrito.",
+      "é permitida, desde que a sociedade seja formalizada por contrato escrito e a psicóloga informe o fato ao Conselho Regional antes de assinar o contrato.",
       "é permitida, desde que a psicóloga reduza os honorários das sessões.",
       "só é vedada se a relação envolver familiares do paciente.",
-      "é vedada, pois o psicólogo não pode estabelecer com a pessoa atendida, familiar ou terceiro vinculado ao atendido relação que possa interferir negativamente nos objetivos do serviço prestado.",
+      "é vedada, pois o psicólogo não pode estabelecer com a pessoa atendida relação que possa interferir negativamente nos objetivos do serviço prestado.",
       "é vedada apenas se o paciente for criança ou adolescente."
     ],
     "gabarito": 3,
@@ -165,7 +165,7 @@
     "enunciado": "Determinado psicólogo apresentou, em programa de televisão, a análise do 'perfil psicológico' de uma celebridade envolvida em escândalo, afirmando que ela apresentava traços de transtorno de personalidade. Segundo o Código de Ética Profissional do Psicólogo, a conduta",
     "alternativas": [
       "é permitida, pois se trata de pessoa pública, cuja intimidade tem proteção reduzida.",
-      "é permitida, desde que o psicólogo informe seu nome completo e número de registro no CRP.",
+      "é permitida, desde que o psicólogo informe seu nome completo e número de registro no CRP e esclareça que a análise se baseia apenas em informações amplamente divulgadas pela imprensa.",
       "é vedada, pois o psicólogo não pode realizar diagnósticos, divulgar procedimentos ou apresentar resultados de serviços psicológicos em meios de comunicação de forma a expor pessoas.",
       "só seria vedada se o psicólogo tivesse atendido a celebridade anteriormente.",
       "é permitida, desde que se baseie em instrumentos com parecer favorável no SATEPSI."
@@ -190,7 +190,7 @@
       "poderá comunicar o valor ao final do trabalho, conforme a quantidade de sessões realizadas.",
       "estipulará o valor de acordo com as características da atividade e o comunicará ao usuário ou beneficiário antes do início do trabalho.",
       "poderá diferenciar a qualidade do serviço conforme o valor acordado.",
-      "deverá cobrar valor idêntico de todos os usuários, sendo vedado considerar suas condições."
+      "deverá cobrar valor idêntico de todos os usuários, sendo vedado considerar suas condições socioeconômicas, sob pena de concorrência desleal."
     ],
     "gabarito": 2,
     "comentario": "Art. 4º do Código de Ética Profissional do Psicólogo (Res. CFP 10/2005): o psicólogo levará em conta a justa retribuição e as condições do usuário (a), estipulará o valor conforme as características da atividade e o comunicará ANTES do início do trabalho (b) e assegurará a qualidade independentemente do valor (c). O Código não impõe tabela obrigatória.",
@@ -210,7 +210,7 @@
     "alternativas": [
       "todos os atendimentos sejam mantidos, pois é vedada a participação de psicólogos em greves.",
       "a paralisação seja previamente autorizada pelo Conselho Regional de Psicologia.",
-      "os atendimentos interrompidos sejam integralmente repostos sem cobrança adicional, dispensada comunicação prévia.",
+      "os atendimentos interrompidos sejam integralmente repostos após a greve, sem cobrança adicional, dispensada a comunicação prévia aos usuários atingidos.",
       "apenas os atendimentos a crianças e adolescentes sejam mantidos.",
       "as atividades de emergência não sejam interrompidas e haja prévia comunicação da paralisação aos usuários ou beneficiários dos serviços atingidos."
     ],
@@ -230,11 +230,11 @@
     },
     "enunciado": "Um psicólogo integrante de equipe de saúde é questionado por um médico sobre o conteúdo das sessões de um paciente em comum. À luz do Código de Ética Profissional do Psicólogo, no relacionamento com profissionais não psicólogos, ele",
     "alternativas": [
-      "deverá recusar qualquer informação, pois o sigilo profissional impede o compartilhamento com outras categorias.",
+      "deverá recusar qualquer informação, pois o sigilo profissional impede o compartilhamento com outras categorias, ainda que integrem a mesma equipe e o paciente autorize expressamente por escrito.",
       "deverá repassar todo o conteúdo das sessões, já que o médico também está sujeito a sigilo.",
       "poderá compartilhar informações apenas mediante ordem judicial.",
       "compartilhará as informações livremente, desde que o paciente não tenha se oposto expressamente.",
-      "compartilhará somente informações relevantes para qualificar o serviço prestado, resguardando o caráter confidencial das comunicações e assinalando a responsabilidade de quem as receber de preservar o sigilo."
+      "compartilhará somente informações relevantes para qualificar o serviço, resguardando a confidencialidade e assinalando a responsabilidade de quem as receber de preservar o sigilo."
     ],
     "gabarito": 4,
     "comentario": "Art. 6º, 'b', do Código de Ética Profissional do Psicólogo (Res. CFP 10/2005): o psicólogo compartilhará somente informações relevantes para qualificar o serviço, resguardando a confidencialidade e assinalando a responsabilidade de quem as receber de preservar o sigilo. No mesmo sentido, o art. 12 manda registrar, nos documentos da equipe multiprofissional, apenas as informações necessárias aos objetivos do trabalho.",
@@ -297,9 +297,9 @@
     "enunciado": "Durante o atendimento de uma criança cujos responsáveis legais não se apresentaram, o psicólogo identifica a necessidade de continuidade do acompanhamento. Segundo o Código de Ética Profissional do Psicólogo, nesse caso,",
     "alternativas": [
       "o atendimento deverá ser imediatamente interrompido até que um responsável legal o autorize.",
-      "o atendimento poderá ser realizado apenas de forma eventual, vedado o acompanhamento regular.",
+      "o atendimento poderá ser realizado apenas de forma eventual, vedado o acompanhamento regular até que o Conselho Tutelar nomeie responsável provisório para autorizá-lo.",
       "o psicólogo deverá solicitar autorização prévia ao Conselho Regional de Psicologia.",
-      "o atendimento deverá ser efetuado e comunicado às autoridades competentes, responsabilizando-se o psicólogo pelos encaminhamentos necessários para garantir a proteção integral do atendido.",
+      "o atendimento deverá ser efetuado e comunicado às autoridades competentes, cabendo ao psicólogo os encaminhamentos necessários à proteção integral do atendido.",
       "o atendimento poderá ser efetuado sem qualquer comunicação, em respeito ao sigilo profissional."
     ],
     "gabarito": 3,
@@ -321,7 +321,7 @@
       "deverá manter o sigilo de forma absoluta, pois este não admite exceções no Código.",
       "poderá decidir pela quebra de sigilo, baseando sua decisão na busca do menor prejuízo e restringindo-se a prestar as informações estritamente necessárias.",
       "deverá consultar previamente o Conselho Regional, único competente para autorizar a quebra.",
-      "poderá decidir pela quebra de sigilo, devendo então revelar integralmente o conteúdo dos atendimentos para evitar interpretações equivocadas.",
+      "poderá decidir pela quebra de sigilo, devendo então revelar integralmente o conteúdo dos atendimentos, para evitar interpretações equivocadas das informações prestadas.",
       "deverá quebrar o sigilo sempre que solicitado por autoridade policial."
     ],
     "gabarito": 1,
@@ -386,7 +386,7 @@
     "alternativas": [
       "é vedada em qualquer hipótese, por violar o sigilo profissional.",
       "obedecerá às normas do Código e à legislação profissional vigente, devendo o usuário ou beneficiário ser informado desde o início.",
-      "independe de informação ao usuário, se o material for usado exclusivamente em supervisão.",
+      "independe de informação ao usuário, se o material for usado exclusivamente em supervisão e destruído logo após a discussão do caso com o supervisor.",
       "depende apenas de autorização do responsável técnico pela instituição.",
       "só pode ocorrer em atendimentos individuais, vedada em grupos."
     ],
@@ -409,7 +409,7 @@
       "entregar os arquivos confidenciais ao setor de recursos humanos da empresa.",
       "repassar todo o material ao psicólogo que vier a substituí-la ou lacrá-lo para posterior utilização pelo psicólogo substituto.",
       "destruir imediatamente todo o material, para preservar o sigilo.",
-      "levar consigo os arquivos e mantê-los em seu consultório pelo prazo mínimo de 5 anos.",
+      "levar consigo os arquivos e mantê-los em seu consultório pelo prazo mínimo de 5 anos, entregando-os ao substituto apenas se ele os solicitar por escrito.",
       "entregar os arquivos ao Conselho Regional, que providenciará sua destinação."
     ],
     "gabarito": 1,
@@ -451,7 +451,7 @@
     "enunciado": "Um grupo de psicólogos conduz pesquisa sobre estratégias de enfrentamento em comunidades atingidas por enchentes. De acordo com o Código de Ética Profissional do Psicólogo, na realização de estudos e pesquisas o psicólogo",
     "alternativas": [
       "garantirá o anonimato das pessoas, grupos ou organizações, salvo interesse manifesto destes, e o acesso dos participantes aos resultados após o encerramento, sempre que assim desejarem.",
-      "poderá dispensar o consentimento livre e esclarecido sempre que a pesquisa for de interesse público.",
+      "poderá dispensar o consentimento livre e esclarecido sempre que a pesquisa for de interesse público, bastando a autorização das lideranças comunitárias e do poder público local da área atingida.",
       "deverá divulgar a identidade dos participantes, para garantir a transparência científica.",
       "só poderá dar acesso aos resultados aos participantes depois da publicação em periódico científico.",
       "dispensará a avaliação de riscos quando os procedimentos forem apenas entrevistas."
@@ -539,7 +539,7 @@
     "enunciado": "De acordo com as disposições gerais do Código de Ética Profissional do Psicólogo, as dúvidas na observância do Código e os casos omissos serão resolvidos",
     "alternativas": [
       "exclusivamente pelo Conselho Federal de Psicologia, sem participação dos Regionais.",
-      "pelos Conselhos Regionais, em caráter definitivo, sem possibilidade de revisão pelo CFP.",
+      "pelos Conselhos Regionais, em caráter definitivo, sem possibilidade de revisão pelo CFP, competindo a cada Regional firmar jurisprudência própria quanto aos casos omissos em sua jurisdição.",
       "pela Assembleia das Políticas, da Administração e das Finanças, ouvidos os Regionais.",
       "pelos Conselhos Regionais de Psicologia, ad referendum do Conselho Federal de Psicologia, competindo ao CFP firmar jurisprudência quanto aos casos omissos e fazê-la incorporar ao Código.",
       "pelo Congresso Nacional da Psicologia, em sua reunião trienal."
@@ -560,10 +560,10 @@
     },
     "enunciado": "Um psicólogo é convidado a trabalhar em instituição cujas práticas internas incluem a utilização de testes psicológicos para excluir candidatos com base em sua orientação sexual. À luz do Código de Ética Profissional do Psicólogo, é correto afirmar que",
     "alternativas": [
-      "o psicólogo deve considerar a compatibilidade da missão, das políticas e das práticas da organização com o Código e, existindo incompatibilidade, cabe-lhe recusar-se a prestar serviços e, se pertinente, apresentar denúncia ao órgão competente.",
+      "o psicólogo deve considerar a compatibilidade das políticas e práticas da organização com o Código e, havendo incompatibilidade, recusar-se a prestar serviços e, se pertinente, denunciar ao órgão competente.",
       "o psicólogo pode aceitar o trabalho, já que a responsabilidade pelas práticas institucionais é exclusiva da organização.",
       "o psicólogo pode aceitar o trabalho, desde que não aplique pessoalmente os testes.",
-      "o psicólogo deve aceitar o trabalho e tentar mudar as práticas internamente, sendo vedada a denúncia a órgãos externos.",
+      "o psicólogo deve aceitar o trabalho e tentar mudar as práticas internamente, sendo vedada a denúncia a órgãos externos enquanto não esgotadas as instâncias da própria organização e ouvido o Conselho Regional.",
       "o psicólogo só poderá recusar o trabalho mediante autorização do Conselho Regional."
     ],
     "gabarito": 0,

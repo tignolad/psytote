@@ -10,8 +10,8 @@
     },
     "enunciado": "A Resolução CFP nº 10/2017 instituiu a Política de Orientação e Fiscalização do Sistema Conselhos de Psicologia. Segundo seu art. 1º, essa Política",
     "alternativas": [
-      "impõe procedimentos rigorosamente idênticos em todos os Conselhos Regionais, vedadas adaptações regionais.",
-      "dispõe sobre as diretrizes e procedimentos da área, proporcionando unidade de procedimentos do Sistema Conselhos em âmbito nacional, mas permitindo também diferenças em função de peculiaridades regionais.",
+      "impõe procedimentos rigorosamente idênticos em todos os Conselhos Regionais, vedadas adaptações regionais, de modo a assegurar unidade de procedimentos do Sistema Conselhos em âmbito nacional.",
+      "dispõe sobre as diretrizes e procedimentos da área, proporcionando unidade de procedimentos em âmbito nacional, mas permitindo diferenças em função de peculiaridades regionais.",
       "transfere ao Conselho Federal a execução direta de todas as fiscalizações do país.",
       "substitui o Código de Ética Profissional do Psicólogo como fundamento das ações fiscalizatórias.",
       "dispõe exclusivamente sobre a aplicação de penalidades aos psicólogos fiscalizados."
@@ -77,10 +77,10 @@
     "enunciado": "Conforme a Resolução CFP nº 10/2017, as Comissões de Orientação e Fiscalização (COFs) são órgãos",
     "alternativas": [
       "do Conselho Federal, com a função de julgar os recursos contra autos de infração lavrados pelos Regionais.",
-      "dos Conselhos Regionais, constituídas exclusivamente por conselheiras(os) efetivas(os), em número mínimo de cinco.",
+      "dos Conselhos Regionais, constituídas exclusivamente por conselheiras(os) efetivas(os), em número mínimo de cinco, eleitas(os) pela Assembleia Geral e presididas pela(o) Presidente do próprio Conselho Regional.",
       "dos Conselhos Regionais, presididas por psicóloga(o) fiscal concursada(o).",
       "autônomos em relação ao Plenário do CRP, ao qual não precisam comunicar suas ações.",
-      "dos Conselhos Regionais, com a função de coordenar e executar em sua jurisdição as atividades de orientação e fiscalização, constituídas por, no mínimo, três psicólogas(os) indicadas(os) pelo Plenário e presididas por conselheira(o) efetiva(o)."
+      "dos Conselhos Regionais, para coordenar e executar em sua jurisdição a orientação e a fiscalização, com no mínimo três psicólogas(os) indicadas(os) pelo Plenário, sob presidência de conselheira(o) efetiva(o)."
     ],
     "gabarito": 4,
     "comentario": "Arts. 7º a 9º da Res. CFP 10/2017: as COFs são órgãos dos CRPs, coordenam e executam a orientação e a fiscalização em sua jurisdição e assistem o Plenário; têm no mínimo três psicólogas(os) indicadas(os) pelo Plenário, presididas por conselheira(o) efetiva(o); entre suas atribuições está comunicar formalmente ao Plenário suas ações (art. 9º, IV).",
@@ -143,7 +143,7 @@
     "enunciado": "Segundo a Resolução CFP nº 10/2017, o processo de fiscalização",
     "alternativas": [
       "é sempre presencial e só pode ser realizado mediante denúncia formal assinada.",
-      "tem caráter exclusivamente punitivo, ficando a orientação a cargo da Comissão de Ética.",
+      "tem caráter exclusivamente punitivo, ficando a orientação a cargo da Comissão de Ética, e só pode ser realizado como rotina, nunca motivado por solicitação ou denúncias.",
       "somente pode ser realizado com autorização judicial prévia.",
       "pode ser presencial e/ou a distância, realizado como rotina ou motivado por solicitação ou denúncias, e terá, sempre que possível, caráter orientativo.",
       "é realizado exclusivamente a distância, por meio de análise documental."
@@ -187,7 +187,7 @@
     "enunciado": "Durante fiscalização em uma clínica, a agente de orientação e fiscalização constatou irregularidade passível de adequação. Conforme a Resolução CFP nº 10/2017,",
     "alternativas": [
       "deverá ser lavrado imediatamente auto de infração, com aplicação de multa.",
-      "será dado prazo de até 90 dias para a regularização, vedada a visita de retorno.",
+      "será dado prazo de até 90 dias para que o profissional ou a Pessoa Jurídica comprove a regularização junto ao CRP, vedada a visita de retorno da agente fiscal.",
       "será dado prazo de até 30 dias para que o profissional ou a Pessoa Jurídica comprove a regularização junto ao CRP, facultada a visita de retorno.",
       "o caso deverá ser remetido imediatamente à Comissão de Ética, sob forma de representação.",
       "a clínica será interditada até a regularização, mediante termo de lacre."
@@ -211,8 +211,8 @@
       "arquivar a denúncia, pois denúncias verbais não podem gerar nenhuma providência.",
       "instaurar diretamente processo disciplinar ético contra o profissional denunciado.",
       "lavrar, de imediato, auto de apreensão dos documentos do profissional denunciado.",
-      "orientar o denunciante a formalizar a representação por documento escrito e assinado, com as informações previstas no Código de Processamento Disciplinar, dirigida ao Presidente do CRP; se o reclamante não quiser assumir a denúncia, a COF avaliará outro encaminhamento possível.",
-      "encaminhar a denúncia ao Conselho Federal, competente para apreciar denúncias anônimas."
+      "orientar o denunciante a formalizar a representação por escrito e assinada, nos termos do CPD, dirigida ao Presidente do CRP; se ele não quiser assumir a denúncia, a COF avaliará outro encaminhamento.",
+      "encaminhar a denúncia ao Conselho Federal, competente para apreciar denúncias verbais e anônimas, que poderá instaurar de ofício processo disciplinar ético e designar relator no prazo de 30 dias úteis do recebimento."
     ],
     "gabarito": 3,
     "comentario": "Art. 29 da Res. CFP 10/2017: diante de denúncias, a COF orienta os denunciantes a formalizar a representação por escrito e assinada, nos termos do CPD, dirigida ao Presidente do CRP; caso o reclamante não queira assumir a denúncia, a COF avalia se há outro encaminhamento possível. A COF não instaura processo disciplinar.",
@@ -252,7 +252,7 @@
     },
     "enunciado": "Em uma fiscalização em contexto multiprofissional, o CRP identificou que outros profissionais de saúde atuavam no mesmo serviço. Segundo a Resolução CFP nº 10/2017,",
     "alternativas": [
-      "o CRP deverá fiscalizar também a atuação dos demais profissionais, aplicando-lhes as normas da Psicologia.",
+      "o CRP deverá fiscalizar também a atuação dos demais profissionais, aplicando-lhes as normas da Psicologia e comunicando eventuais irregularidades ao Ministério Público, à Defensoria Pública e às Associações de usuários.",
       "o CRP está proibido de articular-se com outros Conselhos profissionais, por respeito à autonomia de cada autarquia.",
       "o CRP deverá suspender a fiscalização até que o Conselho Federal autorize a ação conjunta.",
       "a fiscalização deverá ser realizada exclusivamente pelo Ministério Público.",
@@ -275,10 +275,10 @@
     "enunciado": "Determinada Comissão de Ética solicitou à COF a realização de diligência para apurar fatos de uma representação. Durante a diligência, a agente encontrou elementos que extrapolavam o objeto definido. Conforme a Resolução CFP nº 10/2017,",
     "alternativas": [
       "a agente deverá ampliar por conta própria o objeto da diligência e lavrar auto de infração.",
-      "a agente deverá conceder prazo de 30 dias para regularização de todas as irregularidades encontradas.",
+      "a agente deverá conceder prazo de 30 dias para regularização de todas as irregularidades encontradas, inclusive as que extrapolam o objeto, e comunicá-las à COF, como em qualquer fiscalização ordinária de rotina.",
       "a diligência deverá ser anulada, pois não pode haver constatação além do objeto.",
       "a agente deverá encaminhar os novos elementos diretamente ao Plenário do CFP.",
-      "a agente adotará os procedimentos definidos pela COF, sendo que não se aplicam à diligência as regras de prazo de até 30 dias para regularização e de comunicação das irregularidades à COF previstas para as fiscalizações em geral."
+      "a agente adotará os procedimentos definidos pela COF, e não se aplicam à diligência o prazo de até 30 dias para regularização nem a comunicação das irregularidades à COF previstas para as fiscalizações."
     ],
     "gabarito": 4,
     "comentario": "Art. 30 da Res. CFP 10/2017: na diligência, procedimento pontual focado, a Comissão de Ética deve definir com clareza os objetivos; encontrados elementos que extrapolem o objeto, o agente adota os procedimentos definidos pela COF (§ 1º); e não se aplicam à diligência os arts. 26 e 27 (prazo de regularização e comunicação de irregularidades à COF) (§ 2º).",

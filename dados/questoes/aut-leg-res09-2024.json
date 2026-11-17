@@ -56,7 +56,7 @@
     "alternativas": [
       "é vedada a aplicação de qualquer teste psicológico em ambiente remoto.",
       "é reconhecida a utilização de instrumentos psicológicos regulamentados, devendo os testes psicológicos ter parecer favorável do SATEPSI, com padronização e normatização específica para tal finalidade.",
-      "qualquer teste com parecer favorável do SATEPSI pode ser aplicado remotamente, independentemente de normatização para essa modalidade.",
+      "qualquer teste com parecer favorável do SATEPSI pode ser aplicado remotamente, independentemente de padronização e normatização específicas para essa modalidade, cabendo à psicóloga apenas registrar a escolha.",
       "a aplicação remota depende de autorização prévia do Conselho Regional para cada caso.",
       "os testes podem ser aplicados remotamente desde que o resultado seja confirmado presencialmente."
     ],
@@ -100,8 +100,8 @@
     "alternativas": [
       "interromper imediatamente o atendimento, pois é vedado o atendimento remoto em situações de risco.",
       "manter exclusivamente o atendimento remoto, por respeito ao vínculo terapêutico, sem registro das articulações.",
-      "considerar a possibilidade de serviço concomitante ou de encaminhamento para serviço simultâneo na rede de proteção presencial, ou para serviços exclusivamente presenciais, registrando no prontuário todas as ações, notificações e articulações realizadas.",
-      "comunicar o fato ao Conselho Regional, que decidirá sobre a continuidade do atendimento.",
+      "considerar serviço concomitante ou encaminhamento para a rede de proteção presencial ou para serviços exclusivamente presenciais, registrando no prontuário todas as ações, notificações e articulações.",
+      "comunicar o fato ao Conselho Regional, que decidirá sobre a continuidade do atendimento remoto, devendo a psicóloga suspender as sessões até a manifestação do Conselho e registrar a comunicação no prontuário.",
       "solicitar ao paciente que procure por conta própria um serviço de urgência, encerrando o vínculo."
     ],
     "gabarito": 2,
@@ -121,7 +121,7 @@
     "enunciado": "Uma psicóloga com inscrição principal no CRP-05 (Rio de Janeiro) passa a atender, exclusivamente por videochamada, pacientes que residem em Minas Gerais e na Bahia. Segundo a Resolução CFP nº 9/2024,",
     "alternativas": [
       "ela pode oferecer o serviço mediado por TDICs independentemente do estado da inscrição principal, ficando dispensada da obrigatoriedade de inscrição secundária.",
-      "ela deve obter inscrição secundária nos CRPs de Minas Gerais e da Bahia.",
+      "ela deve obter inscrição secundária nos CRPs de Minas Gerais e da Bahia, pois o atendimento remoto se considera prestado no estado de domicílio de cada paciente atendido.",
       "ela deve transferir sua inscrição principal para o estado onde reside a maioria dos pacientes.",
       "ela só pode atender pacientes residentes no Rio de Janeiro.",
       "ela deve obter autorização do Conselho Federal para atender em mais de uma jurisdição."
@@ -145,8 +145,8 @@
       "a psicóloga pode atender livremente, pois a inscrição no CRP tem validade internacional.",
       "a psicóloga deve obter inscrição secundária no CRP do Distrito Federal para atender do exterior.",
       "a psicóloga deve cancelar sua inscrição no Brasil, sob pena de processo ético.",
-      "a psicóloga fica submetida exclusivamente às normas do CFP, dispensado o cumprimento da legislação local.",
-      "os limites legais para fins de orientação, fiscalização e atuação profissional restringem-se ao exercício praticado exclusivamente em território nacional, e profissionais que residam em outros países devem obedecer à legislação local."
+      "a psicóloga fica submetida exclusivamente às normas do CFP, dispensado o cumprimento da legislação local, pois a inscrição no CRP acompanha a profissional em qualquer país onde passe a residir.",
+      "os limites de orientação, fiscalização e atuação restringem-se ao exercício praticado em território nacional, e profissionais residentes em outros países devem obedecer à legislação local."
     ],
     "gabarito": 4,
     "comentario": "Art. 6º e § 2º da Res. CFP 9/2024: os limites de orientação, fiscalização e atuação restringem-se ao exercício praticado em território nacional, e profissionais residentes em outros países devem obedecer à legislação local. O art. 4º, VII, 'a', também manda considerar os limites legais quanto às fronteiras entre países.",
@@ -166,7 +166,7 @@
     "alternativas": [
       "devem ser obrigatoriamente escritos e com firma reconhecida.",
       "podem ser escritos ou verbais e devem abarcar, entre outros pontos, cláusula de eleição de foro fixada sob a jurisdição em que a psicóloga possui inscrição principal.",
-      "podem ser escritos ou verbais, com foro eleito no domicílio do usuário do serviço.",
+      "podem ser escritos ou verbais e devem abarcar, entre outros pontos, cláusula de eleição de foro fixada no domicílio do usuário do serviço, parte presumidamente vulnerável na relação.",
       "dispensam informação sobre os recursos tecnológicos utilizados, por se tratar de questão técnica.",
       "devem ser registrados no Conselho Regional antes do início do atendimento."
     ],
@@ -231,8 +231,8 @@
     "enunciado": "Conforme a Resolução CFP nº 9/2024, é responsabilidade da profissional",
     "alternativas": [
       "obter aprovação prévia do CRP para cada plataforma digital utilizada.",
-      "transferir à empresa da plataforma a responsabilidade pelo sigilo das informações.",
-      "avaliar a viabilidade e adequação das TDICs às atividades, em cumprimento ao Código de Ética e em atenção às evidências científicas e de prática profissional, bem como responder pelas manifestações públicas sobre os serviços prestados.",
+      "transferir à empresa da plataforma a responsabilidade pelo sigilo das informações, cabendo à psicóloga apenas informar ao usuário qual aplicativo será utilizado e obter seu consentimento.",
+      "avaliar a viabilidade e adequação das TDICs às atividades, conforme o Código de Ética e as evidências científicas e de prática, e responder pelas manifestações públicas sobre os serviços.",
       "utilizar exclusivamente plataformas certificadas pelo Conselho Federal.",
       "limitar-se à comunicação síncrona, vedada a assíncrona."
     ],
@@ -255,7 +255,7 @@
       "a cópia do contrato de trabalho do psicólogo com a empresa.",
       "os dados da empresa ou instituição à qual o profissional responsável pela prestação de serviços psicológicos está vinculado.",
       "a tabela de remuneração do psicólogo pela empresa.",
-      "o número de registro da empresa na Junta Comercial, dispensados os demais dados.",
+      "o número de registro da empresa na Junta Comercial, dispensados os demais dados, pois a responsabilidade técnica recai exclusivamente sobre o psicólogo.",
       "a autorização do CRP para o funcionamento da plataforma."
     ],
     "gabarito": 1,

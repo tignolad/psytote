@@ -76,11 +76,11 @@
     },
     "enunciado": "Um psicólogo, ao saber que está sendo investigado pelo CRP, requer o cancelamento de sua inscrição profissional. Em outro caso, uma psicóloga processada pede a transferência de sua inscrição para outro Estado. De acordo com o Código de Processamento Disciplinar (Res. CFP nº 11/2019),",
     "alternativas": [
-      "não será admitido o cancelamento da inscrição do investigado, e a transferência da psicóloga processada implicará a transformação compulsória de sua inscrição primária em secundária perante o CRP em que tramita o processo.",
+      "não se admite o cancelamento da inscrição do investigado, e a transferência da processada transforma compulsoriamente sua inscrição primária em secundária perante o CRP onde tramita o processo.",
       "o cancelamento será deferido, extinguindo-se o processo investigativo, e a transferência será vedada até o fim do processo.",
       "ambos os pedidos serão deferidos, sendo os processos remetidos aos Conselhos de destino.",
       "ambos os pedidos ficarão suspensos até o trânsito em julgado da decisão disciplinar.",
-      "o cancelamento será admitido mediante pagamento das anuidades, e a transferência implicará remessa do processo ao novo Regional."
+      "o cancelamento será admitido mediante pagamento das anuidades em atraso, e a transferência implicará a remessa do processo ao novo Regional, que passará a ser competente para o julgamento da infração."
     ],
     "gabarito": 0,
     "comentario": "Art. 5º, §§ 2º a 4º, do CPD (Res. CFP 11/2019): não se admite o cancelamento da inscrição de quem estiver sendo investigado ou processado; a transferência durante o processo transforma compulsoriamente a inscrição primária em secundária perante o CRP onde tramita o processo, dando-se ciência ao CRP de destino. O processo não é remetido ao novo Regional.",
@@ -99,10 +99,10 @@
     "enunciado": "Sobre o sigilo dos processos disciplinares, o Código de Processamento Disciplinar (Res. CFP nº 11/2019) dispõe que",
     "alternativas": [
       "os processos são públicos, podendo qualquer interessado ter vista dos autos.",
-      "o sigilo alcança apenas os conselheiros, não se estendendo às testemunhas e às partes.",
+      "o sigilo alcança apenas os conselheiros e os servidores do Conselho, não se estendendo às testemunhas e às partes, que podem divulgar livremente o conteúdo dos autos, inclusive em redes sociais, após a citação do processado.",
       "o sigilo é absoluto, sendo vedado informar até mesmo a existência do processo.",
       "o sigilo cessa com a citação do processado, tornando-se públicos os autos a partir de então.",
-      "os processos investigativos e disciplinares terão caráter sigiloso, mas a mera informação sobre a existência de processo, as partes, a fase processual ou o provimento ou não de recurso julgado pelo CFP, sem referência ao conteúdo, não viola o sigilo."
+      "os processos terão caráter sigiloso, mas a mera informação sobre a existência do processo, as partes, a fase processual ou o resultado de recurso julgado pelo CFP, sem referência ao conteúdo, não viola o sigilo."
     ],
     "gabarito": 4,
     "comentario": "Art. 15 do CPD (Res. CFP 11/2019): os processos são sigilosos, com vista apenas às partes e procuradores; o dever de sigilo se estende a conselheiros, comissões, mediadores, testemunhas, assessores e servidores (§ 1º), e as partes também devem preservá-lo (§ 3º). Pelo § 5º, a mera informação sobre existência do processo, partes, fase ou resultado de recurso no CFP, sem referência ao conteúdo, não viola o sigilo.",
@@ -210,8 +210,8 @@
     "alternativas": [
       "ela será considerada revel, presumindo-se verdadeiros os fatos imputados, com julgamento imediato.",
       "o processo será arquivado, por ausência de contraditório.",
-      "ela será considerada revel, e a Comissão Processante solicitará à Presidência do Conselho a nomeação de defensor dativo, preferencialmente psicóloga(o), vedada a atuação de conselheiros do respectivo Conselho nessa função.",
-      "ela será considerada revel, e um conselheiro suplente do próprio Conselho atuará como defensor dativo.",
+      "ela será considerada revel, e a Comissão Processante pedirá à Presidência a nomeação de defensor dativo, preferencialmente psicóloga(o), vedada a atuação de conselheiros do Conselho nessa função.",
+      "ela será considerada revel, e um conselheiro suplente do próprio Conselho atuará como defensor dativo, presumindo-se verdadeiros os fatos imputados e vedada a sua intervenção posterior no processo.",
       "ela será considerada revel e não poderá mais se manifestar no processo em nenhuma fase."
     ],
     "gabarito": 2,
@@ -234,7 +234,7 @@
       "impedimento e suspeição, ambos com presunção relativa de parcialidade.",
       "situações irrelevantes, pois o parentesco só gera impedimento até o segundo grau e a amizade não gera suspeição.",
       "impedimento, de ordem objetiva e com presunção absoluta de parcialidade; e suspeição, de ordem subjetiva e com presunção relativa de parcialidade.",
-      "suspeição, que só pode ser alegada pela parte no julgamento, e impedimento, declarável apenas de ofício."
+      "suspeição, que só pode ser alegada pela parte no momento do julgamento, e impedimento, que só pode ser declarado de ofício pelo próprio conselheiro, ambos com presunção relativa de parcialidade."
     ],
     "gabarito": 3,
     "comentario": "Arts. 42, 44 e 45 do CPD (Res. CFP 11/2019): parentesco consanguíneo ou afim, em linha reta ou colateral, até o TERCEIRO grau gera impedimento (art. 44, I), fundado em razões objetivas, com presunção absoluta de parcialidade (art. 42, §§ 1º e 2º); amizade íntima gera suspeição (art. 45, I), fundada em razões subjetivas, com presunção relativa (art. 42, §§ 3º e 4º). Ambos podem ser declarados de ofício ou suscitados pela parte em 15 dias úteis (art. 43).",
@@ -276,7 +276,7 @@
     "alternativas": [
       "o processo será arquivado de ofício ou a requerimento da parte interessada, consumando-se a prescrição intercorrente, e o Conselho deverá apurar a causa da demora e as responsabilidades.",
       "o processo prosseguirá normalmente, pois a prescrição só corre antes da instauração.",
-      "o processo só poderá ser arquivado a requerimento do processado, vedada a declaração de ofício.",
+      "o processo só poderá ser arquivado a requerimento do processado, vedada a declaração de ofício, e o Conselho não precisará apurar a causa da demora, por se tratar de matéria de interesse exclusivo da parte.",
       "o prazo de prescrição recomeça integralmente, sem arquivamento.",
       "o Conselho poderá relevar a prescrição se a infração for grave."
     ],
@@ -298,9 +298,9 @@
     "alternativas": [
       "a desistência acarreta o arquivamento imediato do processo, por perda de objeto.",
       "a desistência só é admitida antes da notificação do investigado.",
-      "a desistência não enseja o arquivamento; a Comissão Processante dará prosseguimento ao processo segundo as regras aplicáveis aos processos iniciados por requerimento de ofício, e o representante fica impedido de ter acesso aos autos a partir da desistência.",
+      "a desistência não enseja o arquivamento: o processo prossegue pelas regras dos processos instaurados de ofício, e o representante fica impedido de acessar os autos a partir dela.",
       "a desistência converte o processo ético em processo ordinário.",
-      "a desistência é admitida, mas o representante continua com acesso integral aos autos até o julgamento."
+      "a desistência é admitida e enseja o arquivamento, mas o representante continua com acesso integral aos autos até o julgamento de eventual recurso, podendo inclusive reapresentar a representação."
     ],
     "gabarito": 2,
     "comentario": "Art. 59, §§ 2º e 3º, do CPD (Res. CFP 11/2019): o representante pode desistir a qualquer tempo, ficando impedido de acessar os autos a partir de então; a desistência não enseja o arquivamento, e o processo prossegue pelas regras dos processos de ofício.",
@@ -318,7 +318,7 @@
     },
     "enunciado": "A Comissão de Ética de um CRP recebeu representação sem indícios mínimos de autoria e emitiu parecer fundamentado propondo o arquivamento liminar. Conforme o Código de Processamento Disciplinar (Res. CFP nº 11/2019),",
     "alternativas": [
-      "o arquivamento liminar é decidido pela própria Comissão de Ética, sem necessidade de deliberação do Plenário, e é irrecorrível.",
+      "o arquivamento liminar é decidido pela própria Comissão de Ética, sem necessidade de deliberação do Plenário, e é irrecorrível, podendo o representante apenas apresentar nova representação com outros elementos.",
       "o parecer será encaminhado ao Plenário do Conselho para homologação, em sessão na qual não se admite sustentação oral, e da decisão que homologar o arquivamento caberá recurso ao Plenário do CFP.",
       "o parecer será encaminhado ao Plenário, que o apreciará em sessão com sustentação oral obrigatória das partes.",
       "o parecer será submetido diretamente ao Conselho Federal, a quem cabe homologar arquivamentos.",
@@ -366,7 +366,7 @@
       "não há sustentação oral, pois o julgamento é sigiloso e restrito aos conselheiros.",
       "a sustentação oral é feita apenas pelo representante, e o empate implica novo julgamento na sessão seguinte.",
       "as partes podem fazer sustentação oral por até 15 minutos cada, após a leitura da parte expositiva do relatório, e, em caso de empate na votação, prevalece o voto de qualidade da(o) Presidente.",
-      "as partes podem fazer sustentação oral por até 15 minutos cada, e o relator pode acrescentar novas infrações identificadas durante o julgamento."
+      "as partes podem fazer sustentação oral por até 15 minutos cada, após a leitura da parte expositiva do relatório, e o relator pode acrescentar novas infrações identificadas durante o julgamento em plenário."
     ],
     "gabarito": 3,
     "comentario": "Arts. 106, 108, 109 e 114, § 8º, do CPD (Res. CFP 11/2019): intimadas com 10 dias corridos de antecedência, as partes podem sustentar oralmente por até 15 minutos cada, após a parte expositiva do relatório; o relator pode suprimir, mas não acrescentar, infrações (art. 108, § 2º); havendo empate, o Presidente tem voto de qualidade, que prevalece.",
@@ -387,7 +387,7 @@
       "cabe recurso ao CFP no prazo de 30 dias úteis da ciência da decisão, com efeito suspensivo, e, sendo o recurso exclusivo da psicóloga, não poderá haver agravamento da penalidade.",
       "cabe recurso ao CFP no prazo de 15 dias úteis, sem efeito suspensivo.",
       "cabe pedido de reconsideração ao próprio CRP, no prazo de 30 dias, antes de qualquer recurso ao CFP.",
-      "cabe recurso ao CFP no prazo de 30 dias úteis, podendo o CFP agravar a pena mesmo em recurso exclusivo da psicóloga.",
+      "cabe recurso ao CFP no prazo de 30 dias úteis, com efeito suspensivo, podendo o CFP agravar a pena mesmo em recurso exclusivo da psicóloga, já que reexamina integralmente a matéria.",
       "não cabe recurso, pois a censura pública é penalidade leve, executada imediatamente."
     ],
     "gabarito": 0,
@@ -407,9 +407,9 @@
     "enunciado": "Um CRP aplicou pena de suspensão do exercício profissional a um psicólogo, e nenhuma das partes recorreu. Conforme o Código de Processamento Disciplinar (Res. CFP nº 11/2019),",
     "alternativas": [
       "a decisão transita em julgado e é executada imediatamente, por ausência de recurso.",
-      "a(o) Presidente do CRP determinará, de ofício, o encaminhamento do processo ao CFP para reexame necessário, no prazo de 30 dias corridos após o fim do prazo recursal, não podendo o reexame agravar a penalidade.",
+      "a(o) Presidente do CRP encaminhará de ofício o processo ao CFP para reexame necessário, em 30 dias corridos após o prazo recursal, não podendo o reexame agravar a penalidade.",
       "o CFP deverá ser comunicado apenas para registro, sem reexame da decisão.",
-      "o processo será encaminhado ao CFP para reexame necessário, que poderá agravar a pena para cassação.",
+      "o processo será encaminhado ao CFP para reexame necessário no prazo de 30 dias corridos após o fim do prazo recursal, e o reexame poderá agravar a pena de suspensão para cassação.",
       "o reexame necessário só ocorre nos casos de cassação, não nos de suspensão."
     ],
     "gabarito": 1,
@@ -454,7 +454,7 @@
       "ele poderá requerer reabilitação ao Conselho Regional competente depois de decorridos 5 anos do trânsito em julgado da cassação, e, se indeferido, poderá apresentar novo pedido após 3 anos.",
       "ele poderá requerer reabilitação ao Conselho Federal após 2 anos do trânsito em julgado.",
       "ele poderá requerer reabilitação a qualquer tempo, desde que apresente certidão de antecedentes criminais.",
-      "ele poderá requerer reabilitação após 5 anos, sendo vedado novo pedido em caso de indeferimento."
+      "ele poderá requerer reabilitação ao Conselho Regional após 5 anos do trânsito em julgado, sendo vedado novo pedido em caso de indeferimento, por se tratar de benefício concedido uma única vez."
     ],
     "gabarito": 1,
     "comentario": "Arts. 150 a 153 do CPD (Res. CFP 11/2019): o pedido de reabilitação é dirigido ao CRP competente, com certidão de antecedentes criminais, após 5 anos do trânsito em julgado da cassação; indeferido, novo pedido pode ser feito após 3 anos; decide o Plenário do CRP, ouvida a Comissão Processante, cabendo recurso ao CFP (art. 158).",
@@ -475,8 +475,8 @@
       "As informações reveladas na mediação podem ser usadas como prova no processo disciplinar, caso não haja acordo.",
       "A realização de acordo na mediação implica assunção de culpa pela psicóloga.",
       "Encaminhados os autos à Câmara de Mediação, o prazo prescricional continua a correr normalmente.",
-      "Pode ser objeto de mediação o caso que já foi objeto de Termo de Ajustamento de Conduta entre as mesmas partes na COF.",
-      "O procedimento de mediação terá duração de até 90 dias corridos, salvo prorrogação justificada, e o acordo homologado pelo Plenário e assinado por duas pessoas além das partes constitui título executivo extrajudicial."
+      "Pode ser objeto de mediação o caso que já foi objeto de Termo de Ajustamento de Conduta entre as mesmas partes na COF, desde que o acordo anterior tenha sido descumprido por qualquer delas.",
+      "A mediação dura até 90 dias corridos, salvo prorrogação justificada, e o acordo homologado pelo Plenário e assinado por duas testemunhas constitui título executivo extrajudicial."
     ],
     "gabarito": 4,
     "comentario": "Arts. 163, parágrafo único, e 167 do CPD (Res. CFP 11/2019): a mediação dura até 90 dias corridos, salvo prorrogação, e o acordo homologado e assinado por duas testemunhas é título executivo extrajudicial. A mediação é confidencial e não pode servir de prova (art. 164); o acordo não implica assunção de culpa (art. 168); o processo e a prescrição ficam suspensos (art. 162, § 2º); e casos já objeto de TAC na COF não são mediáveis (art. 161, 'a').",

@@ -14,7 +14,7 @@
       "constitui uma entidade única, com os mesmos objetivos, agindo por delegação do poder público e gozando de imunidade tributária total em relação a seus bens, rendas e serviços.",
       "constitui entidades autônomas e independentes, sem relação hierárquica ou de unidade institucional.",
       "integra a administração direta da União, subordinado ao Ministério da Saúde.",
-      "constitui uma entidade única, mas sujeita ao recolhimento de tributos sobre as anuidades arrecadadas."
+      "constitui uma entidade única, com os mesmos objetivos, mas sujeita ao recolhimento de tributos sobre as anuidades arrecadadas, por não gozar de imunidade em relação às rendas de natureza contributiva."
     ],
     "gabarito": 1,
     "comentario": "Art. 1º, § 1º, do Regimento Interno do CFP (aprovado pela Resolução CFP nº 17/2000): o CFP, juntamente com os CRPs, constitui uma entidade única, com os mesmos objetivos, agindo por delegação do poder público, mediante autorização legislativa, e, por constituírem serviço público, gozam de imunidade tributária total. O § 2º acrescenta que o CFP tem sede e foro no Distrito Federal e jurisdição nacional.",
@@ -122,7 +122,7 @@
     "alternativas": [
       "ocorre por iniciativa do Presidente ou por solicitação de, no mínimo, 1/3 dos Conselheiros Efetivos, convocada com antecedência mínima de 10 dias.",
       "ocorre apenas por solicitação da APAF, convocada com antecedência mínima de 30 dias.",
-      "ocorre por iniciativa do Presidente ou por solicitação de, no mínimo, 2/3 dos Conselheiros Efetivos, com antecedência mínima de 15 dias e pauta livre.",
+      "ocorre por iniciativa do Presidente ou por solicitação de, no mínimo, 2/3 dos Conselheiros Efetivos, com antecedência mínima de 15 dias e pauta livre, podendo incluir qualquer matéria de interesse do Plenário.",
       "ocorre por iniciativa do Presidente ou por solicitação de, no mínimo, 2/3 dos Conselheiros Efetivos, convocada com antecedência mínima de 20 dias, limitada a pauta à matéria que a motivou.",
       "pode ser instalada sem a presença de membros da Diretoria, desde que haja quórum de maioria simples."
     ],
@@ -187,7 +187,7 @@
     "enunciado": "Sobre o Congresso Nacional da Psicologia (CNP), o Regimento Interno do CFP (Resolução CFP nº 17/2000) dispõe que ele",
     "alternativas": [
       "é instância consultiva, subordinada à APAF, e ocorre anualmente.",
-      "é a instância máxima de deliberação, mas suas diretrizes valem apenas para o Conselho Federal, e ocorre a cada 2 anos.",
+      "é a instância máxima de deliberação, mas suas diretrizes valem apenas para o Conselho Federal, cabendo aos Congressos Regionais fixar as dos CRPs, e ocorre a cada 2 anos.",
       "é órgão eleitoral, responsável exclusivamente por eleger os membros do CFP, e ocorre a cada 3 anos.",
       "é custeado integralmente pelos Conselhos Regionais, inclusive em sua etapa nacional.",
       "é a instância máxima de deliberação, responsável por estabelecer as diretrizes para a atuação do CFP e dos CRPs no triênio subsequente, e ocorre a cada 3 anos."
@@ -234,7 +234,7 @@
       "a conselheira poderá devolver o processo na mesma reunião ou, no máximo, até a segunda reunião subsequente, e o pedido de vista tem prioridade sobre qualquer matéria.",
       "a conselheira terá prazo de 60 dias corridos para devolver o processo, prorrogável uma vez.",
       "o pedido de vista suspende o processo até a reunião da APAF seguinte.",
-      "a conselheira deverá devolver o processo na reunião seguinte, e o pedido não tem prioridade sobre as demais matérias."
+      "a conselheira deverá devolver o processo obrigatoriamente na reunião seguinte, sob pena de redistribuição, e o pedido de vista não tem prioridade sobre as demais matérias da pauta."
     ],
     "gabarito": 1,
     "comentario": "Art. 79 do Regimento Interno do CFP (aprovado pela Resolução CFP nº 17/2000): durante a discussão, qualquer Conselheiro pode pedir vista, devendo devolver o processo na mesma reunião ou no máximo até a segunda reunião subsequente (§ 1º), e o pedido tem prioridade sobre qualquer matéria (§ 2º). Observação: em processos ético-disciplinares aplica-se o CPD (art. 77 do Regimento), que prevê vista até a reunião plenária seguinte.",
@@ -253,7 +253,7 @@
     "enunciado": "Determinada pessoa teve pedido indeferido por decisão do Plenário do Conselho Federal de Psicologia em matéria administrativa e pretende obter nova apreciação no próprio CFP. Nos termos do Regimento Interno do CFP (Resolução CFP nº 17/2000), ela poderá apresentar",
     "alternativas": [
       "recurso à Assembleia dos Delegados Regionais, no prazo de 15 dias.",
-      "pedido de reconsideração, no prazo de 10 dias, independentemente de novos fatos ou argumentos.",
+      "pedido de reconsideração, no prazo de 10 dias a contar da publicação da decisão, independentemente da apresentação de novos fatos ou argumentos.",
       "pedido de reconsideração, no prazo de 30 dias a contar da notificação da decisão, desde que apresente novos fatos ou argumentos.",
       "recurso ao Congresso Nacional da Psicologia, instância máxima de deliberação.",
       "pedido de revisão, a qualquer tempo, dirigido ao Ministério do Trabalho."
@@ -276,7 +276,7 @@
     "alternativas": [
       "30 dias, a contar da notificação dos interessados, salvo os recursos em processos eleitorais e éticos, regidos por disposições próprias.",
       "15 dias, a contar da publicação da decisão, inclusive nos processos éticos.",
-      "30 dias, a contar da notificação dos interessados, inclusive nos processos eleitorais, sem exceção.",
+      "30 dias, a contar da notificação dos interessados, inclusive nos processos eleitorais e éticos, sem qualquer exceção prevista no Regimento Interno.",
       "60 dias, a contar da data da sessão em que a decisão foi tomada.",
       "10 dias úteis, a contar da ciência, apenas nos processos administrativos de inscrição."
     ],

@@ -10,10 +10,10 @@
     },
     "enunciado": "A Resolução CFP nº 01/2009 dispõe sobre a obrigatoriedade do registro documental decorrente da prestação de serviços psicológicos. Segundo ela, o registro documental, em papel ou informatizado,",
     "alternativas": [
-      "tem caráter público e deve reproduzir literalmente o conteúdo de cada sessão.",
+      "tem caráter público e deve reproduzir literalmente o conteúdo de cada sessão, podendo ser consultado por qualquer profissional do serviço e pelos familiares do usuário, independentemente de autorização.",
       "é facultativo nos atendimentos particulares e obrigatório apenas nos serviços públicos.",
       "deve ser mantido apenas em papel, vedado o meio informatizado.",
-      "tem caráter sigiloso e constitui um conjunto de informações que tem por objetivo contemplar de forma sucinta o trabalho prestado, a descrição e a evolução da atividade e os procedimentos técnico-científicos adotados.",
+      "tem caráter sigiloso e constitui um conjunto de informações que contempla, de forma sucinta, o trabalho prestado, a descrição e a evolução da atividade e os procedimentos adotados.",
       "tem caráter sigiloso, mas pode ser atualizado apenas ao final do atendimento."
     ],
     "gabarito": 3,
@@ -32,7 +32,7 @@
     },
     "enunciado": "Conforme a Resolução CFP nº 01/2009, os documentos agrupados nos registros do trabalho realizado devem contemplar, entre outros itens,",
     "alternativas": [
-      "identificação do usuário; transcrição literal das sessões; e parecer do supervisor clínico.",
+      "identificação do usuário; transcrição literal das sessões; parecer do supervisor clínico; e cópia de todos os testes aplicados, com os respectivos protocolos de resposta.",
       "apenas a identificação do usuário e o registro de encerramento.",
       "identificação do usuário/instituição; avaliação de demanda e definição de objetivos do trabalho; registro da evolução; e registro de encaminhamento ou encerramento.",
       "identificação do usuário; diagnóstico obrigatório pela CID; e prognóstico.",
@@ -79,7 +79,7 @@
       "o prontuário deve conter também os protocolos dos testes aplicados, aos quais o usuário terá livre acesso.",
       "as informações a serem registradas são as previstas nos incisos I a V do art. 2º, ficando garantido ao usuário ou representante legal o acesso integral às informações registradas pelo psicólogo em seu prontuário.",
       "o usuário só terá acesso ao prontuário mediante ordem judicial.",
-      "o acesso do usuário ao prontuário é restrito às informações que o psicólogo julgar convenientes.",
+      "o acesso do usuário ao prontuário é restrito às informações que o psicólogo julgar convenientes, podendo o representante legal obter cópia integral somente mediante requerimento escrito ao Conselho Regional de Psicologia.",
       "o prontuário substitui a obrigação de arquivar cópias dos documentos emitidos."
     ],
     "gabarito": 1,
@@ -100,7 +100,7 @@
     "alternativas": [
       "deve ser realizado em prontuário exclusivo do psicólogo, inacessível aos demais profissionais.",
       "é dispensado, pois o registro dos demais profissionais supre a obrigação.",
-      "deve ser realizado em prontuário único, com transcrição integral das sessões, para subsidiar a equipe.",
+      "deve ser realizado em prontuário único, com transcrição integral das sessões, para subsidiar a equipe nas discussões de caso e no projeto terapêutico singular.",
       "deve ser realizado em prontuário único, registrando-se apenas as informações necessárias ao cumprimento dos objetivos do trabalho.",
       "deve ser realizado em prontuário único, desde que o usuário autorize por escrito cada anotação."
     ],
@@ -123,7 +123,7 @@
       "é de responsabilidade exclusiva da instituição, pelo período mínimo de 10 anos.",
       "é de responsabilidade do psicólogo, pelo período máximo de 5 anos, após o qual o registro deve ser destruído.",
       "é de responsabilidade do Conselho Regional, após o encerramento do atendimento.",
-      "é de responsabilidade do psicólogo, pelo período mínimo de 20 anos, conforme a lei do prontuário eletrônico.",
+      "é de responsabilidade do psicólogo e/ou da instituição, pelo período mínimo de 20 anos, conforme a lei do prontuário eletrônico, vedada a ampliação desse prazo por determinação judicial ou em quaisquer casos específicos.",
       "é de responsabilidade do psicólogo e/ou da instituição em que ocorreu o serviço, pelo período mínimo de 5 anos, podendo ser ampliado nos casos previstos em lei, por determinação judicial ou em casos específicos."
     ],
     "gabarito": 4,
@@ -143,7 +143,7 @@
     "enunciado": "De acordo com a Resolução CFP nº 01/2009, o registro documental deve ser mantido em local que garanta sigilo e privacidade e",
     "alternativas": [
       "mantenha-se à disposição dos Conselhos de Psicologia para orientação e fiscalização, de modo que sirva como meio de prova idônea para instruir processos disciplinares e à defesa legal.",
-      "seja inacessível aos Conselhos de Psicologia, em respeito ao sigilo absoluto.",
+      "seja inacessível aos Conselhos de Psicologia, em respeito ao sigilo absoluto, só podendo ser apresentado mediante ordem judicial e exclusivamente para a defesa do próprio psicólogo em juízo.",
       "seja enviado anualmente ao Conselho Regional para conferência.",
       "seja acessível ao empregador do psicólogo, para controle de produtividade.",
       "seja mantido exclusivamente em nuvem certificada pelo Conselho Federal."
@@ -232,7 +232,7 @@
     "alternativas": [
       "a emissão de atestado psicológico deve estar fundamentada no registro documental, e o relatório e o laudo psicológico devem ser construídos com base nesse registro.",
       "o registro documental substitui a emissão de documentos psicológicos ao usuário.",
-      "o relatório multiprofissional isenta o psicólogo de realizar o registro documental.",
+      "o relatório multiprofissional, por ser assinado por toda a equipe, isenta o psicólogo de realizar o registro documental próprio dos atendimentos que prestou ao usuário.",
       "o registro documental só é exigido quando houver emissão de laudo.",
       "o atestado psicológico dispensa registro documental, por ser documento sucinto."
     ],
