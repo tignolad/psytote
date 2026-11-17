@@ -1,5 +1,5 @@
 // PsyTote service worker: app offline; banco de questões busca versão nova quando há internet.
-const VERSAO = 'psytote-v3';
+const VERSAO = 'psytote-v4';
 const CASCA = ['./', 'index.html', 'estilo.css', 'app.js', 'manifest.webmanifest', 'icones/icone.svg', 'icones/icone-192.png', 'icones/icone-512.png', 'dados/banco.json'];
 self.addEventListener('install', e => { e.waitUntil(caches.open(VERSAO).then(c => c.addAll(CASCA)).then(() => self.skipWaiting())); });
 self.addEventListener('activate', e => { e.waitUntil(caches.keys().then(ks => Promise.all(ks.filter(k => k !== VERSAO).map(k => caches.delete(k)))).then(() => self.clients.claim())); });
