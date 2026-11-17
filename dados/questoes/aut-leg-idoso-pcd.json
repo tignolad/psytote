@@ -10,8 +10,8 @@
     },
     "enunciado": "Uma psicóloga de um hospital particular atende uma mulher de 72 anos com hematomas e relato de agressões pelo filho. Nos termos do art. 19 do Estatuto da Pessoa Idosa (Lei 10.741/2003, com redação da Lei 14.423/2022), os casos de suspeita ou confirmação de violência praticada contra pessoas idosas",
     "alternativas": [
-      "serão objeto de notificação compulsória pelos serviços de saúde públicos e privados à autoridade sanitária, e obrigatoriamente comunicados por eles a quaisquer dos seguintes órgãos: autoridade policial, Ministério Público e Conselhos Municipal, Estadual ou Nacional da Pessoa Idosa.",
-      "serão objeto de notificação compulsória apenas pelos serviços públicos de saúde, cabendo aos serviços privados comunicação facultativa ao Ministério Público.",
+      "serão objeto de notificação compulsória pelos serviços de saúde públicos e privados à autoridade sanitária e comunicados obrigatoriamente a quaisquer destes: autoridade policial, Ministério Público ou Conselhos da Pessoa Idosa.",
+      "serão objeto de notificação compulsória apenas pelos serviços públicos de saúde, cabendo aos serviços privados comunicação facultativa ao Ministério Público ou aos Conselhos Municipal, Estadual ou Nacional da Pessoa Idosa, conforme o caso.",
       "serão comunicados exclusivamente ao Conselho Tutelar ou, na sua falta, ao Conselho Municipal da Pessoa Idosa.",
       "só serão notificados após a confirmação da violência, mediante concordância expressa da pessoa idosa, quando capaz.",
       "serão notificados à autoridade policial, que se encarregará de comunicar a autoridade sanitária e o Ministério Público."
@@ -32,7 +32,7 @@
     },
     "enunciado": "Para os efeitos do art. 19 do Estatuto da Pessoa Idosa, considera-se violência contra a pessoa idosa",
     "alternativas": [
-      "qualquer ação praticada no ambiente doméstico ou familiar que lhe cause lesão corporal ou sofrimento físico.",
+      "qualquer ação praticada no ambiente doméstico ou familiar que lhe cause morte, lesão corporal ou sofrimento físico ou psicológico.",
       "qualquer ação ou omissão praticada por familiar ou cuidador que lhe cause dano patrimonial.",
       "somente a ação dolosa praticada em local público ou privado que lhe cause morte ou lesão corporal grave.",
       "qualquer ação ou omissão praticada em local público ou privado que lhe cause morte, dano ou sofrimento físico ou psicológico.",
@@ -101,7 +101,7 @@
       "o dever de comunicar recai apenas sobre profissionais de saúde e responsáveis por instituições, sendo facultativo para os demais cidadãos.",
       "o vizinho só pode comunicar o fato se a pessoa idosa autorizar, em respeito à sua autonomia.",
       "todo cidadão tem o dever de comunicar à autoridade competente qualquer forma de violação ao Estatuto que tenha testemunhado ou de que tenha conhecimento.",
-      "a comunicação deve ser feita pelo cidadão diretamente ao Conselho Tutelar, que tem atribuição sobre pessoas vulneráveis.",
+      "a comunicação deve ser feita pelo cidadão diretamente ao Conselho Tutelar, que tem atribuição sobre pessoas vulneráveis, inclusive idosas em situação de abandono.",
       "o dever de comunicar só existe quando a violação configurar crime, excluídas as violações de natureza administrativa ou civil."
     ],
     "gabarito": 2,
@@ -120,7 +120,7 @@
     },
     "enunciado": "Nos termos do art. 43 do Estatuto da Pessoa Idosa, as medidas de proteção à pessoa idosa são aplicáveis sempre que os direitos reconhecidos na lei forem ameaçados ou violados",
     "alternativas": [
-      "somente por ação ou omissão da família ou do curador, cabendo ao Estado a responsabilização administrativa nos demais casos.",
+      "somente por ação ou omissão da família ou do curador, cabendo ao Estado a responsabilização administrativa nos demais casos, inclusive os de abuso por entidade de atendimento.",
       "por ação ou omissão do Estado, ou por abuso da família, excluídas as hipóteses decorrentes da condição pessoal da pessoa idosa.",
       "por ação ou omissão da sociedade ou do Estado; por falta, omissão ou abuso da família, curador ou entidade de atendimento; ou em razão de sua condição pessoal.",
       "por ação dolosa de terceiros, devidamente comprovada em processo judicial.",
@@ -296,11 +296,11 @@
     },
     "enunciado": "Uma mulher com deficiência intelectual, sob curatela, manifesta ao psicólogo que a acompanha o desejo de se casar e de exercer sua sexualidade, mas o curador se opõe. Considerando a Lei 13.146/2015, é correto afirmar que",
     "alternativas": [
-      "a curatela afeta tão somente os atos relacionados aos direitos de natureza patrimonial e negocial, não alcançando o direito ao próprio corpo, à sexualidade e ao matrimônio.",
+      "a curatela afeta apenas os atos relacionados aos direitos de natureza patrimonial e negocial, não alcançando o direito ao próprio corpo, à sexualidade e ao matrimônio.",
       "a curatela alcança todos os atos da vida civil, cabendo ao curador autorizar o casamento.",
       "o casamento de pessoa curatelada depende de autorização judicial, ouvido o Ministério Público.",
       "a deficiência afeta a capacidade civil para o casamento quando se tratar de deficiência intelectual.",
-      "a curatela é medida protetiva ordinária, de duração indeterminada, que abrange direitos existenciais e patrimoniais."
+      "a curatela é medida protetiva ordinária, de duração indeterminada, que abrange direitos existenciais e patrimoniais, cabendo ao curador decidir sobre casamento e vida sexual."
     ],
     "gabarito": 0,
     "comentario": "Gabarito: A. O art. 85 da LBI dispõe que a curatela afetará tão somente os atos relacionados aos direitos de natureza patrimonial e negocial, e seu § 1º afirma que ela não alcança o direito ao próprio corpo, à sexualidade, ao matrimônio, à privacidade, à educação, à saúde, ao trabalho e ao voto. O art. 6º estabelece que a deficiência não afeta a plena capacidade civil, inclusive para casar, e o art. 84, § 3º, qualifica a curatela como medida protetiva EXTRAORDINÁRIA, que dura o menor tempo possível.",
@@ -319,8 +319,8 @@
     "enunciado": "Quanto ao consentimento da pessoa com deficiência para tratamentos e intervenções, a Lei 13.146/2015 estabelece que",
     "alternativas": [
       "o consentimento é dispensado quando houver curatela, bastando a autorização do curador.",
-      "a pessoa com deficiência pode ser obrigada a se submeter a intervenção clínica ou cirúrgica sempre que houver indicação médica.",
-      "o consentimento prévio, livre e esclarecido é indispensável para a realização de tratamento, procedimento, hospitalização e pesquisa científica, assegurada, em caso de curatela, sua participação no maior grau possível.",
+      "a pessoa com deficiência pode ser obrigada a se submeter a intervenção clínica ou cirúrgica sempre que houver indicação médica, dispensado o consentimento quando houver curatela ou risco à própria saúde.",
+      "o consentimento prévio, livre e esclarecido é indispensável para tratamento, procedimento, hospitalização e pesquisa científica, assegurada, na curatela, sua participação no maior grau possível.",
       "a pesquisa científica com pessoa com deficiência sob curatela é vedada em qualquer hipótese.",
       "o consentimento é exigido apenas para pesquisa científica, sendo presumido nos tratamentos de saúde."
     ],

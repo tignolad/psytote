@@ -3,11 +3,15 @@
     "id": "aut-leg-nt31-2024-001",
     "disciplina": "legislacao",
     "assunto": "leg-nt31-2024",
-    "origem": {"tipo": "autoral", "banca": "Claude (autoral)", "fonte": "https://site.cfp.org.br/wp-content/uploads/2024/12/nota-tecnica-cfp-n-31-2024.pdf"},
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2024/12/nota-tecnica-cfp-n-31-2024.pdf"
+    },
     "enunciado": "A Nota Técnica CFP nº 31/2024 tem como objetivo:",
     "alternativas": [
-      "regulamentar a residência multiprofissional em saúde para psicólogas(os), fixando a carga horária dos preceptores.",
-      "orientar a categoria, em especial orientadores e supervisores de estágio obrigatório e coordenadores de curso e de serviço-escola, quanto às referências legais, técnicas e éticas do acompanhamento de estágios obrigatórios supervisionados na graduação, diferenciando-as das condições da residência, principalmente quanto à função de preceptor.",
+      "regulamentar a residência multiprofissional em saúde para psicólogas(os), fixando a carga horária dos preceptores e diferenciando-a dos estágios obrigatórios supervisionados na graduação quanto à responsabilidade técnica e ética de orientadores e supervisores.",
+      "orientar a categoria, sobretudo orientadores, supervisores e coordenadores, quanto às referências do acompanhamento de estágios obrigatórios na graduação, diferenciando-as das condições da residência, em especial quanto à função de preceptor.",
       "autorizar a substituição do supervisor de campo por preceptor nos estágios realizados no SUS.",
       "estabelecer sanções disciplinares para instituições de ensino que descumprirem a Lei de Estágio.",
       "disciplinar a orientação de estágios não obrigatórios realizados por meio de agentes de integração."
@@ -21,7 +25,11 @@
     "id": "aut-leg-nt31-2024-002",
     "disciplina": "legislacao",
     "assunto": "leg-nt31-2024",
-    "origem": {"tipo": "autoral", "banca": "Claude (autoral)", "fonte": "https://site.cfp.org.br/wp-content/uploads/2024/12/nota-tecnica-cfp-n-31-2024.pdf"},
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2024/12/nota-tecnica-cfp-n-31-2024.pdf"
+    },
     "enunciado": "De acordo com sua introdução, a Nota Técnica CFP nº 31/2024 foi elaborada por:",
     "alternativas": [
       "comissão mista do CFP e do Ministério da Educação.",
@@ -39,12 +47,16 @@
     "id": "aut-leg-nt31-2024-003",
     "disciplina": "legislacao",
     "assunto": "leg-nt31-2024",
-    "origem": {"tipo": "autoral", "banca": "Claude (autoral)", "fonte": "https://site.cfp.org.br/wp-content/uploads/2024/12/nota-tecnica-cfp-n-31-2024.pdf"},
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2024/12/nota-tecnica-cfp-n-31-2024.pdf"
+    },
     "enunciado": "A Nota Técnica CFP nº 31/2024, citando o Ministério da Saúde, define a preceptoria como:",
     "alternativas": [
-      "o acompanhamento para residentes atuantes nos serviços de saúde, sendo preceptoras(es) profissionais de saúde responsáveis pela integração ensino-serviço, com atribuições de planejar, estimular, dirigir, acompanhar e avaliar o processo de aprendizagem de residentes.",
+      "o acompanhamento de residentes nos serviços de saúde, sendo preceptoras(es) profissionais responsáveis pela integração ensino-serviço, que planejam, dirigem, acompanham e avaliam a aprendizagem de residentes.",
       "a orientação acadêmica de estudantes de graduação, realizada por docente da instituição de ensino.",
-      "a supervisão de estagiários de graduação por funcionário da parte concedente, nos termos da Lei de Estágio.",
+      "a supervisão de estagiários de graduação por funcionário da parte concedente, nos termos da Lei de Estágio, com atribuições de planejar, acompanhar e avaliar a aprendizagem em serviço e integrar ensino e serviço.",
       "o acompanhamento de estudantes de graduação em estágios não obrigatórios realizados no SUS.",
       "a função de coordenação técnica dos serviços-escola de Psicologia."
     ],
@@ -57,14 +69,18 @@
     "id": "aut-leg-nt31-2024-004",
     "disciplina": "legislacao",
     "assunto": "leg-nt31-2024",
-    "origem": {"tipo": "autoral", "banca": "Claude (autoral)", "fonte": "https://site.cfp.org.br/wp-content/uploads/2024/12/nota-tecnica-cfp-n-31-2024.pdf"},
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2024/12/nota-tecnica-cfp-n-31-2024.pdf"
+    },
     "enunciado": "Segundo o histórico apresentado na Nota Técnica CFP nº 31/2024, a preceptoria:",
     "alternativas": [
       "surgiu na Psicologia e foi depois incorporada pela Medicina e pela Enfermagem.",
       "foi criada pela Lei nº 11.788/2008 como alternativa ao professor orientador.",
       "foi instituída pelas Diretrizes Curriculares Nacionais de Psicologia de 2023.",
-      "é figura própria dos estágios obrigatórios de graduação em todas as profissões de saúde.",
-      "teve origem na área médica e expandiu-se para outras profissões da saúde em função da Política Nacional de Educação Permanente em Saúde, nas residências multi e uniprofissionais, na formação em serviço, com profissionais já graduados."
+      "é figura própria dos estágios obrigatórios de graduação em todas as profissões de saúde, tendo sido incorporada às residências apenas depois, com a Política Nacional de Educação Permanente em Saúde (PNEPS).",
+      "teve origem na área médica e expandiu-se para outras profissões da saúde com a Política Nacional de Educação Permanente em Saúde, nas residências, na formação em serviço de profissionais já graduados."
     ],
     "gabarito": 4,
     "comentario": "O item 3.3 da nota afirma que a preceptoria teve origem na área médica e, posteriormente, expandiu-se para outras profissões da saúde em função da PNEPS, nas residências multi e uniprofissionais, na formação em serviço; nesses contextos, o preceptor trabalha com profissionais graduados, na prática interprofissional. O item 3.7 destaca que nem a Lei de Estágio nem as DCN fazem qualquer referência à preceptoria.",
@@ -75,7 +91,11 @@
     "id": "aut-leg-nt31-2024-005",
     "disciplina": "legislacao",
     "assunto": "leg-nt31-2024",
-    "origem": {"tipo": "autoral", "banca": "Claude (autoral)", "fonte": "https://site.cfp.org.br/wp-content/uploads/2024/12/nota-tecnica-cfp-n-31-2024.pdf"},
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2024/12/nota-tecnica-cfp-n-31-2024.pdf"
+    },
     "enunciado": "A Nota Técnica CFP nº 31/2024 recorda que, segundo a Lei nº 11.788/2008 (art. 3º, § 1º), o estágio, como ato educativo escolar supervisionado, deverá ter acompanhamento efetivo:",
     "alternativas": [
       "pelo preceptor do serviço de saúde, comprovado por registro de frequência.",
@@ -93,13 +113,17 @@
     "id": "aut-leg-nt31-2024-006",
     "disciplina": "legislacao",
     "assunto": "leg-nt31-2024",
-    "origem": {"tipo": "autoral", "banca": "Claude (autoral)", "fonte": "https://site.cfp.org.br/wp-content/uploads/2024/12/nota-tecnica-cfp-n-31-2024.pdf"},
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2024/12/nota-tecnica-cfp-n-31-2024.pdf"
+    },
     "enunciado": "Ao tratar das Diretrizes Curriculares Nacionais (DCN) de 2023 para os cursos de graduação em Psicologia, a Nota Técnica CFP nº 31/2024 destaca que os estágios supervisionados:",
     "alternativas": [
       "devem concentrar-se nos dois últimos semestres do curso e compor no mínimo 10% da carga horária total.",
-      "devem compor pelo menos 20% da carga horária total do curso, ser distribuídos ao longo do curso e ter orientação presencial conduzida por professoras(es) psicólogas(os), docentes da instituição formadora.",
+      "devem compor pelo menos 20% da carga horária total, ser distribuídos ao longo do curso e ter orientação presencial conduzida por docentes psicólogas(os) da instituição formadora.",
       "podem ter orientação remota conduzida por preceptores, desde que psicólogos.",
-      "devem compor pelo menos 30% da carga horária total, com orientação a cargo do supervisor de campo.",
+      "devem compor pelo menos 30% da carga horária total, com orientação a cargo do supervisor de campo e acompanhamento presencial de professoras(es) psicólogas(os) nos dois últimos anos do curso.",
       "devem priorizar a formação especialista, concentrando-se em uma única área de atuação."
     ],
     "gabarito": 1,
@@ -111,14 +135,18 @@
     "id": "aut-leg-nt31-2024-007",
     "disciplina": "legislacao",
     "assunto": "leg-nt31-2024",
-    "origem": {"tipo": "autoral", "banca": "Claude (autoral)", "fonte": "https://site.cfp.org.br/wp-content/uploads/2024/12/nota-tecnica-cfp-n-31-2024.pdf"},
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2024/12/nota-tecnica-cfp-n-31-2024.pdf"
+    },
     "enunciado": "Uma faculdade privada dispensou suas professoras orientadoras de estágio e contratou psicólogas recém-formadas, sem vínculo docente e por contratos temporários, denominando-as “preceptoras”, para acompanhar os estagiários do 9º período. À luz da Nota Técnica CFP nº 31/2024, essa prática:",
     "alternativas": [
       "é regular, pois a preceptoria é a forma de acompanhamento prevista nas DCN de Psicologia.",
       "é regular, desde que as preceptoras tenham registro ativo no Conselho Regional.",
       "é regular para estágios realizados em serviços de saúde, mas irregular nos demais campos.",
-      "é irregular apenas se as preceptoras não forem também funcionárias do campo de estágio.",
-      "configura uma distorção que precariza o trabalho docente e a formação, pois a figura do preceptor, fora de seu contexto, não o habilita a tornar-se orientador docente nem supervisor dos estágios obrigatórios na graduação."
+      "é irregular apenas se as preceptoras não forem também funcionárias do campo de estágio, pois nesse caso a nota as equipara a supervisoras da parte concedente, nos termos da Lei de Estágio vigente.",
+      "configura distorção que precariza o trabalho docente e a formação, pois o preceptor, fora de seu contexto, não se habilita a ser orientador docente nem supervisor dos estágios obrigatórios."
     ],
     "gabarito": 4,
     "comentario": "A nota identifica como distorção a substituição de orientadores experientes, integrantes do corpo docente, por profissionais inexperientes, sem a qualificação necessária e com contratos precarizados, indevidamente chamados de preceptores (item 3.7), e afirma que isso precariza o trabalho docente e a formação (item 4.2.3). Conclui (item 5.2) que o preceptor, fora de seu contexto, que é especialmente o das residências em saúde, não se habilita a ser nem orientador nem supervisor dos estágios obrigatórios. O simples registro no CRP não supre a exigência de vínculo docente.",
@@ -129,13 +157,17 @@
     "id": "aut-leg-nt31-2024-008",
     "disciplina": "legislacao",
     "assunto": "leg-nt31-2024",
-    "origem": {"tipo": "autoral", "banca": "Claude (autoral)", "fonte": "https://site.cfp.org.br/wp-content/uploads/2024/12/nota-tecnica-cfp-n-31-2024.pdf"},
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2024/12/nota-tecnica-cfp-n-31-2024.pdf"
+    },
     "enunciado": "Segundo a Nota Técnica CFP nº 31/2024, a figura da(o) preceptora(or) “em voga” nos estágios de graduação em Psicologia caracteriza-se por:",
     "alternativas": [
-      "não ser parte do corpo docente, pois não é contratada(o) como professora(or), nem parte do corpo funcional da instituição cedente do estágio, sendo figura alheia a ambos os contextos.",
+      "não ser parte do corpo docente, pois não é contratada(o) como professora(or), nem do corpo funcional da instituição cedente, sendo figura alheia a ambos os contextos.",
       "ser docente da instituição de ensino que acumula a função de supervisor no campo.",
       "ser funcionária(o) da instituição concedente que acumula a função de orientador acadêmico.",
-      "ser residente em saúde que acompanha estagiários como parte de sua formação em serviço.",
+      "ser residente em saúde que acompanha estagiários como parte de sua formação em serviço, sob responsabilidade conjunta da instituição de ensino e da instituição cedente do estágio.",
       "ser profissional indicado pelo agente de integração para fiscalizar o termo de compromisso."
     ],
     "gabarito": 0,
@@ -147,7 +179,11 @@
     "id": "aut-leg-nt31-2024-009",
     "disciplina": "legislacao",
     "assunto": "leg-nt31-2024",
-    "origem": {"tipo": "autoral", "banca": "Claude (autoral)", "fonte": "https://site.cfp.org.br/wp-content/uploads/2024/12/nota-tecnica-cfp-n-31-2024.pdf"},
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2024/12/nota-tecnica-cfp-n-31-2024.pdf"
+    },
     "enunciado": "A Nota Técnica CFP nº 31/2024 aponta fatores que caracterizam condições inadequadas de trabalho de orientadoras(es) de estágio. Analise os itens a seguir.\n\nI. Regime de trabalho que não contempla horas para atividades e visitas aos campos de estágio e contato com supervisoras(es).\nII. Número excessivo de estudantes por grupo de orientação e carga horária reduzida para cada grupo.\nIII. Insegurança quanto à manutenção da carga horária de trabalho e do próprio emprego.\n\nSão fatores mencionados pela nota:",
     "alternativas": [
       "I, apenas.",
@@ -165,7 +201,11 @@
     "id": "aut-leg-nt31-2024-010",
     "disciplina": "legislacao",
     "assunto": "leg-nt31-2024",
-    "origem": {"tipo": "autoral", "banca": "Claude (autoral)", "fonte": "https://site.cfp.org.br/wp-content/uploads/2024/12/nota-tecnica-cfp-n-31-2024.pdf"},
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2024/12/nota-tecnica-cfp-n-31-2024.pdf"
+    },
     "enunciado": "Nas considerações finais da Nota Técnica CFP nº 31/2024, são apontadas condições necessárias para que os estágios obrigatórios supervisionados cumpram seu papel formativo. NÃO corresponde a uma dessas condições:",
     "alternativas": [
       "que os estágios se distribuam no decorrer da graduação.",
@@ -183,14 +223,18 @@
     "id": "aut-leg-nt31-2024-011",
     "disciplina": "legislacao",
     "assunto": "leg-nt31-2024",
-    "origem": {"tipo": "autoral", "banca": "Claude (autoral)", "fonte": "https://site.cfp.org.br/wp-content/uploads/2024/12/nota-tecnica-cfp-n-31-2024.pdf"},
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2024/12/nota-tecnica-cfp-n-31-2024.pdf"
+    },
     "enunciado": "Segundo a Nota Técnica CFP nº 31/2024, as denúncias recebidas sobre o uso de “preceptores” nos estágios de graduação evidenciam, além do descumprimento da Lei de Estágio e das DCN:",
     "alternativas": [
       "o excesso de exigências burocráticas impostas pelos Conselhos às instituições de ensino.",
-      "um vínculo pedagógico caracteristicamente precário e a ausência de vínculo com o dispositivo utilizado como cenário de prática, com ausência de leitura dos territórios envolvidos.",
+      "um vínculo pedagógico caracteristicamente precário e a ausência de vínculo com o dispositivo usado como cenário de prática, sem leitura dos territórios.",
       "a falta de interesse dos estudantes pelos estágios em serviços públicos de saúde.",
       "a necessidade de ampliar a carga horária teórica em detrimento da prática.",
-      "a inadequação da Lei de Estágio aos cursos da área da saúde, que deveriam seguir o modelo de residência."
+      "a inadequação da Lei de Estágio aos cursos da área da saúde, que deveriam seguir o modelo de residência, com preceptores vinculados aos serviços que servem de cenário de prática."
     ],
     "gabarito": 1,
     "comentario": "O item 4.2.4 registra que as denúncias evidenciam um vínculo pedagógico caracteristicamente precário e a ausência de vínculo com o dispositivo utilizado como cenário de prática, o que se traduz em ausência de leitura dos territórios e compromete a realização de orientações e supervisões. A nota não critica a Lei de Estágio nem defende o modelo de residência para a graduação; ao contrário, reafirma a Lei e as DCN como referências.",
@@ -201,13 +245,17 @@
     "id": "aut-leg-nt31-2024-012",
     "disciplina": "legislacao",
     "assunto": "leg-nt31-2024",
-    "origem": {"tipo": "autoral", "banca": "Claude (autoral)", "fonte": "https://site.cfp.org.br/wp-content/uploads/2024/12/nota-tecnica-cfp-n-31-2024.pdf"},
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2024/12/nota-tecnica-cfp-n-31-2024.pdf"
+    },
     "enunciado": "Com base na Lei de Estágio, a Nota Técnica CFP nº 31/2024 conclui que, nos estágios obrigatórios supervisionados na graduação, o acompanhamento deve ser realizado:",
     "alternativas": [
       "pelo preceptor, com apoio eventual do professor orientador.",
       "alternativamente pelo orientador ou pelo supervisor, à escolha da instituição de ensino.",
-      "pelo supervisor de campo, cabendo ao orientador apenas a atribuição da nota final.",
-      "simultaneamente pelo professor orientador indicado pela instituição de ensino e pelo supervisor indicado pela parte concedente, este com até 10 estagiários simultâneos.",
+      "pelo supervisor de campo, cabendo ao orientador apenas a atribuição da nota final, já que a concedente pode indicar funcionário com até 10 estagiários simultâneos.",
+      "simultaneamente pelo professor orientador indicado pela instituição de ensino e pelo supervisor indicado pela concedente, este com até 10 estagiários.",
       "pelo coordenador do serviço-escola, que pode delegar a função a preceptores."
     ],
     "gabarito": 3,
@@ -219,7 +267,11 @@
     "id": "aut-leg-nt31-2024-013",
     "disciplina": "legislacao",
     "assunto": "leg-nt31-2024",
-    "origem": {"tipo": "autoral", "banca": "Claude (autoral)", "fonte": "https://site.cfp.org.br/wp-content/uploads/2024/12/nota-tecnica-cfp-n-31-2024.pdf"},
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://site.cfp.org.br/wp-content/uploads/2024/12/nota-tecnica-cfp-n-31-2024.pdf"
+    },
     "enunciado": "Analise as afirmativas sobre a Nota Técnica CFP nº 31/2024.\n\nI. Nos contextos de assistência à saúde, o preceptor trabalha com profissionais graduados, na prática interprofissional.\nII. A nota reconhece que as DCN de Psicologia admitem a preceptoria como modalidade de orientação de estágio obrigatório.\nIII. Segundo a nota, a precarização da formação pode, em última instância, afetar negativamente a qualidade da assistência psicológica oferecida à população.\n\nEstá correto o que se afirma em:",
     "alternativas": [
       "I e III, apenas.",

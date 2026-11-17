@@ -3,7 +3,11 @@
     "id": "aut-leg-crprj-02-2022-001",
     "disciplina": "legislacao",
     "assunto": "leg-crprj-02-2022",
-    "origem": {"tipo": "autoral", "banca": "Claude (autoral)", "fonte": "https://atosoficiais.com.br/crp05/resolucao-n-2-2022-regulamento-da-comissao-de-meios-de-solucao-consensual-de-conflitos-do-conselho-regional-de-psicologia-da-5-regiao-crp-rj"},
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://atosoficiais.com.br/crp05/resolucao-n-2-2022-regulamento-da-comissao-de-meios-de-solucao-consensual-de-conflitos-do-conselho-regional-de-psicologia-da-5-regiao-crp-rj"
+    },
     "enunciado": "A Resolução CRP-05 nº 002/2022 trata da COMSCC no âmbito do Conselho Regional de Psicologia do Rio de Janeiro. A sigla COMSCC designa a",
     "alternativas": [
       "Comissão de Meios de Solução Consensual de Conflitos, criada no âmbito da Comissão de Orientação e Ética (COE) do CRP-RJ.",
@@ -21,7 +25,11 @@
     "id": "aut-leg-crprj-02-2022-002",
     "disciplina": "legislacao",
     "assunto": "leg-crprj-02-2022",
-    "origem": {"tipo": "autoral", "banca": "Claude (autoral)", "fonte": "https://atosoficiais.com.br/crp05/resolucao-n-2-2022-regulamento-da-comissao-de-meios-de-solucao-consensual-de-conflitos-do-conselho-regional-de-psicologia-da-5-regiao-crp-rj"},
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://atosoficiais.com.br/crp05/resolucao-n-2-2022-regulamento-da-comissao-de-meios-de-solucao-consensual-de-conflitos-do-conselho-regional-de-psicologia-da-5-regiao-crp-rj"
+    },
     "enunciado": "Quanto ao âmbito de atuação da COMSCC, conforme o regulamento aprovado pela Resolução CRP-05 nº 002/2022, é correto afirmar que a Comissão",
     "alternativas": [
       "atua apenas em processos cuja penalidade em tese seja advertência ou multa.",
@@ -39,7 +47,11 @@
     "id": "aut-leg-crprj-02-2022-003",
     "disciplina": "legislacao",
     "assunto": "leg-crprj-02-2022",
-    "origem": {"tipo": "autoral", "banca": "Claude (autoral)", "fonte": "https://atosoficiais.com.br/crp05/resolucao-n-2-2022-regulamento-da-comissao-de-meios-de-solucao-consensual-de-conflitos-do-conselho-regional-de-psicologia-da-5-regiao-crp-rj"},
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://atosoficiais.com.br/crp05/resolucao-n-2-2022-regulamento-da-comissao-de-meios-de-solucao-consensual-de-conflitos-do-conselho-regional-de-psicologia-da-5-regiao-crp-rj"
+    },
     "enunciado": "Entre os objetivos da COMSCC previstos na Resolução CRP-05 nº 002/2022 está conduzir procedimentos de mediação e outros meios consensuais e restaurativos nos processos disciplinares-éticos, em conformidade com a resolução do Conselho Federal de Psicologia que instituiu e normatizou a mediação nos processos disciplinares éticos do Sistema Conselhos. Essa resolução federal é a",
     "alternativas": [
       "Resolução CFP nº 010/2017.",
@@ -57,7 +69,11 @@
     "id": "aut-leg-crprj-02-2022-004",
     "disciplina": "legislacao",
     "assunto": "leg-crprj-02-2022",
-    "origem": {"tipo": "autoral", "banca": "Claude (autoral)", "fonte": "https://transparencia.cfp.org.br/crp05/comissao/comissao-de-meios-de-solucoes-consensuais-de-conflitos/"},
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://transparencia.cfp.org.br/crp05/comissao/comissao-de-meios-de-solucoes-consensuais-de-conflitos/"
+    },
     "enunciado": "Um processo disciplinar-ético em trâmite na Comissão de Orientação e Ética do CRP-RJ é encaminhado à COMSCC e, após sessões de mediação, representante e psicóloga representada chegam a um acordo final. Segundo a disciplina do CRP-RJ sobre a COMSCC, o acordo",
     "alternativas": [
       "produz efeitos imediatamente com a assinatura das partes, dispensada qualquer homologação.",
@@ -75,7 +91,11 @@
     "id": "aut-leg-crprj-02-2022-005",
     "disciplina": "legislacao",
     "assunto": "leg-crprj-02-2022",
-    "origem": {"tipo": "autoral", "banca": "Claude (autoral)", "fonte": "https://transparencia.cfp.org.br/crp05/comissao/comissao-de-meios-de-solucoes-consensuais-de-conflitos/"},
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://transparencia.cfp.org.br/crp05/comissao/comissao-de-meios-de-solucoes-consensuais-de-conflitos/"
+    },
     "enunciado": "No CRP-RJ, as sessões de mediação conduzidas no âmbito da COMSCC são realizadas por",
     "alternativas": [
       "um único mediador, necessariamente conselheiro do CRP-RJ.",
@@ -93,11 +113,15 @@
     "id": "aut-leg-crprj-02-2022-006",
     "disciplina": "legislacao",
     "assunto": "leg-crprj-02-2022",
-    "origem": {"tipo": "autoral", "banca": "Claude (autoral)", "fonte": "https://atosoficiais.com.br/crp05/resolucao-n-2-2022-regulamento-da-comissao-de-meios-de-solucao-consensual-de-conflitos-do-conselho-regional-de-psicologia-da-5-regiao-crp-rj"},
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://atosoficiais.com.br/crp05/resolucao-n-2-2022-regulamento-da-comissao-de-meios-de-solucao-consensual-de-conflitos-do-conselho-regional-de-psicologia-da-5-regiao-crp-rj"
+    },
     "enunciado": "Segundo o regulamento aprovado pela Resolução CRP-05 nº 002/2022, entre os requisitos para atuar como mediadora(or) junto à COMSCC estão",
     "alternativas": [
-      "ter graduação há pelo menos dois anos, ser formada(o) em mediação, observados ao menos os parâmetros mínimos do Conselho Nacional de Justiça, e não ter processo ético com penalidade transitada em julgado.",
-      "ser psicóloga(o) com inscrição ativa há pelo menos cinco anos e possuir título de especialista em Psicologia Jurídica.",
+      "ter graduação há pelo menos dois anos, formação em mediação conforme ao menos os parâmetros mínimos do CNJ e não ter processo ético com penalidade transitada em julgado.",
+      "ser psicóloga(o) com inscrição ativa há pelo menos cinco anos, possuir título de especialista em Psicologia Jurídica e não ter processo ético com penalidade transitada em julgado.",
       "ter formação em mediação reconhecida exclusivamente pelo Conselho Federal de Psicologia.",
       "não responder a nenhum processo ético em curso, ainda que sem decisão, e ser conselheira(o) do CRP-RJ.",
       "estar cadastrada(o) como mediadora(or) judicial no Tribunal de Justiça do Rio de Janeiro."
@@ -111,12 +135,16 @@
     "id": "aut-leg-crprj-02-2022-007",
     "disciplina": "legislacao",
     "assunto": "leg-crprj-02-2022",
-    "origem": {"tipo": "autoral", "banca": "Claude (autoral)", "fonte": "https://atosoficiais.com.br/crp05/resolucao-n-2-2022-regulamento-da-comissao-de-meios-de-solucao-consensual-de-conflitos-do-conselho-regional-de-psicologia-da-5-regiao-crp-rj"},
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://atosoficiais.com.br/crp05/resolucao-n-2-2022-regulamento-da-comissao-de-meios-de-solucao-consensual-de-conflitos-do-conselho-regional-de-psicologia-da-5-regiao-crp-rj"
+    },
     "enunciado": "Com a edição da Resolução CRP-05 nº 002/2022, ficou expressamente revogado o",
     "alternativas": [
       "Código de Processamento Disciplinar no âmbito do CRP-RJ.",
       "regulamento da Comissão de Meios de Solução Consensual de Conflitos previsto na Resolução CRP-05 nº 002/2017.",
-      "capítulo da Resolução CFP nº 007/2016 que tratava da câmara de mediação.",
+      "capítulo da Resolução CFP nº 007/2016 que tratava da câmara de mediação nos processos disciplinares-éticos dos Regionais.",
       "Regimento Interno do CRP-RJ, na parte relativa à Comissão de Orientação e Ética.",
       "edital de seleção de mediadores independentes, que passou a ser vedado."
     ],
@@ -129,13 +157,17 @@
     "id": "aut-leg-crprj-02-2022-008",
     "disciplina": "legislacao",
     "assunto": "leg-crprj-02-2022",
-    "origem": {"tipo": "autoral", "banca": "Claude (autoral)", "fonte": "https://atosoficiais.com.br/crp05/resolucao-n-2-2022-regulamento-da-comissao-de-meios-de-solucao-consensual-de-conflitos-do-conselho-regional-de-psicologia-da-5-regiao-crp-rj"},
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://atosoficiais.com.br/crp05/resolucao-n-2-2022-regulamento-da-comissao-de-meios-de-solucao-consensual-de-conflitos-do-conselho-regional-de-psicologia-da-5-regiao-crp-rj"
+    },
     "enunciado": "Sobre a confidencialidade nos procedimentos da COMSCC, o regulamento aprovado pela Resolução CRP-05 nº 002/2022 prevê que",
     "alternativas": [
       "as sessões de mediação são públicas, em respeito ao princípio da publicidade dos atos administrativos.",
       "as sessões devem ser gravadas e as gravações juntadas aos autos do processo disciplinar-ético.",
-      "as mediações se dão em salas que garantam o sigilo, cabendo ao apoio administrativo manter os registros e documentos da Comissão preservando esse sigilo.",
-      "o sigilo pode ser afastado a pedido de qualquer conselheiro da COE para fins de julgamento.",
+      "as mediações ocorrem em salas que garantam o sigilo, cabendo ao apoio administrativo manter os registros e documentos da Comissão sob sigilo.",
+      "o sigilo pode ser afastado a pedido de qualquer conselheiro da Comissão de Orientação e Ética, para fins de julgamento do processo disciplinar-ético.",
       "o sigilo alcança apenas a identidade da psicóloga representada, sendo públicas as demais informações."
     ],
     "gabarito": 2,
@@ -147,7 +179,11 @@
     "id": "aut-leg-crprj-02-2022-009",
     "disciplina": "legislacao",
     "assunto": "leg-crprj-02-2022",
-    "origem": {"tipo": "autoral", "banca": "Claude (autoral)", "fonte": "https://atosoficiais.com.br/crp05/resolucao-n-2-2022-regulamento-da-comissao-de-meios-de-solucao-consensual-de-conflitos-do-conselho-regional-de-psicologia-da-5-regiao-crp-rj"},
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://atosoficiais.com.br/crp05/resolucao-n-2-2022-regulamento-da-comissao-de-meios-de-solucao-consensual-de-conflitos-do-conselho-regional-de-psicologia-da-5-regiao-crp-rj"
+    },
     "enunciado": "Em mediação conduzida pela COMSCC, as partes pedem mais tempo para concluir as tratativas, o que exige a prorrogação do prazo de mediação. Conforme o regulamento aprovado pela Resolução CRP-05 nº 002/2022, esse pedido é apreciado",
     "alternativas": [
       "pelo Plenário do Conselho Federal de Psicologia.",

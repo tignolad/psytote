@@ -3,12 +3,16 @@
     "id": "aut-leg-res05-2025-001",
     "disciplina": "legislacao",
     "assunto": "leg-res05-2025",
-    "origem": {"tipo": "autoral", "banca": "Claude (autoral)", "fonte": "https://www.normasbrasil.com.br/norma/resolucao-5-2025_473928.html"},
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.normasbrasil.com.br/norma/resolucao-5-2025_473928.html"
+    },
     "enunciado": "Segundo a Resolução CFP nº 05/2025, as psicólogas e os psicólogos que atuam como ORIENTADORAS(ES) de estágio em Psicologia devem atender aos seguintes requisitos:",
     "alternativas": [
-      "ter registro ativo no Conselho Regional, ser funcionárias(os) do quadro de pessoal da instituição concedente e ter experiência prática comprovada na área.",
+      "ter registro ativo no Conselho Regional, ser funcionárias(os) do quadro de pessoal da instituição concedente e ter experiência prática comprovada na área em que se propõem a orientar e a avaliar os estagiários do curso.",
       "ter título de especialista concedido pelo CFP, ser integrantes do corpo docente e ter no mínimo três anos de experiência clínica.",
-      "ter registro ativo junto ao órgão de classe de sua região, ser integrantes do corpo docente da instituição de ensino e ter formação, experiência profissional e carga horária compatíveis com as responsabilidades técnicas e éticas do estágio.",
+      "ter registro ativo no órgão de classe de sua região, integrar o corpo docente da instituição de ensino e ter formação, experiência e carga horária compatíveis com as responsabilidades técnicas e éticas do estágio.",
       "ter registro ativo em qualquer Conselho Regional, ser coordenadoras(es) do Serviço-Escola e ter carga horária mínima de 20 horas semanais na instituição.",
       "ter registro ativo junto ao órgão de classe de sua região e vínculo com o agente de integração responsável pelo estágio."
     ],
@@ -21,13 +25,17 @@
     "id": "aut-leg-res05-2025-002",
     "disciplina": "legislacao",
     "assunto": "leg-res05-2025",
-    "origem": {"tipo": "autoral", "banca": "Claude (autoral)", "fonte": "https://www.normasbrasil.com.br/norma/resolucao-5-2025_473928.html"},
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.normasbrasil.com.br/norma/resolucao-5-2025_473928.html"
+    },
     "enunciado": "Um hospital geral firmou convênio para receber estagiários de Psicologia. De acordo com a Resolução CFP nº 05/2025, a psicóloga que atuará como SUPERVISORA desses estágios no hospital deve, entre outros requisitos:",
     "alternativas": [
       "ser funcionária do quadro de pessoal da instituição concedente do estágio e ter experiência prática comprovada na área que se propõe supervisionar.",
       "integrar o corpo docente da instituição de ensino e realizar visitas periódicas ao campo de estágio.",
       "possuir título de especialista em Psicologia Hospitalar registrado no CFP.",
-      "ser contratada pela instituição de ensino como preceptora, com registro ativo em qualquer Conselho Regional.",
+      "ser contratada pela instituição de ensino como preceptora, com registro ativo em qualquer Conselho Regional, e reportar-se ao coordenador do curso de Psicologia.",
       "ter sido indicada pelo agente de integração e possuir pelo menos cinco anos de inscrição no Conselho."
     ],
     "gabarito": 0,
@@ -39,7 +47,11 @@
     "id": "aut-leg-res05-2025-003",
     "disciplina": "legislacao",
     "assunto": "leg-res05-2025",
-    "origem": {"tipo": "autoral", "banca": "Claude (autoral)", "fonte": "https://www.normasbrasil.com.br/norma/resolucao-5-2025_473928.html"},
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.normasbrasil.com.br/norma/resolucao-5-2025_473928.html"
+    },
     "enunciado": "A Resolução CFP nº 05/2025 atribui aos supervisores de estágio o dever de realizar a notificação compulsória e demais comunicações obrigatórias estabelecidas em normativos que ela enumera. NÃO consta dessa enumeração:",
     "alternativas": [
       "a Lei nº 8.069/1990 (Estatuto da Criança e do Adolescente).",
@@ -57,7 +69,11 @@
     "id": "aut-leg-res05-2025-004",
     "disciplina": "legislacao",
     "assunto": "leg-res05-2025",
-    "origem": {"tipo": "autoral", "banca": "Claude (autoral)", "fonte": "https://www.normasbrasil.com.br/norma/resolucao-5-2025_473928.html"},
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.normasbrasil.com.br/norma/resolucao-5-2025_473928.html"
+    },
     "enunciado": "Sobre a comunicação entre orientador e supervisor de estágio, a Resolução CFP nº 05/2025 estabelece que ela deve ser assegurada:",
     "alternativas": [
       "apenas ao final do estágio, por ocasião da avaliação do estagiário.",
@@ -75,7 +91,11 @@
     "id": "aut-leg-res05-2025-005",
     "disciplina": "legislacao",
     "assunto": "leg-res05-2025",
-    "origem": {"tipo": "autoral", "banca": "Claude (autoral)", "fonte": "https://www.normasbrasil.com.br/norma/resolucao-5-2025_473928.html"},
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.normasbrasil.com.br/norma/resolucao-5-2025_473928.html"
+    },
     "enunciado": "Lúcia assumiu a coordenação do Serviço-Escola de Psicologia de uma universidade. De acordo com a Resolução CFP nº 05/2025, NÃO é uma obrigação que a norma atribui a Lúcia, como coordenadora:",
     "alternativas": [
       "informar às(aos) usuárias(os) sobre seu direito de acesso ao prontuário, as modalidades de serviço, os nomes das(os) responsáveis técnicas(os), os horários, as normas do serviço e os custos, se houver.",
@@ -93,7 +113,11 @@
     "id": "aut-leg-res05-2025-006",
     "disciplina": "legislacao",
     "assunto": "leg-res05-2025",
-    "origem": {"tipo": "autoral", "banca": "Claude (autoral)", "fonte": "https://www.normasbrasil.com.br/norma/resolucao-5-2025_473928.html"},
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.normasbrasil.com.br/norma/resolucao-5-2025_473928.html"
+    },
     "enunciado": "No Serviço-Escola, estagiários conduzem semanalmente um grupo terapêutico com oito participantes. Conforme a Resolução CFP nº 05/2025, quanto à documentação desse atendimento grupal regular, os psicólogos responsáveis devem manter:",
     "alternativas": [
       "além dos registros dos atendimentos do grupo, a documentação individual referente a cada usuária(o).",
@@ -111,7 +135,11 @@
     "id": "aut-leg-res05-2025-007",
     "disciplina": "legislacao",
     "assunto": "leg-res05-2025",
-    "origem": {"tipo": "autoral", "banca": "Claude (autoral)", "fonte": "https://www.normasbrasil.com.br/norma/resolucao-5-2025_473928.html"},
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.normasbrasil.com.br/norma/resolucao-5-2025_473928.html"
+    },
     "enunciado": "Analise as afirmativas sobre o prontuário em atividades de estágio, conforme a Resolução CFP nº 05/2025.\n\nI. O prontuário é de acesso irrestrito à(ao) usuária(o) do serviço psicológico ou a terceiro por ela(e) formalmente autorizado.\nII. Os documentos resultantes da aplicação de instrumentos de avaliação psicológica integram obrigatoriamente o prontuário.\nIII. Em serviço multiprofissional, devem ser registradas em prontuário único apenas as informações necessárias ao cumprimento dos objetivos do trabalho.\n\nEstá correto o que se afirma em:",
     "alternativas": [
       "I, apenas.",
@@ -129,14 +157,18 @@
     "id": "aut-leg-res05-2025-008",
     "disciplina": "legislacao",
     "assunto": "leg-res05-2025",
-    "origem": {"tipo": "autoral", "banca": "Claude (autoral)", "fonte": "https://www.normasbrasil.com.br/norma/resolucao-5-2025_473928.html"},
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.normasbrasil.com.br/norma/resolucao-5-2025_473928.html"
+    },
     "enunciado": "Segundo a Resolução CFP nº 05/2025, o período de guarda dos documentos decorrentes da prestação de serviços psicológicos em atividades de estágio deve ser de:",
     "alternativas": [
       "no máximo dois anos, após o que devem ser incinerados.",
-      "no mínimo três anos, contados do encerramento do atendimento, sem possibilidade de ampliação.",
+      "no mínimo três anos, contados do encerramento do atendimento, sem possibilidade de ampliação, salvo determinação judicial expressa em processo envolvendo o usuário.",
       "exatamente cinco anos, vedada a manutenção por prazo superior.",
       "no mínimo dez anos, por se tratar de documentação de instituição de ensino.",
-      "no mínimo cinco anos, podendo ser ampliado nos casos previstos em lei, por determinação judicial ou em casos específicos em que seja necessária a guarda por maior tempo."
+      "no mínimo cinco anos, podendo ser ampliado nos casos previstos em lei, por determinação judicial ou quando for necessária a guarda por maior tempo."
     ],
     "gabarito": 4,
     "comentario": "O art. 18 da Resolução CFP nº 05/2025 fixa que o período de guarda deve ser de, no mínimo, cinco anos, podendo ser ampliado nos casos previstos em lei, por determinação judicial, ou ainda em casos específicos cuja manutenção da guarda seja necessária por maior tempo. Trata-se de prazo mínimo, e não máximo ou exato, e a norma não prevê prazo diferenciado para instituições de ensino.",
@@ -147,14 +179,18 @@
     "id": "aut-leg-res05-2025-009",
     "disciplina": "legislacao",
     "assunto": "leg-res05-2025",
-    "origem": {"tipo": "autoral", "banca": "Claude (autoral)", "fonte": "https://www.normasbrasil.com.br/norma/resolucao-5-2025_473928.html"},
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.normasbrasil.com.br/norma/resolucao-5-2025_473928.html"
+    },
     "enunciado": "Um estagiário elaborou, sob orientação, um relatório psicológico solicitado por uma usuária do Serviço-Escola. Conforme a Resolução CFP nº 05/2025, esse documento deve ser assinado:",
     "alternativas": [
       "apenas pelo estagiário, que o elaborou.",
       "pelo estagiário e pela psicóloga ou psicólogo responsável pela atividade ou, na ausência deste(a), pelo(a) responsável técnico(a).",
       "apenas pelo responsável técnico do Serviço-Escola, vedada a assinatura de estagiários.",
       "pelo estagiário e pelo coordenador do curso de Psicologia.",
-      "pelo estagiário, pelo orientador, pelo supervisor e pelo responsável técnico, cumulativamente."
+      "pelo estagiário, pelo orientador, pelo supervisor e pelo responsável técnico, cumulativamente, sob pena de nulidade do documento entregue à usuária."
     ],
     "gabarito": 1,
     "comentario": "O art. 19 manda observar a Resolução CFP nº 06/2019 na elaboração dos documentos e, em seu parágrafo único, determina que todos os documentos decorrentes de atividades de estágio sejam assinados pela(o) estagiária(o) e pela(o) psicóloga(o) responsável pela atividade ou, na ausência dela(e), pela(o) responsável técnica(o). A assinatura do RT é subsidiária, não cumulativa, e a norma não menciona o coordenador do curso.",
@@ -165,10 +201,14 @@
     "id": "aut-leg-res05-2025-010",
     "disciplina": "legislacao",
     "assunto": "leg-res05-2025",
-    "origem": {"tipo": "autoral", "banca": "Claude (autoral)", "fonte": "https://www.normasbrasil.com.br/norma/resolucao-5-2025_473928.html"},
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.normasbrasil.com.br/norma/resolucao-5-2025_473928.html"
+    },
     "enunciado": "Em um Serviço-Escola, os relatórios de supervisão e as observações e instruções dos orientadores sobre os casos atendidos pelos estagiários, conforme a Resolução CFP nº 05/2025:",
     "alternativas": [
-      "devem ser juntados ao prontuário do usuário, ao qual ele tem acesso irrestrito.",
+      "devem ser juntados ao prontuário do usuário, ao qual ele tem acesso irrestrito, permanecendo à disposição dos Conselhos para fiscalização.",
       "devem ser entregues ao usuário ao final do atendimento, com cópia para a coordenação do curso.",
       "podem ser descartados após a aprovação final do estagiário.",
       "serão compartilhados exclusivamente entre orientadores, supervisores e estagiários, sendo arquivados na pasta de registro documental.",
@@ -183,13 +223,17 @@
     "id": "aut-leg-res05-2025-011",
     "disciplina": "legislacao",
     "assunto": "leg-res05-2025",
-    "origem": {"tipo": "autoral", "banca": "Claude (autoral)", "fonte": "https://www.normasbrasil.com.br/norma/resolucao-5-2025_473928.html"},
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.normasbrasil.com.br/norma/resolucao-5-2025_473928.html"
+    },
     "enunciado": "O Serviço-Escola de uma faculdade pretende adotar prontuário eletrônico. De acordo com a Resolução CFP nº 05/2025, isso é:",
     "alternativas": [
       "vedado, pois o prontuário de estágio deve ser exclusivamente físico.",
       "permitido, desde que haja autorização prévia e específica do Conselho Regional.",
-      "permitido, desde que atenda à Lei Geral de Proteção de Dados (Lei nº 13.709/2018), ao Código de Ética Profissional (Resolução CFP nº 10/2005) e à Resolução CFP nº 01/2009.",
-      "permitido apenas para os registros administrativos, mantendo-se em papel a evolução dos atendimentos.",
+      "permitido, desde que atenda à LGPD (Lei nº 13.709/2018), ao Código de Ética Profissional e à Resolução CFP nº 01/2009.",
+      "permitido apenas para os registros administrativos, mantendo-se em papel a evolução dos atendimentos, conforme a LGPD e a Resolução CFP nº 01/2009.",
       "permitido, desde que cada usuário assine termo renunciando ao acesso irrestrito ao prontuário."
     ],
     "gabarito": 2,
@@ -201,7 +245,11 @@
     "id": "aut-leg-res05-2025-012",
     "disciplina": "legislacao",
     "assunto": "leg-res05-2025",
-    "origem": {"tipo": "autoral", "banca": "Claude (autoral)", "fonte": "https://www.conjur.com.br/wp-content/uploads/2026/02/voto-flavio-fino-psicologia.pdf"},
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.conjur.com.br/wp-content/uploads/2026/02/voto-flavio-fino-psicologia.pdf"
+    },
     "enunciado": "Na ADI 7.911, o Supremo Tribunal Federal referendou medida cautelar que suspendeu parcialmente a Resolução CFP nº 05/2025 (alterada pela Resolução CFP nº 21/2025), por entender que o CFP extrapolou sua competência ao interferir na organização do ensino superior e na autonomia universitária. Entre os dispositivos SUSPENSOS está o que:",
     "alternativas": [
       "exige registro ativo no Conselho Regional para atuar como orientador, supervisor ou coordenador de Serviço-Escola.",
@@ -219,12 +267,16 @@
     "id": "aut-leg-res05-2025-013",
     "disciplina": "legislacao",
     "assunto": "leg-res05-2025",
-    "origem": {"tipo": "autoral", "banca": "Claude (autoral)", "fonte": "https://www.conjur.com.br/wp-content/uploads/2026/02/voto-flavio-fino-psicologia.pdf"},
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.conjur.com.br/wp-content/uploads/2026/02/voto-flavio-fino-psicologia.pdf"
+    },
     "enunciado": "A Resolução CFP nº 05/2025 determinava que a orientação e a supervisão de estágio ocorressem presencialmente. No julgamento cautelar da ADI 7.911, referendado pelo Plenário do STF, essa exigência de presencialidade:",
     "alternativas": [
-      "teve seus efeitos suspensos, por interferir na organização e no funcionamento dos cursos e na autonomia didática das instituições e dos professores.",
+      "teve seus efeitos suspensos, por interferir na organização e no funcionamento dos cursos e na autonomia didática das instituições.",
       "foi mantida, por se tratar de matéria de ética profissional, de competência exclusiva do CFP.",
-      "foi mantida para a supervisão e suspensa apenas para a orientação individual.",
+      "foi mantida para a supervisão, por se tratar de atividade realizada no campo de estágio, e suspensa apenas para a orientação individual conduzida pelo docente.",
       "foi declarada inconstitucional em definitivo, com efeitos retroativos à publicação da resolução.",
       "foi convertida em recomendação, por decisão do próprio CFP, antes do julgamento."
     ],
@@ -237,14 +289,18 @@
     "id": "aut-leg-res05-2025-014",
     "disciplina": "legislacao",
     "assunto": "leg-res05-2025",
-    "origem": {"tipo": "autoral", "banca": "Claude (autoral)", "fonte": "https://www.normasbrasil.com.br/norma/resolucao-5-2025_473928.html"},
+    "origem": {
+      "tipo": "autoral",
+      "banca": "Claude (autoral)",
+      "fonte": "https://www.normasbrasil.com.br/norma/resolucao-5-2025_473928.html"
+    },
     "enunciado": "Conforme a Resolução CFP nº 05/2025, o registro das informações decorrentes de serviços psicológicos que não puder ser mantido, prioritariamente, sob a forma de prontuário psicológico, por razões que envolvam a restrição do compartilhamento de informações com as(os) usuárias(os), deve ser mantido sob a forma de:",
     "alternativas": [
       "relatório psicológico entregue ao usuário.",
-      "registro documental, mantido permanentemente atualizado e organizado pelo psicólogo responsável, em local que garanta sigilo e privacidade.",
+      "registro documental, mantido atualizado e organizado pelo psicólogo responsável, em local que garanta sigilo e privacidade.",
       "laudo psicológico arquivado na secretaria acadêmica.",
       "ata de supervisão assinada apenas pelo estagiário.",
-      "anotação no diário de campo do estagiário, dispensada a guarda institucional."
+      "anotação no diário de campo do estagiário, dispensada a guarda institucional, desde que revisada e rubricada pelo supervisor ao fim do semestre."
     ],
     "gabarito": 1,
     "comentario": "O art. 17 da Resolução CFP nº 05/2025 prevê que, quando o registro não puder ser mantido prioritariamente sob forma de prontuário, por razões que envolvam restrição do compartilhamento de informações com os usuários, ele deve ser mantido sob a forma de registro documental. O § 1º exige que o registro documental seja mantido permanentemente atualizado e organizado pelo psicólogo responsável, em local que garanta sigilo e privacidade. As demais alternativas indicam documentos de outra natureza ou dispensam a guarda.",

@@ -77,7 +77,7 @@
     "enunciado": "Conforme o art. 70-B do ECA, com redação da Lei 14.344/2022, as entidades públicas e privadas que atuem nas áreas da saúde e da educação, entre outras, devem contar, em seus quadros, com pessoas capacitadas a reconhecer e a comunicar ao Conselho Tutelar suspeitas ou casos de crimes praticados contra a criança e o adolescente. Quanto às pessoas encarregadas, por razão de cargo, função ou profissão, do cuidado, assistência ou guarda de crianças e adolescentes, o parágrafo único desse artigo estabelece que",
     "alternativas": [
       "são igualmente responsáveis pela comunicação, sendo punível apenas a omissão dolosa.",
-      "ficam dispensadas da comunicação quando a entidade já possuir pessoa capacitada designada para esse fim.",
+      "ficam dispensadas da comunicação quando a entidade já possuir pessoa capacitada designada para esse fim, a quem devem relatar o caso.",
       "devem comunicar o fato somente à direção da entidade, a quem cabe a comunicação ao Conselho Tutelar.",
       "só respondem pela omissão se tiverem participado da capacitação oferecida pela entidade.",
       "são igualmente responsáveis pela comunicação, sendo punível o injustificado retardamento ou omissão, culposos ou dolosos."
@@ -188,8 +188,8 @@
     "alternativas": [
       "respeitou o ECA, pois a vedação legal se restringe à fotografia e ao nome completo.",
       "respeitou o ECA, pois a vedação se limita aos atos judiciais, não alcançando a imprensa.",
-      "violou o ECA apenas quanto ao bairro, já que a divulgação de iniciais é expressamente permitida.",
-      "violou o ECA, pois a notícia não pode identificar o adolescente, sendo vedada inclusive a referência às iniciais do nome e sobrenome e à residência.",
+      "violou o ECA apenas quanto ao bairro e à escola, já que a divulgação de iniciais é expressamente permitida para preservar o interesse jornalístico da notícia.",
+      "violou o ECA, pois a notícia não pode identificar o adolescente, vedada inclusive a referência às iniciais do nome e sobrenome e à residência.",
       "seria lícita se o adolescente tivesse mais de 16 anos e houvesse autorização dos pais."
     ],
     "gabarito": 3,
@@ -209,8 +209,8 @@
     "enunciado": "Quanto à divulgação de informações sobre criança ou adolescente a quem se atribua ato infracional, o art. 247 do ECA tipifica como infração administrativa divulgar, total ou parcialmente, sem autorização devida, por qualquer meio de comunicação, nome, ato ou documento de procedimento policial, administrativo ou judicial relativo ao caso. Sobre esse dispositivo, assinale a afirmativa correta.",
     "alternativas": [
       "A pena é de detenção de seis meses a dois anos, por se tratar de crime contra a honra da criança ou do adolescente.",
-      "Incorre na mesma pena quem exibe ou transmite imagem, vídeo ou corrente de vídeo de criança ou adolescente envolvido em ato infracional ou outro ato ilícito que lhe seja atribuído, de forma a permitir sua identificação.",
-      "A infração somente se configura se a divulgação for feita por órgão de imprensa ou emissora de rádio e televisão.",
+      "Incorre na mesma pena quem exibe ou transmite imagem, vídeo ou corrente de vídeo de criança ou adolescente envolvido em ato infracional, de forma a permitir sua identificação.",
+      "A infração somente se configura se a divulgação for feita por órgão de imprensa ou emissora de rádio e televisão, hipótese em que a autoridade judiciária pode determinar a suspensão da programação.",
       "A pena é de multa de três a vinte salários de referência, vedada sua aplicação em dobro na reincidência.",
       "A exibição de imagem só é punida quando se tratar de adolescente, não alcançando a criança."
     ],
@@ -252,11 +252,11 @@
     },
     "enunciado": "Durante o pré-natal, uma gestante revela à psicóloga da maternidade que deseja entregar o bebê para adoção. Considerando o art. 13, § 1º, e o art. 258-B do ECA, assinale a afirmativa correta.",
     "alternativas": [
-      "A gestante deve ser encaminhada ao Conselho Tutelar, que decidirá sobre a entrega da criança a família substituta cadastrada.",
+      "A gestante deve ser encaminhada ao Conselho Tutelar, que decidirá sobre a entrega da criança a família substituta cadastrada, e o profissional que se omitir responde pelo crime de detenção previsto no próprio ECA.",
       "A equipe deve tentar dissuadir a gestante e só encaminhá-la à Justiça se mantiver a decisão após o parto.",
       "O encaminhamento à Justiça depende de autorização do genitor, por envolver o poder familiar de ambos os pais.",
       "A omissão no encaminhamento é crime punido com detenção, mas apenas quando praticada por médico.",
-      "A gestante deve ser obrigatoriamente encaminhada, sem constrangimento, à Justiça da Infância e da Juventude, e o médico, enfermeiro ou dirigente do estabelecimento que deixar de efetuar o imediato encaminhamento à autoridade judiciária comete infração administrativa."
+      "A gestante deve ser encaminhada, sem constrangimento, à Justiça da Infância e da Juventude, e o médico, enfermeiro ou dirigente que deixar de fazê-lo de imediato comete infração administrativa."
     ],
     "gabarito": 4,
     "comentario": "Gabarito: E. O art. 13, § 1º, do ECA dispõe que as gestantes ou mães que manifestem interesse em entregar seus filhos para adoção serão obrigatoriamente encaminhadas, sem constrangimento, à Justiça da Infância e da Juventude. O art. 258-B pune com multa de R$ 1.000,00 a R$ 3.000,00 o médico, enfermeiro ou dirigente de estabelecimento de atenção à saúde de gestante que deixar de efetuar imediato encaminhamento à autoridade judiciária, estendendo a pena (parágrafo único) ao funcionário de programa oficial ou comunitário destinado à garantia do direito à convivência familiar.",

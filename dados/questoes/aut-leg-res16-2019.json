@@ -79,7 +79,7 @@
       "deve registrar-se no CRP e recolher anuidade de pessoa jurídica, pois presta serviços de Psicologia.",
       "deve proceder ao cadastramento no CRP, ficando dispensada do pagamento de anuidades, e indicar Responsável Técnica(o) com inscrição ativa e vínculo comprovado.",
       "está dispensada de qualquer inscrição no CRP, pois o dever de registro recai apenas sobre a(o) psicóloga(o) pessoa física.",
-      "deve proceder ao cadastramento no CRP e fica isenta, por força da própria resolução, de quaisquer taxas e emolumentos, bastando indicar psicóloga(o) com inscrição ativa.",
+      "deve proceder ao cadastramento no CRP e fica isenta, por força da própria resolução, de quaisquer taxas e emolumentos.",
       "deve proceder ao cadastramento, mas está dispensada de indicar Responsável Técnica(o), exigência restrita às pessoas jurídicas registradas."
     ],
     "gabarito": 1,
@@ -100,9 +100,9 @@
     "alternativas": [
       "deve comunicar a substituição ao CRP em até sessenta dias corridos, podendo manter os serviços de Psicologia nesse período.",
       "deve comunicar a substituição ao CRP em até quinze dias úteis, sob pena de cancelamento automático do registro.",
-      "pode continuar prestando serviços de Psicologia normalmente, desde que conte com outras(os) psicólogas(os) inscritas(os), dispensada nova indicação até a próxima renovação do Certificado de Registro.",
+      "pode continuar prestando serviços de Psicologia normalmente, desde que conte com outras(os) psicólogas(os) inscritas(os), dispensada nova indicação.",
       "deve comunicar a substituição no momento da renovação do Certificado de Registro.",
-      "deve comunicar a substituição ao CRP em até trinta dias úteis do desligamento e fica proibida de executar serviços de Psicologia enquanto não promover a substituição."
+      "deve comunicar a substituição ao CRP no prazo máximo de trinta dias úteis a contar do desligamento e fica proibida de executar serviços de Psicologia enquanto não promover a substituição."
     ],
     "gabarito": 4,
     "comentario": "O art. 14 impõe à PJ comunicar a substituição do RT ao CRP no prazo máximo de trinta dias úteis a contar do desligamento do anterior, e seu parágrafo único proíbe a execução de serviços de Psicologia enquanto não houver a substituição. As demais alternativas alteram o prazo (A, B, D) ou permitem a continuidade dos serviços sem RT (A, C), o que a norma veda.",
@@ -212,7 +212,7 @@
       "deve registrar-se como pessoa jurídica e pagar duas anuidades: uma como pessoa física e outra como pessoa jurídica.",
       "deve apenas cadastrar-se, por se tratar de atividade secundária, isento de anuidade.",
       "será registrado no CRP e ficará isento do pagamento como pessoa jurídica, devendo pagar a anuidade como pessoa física.",
-      "deve registrar-se e pagar apenas a anuidade de pessoa jurídica, ficando dispensado da anuidade de pessoa física enquanto mantiver o registro."
+      "deve registrar-se e pagar apenas a anuidade de pessoa jurídica, ficando dispensado da anuidade de pessoa física."
     ],
     "gabarito": 3,
     "comentario": "O parágrafo único do art. 6º estabelece que empresárias(os) individuais serão registradas(os) e isentas(os) do pagamento como pessoa jurídica, devendo pagar a anuidade como pessoa física. Há registro (A e C erram) e apenas uma anuidade, a de pessoa física (B e E erram).",
